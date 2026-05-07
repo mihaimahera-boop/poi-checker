@@ -1,0 +1,119 @@
+{
+  "city": "Severin",
+  "generated_at": "2026-04-23T09:03:27.088Z",
+  "counts": {
+    "total": 6,
+    "schools": 2,
+    "churches": 4
+  },
+  "pois": [
+    {
+      "id": "way/1194866883",
+      "osm_id": 1194866883,
+      "osm_type": "way",
+      "name": "Područna škola Severin",
+      "category": "education",
+      "lat": 45.8532225,
+      "lon": 16.9790883,
+      "tags": {
+        "addr:city": "Severin",
+        "addr:housenumber": "235",
+        "addr:place": "Severin",
+        "addr:postcode": "43274",
+        "amenity": "school",
+        "name": "Područna škola Severin",
+        "operator": "Osnovna škola Ivana Viteza Trnskog",
+        "operator:type": "public",
+        "ref:HR:e-matica": "07-263-001",
+        "website": "http://os-ivt-nova-raca.skole.hr/"
+      }
+    },
+    {
+      "id": "way/1194866884",
+      "osm_id": 1194866884,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.8531416,
+      "lon": 16.9792824,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/473333245",
+      "osm_id": 473333245,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 53.5007098,
+      "lon": 11.7699144,
+      "tags": {
+        "addr:city": "Domsühl",
+        "addr:country": "DE",
+        "addr:housenumber": "19",
+        "addr:postcode": "19374",
+        "addr:street": "Domsühler Straße",
+        "addr:suburb": "Severin",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "lutheran",
+        "operator": "Ev.-Luth. Kirchengemeinde Klinken",
+        "religion": "christian",
+        "wikidata": "Q106559608"
+      }
+    },
+    {
+      "id": "way/773123067",
+      "osm_id": 773123067,
+      "osm_type": "way",
+      "name": "crkva sveti Ivan Krstitelj",
+      "category": "place_of_worship",
+      "lat": 45.8400578,
+      "lon": 16.9661678,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "chapel",
+        "denomination": "roman_catholic",
+        "name": "crkva sveti Ivan Krstitelj",
+        "religion": "christian",
+        "wikimedia_commons": "File:Severin_crkva.jpg"
+      }
+    },
+    {
+      "id": "way/773123071",
+      "osm_id": 773123071,
+      "osm_type": "way",
+      "name": "hram svetog Petra i Pavla",
+      "category": "place_of_worship",
+      "lat": 45.8398512,
+      "lon": 16.9673171,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "church:type": "parish",
+        "denomination": "serbian_orthodox",
+        "diocese": "Mitropolija zagrebačko-ljubljanska",
+        "name": "hram svetog Petra i Pavla",
+        "parish": "Severinska parohija",
+        "religion": "christian",
+        "wikimedia_commons": "File:Pravoslavna crkva u Severinu.jpg"
+      }
+    },
+    {
+      "id": "way/1326056375",
+      "osm_id": 1326056375,
+      "osm_type": "way",
+      "name": "Parohijski dom Severin",
+      "category": "place_of_worship",
+      "lat": 45.8403987,
+      "lon": 16.9669401,
+      "tags": {
+        "building": "presbytery",
+        "denomination": "serbian_orthodox",
+        "name": "Parohijski dom Severin",
+        "religion": "christian"
+      }
+    }
+  ]
+}

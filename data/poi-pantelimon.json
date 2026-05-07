@@ -1,0 +1,473 @@
+{
+  "city": "Pantelimon",
+  "generated_at": "2026-04-23T09:54:22.412Z",
+  "counts": {
+    "total": 26,
+    "schools": 2,
+    "churches": 24
+  },
+  "pois": [
+    {
+      "id": "way/441025662",
+      "osm_id": 441025662,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.4521228,
+      "lon": 26.2052489,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/1457128612",
+      "osm_id": 1457128612,
+      "osm_type": "way",
+      "name": "Academia Copiilor Isteți",
+      "category": "education",
+      "lat": 44.4468499,
+      "lon": 26.2124223,
+      "tags": {
+        "addr:city": "Pantelimon",
+        "addr:housenumber": "3",
+        "addr:postcode": "077145",
+        "addr:street": "Strada Paris",
+        "amenity": "kindergarten",
+        "education": "kindergarten",
+        "name": "Academia Copiilor Isteți",
+        "opening_hours": "Mo-Fr 07:00-19:00",
+        "phone": "+40721500401",
+        "website": "https://www.facebook.com/academiacopiiloristeti/"
+      }
+    },
+    {
+      "id": "node/7774465899",
+      "osm_id": 7774465899,
+      "osm_type": "node",
+      "name": "Biserica Cimitir Pantelimon 2",
+      "category": "place_of_worship",
+      "lat": 44.4515542,
+      "lon": 26.2334621,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica Cimitir Pantelimon 2",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/24719621",
+      "osm_id": 24719621,
+      "osm_type": "way",
+      "name": "Cimitirul Sf. Pantelimon",
+      "category": "place_of_worship",
+      "lat": 44.4580507,
+      "lon": 26.2172614,
+      "tags": {
+        "denomination": "romanian_orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitirul Sf. Pantelimon",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/24725020",
+      "osm_id": 24725020,
+      "osm_type": "way",
+      "name": "Cimitir Pantelimon 2",
+      "category": "place_of_worship",
+      "lat": 44.4530604,
+      "lon": 26.231282,
+      "tags": {
+        "denomination": "romanian_orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitir Pantelimon 2",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/25274712",
+      "osm_id": 25274712,
+      "osm_type": "way",
+      "name": "Cimitirul Ortodox „Mănăstirea Cernica”",
+      "category": "place_of_worship",
+      "lat": 44.4324185,
+      "lon": 26.2556413,
+      "tags": {
+        "addr:city": "Cernica",
+        "addr:postcode": "077035",
+        "denomination": "romanian_orthodox",
+        "heritage": "2",
+        "heritage:operator": "lmi",
+        "is_in:city": "Cernica",
+        "is_in:country": "România",
+        "is_in:county": "Ilfov",
+        "landuse": "cemetery",
+        "name": "Cimitirul Ortodox „Mănăstirea Cernica”",
+        "ref:RO:lmi": "IF-IV-a-B-15300.10",
+        "religion": "christian",
+        "start_date": "1877"
+      }
+    },
+    {
+      "id": "way/25276710",
+      "osm_id": 25276710,
+      "osm_type": "way",
+      "name": "Cimitirul Cernica 2",
+      "category": "place_of_worship",
+      "lat": 44.4432941,
+      "lon": 26.2543317,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitirul Cernica 2",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/240611280",
+      "osm_id": 240611280,
+      "osm_type": "way",
+      "name": "Mănăstirea Cernica",
+      "category": "place_of_worship",
+      "lat": 44.4338648,
+      "lon": 26.2569916,
+      "tags": {
+        "addr:city": "Cernica",
+        "addr:postcode": "077035",
+        "amenity": "monastery",
+        "denomination": "romanian_orthodox",
+        "heritage": "2",
+        "heritage:operator": "lmi",
+        "landuse": "religious",
+        "name": "Mănăstirea Cernica",
+        "ref:RO:lmi": "101751.01",
+        "religion": "christian",
+        "start_date": "1786",
+        "wikidata": "Q18538864",
+        "wikipedia": "ro:Mănăstirea Cernica"
+      }
+    },
+    {
+      "id": "way/288470382",
+      "osm_id": 288470382,
+      "osm_type": "way",
+      "name": "Biserica Catolică",
+      "category": "place_of_worship",
+      "lat": 44.5462771,
+      "lon": 28.327871,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "catholic",
+        "name": "Biserica Catolică",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/360147692",
+      "osm_id": 360147692,
+      "osm_type": "way",
+      "name": "Biserica „Sfântul Nicolae”",
+      "category": "place_of_worship",
+      "lat": 44.4310836,
+      "lon": 26.2554013,
+      "tags": {
+        "addr:city": "Cernica",
+        "addr:postcode": "077035",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "heritage": "2",
+        "heritage:operator": "lmi",
+        "name": "Biserica „Sfântul Nicolae”",
+        "ref:RO:lmi": "IF-II-m-B-15300.08",
+        "religion": "christian",
+        "wikidata": "Q42958471"
+      }
+    },
+    {
+      "id": "way/360149055",
+      "osm_id": 360149055,
+      "osm_type": "way",
+      "name": "Biserica mare „Sfântul Gheorghe”, „Sfânta Schimbare la Față”",
+      "category": "place_of_worship",
+      "lat": 44.4348802,
+      "lon": 26.2590118,
+      "tags": {
+        "addr:city": "Cernica",
+        "addr:postcode": "077035",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "romanian_orthodox",
+        "heritage": "2",
+        "heritage:operator": "lmi",
+        "is_in:city": "Cernica",
+        "is_in:country": "România",
+        "is_in:county": "Ilfov",
+        "name": "Biserica mare „Sfântul Gheorghe”, „Sfânta Schimbare la Față”",
+        "ref:RO:lmi": "IF-II-m-B-15300.01",
+        "religion": "christian",
+        "wikidata": "Q42958326"
+      }
+    },
+    {
+      "id": "way/417058437",
+      "osm_id": 417058437,
+      "osm_type": "way",
+      "name": "Biserica „Sfântul Nicolae\"",
+      "category": "place_of_worship",
+      "lat": 44.596801,
+      "lon": 28.3292639,
+      "tags": {
+        "addr:city": "Runcu",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica „Sfântul Nicolae\"",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/417909615",
+      "osm_id": 417909615,
+      "osm_type": "way",
+      "name": "Biserica „Sfinții Arhangheli Mihail și Gavriil\"",
+      "category": "place_of_worship",
+      "lat": 44.57274,
+      "lon": 28.3866268,
+      "tags": {
+        "addr:city": "Pantelimon de Jos",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica „Sfinții Arhangheli Mihail și Gavriil\"",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/584855037",
+      "osm_id": 584855037,
+      "osm_type": "way",
+      "name": "Biserica „Sfântul Lazăr”",
+      "category": "place_of_worship",
+      "lat": 44.4325271,
+      "lon": 26.2559871,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "heritage": "2",
+        "heritage:operator": "lmi",
+        "name": "Biserica „Sfântul Lazăr”",
+        "ref:RO:lmi": "IF-II-m-B-15300.07",
+        "religion": "christian",
+        "wikidata": "Q42958451"
+      }
+    },
+    {
+      "id": "way/668513622",
+      "osm_id": 668513622,
+      "osm_type": "way",
+      "name": "Biserica Sfinții Arhangheli Mihail și Gavril",
+      "category": "place_of_worship",
+      "lat": 44.4613116,
+      "lon": 26.2188348,
+      "tags": {
+        "addr:city": "Pantelimon",
+        "addr:housenumber": "58",
+        "addr:street": "Strada Tractorului",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica Sfinții Arhangheli Mihail și Gavril",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/709814594",
+      "osm_id": 709814594,
+      "osm_type": "way",
+      "name": "Parohia Sfintii Trei Ierarhi - Pantelimon",
+      "category": "place_of_worship",
+      "lat": 44.4427544,
+      "lon": 26.2557621,
+      "tags": {
+        "addr:housenumber": "7",
+        "addr:postcode": "077145",
+        "addr:street": "Strada Poet George Țărnea",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "email": "parohiatreiierarhi@gmail.com",
+        "name": "Parohia Sfintii Trei Ierarhi - Pantelimon",
+        "opening_hours": "Mo-Su 08:00-18:00",
+        "religion": "christian",
+        "website": "https://parohiatreiierarhi.ro/"
+      }
+    },
+    {
+      "id": "way/740487795",
+      "osm_id": 740487795,
+      "osm_type": "way",
+      "name": "Biserica „Acoperământul Maicii Domnului”",
+      "category": "place_of_worship",
+      "lat": 44.6634368,
+      "lon": 28.3741292,
+      "tags": {
+        "addr:city": "Călugăreni",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica „Acoperământul Maicii Domnului”",
+        "religion": "christian",
+        "start_date": "1914"
+      }
+    },
+    {
+      "id": "way/832768013",
+      "osm_id": 832768013,
+      "osm_type": "way",
+      "name": "Capela cimitirului",
+      "category": "place_of_worship",
+      "lat": 44.4515586,
+      "lon": 26.2332632,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Capela cimitirului",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/861261586",
+      "osm_id": 861261586,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă „Sfântul Nicolae” Pantelimon",
+      "category": "place_of_worship",
+      "lat": 44.4486644,
+      "lon": 26.2061609,
+      "tags": {
+        "addr:city": "Pantelimon",
+        "addr:postcode": "077145",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica Ortodoxă „Sfântul Nicolae” Pantelimon",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1185313133",
+      "osm_id": 1185313133,
+      "osm_type": "way",
+      "name": "Mănăstirea Călugăreni",
+      "category": "place_of_worship",
+      "lat": 44.6633231,
+      "lon": 28.3740851,
+      "tags": {
+        "addr:city": "Călugăreni",
+        "amenity": "monastery",
+        "denomination": "romanian_orthodox",
+        "landuse": "religious",
+        "name": "Mănăstirea Călugăreni",
+        "religion": "christian",
+        "start_date": "2008"
+      }
+    },
+    {
+      "id": "way/1185313138",
+      "osm_id": 1185313138,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.6214245,
+      "lon": 28.3760444,
+      "tags": {
+        "denomination": "romanian_orthodox",
+        "landuse": "religious",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1185313139",
+      "osm_id": 1185313139,
+      "osm_type": "way",
+      "name": "Biserica „Sfântul Nicolae\"",
+      "category": "place_of_worship",
+      "lat": 44.621454,
+      "lon": 28.3759556,
+      "tags": {
+        "addr:city": "Nistorești",
+        "addr:street": "Strada Bisericii",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "heritage": "2",
+        "heritage:operator": "lmi",
+        "name": "Biserica „Sfântul Nicolae\"",
+        "ref:RO:lmi": "CT-II-m-B-02913",
+        "religion": "christian",
+        "start_date": "1896"
+      }
+    },
+    {
+      "id": "way/1185313143",
+      "osm_id": 1185313143,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.596766,
+      "lon": 28.3292704,
+      "tags": {
+        "denomination": "romanian_orthodox",
+        "landuse": "religious",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1185313148",
+      "osm_id": 1185313148,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.5727837,
+      "lon": 28.3865151,
+      "tags": {
+        "denomination": "romanian_orthodox",
+        "landuse": "religious",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1185313157",
+      "osm_id": 1185313157,
+      "osm_type": "way",
+      "name": "Biserica „Sfântul Pantelimon\"",
+      "category": "place_of_worship",
+      "lat": 44.5465078,
+      "lon": 28.3297231,
+      "tags": {
+        "addr:city": "Pantelimon",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica „Sfântul Pantelimon\"",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1309357327",
+      "osm_id": 1309357327,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.4453885,
+      "lon": 26.205935,
+      "tags": {
+        "building": "church"
+      }
+    }
+  ]
+}

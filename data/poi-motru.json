@@ -1,0 +1,345 @@
+{
+  "city": "Motru",
+  "generated_at": "2026-04-23T09:49:06.051Z",
+  "counts": {
+    "total": 22,
+    "schools": 11,
+    "churches": 11
+  },
+  "pois": [
+    {
+      "id": "way/337992469",
+      "osm_id": 337992469,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.8024532,
+      "lon": 22.9748661,
+      "tags": {
+        "building": "kindergarten"
+      }
+    },
+    {
+      "id": "way/337993001",
+      "osm_id": 337993001,
+      "osm_type": "way",
+      "name": "Atelier",
+      "category": "education",
+      "lat": 44.803958,
+      "lon": 22.9709779,
+      "tags": {
+        "building": "school",
+        "name": "Atelier"
+      }
+    },
+    {
+      "id": "way/337993012",
+      "osm_id": 337993012,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.8034496,
+      "lon": 22.9711969,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/338024919",
+      "osm_id": 338024919,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.8056531,
+      "lon": 22.9666181,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/338024924",
+      "osm_id": 338024924,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.8057325,
+      "lon": 22.964791,
+      "tags": {
+        "building": "kindergarten"
+      }
+    },
+    {
+      "id": "way/338024935",
+      "osm_id": 338024935,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.8054817,
+      "lon": 22.9655271,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/576270681",
+      "osm_id": 576270681,
+      "osm_type": "way",
+      "name": "Școala Generală nr. 2 Motru",
+      "category": "education",
+      "lat": 44.805568,
+      "lon": 22.9656551,
+      "tags": {
+        "addr:city": "Motru",
+        "addr:housenumber": "10",
+        "addr:street": "Strada Tineretului",
+        "amenity": "school",
+        "education": "school",
+        "email": "scoala2motru@yahoo.com",
+        "name": "Școala Generală nr. 2 Motru",
+        "phone": "0253410470"
+      }
+    },
+    {
+      "id": "way/576272455",
+      "osm_id": 576272455,
+      "osm_type": "way",
+      "name": "Colegiul Național George Coșbuc",
+      "category": "education",
+      "lat": 44.8058709,
+      "lon": 22.9662279,
+      "tags": {
+        "addr:city": "Motru",
+        "addr:housenumber": "3",
+        "addr:street": "Strada Margaretei",
+        "amenity": "school",
+        "education": "school",
+        "email": "colegiul_motru@yahoo.com",
+        "name": "Colegiul Național George Coșbuc",
+        "phone": "0253410322"
+      }
+    },
+    {
+      "id": "way/581162216",
+      "osm_id": 581162216,
+      "osm_type": "way",
+      "name": "Grădinița Motru",
+      "category": "education",
+      "lat": 44.8058748,
+      "lon": 22.9649029,
+      "tags": {
+        "amenity": "kindergarten",
+        "education": "kindergarten",
+        "name": "Grădinița Motru"
+      }
+    },
+    {
+      "id": "way/581165990",
+      "osm_id": 581165990,
+      "osm_type": "way",
+      "name": "Grădinița cu program prelungit nr. 1 motru",
+      "category": "education",
+      "lat": 44.8025486,
+      "lon": 22.9748517,
+      "tags": {
+        "addr:city": "Motru",
+        "amenity": "kindergarten",
+        "education": "kindergarten",
+        "name": "Grădinița cu program prelungit nr. 1 motru"
+      }
+    },
+    {
+      "id": "way/581896114",
+      "osm_id": 581896114,
+      "osm_type": "way",
+      "name": "Școala Generală nr. 1 Motru",
+      "category": "education",
+      "lat": 44.80356,
+      "lon": 22.9713313,
+      "tags": {
+        "addr:city": "Motru",
+        "addr:street": "Strada Minerului",
+        "amenity": "school",
+        "education": "school",
+        "name": "Școala Generală nr. 1 Motru",
+        "website": "https://www.scoalaunumotru.ro/"
+      }
+    },
+    {
+      "id": "node/2711237788",
+      "osm_id": 2711237788,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.8003347,
+      "lon": 23.0016436,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/2957346905",
+      "osm_id": 2957346905,
+      "osm_type": "node",
+      "name": "Biserica Ortodoxă Motru",
+      "category": "place_of_worship",
+      "lat": 44.8062025,
+      "lon": 22.9809012,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă Motru",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/2957347586",
+      "osm_id": 2957347586,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.8573878,
+      "lon": 22.9833514,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/4184238166",
+      "osm_id": 4184238166,
+      "osm_type": "node",
+      "name": "Biserică",
+      "category": "place_of_worship",
+      "lat": 44.7884973,
+      "lon": 23.0219148,
+      "tags": {
+        "amenity": "place_of_worship",
+        "name": "Biserică",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/292199097",
+      "osm_id": 292199097,
+      "osm_type": "way",
+      "name": "Cimitir",
+      "category": "place_of_worship",
+      "lat": 44.8065295,
+      "lon": 22.9813263,
+      "tags": {
+        "amenity": "grave_yard",
+        "name": "Cimitir",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/337990329",
+      "osm_id": 337990329,
+      "osm_type": "way",
+      "name": "Biserica Catolică Motru",
+      "category": "place_of_worship",
+      "lat": 44.7993396,
+      "lon": 22.9754202,
+      "tags": {
+        "addr:city": "Motru",
+        "addr:street": "Aleea Teilor",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "catholic",
+        "name": "Biserica Catolică Motru",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/338024921",
+      "osm_id": 338024921,
+      "osm_type": "way",
+      "name": "Catedrala Sfânta Treime",
+      "category": "place_of_worship",
+      "lat": 44.8007652,
+      "lon": 22.9688888,
+      "tags": {
+        "addr:city": "Motru",
+        "addr:street": "Strada Eroilor",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Catedrala Sfânta Treime",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/581146911",
+      "osm_id": 581146911,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.7992233,
+      "lon": 22.9754357,
+      "tags": {
+        "denomination": "catholic",
+        "landuse": "religious",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1466830496",
+      "osm_id": 1466830496,
+      "osm_type": "way",
+      "name": "Biserica Betel Motru",
+      "category": "place_of_worship",
+      "lat": 44.8075224,
+      "lon": 22.9606205,
+      "tags": {
+        "addr:city": "Motru",
+        "addr:street": "Strada Constantin Rădulescu Motru",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "evangelical",
+        "name": "Biserica Betel Motru",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1466830497",
+      "osm_id": 1466830497,
+      "osm_type": "way",
+      "name": "Biserica Adventistă Motru",
+      "category": "place_of_worship",
+      "lat": 44.8080493,
+      "lon": 22.9652311,
+      "tags": {
+        "addr:city": "Motru",
+        "addr:street": "Strada Căminelor",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "seventh_day_adventist",
+        "name": "Biserica Adventistă Motru",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1466830498",
+      "osm_id": 1466830498,
+      "osm_type": "way",
+      "name": "Sala Regatului a Martorilor lui Iehova",
+      "category": "place_of_worship",
+      "lat": 44.8063911,
+      "lon": 22.9672192,
+      "tags": {
+        "addr:city": "Motru",
+        "addr:street": "Strada Margaretei",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "jehovahs_witness",
+        "name": "Sala Regatului a Martorilor lui Iehova",
+        "religion": "christian"
+      }
+    }
+  ]
+}

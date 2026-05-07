@@ -1,0 +1,73 @@
+{
+  "city": "Băile Herculane",
+  "generated_at": "2026-04-23T09:24:25.319Z",
+  "counts": {
+    "total": 4,
+    "schools": 0,
+    "churches": 4
+  },
+  "pois": [
+    {
+      "id": "node/1811894973",
+      "osm_id": 1811894973,
+      "osm_type": "node",
+      "name": "Mănăstirea Ortodoxă Nașterea Maicii Domnului",
+      "category": "place_of_worship",
+      "lat": 44.8867895,
+      "lon": 22.4209986,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Mănăstirea Ortodoxă Nașterea Maicii Domnului",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/271690050",
+      "osm_id": 271690050,
+      "osm_type": "way",
+      "name": "Biserica Romano-Catolică",
+      "category": "place_of_worship",
+      "lat": 44.8918946,
+      "lon": 22.4253863,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "catholic",
+        "name": "Biserica Romano-Catolică",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/288817715",
+      "osm_id": 288817715,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.8757582,
+      "lon": 22.4138595,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "chapel",
+        "denomination": "orthodox",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1192614853",
+      "osm_id": 1192614853,
+      "osm_type": "way",
+      "name": "Biserica Schimbarea la Față",
+      "category": "place_of_worship",
+      "lat": 44.8862653,
+      "lon": 22.4228568,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica Schimbarea la Față",
+        "religion": "christian"
+      }
+    }
+  ]
+}

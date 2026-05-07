@@ -1,0 +1,362 @@
+[
+  {
+    "id": "node-5283565479",
+    "name": "Biserica Sf Arhangheli Vulcan (1980)",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.377974,
+    "lng": 23.2968979,
+    "osmType": "node"
+  },
+  {
+    "id": "node-5283565480",
+    "name": "Biserica Duminica Sfinților Români Vulcan (2013)",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.374077,
+    "lng": 23.2929642,
+    "osmType": "node"
+  },
+  {
+    "id": "node-5283565482",
+    "name": "Biserica Duminica Tuturor Sfinților Vulcan (1926)",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.376595,
+    "lng": 23.2851215,
+    "osmType": "node"
+  },
+  {
+    "id": "node-5283565483",
+    "name": "Biserica Romano-Catolică Adormirea Maicii Domnului Vulcan (1900)",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.3765293,
+    "lng": 23.2839073,
+    "osmType": "node"
+  },
+  {
+    "id": "node-5283565484",
+    "name": "Biserica Reformată Vulcan (1937)",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.3756897,
+    "lng": 23.2824501,
+    "osmType": "node"
+  },
+  {
+    "id": "node-5283565486",
+    "name": "Biserica Sfântul Toma Lupeni (1932)",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.3609107,
+    "lng": 23.2464056,
+    "osmType": "node"
+  },
+  {
+    "id": "node-5283565488",
+    "name": "Spitalul Lupeni",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 45.3552234,
+    "lng": 23.217885,
+    "osmType": "node"
+  },
+  {
+    "id": "node-5283576425",
+    "name": "Biserica Romano-Catolică Lupeni (1904)",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.3560466,
+    "lng": 23.2231815,
+    "osmType": "node"
+  },
+  {
+    "id": "node-5283576426",
+    "name": "Biserica Sfintei Femei Mirostite Lupeni (1943)",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.3549933,
+    "lng": 23.2241958,
+    "osmType": "node"
+  },
+  {
+    "id": "node-5283576427",
+    "name": "Biserica Evanghelică Lupeni (1909)",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.3553698,
+    "lng": 23.2217291,
+    "osmType": "node"
+  },
+  {
+    "id": "node-5283576428",
+    "name": "Catedrala Ortodoxă Sfântul Nicolae Lupeni (1935)",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.3560002,
+    "lng": 23.2207273,
+    "osmType": "node"
+  },
+  {
+    "id": "node-5283576429",
+    "name": "Biserica Reformată Lupeni (1921)",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.3545826,
+    "lng": 23.2165647,
+    "osmType": "node"
+  },
+  {
+    "id": "node-5283601838",
+    "name": "Biserica de lemn Toți Sfinții Lupeni (1901)",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.3454131,
+    "lng": 23.1844927,
+    "osmType": "node"
+  },
+  {
+    "id": "node-5283601839",
+    "name": "Biserica Pogorârea Sfântului Duh Lupeni (1935)",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.3449216,
+    "lng": 23.1842807,
+    "osmType": "node"
+  },
+  {
+    "id": "node-10221917021",
+    "name": "Şcoala Gimnazială Nr. 2 Lupeni",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.3499237,
+    "lng": 23.1961947,
+    "osmType": "node"
+  },
+  {
+    "id": "way-300978397",
+    "name": "Grădinița 'Lumea Copiilor'Lupeni",
+    "type": "school",
+    "subcategory": "childcare",
+    "lat": 45.3510993,
+    "lng": 23.2045179,
+    "osmType": "way"
+  },
+  {
+    "id": "way-322248592",
+    "name": "Grădiniță cu Program Normal Nr 2",
+    "type": "school",
+    "subcategory": "childcare",
+    "lat": 45.3473204,
+    "lng": 23.1928185,
+    "osmType": "way"
+  },
+  {
+    "id": "way-749154994",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.3721089,
+    "lng": 23.295673,
+    "osmType": "way"
+  },
+  {
+    "id": "way-749155008",
+    "name": "Liceul Teoretic \"Mihai Viteazul\"",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.3769925,
+    "lng": 23.2910896,
+    "osmType": "way"
+  },
+  {
+    "id": "way-749155026",
+    "name": "Biserica Romnao-Catolică Adormirea Maicii Domnului Vulcan (1900)",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.3765304,
+    "lng": 23.2839117,
+    "osmType": "way"
+  },
+  {
+    "id": "way-749155030",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.3761712,
+    "lng": 23.2844956,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1086975926",
+    "name": "Biserica Sf Nicolae Vulcan (1940)",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.3775965,
+    "lng": 23.2851262,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1111819472",
+    "name": "Catedrala Ortodoxă Sfântul Nicolae Lupeni (1935)",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.3558685,
+    "lng": 23.2207387,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1111819484",
+    "name": "Spitalul Lupeni",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 45.3551469,
+    "lng": 23.2178962,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1111849807",
+    "name": "Grădiniță cu program normal nr. 1",
+    "type": "school",
+    "subcategory": "childcare",
+    "lat": 45.3558387,
+    "lng": 23.2150928,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1111969462",
+    "name": "Biserica Sfintei Femei Mirostite Lupeni (1943)",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.3550013,
+    "lng": 23.2243671,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1113115105",
+    "name": "Școala Generală Nr.3 Lupeni",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.3510049,
+    "lng": 23.2072942,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1113115108",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.3508109,
+    "lng": 23.2070132,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1113115109",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.3508896,
+    "lng": 23.2069454,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1114698427",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "college",
+    "lat": 45.3439439,
+    "lng": 23.2057627,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1114698428",
+    "name": "Grupul Şcolar Industrial Minier Lupeni",
+    "type": "school",
+    "subcategory": "college",
+    "lat": 45.3441248,
+    "lng": 23.206142,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1114698429",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "college",
+    "lat": 45.3443077,
+    "lng": 23.2065237,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1114698430",
+    "name": "Sindicatul Învăţământului Preuniversitar",
+    "type": "school",
+    "subcategory": "college",
+    "lat": 45.3442656,
+    "lng": 23.2053478,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1114698431",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "college",
+    "lat": 45.3446378,
+    "lng": 23.205026,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1114698432",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "college",
+    "lat": 45.3444864,
+    "lng": 23.205148,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1114698433",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "college",
+    "lat": 45.3447124,
+    "lng": 23.2051619,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1114698434",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "college",
+    "lat": 45.344884,
+    "lng": 23.205534,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1114698435",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "college",
+    "lat": 45.3450586,
+    "lng": 23.2059329,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1114698436",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "college",
+    "lat": 45.3451414,
+    "lng": 23.2060927,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1117641801",
+    "name": "Şcoala Gimnazială Nr. 2 Lupeni",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.3498207,
+    "lng": 23.1964025,
+    "osmType": "way"
+  }
+]

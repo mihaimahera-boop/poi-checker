@@ -1,0 +1,338 @@
+{
+  "city": "Otopeni",
+  "generated_at": "2026-04-23T09:52:19.582Z",
+  "counts": {
+    "total": 20,
+    "schools": 13,
+    "churches": 7
+  },
+  "pois": [
+    {
+      "id": "node/1263254336",
+      "osm_id": 1263254336,
+      "osm_type": "node",
+      "name": "Liceul Teoretic Ioan Petrus",
+      "category": "education",
+      "lat": 44.5506929,
+      "lon": 26.0709852,
+      "tags": {
+        "amenity": "school",
+        "name": "Liceul Teoretic Ioan Petrus"
+      }
+    },
+    {
+      "id": "node/4197486664",
+      "osm_id": 4197486664,
+      "osm_type": "node",
+      "name": "Grădinița cu program prelungit nr. 2 Otopeni",
+      "category": "education",
+      "lat": 44.5343495,
+      "lon": 26.0536087,
+      "tags": {
+        "addr:city": "Otopeni",
+        "amenity": "kindergarten",
+        "name": "Grădinița cu program prelungit nr. 2 Otopeni"
+      }
+    },
+    {
+      "id": "node/5145348165",
+      "osm_id": 5145348165,
+      "osm_type": "node",
+      "name": "Școala primară Odăile",
+      "category": "education",
+      "lat": 44.5338252,
+      "lon": 26.0548032,
+      "tags": {
+        "amenity": "school",
+        "name": "Școala primară Odăile"
+      }
+    },
+    {
+      "id": "node/11721978969",
+      "osm_id": 11721978969,
+      "osm_type": "node",
+      "name": "gradinita  nr 3 otopeni",
+      "category": "education",
+      "lat": 44.5448726,
+      "lon": 26.0664229,
+      "tags": {
+        "addr:street": "Strada 1 Mai",
+        "amenity": "school",
+        "name": "gradinita  nr 3 otopeni"
+      }
+    },
+    {
+      "id": "node/11722022069",
+      "osm_id": 11722022069,
+      "osm_type": "node",
+      "name": "Liceu Ioan pEtris",
+      "category": "education",
+      "lat": 44.5507248,
+      "lon": 26.0711212,
+      "tags": {
+        "addr:street": "Strada 23 August",
+        "amenity": "school",
+        "name": "Liceu Ioan pEtris"
+      }
+    },
+    {
+      "id": "node/11722031869",
+      "osm_id": 11722031869,
+      "osm_type": "node",
+      "name": "Gradinita Dupa liceu",
+      "category": "education",
+      "lat": 44.5529242,
+      "lon": 26.08573,
+      "tags": {
+        "amenity": "school",
+        "name": "Gradinita Dupa liceu"
+      }
+    },
+    {
+      "id": "way/49681679",
+      "osm_id": 49681679,
+      "osm_type": "way",
+      "name": "Liceul Teoretic Ioan Petrus",
+      "category": "education",
+      "lat": 44.5504469,
+      "lon": 26.0709255,
+      "tags": {
+        "addr:city": "Otopeni",
+        "addr:housenumber": "4",
+        "addr:postcode": "075100",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada 23 August",
+        "amenity": "school",
+        "name": "Liceul Teoretic Ioan Petrus"
+      }
+    },
+    {
+      "id": "way/259171705",
+      "osm_id": 259171705,
+      "osm_type": "way",
+      "name": "Liceul Teoretic Ioan Petruș - Corp 1",
+      "category": "education",
+      "lat": 44.5504793,
+      "lon": 26.0708389,
+      "tags": {
+        "addr:city": "Otopeni",
+        "building": "school",
+        "name": "Liceul Teoretic Ioan Petruș - Corp 1"
+      }
+    },
+    {
+      "id": "way/376534192",
+      "osm_id": 376534192,
+      "osm_type": "way",
+      "name": "Liceul Teoretic Ioan Petruș - Corp 2",
+      "category": "education",
+      "lat": 44.5509386,
+      "lon": 26.0709345,
+      "tags": {
+        "building": "school",
+        "building:levels": "1",
+        "name": "Liceul Teoretic Ioan Petruș - Corp 2",
+        "roof:levels": "2",
+        "roof:shape": "gabled"
+      }
+    },
+    {
+      "id": "way/938438101",
+      "osm_id": 938438101,
+      "osm_type": "way",
+      "name": "Grădinița Happy Land A",
+      "category": "education",
+      "lat": 44.582977,
+      "lon": 26.0737515,
+      "tags": {
+        "addr:city": "Otopeni",
+        "addr:housenumber": "26",
+        "addr:postcode": "075100",
+        "addr:street": "Strada Ferme A",
+        "building": "kindergarten",
+        "name": "Grădinița Happy Land A",
+        "website": "https://happyland.ro/"
+      }
+    },
+    {
+      "id": "way/1073541452",
+      "osm_id": 1073541452,
+      "osm_type": "way",
+      "name": "Academia Națională de Informații",
+      "category": "education",
+      "lat": 44.5292583,
+      "lon": 26.0440848,
+      "tags": {
+        "amenity": "college",
+        "name": "Academia Națională de Informații",
+        "name:en": "National Intelligence Academy",
+        "wikidata": "Q18537218",
+        "wikipedia": "ro:Academia Națională de Informații (România)"
+      }
+    },
+    {
+      "id": "way/1088924735",
+      "osm_id": 1088924735,
+      "osm_type": "way",
+      "name": "Grădinița Fly Kids Paradise",
+      "category": "education",
+      "lat": 44.581462,
+      "lon": 26.0748556,
+      "tags": {
+        "addr:city": "Otopeni",
+        "addr:housenumber": "12B",
+        "addr:postcode": "075100",
+        "addr:street": "Strada Ferme G",
+        "building": "kindergarten",
+        "name": "Grădinița Fly Kids Paradise",
+        "name:ro": "Grădinița și creșa FKP Otopeni",
+        "website": "https://flykids-paradise.ro/"
+      }
+    },
+    {
+      "id": "way/1101619972",
+      "osm_id": 1101619972,
+      "osm_type": "way",
+      "name": "Grădinița Happy Land D",
+      "category": "education",
+      "lat": 44.5789846,
+      "lon": 26.0724674,
+      "tags": {
+        "addr:city": "Otopeni",
+        "addr:housenumber": "5A1",
+        "addr:postcode": "075100",
+        "addr:street": "Strada Ferme D",
+        "building": "kindergarten",
+        "name": "Grădinița Happy Land D",
+        "website": "https://happyland.ro/"
+      }
+    },
+    {
+      "id": "node/307996645",
+      "osm_id": 307996645,
+      "osm_type": "node",
+      "name": "Biserica Ortodoxă „Sfântul Gheorghe” Otopeni",
+      "category": "place_of_worship",
+      "lat": 44.5523213,
+      "lon": 26.0742977,
+      "tags": {
+        "addr:city": "Otopeni",
+        "addr:street": "Strada Mărgăritarului",
+        "amenity": "place_of_worship",
+        "denomination": "romanian_orthodox",
+        "is_in:country": "România",
+        "is_in:county": "Ilfov",
+        "name": "Biserica Ortodoxă „Sfântul Gheorghe” Otopeni",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/631495391",
+      "osm_id": 631495391,
+      "osm_type": "node",
+      "name": "Biserica Ortodoxă „Sfântul Nicolae” Otopeni",
+      "category": "place_of_worship",
+      "lat": 44.5524067,
+      "lon": 26.0895774,
+      "tags": {
+        "addr:city": "Otopeni",
+        "addr:street": "Strada Bisericii",
+        "amenity": "place_of_worship",
+        "denomination": "romanian_orthodox",
+        "is_in:country": "România",
+        "is_in:county": "Ilfov",
+        "name": "Biserica Ortodoxă „Sfântul Nicolae” Otopeni",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/8770186683",
+      "osm_id": 8770186683,
+      "osm_type": "node",
+      "name": "Capela Creștin-Ortodoxă",
+      "category": "place_of_worship",
+      "lat": 44.571114,
+      "lon": 26.0776525,
+      "tags": {
+        "amenity": "place_of_worship",
+        "check_date": "2023-09-26",
+        "level": "1",
+        "name": "Capela Creștin-Ortodoxă",
+        "religion": "christian",
+        "website": "https://www.bucharestairports.ro/ro/servicii/capel",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "id": "way/27239756",
+      "osm_id": 27239756,
+      "osm_type": "way",
+      "name": "Cimitirul Ortodox Otopeni",
+      "category": "place_of_worship",
+      "lat": 44.5500457,
+      "lon": 26.0794548,
+      "tags": {
+        "denomination": "romanian_orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitirul Ortodox Otopeni",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/49681684",
+      "osm_id": 49681684,
+      "osm_type": "way",
+      "name": "Cimitirul Otopeni",
+      "category": "place_of_worship",
+      "lat": 44.5507643,
+      "lon": 26.0842729,
+      "tags": {
+        "addr:city": "Otopeni",
+        "addr:street": "Strada Belgrad",
+        "denomination": "romanian_orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitirul Otopeni",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/315809724",
+      "osm_id": 315809724,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă \"Sfinții Împărați Constantin și Elena \"",
+      "category": "place_of_worship",
+      "lat": 44.5359213,
+      "lon": 26.0567518,
+      "tags": {
+        "addr:city": "Otopeni",
+        "addr:housenumber": "30",
+        "addr:postcode": "075100",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada George Topârceanu",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica Ortodoxă \"Sfinții Împărați Constantin și Elena \"",
+        "religion": "christian",
+        "start_date": "2010"
+      }
+    },
+    {
+      "id": "way/1171504698",
+      "osm_id": 1171504698,
+      "osm_type": "way",
+      "name": "Cimitir - Sf. Nicolae",
+      "category": "place_of_worship",
+      "lat": 44.5579314,
+      "lon": 26.0942406,
+      "tags": {
+        "addr:city": "Otopeni",
+        "addr:street": "Strada Traian Vuia",
+        "denomination": "orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitir - Sf. Nicolae",
+        "religion": "christian"
+      }
+    }
+  ]
+}

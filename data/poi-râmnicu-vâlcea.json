@@ -1,0 +1,2325 @@
+{
+  "city": "Râmnicu Vâlcea",
+  "generated_at": "2026-04-23T09:19:32.990Z",
+  "counts": {
+    "total": 137,
+    "schools": 74,
+    "churches": 63
+  },
+  "pois": [
+    {
+      "id": "node/1300134506",
+      "osm_id": 1300134506,
+      "osm_type": "node",
+      "name": "Școală Gimnazială Take Ionescu",
+      "category": "education",
+      "lat": 45.1065591,
+      "lon": 24.3639391,
+      "tags": {
+        "addr:city": "Râmnicu Vâlcea",
+        "addr:street": "Calea lui Traian",
+        "alt_name": "Școala cu Ceas",
+        "amenity": "school",
+        "check_date": "2025-09-19",
+        "denomination": "romanian_orthodox",
+        "loc_name": "Școala cu Ceas",
+        "name": "Școală Gimnazială Take Ionescu",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/1439234412",
+      "osm_id": 1439234412,
+      "osm_type": "node",
+      "name": "Colegiul Național Mircea cel Bătrâni",
+      "category": "education",
+      "lat": 45.108656,
+      "lon": 24.3620623,
+      "tags": {
+        "addr:city": "Râmnicu Vâlcea",
+        "amenity": "school",
+        "check_date": "2025-08-11",
+        "denomination": "romanian_orthodox",
+        "name": "Colegiul Național Mircea cel Bătrâni",
+        "name:en": "National College Mircea cel Bătrân",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/1440580303",
+      "osm_id": 1440580303,
+      "osm_type": "node",
+      "name": "Grădinița Traian",
+      "category": "education",
+      "lat": 45.1104951,
+      "lon": 24.3680573,
+      "tags": {
+        "addr:city": "Râmnicu Vâlcea",
+        "addr:housenumber": "1",
+        "addr:street": "Strada Oituz",
+        "amenity": "kindergarten",
+        "check_date": "2025-08-06",
+        "name": "Grădinița Traian",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "id": "node/1440580309",
+      "osm_id": 1440580309,
+      "osm_type": "node",
+      "name": "Școala Gimnazială \"I. Gh. Duca\"",
+      "category": "education",
+      "lat": 45.1113989,
+      "lon": 24.3673769,
+      "tags": {
+        "addr:city": "Râmnicu Vâlcea",
+        "addr:housenumber": "14",
+        "addr:street": "Strada Mărășești",
+        "amenity": "school",
+        "grades": "1-8",
+        "name": "Școala Gimnazială \"I. Gh. Duca\""
+      }
+    },
+    {
+      "id": "node/2050553683",
+      "osm_id": 2050553683,
+      "osm_type": "node",
+      "name": "Liceul Tehnologic General Magheru",
+      "category": "education",
+      "lat": 45.0846152,
+      "lon": 24.3562289,
+      "tags": {
+        "amenity": "school",
+        "check_date": "2025-08-11",
+        "name": "Liceul Tehnologic General Magheru",
+        "name:ro": "Liceul Tehnologic General Magheru"
+      }
+    },
+    {
+      "id": "node/2675659152",
+      "osm_id": 2675659152,
+      "osm_type": "node",
+      "name": "Gradinita cu program prelungit \"Dumbrava Minunata\"",
+      "category": "education",
+      "lat": 45.093732,
+      "lon": 24.3607512,
+      "tags": {
+        "addr:city": "Râmnicu Vâlcea",
+        "addr:street": "Calea lui Traian",
+        "amenity": "kindergarten",
+        "check_date": "2026-03-14",
+        "name": "Gradinita cu program prelungit \"Dumbrava Minunata\""
+      }
+    },
+    {
+      "id": "node/2675696096",
+      "osm_id": 2675696096,
+      "osm_type": "node",
+      "name": "Colegiul Economic",
+      "category": "education",
+      "lat": 45.0952031,
+      "lon": 24.3607453,
+      "tags": {
+        "addr:city": "Râmnicu Vâlcea",
+        "addr:street": "Strada Petrișor",
+        "amenity": "school",
+        "check_date": "2025-10-26",
+        "name": "Colegiul Economic"
+      }
+    },
+    {
+      "id": "node/3629811330",
+      "osm_id": 3629811330,
+      "osm_type": "node",
+      "name": "Grădinița Nr. 5",
+      "category": "education",
+      "lat": 45.1055955,
+      "lon": 24.383628,
+      "tags": {
+        "addr:city": "Goranu",
+        "addr:street": "Strada Straubing",
+        "amenity": "kindergarten",
+        "name": "Grădinița Nr. 5"
+      }
+    },
+    {
+      "id": "node/4704040392",
+      "osm_id": 4704040392,
+      "osm_type": "node",
+      "name": "Clubul Jocuri și Engleză",
+      "category": "education",
+      "lat": 45.0934045,
+      "lon": 24.3601128,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Clubul Jocuri și Engleză",
+        "name:ro": "Clubul Jocuri și Engleză"
+      }
+    },
+    {
+      "id": "node/4705401190",
+      "osm_id": 4705401190,
+      "osm_type": "node",
+      "name": "Școala Generală Râmnicu Vâlcea-Goranu",
+      "category": "education",
+      "lat": 45.1075927,
+      "lon": 24.3880882,
+      "tags": {
+        "addr:city": "Goranu",
+        "addr:street": "Strada Straubing",
+        "amenity": "school",
+        "name": "Școala Generală Râmnicu Vâlcea-Goranu",
+        "name:en": "Elementary School",
+        "name:ro": "Școala Generală Râmnicu Vâlcea-Goranu",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "id": "node/4706472540",
+      "osm_id": 4706472540,
+      "osm_type": "node",
+      "name": "Liceul Tehnologic Ferdinand I",
+      "category": "education",
+      "lat": 45.0947939,
+      "lon": 24.3692946,
+      "tags": {
+        "amenity": "school",
+        "name": "Liceul Tehnologic Ferdinand I",
+        "name:ro": "Liceul Tehnologic Ferdinand I"
+      }
+    },
+    {
+      "id": "node/4718544796",
+      "osm_id": 4718544796,
+      "osm_type": "node",
+      "name": "Universitatea Constantin Brâncoveanu",
+      "category": "education",
+      "lat": 45.1087217,
+      "lon": 24.3735727,
+      "tags": {
+        "addr:city": "Râmnicu Vâlcea",
+        "addr:housenumber": "39",
+        "addr:street": "Bulevardul Nicolae Bălcescu nr.39",
+        "amenity": "school",
+        "check_date": "2023-07-12",
+        "name": "Universitatea Constantin Brâncoveanu"
+      }
+    },
+    {
+      "id": "node/4718575501",
+      "osm_id": 4718575501,
+      "osm_type": "node",
+      "name": "Grădinița nr.2 Ostroveni",
+      "category": "education",
+      "lat": 45.0938785,
+      "lon": 24.3665353,
+      "tags": {
+        "amenity": "kindergarten",
+        "check_date": "2025-12-03",
+        "education": "kindergarten",
+        "name": "Grădinița nr.2 Ostroveni",
+        "name:ro": "Grădinița nr.2 Ostroveni"
+      }
+    },
+    {
+      "id": "node/4718576390",
+      "osm_id": 4718576390,
+      "osm_type": "node",
+      "name": "Universitatea Spiru Haret",
+      "category": "education",
+      "lat": 45.1087987,
+      "lon": 24.3651485,
+      "tags": {
+        "addr:city": "Râmnicu Vâlcea",
+        "addr:street": "Strada General Praporgescu",
+        "amenity": "school",
+        "check_date": "2025-09-19",
+        "denomination": "romanian_orthodox",
+        "name": "Universitatea Spiru Haret",
+        "name:ro": "Universitatea Spiru Haret",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/5984747918",
+      "osm_id": 5984747918,
+      "osm_type": "node",
+      "name": "Școala Generală Copăcelu",
+      "category": "education",
+      "lat": 45.067904,
+      "lon": 24.3103043,
+      "tags": {
+        "addr:city": "Copăcelu",
+        "addr:street": "Strada Copăcelu",
+        "amenity": "school",
+        "denomination": "romanian_orthodox",
+        "name": "Școala Generală Copăcelu",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/6060270133",
+      "osm_id": 6060270133,
+      "osm_type": "node",
+      "name": "Școala Generală Colonie",
+      "category": "education",
+      "lat": 45.0260394,
+      "lon": 24.2787396,
+      "tags": {
+        "addr:city": "Colonie Nuci",
+        "addr:street": "Strada Caporal Hanciu",
+        "amenity": "school",
+        "name": "Școala Generală Colonie",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/8806975569",
+      "osm_id": 8806975569,
+      "osm_type": "node",
+      "name": "Școala Waldorf",
+      "category": "education",
+      "lat": 45.1186511,
+      "lon": 24.3642203,
+      "tags": {
+        "amenity": "school",
+        "check_date": "2025-09-30",
+        "name": "Școala Waldorf"
+      }
+    },
+    {
+      "id": "node/10862757129",
+      "osm_id": 10862757129,
+      "osm_type": "node",
+      "name": "Grădinița Happy Kids",
+      "category": "education",
+      "lat": 45.1056199,
+      "lon": 24.3462121,
+      "tags": {
+        "addr:city": "Râmnicu Vâlcea",
+        "addr:street": "Strada Știrbei Vodă",
+        "amenity": "kindergarten",
+        "name": "Grădinița Happy Kids"
+      }
+    },
+    {
+      "id": "node/10921099413",
+      "osm_id": 10921099413,
+      "osm_type": "node",
+      "name": "Grădinița cu Program Prelungit Ostroveni",
+      "category": "education",
+      "lat": 45.0797364,
+      "lon": 24.3678035,
+      "tags": {
+        "addr:city": "Râmnicu Vâlcea",
+        "addr:postcode": "240042",
+        "addr:street": "Strada Ostroveni",
+        "amenity": "kindergarten",
+        "name": "Grădinița cu Program Prelungit Ostroveni"
+      }
+    },
+    {
+      "id": "node/10923529289",
+      "osm_id": 10923529289,
+      "osm_type": "node",
+      "name": "Grădinița nr.6 Ostroveni",
+      "category": "education",
+      "lat": 45.0920968,
+      "lon": 24.3763121,
+      "tags": {
+        "addr:city": "Râmnicu Vâlcea",
+        "addr:housenumber": "3",
+        "addr:postcode": "240513",
+        "addr:street": "Strada Marin Sorescu",
+        "amenity": "kindergarten",
+        "name": "Grădinița nr.6 Ostroveni"
+      }
+    },
+    {
+      "id": "node/13149483550",
+      "osm_id": 13149483550,
+      "osm_type": "node",
+      "name": "Grădinița Cu Program Prelungit Toți Sfinții",
+      "category": "education",
+      "lat": 45.1056777,
+      "lon": 24.3628424,
+      "tags": {
+        "amenity": "kindergarten",
+        "check_date": "2025-09-17",
+        "name": "Grădinița Cu Program Prelungit Toți Sfinții"
+      }
+    },
+    {
+      "id": "node/13206732322",
+      "osm_id": 13206732322,
+      "osm_type": "node",
+      "name": "Școala Populară De Arte",
+      "category": "education",
+      "lat": 45.1041242,
+      "lon": 24.3671182,
+      "tags": {
+        "amenity": "school",
+        "check_date": "2025-10-10",
+        "name": "Școala Populară De Arte"
+      }
+    },
+    {
+      "id": "node/13257904149",
+      "osm_id": 13257904149,
+      "osm_type": "node",
+      "name": "Grădinița cu Program Prelungit Lizuca",
+      "category": "education",
+      "lat": 45.0976109,
+      "lon": 24.3620101,
+      "tags": {
+        "amenity": "kindergarten",
+        "check_date": "2025-10-26",
+        "name": "Grădinița cu Program Prelungit Lizuca"
+      }
+    },
+    {
+      "id": "node/13622779003",
+      "osm_id": 13622779003,
+      "osm_type": "node",
+      "name": "Grădinița cu program normal nr. 2",
+      "category": "education",
+      "lat": 45.1053024,
+      "lon": 24.37129,
+      "tags": {
+        "addr:housenumber": "27",
+        "addr:street": "Strada Tudor Vladimirescu",
+        "amenity": "kindergarten",
+        "check_date": "2026-03-06",
+        "name": "Grădinița cu program normal nr. 2"
+      }
+    },
+    {
+      "id": "way/119346580",
+      "osm_id": 119346580,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Mihai Eminescu",
+      "category": "education",
+      "lat": 45.0973555,
+      "lon": 24.3719837,
+      "tags": {
+        "addr:city": "Râmnicu Vâlcea",
+        "addr:housenumber": "7",
+        "addr:postcode": "240070",
+        "addr:street": "Strada Luceafărului",
+        "air_conditioning": "yes",
+        "alt_name": "Școala Gimnazială Nr. 10",
+        "amenity": "school",
+        "building": "school",
+        "building:levels": "4",
+        "check_date": "2026-02-28",
+        "denomination": "romanian_orthodox",
+        "email": "sg10vl@yahoo.com",
+        "fee": "no",
+        "grades": "0-8",
+        "internet_access": "yes",
+        "internet_access:fee": "customers",
+        "internet_access:operator": "Telekom",
+        "internet_access:password": "Scoala@%&#",
+        "internet_access:ssid": "TELEKOM_ET0;TELEKOM_ET1;TELEKOM_ET2;TELEKOM_ET3",
+        "name": "Școala Gimnazială Mihai Eminescu",
+        "name:en": "Mihai Eminescu Middle School",
+        "name:ro": "Școala Gimnazială Mihai Eminescu",
+        "operator": "Primăria Municipiului Râmnicu Vâlcea",
+        "phone": "0774 043 880;0350 809 566",
+        "religion": "christian",
+        "website": "https://scoalagimnaziala10vl.ro",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "id": "way/119346591",
+      "osm_id": 119346591,
+      "osm_type": "way",
+      "name": "Școala Gimnazială \"Anton Pann\"",
+      "category": "education",
+      "lat": 45.0922635,
+      "lon": 24.3732926,
+      "tags": {
+        "addr:city": "Râmnicu Vâlcea",
+        "amenity": "school",
+        "building": "school",
+        "check_date": "2025-10-23",
+        "fax": "+40 250 710 078",
+        "name": "Școala Gimnazială \"Anton Pann\""
+      }
+    },
+    {
+      "id": "way/194552399",
+      "osm_id": 194552399,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.0845902,
+      "lon": 24.3563073,
+      "tags": {
+        "addr:city": "Râmnicu Vâlcea",
+        "addr:country": "RO",
+        "addr:housenumber": "43",
+        "addr:postcode": "240011",
+        "addr:street": "Calea lui Traian",
+        "barrier": "gate",
+        "building": "school",
+        "capacity": "957",
+        "contact:email": "ltmagheru@yahoo.com",
+        "contact:fax": "+40 350401628",
+        "contact:phone": "+40 350401627",
+        "isced:level": "secondary education",
+        "website": "https://generalmagheru.ro/",
+        "wheelchair": "yes",
+        "wikimedia_commons": "File:Liceul Tehnologic 'General Magheru', Rm. Valcea.jpg"
+      }
+    },
+    {
+      "id": "way/203170627",
+      "osm_id": 203170627,
+      "osm_type": "way",
+      "name": "Colegiul Național Alexandru Lahovari",
+      "category": "education",
+      "lat": 45.1082902,
+      "lon": 24.364394,
+      "tags": {
+        "addr:housenumber": "19",
+        "addr:street": "Strada General Praporgescu",
+        "amenity": "school",
+        "check_date": "2025-09-19",
+        "name": "Colegiul Național Alexandru Lahovari"
+      }
+    },
+    {
+      "id": "way/311007256",
+      "osm_id": 311007256,
+      "osm_type": "way",
+      "name": "Liceul Tehnologic Forestier Rm. Vâlcea",
+      "category": "education",
+      "lat": 45.117193,
+      "lon": 24.3626399,
+      "tags": {
+        "amenity": "school",
+        "building": "yes",
+        "check_date": "2024-08-20",
+        "name": "Liceul Tehnologic Forestier Rm. Vâlcea",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "id": "way/339982216",
+      "osm_id": 339982216,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.1081062,
+      "lon": 24.3733041,
+      "tags": {
+        "addr:city": "Râmnicu Vâlcea",
+        "addr:housenumber": "26",
+        "addr:postcode": "240599",
+        "addr:street": "Bulevardul Nicolae Bălcescu",
+        "building": "school",
+        "building:levels": "3"
+      }
+    },
+    {
+      "id": "way/339989744",
+      "osm_id": 339989744,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.1053056,
+      "lon": 24.3712768,
+      "tags": {
+        "addr:city": "Râmnicu Vâlcea",
+        "addr:housenumber": "27",
+        "addr:postcode": "240492",
+        "addr:street": "Strada Tudor Vladimirescu",
+        "building": "kindergarten",
+        "building:levels": "1"
+      }
+    },
+    {
+      "id": "way/339989759",
+      "osm_id": 339989759,
+      "osm_type": "way",
+      "name": "Centrul de Perfecționare Geniu și EOD “Panait Donici”",
+      "category": "education",
+      "lat": 45.1057102,
+      "lon": 24.3733381,
+      "tags": {
+        "addr:city": "Râmnicu Vâlcea",
+        "addr:housenumber": "31",
+        "addr:postcode": "240492",
+        "addr:street": "Strada Tudor Vladimirescu",
+        "building": "school",
+        "building:levels": "3",
+        "name": "Centrul de Perfecționare Geniu și EOD “Panait Donici”"
+      }
+    },
+    {
+      "id": "way/339989781",
+      "osm_id": 339989781,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.1056072,
+      "lon": 24.3716839,
+      "tags": {
+        "building": "school",
+        "building:levels": "3"
+      }
+    },
+    {
+      "id": "way/340103805",
+      "osm_id": 340103805,
+      "osm_type": "way",
+      "name": "Liceul Sanitar Antim Ivireanul",
+      "category": "education",
+      "lat": 45.1191993,
+      "lon": 24.3693957,
+      "tags": {
+        "addr:city": "Râmnicu Vâlcea",
+        "addr:housenumber": "19",
+        "addr:postcode": "240263",
+        "addr:street": "Strada Republicii",
+        "amenity": "school",
+        "building": "yes",
+        "check_date": "2025-08-11",
+        "name": "Liceul Sanitar Antim Ivireanul"
+      }
+    },
+    {
+      "id": "way/340111277",
+      "osm_id": 340111277,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.1158595,
+      "lon": 24.3695015,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/340111286",
+      "osm_id": 340111286,
+      "osm_type": "way",
+      "name": "Gradinita cu program prelungit Nord2  Valcea",
+      "category": "education",
+      "lat": 45.117741,
+      "lon": 24.3710448,
+      "tags": {
+        "addr:city": "Râmnicu Vâlcea",
+        "addr:housenumber": "7",
+        "addr:street": "Strada Constantin Brâncuși",
+        "building": "kindergarten",
+        "building:levels": "2",
+        "name": "Gradinita cu program prelungit Nord2  Valcea"
+      }
+    },
+    {
+      "id": "way/340111346",
+      "osm_id": 340111346,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.1154439,
+      "lon": 24.3692184,
+      "tags": {
+        "building": "school",
+        "building:levels": "3"
+      }
+    },
+    {
+      "id": "way/340329323",
+      "osm_id": 340329323,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.093691,
+      "lon": 24.3664685,
+      "tags": {
+        "building": "kindergarten"
+      }
+    },
+    {
+      "id": "way/340977730",
+      "osm_id": 340977730,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.1114004,
+      "lon": 24.3674158,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/341005217",
+      "osm_id": 341005217,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.0937239,
+      "lon": 24.3606363,
+      "tags": {
+        "addr:housenumber": "85",
+        "addr:street": "Calea lui traian",
+        "building": "kindergarten"
+      }
+    },
+    {
+      "id": "way/342352017",
+      "osm_id": 342352017,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.0995619,
+      "lon": 24.3597906,
+      "tags": {
+        "building": "school",
+        "building:levels": "3",
+        "operator": "Ministerul Educației Naționale",
+        "roof:levels": "1",
+        "roof:shape": "gabled"
+      }
+    },
+    {
+      "id": "way/342487304",
+      "osm_id": 342487304,
+      "osm_type": "way",
+      "name": "Liceul Tehnologic \"Căpitan Nicolae Pleșoianu\"",
+      "category": "education",
+      "lat": 45.1003329,
+      "lon": 24.3568285,
+      "tags": {
+        "amenity": "school",
+        "building": "school",
+        "education": "school",
+        "name": "Liceul Tehnologic \"Căpitan Nicolae Pleșoianu\"",
+        "school": "high_school"
+      }
+    },
+    {
+      "id": "way/342691598",
+      "osm_id": 342691598,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.0948884,
+      "lon": 24.3761576,
+      "tags": {
+        "addr:city": "Râmnicu Vâlcea",
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/343203113",
+      "osm_id": 343203113,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.0961628,
+      "lon": 24.3698381,
+      "tags": {
+        "building": "kindergarten"
+      }
+    },
+    {
+      "id": "way/405812622",
+      "osm_id": 405812622,
+      "osm_type": "way",
+      "name": "Grădinița cu Program Prelungit nr. 14",
+      "category": "education",
+      "lat": 45.0952934,
+      "lon": 24.3770182,
+      "tags": {
+        "amenity": "kindergarten",
+        "building": "yes",
+        "check_date": "2026-02-13",
+        "name": "Grădinița cu Program Prelungit nr. 14"
+      }
+    },
+    {
+      "id": "way/445070198",
+      "osm_id": 445070198,
+      "osm_type": "way",
+      "name": "Școala și Poliția de Frontieră",
+      "category": "education",
+      "lat": 45.0396329,
+      "lon": 24.3047058,
+      "tags": {
+        "amenity": "school",
+        "building": "school",
+        "name": "Școala și Poliția de Frontieră",
+        "operator": "before 2004 after 2016"
+      }
+    },
+    {
+      "id": "way/478447814",
+      "osm_id": 478447814,
+      "osm_type": "way",
+      "name": "Școala Generală I-VIII Goranu",
+      "category": "education",
+      "lat": 45.1076218,
+      "lon": 24.3879124,
+      "tags": {
+        "amenity": "school",
+        "building": "yes",
+        "name": "Școala Generală I-VIII Goranu"
+      }
+    },
+    {
+      "id": "way/490839257",
+      "osm_id": 490839257,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.0949512,
+      "lon": 24.360617,
+      "tags": {
+        "amenity": "school",
+        "check_date": "2025-10-26"
+      }
+    },
+    {
+      "id": "way/490840884",
+      "osm_id": 490840884,
+      "osm_type": "way",
+      "name": "Liceul Tehnologic Oltchim",
+      "category": "education",
+      "lat": 45.1079626,
+      "lon": 24.3732457,
+      "tags": {
+        "addr:city": "Râmnicu Vâlcea",
+        "addr:housenumber": "26",
+        "addr:postcode": "240599",
+        "addr:street": "Bulevardul Nicolae Bălcescu",
+        "amenity": "school",
+        "name": "Liceul Tehnologic Oltchim"
+      }
+    },
+    {
+      "id": "way/572837307",
+      "osm_id": 572837307,
+      "osm_type": "way",
+      "name": "Universitatea Constantin Brancoveanu",
+      "category": "education",
+      "lat": 45.1079087,
+      "lon": 24.3745482,
+      "tags": {
+        "amenity": "university",
+        "name": "Universitatea Constantin Brancoveanu"
+      }
+    },
+    {
+      "id": "way/650914032",
+      "osm_id": 650914032,
+      "osm_type": "way",
+      "name": "Școala Gimnazială nr. 4",
+      "category": "education",
+      "lat": 45.096742,
+      "lon": 24.360983,
+      "tags": {
+        "addr:city": "Râmnicu Vâlcea",
+        "addr:street": "Calea lui Traian",
+        "alt_name": "Școala nr. 4",
+        "amenity": "school",
+        "check_date": "2025-10-26",
+        "denomination": "romanian_orthodox",
+        "name": "Școala Gimnazială nr. 4",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/651644512",
+      "osm_id": 651644512,
+      "osm_type": "way",
+      "name": "Seminarul Teologic",
+      "category": "education",
+      "lat": 45.0996098,
+      "lon": 24.3596681,
+      "tags": {
+        "amenity": "school",
+        "name": "Seminarul Teologic"
+      }
+    },
+    {
+      "id": "way/651644518",
+      "osm_id": 651644518,
+      "osm_type": "way",
+      "name": "Liceul Tehnologic „Ferdinand I”",
+      "category": "education",
+      "lat": 45.095037,
+      "lon": 24.3694104,
+      "tags": {
+        "amenity": "school",
+        "name": "Liceul Tehnologic „Ferdinand I”"
+      }
+    },
+    {
+      "id": "way/651644558",
+      "osm_id": 651644558,
+      "osm_type": "way",
+      "name": "Grădinița Ostroveni 1",
+      "category": "education",
+      "lat": 45.0961693,
+      "lon": 24.3698637,
+      "tags": {
+        "addr:city": "Râmnicu Vâlcea",
+        "amenity": "kindergarten",
+        "check_date": "2026-02-24",
+        "name": "Grădinița Ostroveni 1"
+      }
+    },
+    {
+      "id": "way/651912116",
+      "osm_id": 651912116,
+      "osm_type": "way",
+      "name": "Colegiul Energetic",
+      "category": "education",
+      "lat": 45.1211469,
+      "lon": 24.3658819,
+      "tags": {
+        "addr:city": "Râmnicu Vâlcea",
+        "addr:housenumber": "10",
+        "addr:street": "Intrarea Prof. Sergiu Purice",
+        "amenity": "school",
+        "name": "Colegiul Energetic",
+        "website": "https://www.ctevl.ro/"
+      }
+    },
+    {
+      "id": "way/651967410",
+      "osm_id": 651967410,
+      "osm_type": "way",
+      "name": "Școala Gimnazială „I. Gh. Duca”",
+      "category": "education",
+      "lat": 45.1116296,
+      "lon": 24.3674262,
+      "tags": {
+        "addr:city": "Râmnicu Vâlcea",
+        "addr:housenumber": "14",
+        "addr:street": "Strada Mărășești",
+        "amenity": "school",
+        "grades": "1-8",
+        "name": "Școala Gimnazială „I. Gh. Duca”"
+      }
+    },
+    {
+      "id": "way/651967417",
+      "osm_id": 651967417,
+      "osm_type": "way",
+      "name": "Grădinița Traian",
+      "category": "education",
+      "lat": 45.1104617,
+      "lon": 24.367809,
+      "tags": {
+        "addr:city": "Râmnicu Vâlcea",
+        "amenity": "kindergarten",
+        "check_date": "2025-08-06",
+        "name": "Grădinița Traian"
+      }
+    },
+    {
+      "id": "way/652068860",
+      "osm_id": 652068860,
+      "osm_type": "way",
+      "name": "Grădinița Nord 1",
+      "category": "education",
+      "lat": 45.1175315,
+      "lon": 24.365744,
+      "tags": {
+        "amenity": "kindergarten",
+        "check_date": "2025-08-15",
+        "name": "Grădinița Nord 1"
+      }
+    },
+    {
+      "id": "way/652886035",
+      "osm_id": 652886035,
+      "osm_type": "way",
+      "name": "Colegiul Forestier",
+      "category": "education",
+      "lat": 45.1171133,
+      "lon": 24.3618838,
+      "tags": {
+        "addr:city": "Râmnicu Vâlcea",
+        "amenity": "school",
+        "check_date": "2024-08-20",
+        "denomination": "romanian_orthodox",
+        "name": "Colegiul Forestier",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/652890688",
+      "osm_id": 652890688,
+      "osm_type": "way",
+      "name": "Colegiul Național „Matei Basarab”",
+      "category": "education",
+      "lat": 45.1158253,
+      "lon": 24.3676363,
+      "tags": {
+        "addr:city": "Râmnicu Vâlcea",
+        "addr:street": "Strada Henri Coandă",
+        "amenity": "school",
+        "check_date": "2024-03-05",
+        "denomination": "romanian_orthodox",
+        "name": "Colegiul Național „Matei Basarab”",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/652890694",
+      "osm_id": 652890694,
+      "osm_type": "way",
+      "name": "Liceul de Arte „Victor Giuleanu”",
+      "category": "education",
+      "lat": 45.1156909,
+      "lon": 24.3690922,
+      "tags": {
+        "addr:city": "Râmnicu Vâlcea",
+        "addr:street": "Strada Henri Coandă",
+        "alt_name": "Liceul Henri Coandă",
+        "amenity": "school",
+        "denomination": "romanian_orthodox",
+        "name": "Liceul de Arte „Victor Giuleanu”",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/653168150",
+      "osm_id": 653168150,
+      "osm_type": "way",
+      "name": "Grădinița Ostroveni 3",
+      "category": "education",
+      "lat": 45.0953242,
+      "lon": 24.3739146,
+      "tags": {
+        "addr:city": "Râmnicu Vâlcea",
+        "addr:street": "Strada Nicolae Iorga",
+        "amenity": "kindergarten",
+        "check_date": "2025-10-23",
+        "name": "Grădinița Ostroveni 3"
+      }
+    },
+    {
+      "id": "way/653336018",
+      "osm_id": 653336018,
+      "osm_type": "way",
+      "name": "Grădinița Busy Bee",
+      "category": "education",
+      "lat": 45.1065015,
+      "lon": 24.3648525,
+      "tags": {
+        "addr:city": "Râmnicu Vâlcea",
+        "addr:street": "Strada General Praporgescu",
+        "amenity": "kindergarten",
+        "check_date": "2025-09-18",
+        "name": "Grădinița Busy Bee"
+      }
+    },
+    {
+      "id": "way/653340457",
+      "osm_id": 653340457,
+      "osm_type": "way",
+      "name": "Grădinița 1",
+      "category": "education",
+      "lat": 45.1061133,
+      "lon": 24.3645922,
+      "tags": {
+        "addr:city": "Râmnicu Vâlcea",
+        "addr:street": "Strada General Praporgescu",
+        "amenity": "kindergarten",
+        "check_date": "2025-08-06",
+        "name": "Grădinița 1"
+      }
+    },
+    {
+      "id": "way/655884066",
+      "osm_id": 655884066,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.1076155,
+      "lon": 24.3610241,
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "way/810715623",
+      "osm_id": 810715623,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Nr. 5",
+      "category": "education",
+      "lat": 45.1057778,
+      "lon": 24.3717197,
+      "tags": {
+        "addr:city": "Râmnicu Vâlcea",
+        "addr:housenumber": "27",
+        "addr:postcode": "240492",
+        "addr:street": "Strada Tudor Vladimirescu",
+        "amenity": "school",
+        "name": "Școala Gimnazială Nr. 5"
+      }
+    },
+    {
+      "id": "way/951693550",
+      "osm_id": 951693550,
+      "osm_type": "way",
+      "name": "Școala Gimnazială nr. 13",
+      "category": "education",
+      "lat": 45.0951459,
+      "lon": 24.3761006,
+      "tags": {
+        "amenity": "school",
+        "name": "Școala Gimnazială nr. 13"
+      }
+    },
+    {
+      "id": "way/1175252268",
+      "osm_id": 1175252268,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.0796421,
+      "lon": 24.3679415,
+      "tags": {
+        "amenity": "kindergarten"
+      }
+    },
+    {
+      "id": "way/1175538866",
+      "osm_id": 1175538866,
+      "osm_type": "way",
+      "name": "Grădinița Ostroveni 6",
+      "category": "education",
+      "lat": 45.0921185,
+      "lon": 24.3762188,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Grădinița Ostroveni 6"
+      }
+    },
+    {
+      "id": "way/1393360431",
+      "osm_id": 1393360431,
+      "osm_type": "way",
+      "name": "Creșa Goranu",
+      "category": "education",
+      "lat": 45.1242272,
+      "lon": 24.395018,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Creșa Goranu"
+      }
+    },
+    {
+      "id": "way/1484039626",
+      "osm_id": 1484039626,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Mihai Eminescu",
+      "category": "education",
+      "lat": 45.0975182,
+      "lon": 24.3719671,
+      "tags": {
+        "addr:city": "Râmnicu Vâlcea",
+        "addr:housenumber": "7",
+        "addr:postcode": "240070",
+        "addr:street": "Strada Luceafărului",
+        "air_conditioning": "yes",
+        "alt_name": "Școala Gimnazială Nr. 10",
+        "amenity": "school",
+        "area": "yes",
+        "building": "no",
+        "check_date": "2026-02-25",
+        "denomination": "romanian_orthodox",
+        "email": "sg10vl@yahoo.com",
+        "fee": "no",
+        "grades": "0-8",
+        "internet_access": "yes",
+        "internet_access:fee": "customers",
+        "internet_access:operator": "Telekom",
+        "internet_access:password": "Scoala@%&#",
+        "internet_access:ssid": "TELEKOM_ET0;TELEKOM_ET1;TELEKOM_ET2;TELEKOM_ET3",
+        "name": "Școala Gimnazială Mihai Eminescu",
+        "name:en": "Mihai Eminescu Middle School",
+        "name:ro": "Școala Gimnazială Mihai Eminescu",
+        "operator": "Primăria Municipiului Râmnicu Vâlcea",
+        "phone": "0774 043 880;0350 809 566",
+        "religion": "christian",
+        "type": "school",
+        "website": "https://scoalagimnaziala10vl.ro",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "id": "way/1498155483",
+      "osm_id": 1498155483,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.0936376,
+      "lon": 24.3665267,
+      "tags": {
+        "amenity": "kindergarten",
+        "education": "kindergarten"
+      }
+    },
+    {
+      "id": "way/1498155503",
+      "osm_id": 1498155503,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.0952857,
+      "lon": 24.3770671,
+      "tags": {
+        "amenity": "kindergarten",
+        "education": "kindergarten"
+      }
+    },
+    {
+      "id": "way/1499016161",
+      "osm_id": 1499016161,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.0923698,
+      "lon": 24.3733885,
+      "tags": {
+        "amenity": "school",
+        "education": "school"
+      }
+    },
+    {
+      "id": "node/1300134506",
+      "osm_id": 1300134506,
+      "osm_type": "node",
+      "name": "Școală Gimnazială Take Ionescu",
+      "category": "place_of_worship",
+      "lat": 45.1065591,
+      "lon": 24.3639391,
+      "tags": {
+        "addr:city": "Râmnicu Vâlcea",
+        "addr:street": "Calea lui Traian",
+        "alt_name": "Școala cu Ceas",
+        "amenity": "school",
+        "check_date": "2025-09-19",
+        "denomination": "romanian_orthodox",
+        "loc_name": "Școala cu Ceas",
+        "name": "Școală Gimnazială Take Ionescu",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/1439234412",
+      "osm_id": 1439234412,
+      "osm_type": "node",
+      "name": "Colegiul Național Mircea cel Bătrâni",
+      "category": "place_of_worship",
+      "lat": 45.108656,
+      "lon": 24.3620623,
+      "tags": {
+        "addr:city": "Râmnicu Vâlcea",
+        "amenity": "school",
+        "check_date": "2025-08-11",
+        "denomination": "romanian_orthodox",
+        "name": "Colegiul Național Mircea cel Bătrâni",
+        "name:en": "National College Mircea cel Bătrân",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/2455989206",
+      "osm_id": 2455989206,
+      "osm_type": "node",
+      "name": "Cetățuia",
+      "category": "place_of_worship",
+      "lat": 45.1243244,
+      "lon": 24.3616917,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Cetățuia",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/2675756475",
+      "osm_id": 2675756475,
+      "osm_type": "node",
+      "name": "Biserica Sfântul Ioan Botezătorul",
+      "category": "place_of_worship",
+      "lat": 45.0979279,
+      "lon": 24.3633567,
+      "tags": {
+        "addr:city": "Râmnicu Vâlcea",
+        "addr:housename": "100",
+        "addr:street": "Calea lui Traian",
+        "amenity": "place_of_worship",
+        "check_date": "2023-12-30",
+        "denomination": "orthodox",
+        "name": "Biserica Sfântul Ioan Botezătorul",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/2675756496",
+      "osm_id": 2675756496,
+      "osm_type": "node",
+      "name": "Biserica Militară",
+      "category": "place_of_worship",
+      "lat": 45.1056106,
+      "lon": 24.3741137,
+      "tags": {
+        "addr:city": "Râmnicu Vâlcea",
+        "amenity": "place_of_worship",
+        "check_date": "2023-12-30",
+        "denomination": "orthodox",
+        "name": "Biserica Militară",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/3493123834",
+      "osm_id": 3493123834,
+      "osm_type": "node",
+      "name": "Biserică",
+      "category": "place_of_worship",
+      "lat": 45.1004652,
+      "lon": 24.347505,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserică",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/3604891664",
+      "osm_id": 3604891664,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.0997678,
+      "lon": 24.4336244,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/4077717168",
+      "osm_id": 4077717168,
+      "osm_type": "node",
+      "name": "Biserica Sfinții Arhangheli Mihail și Gavril",
+      "category": "place_of_worship",
+      "lat": 45.1057257,
+      "lon": 24.3844523,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Sfinții Arhangheli Mihail și Gavril",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/4368057009",
+      "osm_id": 4368057009,
+      "osm_type": "node",
+      "name": "Biserică",
+      "category": "place_of_worship",
+      "lat": 45.0503408,
+      "lon": 24.3195239,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserică",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/4646048299",
+      "osm_id": 4646048299,
+      "osm_type": "node",
+      "name": "Biserica Adventistă de ziua a Șaptea nr.1",
+      "category": "place_of_worship",
+      "lat": 45.1033011,
+      "lon": 24.3607497,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "seventh_day_adventist",
+        "name": "Biserica Adventistă de ziua a Șaptea nr.1",
+        "name:ro": "Biserica Adventistă de ziua a Șaptea nr.1",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/4646118794",
+      "osm_id": 4646118794,
+      "osm_type": "node",
+      "name": "Biserică luterană",
+      "category": "place_of_worship",
+      "lat": 45.1072516,
+      "lon": 24.3646595,
+      "tags": {
+        "amenity": "place_of_worship",
+        "check_date": "2025-08-06",
+        "denomination": "lutheran",
+        "name": "Biserică luterană",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/4718576390",
+      "osm_id": 4718576390,
+      "osm_type": "node",
+      "name": "Universitatea Spiru Haret",
+      "category": "place_of_worship",
+      "lat": 45.1087987,
+      "lon": 24.3651485,
+      "tags": {
+        "addr:city": "Râmnicu Vâlcea",
+        "addr:street": "Strada General Praporgescu",
+        "amenity": "school",
+        "check_date": "2025-09-19",
+        "denomination": "romanian_orthodox",
+        "name": "Universitatea Spiru Haret",
+        "name:ro": "Universitatea Spiru Haret",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/4720528493",
+      "osm_id": 4720528493,
+      "osm_type": "node",
+      "name": "Biserică",
+      "category": "place_of_worship",
+      "lat": 45.1075706,
+      "lon": 24.3675994,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserică",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/5036107774",
+      "osm_id": 5036107774,
+      "osm_type": "node",
+      "name": "Biserică",
+      "category": "place_of_worship",
+      "lat": 45.1125996,
+      "lon": 24.3233355,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserică",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/5984747918",
+      "osm_id": 5984747918,
+      "osm_type": "node",
+      "name": "Școala Generală Copăcelu",
+      "category": "place_of_worship",
+      "lat": 45.067904,
+      "lon": 24.3103043,
+      "tags": {
+        "addr:city": "Copăcelu",
+        "addr:street": "Strada Copăcelu",
+        "amenity": "school",
+        "denomination": "romanian_orthodox",
+        "name": "Școala Generală Copăcelu",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/6060270133",
+      "osm_id": 6060270133,
+      "osm_type": "node",
+      "name": "Școala Generală Colonie",
+      "category": "place_of_worship",
+      "lat": 45.0260394,
+      "lon": 24.2787396,
+      "tags": {
+        "addr:city": "Colonie Nuci",
+        "addr:street": "Strada Caporal Hanciu",
+        "amenity": "school",
+        "name": "Școala Generală Colonie",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/6275287599",
+      "osm_id": 6275287599,
+      "osm_type": "node",
+      "name": "Biserica Sfântul Gheorghe Copăcelu",
+      "category": "place_of_worship",
+      "lat": 45.0745448,
+      "lon": 24.3341934,
+      "tags": {
+        "amenity": "place_of_worship",
+        "name": "Biserica Sfântul Gheorghe Copăcelu",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/10917512864",
+      "osm_id": 10917512864,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.1023342,
+      "lon": 24.4369171,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/13138234158",
+      "osm_id": 13138234158,
+      "osm_type": "node",
+      "name": "Biserică",
+      "category": "place_of_worship",
+      "lat": 45.1197243,
+      "lon": 24.3731704,
+      "tags": {
+        "amenity": "place_of_worship",
+        "check_date": "2025-09-12",
+        "name": "Biserică",
+        "name:ro": "Biserică",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/119346580",
+      "osm_id": 119346580,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Mihai Eminescu",
+      "category": "place_of_worship",
+      "lat": 45.0973555,
+      "lon": 24.3719837,
+      "tags": {
+        "addr:city": "Râmnicu Vâlcea",
+        "addr:housenumber": "7",
+        "addr:postcode": "240070",
+        "addr:street": "Strada Luceafărului",
+        "air_conditioning": "yes",
+        "alt_name": "Școala Gimnazială Nr. 10",
+        "amenity": "school",
+        "building": "school",
+        "building:levels": "4",
+        "check_date": "2026-02-28",
+        "denomination": "romanian_orthodox",
+        "email": "sg10vl@yahoo.com",
+        "fee": "no",
+        "grades": "0-8",
+        "internet_access": "yes",
+        "internet_access:fee": "customers",
+        "internet_access:operator": "Telekom",
+        "internet_access:password": "Scoala@%&#",
+        "internet_access:ssid": "TELEKOM_ET0;TELEKOM_ET1;TELEKOM_ET2;TELEKOM_ET3",
+        "name": "Școala Gimnazială Mihai Eminescu",
+        "name:en": "Mihai Eminescu Middle School",
+        "name:ro": "Școala Gimnazială Mihai Eminescu",
+        "operator": "Primăria Municipiului Râmnicu Vâlcea",
+        "phone": "0774 043 880;0350 809 566",
+        "religion": "christian",
+        "website": "https://scoalagimnaziala10vl.ro",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "id": "way/199554983",
+      "osm_id": 199554983,
+      "osm_type": "way",
+      "name": "Biserica Toți Sfinții",
+      "category": "place_of_worship",
+      "lat": 45.105899,
+      "lon": 24.3631301,
+      "tags": {
+        "addr:city": "Râmnicu Vâlcea",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "building:levels": "2",
+        "check_date": "2026-01-06",
+        "denomination": "orthodox",
+        "name": "Biserica Toți Sfinții",
+        "religion": "christian",
+        "roof:colour": "black",
+        "roof:shape": "round"
+      }
+    },
+    {
+      "id": "way/339946288",
+      "osm_id": 339946288,
+      "osm_type": "way",
+      "name": "Biserică",
+      "category": "place_of_worship",
+      "lat": 45.1249661,
+      "lon": 24.366327,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "check_date": "2025-08-14",
+        "denomination": "orthodox",
+        "name": "Biserică",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/339989769",
+      "osm_id": 339989769,
+      "osm_type": "way",
+      "name": "Biserica",
+      "category": "place_of_worship",
+      "lat": 45.1055963,
+      "lon": 24.3740906,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "check_date": "2023-12-30",
+        "denomination": "orthodox",
+        "name": "Biserica",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/339989784",
+      "osm_id": 339989784,
+      "osm_type": "way",
+      "name": "Biserica Greco-Catolică Sfânta Rita",
+      "category": "place_of_worship",
+      "lat": 45.1034466,
+      "lon": 24.3751272,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "greek_catholic",
+        "name": "Biserica Greco-Catolică Sfânta Rita",
+        "name_1": "Biserica Greco Catolică",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/340094711",
+      "osm_id": 340094711,
+      "osm_type": "way",
+      "name": "Biserica Spitalului",
+      "category": "place_of_worship",
+      "lat": 45.1181734,
+      "lon": 24.3615597,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "check_date": "2024-08-20",
+        "denomination": "orthodox",
+        "name": "Biserica Spitalului",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/340208963",
+      "osm_id": 340208963,
+      "osm_type": "way",
+      "name": "Biserica Sfântul Gheorghe",
+      "category": "place_of_worship",
+      "lat": 45.1023042,
+      "lon": 24.3657877,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "check_date": "2024-01-04",
+        "denomination": "orthodox",
+        "name": "Biserica Sfântul Gheorghe",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/340329255",
+      "osm_id": 340329255,
+      "osm_type": "way",
+      "name": "Biserică",
+      "category": "place_of_worship",
+      "lat": 45.090649,
+      "lon": 24.3653146,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserică",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/340330484",
+      "osm_id": 340330484,
+      "osm_type": "way",
+      "name": "Arhiepiscopia Râmnicului",
+      "category": "place_of_worship",
+      "lat": 45.1097315,
+      "lon": 24.3604267,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "check_date": "2023-08-01",
+        "denomination": "episcopal",
+        "name": "Arhiepiscopia Râmnicului",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/340330485",
+      "osm_id": 340330485,
+      "osm_type": "way",
+      "name": "Catedrala Episcopală Ortodoxă „Sfântul Nicolae”",
+      "category": "place_of_worship",
+      "lat": 45.1094448,
+      "lon": 24.3605876,
+      "tags": {
+        "addr:city": "Râmnicu Vâlcea",
+        "addr:street": "Strada Carol I",
+        "alt_name": "Catedrala Episcopală Ortodoxă „Sfântul Nicolae” Râmnicu Vâlcea",
+        "amenity": "place_of_worship",
+        "building": "cathedral",
+        "check_date": "2023-08-01",
+        "denomination": "romanian_orthodox",
+        "name": "Catedrala Episcopală Ortodoxă „Sfântul Nicolae”",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/340330498",
+      "osm_id": 340330498,
+      "osm_type": "way",
+      "name": "Biserică",
+      "category": "place_of_worship",
+      "lat": 45.1099028,
+      "lon": 24.3592881,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "name": "Biserică",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/341701896",
+      "osm_id": 341701896,
+      "osm_type": "way",
+      "name": "Biserica Sfânta Parascheva",
+      "category": "place_of_worship",
+      "lat": 45.1037665,
+      "lon": 24.3629654,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Sfânta Parascheva",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/342255460",
+      "osm_id": 342255460,
+      "osm_type": "way",
+      "name": "Biserica Baptistă Speranța",
+      "category": "place_of_worship",
+      "lat": 45.1088888,
+      "lon": 24.3721169,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "check_date": "2025-10-01",
+        "denomination": "baptist",
+        "description": "Programul Slujbelor Religioase – Duminică: 10-12, 18-20 Program de Vară, 17-19 Program de Iarnă.   Joi: Rugăciune 19-20:30 Program de Vară, 18-19:30 Program de Iarnă.   Vineri: Program de Tineret 19-20:30 (actualizat pe 1 Oct 2025)",
+        "email": "sperantavalcea@yahoo.com",
+        "name": "Biserica Baptistă Speranța",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/342257549",
+      "osm_id": 342257549,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.1084346,
+      "lon": 24.3617198,
+      "tags": {
+        "addr:city": "Râmnicu Vâlcea",
+        "addr:street": "Aleea Castanilor",
+        "building": "yes",
+        "building:levels": "5",
+        "denomination": "romanian_orthodox",
+        "religion": "christian",
+        "roof:colour": "brown",
+        "roof:shape": "hipped"
+      }
+    },
+    {
+      "id": "way/342286921",
+      "osm_id": 342286921,
+      "osm_type": "way",
+      "name": "Capelă",
+      "category": "place_of_worship",
+      "lat": 45.0975347,
+      "lon": 24.3633552,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Capelă",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/342286925",
+      "osm_id": 342286925,
+      "osm_type": "way",
+      "name": "Biserica Sfântul Ioan Botezătorul",
+      "category": "place_of_worship",
+      "lat": 45.0978923,
+      "lon": 24.3634056,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "check_date": "2023-12-30",
+        "denomination": "orthodox",
+        "name": "Biserica Sfântul Ioan Botezătorul",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/342290487",
+      "osm_id": 342290487,
+      "osm_type": "way",
+      "name": "Biserica Sfântul Andrei",
+      "category": "place_of_worship",
+      "lat": 45.1004784,
+      "lon": 24.3475908,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Sfântul Andrei",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/342306647",
+      "osm_id": 342306647,
+      "osm_type": "way",
+      "name": "Biserica Penticostală Vestea Bună",
+      "category": "place_of_worship",
+      "lat": 45.1010907,
+      "lon": 24.3712587,
+      "tags": {
+        "addr:city": "Râmnicu Vâlcea",
+        "addr:housenumber": "12",
+        "addr:postcode": "240574",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Gib Mihăescu",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Biserica Penticostală Vestea Bună",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/342456093",
+      "osm_id": 342456093,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă Buna Vestire",
+      "category": "place_of_worship",
+      "lat": 45.1042219,
+      "lon": 24.3654246,
+      "tags": {
+        "addr:city": "Râmnicu Vâlcea",
+        "addr:street": "Scuarul Mircea cel Bătrân",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "building:levels": "2",
+        "check_date": "2025-08-18",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă Buna Vestire",
+        "religion": "christian",
+        "roof:colour": "light_gray",
+        "roof:shape": "hipped"
+      }
+    },
+    {
+      "id": "way/405601783",
+      "osm_id": 405601783,
+      "osm_type": "way",
+      "name": "Cimitir",
+      "category": "place_of_worship",
+      "lat": 45.1062392,
+      "lon": 24.3839357,
+      "tags": {
+        "amenity": "grave_yard",
+        "name": "Cimitir",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/405601794",
+      "osm_id": 405601794,
+      "osm_type": "way",
+      "name": "Biserica Sfânta Treime",
+      "category": "place_of_worship",
+      "lat": 45.1097183,
+      "lon": 24.3768448,
+      "tags": {
+        "addr:city": "Râmnicu Vâlcea",
+        "addr:street": "Strada Oteteleșanu",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "pentecostal",
+        "name": "Biserica Sfânta Treime",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/440296922",
+      "osm_id": 440296922,
+      "osm_type": "way",
+      "name": "Biserica Adventistă",
+      "category": "place_of_worship",
+      "lat": 45.1028297,
+      "lon": 24.3763663,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "check_date": "2023-12-30",
+        "denomination": "seventh_day_adventist",
+        "name": "Biserica Adventistă",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/478447816",
+      "osm_id": 478447816,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă",
+      "category": "place_of_worship",
+      "lat": 45.1026104,
+      "lon": 24.3731737,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/478447817",
+      "osm_id": 478447817,
+      "osm_type": "way",
+      "name": "Biserica Pogorârea Sfântului Duh",
+      "category": "place_of_worship",
+      "lat": 45.1072195,
+      "lon": 24.3799933,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "check_date": "2023-12-29",
+        "denomination": "orthodox",
+        "name": "Biserica Pogorârea Sfântului Duh",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/478447818",
+      "osm_id": 478447818,
+      "osm_type": "way",
+      "name": "Biserica Sfântul Anton de Padova",
+      "category": "place_of_worship",
+      "lat": 45.1040604,
+      "lon": 24.3645078,
+      "tags": {
+        "addr:city": "Râmnicu Vâlcea",
+        "addr:street": "Centrul Civic",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "building:levels": "2",
+        "check_date": "2025-08-06",
+        "denomination": "roman_catholic",
+        "name": "Biserica Sfântul Anton de Padova",
+        "religion": "christian",
+        "roof:colour": "silver",
+        "roof:shape": "hipped"
+      }
+    },
+    {
+      "id": "way/481375938",
+      "osm_id": 481375938,
+      "osm_type": "way",
+      "name": "Biserica spital",
+      "category": "place_of_worship",
+      "lat": 45.107554,
+      "lon": 24.3676362,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica spital",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/490841480",
+      "osm_id": 490841480,
+      "osm_type": "way",
+      "name": "Catedrala Ortodoxă Înălțarea Domnului Ostroveni",
+      "category": "place_of_worship",
+      "lat": 45.0973785,
+      "lon": 24.3744628,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "cathedral",
+        "check_date": "2026-02-22",
+        "denomination": "orthodox",
+        "name": "Catedrala Ortodoxă Înălțarea Domnului Ostroveni",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/504096493",
+      "osm_id": 504096493,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.0745382,
+      "lon": 24.3342656,
+      "tags": {
+        "addr:city": "Copăcelu",
+        "addr:housenumber": "20",
+        "addr:postcode": "240003",
+        "addr:street": "Strada Copăcelu",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/504503865",
+      "osm_id": 504503865,
+      "osm_type": "way",
+      "name": "Biserica fostului Schit Inătești",
+      "category": "place_of_worship",
+      "lat": 45.0996669,
+      "lon": 24.3597826,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "building:levels": "1",
+        "check_date": "2023-12-30",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica fostului Schit Inătești",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/504504414",
+      "osm_id": 504504414,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.1242203,
+      "lon": 24.3617729,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "building:levels": "1",
+        "denomination": "romanian_orthodox",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/639669990",
+      "osm_id": 639669990,
+      "osm_type": "way",
+      "name": "Schitu Troianu",
+      "category": "place_of_worship",
+      "lat": 45.0817742,
+      "lon": 24.3488731,
+      "tags": {
+        "addr:city": "Troian",
+        "addr:street": "Strada Schitu Troianu",
+        "amenity": "place_of_worship",
+        "denomination": "romanian_orthodox",
+        "name": "Schitu Troianu",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/639723617",
+      "osm_id": 639723617,
+      "osm_type": "way",
+      "name": "Episcopia Râmnicului",
+      "category": "place_of_worship",
+      "lat": 45.1097962,
+      "lon": 24.3595909,
+      "tags": {
+        "addr:city": "Râmnicu Vâlcea",
+        "addr:street": "Aleea Castanilor",
+        "amenity": "place_of_worship",
+        "denomination": "romanian_orthodox",
+        "name": "Episcopia Râmnicului",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/650914032",
+      "osm_id": 650914032,
+      "osm_type": "way",
+      "name": "Școala Gimnazială nr. 4",
+      "category": "place_of_worship",
+      "lat": 45.096742,
+      "lon": 24.360983,
+      "tags": {
+        "addr:city": "Râmnicu Vâlcea",
+        "addr:street": "Calea lui Traian",
+        "alt_name": "Școala nr. 4",
+        "amenity": "school",
+        "check_date": "2025-10-26",
+        "denomination": "romanian_orthodox",
+        "name": "Școala Gimnazială nr. 4",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/652886035",
+      "osm_id": 652886035,
+      "osm_type": "way",
+      "name": "Colegiul Forestier",
+      "category": "place_of_worship",
+      "lat": 45.1171133,
+      "lon": 24.3618838,
+      "tags": {
+        "addr:city": "Râmnicu Vâlcea",
+        "amenity": "school",
+        "check_date": "2024-08-20",
+        "denomination": "romanian_orthodox",
+        "name": "Colegiul Forestier",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/652890688",
+      "osm_id": 652890688,
+      "osm_type": "way",
+      "name": "Colegiul Național „Matei Basarab”",
+      "category": "place_of_worship",
+      "lat": 45.1158253,
+      "lon": 24.3676363,
+      "tags": {
+        "addr:city": "Râmnicu Vâlcea",
+        "addr:street": "Strada Henri Coandă",
+        "amenity": "school",
+        "check_date": "2024-03-05",
+        "denomination": "romanian_orthodox",
+        "name": "Colegiul Național „Matei Basarab”",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/652890694",
+      "osm_id": 652890694,
+      "osm_type": "way",
+      "name": "Liceul de Arte „Victor Giuleanu”",
+      "category": "place_of_worship",
+      "lat": 45.1156909,
+      "lon": 24.3690922,
+      "tags": {
+        "addr:city": "Râmnicu Vâlcea",
+        "addr:street": "Strada Henri Coandă",
+        "alt_name": "Liceul Henri Coandă",
+        "amenity": "school",
+        "denomination": "romanian_orthodox",
+        "name": "Liceul de Arte „Victor Giuleanu”",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/653339152",
+      "osm_id": 653339152,
+      "osm_type": "way",
+      "name": "Biserica Sfântul Dumitru",
+      "category": "place_of_worship",
+      "lat": 45.1066353,
+      "lon": 24.3657999,
+      "tags": {
+        "amenity": "place_of_worship",
+        "area": "yes",
+        "check_date": "2025-10-10",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica Sfântul Dumitru",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/654157162",
+      "osm_id": 654157162,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.1042803,
+      "lon": 24.3653221,
+      "tags": {
+        "addr:city": "Râmnicu Vâlcea",
+        "addr:street": "Scuarul Mircea cel Bătrân",
+        "denomination": "romanian_orthodox",
+        "landuse": "religious",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/656676439",
+      "osm_id": 656676439,
+      "osm_type": "way",
+      "name": "Biserica Evanghelică Sfânta Maria",
+      "category": "place_of_worship",
+      "lat": 45.107256,
+      "lon": 24.3646781,
+      "tags": {
+        "addr:city": "Râmnicu Vâlcea",
+        "addr:street": "Strada General Praporgescu",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "building:colour": "yellow",
+        "check_date": "2025-08-06",
+        "denomination": "evangelical_lutheran",
+        "name": "Biserica Evanghelică Sfânta Maria",
+        "religion": "christian",
+        "roof:colour": "grey",
+        "roof:shape": "hipped"
+      }
+    },
+    {
+      "id": "way/761748531",
+      "osm_id": 761748531,
+      "osm_type": "way",
+      "name": "Biserica Sfinți Apostoli Petru și Pavel",
+      "category": "place_of_worship",
+      "lat": 45.1145805,
+      "lon": 24.3636735,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "check_date": "2026-01-06",
+        "denomination": "orthodox",
+        "name": "Biserica Sfinți Apostoli Petru și Pavel",
+        "religion": "christian",
+        "source": "bing"
+      }
+    },
+    {
+      "id": "way/1175256642",
+      "osm_id": 1175256642,
+      "osm_type": "way",
+      "name": "Biserica „Sfântul Gherasim de la Iordan”",
+      "category": "place_of_worship",
+      "lat": 45.0813581,
+      "lon": 24.3702034,
+      "tags": {
+        "addr:city": "Râmnicu Vâlcea",
+        "addr:postcode": "240042",
+        "addr:street": "Strada Ostroveni",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "building:levels": "2",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica „Sfântul Gherasim de la Iordan”",
+        "religion": "christian",
+        "roof:colour": "brown",
+        "roof:levels": "1",
+        "roof:shape": "hipped"
+      }
+    },
+    {
+      "id": "way/1191229765",
+      "osm_id": 1191229765,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.1197259,
+      "lon": 24.3731736,
+      "tags": {
+        "building": "church",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1348201766",
+      "osm_id": 1348201766,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.0503631,
+      "lon": 24.3194897,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "building:material": "brick",
+        "denomination": "romanian_orthodox",
+        "height": "9",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1484039626",
+      "osm_id": 1484039626,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Mihai Eminescu",
+      "category": "place_of_worship",
+      "lat": 45.0975182,
+      "lon": 24.3719671,
+      "tags": {
+        "addr:city": "Râmnicu Vâlcea",
+        "addr:housenumber": "7",
+        "addr:postcode": "240070",
+        "addr:street": "Strada Luceafărului",
+        "air_conditioning": "yes",
+        "alt_name": "Școala Gimnazială Nr. 10",
+        "amenity": "school",
+        "area": "yes",
+        "building": "no",
+        "check_date": "2026-02-25",
+        "denomination": "romanian_orthodox",
+        "email": "sg10vl@yahoo.com",
+        "fee": "no",
+        "grades": "0-8",
+        "internet_access": "yes",
+        "internet_access:fee": "customers",
+        "internet_access:operator": "Telekom",
+        "internet_access:password": "Scoala@%&#",
+        "internet_access:ssid": "TELEKOM_ET0;TELEKOM_ET1;TELEKOM_ET2;TELEKOM_ET3",
+        "name": "Școala Gimnazială Mihai Eminescu",
+        "name:en": "Mihai Eminescu Middle School",
+        "name:ro": "Școala Gimnazială Mihai Eminescu",
+        "operator": "Primăria Municipiului Râmnicu Vâlcea",
+        "phone": "0774 043 880;0350 809 566",
+        "religion": "christian",
+        "type": "school",
+        "website": "https://scoalagimnaziala10vl.ro",
+        "wheelchair": "limited"
+      }
+    }
+  ]
+}

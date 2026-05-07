@@ -1,0 +1,461 @@
+{
+  "city": "Codlea",
+  "generated_at": "2026-04-23T09:40:16.430Z",
+  "counts": {
+    "total": 30,
+    "schools": 20,
+    "churches": 10
+  },
+  "pois": [
+    {
+      "id": "node/1895162525",
+      "osm_id": 1895162525,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7008193,
+      "lon": 25.4378991,
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "node/1895162552",
+      "osm_id": 1895162552,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7005121,
+      "lon": 25.4385857,
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "node/2555165581",
+      "osm_id": 2555165581,
+      "osm_type": "node",
+      "name": "Colegiul Tehnic Simion Mehedinți",
+      "category": "education",
+      "lat": 45.687051,
+      "lon": 25.4516279,
+      "tags": {
+        "amenity": "college",
+        "name": "Colegiul Tehnic Simion Mehedinți"
+      }
+    },
+    {
+      "id": "node/2555165583",
+      "osm_id": 2555165583,
+      "osm_type": "node",
+      "name": "Școala Generală nr. 2",
+      "category": "education",
+      "lat": 45.6910912,
+      "lon": 25.4516456,
+      "tags": {
+        "amenity": "school",
+        "name": "Școala Generală nr. 2"
+      }
+    },
+    {
+      "id": "way/178936139",
+      "osm_id": 178936139,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.700339,
+      "lon": 25.4452678,
+      "tags": {
+        "building": "school",
+        "building:levels": "1"
+      }
+    },
+    {
+      "id": "way/894866589",
+      "osm_id": 894866589,
+      "osm_type": "way",
+      "name": "Liceul Teoretic \"Ioan Pascu\"",
+      "category": "education",
+      "lat": 45.7008795,
+      "lon": 25.4383964,
+      "tags": {
+        "addr:city": "Codlea",
+        "addr:housenumber": "26",
+        "addr:postcode": "505100",
+        "addr:street": "Strada Cloșca",
+        "amenity": "school",
+        "grades": "0-12",
+        "name": "Liceul Teoretic \"Ioan Pascu\""
+      }
+    },
+    {
+      "id": "way/894901346",
+      "osm_id": 894901346,
+      "osm_type": "way",
+      "name": "Școala Gimnazială 3.",
+      "category": "education",
+      "lat": 45.7020881,
+      "lon": 25.4439894,
+      "tags": {
+        "addr:city": "Codlea",
+        "addr:housenumber": "2",
+        "addr:postcode": "505100",
+        "addr:street": "Strada Freziei",
+        "amenity": "school",
+        "check_date": "2025-10-29",
+        "grades": "0-8",
+        "name": "Școala Gimnazială 3."
+      }
+    },
+    {
+      "id": "way/894901347",
+      "osm_id": 894901347,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7019555,
+      "lon": 25.4438401,
+      "tags": {
+        "building": "school",
+        "building:levels": "3"
+      }
+    },
+    {
+      "id": "way/894910280",
+      "osm_id": 894910280,
+      "osm_type": "way",
+      "name": "Scoala Gimnaziala Nr.2",
+      "category": "education",
+      "lat": 45.691184,
+      "lon": 25.4513968,
+      "tags": {
+        "amenity": "school",
+        "grades": "0-8",
+        "name": "Scoala Gimnaziala Nr.2"
+      }
+    },
+    {
+      "id": "way/894948878",
+      "osm_id": 894948878,
+      "osm_type": "way",
+      "name": "Liceul Teoretic german",
+      "category": "education",
+      "lat": 45.6994814,
+      "lon": 25.4448792,
+      "tags": {
+        "amenity": "school",
+        "name": "Liceul Teoretic german"
+      }
+    },
+    {
+      "id": "way/1071429171",
+      "osm_id": 1071429171,
+      "osm_type": "way",
+      "name": "Liceul Teoretic",
+      "category": "education",
+      "lat": 45.7003364,
+      "lon": 25.4453821,
+      "tags": {
+        "amenity": "school",
+        "name": "Liceul Teoretic"
+      }
+    },
+    {
+      "id": "way/1071429172",
+      "osm_id": 1071429172,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.6996246,
+      "lon": 25.4451041,
+      "tags": {
+        "building": "school",
+        "building:levels": "2"
+      }
+    },
+    {
+      "id": "way/1090717435",
+      "osm_id": 1090717435,
+      "osm_type": "way",
+      "name": "Colegiul Tehnic \"Simion Mehedinti\"",
+      "category": "education",
+      "lat": 45.6867416,
+      "lon": 25.4519168,
+      "tags": {
+        "amenity": "school",
+        "name": "Colegiul Tehnic \"Simion Mehedinti\""
+      }
+    },
+    {
+      "id": "way/1090717436",
+      "osm_id": 1090717436,
+      "osm_type": "way",
+      "name": "Colegiul Tehnic \"Simion Mehedinti\"",
+      "category": "education",
+      "lat": 45.6869512,
+      "lon": 25.4512293,
+      "tags": {
+        "amenity": "school",
+        "name": "Colegiul Tehnic \"Simion Mehedinti\""
+      }
+    },
+    {
+      "id": "way/1151911943",
+      "osm_id": 1151911943,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.6979869,
+      "lon": 25.4441388,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/1151911944",
+      "osm_id": 1151911944,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.6979038,
+      "lon": 25.4439126,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/1151911945",
+      "osm_id": 1151911945,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.6977943,
+      "lon": 25.4435538,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/1161583695",
+      "osm_id": 1161583695,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.697705,
+      "lon": 25.4430612,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/1221962694",
+      "osm_id": 1221962694,
+      "osm_type": "way",
+      "name": "Scoala Gimnaziala nr.3 corp Horia",
+      "category": "education",
+      "lat": 45.697824,
+      "lon": 25.4435345,
+      "tags": {
+        "addr:city": "Codlea",
+        "addr:housenumber": "5",
+        "addr:postcode": "505100",
+        "addr:street": "Strada Horia",
+        "building": "school",
+        "building:levels": "2",
+        "layer": "1",
+        "name": "Scoala Gimnaziala nr.3 corp Horia"
+      }
+    },
+    {
+      "id": "way/1481115233",
+      "osm_id": 1481115233,
+      "osm_type": "way",
+      "name": "Sala de sport Scoala Generala 2",
+      "category": "education",
+      "lat": 45.6914632,
+      "lon": 25.451319,
+      "tags": {
+        "addr:city": "13",
+        "addr:postcode": "505100",
+        "addr:street": "Strada Nuferilor",
+        "building": "school",
+        "building:levels": "1",
+        "name": "Sala de sport Scoala Generala 2"
+      }
+    },
+    {
+      "id": "node/1894653360",
+      "osm_id": 1894653360,
+      "osm_type": "node",
+      "name": "Biserica Ortodoxă II Codlea (2007)",
+      "category": "place_of_worship",
+      "lat": 45.6925397,
+      "lon": 25.4458345,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă II Codlea (2007)",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/2446164640",
+      "osm_id": 2446164640,
+      "osm_type": "node",
+      "name": "Biserica Adventistă de ziua a șaptea",
+      "category": "place_of_worship",
+      "lat": 45.6989468,
+      "lon": 25.4484123,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "seventh_day_adventist",
+        "name": "Biserica Adventistă de ziua a șaptea",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/8318023655",
+      "osm_id": 8318023655,
+      "osm_type": "node",
+      "name": "Biserica Ortodoxă IV Codlea",
+      "category": "place_of_worship",
+      "lat": 45.7066492,
+      "lon": 25.4401446,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă IV Codlea",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/10239697337",
+      "osm_id": 10239697337,
+      "osm_type": "node",
+      "name": "Parohia Evanghelică C.A. Codlea",
+      "category": "place_of_worship",
+      "lat": 45.6993028,
+      "lon": 25.4470088,
+      "tags": {
+        "denomination": "lutheran",
+        "name": "Parohia Evanghelică C.A. Codlea",
+        "name:de": "Evangelisches Pfarramt A.B. Zeiden",
+        "office": "religion",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/178933892",
+      "osm_id": 178933892,
+      "osm_type": "way",
+      "name": "Biserica fortificată din Codlea",
+      "category": "place_of_worship",
+      "lat": 45.6998811,
+      "lon": 25.446153,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "lutheran",
+        "historic": "church",
+        "name": "Biserica fortificată din Codlea",
+        "name:de": "Kirchenburg von Zeiden",
+        "name:en": "The Fortified Church of Codlea",
+        "religion": "christian",
+        "tourism": "attraction",
+        "wikidata": "Q18537967",
+        "wikipedia": "ro:Biserica fortificată din Codlea"
+      }
+    },
+    {
+      "id": "way/894901349",
+      "osm_id": 894901349,
+      "osm_type": "way",
+      "name": "Biserica Duminica Tuturor Sfintiilor",
+      "category": "place_of_worship",
+      "lat": 45.6926598,
+      "lon": 25.4458634,
+      "tags": {
+        "addr:city": "Codlea",
+        "addr:street": "Strada Câmpul Alb",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Duminica Tuturor Sfintiilor",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/894901351",
+      "osm_id": 894901351,
+      "osm_type": "way",
+      "name": "Biserica Schimbarea la Fata",
+      "category": "place_of_worship",
+      "lat": 45.6955819,
+      "lon": 25.4499455,
+      "tags": {
+        "addr:city": "Codlea",
+        "addr:street": "Strada Gării",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Schimbarea la Fata",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/894901352",
+      "osm_id": 894901352,
+      "osm_type": "way",
+      "name": "Biserica Acoperamntul Maicii Domnului",
+      "category": "place_of_worship",
+      "lat": 45.7065946,
+      "lon": 25.4400107,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Acoperamntul Maicii Domnului",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/894901353",
+      "osm_id": 894901353,
+      "osm_type": "way",
+      "name": "Biserica Inaltarea Domnului",
+      "category": "place_of_worship",
+      "lat": 45.6952996,
+      "lon": 25.4394474,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica Inaltarea Domnului",
+        "religion": "christian",
+        "start_date": "1783"
+      }
+    },
+    {
+      "id": "way/1075038974",
+      "osm_id": 1075038974,
+      "osm_type": "way",
+      "name": "Biserica Ecumenica",
+      "category": "place_of_worship",
+      "lat": 45.7020211,
+      "lon": 25.4445344,
+      "tags": {
+        "addr:city": "Codlea",
+        "addr:housenumber": "2",
+        "addr:street": "Strada Freziei",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "check_date": "2025-10-29",
+        "denomination": "ecumenical",
+        "name": "Biserica Ecumenica",
+        "name:hu": "Szentháromság-templom",
+        "religion": "christian",
+        "url:miserend": "https://miserend.hu/templom/3180"
+      }
+    }
+  ]
+}

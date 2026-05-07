@@ -1,0 +1,320 @@
+{
+  "city": "Huși",
+  "generated_at": "2026-04-23T09:46:03.425Z",
+  "counts": {
+    "total": 19,
+    "schools": 8,
+    "churches": 11
+  },
+  "pois": [
+    {
+      "id": "node/4991627821",
+      "osm_id": 4991627821,
+      "osm_type": "node",
+      "name": "Grădinița nr.1",
+      "category": "education",
+      "lat": 46.6706666,
+      "lon": 28.0638619,
+      "tags": {
+        "addr:housenumber": "15",
+        "addr:postcode": "735100",
+        "addr:street": "Strada Maior Popovici",
+        "amenity": "kindergarten",
+        "name": "Grădinița nr.1",
+        "name:en": "Kindergarten no.1",
+        "name:ro": "Grădinița nr.1",
+        "opening_hours": "Mo-Fr 07:00-18:00"
+      }
+    },
+    {
+      "id": "node/5180840775",
+      "osm_id": 5180840775,
+      "osm_type": "node",
+      "name": "Colegiul Agricol Dimitrie Cantemir -Huși",
+      "category": "education",
+      "lat": 46.6718473,
+      "lon": 28.047795,
+      "tags": {
+        "amenity": "college",
+        "name": "Colegiul Agricol Dimitrie Cantemir -Huși"
+      }
+    },
+    {
+      "id": "way/208575570",
+      "osm_id": 208575570,
+      "osm_type": "way",
+      "name": "Seminarul Teologic \"Sfântul Ioan Gură de Aur\" Huși",
+      "category": "education",
+      "lat": 46.674996,
+      "lon": 28.0584931,
+      "tags": {
+        "addr:housename": "Seminarul Teologic \"Sfântul Ioan Gură de Aur\" Huși",
+        "amenity": "school",
+        "building": "yes",
+        "designation": "Education",
+        "name": "Seminarul Teologic \"Sfântul Ioan Gură de Aur\" Huși"
+      }
+    },
+    {
+      "id": "way/208575571",
+      "osm_id": 208575571,
+      "osm_type": "way",
+      "name": "Sala de sport a Colegiului Național \"Cuza-Vodă\" Huși",
+      "category": "education",
+      "lat": 46.6750786,
+      "lon": 28.0571222,
+      "tags": {
+        "building": "school",
+        "leisure": "sports_centre",
+        "name": "Sala de sport a Colegiului Național \"Cuza-Vodă\" Huși",
+        "sport": "basketball"
+      }
+    },
+    {
+      "id": "way/208575574",
+      "osm_id": 208575574,
+      "osm_type": "way",
+      "name": "Colegiul Național \"Cuza-Vodă\" Huși",
+      "category": "education",
+      "lat": 46.6749104,
+      "lon": 28.0572367,
+      "tags": {
+        "amenity": "school",
+        "building": "yes",
+        "name": "Colegiul Național \"Cuza-Vodă\" Huși"
+      }
+    },
+    {
+      "id": "way/208575579",
+      "osm_id": 208575579,
+      "osm_type": "way",
+      "name": "Școala cu clasele I-VIII Nr.3 \"Anastasie Panu\" Huși",
+      "category": "education",
+      "lat": 46.6743421,
+      "lon": 28.0564322,
+      "tags": {
+        "addr:housename": "Școala cu clasele I-VIII Nr.3 \"Anastasie Panu\" Huși",
+        "addr:housenumber": "15",
+        "addr:postcode": "735100",
+        "addr:street": "Strada Mihail Kogălniceanu",
+        "amenity": "school",
+        "building": "yes",
+        "name": "Școala cu clasele I-VIII Nr.3 \"Anastasie Panu\" Huși"
+      }
+    },
+    {
+      "id": "way/208575586",
+      "osm_id": 208575586,
+      "osm_type": "way",
+      "name": "Colegiul Național \"Cuza-Vodă\" Huși (corp nou)",
+      "category": "education",
+      "lat": 46.674864,
+      "lon": 28.0558787,
+      "tags": {
+        "addr:housename": "Colegiul Național \"Cuza-Vodă\" Huși",
+        "addr:housenumber": "11",
+        "addr:postcode": "735100",
+        "addr:street": "Strada Mihail Kogălniceanu",
+        "amenity": "school",
+        "building": "yes",
+        "designation": "Education",
+        "name": "Colegiul Național \"Cuza-Vodă\" Huși (corp nou)",
+        "source": "http://lcvhusi.licee.edu.ro"
+      }
+    },
+    {
+      "id": "way/208575590",
+      "osm_id": 208575590,
+      "osm_type": "way",
+      "name": "Liceul Agricol \"Dimitrie Cantemir\" Huși",
+      "category": "education",
+      "lat": 46.6752751,
+      "lon": 28.0578036,
+      "tags": {
+        "amenity": "school",
+        "building": "yes",
+        "name": "Liceul Agricol \"Dimitrie Cantemir\" Huși"
+      }
+    },
+    {
+      "id": "node/1316063171",
+      "osm_id": 1316063171,
+      "osm_type": "node",
+      "name": "Catedrala Episcopală Huși",
+      "category": "place_of_worship",
+      "lat": 46.67665,
+      "lon": 28.05798,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Catedrala Episcopală Huși",
+        "religion": "christian",
+        "source": "jonutzu@gpszone.ro",
+        "tourism": "attraction",
+        "wikidata": "Q12723692",
+        "wikipedia": "ro:Catedrala Episcopală din Huși"
+      }
+    },
+    {
+      "id": "node/1316063366",
+      "osm_id": 1316063366,
+      "osm_type": "node",
+      "name": "Mănăstirea Schimbarea la Față",
+      "category": "place_of_worship",
+      "lat": 46.67281,
+      "lon": 28.02129,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Mănăstirea Schimbarea la Față",
+        "religion": "christian",
+        "source": "jonutzu@gpszone.ro"
+      }
+    },
+    {
+      "id": "node/4865156295",
+      "osm_id": 4865156295,
+      "osm_type": "node",
+      "name": "Biserică",
+      "category": "place_of_worship",
+      "lat": 46.6659366,
+      "lon": 28.0710705,
+      "tags": {
+        "amenity": "place_of_worship",
+        "name": "Biserică",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/4865669436",
+      "osm_id": 4865669436,
+      "osm_type": "node",
+      "name": "Biserica Sfântul Dumitru",
+      "category": "place_of_worship",
+      "lat": 46.672389,
+      "lon": 28.0689999,
+      "tags": {
+        "addr:city": "Huși",
+        "addr:street": "Strada Ștefan cel Mare",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica Sfântul Dumitru",
+        "name:pl": "Cerkiew św. Dymitra",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/5180594553",
+      "osm_id": 5180594553,
+      "osm_type": "node",
+      "name": "Biserică",
+      "category": "place_of_worship",
+      "lat": 46.6736845,
+      "lon": 28.0568337,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserică",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/5189211102",
+      "osm_id": 5189211102,
+      "osm_type": "node",
+      "name": "Biserică",
+      "category": "place_of_worship",
+      "lat": 46.6739689,
+      "lon": 28.0522026,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserică",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/5215729272",
+      "osm_id": 5215729272,
+      "osm_type": "node",
+      "name": "Biserica Sfântul Gheorghe",
+      "category": "place_of_worship",
+      "lat": 46.6706869,
+      "lon": 28.0652726,
+      "tags": {
+        "addr:city": "Huși",
+        "addr:postcode": "735100",
+        "addr:street": "Strada Sfântul Gheorghe",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica Sfântul Gheorghe",
+        "name:pl": "Cerkiew św. Jerzego",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/10855406377",
+      "osm_id": 10855406377,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 46.6773576,
+      "lon": 28.0220294,
+      "tags": {
+        "amenity": "place_of_worship",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1029062438",
+      "osm_id": 1029062438,
+      "osm_type": "way",
+      "name": "Cimitirul Catolic Husi",
+      "category": "place_of_worship",
+      "lat": 46.6907166,
+      "lon": 28.0577617,
+      "tags": {
+        "denomination": "catholic",
+        "landuse": "cemetery",
+        "name": "Cimitirul Catolic Husi",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1353495154",
+      "osm_id": 1353495154,
+      "osm_type": "way",
+      "name": "Sala Regatului a Martorilor lui Iehova",
+      "category": "place_of_worship",
+      "lat": 46.6740027,
+      "lon": 28.0591975,
+      "tags": {
+        "addr:city": "Huși",
+        "addr:housenumber": "3",
+        "addr:postcode": "735100",
+        "addr:street": "Strada Alexandru Giugaru",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "martorii_lui_iehova",
+        "name": "Sala Regatului a Martorilor lui Iehova",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1426091526",
+      "osm_id": 1426091526,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 46.6739903,
+      "lon": 28.0626314,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "religion": "christian"
+      }
+    }
+  ]
+}

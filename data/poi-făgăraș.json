@@ -1,0 +1,915 @@
+{
+  "city": "Făgăraș",
+  "generated_at": "2026-04-23T09:09:41.265Z",
+  "counts": {
+    "total": 55,
+    "schools": 26,
+    "churches": 29
+  },
+  "pois": [
+    {
+      "id": "node/1615566088",
+      "osm_id": 1615566088,
+      "osm_type": "node",
+      "name": "Școala Gimnazială Ovid Densușianu",
+      "category": "education",
+      "lat": 45.8415451,
+      "lon": 24.9771856,
+      "tags": {
+        "addr:city": "Făgăraș",
+        "addr:postcode": "505200",
+        "amenity": "school",
+        "name": "Școala Gimnazială Ovid Densușianu"
+      }
+    },
+    {
+      "id": "node/3661005921",
+      "osm_id": 3661005921,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.8437067,
+      "lon": 24.9775492,
+      "tags": {
+        "amenity": "kindergarten"
+      }
+    },
+    {
+      "id": "node/3661027852",
+      "osm_id": 3661027852,
+      "osm_type": "node",
+      "name": "Grădinița Voinicelul",
+      "category": "education",
+      "lat": 45.840553,
+      "lon": 24.9788801,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Grădinița Voinicelul"
+      }
+    },
+    {
+      "id": "node/3661027854",
+      "osm_id": 3661027854,
+      "osm_type": "node",
+      "name": "Grădinița Ortodoxă Sf. Mateiaș Brâncoveanu",
+      "category": "education",
+      "lat": 45.8412134,
+      "lon": 24.9723733,
+      "tags": {
+        "addr:city": "Făgăraș",
+        "addr:housenumber": "20",
+        "addr:street": "Strada Nicolae Bălcescu",
+        "amenity": "kindergarten",
+        "name": "Grădinița Ortodoxă Sf. Mateiaș Brâncoveanu"
+      }
+    },
+    {
+      "id": "node/3661027857",
+      "osm_id": 3661027857,
+      "osm_type": "node",
+      "name": "Grădinița Albinuța",
+      "category": "education",
+      "lat": 45.8369086,
+      "lon": 24.9803851,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Grădinița Albinuța"
+      }
+    },
+    {
+      "id": "node/3661027858",
+      "osm_id": 3661027858,
+      "osm_type": "node",
+      "name": "Grădinița Voinicel",
+      "category": "education",
+      "lat": 45.8428872,
+      "lon": 24.9855063,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Grădinița Voinicel"
+      }
+    },
+    {
+      "id": "node/3661033426",
+      "osm_id": 3661033426,
+      "osm_type": "node",
+      "name": "Școala Gimnazială Ovid Densușianu",
+      "category": "education",
+      "lat": 45.8525867,
+      "lon": 24.980648,
+      "tags": {
+        "amenity": "school",
+        "name": "Școala Gimnazială Ovid Densușianu"
+      }
+    },
+    {
+      "id": "way/192363462",
+      "osm_id": 192363462,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Ovid Densușianu Făgăraș",
+      "category": "education",
+      "lat": 45.8416582,
+      "lon": 24.9769036,
+      "tags": {
+        "addr:city": "Făgăraș",
+        "addr:postcode": "505200",
+        "addr:street": "Strada Vasile Alecsandri",
+        "amenity": "school",
+        "building": "yes",
+        "grades": "0-8",
+        "name": "Școala Gimnazială Ovid Densușianu Făgăraș"
+      }
+    },
+    {
+      "id": "way/333885388",
+      "osm_id": 333885388,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.8420314,
+      "lon": 24.9696746,
+      "tags": {
+        "addr:city": "Făgăraș",
+        "addr:postcode": "505200",
+        "addr:street": "Strada Școlii",
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/333885510",
+      "osm_id": 333885510,
+      "osm_type": "way",
+      "name": "Colegiul Național \"Radu Negru\" Făgăraș",
+      "category": "education",
+      "lat": 45.8417501,
+      "lon": 24.9697262,
+      "tags": {
+        "addr:city": "Făgăraș",
+        "addr:housenumber": "1",
+        "addr:postcode": "505200",
+        "addr:street": "Strada Școlii",
+        "amenity": "school",
+        "denomination": "orthodox",
+        "grades": "9-12",
+        "name": "Colegiul Național \"Radu Negru\" Făgăraș",
+        "religion": "christian",
+        "website": "http://www.radunegru.ro/"
+      }
+    },
+    {
+      "id": "way/360092179",
+      "osm_id": 360092179,
+      "osm_type": "way",
+      "name": "Liceul Teologic Ortodox \"Sf. Constantin Brâncoveanu\" Făgăraș",
+      "category": "education",
+      "lat": 45.8346973,
+      "lon": 24.9737472,
+      "tags": {
+        "addr:city": "Făgăraș",
+        "addr:housenumber": "6",
+        "addr:postcode": "505200",
+        "addr:street": "Strada Negoiu",
+        "amenity": "school",
+        "building": "yes",
+        "denomination": "orthodox",
+        "grades": "0-12",
+        "name": "Liceul Teologic Ortodox \"Sf. Constantin Brâncoveanu\" Făgăraș",
+        "religion": "christian",
+        "website": "https://www.liceulbrancoveanufagaras.ro/"
+      }
+    },
+    {
+      "id": "way/361352202",
+      "osm_id": 361352202,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.8420024,
+      "lon": 24.9677192,
+      "tags": {
+        "addr:city": "Făgăraș",
+        "addr:postcode": "505200",
+        "addr:street": "Strada Școlii",
+        "building": "school",
+        "building:levels": "3",
+        "height": "10"
+      }
+    },
+    {
+      "id": "way/361352960",
+      "osm_id": 361352960,
+      "osm_type": "way",
+      "name": "Colegiul Național \"Doamna Stanca\" Făgăraș",
+      "category": "education",
+      "lat": 45.8449564,
+      "lon": 24.9672382,
+      "tags": {
+        "addr:city": "Făgăraș",
+        "addr:housenumber": "14",
+        "addr:postcode": "505200",
+        "addr:street": "Strada Doamna Stanca",
+        "building": "school",
+        "building:levels": "1",
+        "name": "Colegiul Național \"Doamna Stanca\" Făgăraș",
+        "website": "https://doamnastanca.ro/"
+      }
+    },
+    {
+      "id": "way/361647586",
+      "osm_id": 361647586,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Ovid Densușianu",
+      "category": "education",
+      "lat": 45.8525721,
+      "lon": 24.9807654,
+      "tags": {
+        "amenity": "school",
+        "name": "Școala Gimnazială Ovid Densușianu"
+      }
+    },
+    {
+      "id": "way/419735662",
+      "osm_id": 419735662,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.83538,
+      "lon": 24.9682741,
+      "tags": {
+        "building": "kindergarten"
+      }
+    },
+    {
+      "id": "way/767342499",
+      "osm_id": 767342499,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.8352226,
+      "lon": 24.9560945,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/767342500",
+      "osm_id": 767342500,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.8346332,
+      "lon": 24.9563391,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/767342501",
+      "osm_id": 767342501,
+      "osm_type": "way",
+      "name": "Liceul Tehnologic Dr. Ioan Șenchea",
+      "category": "education",
+      "lat": 45.8349995,
+      "lon": 24.9561962,
+      "tags": {
+        "addr:city": "Făgăraș",
+        "addr:housenumber": "11B",
+        "addr:street": "Strada Vlad Țepeș",
+        "amenity": "school",
+        "name": "Liceul Tehnologic Dr. Ioan Șenchea",
+        "website": "http://www.senchea.ro/"
+      }
+    },
+    {
+      "id": "way/1127328803",
+      "osm_id": 1127328803,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Nr. 7 Făgăraș",
+      "category": "education",
+      "lat": 45.8353977,
+      "lon": 24.9701946,
+      "tags": {
+        "addr:city": "Făgăraș",
+        "addr:housenumber": "104B",
+        "addr:postcode": "505200",
+        "addr:street": "Strada Doctor Ioan Senchea",
+        "amenity": "school",
+        "building": "yes",
+        "denomination": "orthodox",
+        "grades": "0-8",
+        "name": "Școala Gimnazială Nr. 7 Făgăraș",
+        "religion": "christian",
+        "website": "http://doamnastanca.ro/"
+      }
+    },
+    {
+      "id": "way/1135722521",
+      "osm_id": 1135722521,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Nr. 3 Făgăraș",
+      "category": "education",
+      "lat": 45.8210179,
+      "lon": 24.9672818,
+      "tags": {
+        "building": "school",
+        "name": "Școala Gimnazială Nr. 3 Făgăraș"
+      }
+    },
+    {
+      "id": "way/1135722522",
+      "osm_id": 1135722522,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.8212663,
+      "lon": 24.967998,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/1135722523",
+      "osm_id": 1135722523,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.8213436,
+      "lon": 24.9685365,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/1135722524",
+      "osm_id": 1135722524,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.8203858,
+      "lon": 24.9678898,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/1135722526",
+      "osm_id": 1135722526,
+      "osm_type": "way",
+      "name": "Colegiul \"Aurel Vijoli\" Făgăraș",
+      "category": "education",
+      "lat": 45.8207807,
+      "lon": 24.9684334,
+      "tags": {
+        "addr:city": "Făgăraș",
+        "addr:postcode": "505200",
+        "addr:street": "Șoseaua Combinatului",
+        "amenity": "school",
+        "grades": "0-12",
+        "name": "Colegiul \"Aurel Vijoli\" Făgăraș"
+      }
+    },
+    {
+      "id": "way/1135725776",
+      "osm_id": 1135725776,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.841808,
+      "lon": 24.9675648,
+      "tags": {
+        "addr:city": "Făgăraș",
+        "addr:postcode": "505200",
+        "addr:street": "Strada Școlii",
+        "building": "school",
+        "building:levels": "1",
+        "height": "3",
+        "house": "bungalow"
+      }
+    },
+    {
+      "id": "way/1229024878",
+      "osm_id": 1229024878,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Nr. 1 Făgăraș",
+      "category": "education",
+      "lat": 45.8417625,
+      "lon": 24.9677116,
+      "tags": {
+        "addr:city": "Făgăraș",
+        "addr:housenumber": "15",
+        "addr:street": "Strada Școlii",
+        "amenity": "school",
+        "name": "Școala Gimnazială Nr. 1 Făgăraș"
+      }
+    },
+    {
+      "id": "node/2438012764",
+      "osm_id": 2438012764,
+      "osm_type": "node",
+      "name": "Biserica și mănăstirea franciscană",
+      "category": "place_of_worship",
+      "lat": 45.8423251,
+      "lon": 24.9774829,
+      "tags": {
+        "addr:city": "Făgăraș",
+        "addr:housenumber": "1",
+        "addr:postcode": "505200",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Vasile Alecsandri",
+        "amenity": "place_of_worship",
+        "denomination": "roman_catholic",
+        "name": "Biserica și mănăstirea franciscană",
+        "name:hu": "Szentháromság-templom",
+        "religion": "christian",
+        "source": "http://www.biserici.org/index.php?menu=CU&code=1920&criteria=fagaras&quick=&radio=b&order=P.TOWN,C.NAME,P.NAME",
+        "url:miserend": "https://miserend.hu/templom/3136"
+      }
+    },
+    {
+      "id": "node/2861714485",
+      "osm_id": 2861714485,
+      "osm_type": "node",
+      "name": "Biserica Sf. Nicolae Brâncoveanu",
+      "category": "place_of_worship",
+      "lat": 45.839963,
+      "lon": 24.9781178,
+      "tags": {
+        "addr:city": "Făgăraș",
+        "addr:housenumber": "16",
+        "addr:postcode": "505200",
+        "addr:street": "Strada Tudor Vladimirescu",
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Sf. Nicolae Brâncoveanu",
+        "religion": "christian",
+        "source": "http://www.biserici.org/index.php?menu=BI&code=8199"
+      }
+    },
+    {
+      "id": "node/3617491419",
+      "osm_id": 3617491419,
+      "osm_type": "node",
+      "name": "Biserica Ortodoxă",
+      "category": "place_of_worship",
+      "lat": 45.8175015,
+      "lon": 24.9690614,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/3617491714",
+      "osm_id": 3617491714,
+      "osm_type": "node",
+      "name": "Biserica Ortodoxă Sf. Arhangheli Mihail și Gavriil",
+      "category": "place_of_worship",
+      "lat": 45.8409501,
+      "lon": 24.9840093,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă Sf. Arhangheli Mihail și Gavriil",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/3661005168",
+      "osm_id": 3661005168,
+      "osm_type": "node",
+      "name": "Biserica Baptistă Lumina Lumii",
+      "category": "place_of_worship",
+      "lat": 45.8527095,
+      "lon": 24.9790329,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "baptist",
+        "name": "Biserica Baptistă Lumina Lumii",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/3661005173",
+      "osm_id": 3661005173,
+      "osm_type": "node",
+      "name": "Biserică Ortodoxă",
+      "category": "place_of_worship",
+      "lat": 45.841125,
+      "lon": 24.9720729,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "romanian_orthodox",
+        "name": "Biserică Ortodoxă",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/3661005174",
+      "osm_id": 3661005174,
+      "osm_type": "node",
+      "name": "Biserica Ortodoxă Adormirea Maicii Domnului",
+      "category": "place_of_worship",
+      "lat": 45.8395321,
+      "lon": 24.9660358,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă Adormirea Maicii Domnului",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/3661005914",
+      "osm_id": 3661005914,
+      "osm_type": "node",
+      "name": "Biserica Ortodoxă Sf. Cozma și Damian",
+      "category": "place_of_worship",
+      "lat": 45.8417898,
+      "lon": 24.9578153,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă Sf. Cozma și Damian",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/3661015363",
+      "osm_id": 3661015363,
+      "osm_type": "node",
+      "name": "Biserica Ortodoxă Sf. Ioan Botezătorul",
+      "category": "place_of_worship",
+      "lat": 45.8538566,
+      "lon": 24.9808591,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă Sf. Ioan Botezătorul",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/4056042066",
+      "osm_id": 4056042066,
+      "osm_type": "node",
+      "name": "Biserica Unitariană",
+      "category": "place_of_worship",
+      "lat": 45.8431157,
+      "lon": 24.9697943,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "unitarian",
+        "name": "Biserica Unitariană",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/148388739",
+      "osm_id": 148388739,
+      "osm_type": "way",
+      "name": "Cimitir ortodox",
+      "category": "place_of_worship",
+      "lat": 45.8313014,
+      "lon": 24.9627883,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitir ortodox",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/148388741",
+      "osm_id": 148388741,
+      "osm_type": "way",
+      "name": "Cimitir ortodox, catolic, evanghelic și reformat",
+      "category": "place_of_worship",
+      "lat": 45.8406991,
+      "lon": 24.9637275,
+      "tags": {
+        "landuse": "cemetery",
+        "name": "Cimitir ortodox, catolic, evanghelic și reformat",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/235737460",
+      "osm_id": 235737460,
+      "osm_type": "way",
+      "name": "Biserica Spital",
+      "category": "place_of_worship",
+      "lat": 45.8418056,
+      "lon": 24.9578364,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Spital",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/333884275",
+      "osm_id": 333884275,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.8425839,
+      "lon": 24.9709958,
+      "tags": {
+        "addr:city": "Făgăraș",
+        "addr:postcode": "505200",
+        "addr:street": "Strada Aron Pumnul",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "religion": "jewish"
+      }
+    },
+    {
+      "id": "way/333885510",
+      "osm_id": 333885510,
+      "osm_type": "way",
+      "name": "Colegiul Național \"Radu Negru\" Făgăraș",
+      "category": "place_of_worship",
+      "lat": 45.8417501,
+      "lon": 24.9697262,
+      "tags": {
+        "addr:city": "Făgăraș",
+        "addr:housenumber": "1",
+        "addr:postcode": "505200",
+        "addr:street": "Strada Școlii",
+        "amenity": "school",
+        "denomination": "orthodox",
+        "grades": "9-12",
+        "name": "Colegiul Național \"Radu Negru\" Făgăraș",
+        "religion": "christian",
+        "website": "http://www.radunegru.ro/"
+      }
+    },
+    {
+      "id": "way/333885720",
+      "osm_id": 333885720,
+      "osm_type": "way",
+      "name": "Biserica Reformată",
+      "category": "place_of_worship",
+      "lat": 45.8431928,
+      "lon": 24.9673739,
+      "tags": {
+        "addr:city": "Făgăraș",
+        "addr:housenumber": "17",
+        "addr:street": "Bulevardul Unirii",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "reformed",
+        "name": "Biserica Reformată",
+        "name:hu": "Református templom",
+        "religion": "christian",
+        "wikidata": "Q52430834",
+        "wikipedia": "ro:Biserica reformată din Făgăraș"
+      }
+    },
+    {
+      "id": "way/360092179",
+      "osm_id": 360092179,
+      "osm_type": "way",
+      "name": "Liceul Teologic Ortodox \"Sf. Constantin Brâncoveanu\" Făgăraș",
+      "category": "place_of_worship",
+      "lat": 45.8346973,
+      "lon": 24.9737472,
+      "tags": {
+        "addr:city": "Făgăraș",
+        "addr:housenumber": "6",
+        "addr:postcode": "505200",
+        "addr:street": "Strada Negoiu",
+        "amenity": "school",
+        "building": "yes",
+        "denomination": "orthodox",
+        "grades": "0-12",
+        "name": "Liceul Teologic Ortodox \"Sf. Constantin Brâncoveanu\" Făgăraș",
+        "religion": "christian",
+        "website": "https://www.liceulbrancoveanufagaras.ro/"
+      }
+    },
+    {
+      "id": "way/361644509",
+      "osm_id": 361644509,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.8395303,
+      "lon": 24.9660007,
+      "tags": {
+        "building": "church"
+      }
+    },
+    {
+      "id": "way/361645903",
+      "osm_id": 361645903,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.8463601,
+      "lon": 24.9704039,
+      "tags": {
+        "amenity": "grave_yard",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/367127886",
+      "osm_id": 367127886,
+      "osm_type": "way",
+      "name": "Biserica Adventistă de ziua a șaptea",
+      "category": "place_of_worship",
+      "lat": 45.8465859,
+      "lon": 24.9752067,
+      "tags": {
+        "addr:city": "Făgăraș",
+        "addr:housenumber": "19",
+        "addr:postcode": "505200",
+        "addr:street": "Strada Mihai Viteazul",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "adventist",
+        "email": "contact@adventistfagaras.ro",
+        "name": "Biserica Adventistă de ziua a șaptea",
+        "phone": "+40 268 211 570",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/403870718",
+      "osm_id": 403870718,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă Sfânta Treime",
+      "category": "place_of_worship",
+      "lat": 45.8463044,
+      "lon": 24.9707278,
+      "tags": {
+        "addr:city": "Făgăraș",
+        "addr:housenumber": "7",
+        "addr:postcode": "505200",
+        "addr:street": "Strada Ion Codru Drăguşanu",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă Sfânta Treime",
+        "religion": "christian",
+        "source": "http://www.biserici.org/index.php?menu=BI&code=8200"
+      }
+    },
+    {
+      "id": "way/403871217",
+      "osm_id": 403871217,
+      "osm_type": "way",
+      "name": "Catedrala Sf. Ioan Botezătorul",
+      "category": "place_of_worship",
+      "lat": 45.8437274,
+      "lon": 24.9728796,
+      "tags": {
+        "addr:city": "Făgăraș",
+        "amenity": "place_of_worship",
+        "building": "cathedral",
+        "denomination": "orthodox",
+        "facebook": "https://www.facebook.com/p/Catedrala-Ortodox%C4%83-Sf%C3%A2ntul-Ioan-Botez%C4%83torul-din-F%C4%83g%C4%83ra%C8%99-100064852984544/",
+        "name": "Catedrala Sf. Ioan Botezătorul",
+        "religion": "christian",
+        "wikidata": "Q98309086"
+      }
+    },
+    {
+      "id": "way/1052751779",
+      "osm_id": 1052751779,
+      "osm_type": "way",
+      "name": "Biserica evanghelică",
+      "category": "place_of_worship",
+      "lat": 45.8458739,
+      "lon": 24.9700264,
+      "tags": {
+        "addr:city": "Făgăraș",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "evangelical",
+        "name": "Biserica evanghelică",
+        "religion": "christian",
+        "wikidata": "Q85978398",
+        "wikipedia": "ro:Biserica evanghelică din Făgăraș"
+      }
+    },
+    {
+      "id": "way/1090566270",
+      "osm_id": 1090566270,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă Sf. Arhangheli Mihail și Gavriil",
+      "category": "place_of_worship",
+      "lat": 45.8409094,
+      "lon": 24.984169,
+      "tags": {
+        "addr:city": "Făgăraș",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica Ortodoxă Sf. Arhangheli Mihail și Gavriil",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1091070558",
+      "osm_id": 1091070558,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.8399631,
+      "lon": 24.9783085,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "height": "12",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1127328803",
+      "osm_id": 1127328803,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Nr. 7 Făgăraș",
+      "category": "place_of_worship",
+      "lat": 45.8353977,
+      "lon": 24.9701946,
+      "tags": {
+        "addr:city": "Făgăraș",
+        "addr:housenumber": "104B",
+        "addr:postcode": "505200",
+        "addr:street": "Strada Doctor Ioan Senchea",
+        "amenity": "school",
+        "building": "yes",
+        "denomination": "orthodox",
+        "grades": "0-8",
+        "name": "Școala Gimnazială Nr. 7 Făgăraș",
+        "religion": "christian",
+        "website": "http://doamnastanca.ro/"
+      }
+    },
+    {
+      "id": "way/1128029491",
+      "osm_id": 1128029491,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.8337344,
+      "lon": 24.9739712,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1129049675",
+      "osm_id": 1129049675,
+      "osm_type": "way",
+      "name": "Biserica Greco-Catolică Adormirea Maicii Domnului",
+      "category": "place_of_worship",
+      "lat": 45.8418654,
+      "lon": 24.964542,
+      "tags": {
+        "addr:city": "Făgăraș",
+        "addr:housenumber": "4",
+        "addr:postcode": "505200",
+        "addr:street": "Strada 13 Decembrie",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "greek_catholic",
+        "facebook": "https://www.facebook.com/p/Biserica-Greco-Catolic%C4%83-F%C4%83g%C4%83ra%C8%99-100069502446299/",
+        "name": "Biserica Greco-Catolică Adormirea Maicii Domnului",
+        "religion": "christian",
+        "start_date": "1995"
+      }
+    },
+    {
+      "id": "way/1396084596",
+      "osm_id": 1396084596,
+      "osm_type": "way",
+      "name": "Biserica Baptistă Betania",
+      "category": "place_of_worship",
+      "lat": 45.8412952,
+      "lon": 24.9664966,
+      "tags": {
+        "addr:city": "Făgăraș",
+        "addr:housenumber": "28A",
+        "addr:postcode": "505200",
+        "addr:street": "Strada Stejarului",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "baptist",
+        "name": "Biserica Baptistă Betania",
+        "religion": "christian",
+        "website": "https://bcbfagaras.org/"
+      }
+    }
+  ]
+}

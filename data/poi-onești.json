@@ -1,0 +1,1294 @@
+{
+  "city": "Onești",
+  "generated_at": "2026-04-23T09:50:11.405Z",
+  "counts": {
+    "total": 74,
+    "schools": 54,
+    "churches": 20
+  },
+  "pois": [
+    {
+      "id": "way/212260467",
+      "osm_id": 212260467,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.246929,
+      "lon": 26.757432,
+      "tags": {
+        "addr:city": "Onești",
+        "addr:housenumber": "7A",
+        "addr:postcode": "601077",
+        "addr:street": "Bulevardul Oituz",
+        "building": "school",
+        "building:levels": "3"
+      }
+    },
+    {
+      "id": "way/212262324",
+      "osm_id": 212262324,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.2480122,
+      "lon": 26.7614882,
+      "tags": {
+        "addr:city": "Onești",
+        "addr:housenumber": "14",
+        "addr:postcode": "601014",
+        "addr:street": "Strada Tineretului",
+        "building": "school",
+        "building:levels": "3"
+      }
+    },
+    {
+      "id": "way/212281847",
+      "osm_id": 212281847,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.2440105,
+      "lon": 26.7655387,
+      "tags": {
+        "addr:city": "Onești",
+        "addr:housenumber": "7",
+        "addr:postcode": "601067",
+        "addr:street": "Strada 1 Mai",
+        "building": "school",
+        "building:levels": "3"
+      }
+    },
+    {
+      "id": "way/212283259",
+      "osm_id": 212283259,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.2424917,
+      "lon": 26.7669379,
+      "tags": {
+        "addr:city": "Onești",
+        "addr:housenumber": "7",
+        "addr:postcode": "601066",
+        "addr:street": "Strada Belvedere",
+        "building": "school",
+        "building:levels": "4"
+      }
+    },
+    {
+      "id": "way/212301785",
+      "osm_id": 212301785,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.2454757,
+      "lon": 26.7604889,
+      "tags": {
+        "addr:city": "Onești",
+        "addr:housenumber": "4",
+        "addr:postcode": "601066",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada George Călinescu",
+        "building": "kindergarten",
+        "building:levels": "2"
+      }
+    },
+    {
+      "id": "way/212312876",
+      "osm_id": 212312876,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.2539081,
+      "lon": 26.7724447,
+      "tags": {
+        "addr:city": "Onești",
+        "addr:housenumber": "43",
+        "addr:postcode": "601129",
+        "addr:street": "Bulevardul Republicii",
+        "building": "school",
+        "building:levels": "4"
+      }
+    },
+    {
+      "id": "way/212313144",
+      "osm_id": 212313144,
+      "osm_type": "way",
+      "name": "Atelier Tehnologic",
+      "category": "education",
+      "lat": 46.2529916,
+      "lon": 26.7746577,
+      "tags": {
+        "addr:city": "Onești",
+        "addr:housenumber": "60",
+        "addr:postcode": "601117",
+        "addr:street": "Bulevardul Republicii",
+        "building": "school",
+        "building:levels": "3",
+        "name": "Atelier Tehnologic"
+      }
+    },
+    {
+      "id": "way/212313345",
+      "osm_id": 212313345,
+      "osm_type": "way",
+      "name": "Corp Școală B",
+      "category": "education",
+      "lat": 46.2538905,
+      "lon": 26.7744039,
+      "tags": {
+        "addr:city": "Onești",
+        "addr:housenumber": "60",
+        "addr:postcode": "601117",
+        "addr:street": "Bulevardul Republicii",
+        "building": "school",
+        "building:levels": "3",
+        "name": "Corp Școală B"
+      }
+    },
+    {
+      "id": "way/224862764",
+      "osm_id": 224862764,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.2432362,
+      "lon": 26.7592067,
+      "tags": {
+        "addr:city": "Onești",
+        "addr:housenumber": "2",
+        "addr:postcode": "601105",
+        "addr:street": "Strada Venus",
+        "building": "school",
+        "building:levels": "3"
+      }
+    },
+    {
+      "id": "way/224866108",
+      "osm_id": 224866108,
+      "osm_type": "way",
+      "name": "Școala cu Clasele I-VIII Emil Racoviță",
+      "category": "education",
+      "lat": 46.2432606,
+      "lon": 26.7590859,
+      "tags": {
+        "addr:city": "Onești",
+        "addr:housenumber": "2",
+        "addr:postcode": "601105",
+        "addr:street": "Strada Venus",
+        "amenity": "school",
+        "education": "school",
+        "name": "Școala cu Clasele I-VIII Emil Racoviță",
+        "phone": "+40234319855"
+      }
+    },
+    {
+      "id": "way/224946019",
+      "osm_id": 224946019,
+      "osm_type": "way",
+      "name": "Clubul Elevilor Alecu Aslan",
+      "category": "education",
+      "lat": 46.2505577,
+      "lon": 26.7597677,
+      "tags": {
+        "amenity": "school",
+        "check_date": "2026-03-30",
+        "name": "Clubul Elevilor Alecu Aslan"
+      }
+    },
+    {
+      "id": "way/344359990",
+      "osm_id": 344359990,
+      "osm_type": "way",
+      "name": "Colegiul Național Grigore Moisil",
+      "category": "education",
+      "lat": 46.2480351,
+      "lon": 26.7618249,
+      "tags": {
+        "addr:city": "Onești",
+        "addr:housenumber": "14",
+        "addr:postcode": "601014",
+        "addr:street": "Strada Tineretului",
+        "amenity": "school",
+        "check_date": "2026-03-30",
+        "name": "Colegiul Național Grigore Moisil",
+        "website": "http://moisilonesti.licee.edu.ro"
+      }
+    },
+    {
+      "id": "way/345311657",
+      "osm_id": 345311657,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.2422938,
+      "lon": 26.7597759,
+      "tags": {
+        "addr:city": "Onești",
+        "addr:housenumber": "2",
+        "addr:postcode": "601101",
+        "addr:street": "Strada Apollo",
+        "building": "kindergarten",
+        "building:levels": "2"
+      }
+    },
+    {
+      "id": "way/345312437",
+      "osm_id": 345312437,
+      "osm_type": "way",
+      "name": "Grădinița Numărul 13 Magnolia",
+      "category": "education",
+      "lat": 46.2423046,
+      "lon": 26.7599017,
+      "tags": {
+        "addr:city": "Onești",
+        "addr:housenumber": "2",
+        "addr:postcode": "601101",
+        "addr:street": "Strada Apollo",
+        "amenity": "kindergarten",
+        "name": "Grădinița Numărul 13 Magnolia"
+      }
+    },
+    {
+      "id": "way/345313600",
+      "osm_id": 345313600,
+      "osm_type": "way",
+      "name": "Școala cu Clasele I-VIII Numărul 7",
+      "category": "education",
+      "lat": 46.2414926,
+      "lon": 26.7618968,
+      "tags": {
+        "addr:city": "Onești",
+        "addr:housenumber": "2",
+        "addr:postcode": "601105",
+        "addr:street": "Strada Aurora",
+        "amenity": "school",
+        "education": "school",
+        "email": "scoala7onesti@yahoo.com",
+        "fax": "+40234313660",
+        "name": "Școala cu Clasele I-VIII Numărul 7",
+        "phone": "+40234321811",
+        "website": "http://sc7onesti.scoli.edu.ro/"
+      }
+    },
+    {
+      "id": "way/345313981",
+      "osm_id": 345313981,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.2412926,
+      "lon": 26.7619275,
+      "tags": {
+        "addr:city": "Onești",
+        "addr:housenumber": "2",
+        "addr:postcode": "601105",
+        "addr:street": "Strada Aurora",
+        "building": "school",
+        "building:levels": "3"
+      }
+    },
+    {
+      "id": "way/345317423",
+      "osm_id": 345317423,
+      "osm_type": "way",
+      "name": "Școala cu Clasele I-VIII Ghiță Mocanu",
+      "category": "education",
+      "lat": 46.2441874,
+      "lon": 26.7656657,
+      "tags": {
+        "addr:city": "Onești",
+        "addr:housenumber": "7",
+        "addr:postcode": "601067",
+        "addr:street": "Strada 1 Mai",
+        "amenity": "school",
+        "check_date": "2026-04-04",
+        "email": "mocanuonesti@gmail.com",
+        "name": "Școala cu Clasele I-VIII Ghiță Mocanu",
+        "phone": "+40234312394",
+        "website": "http://mocanuonesti.scoli.edu.ro/"
+      }
+    },
+    {
+      "id": "way/345319934",
+      "osm_id": 345319934,
+      "osm_type": "way",
+      "name": "Grădinița Numărul 9",
+      "category": "education",
+      "lat": 46.245623,
+      "lon": 26.7605022,
+      "tags": {
+        "addr:city": "Onești",
+        "addr:housenumber": "4",
+        "addr:postcode": "601066",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada George Călinescu",
+        "amenity": "kindergarten",
+        "check_date": "2026-04-04",
+        "name": "Grădinița Numărul 9",
+        "phone": "+40234321244"
+      }
+    },
+    {
+      "id": "way/345320082",
+      "osm_id": 345320082,
+      "osm_type": "way",
+      "name": "Școala Voievod Cel Mare și Sfânt",
+      "category": "education",
+      "lat": 46.2468083,
+      "lon": 26.7569434,
+      "tags": {
+        "addr:city": "Onești",
+        "addr:housenumber": "7A",
+        "addr:postcode": "601077",
+        "addr:street": "Bulevardul Oituz",
+        "amenity": "school",
+        "education": "school",
+        "name": "Școala Voievod Cel Mare și Sfânt"
+      }
+    },
+    {
+      "id": "way/345320659",
+      "osm_id": 345320659,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.248554,
+      "lon": 26.7685193,
+      "tags": {
+        "addr:city": "Onești",
+        "addr:housenumber": "15",
+        "addr:postcode": "601027",
+        "addr:street": "Strada Cașinului",
+        "building": "school",
+        "building:levels": "3"
+      }
+    },
+    {
+      "id": "way/345320989",
+      "osm_id": 345320989,
+      "osm_type": "way",
+      "name": "Școala Generală 1",
+      "category": "education",
+      "lat": 46.2487423,
+      "lon": 26.7687819,
+      "tags": {
+        "addr:city": "Onești",
+        "addr:housenumber": "15",
+        "addr:postcode": "601027",
+        "addr:street": "Strada Cașinului",
+        "amenity": "school",
+        "education": "school",
+        "name": "Școala Generală 1",
+        "website": "https://scoalaunuonesti.ro/"
+      }
+    },
+    {
+      "id": "way/345321389",
+      "osm_id": 345321389,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.253393,
+      "lon": 26.7668662,
+      "tags": {
+        "addr:city": "Onești",
+        "addr:housenumber": "4",
+        "addr:postcode": "601048",
+        "addr:street": "Strada Perchiului",
+        "building": "school",
+        "building:levels": "3"
+      }
+    },
+    {
+      "id": "way/345321663",
+      "osm_id": 345321663,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.2529033,
+      "lon": 26.766896,
+      "tags": {
+        "addr:city": "Onești",
+        "addr:housenumber": "4",
+        "addr:postcode": "601048",
+        "addr:street": "Strada Perchiului",
+        "building": "school",
+        "building:levels": "3"
+      }
+    },
+    {
+      "id": "way/345321772",
+      "osm_id": 345321772,
+      "osm_type": "way",
+      "name": "Colegiul Sportiv Nadia Comăneci",
+      "category": "education",
+      "lat": 46.2532695,
+      "lon": 26.7666848,
+      "tags": {
+        "addr:city": "Onești",
+        "addr:housenumber": "4",
+        "addr:postcode": "601048",
+        "addr:street": "Strada Perchiului",
+        "amenity": "school",
+        "check_date": "2026-03-31",
+        "name": "Colegiul Sportiv Nadia Comăneci",
+        "phone": "+40234317743"
+      }
+    },
+    {
+      "id": "way/345322357",
+      "osm_id": 345322357,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.2519456,
+      "lon": 26.7696936,
+      "tags": {
+        "addr:city": "Onești",
+        "addr:housenumber": "14",
+        "addr:postcode": "601031",
+        "addr:street": "Strada Muncii",
+        "building": "kindergarten",
+        "building:levels": "2"
+      }
+    },
+    {
+      "id": "way/345322489",
+      "osm_id": 345322489,
+      "osm_type": "way",
+      "name": "Grădinița cu Program Prelungit Numărul 14",
+      "category": "education",
+      "lat": 46.2520483,
+      "lon": 26.7699758,
+      "tags": {
+        "addr:city": "Onești",
+        "addr:housenumber": "14",
+        "addr:postcode": "601031",
+        "addr:street": "Strada Muncii",
+        "amenity": "kindergarten",
+        "education": "kindergarten",
+        "name": "Grădinița cu Program Prelungit Numărul 14",
+        "phone": "+40234323580"
+      }
+    },
+    {
+      "id": "way/345322857",
+      "osm_id": 345322857,
+      "osm_type": "way",
+      "name": "Colegiul Tehnic Petru Poni",
+      "category": "education",
+      "lat": 46.2537626,
+      "lon": 26.7742502,
+      "tags": {
+        "addr:city": "Onești",
+        "addr:housenumber": "60",
+        "addr:postcode": "601117",
+        "addr:street": "Bulevardul Republicii",
+        "amenity": "school",
+        "education": "school",
+        "email": "ctpetruponi@yahoo.com",
+        "fax": "+40234311836",
+        "name": "Colegiul Tehnic Petru Poni",
+        "phone": "+40234311922",
+        "website": "http://www.petruponi.ro/"
+      }
+    },
+    {
+      "id": "way/345323435",
+      "osm_id": 345323435,
+      "osm_type": "way",
+      "name": "Colegiul Național Dimitrie Cantemir",
+      "category": "education",
+      "lat": 46.2532116,
+      "lon": 26.7768248,
+      "tags": {
+        "addr:city": "Onești",
+        "addr:housenumber": "12",
+        "addr:postcode": "601119",
+        "addr:street": "Strada Doctor Victor Babeș",
+        "amenity": "school",
+        "education": "school",
+        "name": "Colegiul Național Dimitrie Cantemir",
+        "phone": "+40234311046"
+      }
+    },
+    {
+      "id": "way/345323645",
+      "osm_id": 345323645,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.2535919,
+      "lon": 26.7772009,
+      "tags": {
+        "addr:city": "Onești",
+        "addr:housenumber": "12",
+        "addr:postcode": "601119",
+        "addr:street": "Strada Doctor Victor Babeș",
+        "building": "school",
+        "building:levels": "3"
+      }
+    },
+    {
+      "id": "way/345323716",
+      "osm_id": 345323716,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.2532145,
+      "lon": 26.7769656,
+      "tags": {
+        "addr:city": "Onești",
+        "addr:housenumber": "12",
+        "addr:postcode": "601119",
+        "addr:street": "Strada Doctor Victor Babeș",
+        "building": "school",
+        "building:levels": "3"
+      }
+    },
+    {
+      "id": "way/346069584",
+      "osm_id": 346069584,
+      "osm_type": "way",
+      "name": "Liceul Teologic Fericitul Ieremia",
+      "category": "education",
+      "lat": 46.2423616,
+      "lon": 26.766691,
+      "tags": {
+        "addr:city": "Onești",
+        "addr:housenumber": "7",
+        "addr:postcode": "601066",
+        "addr:street": "Strada Belvedere",
+        "amenity": "school",
+        "contact:email": "lic_frieremia@yahoo.com",
+        "education": "school",
+        "fax": "+40234321630",
+        "name": "Liceul Teologic Fericitul Ieremia",
+        "phone": "+40234321630",
+        "website": "http://www.liceulteologicfericitulieremia.ro/"
+      }
+    },
+    {
+      "id": "way/348362416",
+      "osm_id": 348362416,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.2495075,
+      "lon": 26.7708634,
+      "tags": {
+        "addr:city": "Onești",
+        "addr:housenumber": "21",
+        "addr:postcode": "601027",
+        "addr:street": "Strada Cașinului",
+        "building": "kindergarten",
+        "building:levels": "2"
+      }
+    },
+    {
+      "id": "way/348366239",
+      "osm_id": 348366239,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.24981,
+      "lon": 26.7704798,
+      "tags": {
+        "addr:city": "Onești",
+        "addr:housenumber": "2",
+        "addr:postcode": "601028",
+        "addr:street": "Strada Teilor",
+        "building": "kindergarten",
+        "building:levels": "2"
+      }
+    },
+    {
+      "id": "way/348377216",
+      "osm_id": 348377216,
+      "osm_type": "way",
+      "name": "Club",
+      "category": "education",
+      "lat": 46.2531891,
+      "lon": 26.7743798,
+      "tags": {
+        "addr:city": "Onești",
+        "addr:housenumber": "60",
+        "addr:postcode": "601117",
+        "addr:street": "Bulevardul Republicii",
+        "building": "school",
+        "building:levels": "4",
+        "name": "Club",
+        "smoking": "no"
+      }
+    },
+    {
+      "id": "way/348381011",
+      "osm_id": 348381011,
+      "osm_type": "way",
+      "name": "Cantină",
+      "category": "education",
+      "lat": 46.2534543,
+      "lon": 26.7751052,
+      "tags": {
+        "addr:city": "Onești",
+        "addr:housenumber": "60",
+        "addr:postcode": "601117",
+        "addr:street": "Bulevardul Republicii",
+        "building": "school",
+        "building:levels": "1",
+        "name": "Cantină"
+      }
+    },
+    {
+      "id": "way/348383492",
+      "osm_id": 348383492,
+      "osm_type": "way",
+      "name": "Corp Școală C",
+      "category": "education",
+      "lat": 46.2539001,
+      "lon": 26.7739125,
+      "tags": {
+        "addr:city": "Onești",
+        "addr:housenumber": "60",
+        "addr:postcode": "601117",
+        "addr:street": "Bulevardul Republicii",
+        "building": "school",
+        "building:levels": "3",
+        "name": "Corp Școală C"
+      }
+    },
+    {
+      "id": "way/348383534",
+      "osm_id": 348383534,
+      "osm_type": "way",
+      "name": "Corp Școală D",
+      "category": "education",
+      "lat": 46.2538434,
+      "lon": 26.7749194,
+      "tags": {
+        "addr:city": "Onești",
+        "addr:housenumber": "60",
+        "addr:postcode": "601117",
+        "addr:street": "Bulevardul Republicii",
+        "building": "school",
+        "building:levels": "1",
+        "name": "Corp Școală D"
+      }
+    },
+    {
+      "id": "way/348383568",
+      "osm_id": 348383568,
+      "osm_type": "way",
+      "name": "Corp Școală A",
+      "category": "education",
+      "lat": 46.2544609,
+      "lon": 26.7746047,
+      "tags": {
+        "addr:city": "Onești",
+        "addr:housenumber": "60",
+        "addr:postcode": "601117",
+        "addr:street": "Bulevardul Republicii",
+        "building": "school",
+        "building:levels": "3",
+        "name": "Corp Școală A"
+      }
+    },
+    {
+      "id": "way/348384208",
+      "osm_id": 348384208,
+      "osm_type": "way",
+      "name": "Atelier Școală",
+      "category": "education",
+      "lat": 46.2543827,
+      "lon": 26.7752134,
+      "tags": {
+        "addr:city": "Onești",
+        "addr:housenumber": "60",
+        "addr:postcode": "601117",
+        "addr:street": "Bulevardul Republicii",
+        "building": "school",
+        "building:levels": "2",
+        "name": "Atelier Școală"
+      }
+    },
+    {
+      "id": "way/350872862",
+      "osm_id": 350872862,
+      "osm_type": "way",
+      "name": "Școala Gimnazială George Călinescu",
+      "category": "education",
+      "lat": 46.2562988,
+      "lon": 26.7746992,
+      "tags": {
+        "addr:city": "Onești",
+        "addr:housenumber": "4",
+        "addr:postcode": "601136",
+        "addr:street": "Strada Armoniei",
+        "amenity": "school",
+        "education": "school",
+        "email": "scoalageorgecalinescu@yahoo.com",
+        "fax": "+40234312456",
+        "name": "Școala Gimnazială George Călinescu",
+        "phone": "+40234311300",
+        "website": "http://calinescuonesti.scoli.edu.ro/"
+      }
+    },
+    {
+      "id": "way/785378796",
+      "osm_id": 785378796,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.8615112,
+      "lon": 28.2546483,
+      "tags": {
+        "addr:city": "Onești",
+        "building": "kindergarten",
+        "building:levels": "2"
+      }
+    },
+    {
+      "id": "way/785378797",
+      "osm_id": 785378797,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.8614893,
+      "lon": 28.2543055,
+      "tags": {
+        "addr:city": "Onești",
+        "building": "kindergarten",
+        "building:levels": "2"
+      }
+    },
+    {
+      "id": "way/785378798",
+      "osm_id": 785378798,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.8613261,
+      "lon": 28.2546407,
+      "tags": {
+        "addr:city": "Onești",
+        "building": "kindergarten",
+        "building:levels": "2"
+      }
+    },
+    {
+      "id": "way/785378799",
+      "osm_id": 785378799,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.8610839,
+      "lon": 28.2546542,
+      "tags": {
+        "addr:city": "Onești",
+        "building": "kindergarten",
+        "building:levels": "2"
+      }
+    },
+    {
+      "id": "way/785378800",
+      "osm_id": 785378800,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.8610876,
+      "lon": 28.2543913,
+      "tags": {
+        "addr:city": "Onești",
+        "building": "kindergarten",
+        "building:levels": "2"
+      }
+    },
+    {
+      "id": "way/785378801",
+      "osm_id": 785378801,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.8610931,
+      "lon": 28.2540533,
+      "tags": {
+        "addr:city": "Onești",
+        "building": "kindergarten",
+        "building:levels": "2"
+      }
+    },
+    {
+      "id": "way/785378802",
+      "osm_id": 785378802,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.8612692,
+      "lon": 28.2540694,
+      "tags": {
+        "addr:city": "Onești",
+        "building": "kindergarten",
+        "building:levels": "2"
+      }
+    },
+    {
+      "id": "way/785378803",
+      "osm_id": 785378803,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.8613016,
+      "lon": 28.2543491,
+      "tags": {
+        "addr:city": "Onești",
+        "building": "kindergarten",
+        "building:levels": "2"
+      }
+    },
+    {
+      "id": "way/828399201",
+      "osm_id": 828399201,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.2802485,
+      "lon": 28.5510163,
+      "tags": {
+        "addr:city": "Onești",
+        "addr:country": "MD",
+        "addr:street": "Strada 31 August 1989",
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/828399216",
+      "osm_id": 828399216,
+      "osm_type": "way",
+      "name": "Gimnaziul Onești",
+      "category": "education",
+      "lat": 47.2804514,
+      "lon": 28.5509495,
+      "tags": {
+        "amenity": "school",
+        "name": "Gimnaziul Onești"
+      }
+    },
+    {
+      "id": "way/1027390837",
+      "osm_id": 1027390837,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.8578526,
+      "lon": 28.2489352,
+      "tags": {
+        "addr:city": "Onești",
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/1027390844",
+      "osm_id": 1027390844,
+      "osm_type": "way",
+      "name": "Gimnaziul Onești",
+      "category": "education",
+      "lat": 46.857889,
+      "lon": 28.2492253,
+      "tags": {
+        "addr:city": "Onești",
+        "amenity": "school",
+        "name": "Gimnaziul Onești"
+      }
+    },
+    {
+      "id": "way/1198663082",
+      "osm_id": 1198663082,
+      "osm_type": "way",
+      "name": "Grădinița „Spicușor”",
+      "category": "education",
+      "lat": 46.8612689,
+      "lon": 28.2544177,
+      "tags": {
+        "addr:city": "Onești",
+        "amenity": "kindergarten",
+        "name": "Grădinița „Spicușor”"
+      }
+    },
+    {
+      "id": "relation/5233106",
+      "osm_id": 5233106,
+      "osm_type": "relation",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.2563578,
+      "lon": 26.7746955,
+      "tags": {
+        "addr:city": "Onești",
+        "addr:housenumber": "4",
+        "addr:postcode": "601136",
+        "addr:street": "Strada Armoniei",
+        "building": "school",
+        "building:levels": "4",
+        "type": "multipolygon"
+      }
+    },
+    {
+      "id": "node/3543767228",
+      "osm_id": 3543767228,
+      "osm_type": "node",
+      "name": "Sanctuarul Fericitul Ieremia Valahul",
+      "category": "place_of_worship",
+      "lat": 46.2428165,
+      "lon": 26.7662502,
+      "tags": {
+        "addr:city": "Onești",
+        "addr:housenumber": "7",
+        "addr:postcode": "601091",
+        "addr:street": "Strada Belvedere",
+        "amenity": "place_of_worship",
+        "denomination": "roman_catholic",
+        "email": "ofmcapromania@gmail.com",
+        "email_1": "ofmcapromania@yahoo.ro",
+        "fax": "+40234315039",
+        "name": "Sanctuarul Fericitul Ieremia Valahul",
+        "phone": "+40234321100",
+        "religion": "christian",
+        "website": "https://ofmcapucini.ro/"
+      }
+    },
+    {
+      "id": "node/13339843580",
+      "osm_id": 13339843580,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 46.2449182,
+      "lon": 26.7716278,
+      "tags": {
+        "amenity": "place_of_worship",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/212283346",
+      "osm_id": 212283346,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 46.2428211,
+      "lon": 26.7662092,
+      "tags": {
+        "addr:city": "Onești",
+        "addr:housenumber": "7",
+        "addr:postcode": "601091",
+        "addr:street": "Strada Belvedere",
+        "building": "church",
+        "building:levels": "5"
+      }
+    },
+    {
+      "id": "way/212308495",
+      "osm_id": 212308495,
+      "osm_type": "way",
+      "name": "Biserica Evanghelică Română",
+      "category": "place_of_worship",
+      "lat": 46.2464966,
+      "lon": 26.7712688,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "check_date": "2026-03-30",
+        "denomination": "evangelical",
+        "name": "Biserica Evanghelică Română",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/224935687",
+      "osm_id": 224935687,
+      "osm_type": "way",
+      "name": "Biserica „Sfântul Pantelimon”",
+      "category": "place_of_worship",
+      "lat": 46.2543874,
+      "lon": 26.7655836,
+      "tags": {
+        "addr:city": "Onești",
+        "addr:housenumber": "1",
+        "addr:postcode": "601048",
+        "addr:street": "Strada Perchiului",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "building:levels": "2",
+        "check_date": "2025-06-18",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica „Sfântul Pantelimon”",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/224936621",
+      "osm_id": 224936621,
+      "osm_type": "way",
+      "name": "Cimitirul Ortodox",
+      "category": "place_of_worship",
+      "lat": 46.2527752,
+      "lon": 26.7630039,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitirul Ortodox",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/224936622",
+      "osm_id": 224936622,
+      "osm_type": "way",
+      "name": "Biserica \"Sfântul Nicolae\"",
+      "category": "place_of_worship",
+      "lat": 46.2519145,
+      "lon": 26.7626513,
+      "tags": {
+        "addr:city": "Onești",
+        "addr:housenumber": "5",
+        "addr:postcode": "601033",
+        "addr:street": "Aleea Parcului",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "heritage": "2",
+        "heritage:operator": "lmi",
+        "moved": "yes",
+        "name": "Biserica \"Sfântul Nicolae\"",
+        "ref:RO:lmi": "BC-II-m-B-00865",
+        "religion": "christian",
+        "start_date": "1843"
+      }
+    },
+    {
+      "id": "way/291503665",
+      "osm_id": 291503665,
+      "osm_type": "way",
+      "name": "Biserica",
+      "category": "place_of_worship",
+      "lat": 47.2789806,
+      "lon": 28.5474331,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/351612803",
+      "osm_id": 351612803,
+      "osm_type": "way",
+      "name": "Cimitirul Romano-Catolic",
+      "category": "place_of_worship",
+      "lat": 46.2540174,
+      "lon": 26.7453817,
+      "tags": {
+        "denomination": "roman_catholic",
+        "landuse": "cemetery",
+        "name": "Cimitirul Romano-Catolic",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/785378788",
+      "osm_id": 785378788,
+      "osm_type": "way",
+      "name": "Biserica Onești",
+      "category": "place_of_worship",
+      "lat": 46.8618804,
+      "lon": 28.2519851,
+      "tags": {
+        "addr:city": "Onești",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Onești",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/970191530",
+      "osm_id": 970191530,
+      "osm_type": "way",
+      "name": "Biserica Sfântul Nicolae",
+      "category": "place_of_worship",
+      "lat": 48.0669928,
+      "lon": 27.2759174,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Biserica Sfântul Nicolae",
+        "name:ru": "Церковь Святого Николая",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1145644471",
+      "osm_id": 1145644471,
+      "osm_type": "way",
+      "name": "Biserica \"Sfântul Nicolae\"",
+      "category": "place_of_worship",
+      "lat": 46.2810561,
+      "lon": 26.785201,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica \"Sfântul Nicolae\"",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1145644472",
+      "osm_id": 1145644472,
+      "osm_type": "way",
+      "name": "Biserica \"Nașterea Maicii Domnului\"",
+      "category": "place_of_worship",
+      "lat": 46.2456345,
+      "lon": 26.7732941,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica \"Nașterea Maicii Domnului\"",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1145644473",
+      "osm_id": 1145644473,
+      "osm_type": "way",
+      "name": "Biserica \"Sfinții Împărați Constantin şi Elena\"",
+      "category": "place_of_worship",
+      "lat": 46.2580452,
+      "lon": 26.775169,
+      "tags": {
+        "addr:city": "Onești",
+        "addr:housenumber": "9",
+        "addr:postcode": "601146",
+        "addr:street": "Bulevardul Mărășești",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "mobile": "+40744335299",
+        "name": "Biserica \"Sfinții Împărați Constantin şi Elena\"",
+        "religion": "christian",
+        "website": "https://sfimparationesti.ro/"
+      }
+    },
+    {
+      "id": "way/1145644474",
+      "osm_id": 1145644474,
+      "osm_type": "way",
+      "name": "Biserica \"Sfânta Tereza a Pruncului Isus\"",
+      "category": "place_of_worship",
+      "lat": 46.2544236,
+      "lon": 26.7796447,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "check_date": "2025-06-18",
+        "denomination": "roman_catholic",
+        "name": "Biserica \"Sfânta Tereza a Pruncului Isus\"",
+        "religion": "christian",
+        "start_date": "2006"
+      }
+    },
+    {
+      "id": "way/1145644475",
+      "osm_id": 1145644475,
+      "osm_type": "way",
+      "name": "Biserica „Sfinții Apostoli Petru și Paul“",
+      "category": "place_of_worship",
+      "lat": 46.2495637,
+      "lon": 26.7562248,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "roman_catholic",
+        "name": "Biserica „Sfinții Apostoli Petru și Paul“",
+        "religion": "christian",
+        "start_date": "1945"
+      }
+    },
+    {
+      "id": "way/1145644476",
+      "osm_id": 1145644476,
+      "osm_type": "way",
+      "name": "Catedrala Ortodoxă „Pogorârea Sfântul Duh”",
+      "category": "place_of_worship",
+      "lat": 46.2430653,
+      "lon": 26.7631449,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "height": "48",
+        "name": "Catedrala Ortodoxă „Pogorârea Sfântul Duh”",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1145644477",
+      "osm_id": 1145644477,
+      "osm_type": "way",
+      "name": "Biserica \"Sfânta Maria Magdalena\"",
+      "category": "place_of_worship",
+      "lat": 46.2512045,
+      "lon": 26.7453793,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica \"Sfânta Maria Magdalena\"",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1145644478",
+      "osm_id": 1145644478,
+      "osm_type": "way",
+      "name": "Biserica \"Adormirea Maicii Domnului\"",
+      "category": "place_of_worship",
+      "lat": 46.2412421,
+      "lon": 26.81819,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "heritage": "2",
+        "heritage:operator": "lmi",
+        "name": "Biserica \"Adormirea Maicii Domnului\"",
+        "ref:RO:lmi": "BC-II-m-A-00797",
+        "religion": "christian",
+        "start_date": "1494",
+        "wikidata": "Q2911393",
+        "wikipedia": "ro:Biserica Adormirea Maicii Domnului din Borzești"
+      }
+    },
+    {
+      "id": "way/1145644481",
+      "osm_id": 1145644481,
+      "osm_type": "way",
+      "name": "Biserica \"Sfântul Dimitrie Izvorătorul de Mir\"",
+      "category": "place_of_worship",
+      "lat": 46.2497142,
+      "lon": 26.8019158,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica \"Sfântul Dimitrie Izvorătorul de Mir\"",
+        "religion": "christian"
+      }
+    }
+  ]
+}

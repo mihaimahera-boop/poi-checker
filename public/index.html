@@ -1,0 +1,1357 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Verificare distanțe față de POI</title>
+
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="https://unpkg.com/leaflet.heat/dist/leaflet-heat.js"></script>
+
+  <style>
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #eef3f9;
+      color: #1e2b4a;
+    }
+
+    .page {
+      max-width: 1600px;
+      margin: 10px auto;
+      padding: 0 10px;
+    }
+
+    h1 {
+      margin: 8px 0 12px;
+      font-size: 26px;
+      color: #12386b;
+    }
+
+    .layout {
+  display: grid;
+  grid-template-columns: 320px 1fr;
+      align-items: start;
+    }
+
+    .panel,
+    .content {
+      background: #f4f7fb;
+      border: 1px solid #d9e3f2;
+      border-radius: 22px;
+      padding: 12px;
+    }
+
+    .panel {
+      max-height: calc(100vh - 70px);
+      overflow-y: auto;
+    }
+
+    label {
+      display: block;
+      margin: 8px 0 5px;
+      font-weight: 700;
+      color: #17355f;
+      font-size: 14px;
+    }
+
+    input,
+    select,
+    button {
+      width: 100%;
+      border-radius: 14px;
+      border: 2px solid #c9d7ea;
+      padding: 10px 12px;
+      font-size: 14px;
+      outline: none;
+      background: #fff;
+    }
+
+    input:focus,
+    select:focus {
+      border-color: #7ea7df;
+    }
+
+    .row-2 {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 10px;
+    }
+
+    button {
+      margin-top: 12px;
+      background: #3a68d6;
+      color: white;
+      font-weight: 700;
+      border: none;
+      cursor: pointer;
+      padding: 13px;
+    }
+
+    button:hover {
+      background: #2f58bb;
+    }
+
+    .street-btn {
+      background: #111827;
+    }
+
+    .street-btn:hover {
+      background: #000;
+    }
+
+    .status {
+      margin-top: 12px;
+      padding: 11px 12px;
+      border-radius: 14px;
+      font-weight: 700;
+      font-size: 14px;
+    }
+
+    .status.ok {
+      background: #dff1e2;
+      color: #176a2f;
+    }
+
+    .status.bad {
+      background: #f8dddd;
+      color: #b12222;
+    }
+
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(6, 1fr);
+      gap: 10px;
+      margin-bottom: 12px;
+    }
+
+    .card {
+      background: #eef3fa;
+      border: 1px solid #cfdcf0;
+      border-radius: 16px;
+      padding: 10px;
+      min-height: 90px;
+    }
+
+    .card-title {
+      font-size: 13px;
+      font-weight: 700;
+      color: #476892;
+      margin-bottom: 7px;
+    }
+
+    .card-value {
+      font-size: 15px;
+      font-weight: 700;
+      color: #1f2f4f;
+      line-height: 1.35;
+      white-space: pre-line;
+    }
+
+    .ok-text { color: #16853b; }
+    .bad-text { color: #c62828; }
+
+    #map {
+      width: 100%;
+      height: calc(100vh - 120px);
+      min-height: 720px;
+      border-radius: 18px;
+      overflow: hidden;
+      background: #d9d9d9;
+    }
+
+    .section-box {
+      background: #f7f9fd;
+      border: 1px solid #d0dced;
+      border-radius: 16px;
+      padding: 10px;
+      margin-top: 12px;
+    }
+
+    .section-box h3 {
+      margin: 0 0 8px;
+      color: #1d3a6f;
+      font-size: 15px;
+    }
+
+    .result-item {
+      background: #ffffff;
+      border: 1px solid #d6e0ef;
+      border-radius: 13px;
+      padding: 9px 10px;
+      margin-bottom: 9px;
+      line-height: 1.35;
+    }
+
+    .rank {
+      font-weight: 700;
+      font-size: 15px;
+    }
+
+    .good {
+      color: #16853b;
+      font-weight: 700;
+    }
+
+    .muted {
+      color: #5f6f88;
+    }
+
+    .small {
+      font-size: 13px;
+    }
+
+    .filter-label {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin: 8px 0;
+      font-weight: 700;
+      color: #17355f;
+      font-size: 14px;
+    }
+
+    .filter-label input {
+      width: auto;
+      margin: 0;
+      transform: scale(1.15);
+    }
+@keyframes pulsePin {
+  0% {
+    transform: scale(0.75);
+    opacity: 0.9;
+  }
+
+  70% {
+    transform: scale(1.45);
+    opacity: 0;
+  }
+
+  100% {
+    transform: scale(0.75);
+    opacity: 0;
+  }
+}
+    @media (max-width: 1100px) {
+
+  .layout {
+    grid-template-columns: 1fr;
+  }
+
+  .panel {
+    max-height: none;
+    order: 2;
+  }
+
+  .content {
+    order: 1;
+  }
+
+  .cards {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  #map {
+    height: 72vh;
+    min-height: 72vh;
+  }
+}
+
+    @media (max-width: 700px) {
+
+  body {
+    font-size: 14px;
+  }
+
+  .page {
+    padding: 0 4px;
+    margin: 4px auto;
+  }
+
+  h1 {
+    font-size: 20px;
+    margin: 4px 0 8px;
+  }
+
+  .panel,
+  .content {
+    padding: 8px;
+    border-radius: 14px;
+  }
+
+  .cards,
+  .row-2 {
+    grid-template-columns: 1fr;
+  }
+
+  #map {
+    height: 78vh;
+    min-height: 78vh;
+    border-radius: 14px;
+  }
+
+  input,
+  select,
+  button {
+    font-size: 16px;
+    padding: 14px;
+  }
+
+  .section-box {
+    padding: 8px;
+    border-radius: 12px;
+  }
+
+  .card {
+    min-height: auto;
+  }
+
+  .card-value {
+    font-size: 14px;
+  }
+}
+  </style>
+</head>
+
+<body>
+  <div class="page">
+    <h1>Verificare distanțe față de POI</h1>
+
+    <div class="layout">
+      <div class="panel">
+        <label for="citySelect">Oraș</label>
+        <select id="citySelect"></select>
+
+        <label for="addressInput">Adresă</label>
+        <input id="addressInput" type="text" placeholder="Ex. Maria Rosetti 36" />
+
+        <div class="row-2">
+          <div>
+            <label for="schoolThreshold">Prag școli / creșe</label>
+            <select id="schoolThreshold">
+              <option value="100">100 m</option>
+              <option value="150">150 m</option>
+              <option value="200">200 m</option>
+              <option value="250">250 m</option>
+              <option value="300" selected>300 m</option>
+              <option value="500">500 m</option>
+            </select>
+          </div>
+
+          <div>
+            <label for="churchThreshold">Prag biserici</label>
+            <select id="churchThreshold">
+              <option value="100">100 m</option>
+              <option value="150">150 m</option>
+              <option value="200">200 m</option>
+              <option value="250">250 m</option>
+              <option value="300" selected>300 m</option>
+              <option value="500">500 m</option>
+            </select>
+          </div>
+        </div>
+
+        <label for="medicalThreshold">Prag spitale / policlinici</label>
+        <select id="medicalThreshold">
+          <option value="100">100 m</option>
+          <option value="150">150 m</option>
+          <option value="200">200 m</option>
+          <option value="250">250 m</option>
+          <option value="300" selected>300 m</option>
+          <option value="500">500 m</option>
+        </select>
+
+        <div class="row-2">
+          <div>
+            <label for="zoneRadius">Rază analiză zonă</label>
+            <select id="zoneRadius">
+              <option value="500">500 m</option>
+              <option value="750">750 m</option>
+              <option value="1000" selected>1000 m</option>
+              <option value="1500">1500 m</option>
+              <option value="2000">2000 m</option>
+            </select>
+          </div>
+
+          <div>
+            <label for="gridStep">Pas grilă zone</label>
+            <select id="gridStep">
+              <option value="40">40 m</option>
+              <option value="50">50 m</option>
+              <option value="60" selected>60 m</option>
+              <option value="80">80 m</option>
+              <option value="100">100 m</option>
+            </select>
+          </div>
+        </div>
+
+        <button id="analyzeBtn">Analizează</button>
+        <button id="streetViewBtn" class="street-btn">Street View pin curent</button>
+        <button id="saveLocationBtn">Salvează locația curentă</button>
+        <button id="exportCsvBtn">Export CSV locații</button>
+
+        <div class="section-box">
+          <h3>Filtre hartă</h3>
+
+          <label class="filter-label">
+            <input type="checkbox" id="toggleSchools" checked />
+            Școli / creșe sub prag
+          </label>
+
+          <label class="filter-label">
+            <input type="checkbox" id="toggleChurches" checked />
+            Biserici sub prag
+          </label>
+
+          <label class="filter-label">
+            <input type="checkbox" id="toggleMedical" checked />
+            Medical sub prag
+          </label>
+
+          <label class="filter-label">
+            <input type="checkbox" id="toggleNearest" checked />
+            Cele mai apropiate POI
+          </label>
+
+          <label class="filter-label">
+            <input type="checkbox" id="toggleCandidates" checked />
+            Locații candidate OK
+          </label>
+
+          <label class="filter-label">
+            <input type="checkbox" id="toggleForbidden" checked />
+            Zone interzise
+          </label>
+        </div>
+
+        <div id="statusBox" class="status ok">Aștept date...</div>
+
+        <div class="section-box">
+          <h3>Locații salvate</h3>
+          <div id="savedLocations" class="muted">Nu există locații salvate.</div>
+        </div>
+
+        <div class="section-box">
+          <h3>Coordonate pin</h3>
+          <div id="pinCoords" class="muted">Nu există încă pin.</div>
+        </div>
+
+        <div class="section-box">
+          <h3>Top locații candidate</h3>
+          <div id="topResults" class="muted">Nu există încă rezultat.</div>
+        </div>
+
+        <div class="section-box">
+          <h3>Cel mai apropiat POI școală / creșă</h3>
+          <div id="nearestSchool" class="muted">Nu există încă rezultat.</div>
+        </div>
+
+        <div class="section-box">
+          <h3>Cel mai apropiat POI biserică</h3>
+          <div id="nearestChurch" class="muted">Nu există încă rezultat.</div>
+        </div>
+
+        <div class="section-box">
+          <h3>Cel mai apropiat POI medical</h3>
+          <div id="nearestMedical" class="muted">Nu există încă rezultat.</div>
+        </div>
+
+        <div class="section-box">
+          <h3>Școli / creșe în interiorul pragului</h3>
+          <div id="schoolsInside" class="muted">Nu există încă rezultat.</div>
+        </div>
+
+        <div class="section-box">
+          <h3>Biserici în interiorul pragului</h3>
+          <div id="churchesInside" class="muted">Nu există încă rezultat.</div>
+        </div>
+
+        <div class="section-box">
+          <h3>Medical în interiorul pragului</h3>
+          <div id="medicalInside" class="muted">Nu există încă rezultat.</div>
+        </div>
+      </div>
+
+      <div class="content">
+        <div class="cards">
+          <div class="card">
+            <div class="card-title">Adresă geocodată</div>
+            <div id="geoAddress" class="card-value">-</div>
+          </div>
+
+          <div class="card">
+            <div class="card-title">Verdict școli</div>
+            <div id="schoolVerdict" class="card-value">-</div>
+          </div>
+
+          <div class="card">
+            <div class="card-title">Verdict biserici</div>
+            <div id="churchVerdict" class="card-value">-</div>
+          </div>
+
+          <div class="card">
+            <div class="card-title">Verdict medical</div>
+            <div id="medicalVerdict" class="card-value">-</div>
+          </div>
+
+          <div class="card">
+            <div class="card-title">Verdict final</div>
+            <div id="finalVerdict" class="card-value">-</div>
+          </div>
+
+          <div class="card">
+            <div class="card-title">Zona analizată</div>
+            <div id="zoneInfo" class="card-value">-</div>
+          </div>
+        </div>
+
+        <div id="map"></div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    const citySelect = document.getElementById("citySelect");
+    const addressInput = document.getElementById("addressInput");
+    const schoolThreshold = document.getElementById("schoolThreshold");
+    const churchThreshold = document.getElementById("churchThreshold");
+    const medicalThreshold = document.getElementById("medicalThreshold");
+    const zoneRadius = document.getElementById("zoneRadius");
+    const gridStep = document.getElementById("gridStep");
+    const analyzeBtn = document.getElementById("analyzeBtn");
+    const streetViewBtn = document.getElementById("streetViewBtn");
+    const saveLocationBtn = document.getElementById("saveLocationBtn");
+    const exportCsvBtn = document.getElementById("exportCsvBtn");
+
+    const toggleSchools = document.getElementById("toggleSchools");
+    const toggleChurches = document.getElementById("toggleChurches");
+    const toggleMedical = document.getElementById("toggleMedical");
+    const toggleNearest = document.getElementById("toggleNearest");
+    const toggleCandidates = document.getElementById("toggleCandidates");
+    const toggleForbidden = document.getElementById("toggleForbidden");
+
+    const statusBox = document.getElementById("statusBox");
+    const geoAddress = document.getElementById("geoAddress");
+    const schoolVerdict = document.getElementById("schoolVerdict");
+    const churchVerdict = document.getElementById("churchVerdict");
+    const medicalVerdict = document.getElementById("medicalVerdict");
+    const finalVerdict = document.getElementById("finalVerdict");
+    const zoneInfo = document.getElementById("zoneInfo");
+    const pinCoords = document.getElementById("pinCoords");
+
+    const topResults = document.getElementById("topResults");
+    const nearestSchool = document.getElementById("nearestSchool");
+    const nearestChurch = document.getElementById("nearestChurch");
+    const nearestMedical = document.getElementById("nearestMedical");
+    const schoolsInside = document.getElementById("schoolsInside");
+    const churchesInside = document.getElementById("churchesInside");
+    const medicalInside = document.getElementById("medicalInside");
+    const savedLocations = document.getElementById("savedLocations");
+
+    const map = L.map("map").setView([44.4268, 26.1025], 12);
+
+    const osmLayer = L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+  maxZoom: 19,
+  attribution: "&copy; OpenStreetMap contributors"
+});
+
+const satelliteLayer = L.tileLayer(
+  "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}",
+  {
+    maxZoom: 19,
+    attribution: "Tiles &copy; Esri"
+  }
+);
+
+const topoLayer = L.tileLayer(
+  "https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png",
+  {
+    maxZoom: 17,
+    attribution: "&copy; OpenTopoMap"
+  }
+);
+
+osmLayer.addTo(map);
+
+L.control.layers(
+  {
+    "Hartă normală": osmLayer,
+    "Satelit": satelliteLayer,
+    "Topografic": topoLayer
+  },
+  null,
+  {
+    collapsed: false
+  }
+).addTo(map);
+
+    const layers = {
+      basePoint: null,
+      zoneCircle: null,
+      gridCandidates: [],
+      poiMarkers: [],
+      nearestMarkers: [],
+      candidateLines: [],
+      forbiddenZones: [],
+heatLayer: null
+    };
+
+    const state = {
+      lastDisplayName: "-",
+      lastLat: null,
+      lastLon: null,
+      saved: []
+    };
+
+    const defaultBlueIcon = new L.Icon({
+      iconUrl: "https://unpkg.com/leaflet@1.9.4/dist/images/marker-icon.png",
+      shadowUrl: "https://unpkg.com/leaflet@1.9.4/dist/images/marker-shadow.png",
+      iconSize: [25, 41],
+      iconAnchor: [12, 41],
+      popupAnchor: [1, -34],
+      shadowSize: [41, 41]
+    });
+
+    function dotIcon(color, size = 14) {
+      return new L.DivIcon({
+        className: "",
+        html: `
+          <div style="
+            width:${size}px;height:${size}px;border-radius:50%;
+            background:${color};border:2px solid #ffffff;
+            box-shadow:0 0 0 3px rgba(0,0,0,0.20);
+          "></div>
+        `,
+        iconSize: [size, size],
+        iconAnchor: [size / 2, size / 2]
+      });
+    }
+
+    const greenIcon = dotIcon("#13a144", 16);
+    const bigGreenIcon = dotIcon("#13a144", 24);
+    const redIcon = dotIcon("#d12d2d", 30);
+    const yellowIcon = dotIcon("#facc15", 18);
+    const basePointIcon = new L.DivIcon({
+  className: "",
+  html: `
+    <div style="
+      position: relative;
+      width: 42px;
+      height: 42px;
+    ">
+      <div style="
+        position: absolute;
+        left: 0;
+        top: 0;
+        width: 42px;
+        height: 42px;
+        border-radius: 50%;
+        background: rgba(58,104,214,0.25);
+        animation: pulsePin 1.4s infinite;
+      "></div>
+
+      <div style="
+        position: absolute;
+        left: 6px;
+        top: 6px;
+        width: 30px;
+        height: 30px;
+        border-radius: 50%;
+        background: #2563eb;
+        border: 4px solid white;
+        box-shadow: 0 0 0 3px rgba(37,99,235,0.35), 0 4px 12px rgba(0,0,0,0.35);
+      "></div>
+    </div>
+  `,
+  iconSize: [42, 42],
+  iconAnchor: [21, 21]
+});
+
+    function clearMapLayers() {
+      Object.values(layers).forEach((value) => {
+        if (Array.isArray(value)) {
+          value.forEach((layer) => {
+            if (layer) map.removeLayer(layer);
+          });
+        } else if (value) {
+          map.removeLayer(value);
+        }
+      });
+
+      layers.basePoint = null;
+      layers.zoneCircle = null;
+      layers.gridCandidates = [];
+      layers.poiMarkers = [];
+      layers.nearestMarkers = [];
+      layers.candidateLines = [];
+      layers.forbiddenZones = [];
+      layers.heatLayer = null;
+    }
+
+    function setStatus(message, type = "ok") {
+      statusBox.textContent = message;
+      statusBox.className = `status ${type}`;
+    }
+
+    function formatMeters(value) {
+      if (!isFinite(value)) return "Infinity";
+      if (value < 1000) return `${Math.round(value)} m`;
+      return `${(value / 1000).toFixed(2)} km`;
+    }
+
+    function haversineDistance(lat1, lon1, lat2, lon2) {
+      const R = 6371000;
+      const toRad = (deg) => (deg * Math.PI) / 180;
+
+      const dLat = toRad(lat2 - lat1);
+      const dLon = toRad(lon2 - lon1);
+
+      const a =
+        Math.sin(dLat / 2) * Math.sin(dLat / 2) +
+        Math.cos(toRad(lat1)) *
+        Math.cos(toRad(lat2)) *
+        Math.sin(dLon / 2) *
+        Math.sin(dLon / 2);
+
+      return R * 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+    }
+
+    async function geocodeAddress(city, address) {
+      const query = `${address}, ${city}, România`;
+      const url = `https://nominatim.openstreetmap.org/search?format=json&limit=1&countrycodes=ro&q=${encodeURIComponent(query)}`;
+
+      const response = await fetch(url, {
+        headers: { "Accept": "application/json" }
+      });
+
+      if (!response.ok) {
+        throw new Error("Geocodarea adresei a eșuat.");
+      }
+
+      const data = await response.json();
+
+      if (!data.length) {
+        throw new Error("Adresa nu a fost găsită.");
+      }
+
+      return {
+        lat: Number(data[0].lat),
+        lon: Number(data[0].lon),
+        displayName: data[0].display_name
+      };
+    }
+
+    async function loadCities() {
+      try {
+        const response = await fetch("/api/cities");
+
+        if (!response.ok) {
+          throw new Error("Nu s-au putut încărca orașele.");
+        }
+
+        const cities = await response.json();
+        citySelect.innerHTML = "";
+
+        cities.forEach((city) => {
+          const option = document.createElement("option");
+          option.value = city.name;
+          option.textContent = city.name;
+          citySelect.appendChild(option);
+        });
+      } catch (err) {
+        setStatus(err.message, "bad");
+      }
+    }
+
+    async function loadPoi(city) {
+      const response = await fetch(`/api/poi?city=${encodeURIComponent(city)}`);
+      const data = await response.json();
+
+      if (!response.ok) {
+        throw new Error(data.error || "Nu s-au putut încărca POI-urile.");
+      }
+
+      return data;
+    }
+
+    function normalizeCategory(poi) {
+      const type = String(poi.type || "").toLowerCase();
+      const category = String(poi.category || "").toLowerCase();
+      const subcategory = String(poi.subcategory || "").toLowerCase();
+      const amenity = String(poi?.tags?.amenity || "").toLowerCase();
+      const healthcare = String(poi?.tags?.healthcare || "").toLowerCase();
+
+      if (type === "school" || category === "school") return "school";
+      if (type === "church" || category === "church") return "church";
+      if (type === "medical" || category === "medical") return "medical";
+
+      if (["school", "kindergarten", "college", "university", "childcare"].includes(amenity) || subcategory === "childcare") {
+        return "school";
+      }
+
+      if (amenity === "place_of_worship") return "church";
+
+      if (["hospital", "clinic", "doctors"].includes(amenity) || ["hospital", "clinic", "doctor"].includes(healthcare)) {
+        return "medical";
+      }
+
+      return "other";
+    }
+
+    function splitPois(pois) {
+      const schools = [];
+      const churches = [];
+      const medical = [];
+
+      for (const poi of pois) {
+        const lat = Number(poi.lat);
+        const lon = Number(poi.lon ?? poi.lng);
+
+        if (!isFinite(lat) || !isFinite(lon)) continue;
+
+        const normalized = normalizeCategory(poi);
+        const item = { ...poi, lat, lon };
+
+        if (normalized === "school") schools.push(item);
+        if (normalized === "church") churches.push(item);
+        if (normalized === "medical") medical.push(item);
+      }
+
+      return { schools, churches, medical };
+    }
+
+    function getNearestPoi(baseLat, baseLon, list) {
+      if (!list.length) return null;
+
+      let nearest = null;
+
+      for (const poi of list) {
+        const dist = haversineDistance(baseLat, baseLon, poi.lat, poi.lon);
+
+        if (!nearest || dist < nearest.distance) {
+          nearest = { poi, distance: dist };
+        }
+      }
+
+      return nearest;
+    }
+
+    function filterInsideThreshold(baseLat, baseLon, list, threshold) {
+      return list
+        .map((poi) => ({
+          poi,
+          distance: haversineDistance(baseLat, baseLon, poi.lat, poi.lon)
+        }))
+        .filter((x) => x.distance <= threshold)
+        .sort((a, b) => a.distance - b.distance);
+    }
+
+    function renderNearest(container, item) {
+      if (!item) {
+        container.innerHTML = '<div class="muted">Nu există rezultat.</div>';
+        return;
+      }
+
+      container.innerHTML = `
+        <div class="result-item small">
+          <strong>${item.poi.name || "Fără nume"}</strong><br>
+          Distanță: ${formatMeters(item.distance)}<br>
+          Coordonate: ${item.poi.lat}, ${item.poi.lon}
+        </div>
+      `;
+    }
+
+    function renderPoiList(container, items) {
+      if (!items || !items.length) {
+        container.innerHTML = '<div class="muted">Nu există rezultate.</div>';
+        return;
+      }
+
+      container.innerHTML = items.map((item) => `
+        <div class="result-item small">
+          <strong>${item.poi.name || "Fără nume"}</strong><br>
+          Distanță: ${formatMeters(item.distance)}<br>
+          Coordonate: ${item.poi.lat}, ${item.poi.lon}
+        </div>
+      `).join("");
+    }
+
+    function renderTopCandidates(candidates) {
+      if (!candidates.length) {
+        topResults.innerHTML = '<div class="muted">Nu există locații OK.</div>';
+        return;
+      }
+
+      topResults.innerHTML = candidates.map((item, idx) => `
+        <div class="result-item small">
+          <span class="rank">#${idx + 1}</span><br>
+          Față de punct: ${formatMeters(item.distanceFromBase)}<br>
+          Min școală: ${formatMeters(item.minSchool)}<br>
+          Min biserică: ${formatMeters(item.minChurch)}<br>
+          Min medical: ${formatMeters(item.minMedical)}<br>
+          Coordonate: ${item.lat.toFixed(6)}, ${item.lon.toFixed(6)}
+        </div>
+      `).join("");
+    }
+
+    function setVerdict(el, ok, badCount = 0) {
+      if (ok) {
+        el.innerHTML = '<span class="ok-text">OK</span>';
+      } else {
+        el.innerHTML = `<span class="bad-text">SUB prag (${badCount})</span>`;
+      }
+    }
+
+    function renderSavedLocations() {
+      if (!state.saved.length) {
+        savedLocations.innerHTML = '<div class="muted">Nu există locații salvate.</div>';
+        return;
+      }
+
+      savedLocations.innerHTML = state.saved.map((item, idx) => `
+        <div class="result-item small">
+          <strong>#${idx + 1}</strong><br>
+          ${item.name}<br>
+          Verdict: ${item.verdict}<br>
+          Lat: ${item.lat.toFixed(6)}<br>
+          Lng: ${item.lon.toFixed(6)}
+        </div>
+      `).join("");
+    }
+
+    function exportSavedLocationsCsv() {
+      if (!state.saved.length) {
+        alert("Nu există locații salvate.");
+        return;
+      }
+
+      const rows = [];
+
+      rows.push([
+        "Nr",
+        "Locatie",
+        "Verdict",
+        "Latitudine",
+        "Longitudine"
+      ]);
+
+      state.saved.forEach((item, idx) => {
+        rows.push([
+          idx + 1,
+          item.name,
+          item.verdict,
+          item.lat,
+          item.lon
+        ]);
+      });
+
+      const csvContent = rows
+        .map((row) =>
+          row
+            .map((value) => `"${String(value).replace(/"/g, '""')}"`)
+            .join(",")
+        )
+        .join("\n");
+
+      const blob = new Blob([csvContent], {
+        type: "text/csv;charset=utf-8;"
+      });
+
+      const url = URL.createObjectURL(blob);
+      const link = document.createElement("a");
+
+      link.href = url;
+      link.download = "locatii-salvate.csv";
+
+      document.body.appendChild(link);
+      link.click();
+      document.body.removeChild(link);
+
+      URL.revokeObjectURL(url);
+
+      setStatus("CSV exportat cu succes.", "ok");
+    }
+
+    function updatePinCoords(lat, lon) {
+      pinCoords.innerHTML = `
+        Lat: ${lat.toFixed(6)}<br>
+        Lng: ${lon.toFixed(6)}
+      `;
+
+      state.lastLat = lat;
+      state.lastLon = lon;
+    }
+
+    function addBaseMarker(lat, lon) {
+      layers.basePoint = L.marker([lat, lon], {
+        iicon: basePointIcon,
+        draggable: true
+      })
+        .bindPopup("<strong>Punct introdus</strong>")
+        .addTo(map);
+
+      layers.basePoint.on("dragend", async function(e) {
+        const pos = e.target.getLatLng();
+        await analyzeAtCoords(pos.lat, pos.lng, "Pin mutat manual");
+      });
+    }
+
+    function addNearestMarker(item, label) {
+      if (!toggleNearest.checked) return;
+      if (!item) return;
+
+      const marker = L.marker([item.poi.lat, item.poi.lon], { icon: yellowIcon })
+        .bindPopup(`
+          <strong>${label}</strong><br>
+          ${item.poi.name || "Fără nume"}<br>
+          Distanță: ${formatMeters(item.distance)}
+        `);
+
+      marker.addTo(map);
+      layers.nearestMarkers.push(marker);
+    }
+
+    function addPoiMarkers(insideSchools, insideChurches, insideMedical) {
+      if (toggleSchools.checked) {
+        insideSchools.forEach((item) => {
+          const marker = L.marker([item.poi.lat, item.poi.lon], { icon: redIcon })
+            .bindPopup(`
+              <strong>Școală / creșă sub prag</strong><br>
+              ${item.poi.name || "Fără nume"}<br>
+              Distanță: ${formatMeters(item.distance)}
+            `);
+
+          marker.addTo(map);
+          layers.poiMarkers.push(marker);
+        });
+      }
+
+      if (toggleChurches.checked) {
+        insideChurches.forEach((item) => {
+          const marker = L.marker([item.poi.lat, item.poi.lon], { icon: redIcon })
+            .bindPopup(`
+              <strong>Biserică sub prag</strong><br>
+              ${item.poi.name || "Fără nume"}<br>
+              Distanță: ${formatMeters(item.distance)}
+            `);
+
+          marker.addTo(map);
+          layers.poiMarkers.push(marker);
+        });
+      }
+
+      if (toggleMedical.checked) {
+        insideMedical.forEach((item) => {
+          const marker = L.marker([item.poi.lat, item.poi.lon], { icon: redIcon })
+            .bindPopup(`
+              <strong>Medical sub prag</strong><br>
+              ${item.poi.name || "Fără nume"}<br>
+              Distanță: ${formatMeters(item.distance)}
+            `);
+
+          marker.addTo(map);
+          layers.poiMarkers.push(marker);
+        });
+      }
+    }
+
+    function addCandidateMarkers(baseLat, baseLon, candidates) {
+      if (!toggleCandidates.checked) return;
+
+      candidates.forEach((candidate, idx) => {
+        const marker = L.marker([candidate.lat, candidate.lon], {
+          icon: idx === 0 ? bigGreenIcon : greenIcon
+        })
+          .bindPopup(`
+            <strong>Locație #${idx + 1}</strong><br>
+            Distanță: ${formatMeters(candidate.distanceFromBase)}
+          `);
+
+        marker.addTo(map);
+        layers.gridCandidates.push(marker);
+      });
+    }
+function addHeatMap(
+  schools,
+  churches,
+  medical
+) {
+
+  const heatPoints = [];
+
+  schools.forEach((poi) => {
+    heatPoints.push([
+      poi.lat,
+      poi.lon,
+      0.9
+    ]);
+  });
+
+  churches.forEach((poi) => {
+    heatPoints.push([
+      poi.lat,
+      poi.lon,
+      0.7
+    ]);
+  });
+
+  medical.forEach((poi) => {
+    heatPoints.push([
+      poi.lat,
+      poi.lon,
+      0.6
+    ]);
+  });
+
+  if (!heatPoints.length) return;
+
+  layers.heatLayer = L.heatLayer(
+    heatPoints,
+    {
+      radius: 35,
+      blur: 28,
+      maxZoom: 18,
+      minOpacity: 0.25
+    }
+  ).addTo(map);
+}
+    function addForbiddenZones(schools, churches, medical, schoolT, churchT, medicalT) {
+      if (!toggleForbidden.checked) return;
+
+      if (toggleSchools.checked) {
+        schools.forEach((poi) => {
+          const circle = L.circle([poi.lat, poi.lon], {
+            radius: schoolT,
+            color: "#d12d2d",
+            fillColor: "#d12d2d",
+            fillOpacity: 0.10,
+            weight: 1
+          }).addTo(map);
+
+          layers.forbiddenZones.push(circle);
+        });
+      }
+
+      if (toggleChurches.checked) {
+        churches.forEach((poi) => {
+          const circle = L.circle([poi.lat, poi.lon], {
+            radius: churchT,
+            color: "#ff8800",
+            fillColor: "#ff8800",
+            fillOpacity: 0.09,
+            weight: 1
+          }).addTo(map);
+
+          layers.forbiddenZones.push(circle);
+        });
+      }
+
+      if (toggleMedical.checked) {
+        medical.forEach((poi) => {
+          const circle = L.circle([poi.lat, poi.lon], {
+            radius: medicalT,
+            color: "#7c3aed",
+            fillColor: "#7c3aed",
+            fillOpacity: 0.08,
+            weight: 1
+          }).addTo(map);
+
+          layers.forbiddenZones.push(circle);
+        });
+      }
+    }
+
+    function generateSimpleCandidates(baseLat, baseLon, schools, churches, medical, schoolT, churchT, medicalT) {
+      const candidates = [];
+
+      for (let i = 0; i < 60; i++) {
+        const lat = baseLat + ((Math.random() - 0.5) * 0.01);
+        const lon = baseLon + ((Math.random() - 0.5) * 0.01);
+
+        const minSchool = getNearestPoi(lat, lon, schools)?.distance ?? Infinity;
+        const minChurch = getNearestPoi(lat, lon, churches)?.distance ?? Infinity;
+        const minMedical = getNearestPoi(lat, lon, medical)?.distance ?? Infinity;
+
+        if (minSchool > schoolT && minChurch > churchT && minMedical > medicalT) {
+          candidates.push({
+            lat,
+            lon,
+            minSchool,
+            minChurch,
+            minMedical,
+            distanceFromBase: haversineDistance(baseLat, baseLon, lat, lon)
+          });
+        }
+      }
+
+      candidates.sort((a, b) => a.distanceFromBase - b.distanceFromBase);
+      return candidates.slice(0, 10);
+    }
+
+    async function analyzeAtCoords(lat, lon, displayName) {
+      clearMapLayers();
+      updatePinCoords(lat, lon);
+
+      const city = citySelect.value.trim();
+      const schoolT = Number(schoolThreshold.value);
+      const churchT = Number(churchThreshold.value);
+      const medicalT = Number(medicalThreshold.value);
+
+      const poiData = await loadPoi(city);
+      const { schools, churches, medical } = splitPois(poiData.pois || []);
+
+      const nearestSchoolItem = getNearestPoi(lat, lon, schools);
+      const nearestChurchItem = getNearestPoi(lat, lon, churches);
+      const nearestMedicalItem = getNearestPoi(lat, lon, medical);
+
+      const schoolsInThreshold = filterInsideThreshold(lat, lon, schools, schoolT);
+      const churchesInThreshold = filterInsideThreshold(lat, lon, churches, churchT);
+      const medicalInThreshold = filterInsideThreshold(lat, lon, medical, medicalT);
+
+      const schoolOk = schoolsInThreshold.length === 0;
+      const churchOk = churchesInThreshold.length === 0;
+      const medicalOk = medicalInThreshold.length === 0;
+      const finalOk = schoolOk && churchOk && medicalOk;
+
+      const topCandidates = generateSimpleCandidates(lat, lon, schools, churches, medical, schoolT, churchT, medicalT);
+
+      geoAddress.textContent = displayName;
+
+      setVerdict(schoolVerdict, schoolOk, schoolsInThreshold.length);
+      setVerdict(churchVerdict, churchOk, churchesInThreshold.length);
+      setVerdict(medicalVerdict, medicalOk, medicalInThreshold.length);
+      setVerdict(finalVerdict, finalOk, schoolsInThreshold.length + churchesInThreshold.length + medicalInThreshold.length);
+
+      zoneInfo.textContent =
+        `Școli: ${schools.length}\n` +
+        `Biserici: ${churches.length}\n` +
+        `Medical: ${medical.length}`;
+
+      renderNearest(nearestSchool, nearestSchoolItem);
+      renderNearest(nearestChurch, nearestChurchItem);
+      renderNearest(nearestMedical, nearestMedicalItem);
+
+      renderPoiList(schoolsInside, schoolsInThreshold);
+      renderPoiList(churchesInside, churchesInThreshold);
+      renderPoiList(medicalInside, medicalInThreshold);
+      renderTopCandidates(topCandidates);
+
+      addBaseMarker(lat, lon);
+
+      addForbiddenZones(schools, churches, medical, schoolT, churchT, medicalT);
+      addHeatMap(
+  schools,
+  churches,
+  medical
+);
+      addPoiMarkers(schoolsInThreshold, churchesInThreshold, medicalInThreshold);
+
+      addNearestMarker(nearestSchoolItem, "Cel mai apropiat POI școală");
+      addNearestMarker(nearestChurchItem, "Cel mai apropiat POI biserică");
+      addNearestMarker(nearestMedicalItem, "Cel mai apropiat POI medical");
+
+      addCandidateMarkers(lat, lon, topCandidates);
+
+      const fitLayers = [];
+
+      if (layers.basePoint) fitLayers.push(layers.basePoint);
+      layers.poiMarkers.forEach((x) => fitLayers.push(x));
+      layers.gridCandidates.forEach((x) => fitLayers.push(x));
+      layers.nearestMarkers.forEach((x) => fitLayers.push(x));
+
+      if (fitLayers.length) {
+        const group = L.featureGroup(fitLayers);
+        map.fitBounds(group.getBounds().pad(0.15));
+      } else {
+        map.setView([lat, lon], 16);
+      }
+
+      setStatus("Analiza a fost finalizată.", "ok");
+    }
+
+    async function analyze() {
+      try {
+        const city = citySelect.value.trim();
+        const address = addressInput.value.trim();
+
+        if (!city) throw new Error("Selectează oraș.");
+        if (!address) throw new Error("Introdu adresa.");
+
+        setStatus("Geocodare adresă...", "ok");
+
+        const geocoded = await geocodeAddress(city, address);
+        state.lastDisplayName = geocoded.displayName;
+
+        await analyzeAtCoords(geocoded.lat, geocoded.lon, geocoded.displayName);
+      } catch (err) {
+        console.error(err);
+        setStatus(err.message || "Eroare.", "bad");
+      }
+    }
+
+    streetViewBtn.addEventListener("click", () => {
+      if (!isFinite(state.lastLat) || !isFinite(state.lastLon)) {
+        alert("Analizează mai întâi o adresă.");
+        return;
+      }
+
+      const url = `https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=${state.lastLat},${state.lastLon}`;
+      window.open(url, "_blank");
+    });
+
+    saveLocationBtn.addEventListener("click", () => {
+      if (!isFinite(state.lastLat) || !isFinite(state.lastLon)) {
+        alert("Analizează mai întâi o locație.");
+        return;
+      }
+
+      const verdict = finalVerdict.innerText || "-";
+
+      state.saved.unshift({
+        name: state.lastDisplayName || "Locație",
+        lat: state.lastLat,
+        lon: state.lastLon,
+        verdict
+      });
+
+      renderSavedLocations();
+      setStatus("Locația a fost salvată.", "ok");
+    });
+
+    exportCsvBtn.addEventListener("click", exportSavedLocationsCsv);
+
+    analyzeBtn.addEventListener("click", analyze);
+
+    [toggleSchools, toggleChurches, toggleMedical, toggleNearest, toggleCandidates, toggleForbidden].forEach((checkbox) => {
+      checkbox.addEventListener("change", async () => {
+        if (isFinite(state.lastLat) && isFinite(state.lastLon)) {
+          await analyzeAtCoords(state.lastLat, state.lastLon, state.lastDisplayName || "Pin curent");
+        }
+      });
+    });
+
+    loadCities();
+    map.on("click", async (e) => {
+  try {
+    const lat = e.latlng.lat;
+    const lon = e.latlng.lng;
+
+    state.lastDisplayName = "Locație selectată manual";
+
+    await analyzeAtCoords(
+      lat,
+      lon,
+      `Locație selectată manual\n${lat.toFixed(6)}, ${lon.toFixed(6)}`
+    );
+
+  } catch (err) {
+    console.error(err);
+    setStatus("Eroare la analiza punctului selectat.", "bad");
+  }
+});
+  </script>
+</body>
+</html>

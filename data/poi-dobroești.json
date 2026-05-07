@@ -1,0 +1,136 @@
+{
+  "city": "Dobroești",
+  "generated_at": "2026-04-23T09:42:15.666Z",
+  "counts": {
+    "total": 7,
+    "schools": 2,
+    "churches": 5
+  },
+  "pois": [
+    {
+      "id": "node/4958793581",
+      "osm_id": 4958793581,
+      "osm_type": "node",
+      "name": "Grădinița KERMIT",
+      "category": "education",
+      "lat": 44.4655282,
+      "lon": 26.1669104,
+      "tags": {
+        "addr:city": "Fundeni - Dobroești",
+        "addr:housenumber": "16",
+        "addr:postcode": "077085",
+        "addr:street": "Intrarea Cireșului",
+        "amenity": "kindergarten",
+        "name": "Grădinița KERMIT"
+      }
+    },
+    {
+      "id": "node/10111268466",
+      "osm_id": 10111268466,
+      "osm_type": "node",
+      "name": "Campus Școlar Dobroești-Fundeni",
+      "category": "education",
+      "lat": 44.4597389,
+      "lon": 26.1700468,
+      "tags": {
+        "amenity": "school",
+        "grades": "0-8",
+        "name": "Campus Școlar Dobroești-Fundeni",
+        "operator": "Primăria Dobroești",
+        "operator:type": "public",
+        "website": "https://scoala2.dobroesti.net"
+      }
+    },
+    {
+      "id": "node/8818512952",
+      "osm_id": 8818512952,
+      "osm_type": "node",
+      "name": "Biserica Ortodoxă Dobroești",
+      "category": "place_of_worship",
+      "lat": 44.4487503,
+      "lon": 26.1780001,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă Dobroești",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/76930933",
+      "osm_id": 76930933,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă „Sfântul Eftimie - Fundenii Doamnei”",
+      "category": "place_of_worship",
+      "lat": 44.4567829,
+      "lon": 26.1635492,
+      "tags": {
+        "addr:city": "Fundeni - Dobroești",
+        "addr:country": "RO",
+        "addr:housenumber": "138",
+        "addr:postcode": "077086",
+        "addr:street": "Șoseaua Fundeni",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "romanian_orthodox",
+        "description": "http://www.crestinortodox.ro/biserici-manastiri/biserica-sfantul-eftimie-fundenii-doamnei-67809.html",
+        "heritage": "2",
+        "heritage:operator": "lmi",
+        "is_in:city": "București",
+        "is_in:country": "România",
+        "name": "Biserica Ortodoxă „Sfântul Eftimie - Fundenii Doamnei”",
+        "ref:RO:lmi": "IF-II-m-A-15285",
+        "religion": "christian",
+        "source": "http://www.ilfov.djc.ro/ObiectiveDetalii.aspx?ID=52",
+        "start_date": "1699",
+        "website": "http://www.protoieriailfovsud.ro/church/biserica-parohiei-fundenii-doamnei/",
+        "wikidata": "Q12721818",
+        "wikipedia": "ro:Biserica Fundenii Doamnei"
+      }
+    },
+    {
+      "id": "way/76931002",
+      "osm_id": 76931002,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.4567826,
+      "lon": 26.1634838,
+      "tags": {
+        "barrier": "fence",
+        "denomination": "romanian_orthodox",
+        "landuse": "religious",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/970158140",
+      "osm_id": 970158140,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.4487512,
+      "lon": 26.1780085,
+      "tags": {
+        "building": "church"
+      }
+    },
+    {
+      "id": "way/1415356355",
+      "osm_id": 1415356355,
+      "osm_type": "way",
+      "name": "Biserica Baptistă Betleem",
+      "category": "place_of_worship",
+      "lat": 44.4706013,
+      "lon": 26.1787523,
+      "tags": {
+        "addr:city": "Dobroești",
+        "addr:housenumber": "117B",
+        "addr:street": "Strada Stejarului",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "name": "Biserica Baptistă Betleem"
+      }
+    }
+  ]
+}

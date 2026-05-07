@@ -1,0 +1,353 @@
+[
+  {
+    "id": "node-2715336670",
+    "name": "Biserică",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.7442514,
+    "lng": 26.1780795,
+    "osmType": "node"
+  },
+  {
+    "id": "node-6185352409",
+    "name": "Biserică",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.7439595,
+    "lng": 26.111349,
+    "osmType": "node"
+  },
+  {
+    "id": "node-6593284985",
+    "name": "Mânăstirea Sanctuară",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.6752713,
+    "lng": 26.1121823,
+    "osmType": "node"
+  },
+  {
+    "id": "node-8654492293",
+    "name": "Școala gimnazială nr. 1",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.7244325,
+    "lng": 26.2249649,
+    "osmType": "node"
+  },
+  {
+    "id": "node-8654495962",
+    "name": "Centru de vaccinare Anti COVID 19",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 44.7249551,
+    "lng": 26.2265189,
+    "osmType": "node"
+  },
+  {
+    "id": "node-10734147811",
+    "name": "Școala Gimnazială Mihai Eminescu",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.6876931,
+    "lng": 26.1489513,
+    "osmType": "node"
+  },
+  {
+    "id": "node-11699420469",
+    "name": "Silistea Snagovului nr 3",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.7392478,
+    "lng": 26.1773725,
+    "osmType": "node"
+  },
+  {
+    "id": "node-11699420569",
+    "name": "Scoala Coadele",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.7359848,
+    "lng": 26.1600007,
+    "osmType": "node"
+  },
+  {
+    "id": "node-11699420570",
+    "name": "Scoala Coadele",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.7361368,
+    "lng": 26.1621951,
+    "osmType": "node"
+  },
+  {
+    "id": "node-11699420669",
+    "name": "Școala Gimnazială „Constantin Băicoianu” Tâncăbești",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.6762933,
+    "lng": 26.0829797,
+    "osmType": "node"
+  },
+  {
+    "id": "node-11699763969",
+    "name": "ciofliceni gradinita",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.686641,
+    "lng": 26.1202146,
+    "osmType": "node"
+  },
+  {
+    "id": "node-11699781269",
+    "name": "Scoala Ghermanesti",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.68758,
+    "lng": 26.1486208,
+    "osmType": "node"
+  },
+  {
+    "id": "node-11699797369",
+    "name": "Liceu si Gradinita Snagov",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.7081488,
+    "lng": 26.1730193,
+    "osmType": "node"
+  },
+  {
+    "id": "node-11699812569",
+    "name": "Scoala Gimn nr 1 Gruiu",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.7247044,
+    "lng": 26.2242784,
+    "osmType": "node"
+  },
+  {
+    "id": "node-11699849269",
+    "name": "Scoala ocol",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.7287374,
+    "lng": 26.2263761,
+    "osmType": "node"
+  },
+  {
+    "id": "node-11715961469",
+    "name": "Miara Vlasiei nr 127",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.6409277,
+    "lng": 26.2062359,
+    "osmType": "node"
+  },
+  {
+    "id": "node-11949774329",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.6394763,
+    "lng": 26.2048996,
+    "osmType": "node"
+  },
+  {
+    "id": "node-13739739842",
+    "name": "CMI Dr. Irimia Mihaela",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 44.6768275,
+    "lng": 26.0837182,
+    "osmType": "node"
+  },
+  {
+    "id": "way-27637276",
+    "name": "Spitalul Clinic de Urgență Prof. Dr. Agrippa Ionescu",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 44.6460682,
+    "lng": 26.1201508,
+    "osmType": "way"
+  },
+  {
+    "id": "way-305668361",
+    "name": "Școala Gimnazială nr. 1",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.7269026,
+    "lng": 26.0992475,
+    "osmType": "way"
+  },
+  {
+    "id": "way-305670187",
+    "name": "Biserică",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.7071629,
+    "lng": 26.093243,
+    "osmType": "way"
+  },
+  {
+    "id": "way-305683309",
+    "name": "Biserica „Sfinții Împărați Constantin și Elena\", „Înălțarea Domnului\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.6758232,
+    "lng": 26.0772662,
+    "osmType": "way"
+  },
+  {
+    "id": "way-306175896",
+    "name": "Biserica „Adormirea Precistei”",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.7254154,
+    "lng": 26.0890322,
+    "osmType": "way"
+  },
+  {
+    "id": "way-334979769",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.7283661,
+    "lng": 26.0853994,
+    "osmType": "way"
+  },
+  {
+    "id": "way-334979771",
+    "name": "Biserica „Adormirea Maicii Domnului”",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.7289969,
+    "lng": 26.0842381,
+    "osmType": "way"
+  },
+  {
+    "id": "way-666072516",
+    "name": "Biserica „Adormirea Maicii Domnului\", „Sfântul Nicolae\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.6418726,
+    "lng": 26.2031837,
+    "osmType": "way"
+  },
+  {
+    "id": "way-821449257",
+    "name": "Liceul Mihail Kogălniceanu",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.7155768,
+    "lng": 26.1729744,
+    "osmType": "way"
+  },
+  {
+    "id": "way-821525655",
+    "name": "Biserica „Buna Vestire\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.710604,
+    "lng": 26.1726762,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1154433591",
+    "name": "Grădinița Tâncăbești",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 44.6764939,
+    "lng": 26.0832958,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1169401748",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.7398994,
+    "lng": 26.1144291,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1169401750",
+    "name": "Biserica „Izvorul Tămăduirii\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.7347865,
+    "lng": 26.0739623,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1169401751",
+    "name": "Biserica „Sfantul Ioan Botezatorul\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.698836,
+    "lng": 26.1199008,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1171439168",
+    "name": "Biserica „Sfinții Arhangheli Mihail și Gavriil\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.7292251,
+    "lng": 26.2259634,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1171529602",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.645942,
+    "lng": 26.2221228,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1172094921",
+    "name": "Biserica „Sfântul Nicolae”",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.6886419,
+    "lng": 26.1245758,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1172094922",
+    "name": "Biserica „Sfântul Nicolae”",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.6935088,
+    "lng": 26.146767,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1172094923",
+    "name": "Biserica „Intrarea Maicii Domnului în Biserică”",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.7295145,
+    "lng": 26.1757035,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1183919484",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.6709497,
+    "lng": 26.2082941,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1233253076",
+    "name": "Școala Gimnazială Moara Vlăsiei",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.6431779,
+    "lng": 26.227287,
+    "osmType": "way"
+  }
+]

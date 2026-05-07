@@ -1,0 +1,150 @@
+{
+  "city": "Babadag",
+  "generated_at": "2026-04-23T09:22:05.998Z",
+  "counts": {
+    "total": 8,
+    "schools": 2,
+    "churches": 6
+  },
+  "pois": [
+    {
+      "id": "way/842336961",
+      "osm_id": 842336961,
+      "osm_type": "way",
+      "name": "Școala gimnazială Mircea cel Bătrân",
+      "category": "education",
+      "lat": 44.8900682,
+      "lon": 28.725993,
+      "tags": {
+        "addr:street": "Strada Cabanei",
+        "amenity": "school",
+        "building": "yes",
+        "name": "Școala gimnazială Mircea cel Bătrân"
+      }
+    },
+    {
+      "id": "way/842336995",
+      "osm_id": 842336995,
+      "osm_type": "way",
+      "name": "Școala generală Nr. 3 Constantin Brâncoveanu",
+      "category": "education",
+      "lat": 44.8918314,
+      "lon": 28.7270988,
+      "tags": {
+        "amenity": "school",
+        "building": "yes",
+        "name": "Școala generală Nr. 3 Constantin Brâncoveanu"
+      }
+    },
+    {
+      "id": "way/132234786",
+      "osm_id": 132234786,
+      "osm_type": "way",
+      "name": "Geamia Ali-Gazi Pașa",
+      "category": "place_of_worship",
+      "lat": 44.8924174,
+      "lon": 28.7207484,
+      "tags": {
+        "addr:city": "Babadag",
+        "addr:country": "RO",
+        "addr:housenumber": "2",
+        "addr:postcode": "825100",
+        "addr:street": "Strada Geamiei",
+        "alt_name": "Moscheea Babadag",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "sunni",
+        "heritage": "2",
+        "heritage:operator": "lmi",
+        "historic": "yes",
+        "name": "Geamia Ali-Gazi Pașa",
+        "name:pl": "Meczet meczet Gazi Ali Paszy",
+        "ref:RO:lmi": "TL-II-m-A-06000",
+        "religion": "muslim",
+        "start_date": "1619",
+        "tourism": "attraction",
+        "wikipedia": "ro:Geamia_Ali-Gazi_Pașa_din_Babadag"
+      }
+    },
+    {
+      "id": "way/174188956",
+      "osm_id": 174188956,
+      "osm_type": "way",
+      "name": "Cimitir",
+      "category": "place_of_worship",
+      "lat": 44.8934535,
+      "lon": 28.7311627,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitir",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/537994270",
+      "osm_id": 537994270,
+      "osm_type": "way",
+      "name": "Biserica „Sfântul Dumitru\"",
+      "category": "place_of_worship",
+      "lat": 44.8941842,
+      "lon": 28.7270314,
+      "tags": {
+        "addr:city": "Babadag",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica „Sfântul Dumitru\"",
+        "religion": "christian",
+        "start_date": "1923"
+      }
+    },
+    {
+      "id": "way/842336155",
+      "osm_id": 842336155,
+      "osm_type": "way",
+      "name": "Biserica „Adormirea Maicii Domnului”",
+      "category": "place_of_worship",
+      "lat": 44.8868365,
+      "lon": 28.7048897,
+      "tags": {
+        "addr:city": "Babadag",
+        "addr:street": "Strada Republicii",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica „Adormirea Maicii Domnului”",
+        "religion": "christian",
+        "start_date": "1934"
+      }
+    },
+    {
+      "id": "way/1206338160",
+      "osm_id": 1206338160,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.8942884,
+      "lon": 28.7269746,
+      "tags": {
+        "denomination": "romanian_orthodox",
+        "landuse": "religious",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1206338162",
+      "osm_id": 1206338162,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.8868969,
+      "lon": 28.7048968,
+      "tags": {
+        "denomination": "romanian_orthodox",
+        "landuse": "religious",
+        "religion": "christian"
+      }
+    }
+  ]
+}

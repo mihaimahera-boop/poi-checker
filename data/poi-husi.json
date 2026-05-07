@@ -1,0 +1,173 @@
+[
+  {
+    "id": "node-1316063171",
+    "name": "Catedrala Episcopală Huși",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.67665,
+    "lng": 28.05798,
+    "osmType": "node"
+  },
+  {
+    "id": "node-1316063366",
+    "name": "Mănăstirea Schimbarea la Față",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.67281,
+    "lng": 28.02129,
+    "osmType": "node"
+  },
+  {
+    "id": "node-4865156295",
+    "name": "Biserică",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.6659366,
+    "lng": 28.0710705,
+    "osmType": "node"
+  },
+  {
+    "id": "node-4865669436",
+    "name": "Biserica Sfântul Dumitru",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.672389,
+    "lng": 28.0689999,
+    "osmType": "node"
+  },
+  {
+    "id": "node-4991627821",
+    "name": "Grădinița nr.1",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 46.6706666,
+    "lng": 28.0638619,
+    "osmType": "node"
+  },
+  {
+    "id": "node-5180594553",
+    "name": "Biserică",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.6736845,
+    "lng": 28.0568337,
+    "osmType": "node"
+  },
+  {
+    "id": "node-5180840751",
+    "name": "Spitalul Municipal Huși",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 46.6751099,
+    "lng": 28.0502675,
+    "osmType": "node"
+  },
+  {
+    "id": "node-5180840775",
+    "name": "Colegiul Agricol Dimitrie Cantemir -Huși",
+    "type": "school",
+    "subcategory": "college",
+    "lat": 46.6718473,
+    "lng": 28.047795,
+    "osmType": "node"
+  },
+  {
+    "id": "node-5189211102",
+    "name": "Biserică",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.6739689,
+    "lng": 28.0522026,
+    "osmType": "node"
+  },
+  {
+    "id": "node-5215729272",
+    "name": "Biserica Sfântul Gheorghe",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.6706869,
+    "lng": 28.0652726,
+    "osmType": "node"
+  },
+  {
+    "id": "node-10855406377",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.6773576,
+    "lng": 28.0220294,
+    "osmType": "node"
+  },
+  {
+    "id": "way-208575570",
+    "name": "Seminarul Teologic \"Sfântul Ioan Gură de Aur\" Huși",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.674996,
+    "lng": 28.0584931,
+    "osmType": "way"
+  },
+  {
+    "id": "way-208575574",
+    "name": "Colegiul Național \"Cuza-Vodă\" Huși",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.6749104,
+    "lng": 28.0572367,
+    "osmType": "way"
+  },
+  {
+    "id": "way-208575579",
+    "name": "Școala cu clasele I-VIII Nr.3 \"Anastasie Panu\" Huși",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.6743421,
+    "lng": 28.0564322,
+    "osmType": "way"
+  },
+  {
+    "id": "way-208575586",
+    "name": "Colegiul Național \"Cuza-Vodă\" Huși (corp nou)",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.674864,
+    "lng": 28.0558787,
+    "osmType": "way"
+  },
+  {
+    "id": "way-208575590",
+    "name": "Liceul Agricol \"Dimitrie Cantemir\" Huși",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.6752751,
+    "lng": 28.0578036,
+    "osmType": "way"
+  },
+  {
+    "id": "way-261088413",
+    "name": "Dispensar medic de familie",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 46.7059436,
+    "lng": 28.0390468,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1353495154",
+    "name": "Sala Regatului a Martorilor lui Iehova",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.6740027,
+    "lng": 28.0591975,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1426091526",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.6739903,
+    "lng": 28.0626314,
+    "osmType": "way"
+  }
+]

@@ -1,0 +1,6052 @@
+{
+  "city": "Giurgiu",
+  "generated_at": "2026-04-23T09:44:58.139Z",
+  "counts": {
+    "total": 397,
+    "schools": 120,
+    "churches": 277
+  },
+  "pois": [
+    {
+      "id": "node/500265415",
+      "osm_id": 500265415,
+      "osm_type": "node",
+      "name": "Școala generală nr. 3",
+      "category": "education",
+      "lat": 43.8963109,
+      "lon": 25.9548116,
+      "tags": {
+        "amenity": "school",
+        "name": "Școala generală nr. 3"
+      }
+    },
+    {
+      "id": "node/506967991",
+      "osm_id": 506967991,
+      "osm_type": "node",
+      "name": "Grădinița cu program normal Nr. 2",
+      "category": "education",
+      "lat": 43.8878397,
+      "lon": 25.9677759,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Grădinița cu program normal Nr. 2"
+      }
+    },
+    {
+      "id": "node/2918314857",
+      "osm_id": 2918314857,
+      "osm_type": "node",
+      "name": "Liceul Tehnologic Tiu Dumitrescu",
+      "category": "education",
+      "lat": 44.3222051,
+      "lon": 25.9049765,
+      "tags": {
+        "amenity": "school",
+        "name": "Liceul Tehnologic Tiu Dumitrescu",
+        "source": "survey"
+      }
+    },
+    {
+      "id": "node/3566604810",
+      "osm_id": 3566604810,
+      "osm_type": "node",
+      "name": "Grădinița Naipu",
+      "category": "education",
+      "lat": 44.1486494,
+      "lon": 25.7613784,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Grădinița Naipu"
+      }
+    },
+    {
+      "id": "node/3932043716",
+      "osm_id": 3932043716,
+      "osm_type": "node",
+      "name": "Școala generală cu clasele 1-8",
+      "category": "education",
+      "lat": 44.443715,
+      "lon": 25.7154634,
+      "tags": {
+        "amenity": "school",
+        "name": "Școala generală cu clasele 1-8"
+      }
+    },
+    {
+      "id": "node/4177382625",
+      "osm_id": 4177382625,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 43.9745401,
+      "lon": 25.9642733,
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "node/4177382669",
+      "osm_id": 4177382669,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 43.967132,
+      "lon": 25.97245,
+      "tags": {
+        "amenity": "kindergarten"
+      }
+    },
+    {
+      "id": "node/4177474397",
+      "osm_id": 4177474397,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 43.9510754,
+      "lon": 25.9334438,
+      "tags": {
+        "addr:city": "Bălănoaia",
+        "addr:housenumber": "40",
+        "addr:postcode": "087080",
+        "addr:street": "Strada Bălănoaiei",
+        "amenity": "kindergarten"
+      }
+    },
+    {
+      "id": "node/4804586249",
+      "osm_id": 4804586249,
+      "osm_type": "node",
+      "name": "Grădinița Comana",
+      "category": "education",
+      "lat": 44.1725448,
+      "lon": 26.1456734,
+      "tags": {
+        "addr:city": "Comana",
+        "addr:housenumber": "50",
+        "addr:street": "Strada Șerban Cantacuzino",
+        "amenity": "kindergarten",
+        "name": "Grădinița Comana"
+      }
+    },
+    {
+      "id": "node/4807987559",
+      "osm_id": 4807987559,
+      "osm_type": "node",
+      "name": "Școala gimnazială nr.3 Comana",
+      "category": "education",
+      "lat": 44.1725061,
+      "lon": 26.1454369,
+      "tags": {
+        "addr:city": "Comana",
+        "addr:housenumber": "50",
+        "addr:street": "Strada Șerban Cantacuzino",
+        "amenity": "school",
+        "name": "Școala gimnazială nr.3 Comana"
+      }
+    },
+    {
+      "id": "node/4882844493",
+      "osm_id": 4882844493,
+      "osm_type": "node",
+      "name": "Școala generală Vlad Țepeș",
+      "category": "education",
+      "lat": 44.1321361,
+      "lon": 26.1307478,
+      "tags": {
+        "amenity": "school",
+        "name": "Școala generală Vlad Țepeș"
+      }
+    },
+    {
+      "id": "node/4903196981",
+      "osm_id": 4903196981,
+      "osm_type": "node",
+      "name": "Școala gimnazială Cetatea",
+      "category": "education",
+      "lat": 43.9474982,
+      "lon": 25.952809,
+      "tags": {
+        "amenity": "school",
+        "name": "Școala gimnazială Cetatea"
+      }
+    },
+    {
+      "id": "node/5469439525",
+      "osm_id": 5469439525,
+      "osm_type": "node",
+      "name": "Școala primară Clejani",
+      "category": "education",
+      "lat": 44.3206005,
+      "lon": 25.6986633,
+      "tags": {
+        "amenity": "school",
+        "name": "Școala primară Clejani"
+      }
+    },
+    {
+      "id": "node/5646043928",
+      "osm_id": 5646043928,
+      "osm_type": "node",
+      "name": "Școala cu clasele 1-4",
+      "category": "education",
+      "lat": 44.2386877,
+      "lon": 25.8170475,
+      "tags": {
+        "addr:city": "Valea Plopilor",
+        "amenity": "school",
+        "name": "Școala cu clasele 1-4"
+      }
+    },
+    {
+      "id": "node/6123759534",
+      "osm_id": 6123759534,
+      "osm_type": "node",
+      "name": "Școala Profesională Clejani",
+      "category": "education",
+      "lat": 44.3238575,
+      "lon": 25.7357777,
+      "tags": {
+        "addr:city": "Sterea",
+        "addr:housenumber": "5",
+        "addr:street": "Strada Școlii",
+        "amenity": "school",
+        "name": "Școala Profesională Clejani"
+      }
+    },
+    {
+      "id": "node/7147434787",
+      "osm_id": 7147434787,
+      "osm_type": "node",
+      "name": "Scoală",
+      "category": "education",
+      "lat": 44.4042123,
+      "lon": 25.7804489,
+      "tags": {
+        "building": "school",
+        "name": "Scoală"
+      }
+    },
+    {
+      "id": "node/7358380073",
+      "osm_id": 7358380073,
+      "osm_type": "node",
+      "name": "Liceul Udriste Nasturel, Hotarele",
+      "category": "education",
+      "lat": 44.1774832,
+      "lon": 26.367784,
+      "tags": {
+        "amenity": "college",
+        "name": "Liceul Udriste Nasturel, Hotarele"
+      }
+    },
+    {
+      "id": "node/7883029262",
+      "osm_id": 7883029262,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.1822911,
+      "lon": 26.0409697,
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "node/8568524022",
+      "osm_id": 8568524022,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 43.8589924,
+      "lon": 25.9088558,
+      "tags": {
+        "addr:street": "Str. Morii",
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "node/10773931085",
+      "osm_id": 10773931085,
+      "osm_type": "node",
+      "name": "Școala Gimnaziala nr.1 Poenari",
+      "category": "education",
+      "lat": 44.4700477,
+      "lon": 25.7677455,
+      "tags": {
+        "addr:city": "Poenari",
+        "amenity": "school",
+        "name": "Școala Gimnaziala nr.1 Poenari"
+      }
+    },
+    {
+      "id": "node/11621903105",
+      "osm_id": 11621903105,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.1641435,
+      "lon": 25.819923,
+      "tags": {
+        "amenity": "school",
+        "isced:level": "1"
+      }
+    },
+    {
+      "id": "node/12199387133",
+      "osm_id": 12199387133,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.0259844,
+      "lon": 26.0185578,
+      "tags": {
+        "addr:city": "Frasinu",
+        "addr:street": "Strada Principală",
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "way/88704682",
+      "osm_id": 88704682,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 43.8924599,
+      "lon": 25.9664681,
+      "tags": {
+        "building": "school",
+        "building:colour": "orange",
+        "building:levels": "2",
+        "roof:colour": "red",
+        "roof:shape": "hipped"
+      }
+    },
+    {
+      "id": "way/88735349",
+      "osm_id": 88735349,
+      "osm_type": "way",
+      "name": "Colegiul Național Ion Maiorescu",
+      "category": "education",
+      "lat": 43.8925776,
+      "lon": 25.9667635,
+      "tags": {
+        "amenity": "college",
+        "name": "Colegiul Național Ion Maiorescu",
+        "operator:type": "public"
+      }
+    },
+    {
+      "id": "way/179941501",
+      "osm_id": 179941501,
+      "osm_type": "way",
+      "name": "Școală",
+      "category": "education",
+      "lat": 44.4404167,
+      "lon": 25.815576,
+      "tags": {
+        "amenity": "school",
+        "building": "school",
+        "name": "Școală"
+      }
+    },
+    {
+      "id": "way/288272883",
+      "osm_id": 288272883,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.3222717,
+      "lon": 25.9049119,
+      "tags": {
+        "building": "school",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "id": "way/309124414",
+      "osm_id": 309124414,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 43.8912683,
+      "lon": 25.956923,
+      "tags": {
+        "building": "school",
+        "building:colour": "white",
+        "building:levels": "3",
+        "building:use": "education",
+        "roof:colour": "grey",
+        "roof:material": "metal",
+        "roof:shape": "hipped"
+      }
+    },
+    {
+      "id": "way/309124424",
+      "osm_id": 309124424,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 43.8884123,
+      "lon": 25.9677949,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/318486859",
+      "osm_id": 318486859,
+      "osm_type": "way",
+      "name": "Școala Generală Mihăilești",
+      "category": "education",
+      "lat": 44.3185932,
+      "lon": 25.9220377,
+      "tags": {
+        "building": "school",
+        "name": "Școala Generală Mihăilești"
+      }
+    },
+    {
+      "id": "way/318486868",
+      "osm_id": 318486868,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.3222828,
+      "lon": 25.9046057,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/391324265",
+      "osm_id": 391324265,
+      "osm_type": "way",
+      "name": "Școala cu clasele 1-8 Isvoarele",
+      "category": "education",
+      "lat": 44.1694492,
+      "lon": 26.3117496,
+      "tags": {
+        "amenity": "school",
+        "building": "yes",
+        "name": "Școala cu clasele 1-8 Isvoarele"
+      }
+    },
+    {
+      "id": "way/396257770",
+      "osm_id": 396257770,
+      "osm_type": "way",
+      "name": "Scola din BULBUCATA .I-VIII",
+      "category": "education",
+      "lat": 44.2839493,
+      "lon": 25.8067894,
+      "tags": {
+        "addr:city": "Bulbucata",
+        "building": "school",
+        "name": "Scola din BULBUCATA .I-VIII"
+      }
+    },
+    {
+      "id": "way/396258110",
+      "osm_id": 396258110,
+      "osm_type": "way",
+      "name": "Școala I-VIII",
+      "category": "education",
+      "lat": 44.2839613,
+      "lon": 25.8068015,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Școala I-VIII"
+      }
+    },
+    {
+      "id": "way/427068431",
+      "osm_id": 427068431,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Specială Nr. 1 Giurgiu",
+      "category": "education",
+      "lat": 43.9051483,
+      "lon": 25.977956,
+      "tags": {
+        "addr:city": "Giurgiu",
+        "addr:housenumber": "83",
+        "addr:postcode": "080461",
+        "addr:street": "Strada 1 Decembrie 1918",
+        "amenity": "school",
+        "building": "yes",
+        "name": "Școala Gimnazială Specială Nr. 1 Giurgiu",
+        "wheelchair": "designated"
+      }
+    },
+    {
+      "id": "way/430206339",
+      "osm_id": 430206339,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 43.8896915,
+      "lon": 25.959346,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/479040388",
+      "osm_id": 479040388,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Nr. 1 Ghimpați",
+      "category": "education",
+      "lat": 44.1902808,
+      "lon": 25.7821209,
+      "tags": {
+        "addr:city": "Ghimpați",
+        "addr:housenumber": "2",
+        "addr:street": "Aleea Parcului",
+        "amenity": "school",
+        "building": "yes",
+        "grades": "5-8",
+        "isced:level": "2",
+        "name": "Școala Gimnazială Nr. 1 Ghimpați",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "id": "way/576273888",
+      "osm_id": 576273888,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.2232622,
+      "lon": 26.1509669,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/653411115",
+      "osm_id": 653411115,
+      "osm_type": "way",
+      "name": "Școala Profesională Clejani",
+      "category": "education",
+      "lat": 44.3238607,
+      "lon": 25.7357806,
+      "tags": {
+        "addr:city": "Sterea",
+        "addr:housenumber": "5",
+        "addr:street": "Strada Școlii",
+        "amenity": "school",
+        "name": "Școala Profesională Clejani"
+      }
+    },
+    {
+      "id": "way/787094323",
+      "osm_id": 787094323,
+      "osm_type": "way",
+      "name": "Liceul Udriste Nasturel, Hotarele",
+      "category": "education",
+      "lat": 44.1774454,
+      "lon": 26.3677591,
+      "tags": {
+        "building": "school",
+        "building:levels": "2",
+        "name": "Liceul Udriste Nasturel, Hotarele"
+      }
+    },
+    {
+      "id": "way/972196905",
+      "osm_id": 972196905,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.1666286,
+      "lon": 25.9376374,
+      "tags": {
+        "amenity": "kindergarten"
+      }
+    },
+    {
+      "id": "way/972196906",
+      "osm_id": 972196906,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.1666855,
+      "lon": 25.9376907,
+      "tags": {
+        "building": "kindergarten"
+      }
+    },
+    {
+      "id": "way/972196908",
+      "osm_id": 972196908,
+      "osm_type": "way",
+      "name": "Scoala Gimnaziala №1",
+      "category": "education",
+      "lat": 44.1676905,
+      "lon": 25.9371663,
+      "tags": {
+        "amenity": "school",
+        "name": "Scoala Gimnaziala №1"
+      }
+    },
+    {
+      "id": "way/972196909",
+      "osm_id": 972196909,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.1671755,
+      "lon": 25.9372223,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/986969675",
+      "osm_id": 986969675,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 43.888124,
+      "lon": 25.963912,
+      "tags": {
+        "building": "school",
+        "building:use": "education",
+        "check_date:opening_hours": "2024-05-22",
+        "opening_hours:signed": "no"
+      }
+    },
+    {
+      "id": "way/1015767556",
+      "osm_id": 1015767556,
+      "osm_type": "way",
+      "name": "Şcoala Dăiţa",
+      "category": "education",
+      "lat": 44.0128917,
+      "lon": 25.9926844,
+      "tags": {
+        "building": "school",
+        "name": "Şcoala Dăiţa"
+      }
+    },
+    {
+      "id": "way/1057003308",
+      "osm_id": 1057003308,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.2232674,
+      "lon": 26.1509063,
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "way/1126985007",
+      "osm_id": 1126985007,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.2110519,
+      "lon": 26.3035572,
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "way/1176315175",
+      "osm_id": 1176315175,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.1968243,
+      "lon": 25.7849356,
+      "tags": {
+        "amenity": "school",
+        "building": "yes"
+      }
+    },
+    {
+      "id": "way/1184943886",
+      "osm_id": 1184943886,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 43.8898347,
+      "lon": 25.9591058,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/1278493125",
+      "osm_id": 1278493125,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Iepurești",
+      "category": "education",
+      "lat": 44.2593699,
+      "lon": 25.8806965,
+      "tags": {
+        "building": "school",
+        "name": "Școala Gimnazială Iepurești"
+      }
+    },
+    {
+      "id": "way/1305574017",
+      "osm_id": 1305574017,
+      "osm_type": "way",
+      "name": "Școala generală nr. 4 Mihai Eminescu",
+      "category": "education",
+      "lat": 43.8934972,
+      "lon": 25.9684473,
+      "tags": {
+        "amenity": "school",
+        "check_date": "2024-05-17",
+        "name": "Școala generală nr. 4 Mihai Eminescu"
+      }
+    },
+    {
+      "id": "way/1365694085",
+      "osm_id": 1365694085,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.5129611,
+      "lon": 25.6470481,
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "way/1365694086",
+      "osm_id": 1365694086,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.5133043,
+      "lon": 25.647382,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/1367945466",
+      "osm_id": 1367945466,
+      "osm_type": "way",
+      "name": "Școala Generală cu clasele I-VIII Nr. 8 ,,Academician Marin Voiculescu\"",
+      "category": "education",
+      "lat": 43.9039949,
+      "lon": 25.968357,
+      "tags": {
+        "amenity": "school",
+        "name": "Școala Generală cu clasele I-VIII Nr. 8 ,,Academician Marin Voiculescu\"",
+        "operator:type": "public",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "id": "way/1370794483",
+      "osm_id": 1370794483,
+      "osm_type": "way",
+      "name": "Scoala Gimnazială Nr. 1 ,,Sfantul Gheorghe\"",
+      "category": "education",
+      "lat": 43.8897036,
+      "lon": 25.959247,
+      "tags": {
+        "addr:city": "Giurgiu",
+        "addr:housenumber": "2",
+        "addr:street": "Strada Tudor Vianu",
+        "amenity": "school",
+        "name": "Scoala Gimnazială Nr. 1 ,,Sfantul Gheorghe\"",
+        "operator:type": "public",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "id": "way/1373615121",
+      "osm_id": 1373615121,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.0471244,
+      "lon": 26.0656222,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/1373615122",
+      "osm_id": 1373615122,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.0473861,
+      "lon": 26.0655701,
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "way/1373615131",
+      "osm_id": 1373615131,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.0404823,
+      "lon": 26.0483801,
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "way/1375063395",
+      "osm_id": 1375063395,
+      "osm_type": "way",
+      "name": "Școala generală nr. 3",
+      "category": "education",
+      "lat": 43.8962134,
+      "lon": 25.9547309,
+      "tags": {
+        "addr:city": "Giurgiu",
+        "amenity": "school",
+        "building": "yes",
+        "name": "Școala generală nr. 3"
+      }
+    },
+    {
+      "id": "way/1379027695",
+      "osm_id": 1379027695,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Nr. 10",
+      "category": "education",
+      "lat": 43.908777,
+      "lon": 25.9757035,
+      "tags": {
+        "addr:housenumber": "24",
+        "addr:street": "Strada Tineretului",
+        "amenity": "school",
+        "name": "Școala Gimnazială Nr. 10",
+        "operator:type": "public",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "id": "way/1379351692",
+      "osm_id": 1379351692,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Nr. 6 „Savin Popescu“",
+      "category": "education",
+      "lat": 43.9051618,
+      "lon": 25.9786671,
+      "tags": {
+        "addr:city": "Giurgiu",
+        "addr:housenumber": "81",
+        "addr:postcode": "080461",
+        "addr:street": "Strada 1 Decembrie 1918",
+        "amenity": "school",
+        "building": "yes",
+        "email": "savinpopescu6@yahoo.com",
+        "name": "Școala Gimnazială Nr. 6 „Savin Popescu“",
+        "phone": "+40 246 230 933",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "id": "way/1379351718",
+      "osm_id": 1379351718,
+      "osm_type": "way",
+      "name": "Liceul Tehnologic „Ion Barbu“",
+      "category": "education",
+      "lat": 43.9057579,
+      "lon": 25.9788959,
+      "tags": {
+        "addr:city": "Giurgiu",
+        "addr:housenumber": "83",
+        "addr:postcode": "080461",
+        "addr:street": "Strada 1 Decembrie 1918",
+        "amenity": "school",
+        "building": "yes",
+        "email": "liceul_ionbarbu@yahoo.com",
+        "name": "Liceul Tehnologic „Ion Barbu“",
+        "operator:type": "public",
+        "phone": "+40 246 221 193",
+        "school:gender": "mixed",
+        "website": "https://liceulionbarbugiurgiu.ro",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "id": "way/1380224467",
+      "osm_id": 1380224467,
+      "osm_type": "way",
+      "name": "Grădinița program prelungit Nr. 3",
+      "category": "education",
+      "lat": 43.9072116,
+      "lon": 25.9794659,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Grădinița program prelungit Nr. 3"
+      }
+    },
+    {
+      "id": "way/1381589888",
+      "osm_id": 1381589888,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Nr. 5 cu clasele I-VIII Emil Gulian",
+      "category": "education",
+      "lat": 43.9068587,
+      "lon": 25.972741,
+      "tags": {
+        "amenity": "school",
+        "name": "Școala Gimnazială Nr. 5 cu clasele I-VIII Emil Gulian"
+      }
+    },
+    {
+      "id": "way/1381589893",
+      "osm_id": 1381589893,
+      "osm_type": "way",
+      "name": "Grădinița cu pr. prelungit \"Căsuța Fermecată\"",
+      "category": "education",
+      "lat": 43.90664,
+      "lon": 25.9748514,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Grădinița cu pr. prelungit \"Căsuța Fermecată\""
+      }
+    },
+    {
+      "id": "way/1382282921",
+      "osm_id": 1382282921,
+      "osm_type": "way",
+      "name": "Şcoala Gimnazială Nr. 7",
+      "category": "education",
+      "lat": 43.8884802,
+      "lon": 25.9678555,
+      "tags": {
+        "addr:city": "Giurgiu",
+        "addr:housenumber": "21",
+        "addr:postcode": "080461",
+        "addr:street": "Strada Episcopiei",
+        "amenity": "school",
+        "email": "scoalagenerala7@yahoo.com",
+        "name": "Şcoala Gimnazială Nr. 7",
+        "operator:type": "public",
+        "phone": "+40 246 214 920"
+      }
+    },
+    {
+      "id": "way/1384435848",
+      "osm_id": 1384435848,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.0917187,
+      "lon": 25.6688176,
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "way/1386882612",
+      "osm_id": 1386882612,
+      "osm_type": "way",
+      "name": "Liceul Teoretic ,,Tudor Vianu\"",
+      "category": "education",
+      "lat": 43.8912899,
+      "lon": 25.9568093,
+      "tags": {
+        "amenity": "school",
+        "name": "Liceul Teoretic ,,Tudor Vianu\"",
+        "operator:type": "public"
+      }
+    },
+    {
+      "id": "way/1388056729",
+      "osm_id": 1388056729,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 43.8139083,
+      "lon": 25.8183747,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/1388056746",
+      "osm_id": 1388056746,
+      "osm_type": "way",
+      "name": "Școala Generală Malu",
+      "category": "education",
+      "lat": 43.8138355,
+      "lon": 25.8180477,
+      "tags": {
+        "addr:city": "Malu",
+        "amenity": "school",
+        "name": "Școala Generală Malu"
+      }
+    },
+    {
+      "id": "way/1388099845",
+      "osm_id": 1388099845,
+      "osm_type": "way",
+      "name": "Grădinița cu program prelungit ,,Prichindeii\"",
+      "category": "education",
+      "lat": 43.8871949,
+      "lon": 25.9618635,
+      "tags": {
+        "addr:city": "Giurgiu",
+        "addr:housenumber": "3",
+        "addr:street": "Strada Libertății",
+        "amenity": "kindergarten",
+        "name": "Grădinița cu program prelungit ,,Prichindeii\""
+      }
+    },
+    {
+      "id": "way/1388740618",
+      "osm_id": 1388740618,
+      "osm_type": "way",
+      "name": "Școala Gimnazială nr. 1",
+      "category": "education",
+      "lat": 44.2535579,
+      "lon": 26.0500776,
+      "tags": {
+        "addr:city": "Adunații-Copăceni",
+        "addr:housenumber": "14",
+        "addr:street": "Strada Școlii",
+        "amenity": "school",
+        "education": "school",
+        "grades": "5-8",
+        "name": "Școala Gimnazială nr. 1"
+      }
+    },
+    {
+      "id": "way/1388740620",
+      "osm_id": 1388740620,
+      "osm_type": "way",
+      "name": "Grădinița Sfântul Nicolae",
+      "category": "education",
+      "lat": 44.2599187,
+      "lon": 26.0620027,
+      "tags": {
+        "addr:city": "Adunații-Copăceni",
+        "addr:housenumber": "1",
+        "addr:street": "Strada Bisericii",
+        "amenity": "kindergarten",
+        "education": "kindergarten",
+        "name": "Grădinița Sfântul Nicolae"
+      }
+    },
+    {
+      "id": "way/1388740659",
+      "osm_id": 1388740659,
+      "osm_type": "way",
+      "name": "Grădinița nr. 3",
+      "category": "education",
+      "lat": 44.2445965,
+      "lon": 26.0895811,
+      "tags": {
+        "addr:city": "Varlaam",
+        "amenity": "kindergarten",
+        "name": "Grădinița nr. 3"
+      }
+    },
+    {
+      "id": "way/1389431730",
+      "osm_id": 1389431730,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Nr. 2 ,,Mircea cel Bătrân\"",
+      "category": "education",
+      "lat": 43.8875083,
+      "lon": 25.9576544,
+      "tags": {
+        "amenity": "school",
+        "name": "Școala Gimnazială Nr. 2 ,,Mircea cel Bătrân\""
+      }
+    },
+    {
+      "id": "way/1389431731",
+      "osm_id": 1389431731,
+      "osm_type": "way",
+      "name": "Grădinița cu program normal Nr. 7",
+      "category": "education",
+      "lat": 43.8867007,
+      "lon": 25.957928,
+      "tags": {
+        "addr:city": "Giurgiu",
+        "addr:housenumber": "39",
+        "addr:street": "Strada Nicolae Iorga",
+        "amenity": "kindergarten",
+        "name": "Grădinița cu program normal Nr. 7"
+      }
+    },
+    {
+      "id": "way/1389917834",
+      "osm_id": 1389917834,
+      "osm_type": "way",
+      "name": "Școala Generală Marin Drăcea Izvoru",
+      "category": "education",
+      "lat": 43.881655,
+      "lon": 25.6617598,
+      "tags": {
+        "addr:city": "Izvoru",
+        "building": "school",
+        "name": "Școala Generală Marin Drăcea Izvoru"
+      }
+    },
+    {
+      "id": "way/1390804396",
+      "osm_id": 1390804396,
+      "osm_type": "way",
+      "name": "Școala Generală Marin Gh. Popescu",
+      "category": "education",
+      "lat": 43.8602773,
+      "lon": 25.7051945,
+      "tags": {
+        "addr:city": "Gogoșari",
+        "addr:street": "Strada Petre Ghelmez",
+        "amenity": "school",
+        "name": "Școala Generală Marin Gh. Popescu"
+      }
+    },
+    {
+      "id": "way/1390972305",
+      "osm_id": 1390972305,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.1774097,
+      "lon": 26.3658724,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/1391118293",
+      "osm_id": 1391118293,
+      "osm_type": "way",
+      "name": "Liceul de chimie",
+      "category": "education",
+      "lat": 43.8831242,
+      "lon": 25.946532,
+      "tags": {
+        "building": "school",
+        "name": "Liceul de chimie"
+      }
+    },
+    {
+      "id": "way/1391337099",
+      "osm_id": 1391337099,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 43.9090532,
+      "lon": 25.7418732,
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "way/1394899337",
+      "osm_id": 1394899337,
+      "osm_type": "way",
+      "name": "Școala de muzică și arte plastice „Victor Karpis”",
+      "category": "education",
+      "lat": 43.888132,
+      "lon": 25.9638751,
+      "tags": {
+        "amenity": "school",
+        "name": "Școala de muzică și arte plastice „Victor Karpis”",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "id": "way/1408122982",
+      "osm_id": 1408122982,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.0260445,
+      "lon": 26.0185182,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/1408122983",
+      "osm_id": 1408122983,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.0259916,
+      "lon": 26.0184142,
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "way/1410164988",
+      "osm_id": 1410164988,
+      "osm_type": "way",
+      "name": "Grădinița cu program Prelungit „Scufița Roşie“",
+      "category": "education",
+      "lat": 43.8917015,
+      "lon": 25.9696376,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Grădinița cu program Prelungit „Scufița Roşie“",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "id": "way/1411006547",
+      "osm_id": 1411006547,
+      "osm_type": "way",
+      "name": "Grădinița",
+      "category": "education",
+      "lat": 44.0963419,
+      "lon": 26.2379449,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Grădinița"
+      }
+    },
+    {
+      "id": "way/1411006548",
+      "osm_id": 1411006548,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.096343,
+      "lon": 26.2379615,
+      "tags": {
+        "addr:city": "Prundu",
+        "building": "kindergarten"
+      }
+    },
+    {
+      "id": "way/1414981317",
+      "osm_id": 1414981317,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.2212502,
+      "lon": 26.2562354,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/1414981318",
+      "osm_id": 1414981318,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.2214351,
+      "lon": 26.2562271,
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "way/1415006705",
+      "osm_id": 1415006705,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.238364,
+      "lon": 26.2462186,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/1415492324",
+      "osm_id": 1415492324,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Nr.2",
+      "category": "education",
+      "lat": 44.2536995,
+      "lon": 26.2144377,
+      "tags": {
+        "addr:city": "Dobreni",
+        "building": "school",
+        "name": "Școala Gimnazială Nr.2"
+      }
+    },
+    {
+      "id": "way/1415492325",
+      "osm_id": 1415492325,
+      "osm_type": "way",
+      "name": "Școala Generală Nr.2 Dobreni",
+      "category": "education",
+      "lat": 44.2535669,
+      "lon": 26.2143657,
+      "tags": {
+        "addr:city": "Dobreni",
+        "amenity": "school",
+        "name": "Școala Generală Nr.2 Dobreni"
+      }
+    },
+    {
+      "id": "way/1416180040",
+      "osm_id": 1416180040,
+      "osm_type": "way",
+      "name": "Strada Generală Câmpurelu",
+      "category": "education",
+      "lat": 44.2336088,
+      "lon": 26.1845938,
+      "tags": {
+        "addr:city": "Câmpurelu",
+        "building": "school",
+        "name": "Strada Generală Câmpurelu"
+      }
+    },
+    {
+      "id": "way/1416598132",
+      "osm_id": 1416598132,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.1852213,
+      "lon": 26.2259291,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/1416831233",
+      "osm_id": 1416831233,
+      "osm_type": "way",
+      "name": "Școala Puieni",
+      "category": "education",
+      "lat": 44.0784406,
+      "lon": 26.1868417,
+      "tags": {
+        "addr:city": "Puieni",
+        "building": "school",
+        "name": "Școala Puieni"
+      }
+    },
+    {
+      "id": "way/1416831234",
+      "osm_id": 1416831234,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.0784936,
+      "lon": 26.1867992,
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "way/1418705388",
+      "osm_id": 1418705388,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.2336338,
+      "lon": 25.9445079,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/1418705389",
+      "osm_id": 1418705389,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.2335176,
+      "lon": 25.9447471,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/1418705390",
+      "osm_id": 1418705390,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.2334341,
+      "lon": 25.9439364,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/1421422896",
+      "osm_id": 1421422896,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 43.9633686,
+      "lon": 26.0365932,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/1422831572",
+      "osm_id": 1422831572,
+      "osm_type": "way",
+      "name": "Grădinița nr. 3",
+      "category": "education",
+      "lat": 44.0751743,
+      "lon": 25.8294433,
+      "tags": {
+        "addr:city": "Valea Bujorului",
+        "addr:housenumber": "21",
+        "addr:postcode": "087146",
+        "addr:street": "Strada Principală",
+        "amenity": "kindergarten",
+        "name": "Grădinița nr. 3"
+      }
+    },
+    {
+      "id": "way/1422831573",
+      "osm_id": 1422831573,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.0751379,
+      "lon": 25.8292864,
+      "tags": {
+        "building": "kindergarten"
+      }
+    },
+    {
+      "id": "way/1424876059",
+      "osm_id": 1424876059,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.0441115,
+      "lon": 25.7751191,
+      "tags": {
+        "addr:city": "Chiriacu",
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/1424876060",
+      "osm_id": 1424876060,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.0441313,
+      "lon": 25.775392,
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "way/1424878264",
+      "osm_id": 1424878264,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.0391944,
+      "lon": 25.7759226,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/1425087342",
+      "osm_id": 1425087342,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.0148149,
+      "lon": 25.6631947,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/1425331812",
+      "osm_id": 1425331812,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.0149799,
+      "lon": 25.6627491,
+      "tags": {
+        "amenity": "kindergarten"
+      }
+    },
+    {
+      "id": "way/1425331813",
+      "osm_id": 1425331813,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Petre Adameșteanu",
+      "category": "education",
+      "lat": 44.0153773,
+      "lon": 25.6631271,
+      "tags": {
+        "addr:city": "Toporu",
+        "addr:postcode": "087225",
+        "amenity": "school",
+        "name": "Școala Gimnazială Petre Adameșteanu"
+      }
+    },
+    {
+      "id": "way/1425365439",
+      "osm_id": 1425365439,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 43.9728226,
+      "lon": 25.6332159,
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "way/1425365440",
+      "osm_id": 1425365440,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 43.9728086,
+      "lon": 25.633173,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/1451844202",
+      "osm_id": 1451844202,
+      "osm_type": "way",
+      "name": "Grădinița Albă ca Zăpada",
+      "category": "education",
+      "lat": 43.8897024,
+      "lon": 25.9669712,
+      "tags": {
+        "addr:city": "Giurgiu",
+        "addr:housenumber": "4",
+        "addr:street": "Strada Nicolae Bălănescu",
+        "amenity": "kindergarten",
+        "name": "Grădinița Albă ca Zăpada"
+      }
+    },
+    {
+      "id": "way/1453936269",
+      "osm_id": 1453936269,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 43.9871256,
+      "lon": 25.989466,
+      "tags": {
+        "amenity": "library",
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/1453942928",
+      "osm_id": 1453942928,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 43.9513685,
+      "lon": 26.0468547,
+      "tags": {
+        "building": "kindergarten"
+      }
+    },
+    {
+      "id": "way/1453945896",
+      "osm_id": 1453945896,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.06425,
+      "lon": 26.114811,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/1453945897",
+      "osm_id": 1453945897,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.0641359,
+      "lon": 26.1147259,
+      "tags": {
+        "amenity": "school",
+        "education": "school"
+      }
+    },
+    {
+      "id": "way/1453947659",
+      "osm_id": 1453947659,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.0973613,
+      "lon": 26.2271954,
+      "tags": {
+        "amenity": "school",
+        "education": "school"
+      }
+    },
+    {
+      "id": "way/1453947660",
+      "osm_id": 1453947660,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.0975378,
+      "lon": 26.2272012,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/1453947661",
+      "osm_id": 1453947661,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.0970759,
+      "lon": 26.2271332,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/1468865644",
+      "osm_id": 1468865644,
+      "osm_type": "way",
+      "name": "Școala Generală „Înv. Dumitru Micu“ Remuș",
+      "category": "education",
+      "lat": 43.9428653,
+      "lon": 25.9793533,
+      "tags": {
+        "amenity": "school",
+        "building": "school",
+        "education": "school",
+        "name": "Școala Generală „Înv. Dumitru Micu“ Remuș"
+      }
+    },
+    {
+      "id": "way/1473545685",
+      "osm_id": 1473545685,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.5072935,
+      "lon": 25.8794918,
+      "tags": {
+        "amenity": "school",
+        "education": "school"
+      }
+    },
+    {
+      "id": "node/512788450",
+      "osm_id": 512788450,
+      "osm_type": "node",
+      "name": "Biserica Eroilor",
+      "category": "place_of_worship",
+      "lat": 43.89822,
+      "lon": 25.9683241,
+      "tags": {
+        "addr:city": "Giurgiu",
+        "addr:street": "Șoseaua București",
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Eroilor",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/1038248588",
+      "osm_id": 1038248588,
+      "osm_type": "node",
+      "name": "Biserica Sfântul Nicolae",
+      "category": "place_of_worship",
+      "lat": 44.1439166,
+      "lon": 25.9684077,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Sfântul Nicolae",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/1316062662",
+      "osm_id": 1316062662,
+      "osm_type": "node",
+      "name": "Mănăstirea Delta Neajlovului",
+      "category": "place_of_worship",
+      "lat": 44.18059,
+      "lon": 26.0831029,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Mănăstirea Delta Neajlovului",
+        "religion": "christian",
+        "source": "jonutzu@gpszone.ro"
+      }
+    },
+    {
+      "id": "node/1316062956",
+      "osm_id": 1316062956,
+      "osm_type": "node",
+      "name": "Mănăstirea Bolintin Vale",
+      "category": "place_of_worship",
+      "lat": 44.413036,
+      "lon": 25.6895309,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "is_in:country": "România",
+        "name": "Mănăstirea Bolintin Vale",
+        "religion": "christian",
+        "source": "jonutzu@gpszone.ro"
+      }
+    },
+    {
+      "id": "node/1316063364",
+      "osm_id": 1316063364,
+      "osm_type": "node",
+      "name": "Mănăstirea Sfântul Gheorghe",
+      "category": "place_of_worship",
+      "lat": 43.91976,
+      "lon": 25.97244,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Mănăstirea Sfântul Gheorghe",
+        "religion": "christian",
+        "source": "jonutzu@gpszone.ro"
+      }
+    },
+    {
+      "id": "node/1933967469",
+      "osm_id": 1933967469,
+      "osm_type": "node",
+      "name": "Biserica",
+      "category": "place_of_worship",
+      "lat": 43.7372284,
+      "lon": 25.7111331,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/1985349900",
+      "osm_id": 1985349900,
+      "osm_type": "node",
+      "name": "Biserica Sfântul Nicolae",
+      "category": "place_of_worship",
+      "lat": 44.3419091,
+      "lon": 25.8859586,
+      "tags": {
+        "addr:city": "Drăgănescu",
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "is_in:country": "România",
+        "name": "Biserica Sfântul Nicolae",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/2099113788",
+      "osm_id": 2099113788,
+      "osm_type": "node",
+      "name": "biserica",
+      "category": "place_of_worship",
+      "lat": 44.4886518,
+      "lon": 25.7113952,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "biserica",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/2099113789",
+      "osm_id": 2099113789,
+      "osm_type": "node",
+      "name": "biserica",
+      "category": "place_of_worship",
+      "lat": 44.5013597,
+      "lon": 25.7576477,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "biserica",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/2148772491",
+      "osm_id": 2148772491,
+      "osm_type": "node",
+      "name": "Biserica Sfânta Ecaterina",
+      "category": "place_of_worship",
+      "lat": 43.9755015,
+      "lon": 25.961183,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Sfânta Ecaterina",
+        "religion": "christian",
+        "start_date": "1880"
+      }
+    },
+    {
+      "id": "node/2457839205",
+      "osm_id": 2457839205,
+      "osm_type": "node",
+      "name": "Biserica Bolintin-Vale",
+      "category": "place_of_worship",
+      "lat": 44.4462408,
+      "lon": 25.757683,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Bolintin-Vale",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/2527513733",
+      "osm_id": 2527513733,
+      "osm_type": "node",
+      "name": "biserica",
+      "category": "place_of_worship",
+      "lat": 43.9554811,
+      "lon": 26.0157883,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "biserica",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/2527513737",
+      "osm_id": 2527513737,
+      "osm_type": "node",
+      "name": "biserica",
+      "category": "place_of_worship",
+      "lat": 43.9696319,
+      "lon": 26.0352875,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "biserica",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/2527513742",
+      "osm_id": 2527513742,
+      "osm_type": "node",
+      "name": "biserica",
+      "category": "place_of_worship",
+      "lat": 43.9942749,
+      "lon": 26.1237915,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "biserica",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/2527513745",
+      "osm_id": 2527513745,
+      "osm_type": "node",
+      "name": "biserica",
+      "category": "place_of_worship",
+      "lat": 44.100957,
+      "lon": 25.8580313,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "biserica",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/2527513749",
+      "osm_id": 2527513749,
+      "osm_type": "node",
+      "name": "Biserica",
+      "category": "place_of_worship",
+      "lat": 44.1432663,
+      "lon": 25.8402189,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/2527513752",
+      "osm_id": 2527513752,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.151455,
+      "lon": 25.8830689,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/2527513755",
+      "osm_id": 2527513755,
+      "osm_type": "node",
+      "name": "Capela cimitirului",
+      "category": "place_of_worship",
+      "lat": 44.1675661,
+      "lon": 26.1474202,
+      "tags": {
+        "amenity": "place_of_worship",
+        "check_date": "2023-12-31",
+        "denomination": "orthodox",
+        "name": "Capela cimitirului",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/2527513759",
+      "osm_id": 2527513759,
+      "osm_type": "node",
+      "name": "biserica",
+      "category": "place_of_worship",
+      "lat": 44.1702325,
+      "lon": 26.3239988,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "biserica",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/2527513762",
+      "osm_id": 2527513762,
+      "osm_type": "node",
+      "name": "biserica",
+      "category": "place_of_worship",
+      "lat": 44.1720517,
+      "lon": 25.9428083,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "biserica",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/2527513766",
+      "osm_id": 2527513766,
+      "osm_type": "node",
+      "name": "biserica",
+      "category": "place_of_worship",
+      "lat": 44.1760705,
+      "lon": 26.3702457,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "biserica",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/2527513770",
+      "osm_id": 2527513770,
+      "osm_type": "node",
+      "name": "biserica",
+      "category": "place_of_worship",
+      "lat": 44.1777165,
+      "lon": 26.0555016,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "biserica",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/2527513777",
+      "osm_id": 2527513777,
+      "osm_type": "node",
+      "name": "biserica",
+      "category": "place_of_worship",
+      "lat": 44.1828886,
+      "lon": 26.3976071,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "biserica",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/2527513781",
+      "osm_id": 2527513781,
+      "osm_type": "node",
+      "name": "biserica",
+      "category": "place_of_worship",
+      "lat": 44.1885876,
+      "lon": 26.1111086,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "biserica",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/2527513793",
+      "osm_id": 2527513793,
+      "osm_type": "node",
+      "name": "biserica",
+      "category": "place_of_worship",
+      "lat": 44.2371501,
+      "lon": 26.2465574,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "biserica",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/2536054837",
+      "osm_id": 2536054837,
+      "osm_type": "node",
+      "name": "Biserică",
+      "category": "place_of_worship",
+      "lat": 44.1984484,
+      "lon": 25.6981222,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserică",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/2550185887",
+      "osm_id": 2550185887,
+      "osm_type": "node",
+      "name": "Biserică",
+      "category": "place_of_worship",
+      "lat": 44.4829585,
+      "lon": 25.7960964,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserică",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/2557761310",
+      "osm_id": 2557761310,
+      "osm_type": "node",
+      "name": "Biserica",
+      "category": "place_of_worship",
+      "lat": 44.1404865,
+      "lon": 26.3502461,
+      "tags": {
+        "addr:street": "Strada Principală",
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/2587321444",
+      "osm_id": 2587321444,
+      "osm_type": "node",
+      "name": "Parohia \"Sfinții Împărați Constantin și Elena\"",
+      "category": "place_of_worship",
+      "lat": 44.3189438,
+      "lon": 25.9078216,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Parohia \"Sfinții Împărați Constantin și Elena\"",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/2694129372",
+      "osm_id": 2694129372,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.1989321,
+      "lon": 26.184486,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/2701319815",
+      "osm_id": 2701319815,
+      "osm_type": "node",
+      "name": "Biserica Izvoru",
+      "category": "place_of_worship",
+      "lat": 44.5124251,
+      "lon": 25.5385885,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Izvoru",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/2701422942",
+      "osm_id": 2701422942,
+      "osm_type": "node",
+      "name": "Biserica Dealu",
+      "category": "place_of_worship",
+      "lat": 44.39299,
+      "lon": 25.6494201,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Dealu",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/2701457514",
+      "osm_id": 2701457514,
+      "osm_type": "node",
+      "name": "Biserica Milcovățu",
+      "category": "place_of_worship",
+      "lat": 44.2660143,
+      "lon": 25.6974853,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Milcovățu",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/2702321276",
+      "osm_id": 2702321276,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.5319579,
+      "lon": 25.6338515,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/2702336780",
+      "osm_id": 2702336780,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.5134178,
+      "lon": 25.6498455,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/2804044090",
+      "osm_id": 2804044090,
+      "osm_type": "node",
+      "name": "biserică",
+      "category": "place_of_worship",
+      "lat": 44.1610677,
+      "lon": 25.9987601,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "biserică",
+        "religion": "christian",
+        "start_date": "1938"
+      }
+    },
+    {
+      "id": "node/2817434591",
+      "osm_id": 2817434591,
+      "osm_type": "node",
+      "name": "Biserică",
+      "category": "place_of_worship",
+      "lat": 44.431341,
+      "lon": 25.7829455,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserică",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/3570986244",
+      "osm_id": 3570986244,
+      "osm_type": "node",
+      "name": "Biserică",
+      "category": "place_of_worship",
+      "lat": 44.2811056,
+      "lon": 25.8651753,
+      "tags": {
+        "amenity": "place_of_worship",
+        "name": "Biserică"
+      }
+    },
+    {
+      "id": "node/3791776221",
+      "osm_id": 3791776221,
+      "osm_type": "node",
+      "name": "Biserica Ortodoxă „Sfântul Gheorghe” Naipu",
+      "category": "place_of_worship",
+      "lat": 44.1559993,
+      "lon": 25.7558845,
+      "tags": {
+        "addr:city": "Naipu",
+        "addr:postcode": "087097",
+        "amenity": "place_of_worship",
+        "denomination": "romanian_orthodox",
+        "is_in:city": "Ghimpați",
+        "is_in:country": "România",
+        "is_in:county": "Giurgiu",
+        "name": "Biserica Ortodoxă „Sfântul Gheorghe” Naipu",
+        "religion": "christian",
+        "start_date": "1891",
+        "url": "http://www.crestinortodox.ro/biserici-manastiri-harta/biserica-sf-gheorghe-naipu-ghimpati-34360.html"
+      }
+    },
+    {
+      "id": "node/3924761311",
+      "osm_id": 3924761311,
+      "osm_type": "node",
+      "name": "Biserică",
+      "category": "place_of_worship",
+      "lat": 44.4332244,
+      "lon": 25.6227162,
+      "tags": {
+        "addr:city": "Crevedia Mare",
+        "addr:housenumber": "291",
+        "addr:postcode": "087060",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Bisericii",
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "heritage": "2",
+        "heritage:operator": "lmi",
+        "name": "Biserică",
+        "ref:RO:lmi": "GR-II-m-B-14973",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/3932043719",
+      "osm_id": 3932043719,
+      "osm_type": "node",
+      "name": "Biserică",
+      "category": "place_of_worship",
+      "lat": 44.4442205,
+      "lon": 25.7148412,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserică",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/3965539405",
+      "osm_id": 3965539405,
+      "osm_type": "node",
+      "name": "Biserică",
+      "category": "place_of_worship",
+      "lat": 44.4537612,
+      "lon": 25.824088,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserică",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/3965560691",
+      "osm_id": 3965560691,
+      "osm_type": "node",
+      "name": "Biserică",
+      "category": "place_of_worship",
+      "lat": 44.4528936,
+      "lon": 25.821942,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserică",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/4073914165",
+      "osm_id": 4073914165,
+      "osm_type": "node",
+      "name": "Mănăstirea Căscioarele",
+      "category": "place_of_worship",
+      "lat": 44.5003351,
+      "lon": 25.6328706,
+      "tags": {
+        "addr:city": "Căscioarele",
+        "addr:housenumber": "29",
+        "addr:street": "Strada Monumentului",
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "heritage": "2",
+        "heritage:operator": "lmi",
+        "name": "Mănăstirea Căscioarele",
+        "ref:RO:lmi": "GR-II-a-B-14959",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/4073988177",
+      "osm_id": 4073988177,
+      "osm_type": "node",
+      "name": "Biserica „Sfântul Gheorghe”",
+      "category": "place_of_worship",
+      "lat": 44.4400934,
+      "lon": 25.6077811,
+      "tags": {
+        "addr:city": "Crevedia Mică",
+        "addr:housenumber": "139",
+        "addr:postcode": "087061",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada DC193",
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "heritage": "2",
+        "heritage:operator": "lmi",
+        "name": "Biserica „Sfântul Gheorghe”",
+        "ref:RO:lmi": "GR-II-m-B-14975",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/4121824593",
+      "osm_id": 4121824593,
+      "osm_type": "node",
+      "name": "Biserica „Sf. Treime”, „Sf. Arhangheli Mihail și Gavril”",
+      "category": "place_of_worship",
+      "lat": 44.2104276,
+      "lon": 26.3619536,
+      "tags": {
+        "addr:city": "Herăști",
+        "addr:housenumber": "34",
+        "addr:postcode": "087126",
+        "addr:street": "Strada Milos Obrenovici",
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "heritage": "2",
+        "heritage:operator": "lmi",
+        "name": "Biserica „Sf. Treime”, „Sf. Arhangheli Mihail și Gavril”",
+        "ref:RO:lmi": "GR-II-m-A-15013.02",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/4121828394",
+      "osm_id": 4121828394,
+      "osm_type": "node",
+      "name": "Biserica „Sf. Voievozi” („Sf. Arhangheli Mihail și Gavril”)",
+      "category": "place_of_worship",
+      "lat": 43.9560647,
+      "lon": 25.8811452,
+      "tags": {
+        "addr:city": "Oncești",
+        "addr:housenumber": "10",
+        "addr:street": "Strada Bisericii",
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "heritage": "2",
+        "heritage:operator": "lmi",
+        "name": "Biserica „Sf. Voievozi” („Sf. Arhangheli Mihail și Gavril”)",
+        "ref:RO:lmi": "GR-II-m-B-15053",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/4121852190",
+      "osm_id": 4121852190,
+      "osm_type": "node",
+      "name": "Biserica „Sf. Treime”",
+      "category": "place_of_worship",
+      "lat": 44.4162175,
+      "lon": 25.8268585,
+      "tags": {
+        "addr:city": "Tântava",
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "heritage": "2",
+        "heritage:operator": "lmi",
+        "name": "Biserica „Sf. Treime”",
+        "ref:RO:lmi": "GR-II-m-B-15088",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/4177382626",
+      "osm_id": 4177382626,
+      "osm_type": "node",
+      "name": "Biserica Creștină Evanghelică",
+      "category": "place_of_worship",
+      "lat": 43.9712837,
+      "lon": 25.963725,
+      "tags": {
+        "addr:city": "Frătești",
+        "addr:housenumber": "61",
+        "addr:street": "Sf. Ecaterina",
+        "amenity": "place_of_worship",
+        "denomination": "evangelical",
+        "name": "Biserica Creștină Evanghelică",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/4177382627",
+      "osm_id": 4177382627,
+      "osm_type": "node",
+      "name": "Biserica Adventistă de Ziua a Șaptea \"Eben-Ezer\"",
+      "category": "place_of_worship",
+      "lat": 43.9701944,
+      "lon": 25.9658885,
+      "tags": {
+        "addr:city": "Frătești",
+        "addr:housenumber": "1",
+        "addr:street": "Strada Unirii",
+        "amenity": "place_of_worship",
+        "denomination": "seventh_day_adventist",
+        "name": "Biserica Adventistă de Ziua a Șaptea \"Eben-Ezer\"",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/4177474398",
+      "osm_id": 4177474398,
+      "osm_type": "node",
+      "name": "Biserica \"Sfântul Gheorghe\"",
+      "category": "place_of_worship",
+      "lat": 43.9513896,
+      "lon": 25.9332042,
+      "tags": {
+        "addr:city": "Bălănoaia",
+        "addr:housenumber": "42",
+        "addr:postcode": "087080",
+        "addr:street": "Strada Bălănoaiei",
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica \"Sfântul Gheorghe\"",
+        "religion": "christian",
+        "start_date": "1930"
+      }
+    },
+    {
+      "id": "node/4358629373",
+      "osm_id": 4358629373,
+      "osm_type": "node",
+      "name": "Biserică",
+      "category": "place_of_worship",
+      "lat": 44.471729,
+      "lon": 25.7663998,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserică",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/4358629521",
+      "osm_id": 4358629521,
+      "osm_type": "node",
+      "name": "Biserică",
+      "category": "place_of_worship",
+      "lat": 44.4710974,
+      "lon": 25.7670972,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserică",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/4722464668",
+      "osm_id": 4722464668,
+      "osm_type": "node",
+      "name": "Biserică",
+      "category": "place_of_worship",
+      "lat": 44.1861898,
+      "lon": 25.7679412,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserică",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/4829423001",
+      "osm_id": 4829423001,
+      "osm_type": "node",
+      "name": "Biserică",
+      "category": "place_of_worship",
+      "lat": 44.1912674,
+      "lon": 25.7745209,
+      "tags": {
+        "amenity": "place_of_worship",
+        "check_date": "2024-02-12",
+        "denomination": "orthodox",
+        "name": "Biserică",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/4903196982",
+      "osm_id": 4903196982,
+      "osm_type": "node",
+      "name": "Biserică",
+      "category": "place_of_worship",
+      "lat": 43.9470928,
+      "lon": 25.952951,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserică",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/4940828143",
+      "osm_id": 4940828143,
+      "osm_type": "node",
+      "name": "Biserică",
+      "category": "place_of_worship",
+      "lat": 44.249573,
+      "lon": 25.9282419,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserică",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/4943657504",
+      "osm_id": 4943657504,
+      "osm_type": "node",
+      "name": "Biserică",
+      "category": "place_of_worship",
+      "lat": 44.3505554,
+      "lon": 25.6566044,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserică",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/4943743575",
+      "osm_id": 4943743575,
+      "osm_type": "node",
+      "name": "Biserică",
+      "category": "place_of_worship",
+      "lat": 44.4115117,
+      "lon": 25.5319675,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserică",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/5128369321",
+      "osm_id": 5128369321,
+      "osm_type": "node",
+      "name": "Mănăstirea \" Sf. Ioan Rusu\"",
+      "category": "place_of_worship",
+      "lat": 43.8724774,
+      "lon": 25.9007025,
+      "tags": {
+        "addr:street": "Drumul Mănăstirii",
+        "amenity": "place_of_worship",
+        "name": "Mănăstirea \" Sf. Ioan Rusu\""
+      }
+    },
+    {
+      "id": "node/5469439138",
+      "osm_id": 5469439138,
+      "osm_type": "node",
+      "name": "Biserică",
+      "category": "place_of_worship",
+      "lat": 44.3183994,
+      "lon": 25.6932238,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserică",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/5768677665",
+      "osm_id": 5768677665,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.0264881,
+      "lon": 26.0274526,
+      "tags": {
+        "disused": "yes",
+        "historic": "wayside_shrine",
+        "operational_status": "locked",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/6123759532",
+      "osm_id": 6123759532,
+      "osm_type": "node",
+      "name": "Biserica Neajlov",
+      "category": "place_of_worship",
+      "lat": 44.313967,
+      "lon": 25.7506506,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Neajlov",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/9170983467",
+      "osm_id": 9170983467,
+      "osm_type": "node",
+      "name": "Biserică",
+      "category": "place_of_worship",
+      "lat": 44.2116409,
+      "lon": 26.3035227,
+      "tags": {
+        "addr:city": "Valea Dragului",
+        "amenity": "place_of_worship",
+        "name": "Biserică",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/9391361740",
+      "osm_id": 9391361740,
+      "osm_type": "node",
+      "name": "Biserică",
+      "category": "place_of_worship",
+      "lat": 44.3931667,
+      "lon": 25.8178299,
+      "tags": {
+        "amenity": "place_of_worship",
+        "name": "Biserică",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/9896925272",
+      "osm_id": 9896925272,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.3650884,
+      "lon": 25.8383071,
+      "tags": {
+        "amenity": "place_of_worship",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/9896956959",
+      "osm_id": 9896956959,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.3466837,
+      "lon": 25.8015501,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "romanian_orthodox",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/9896957835",
+      "osm_id": 9896957835,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.4059352,
+      "lon": 25.7807681,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/10305043368",
+      "osm_id": 10305043368,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.2540536,
+      "lon": 26.2149019,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "romanian_orthodox",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/10695516259",
+      "osm_id": 10695516259,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.0405306,
+      "lon": 26.0553528,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/10772540696",
+      "osm_id": 10772540696,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.460923,
+      "lon": 25.8106035,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/10814125112",
+      "osm_id": 10814125112,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.3703757,
+      "lon": 25.5607881,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/10980127321",
+      "osm_id": 10980127321,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 43.9214036,
+      "lon": 25.841308,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/11621903104",
+      "osm_id": 11621903104,
+      "osm_type": "node",
+      "name": "Biserica Sf. Nicolae",
+      "category": "place_of_worship",
+      "lat": 44.1650815,
+      "lon": 25.8195314,
+      "tags": {
+        "building": "church",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica Sf. Nicolae",
+        "phone": "0763262512",
+        "website": "https://www.biserici.org/index.php?menu=BIGR&code=5937&criteria=&quick=&radio=b&order=P.TOWN,C.NAME,P.NAME"
+      }
+    },
+    {
+      "id": "node/12070459760",
+      "osm_id": 12070459760,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.173882,
+      "lon": 26.3567939,
+      "tags": {
+        "amenity": "place_of_worship",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/12199387132",
+      "osm_id": 12199387132,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.0261863,
+      "lon": 26.020023,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "romanian_orthodox",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/12213694708",
+      "osm_id": 12213694708,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.1659444,
+      "lon": 26.1449427,
+      "tags": {
+        "historic": "wayside_shrine",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/12311542601",
+      "osm_id": 12311542601,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.4839122,
+      "lon": 25.8921319,
+      "tags": {
+        "addr:housenumber": "28",
+        "addr:street": "Strada Bisericii",
+        "amenity": "place_of_worship",
+        "email": "parohiabacu@gmail.com",
+        "name:en": "Parohia Bâcu",
+        "website": "http://www.fb.com/parohiabacu"
+      }
+    },
+    {
+      "id": "node/12561181337",
+      "osm_id": 12561181337,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.1399193,
+      "lon": 26.0540041,
+      "tags": {
+        "addr:city": "Mihai Bravu",
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/13092508251",
+      "osm_id": 13092508251,
+      "osm_type": "node",
+      "name": "Biserica Adventistă de Ziua a Șaptea",
+      "category": "place_of_worship",
+      "lat": 44.0705185,
+      "lon": 25.8297514,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "seventh_day_adventist",
+        "name": "Biserica Adventistă de Ziua a Șaptea",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/13097153319",
+      "osm_id": 13097153319,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.0511652,
+      "lon": 25.7720511,
+      "tags": {
+        "amenity": "place_of_worship",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/13328971273",
+      "osm_id": 13328971273,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.2626135,
+      "lon": 25.8764223,
+      "tags": {
+        "historic": "wayside_shrine",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/13334108782",
+      "osm_id": 13334108782,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 43.9955224,
+      "lon": 25.986083,
+      "tags": {
+        "amenity": "place_of_worship",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/13334108783",
+      "osm_id": 13334108783,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.016039,
+      "lon": 25.9886853,
+      "tags": {
+        "amenity": "place_of_worship",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/13334108784",
+      "osm_id": 13334108784,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.01692,
+      "lon": 26.0011027,
+      "tags": {
+        "amenity": "place_of_worship",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/13334133787",
+      "osm_id": 13334133787,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 43.9509064,
+      "lon": 26.0472023,
+      "tags": {
+        "amenity": "place_of_worship",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/13334155146",
+      "osm_id": 13334155146,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.0608534,
+      "lon": 26.1146911,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "seventh_day_adventist",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/13334155157",
+      "osm_id": 13334155157,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.0603552,
+      "lon": 26.1214906,
+      "tags": {
+        "amenity": "place_of_worship",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/13334176857",
+      "osm_id": 13334176857,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.0884612,
+      "lon": 26.2328555,
+      "tags": {
+        "amenity": "place_of_worship",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/13359209938",
+      "osm_id": 13359209938,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 43.9408227,
+      "lon": 25.9827092,
+      "tags": {
+        "denomination": "orthodox",
+        "historic": "wayside_cross",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/13383151784",
+      "osm_id": 13383151784,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.2816477,
+      "lon": 25.8106578,
+      "tags": {
+        "amenity": "place_of_worship",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/13421975134",
+      "osm_id": 13421975134,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.4874453,
+      "lon": 25.7821792,
+      "tags": {
+        "amenity": "place_of_worship",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/13421975147",
+      "osm_id": 13421975147,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.505798,
+      "lon": 25.7602362,
+      "tags": {
+        "amenity": "place_of_worship",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/41689570",
+      "osm_id": 41689570,
+      "osm_type": "way",
+      "name": "Cimitirul Smârda",
+      "category": "place_of_worship",
+      "lat": 43.897119,
+      "lon": 25.9776941,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitirul Smârda",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/41690760",
+      "osm_id": 41690760,
+      "osm_type": "way",
+      "name": "Cimitirul Sf. Gheorghe Nou",
+      "category": "place_of_worship",
+      "lat": 43.9127742,
+      "lon": 25.9497974,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitirul Sf. Gheorghe Nou",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/103128519",
+      "osm_id": 103128519,
+      "osm_type": "way",
+      "name": "CIMITIR",
+      "category": "place_of_worship",
+      "lat": 44.1356062,
+      "lon": 26.3518452,
+      "tags": {
+        "denomination": "greek_orthodox",
+        "landuse": "cemetery",
+        "name": "CIMITIR",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/103128907",
+      "osm_id": 103128907,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.1129995,
+      "lon": 26.340815,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/149232758",
+      "osm_id": 149232758,
+      "osm_type": "way",
+      "name": "Cimitirul Vadu Lat",
+      "category": "place_of_worship",
+      "lat": 44.3526323,
+      "lon": 25.6716585,
+      "tags": {
+        "amenity": "grave_yard",
+        "denomination": "orthodox",
+        "name": "Cimitirul Vadu Lat",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/179941497",
+      "osm_id": 179941497,
+      "osm_type": "way",
+      "name": "Capela cimitirului",
+      "category": "place_of_worship",
+      "lat": 44.4609686,
+      "lon": 25.8100572,
+      "tags": {
+        "addr:city": "Bolintin-Deal",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Capela cimitirului",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/179941498",
+      "osm_id": 179941498,
+      "osm_type": "way",
+      "name": "biserica",
+      "category": "place_of_worship",
+      "lat": 44.4461627,
+      "lon": 25.8163627,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "biserica",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/180047074",
+      "osm_id": 180047074,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă Palanca",
+      "category": "place_of_worship",
+      "lat": 44.4738122,
+      "lon": 25.7262471,
+      "tags": {
+        "addr:city": "Palanca",
+        "addr:housenumber": "57",
+        "addr:postcode": "087077",
+        "addr:street": "Strada Ion Ionescu Brăila",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă Palanca",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/180047111",
+      "osm_id": 180047111,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.4737318,
+      "lon": 25.7269053,
+      "tags": {
+        "addr:city": "Palanca",
+        "addr:housenumber": "57",
+        "addr:postcode": "087077",
+        "addr:street": "Strada Ion Ionescu Brăila",
+        "amenity": "grave_yard",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/180047113",
+      "osm_id": 180047113,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.4785511,
+      "lon": 25.724679,
+      "tags": {
+        "addr:city": "Palanca",
+        "addr:housenumber": "108",
+        "addr:postcode": "087077",
+        "addr:street": "Strada Ion Ionescu Brăila",
+        "amenity": "grave_yard",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/185045885",
+      "osm_id": 185045885,
+      "osm_type": "way",
+      "name": "Biserica Vadu Lat",
+      "category": "place_of_worship",
+      "lat": 44.3438977,
+      "lon": 25.6710314,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "designation": "Biserică",
+        "name": "Biserica Vadu Lat",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/218965043",
+      "osm_id": 218965043,
+      "osm_type": "way",
+      "name": "Biserica Drăgănescu",
+      "category": "place_of_worship",
+      "lat": 44.341904,
+      "lon": 25.8859682,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Drăgănescu",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/239167706",
+      "osm_id": 239167706,
+      "osm_type": "way",
+      "name": "Cimitir",
+      "category": "place_of_worship",
+      "lat": 43.7723848,
+      "lon": 25.7883263,
+      "tags": {
+        "landuse": "cemetery",
+        "name": "Cimitir",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/245575726",
+      "osm_id": 245575726,
+      "osm_type": "way",
+      "name": "cimitir",
+      "category": "place_of_worship",
+      "lat": 43.9361927,
+      "lon": 25.9756393,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "cemetery",
+        "name": "cimitir",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/245575737",
+      "osm_id": 245575737,
+      "osm_type": "way",
+      "name": "Cimitir",
+      "category": "place_of_worship",
+      "lat": 44.2338912,
+      "lon": 26.2531762,
+      "tags": {
+        "landuse": "cemetery",
+        "name": "Cimitir",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/252696989",
+      "osm_id": 252696989,
+      "osm_type": "way",
+      "name": "Cimitir",
+      "category": "place_of_worship",
+      "lat": 44.319396,
+      "lon": 25.9081601,
+      "tags": {
+        "amenity": "grave_yard",
+        "name": "Cimitir",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/260591056",
+      "osm_id": 260591056,
+      "osm_type": "way",
+      "name": "Cimitirul Sfântul Haralambie",
+      "category": "place_of_worship",
+      "lat": 43.88499,
+      "lon": 25.9467694,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitirul Sfântul Haralambie",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/263744352",
+      "osm_id": 263744352,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.1989368,
+      "lon": 26.1844838,
+      "tags": {
+        "building": "church"
+      }
+    },
+    {
+      "id": "way/264453761",
+      "osm_id": 264453761,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.5124328,
+      "lon": 25.5385926,
+      "tags": {
+        "building": "church"
+      }
+    },
+    {
+      "id": "way/264455007",
+      "osm_id": 264455007,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.491311,
+      "lon": 25.5645979,
+      "tags": {
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/264455137",
+      "osm_id": 264455137,
+      "osm_type": "way",
+      "name": "Biserica Nașterea Maicii Domnului",
+      "category": "place_of_worship",
+      "lat": 44.4902218,
+      "lon": 25.5633581,
+      "tags": {
+        "addr:city": "Vânătorii Mici",
+        "addr:housenumber": "91",
+        "addr:street": "Strada Principală",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Nașterea Maicii Domnului",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/264456286",
+      "osm_id": 264456286,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.4739771,
+      "lon": 25.5807835,
+      "tags": {
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/264460288",
+      "osm_id": 264460288,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.3929931,
+      "lon": 25.6493901,
+      "tags": {
+        "building": "church"
+      }
+    },
+    {
+      "id": "way/264460908",
+      "osm_id": 264460908,
+      "osm_type": "way",
+      "name": "Biserica „Sfântul Nicolae”",
+      "category": "place_of_worship",
+      "lat": 44.3679557,
+      "lon": 25.6600427,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "romanian_orthodox",
+        "heritage": "2",
+        "heritage:operator": "lmi",
+        "historic": "church",
+        "name": "Biserica „Sfântul Nicolae”",
+        "ref:RO:lmi": "GR-II-m-B-14938",
+        "religion": "christian",
+        "start_date": "1836"
+      }
+    },
+    {
+      "id": "way/264463631",
+      "osm_id": 264463631,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.2660253,
+      "lon": 25.6974806,
+      "tags": {
+        "building": "church"
+      }
+    },
+    {
+      "id": "way/264567413",
+      "osm_id": 264567413,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.5319658,
+      "lon": 25.6338246,
+      "tags": {
+        "building": "church"
+      }
+    },
+    {
+      "id": "way/264568833",
+      "osm_id": 264568833,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.5134302,
+      "lon": 25.6498522,
+      "tags": {
+        "building": "church"
+      }
+    },
+    {
+      "id": "way/265649665",
+      "osm_id": 265649665,
+      "osm_type": "way",
+      "name": "Mănăstirea Bolintin Vale",
+      "category": "place_of_worship",
+      "lat": 44.4130322,
+      "lon": 25.6896045,
+      "tags": {
+        "addr:housename": "Mănăstirea Bolintin Vale",
+        "addr:postcode": "085100",
+        "building": "church",
+        "designation": "ortodox",
+        "name": "Mănăstirea Bolintin Vale"
+      }
+    },
+    {
+      "id": "way/265659260",
+      "osm_id": 265659260,
+      "osm_type": "way",
+      "name": "Mănăstirea Delta Neajlovului",
+      "category": "place_of_worship",
+      "lat": 44.1805782,
+      "lon": 26.0831938,
+      "tags": {
+        "addr:housename": "Mănăstirea Delta Neajlovului",
+        "addr:postcode": "087055",
+        "building": "church",
+        "designation": "ortodox",
+        "name": "Mănăstirea Delta Neajlovului"
+      }
+    },
+    {
+      "id": "way/265734932",
+      "osm_id": 265734932,
+      "osm_type": "way",
+      "name": "Schitul Ortodox „Acoperământul Maicii Domnului” Chiriacu",
+      "category": "place_of_worship",
+      "lat": 44.0535721,
+      "lon": 25.7996727,
+      "tags": {
+        "addr:housename": "Schitul Acoperământul Maicii Domnului - Chiriacu",
+        "addr:postcode": "087141",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "romanian_orthodox",
+        "name": "Schitul Ortodox „Acoperământul Maicii Domnului” Chiriacu",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/301434084",
+      "osm_id": 301434084,
+      "osm_type": "way",
+      "name": "Cimitir",
+      "category": "place_of_worship",
+      "lat": 44.5092738,
+      "lon": 25.8853106,
+      "tags": {
+        "denomination": "greek_orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitir",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/302870923",
+      "osm_id": 302870923,
+      "osm_type": "way",
+      "name": "Cimitir",
+      "category": "place_of_worship",
+      "lat": 43.8600973,
+      "lon": 25.9100886,
+      "tags": {
+        "denomination": "greek_orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitir",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/360696722",
+      "osm_id": 360696722,
+      "osm_type": "way",
+      "name": "Cimitirul Ortodox din Naipu",
+      "category": "place_of_worship",
+      "lat": 44.1559058,
+      "lon": 25.7555877,
+      "tags": {
+        "amenity": "grave_yard",
+        "denomination": "romanian_orthodox",
+        "name": "Cimitirul Ortodox din Naipu",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/417119851",
+      "osm_id": 417119851,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 43.9768414,
+      "lon": 25.9630798,
+      "tags": {
+        "amenity": "grave_yard",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/417133997",
+      "osm_id": 417133997,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 43.9488432,
+      "lon": 25.9311534,
+      "tags": {
+        "amenity": "grave_yard",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/487124255",
+      "osm_id": 487124255,
+      "osm_type": "way",
+      "name": "Biserica „Sf. Nicolae”",
+      "category": "place_of_worship",
+      "lat": 44.1767259,
+      "lon": 26.1429927,
+      "tags": {
+        "addr:city": "Comana",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "ele": "49.00",
+        "name": "Biserica „Sf. Nicolae”",
+        "religion": "christian",
+        "wikidata": "Q42913006"
+      }
+    },
+    {
+      "id": "way/496056010",
+      "osm_id": 496056010,
+      "osm_type": "way",
+      "name": "Biserică",
+      "category": "place_of_worship",
+      "lat": 44.1714978,
+      "lon": 26.1478516,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "check_date": "2023-12-31",
+        "name": "Biserică",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/496589279",
+      "osm_id": 496589279,
+      "osm_type": "way",
+      "name": "Biserica Sfântul Dumitru",
+      "category": "place_of_worship",
+      "lat": 44.1318501,
+      "lon": 26.129843,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Sfântul Dumitru",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/582483047",
+      "osm_id": 582483047,
+      "osm_type": "way",
+      "name": "Biserica Sfântul Nicolae",
+      "category": "place_of_worship",
+      "lat": 43.8851126,
+      "lon": 25.9619461,
+      "tags": {
+        "addr:city": "Giurgiu",
+        "addr:housenumber": "38",
+        "addr:street": "Strada Mircea cel Bătrân",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "heritage": "2",
+        "heritage:operator": "lmi",
+        "image": "https://photos.app.goo.gl/V1dp2YQErmsqeteR6",
+        "name": "Biserica Sfântul Nicolae",
+        "ref:RO:lmi": "GR-II-m-B-14890",
+        "religion": "christian",
+        "start_date": "1830",
+        "wikidata": "Q42914561",
+        "wikipedia": "ro:Biserica Sfântul Nicolae din Giurgiu"
+      }
+    },
+    {
+      "id": "way/591393467",
+      "osm_id": 591393467,
+      "osm_type": "way",
+      "name": "Cimitir",
+      "category": "place_of_worship",
+      "lat": 44.1958834,
+      "lon": 25.7879604,
+      "tags": {
+        "denomination": "romanian_orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitir",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/598763732",
+      "osm_id": 598763732,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă Sf. Treime Zboiu",
+      "category": "place_of_worship",
+      "lat": 44.126361,
+      "lon": 26.3076377,
+      "tags": {
+        "addr:city": "Zboiu",
+        "addr:street": "Strada Bisericii",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica Ortodoxă Sf. Treime Zboiu",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/653413787",
+      "osm_id": 653413787,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.3139619,
+      "lon": 25.7506487,
+      "tags": {
+        "building": "church"
+      }
+    },
+    {
+      "id": "way/653413788",
+      "osm_id": 653413788,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.3139534,
+      "lon": 25.7505301,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/707254672",
+      "osm_id": 707254672,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.4442431,
+      "lon": 25.7597665,
+      "tags": {
+        "amenity": "grave_yard",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/790600945",
+      "osm_id": 790600945,
+      "osm_type": "way",
+      "name": "Biserica Sfântul Pantelimon",
+      "category": "place_of_worship",
+      "lat": 43.7789874,
+      "lon": 25.7871112,
+      "tags": {
+        "addr:city": "Vedea",
+        "addr:street": "Strada Apostol Arsache",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica Sfântul Pantelimon",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/790615905",
+      "osm_id": 790615905,
+      "osm_type": "way",
+      "name": "Biserica Sf. Nicolae",
+      "category": "place_of_worship",
+      "lat": 44.4750934,
+      "lon": 25.5778786,
+      "tags": {
+        "addr:street": "Zadariciu",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica Sf. Nicolae",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/790615906",
+      "osm_id": 790615906,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.4751293,
+      "lon": 25.578091,
+      "tags": {
+        "amenity": "grave_yard",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/820111969",
+      "osm_id": 820111969,
+      "osm_type": "way",
+      "name": "Biserica Adormirea Maicii Domnului",
+      "category": "place_of_worship",
+      "lat": 44.2445927,
+      "lon": 26.0902109,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Biserica Adormirea Maicii Domnului",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/860821280",
+      "osm_id": 860821280,
+      "osm_type": "way",
+      "name": "Cimitirul Radu Vodă",
+      "category": "place_of_worship",
+      "lat": 44.0054602,
+      "lon": 25.8150011,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitirul Radu Vodă",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/904757356",
+      "osm_id": 904757356,
+      "osm_type": "way",
+      "name": "Biserica ortodoxă Adormirea Maicii Domnului",
+      "category": "place_of_worship",
+      "lat": 44.3034443,
+      "lon": 25.9839433,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica ortodoxă Adormirea Maicii Domnului",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/904757359",
+      "osm_id": 904757359,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.2978908,
+      "lon": 25.9858424,
+      "tags": {
+        "denomination": "roman_catholic",
+        "historic": "wayside_shrine",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/904760872",
+      "osm_id": 904760872,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă „Sfânta Treime”",
+      "category": "place_of_worship",
+      "lat": 44.310775,
+      "lon": 25.9653273,
+      "tags": {
+        "addr:city": "Popești",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica Ortodoxă „Sfânta Treime”",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/904760873",
+      "osm_id": 904760873,
+      "osm_type": "way",
+      "name": "Cimitirul Ortodox Popești",
+      "category": "place_of_worship",
+      "lat": 44.3108494,
+      "lon": 25.9651723,
+      "tags": {
+        "amenity": "grave_yard",
+        "denomination": "romanian_orthodox",
+        "name": "Cimitirul Ortodox Popești",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/948839534",
+      "osm_id": 948839534,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă \"Sf. Nicolae\"",
+      "category": "place_of_worship",
+      "lat": 44.4973499,
+      "lon": 25.8570714,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă \"Sf. Nicolae\"",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/972196904",
+      "osm_id": 972196904,
+      "osm_type": "way",
+      "name": "Biserica „Sfinții Arhangheli Mihail și Gavril”",
+      "category": "place_of_worship",
+      "lat": 44.1662795,
+      "lon": 25.9376942,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "romanian_orthodox",
+        "heritage": "2",
+        "heritage:operator": "lmi",
+        "name": "Biserica „Sfinții Arhangheli Mihail și Gavril”",
+        "ref:RO:lmi": "GR-II-m-B-15018",
+        "religion": "christian",
+        "start_date": "1840..1842"
+      }
+    },
+    {
+      "id": "way/974975379",
+      "osm_id": 974975379,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.2585194,
+      "lon": 26.0631232,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/986969680",
+      "osm_id": 986969680,
+      "osm_type": "way",
+      "name": "Biserica romano-catolică din Giurgiu",
+      "category": "place_of_worship",
+      "lat": 43.8879751,
+      "lon": 25.9659976,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "catholic",
+        "heritage": "2",
+        "heritage:operator": "lmi",
+        "historic": "yes",
+        "name": "Biserica romano-catolică din Giurgiu",
+        "ref:RO:lmi": "GR-II-m-B-14861",
+        "religion": "christian",
+        "wikidata": "Q21501699",
+        "wikipedia": "ro:Biserica romano-catolică din Giurgiu"
+      }
+    },
+    {
+      "id": "way/1019866087",
+      "osm_id": 1019866087,
+      "osm_type": "way",
+      "name": "Cimitir",
+      "category": "place_of_worship",
+      "lat": 44.1364608,
+      "lon": 26.0556139,
+      "tags": {
+        "CLC:code": "112",
+        "CLC:explanation": "See http://wiki.openstreetmap.org/wiki/Romania_CLC_Import.",
+        "CLC:shapeId": "93661",
+        "CLC:year": "2006",
+        "denomination": "greek_orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitir",
+        "religion": "christian",
+        "source": "European Environment Agency (EEA), CORINE Land Cover, 2006",
+        "source:ro": "Agenţia Europeană de Mediu, CORINE Land Cover, 2006"
+      }
+    },
+    {
+      "id": "way/1034269144",
+      "osm_id": 1034269144,
+      "osm_type": "way",
+      "name": "Catedrala Adormirea Maicii Domnului",
+      "category": "place_of_worship",
+      "lat": 43.8916968,
+      "lon": 25.9660984,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "heritage": "2",
+        "heritage:operator": "lmi",
+        "image": "https://photos.app.goo.gl/BaBeDLDe5UsaaGCS6",
+        "name": "Catedrala Adormirea Maicii Domnului",
+        "name:en": "Dormition of the Theotokos Cathedral",
+        "ref:RO:lmi": "GR-II-m-B-14864",
+        "religion": "christian",
+        "wheelchair": "yes",
+        "wikidata": "Q5298086",
+        "wikipedia": "ro:Catedrala Adormirea Maicii Domnului din Giurgiu"
+      }
+    },
+    {
+      "id": "way/1057003284",
+      "osm_id": 1057003284,
+      "osm_type": "way",
+      "name": "Biserica Adormirea Maicii Domnului",
+      "category": "place_of_worship",
+      "lat": 44.2226361,
+      "lon": 26.1523002,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica Adormirea Maicii Domnului",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1057003285",
+      "osm_id": 1057003285,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.2224778,
+      "lon": 26.1523061,
+      "tags": {
+        "barrier": "fence",
+        "denomination": "orthodox",
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1057003302",
+      "osm_id": 1057003302,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.2199035,
+      "lon": 26.1519611,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1116503217",
+      "osm_id": 1116503217,
+      "osm_type": "way",
+      "name": "Sala Regatului a Martorilor lui Iehova",
+      "category": "place_of_worship",
+      "lat": 43.8948318,
+      "lon": 25.9693144,
+      "tags": {
+        "addr:city": "Giurgiu",
+        "addr:housenumber": "17",
+        "addr:postcode": "080115",
+        "addr:street": "Bulevardul Independenței",
+        "amenity": "place_of_worship",
+        "building": "kingdom_hall",
+        "denomination": "jehovahs_witness",
+        "name": "Sala Regatului a Martorilor lui Iehova",
+        "name:en": "Kingdom Hall of Jehovah's Witnesses",
+        "name:ro": "Sala Regatului a Martorilor lui Iehova",
+        "opening_hours": "Tu 18:00-20:00; Su 10:00-12:00",
+        "religion": "christian",
+        "start_date": "2004",
+        "website": "https://www.jw.org/ro/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "id": "way/1126985005",
+      "osm_id": 1126985005,
+      "osm_type": "way",
+      "name": "Cimitir Valea Dragului",
+      "category": "place_of_worship",
+      "lat": 44.208832,
+      "lon": 26.3058442,
+      "tags": {
+        "denomination": "greek_orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitir Valea Dragului",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1169794289",
+      "osm_id": 1169794289,
+      "osm_type": "way",
+      "name": "Biserica „Adormirea Maicii Domnului”",
+      "category": "place_of_worship",
+      "lat": 44.1724774,
+      "lon": 25.9967051,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "romanian_orthodox",
+        "heritage": "2",
+        "heritage:operator": "lmi",
+        "name": "Biserica „Adormirea Maicii Domnului”",
+        "ref:RO:lmi": "GR-II-m-B-14953",
+        "religion": "christian",
+        "start_date": "1865"
+      }
+    },
+    {
+      "id": "way/1218948209",
+      "osm_id": 1218948209,
+      "osm_type": "way",
+      "name": "Mânăstirea Izvorul Tămăduirii",
+      "category": "place_of_worship",
+      "lat": 44.4854187,
+      "lon": 25.7120179,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Mânăstirea Izvorul Tămăduirii",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1236307316",
+      "osm_id": 1236307316,
+      "osm_type": "way",
+      "name": "Parohia Salcioara Sf Nicolae",
+      "category": "place_of_worship",
+      "lat": 44.1928587,
+      "lon": 25.7793291,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "name": "Parohia Salcioara Sf Nicolae",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1318153016",
+      "osm_id": 1318153016,
+      "osm_type": "way",
+      "name": "Cimitir",
+      "category": "place_of_worship",
+      "lat": 44.029061,
+      "lon": 26.0187495,
+      "tags": {
+        "denomination": "greek_orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitir",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1319825396",
+      "osm_id": 1319825396,
+      "osm_type": "way",
+      "name": "Mănăstirea Comana",
+      "category": "place_of_worship",
+      "lat": 44.1764582,
+      "lon": 26.1431501,
+      "tags": {
+        "amenity": "monastery",
+        "denomination": "romanian_orthodox",
+        "historic": "yes",
+        "name": "Mănăstirea Comana",
+        "name:en": "Comana Monastery",
+        "ref:RO:lmi": "GR-II-m-A-14967",
+        "religion": "christian",
+        "tourism": "attraction",
+        "wikidata": "Q3320272",
+        "wikipedia": "ro:Mănăstirea Comana"
+      }
+    },
+    {
+      "id": "way/1336886449",
+      "osm_id": 1336886449,
+      "osm_type": "way",
+      "name": "Biserica „Buna Vestire”",
+      "category": "place_of_worship",
+      "lat": 44.4839604,
+      "lon": 25.7140194,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "heritage": "2",
+        "heritage:operator": "lmi",
+        "historic": "church",
+        "name": "Biserica „Buna Vestire”",
+        "ref:RO:lmi": "GR-II-m-A-15086",
+        "religion": "christian",
+        "start_date": "1723"
+      }
+    },
+    {
+      "id": "way/1336892073",
+      "osm_id": 1336892073,
+      "osm_type": "way",
+      "name": "Biserica „Sfântul Nicolae”",
+      "category": "place_of_worship",
+      "lat": 44.5083837,
+      "lon": 25.6946921,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "romanian_orthodox",
+        "heritage": "2",
+        "heritage:operator": "lmi",
+        "historic": "church",
+        "name": "Biserica „Sfântul Nicolae”",
+        "ref:RO:lmi": "GR-II-m-B-14985",
+        "religion": "christian",
+        "start_date": "1679..1715"
+      }
+    },
+    {
+      "id": "way/1336898903",
+      "osm_id": 1336898903,
+      "osm_type": "way",
+      "name": "Biserica „Nașterea Maicii Domnului”",
+      "category": "place_of_worship",
+      "lat": 44.3540537,
+      "lon": 25.5835558,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "romanian_orthodox",
+        "heritage": "2",
+        "heritage:operator": "lmi",
+        "historic": "church",
+        "name": "Biserica „Nașterea Maicii Domnului”",
+        "ref:RO:lmi": "GR-II-m-B-15001",
+        "religion": "christian",
+        "start_date": "1816"
+      }
+    },
+    {
+      "id": "way/1336906232",
+      "osm_id": 1336906232,
+      "osm_type": "way",
+      "name": "Biserica „Sfinții Împărați Constantin și Elena”",
+      "category": "place_of_worship",
+      "lat": 44.0786926,
+      "lon": 25.7288567,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "heritage": "2",
+        "heritage:operator": "lmi",
+        "historic": "church",
+        "name": "Biserica „Sfinții Împărați Constantin și Elena”",
+        "ref:RO:lmi": "GR-II-m-B-14976",
+        "religion": "christian",
+        "start_date": "1830"
+      }
+    },
+    {
+      "id": "way/1337235690",
+      "osm_id": 1337235690,
+      "osm_type": "way",
+      "name": "Biserica",
+      "category": "place_of_worship",
+      "lat": 44.2940541,
+      "lon": 25.8320441,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Biserica",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1337235691",
+      "osm_id": 1337235691,
+      "osm_type": "way",
+      "name": "Cimitir",
+      "category": "place_of_worship",
+      "lat": 44.2944337,
+      "lon": 25.8320782,
+      "tags": {
+        "landuse": "cemetery",
+        "name": "Cimitir",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1342227418",
+      "osm_id": 1342227418,
+      "osm_type": "way",
+      "name": "Cimitir",
+      "category": "place_of_worship",
+      "lat": 43.7281668,
+      "lon": 25.6735467,
+      "tags": {
+        "landuse": "cemetery",
+        "name": "Cimitir",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1343590890",
+      "osm_id": 1343590890,
+      "osm_type": "way",
+      "name": "Cimitir",
+      "category": "place_of_worship",
+      "lat": 43.7398499,
+      "lon": 25.7069013,
+      "tags": {
+        "denomination": "greek_orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitir",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1343590893",
+      "osm_id": 1343590893,
+      "osm_type": "way",
+      "name": "Biserica",
+      "category": "place_of_worship",
+      "lat": 43.7373026,
+      "lon": 25.7111264,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Biserica",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1357192553",
+      "osm_id": 1357192553,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.231318,
+      "lon": 25.9422589,
+      "tags": {
+        "addr:city": "Singureni",
+        "addr:street": "Strada Bisericii",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "religion": "christian",
+        "source": "Bing Aerial"
+      }
+    },
+    {
+      "id": "way/1357192554",
+      "osm_id": 1357192554,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.2087114,
+      "lon": 25.9767978,
+      "tags": {
+        "Source": "Bing Aerial",
+        "addr:city": "Crânguri",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1361763460",
+      "osm_id": 1361763460,
+      "osm_type": "way",
+      "name": "Biserica „Sfântul Nicolae”",
+      "category": "place_of_worship",
+      "lat": 44.1872627,
+      "lon": 26.223065,
+      "tags": {
+        "building": "church",
+        "denomination": "romanian_orthodox",
+        "heritage": "2",
+        "heritage:operator": "lmi",
+        "name": "Biserica „Sfântul Nicolae”",
+        "ref:RO:lmi": "GR-II-m-A-15004.02",
+        "religion": "christian",
+        "start_date": "C18",
+        "wikidata": "Q18543866",
+        "wikipedia": "ro:Conacul Ștefan Bellu din Gostinari"
+      }
+    },
+    {
+      "id": "way/1361763461",
+      "osm_id": 1361763461,
+      "osm_type": "way",
+      "name": "Biserica „Cuvioasa Paraschiva”",
+      "category": "place_of_worship",
+      "lat": 44.1844107,
+      "lon": 26.2308787,
+      "tags": {
+        "addr:city": "Gostinari",
+        "amenity": "place_of_worship",
+        "denomination": "romanian_orthodox",
+        "heritage": "2",
+        "heritage:operator": "lmi",
+        "historic": "church",
+        "name": "Biserica „Cuvioasa Paraschiva”",
+        "ref:RO:lmi": "GR-II-m-B-15005",
+        "religion": "christian",
+        "start_date": "1857"
+      }
+    },
+    {
+      "id": "way/1364822478",
+      "osm_id": 1364822478,
+      "osm_type": "way",
+      "name": "Biserica Sf. Haralambie",
+      "category": "place_of_worship",
+      "lat": 43.8851933,
+      "lon": 25.9476485,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica Sf. Haralambie",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1365694033",
+      "osm_id": 1365694033,
+      "osm_type": "way",
+      "name": "Cimitir",
+      "category": "place_of_worship",
+      "lat": 44.5113591,
+      "lon": 25.6891938,
+      "tags": {
+        "denomination": "greek_orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitir",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1365694045",
+      "osm_id": 1365694045,
+      "osm_type": "way",
+      "name": "Cimitir",
+      "category": "place_of_worship",
+      "lat": 44.5112582,
+      "lon": 25.6913524,
+      "tags": {
+        "denomination": "greek_orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitir",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1365790098",
+      "osm_id": 1365790098,
+      "osm_type": "way",
+      "name": "Biserica Buna Vestire (Grecească)",
+      "category": "place_of_worship",
+      "lat": 43.8889501,
+      "lon": 25.9635677,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "greek_orthodox",
+        "image": "https://photos.app.goo.gl/RB5NGuRDreRYYJBC7",
+        "name": "Biserica Buna Vestire (Grecească)",
+        "religion": "christian",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "id": "way/1365793939",
+      "osm_id": 1365793939,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă Sfânta Treime (Smârda)",
+      "category": "place_of_worship",
+      "lat": 43.8935056,
+      "lon": 25.977033,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica Ortodoxă Sfânta Treime (Smârda)",
+        "religion": "christian",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "id": "way/1366071711",
+      "osm_id": 1366071711,
+      "osm_type": "way",
+      "name": "Cimitirul Învierea lui Lazăr",
+      "category": "place_of_worship",
+      "lat": 43.9130744,
+      "lon": 25.9524281,
+      "tags": {
+        "amenity": "grave_yard",
+        "denomination": "romanian_orthodox",
+        "name": "Cimitirul Învierea lui Lazăr",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1366071719",
+      "osm_id": 1366071719,
+      "osm_type": "way",
+      "name": "Biserica Sf. Gheorghe",
+      "category": "place_of_worship",
+      "lat": 43.9129311,
+      "lon": 25.9505932,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "building:architecture": "neo-byzantine",
+        "building:use": "religious",
+        "denomination": "orthodox",
+        "name": "Biserica Sf. Gheorghe",
+        "religion": "christian",
+        "roof:colour": "grey",
+        "roof:material": "metal",
+        "roof:shape": "dome",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "id": "way/1367121209",
+      "osm_id": 1367121209,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 43.8914066,
+      "lon": 25.9659695,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "chapel",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1370269320",
+      "osm_id": 1370269320,
+      "osm_type": "way",
+      "name": "Biserica Adventistă De Ziua A Șaptea ,, Speranța\"",
+      "category": "place_of_worship",
+      "lat": 43.891682,
+      "lon": 25.9605476,
+      "tags": {
+        "addr:city": "Giurgiu",
+        "addr:housenumber": "26",
+        "addr:street": "Strada Gheorghe Doja",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "seventh_day_adventist",
+        "name": "Biserica Adventistă De Ziua A Șaptea ,, Speranța\"",
+        "opening_hours": "Sa 09:00-13:00,17:00-19:00; Fr 19:00-21:00",
+        "religion": "christian",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "id": "way/1370269331",
+      "osm_id": 1370269331,
+      "osm_type": "way",
+      "name": "Biserica Creștină după Evanghelie ,,Betel\"",
+      "category": "place_of_worship",
+      "lat": 43.8921926,
+      "lon": 25.9609017,
+      "tags": {
+        "addr:city": "Giurgiu",
+        "addr:housenumber": "35",
+        "addr:street": "Strada Victoriei",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "evangelical",
+        "name": "Biserica Creștină după Evanghelie ,,Betel\"",
+        "opening_hours": "Th,Su 08:00-18:00",
+        "religion": "christian",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "id": "way/1370817363",
+      "osm_id": 1370817363,
+      "osm_type": "way",
+      "name": "Biserica Sfântul Gheorghe",
+      "category": "place_of_worship",
+      "lat": 43.8892632,
+      "lon": 25.95904,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "name": "Biserica Sfântul Gheorghe",
+        "religion": "christian",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "id": "way/1375931210",
+      "osm_id": 1375931210,
+      "osm_type": "way",
+      "name": "Biserica de lemn a spitalului",
+      "category": "place_of_worship",
+      "lat": 43.8974353,
+      "lon": 25.9680985,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica de lemn a spitalului",
+        "religion": "christian",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "id": "way/1379104462",
+      "osm_id": 1379104462,
+      "osm_type": "way",
+      "name": "Biserica Sfinții Martiri Brâncoveni",
+      "category": "place_of_worship",
+      "lat": 43.9098933,
+      "lon": 25.9731751,
+      "tags": {
+        "addr:city": "Giurgiu",
+        "addr:housenumber": "15 A",
+        "addr:street": "Strada Tineretului",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "romanian_orthodox",
+        "email": "sfintiibrancoveni@gmail.com",
+        "name": "Biserica Sfinții Martiri Brâncoveni",
+        "phone": "+40 723 791 031",
+        "religion": "christian",
+        "website": "https://www.sfintiibrancoveni.ro",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "id": "way/1384150524",
+      "osm_id": 1384150524,
+      "osm_type": "way",
+      "name": "Cimitir",
+      "category": "place_of_worship",
+      "lat": 44.4006637,
+      "lon": 25.5532204,
+      "tags": {
+        "landuse": "cemetery",
+        "name": "Cimitir",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1384432050",
+      "osm_id": 1384432050,
+      "osm_type": "way",
+      "name": "Biserica",
+      "category": "place_of_worship",
+      "lat": 44.0871701,
+      "lon": 25.6794691,
+      "tags": {
+        "addr:city": "Răsuceni",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Biserica",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1384435847",
+      "osm_id": 1384435847,
+      "osm_type": "way",
+      "name": "Biserica",
+      "category": "place_of_worship",
+      "lat": 44.0930428,
+      "lon": 25.6688085,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Biserica",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1385150715",
+      "osm_id": 1385150715,
+      "osm_type": "way",
+      "name": "Cimitir",
+      "category": "place_of_worship",
+      "lat": 44.2284236,
+      "lon": 25.7441723,
+      "tags": {
+        "landuse": "cemetery",
+        "name": "Cimitir",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1385160925",
+      "osm_id": 1385160925,
+      "osm_type": "way",
+      "name": "Biserica",
+      "category": "place_of_worship",
+      "lat": 44.2346027,
+      "lon": 25.7396016,
+      "tags": {
+        "addr:city": "Letca Nouă",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Biserica",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1386304657",
+      "osm_id": 1386304657,
+      "osm_type": "way",
+      "name": "Cimitirul Catolic Sfântul Anton",
+      "category": "place_of_worship",
+      "lat": 43.8844226,
+      "lon": 25.9446144,
+      "tags": {
+        "denomination": "catholic",
+        "landuse": "cemetery",
+        "name": "Cimitirul Catolic Sfântul Anton",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1386936171",
+      "osm_id": 1386936171,
+      "osm_type": "way",
+      "name": "Cimitir",
+      "category": "place_of_worship",
+      "lat": 44.0787826,
+      "lon": 25.7277014,
+      "tags": {
+        "denomination": "greek_orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitir",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1387603466",
+      "osm_id": 1387603466,
+      "osm_type": "way",
+      "name": "Cimitir",
+      "category": "place_of_worship",
+      "lat": 44.3705567,
+      "lon": 25.5546637,
+      "tags": {
+        "landuse": "cemetery",
+        "name": "Cimitir",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1388056731",
+      "osm_id": 1388056731,
+      "osm_type": "way",
+      "name": "Cimitir",
+      "category": "place_of_worship",
+      "lat": 43.8170014,
+      "lon": 25.8097065,
+      "tags": {
+        "landuse": "cemetery",
+        "name": "Cimitir",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1389078565",
+      "osm_id": 1389078565,
+      "osm_type": "way",
+      "name": "Biserica Cetățuia",
+      "category": "place_of_worship",
+      "lat": 43.75759,
+      "lon": 25.7460086,
+      "tags": {
+        "addr:city": "Cetățuia",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Biserica Cetățuia",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1389078571",
+      "osm_id": 1389078571,
+      "osm_type": "way",
+      "name": "Cimitir Cetățuia",
+      "category": "place_of_worship",
+      "lat": 43.7579111,
+      "lon": 25.746363,
+      "tags": {
+        "denomination": "greek_orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitir Cetățuia",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1389917833",
+      "osm_id": 1389917833,
+      "osm_type": "way",
+      "name": "Biserica",
+      "category": "place_of_worship",
+      "lat": 43.8813822,
+      "lon": 25.6611154,
+      "tags": {
+        "addr:city": "Izvoru",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Biserica",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1390232560",
+      "osm_id": 1390232560,
+      "osm_type": "way",
+      "name": "Biserica Drăghiceanu",
+      "category": "place_of_worship",
+      "lat": 43.8635573,
+      "lon": 25.6802035,
+      "tags": {
+        "addr:city": "Drăghiceanu",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Biserica Drăghiceanu",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1390232578",
+      "osm_id": 1390232578,
+      "osm_type": "way",
+      "name": "Cimitir",
+      "category": "place_of_worship",
+      "lat": 43.8573677,
+      "lon": 25.6962222,
+      "tags": {
+        "denomination": "greek_orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitir",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1390526525",
+      "osm_id": 1390526525,
+      "osm_type": "way",
+      "name": "Biserica Sfânta Treime Gogoșari",
+      "category": "place_of_worship",
+      "lat": 43.8592341,
+      "lon": 25.6993736,
+      "tags": {
+        "addr:city": "Gogoșari",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Biserica Sfânta Treime Gogoșari",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1391194778",
+      "osm_id": 1391194778,
+      "osm_type": "way",
+      "name": "Cimitir",
+      "category": "place_of_worship",
+      "lat": 43.9085279,
+      "lon": 25.7357258,
+      "tags": {
+        "landuse": "cemetery",
+        "name": "Cimitir",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1391337107",
+      "osm_id": 1391337107,
+      "osm_type": "way",
+      "name": "Biserica",
+      "category": "place_of_worship",
+      "lat": 43.9073777,
+      "lon": 25.7400008,
+      "tags": {
+        "addr:city": "Putineiu",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Biserica",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1391436729",
+      "osm_id": 1391436729,
+      "osm_type": "way",
+      "name": "Cimitir",
+      "category": "place_of_worship",
+      "lat": 43.8918904,
+      "lon": 25.8091966,
+      "tags": {
+        "landuse": "cemetery",
+        "name": "Cimitir",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1391661530",
+      "osm_id": 1391661530,
+      "osm_type": "way",
+      "name": "Biserica Hodivoaia",
+      "category": "place_of_worship",
+      "lat": 43.8987559,
+      "lon": 25.7937907,
+      "tags": {
+        "addr:city": "Hodivoaia",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "greek_orthodox",
+        "name": "Biserica Hodivoaia",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1391661531",
+      "osm_id": 1391661531,
+      "osm_type": "way",
+      "name": "Cimitir Hodivoaia",
+      "category": "place_of_worship",
+      "lat": 43.8984651,
+      "lon": 25.7938449,
+      "tags": {
+        "denomination": "greek_orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitir Hodivoaia",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1391681040",
+      "osm_id": 1391681040,
+      "osm_type": "way",
+      "name": "Cimitir",
+      "category": "place_of_worship",
+      "lat": 43.9197334,
+      "lon": 25.9148726,
+      "tags": {
+        "denomination": "greek_orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitir",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1391681048",
+      "osm_id": 1391681048,
+      "osm_type": "way",
+      "name": "Biserica Sfânta Cuvioasă Parascheva Bălanu",
+      "category": "place_of_worship",
+      "lat": 43.9222471,
+      "lon": 25.9185745,
+      "tags": {
+        "addr:city": "Bălanu",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Biserica Sfânta Cuvioasă Parascheva Bălanu",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1391915428",
+      "osm_id": 1391915428,
+      "osm_type": "way",
+      "name": "Cimitir Ghizdaru",
+      "category": "place_of_worship",
+      "lat": 43.9313415,
+      "lon": 25.8755377,
+      "tags": {
+        "denomination": "greek_orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitir Ghizdaru",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1391915448",
+      "osm_id": 1391915448,
+      "osm_type": "way",
+      "name": "Biserica Sfântul Gheorghe Ghizdaru",
+      "category": "place_of_worship",
+      "lat": 43.9305008,
+      "lon": 25.8779094,
+      "tags": {
+        "addr:city": "Ghizdaru",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "greek_orthodox",
+        "name": "Biserica Sfântul Gheorghe Ghizdaru",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1392220060",
+      "osm_id": 1392220060,
+      "osm_type": "way",
+      "name": "Cimitir",
+      "category": "place_of_worship",
+      "lat": 44.1045503,
+      "lon": 25.8584369,
+      "tags": {
+        "denomination": "greek_orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitir",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1392393736",
+      "osm_id": 1392393736,
+      "osm_type": "way",
+      "name": "Biserica Petru Rareș",
+      "category": "place_of_worship",
+      "lat": 44.0987127,
+      "lon": 25.7916268,
+      "tags": {
+        "addr:city": "Petru Rareș",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Biserica Petru Rareș",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1392393739",
+      "osm_id": 1392393739,
+      "osm_type": "way",
+      "name": "Cimitir Petru Rareș",
+      "category": "place_of_worship",
+      "lat": 44.1037774,
+      "lon": 25.7962622,
+      "tags": {
+        "denomination": "greek_orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitir Petru Rareș",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1392400354",
+      "osm_id": 1392400354,
+      "osm_type": "way",
+      "name": "Biserica Oncești",
+      "category": "place_of_worship",
+      "lat": 43.9560721,
+      "lon": 25.8810883,
+      "tags": {
+        "addr:city": "Oncești",
+        "addr:housenumber": "10",
+        "addr:street": "Strada Bisericii",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Biserica Oncești",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1392400368",
+      "osm_id": 1392400368,
+      "osm_type": "way",
+      "name": "Cimitir Oncești",
+      "category": "place_of_worship",
+      "lat": 43.9559856,
+      "lon": 25.8782395,
+      "tags": {
+        "denomination": "greek_orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitir Oncești",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1392540506",
+      "osm_id": 1392540506,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.0986783,
+      "lon": 25.7915876,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1394233588",
+      "osm_id": 1394233588,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.0489228,
+      "lon": 26.0862945,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1394233589",
+      "osm_id": 1394233589,
+      "osm_type": "way",
+      "name": "Cimitir",
+      "category": "place_of_worship",
+      "lat": 44.0489154,
+      "lon": 26.0865129,
+      "tags": {
+        "denomination": "greek_orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitir",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1394246223",
+      "osm_id": 1394246223,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.0192301,
+      "lon": 26.0310103,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1396211700",
+      "osm_id": 1396211700,
+      "osm_type": "way",
+      "name": "Biserica Sf. Andrei",
+      "category": "place_of_worship",
+      "lat": 43.8953605,
+      "lon": 25.9591118,
+      "tags": {
+        "addr:city": "Giurgiu",
+        "addr:housenumber": "126",
+        "addr:street": "Strada Gării",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica Sf. Andrei",
+        "religion": "christian",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "id": "way/1396685524",
+      "osm_id": 1396685524,
+      "osm_type": "way",
+      "name": "Cimitir",
+      "category": "place_of_worship",
+      "lat": 44.0167386,
+      "lon": 26.0007683,
+      "tags": {
+        "denomination": "greek_orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitir",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1396685527",
+      "osm_id": 1396685527,
+      "osm_type": "way",
+      "name": "Cimitir",
+      "category": "place_of_worship",
+      "lat": 44.0164307,
+      "lon": 25.9886734,
+      "tags": {
+        "denomination": "greek_orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitir",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1408122994",
+      "osm_id": 1408122994,
+      "osm_type": "way",
+      "name": "Biserica",
+      "category": "place_of_worship",
+      "lat": 44.0262214,
+      "lon": 26.020064,
+      "tags": {
+        "addr:city": "Frasinu",
+        "addr:street": "Strada Principală",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Biserica",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1411127176",
+      "osm_id": 1411127176,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 43.8947753,
+      "lon": 25.969275,
+      "tags": {
+        "denomination": "jehovahs_witness",
+        "landuse": "religious",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1411970543",
+      "osm_id": 1411970543,
+      "osm_type": "way",
+      "name": "Biserica Sfinții Petru și Pavel",
+      "category": "place_of_worship",
+      "lat": 44.1083785,
+      "lon": 26.3425697,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Biserica Sfinții Petru și Pavel",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1414981314",
+      "osm_id": 1414981314,
+      "osm_type": "way",
+      "name": "Cimitir",
+      "category": "place_of_worship",
+      "lat": 44.2205359,
+      "lon": 26.2595307,
+      "tags": {
+        "denomination": "greek_orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitir",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1414981316",
+      "osm_id": 1414981316,
+      "osm_type": "way",
+      "name": "Biserica Obedeni",
+      "category": "place_of_worship",
+      "lat": 44.2208954,
+      "lon": 26.256954,
+      "tags": {
+        "addr:city": "Obedeni",
+        "building": "church",
+        "name": "Biserica Obedeni"
+      }
+    },
+    {
+      "id": "way/1415402064",
+      "osm_id": 1415402064,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 43.8938251,
+      "lon": 25.9762397,
+      "tags": {
+        "building": "wayside_shrine",
+        "denomination": "orthodox",
+        "historic": "wayside_shrine",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1415492328",
+      "osm_id": 1415492328,
+      "osm_type": "way",
+      "name": "Biserica",
+      "category": "place_of_worship",
+      "lat": 44.2540658,
+      "lon": 26.2149218,
+      "tags": {
+        "addr:city": "Dobreni",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "greek_orthodox",
+        "name": "Biserica",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1415738471",
+      "osm_id": 1415738471,
+      "osm_type": "way",
+      "name": "Cimitir Colibași",
+      "category": "place_of_worship",
+      "lat": 44.2127057,
+      "lon": 26.1952231,
+      "tags": {
+        "denomination": "greek_orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitir Colibași",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1415738478",
+      "osm_id": 1415738478,
+      "osm_type": "way",
+      "name": "Biserica Nouă Colibași",
+      "category": "place_of_worship",
+      "lat": 44.2088569,
+      "lon": 26.1919145,
+      "tags": {
+        "addr:city": "Colibași",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "greek_orthodox",
+        "name": "Biserica Nouă Colibași",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1415738479",
+      "osm_id": 1415738479,
+      "osm_type": "way",
+      "name": "Biserica Veche Colibași",
+      "category": "place_of_worship",
+      "lat": 44.2094596,
+      "lon": 26.1910209,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Biserica Veche Colibași",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1416177174",
+      "osm_id": 1416177174,
+      "osm_type": "way",
+      "name": "Cimitirul Nou",
+      "category": "place_of_worship",
+      "lat": 44.2362028,
+      "lon": 26.187593,
+      "tags": {
+        "denomination": "greek_orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitirul Nou",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1416177182",
+      "osm_id": 1416177182,
+      "osm_type": "way",
+      "name": "Cimitirul Vechi",
+      "category": "place_of_worship",
+      "lat": 44.2321315,
+      "lon": 26.1844922,
+      "tags": {
+        "denomination": "greek_orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitirul Vechi",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1416180041",
+      "osm_id": 1416180041,
+      "osm_type": "way",
+      "name": "Biserica Câmpurelu",
+      "category": "place_of_worship",
+      "lat": 44.2339404,
+      "lon": 26.1844454,
+      "tags": {
+        "addr:city": "Câmpurelu",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "greek_orthodox",
+        "name": "Biserica Câmpurelu",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1416598133",
+      "osm_id": 1416598133,
+      "osm_type": "way",
+      "name": "Cimitir",
+      "category": "place_of_worship",
+      "lat": 44.1874419,
+      "lon": 26.2286436,
+      "tags": {
+        "denomination": "greek_orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitir",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1416603686",
+      "osm_id": 1416603686,
+      "osm_type": "way",
+      "name": "Cimitir",
+      "category": "place_of_worship",
+      "lat": 44.1742203,
+      "lon": 26.2432802,
+      "tags": {
+        "denomination": "greek_orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitir",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1416603691",
+      "osm_id": 1416603691,
+      "osm_type": "way",
+      "name": "Biserica Mironești",
+      "category": "place_of_worship",
+      "lat": 44.1727561,
+      "lon": 26.2480001,
+      "tags": {
+        "addr:city": "Mironești",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "greek_orthodox",
+        "name": "Biserica Mironești",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1416834397",
+      "osm_id": 1416834397,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.0781205,
+      "lon": 26.1933766,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1417502711",
+      "osm_id": 1417502711,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.2594842,
+      "lon": 26.0619452,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1418153611",
+      "osm_id": 1418153611,
+      "osm_type": "way",
+      "name": "Cimitir Isvoarele",
+      "category": "place_of_worship",
+      "lat": 44.1723461,
+      "lon": 26.3109144,
+      "tags": {
+        "denomination": "greek_orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitir Isvoarele",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1418366856",
+      "osm_id": 1418366856,
+      "osm_type": "way",
+      "name": "Cimitir Herăști",
+      "category": "place_of_worship",
+      "lat": 44.2171373,
+      "lon": 26.3592557,
+      "tags": {
+        "denomination": "greek_orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitir Herăști",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1418459524",
+      "osm_id": 1418459524,
+      "osm_type": "way",
+      "name": "Cimitir Miloșești",
+      "category": "place_of_worship",
+      "lat": 44.2078654,
+      "lon": 26.3694597,
+      "tags": {
+        "denomination": "greek_orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitir Miloșești",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1418592858",
+      "osm_id": 1418592858,
+      "osm_type": "way",
+      "name": "Biserica „Sf. Treime” din Herăști",
+      "category": "place_of_worship",
+      "lat": 44.2104897,
+      "lon": 26.3619475,
+      "tags": {
+        "addr:city": "Herăști",
+        "addr:housenumber": "34",
+        "addr:street": "Strada Miloș Obrenovici",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Biserica „Sf. Treime” din Herăști",
+        "religion": "christian",
+        "wikidata": "Q65216344",
+        "wikipedia": "ro:Biserica „Sf. Treime” din Herăști"
+      }
+    },
+    {
+      "id": "way/1418685239",
+      "osm_id": 1418685239,
+      "osm_type": "way",
+      "name": "Cimitir Bila",
+      "category": "place_of_worship",
+      "lat": 44.1603328,
+      "lon": 25.8541429,
+      "tags": {
+        "denomination": "greek_orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitir Bila",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1418685244",
+      "osm_id": 1418685244,
+      "osm_type": "way",
+      "name": "Biserica",
+      "category": "place_of_worship",
+      "lat": 44.1626639,
+      "lon": 25.850938,
+      "tags": {
+        "addr:city": "Bila",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Biserica",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1418685273",
+      "osm_id": 1418685273,
+      "osm_type": "way",
+      "name": "Cimitir",
+      "category": "place_of_worship",
+      "lat": 44.1653497,
+      "lon": 25.8223292,
+      "tags": {
+        "denomination": "greek_orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitir",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1418692912",
+      "osm_id": 1418692912,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.1399756,
+      "lon": 26.0541412,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1421422898",
+      "osm_id": 1421422898,
+      "osm_type": "way",
+      "name": "Cimitir",
+      "category": "place_of_worship",
+      "lat": 43.9705703,
+      "lon": 26.0363228,
+      "tags": {
+        "denomination": "greek_orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitir",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1421424105",
+      "osm_id": 1421424105,
+      "osm_type": "way",
+      "name": "Cimitir Oncești",
+      "category": "place_of_worship",
+      "lat": 43.9550042,
+      "lon": 25.8776798,
+      "tags": {
+        "denomination": "greek_orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitir Oncești",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1422823822",
+      "osm_id": 1422823822,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.0782564,
+      "lon": 25.8288186,
+      "tags": {
+        "denomination": "orthodox",
+        "historic": "wayside_shrine",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1422831574",
+      "osm_id": 1422831574,
+      "osm_type": "way",
+      "name": "Biserica \"Sifinții Arhangheli Mihail și Gavril\"",
+      "category": "place_of_worship",
+      "lat": 44.0756167,
+      "lon": 25.8294861,
+      "tags": {
+        "addr:city": "Valea Bujorului",
+        "addr:housenumber": "23",
+        "addr:postcode": "087146",
+        "addr:street": "Strada Principală",
+        "alt_name": "Biserica \"Sfinții Voievozi\"",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "heritage": "yes",
+        "name": "Biserica \"Sifinții Arhangheli Mihail și Gavril\"",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1422831575",
+      "osm_id": 1422831575,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.0758125,
+      "lon": 25.8302377,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1423237904",
+      "osm_id": 1423237904,
+      "osm_type": "way",
+      "name": "Noua Catedrală Episcopală „Sfântul Mare Mucenic Gheorghe”",
+      "category": "place_of_worship",
+      "lat": 43.9194363,
+      "lon": 25.971929,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "cathedral",
+        "denomination": "romanian_orthodox",
+        "name": "Noua Catedrală Episcopală „Sfântul Mare Mucenic Gheorghe”",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1423477500",
+      "osm_id": 1423477500,
+      "osm_type": "way",
+      "name": "Biserica Sfântul Pantelimon",
+      "category": "place_of_worship",
+      "lat": 43.9359244,
+      "lon": 25.9766602,
+      "tags": {
+        "addr:city": "Remuș",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica Sfântul Pantelimon",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1424070049",
+      "osm_id": 1424070049,
+      "osm_type": "way",
+      "name": "Biserica \"Sf. Împărați Constantin și Elena\"",
+      "category": "place_of_worship",
+      "lat": 44.0086629,
+      "lon": 25.817315,
+      "tags": {
+        "addr:city": "Radu Vodă",
+        "addr:housenumber": "10",
+        "addr:postcode": "087144",
+        "addr:street": "Șoseaua Principală",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica \"Sf. Împărați Constantin și Elena\"",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1424101609",
+      "osm_id": 1424101609,
+      "osm_type": "way",
+      "name": "Schitul „Sfântul Ierarh Nicolae”",
+      "category": "place_of_worship",
+      "lat": 43.9122317,
+      "lon": 25.9770543,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "name": "Schitul „Sfântul Ierarh Nicolae”",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1424101629",
+      "osm_id": 1424101629,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 43.9123295,
+      "lon": 25.9768557,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "religious",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1424876064",
+      "osm_id": 1424876064,
+      "osm_type": "way",
+      "name": "Cimitir Chiriacu",
+      "category": "place_of_worship",
+      "lat": 44.0539525,
+      "lon": 25.7714262,
+      "tags": {
+        "denomination": "greek_orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitir Chiriacu",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1424876078",
+      "osm_id": 1424876078,
+      "osm_type": "way",
+      "name": "Biserica Chiriacu",
+      "category": "place_of_worship",
+      "lat": 44.0511552,
+      "lon": 25.77206,
+      "tags": {
+        "addr:city": "Chiriacu",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Biserica Chiriacu",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1424878265",
+      "osm_id": 1424878265,
+      "osm_type": "way",
+      "name": "Biserica",
+      "category": "place_of_worship",
+      "lat": 44.03891,
+      "lon": 25.7767497,
+      "tags": {
+        "addr:city": "Izvoarele",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Biserica",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1425075656",
+      "osm_id": 1425075656,
+      "osm_type": "way",
+      "name": "Cimitir Toporu",
+      "category": "place_of_worship",
+      "lat": 44.0149478,
+      "lon": 25.6545461,
+      "tags": {
+        "denomination": "greek_orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitir Toporu",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1425087350",
+      "osm_id": 1425087350,
+      "osm_type": "way",
+      "name": "Biserica",
+      "category": "place_of_worship",
+      "lat": 44.0151046,
+      "lon": 25.6644023,
+      "tags": {
+        "addr:city": "Toporu",
+        "addr:street": "Strada Principală",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "greek_orthodox",
+        "name": "Biserica",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1427477269",
+      "osm_id": 1427477269,
+      "osm_type": "way",
+      "name": "Schitul Sfântul Nicolae",
+      "category": "place_of_worship",
+      "lat": 43.884961,
+      "lon": 25.9615974,
+      "tags": {
+        "denomination": "romanian_orthodox",
+        "landuse": "religious",
+        "name": "Schitul Sfântul Nicolae",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1427500657",
+      "osm_id": 1427500657,
+      "osm_type": "way",
+      "name": "Cimitir",
+      "category": "place_of_worship",
+      "lat": 43.9649916,
+      "lon": 25.6275943,
+      "tags": {
+        "denomination": "greek_orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitir",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1427653643",
+      "osm_id": 1427653643,
+      "osm_type": "way",
+      "name": "Parohia „Mihai Viteazul”",
+      "category": "place_of_worship",
+      "lat": 44.1704259,
+      "lon": 25.9931286,
+      "tags": {
+        "addr:city": "Călugăreni",
+        "addr:housenumber": "26",
+        "addr:street": "Șoseaua Voinescu",
+        "denomination": "romanian_orthodox",
+        "landuse": "religious",
+        "name": "Parohia „Mihai Viteazul”",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1427653645",
+      "osm_id": 1427653645,
+      "osm_type": "way",
+      "name": "Cimitir cu cruci de piatră",
+      "category": "place_of_worship",
+      "lat": 44.1703319,
+      "lon": 25.9930655,
+      "tags": {
+        "addr:city": "Călugăreni",
+        "addr:housenumber": "26",
+        "addr:street": "Șoseaua Voinescu",
+        "amenity": "grave_yard",
+        "heritage": "2",
+        "heritage:operator": "lmi",
+        "name": "Cimitir cu cruci de piatră",
+        "ref:RO:lmi": "GR-IV-a-B-15116",
+        "religion": "christian",
+        "start_date": "C18..C19"
+      }
+    },
+    {
+      "id": "way/1427653647",
+      "osm_id": 1427653647,
+      "osm_type": "way",
+      "name": "Biserica de lemn „Sfântul Ierarh Nicolae”",
+      "category": "place_of_worship",
+      "lat": 44.1703842,
+      "lon": 25.9931662,
+      "tags": {
+        "addr:city": "Călugăreni",
+        "addr:housenumber": "26",
+        "addr:street": "Șoseaua Voinescu",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "romanian_orthodox",
+        "heritage": "2",
+        "heritage:operator": "lmi",
+        "name": "Biserica de lemn „Sfântul Ierarh Nicolae”",
+        "ref:RO:lmi": "GR-II-m-B-20527",
+        "religion": "christian",
+        "start_date": "C19"
+      }
+    },
+    {
+      "id": "way/1434865534",
+      "osm_id": 1434865534,
+      "osm_type": "way",
+      "name": "Biserica Sfinții Împărați Constantin și Elena",
+      "category": "place_of_worship",
+      "lat": 44.2423428,
+      "lon": 26.1135898,
+      "tags": {
+        "addr:city": "Mogoșești",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Biserica Sfinții Împărați Constantin și Elena",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1447937918",
+      "osm_id": 1447937918,
+      "osm_type": "way",
+      "name": "Biserica sfântul Mare Mucenic Gheorghe",
+      "category": "place_of_worship",
+      "lat": 44.2680451,
+      "lon": 26.0485202,
+      "tags": {
+        "addr:city": "Adunații-Copăceni",
+        "addr:housenumber": "14",
+        "addr:street": "Intrarea Nessli",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Biserica sfântul Mare Mucenic Gheorghe",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1447937920",
+      "osm_id": 1447937920,
+      "osm_type": "way",
+      "name": "Biserica Sfântul Nicolae",
+      "category": "place_of_worship",
+      "lat": 44.2873156,
+      "lon": 26.0121089,
+      "tags": {
+        "addr:city": "Dărăști-Vlașca",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Biserica Sfântul Nicolae",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1450199087",
+      "osm_id": 1450199087,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.1728911,
+      "lon": 26.2478501,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "religious",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1469126654",
+      "osm_id": 1469126654,
+      "osm_type": "way",
+      "name": "Biserica Adventistă Remuș",
+      "category": "place_of_worship",
+      "lat": 43.9403126,
+      "lon": 25.978465,
+      "tags": {
+        "addr:city": "Remuș",
+        "addr:postcode": "087082",
+        "addr:street": "Strada București",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "adventist",
+        "name": "Biserica Adventistă Remuș",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1500798133",
+      "osm_id": 1500798133,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 43.8980326,
+      "lon": 25.9916107,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "relation/19424374",
+      "osm_id": 19424374,
+      "osm_type": "relation",
+      "name": "Biserica „Sfinții Voievozi”",
+      "category": "place_of_worship",
+      "lat": 44.4745168,
+      "lon": 25.7242994,
+      "tags": {
+        "addr:city": "Palanca",
+        "addr:housenumber": "15",
+        "addr:postcode": "087077",
+        "addr:street": "Strada Biserica Veche",
+        "air_conditioning": "yes",
+        "amenity": "place_of_worship",
+        "denomination": "romanian_orthodox",
+        "heritage": "2",
+        "heritage:operator": "lmi",
+        "historic": "church",
+        "loc_name": "Biserica Veche",
+        "name": "Biserica „Sfinții Voievozi”",
+        "ref:RO:lmi": "GR-II-m-B-15054",
+        "religion": "christian",
+        "start_date": "1801",
+        "type": "multipolygon"
+      }
+    }
+  ]
+}

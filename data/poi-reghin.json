@@ -1,0 +1,1087 @@
+{
+  "city": "Reghin",
+  "generated_at": "2026-04-23T09:19:55.566Z",
+  "counts": {
+    "total": 69,
+    "schools": 27,
+    "churches": 42
+  },
+  "pois": [
+    {
+      "id": "node/9819276775",
+      "osm_id": 9819276775,
+      "osm_type": "node",
+      "name": "Școala Specială Sfântul Gheorghe",
+      "category": "education",
+      "lat": 46.7527633,
+      "lon": 24.6934831,
+      "tags": {
+        "amenity": "school",
+        "name": "Școala Specială Sfântul Gheorghe"
+      }
+    },
+    {
+      "id": "way/222670871",
+      "osm_id": 222670871,
+      "osm_type": "way",
+      "name": "Școala Gimnazială \"Augustin Maior\"",
+      "category": "education",
+      "lat": 46.7782189,
+      "lon": 24.7036649,
+      "tags": {
+        "addr:city": "Reghin",
+        "addr:housenumber": "1",
+        "addr:postcode": "545300",
+        "addr:street": "Strada Călărașilor",
+        "amenity": "school",
+        "building": "school",
+        "name": "Școala Gimnazială \"Augustin Maior\"",
+        "website": "https://www.gimnaziulamaior.ro/"
+      }
+    },
+    {
+      "id": "way/222670874",
+      "osm_id": 222670874,
+      "osm_type": "way",
+      "name": "Școala Gimnazială \"Augustin Maior\"",
+      "category": "education",
+      "lat": 46.7795639,
+      "lon": 24.7025606,
+      "tags": {
+        "addr:city": "Reghin",
+        "addr:housenumber": "3",
+        "addr:postcode": "545300",
+        "addr:street": "Strada Școlii",
+        "amenity": "school",
+        "building": "school",
+        "name": "Școala Gimnazială \"Augustin Maior\"",
+        "website": "https://www.gimnaziulamaior.ro/"
+      }
+    },
+    {
+      "id": "way/222680485",
+      "osm_id": 222680485,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.7814141,
+      "lon": 24.6993852,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/222931884",
+      "osm_id": 222931884,
+      "osm_type": "way",
+      "name": "Școala de Muzică",
+      "category": "education",
+      "lat": 46.7829747,
+      "lon": 24.7042461,
+      "tags": {
+        "amenity": "school",
+        "building": "yes",
+        "name": "Școala de Muzică"
+      }
+    },
+    {
+      "id": "way/223001745",
+      "osm_id": 223001745,
+      "osm_type": "way",
+      "name": "Centrul Școlar de Educație Incluzivă",
+      "category": "education",
+      "lat": 46.7533756,
+      "lon": 24.6927291,
+      "tags": {
+        "amenity": "school",
+        "building": "school",
+        "name": "Centrul Școlar de Educație Incluzivă"
+      }
+    },
+    {
+      "id": "way/223556530",
+      "osm_id": 223556530,
+      "osm_type": "way",
+      "name": "Gimnaziul de Stat \"Florea Bogdan\" Reghin",
+      "category": "education",
+      "lat": 46.7713957,
+      "lon": 24.6992189,
+      "tags": {
+        "addr:city": "Reghin",
+        "addr:housenumber": "20",
+        "addr:postcode": "545300",
+        "addr:street": "Strada Pomilor",
+        "building": "school",
+        "name": "Gimnaziul de Stat \"Florea Bogdan\" Reghin"
+      }
+    },
+    {
+      "id": "way/223581405",
+      "osm_id": 223581405,
+      "osm_type": "way",
+      "name": "Grădinița cu Program Normal Nr. 5",
+      "category": "education",
+      "lat": 46.7775352,
+      "lon": 24.7117304,
+      "tags": {
+        "building": "school",
+        "name": "Grădinița cu Program Normal Nr. 5"
+      }
+    },
+    {
+      "id": "way/223581431",
+      "osm_id": 223581431,
+      "osm_type": "way",
+      "name": "Colegiul \"Petru Maior\" Reghin",
+      "category": "education",
+      "lat": 46.7778921,
+      "lon": 24.712065,
+      "tags": {
+        "addr:city": "Reghin",
+        "addr:housenumber": "20",
+        "addr:postcode": "545300",
+        "addr:street": "Strada Gării",
+        "amenity": "school",
+        "building": "school",
+        "name": "Colegiul \"Petru Maior\" Reghin"
+      }
+    },
+    {
+      "id": "way/223819580",
+      "osm_id": 223819580,
+      "osm_type": "way",
+      "name": "Școala",
+      "category": "education",
+      "lat": 46.7768586,
+      "lon": 24.7238542,
+      "tags": {
+        "addr:city": "Reghin",
+        "addr:street": "Strada Salcâmilor",
+        "amenity": "school",
+        "building": "yes",
+        "name": "Școala"
+      }
+    },
+    {
+      "id": "way/277947789",
+      "osm_id": 277947789,
+      "osm_type": "way",
+      "name": "Creșa Nr. 1 Reghin",
+      "category": "education",
+      "lat": 46.7785232,
+      "lon": 24.7013054,
+      "tags": {
+        "addr:city": "Reghin",
+        "addr:housenumber": "13",
+        "addr:postcode": "545300",
+        "addr:street": "Strada Mihai Viteazul",
+        "building": "kindergarten",
+        "name": "Creșa Nr. 1 Reghin",
+        "operator": "Primăria Municipiului Reghin",
+        "operator:type": "public",
+        "preschool": "yes"
+      }
+    },
+    {
+      "id": "way/522502056",
+      "osm_id": 522502056,
+      "osm_type": "way",
+      "name": "Grădinița cu Program Prelungit Nr. 5",
+      "category": "education",
+      "lat": 46.7777803,
+      "lon": 24.709559,
+      "tags": {
+        "addr:city": "Reghin",
+        "addr:housenumber": "4",
+        "addr:postcode": "545300",
+        "addr:street": "Strada Gării",
+        "building": "kindergarten",
+        "name": "Grădinița cu Program Prelungit Nr. 5"
+      }
+    },
+    {
+      "id": "way/542957373",
+      "osm_id": 542957373,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.7753498,
+      "lon": 24.7082859,
+      "tags": {
+        "amenity": "school",
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/557961135",
+      "osm_id": 557961135,
+      "osm_type": "way",
+      "name": "Grădinița cu Program Prelungit Nr. 2",
+      "category": "education",
+      "lat": 46.7779744,
+      "lon": 24.6995552,
+      "tags": {
+        "addr:city": "Reghin",
+        "addr:housenumber": "25",
+        "addr:postcode": "545300",
+        "addr:street": "Strada Mihai Viteazu",
+        "building": "kindergarten",
+        "name": "Grădinița cu Program Prelungit Nr. 2"
+      }
+    },
+    {
+      "id": "way/776996018",
+      "osm_id": 776996018,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.7773907,
+      "lon": 24.7121913,
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "way/843701713",
+      "osm_id": 843701713,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.7853967,
+      "lon": 24.703432,
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "way/958106119",
+      "osm_id": 958106119,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.7804783,
+      "lon": 24.6971039,
+      "tags": {
+        "addr:city": "Reghin",
+        "addr:housenumber": "24",
+        "addr:postcode": "545300",
+        "addr:street": "Strada George Coșbuc",
+        "building": "kindergarten"
+      }
+    },
+    {
+      "id": "way/963405722",
+      "osm_id": 963405722,
+      "osm_type": "way",
+      "name": "Grădinița cu Program Normal Nr. 2",
+      "category": "education",
+      "lat": 46.7805149,
+      "lon": 24.6969668,
+      "tags": {
+        "addr:city": "Reghin",
+        "addr:housenumber": "24",
+        "addr:postcode": "545300",
+        "addr:street": "Strada George Coșbuc",
+        "amenity": "kindergarten",
+        "name": "Grădinița cu Program Normal Nr. 2"
+      }
+    },
+    {
+      "id": "way/1103530987",
+      "osm_id": 1103530987,
+      "osm_type": "way",
+      "name": "Liceul Teoretic \"Lucian Blaga\" Reghin",
+      "category": "education",
+      "lat": 46.7854216,
+      "lon": 24.7036729,
+      "tags": {
+        "addr:city": "Reghin",
+        "addr:housenumber": "29-31",
+        "addr:postcode": "545300",
+        "addr:street": "Strada Vânătorilor",
+        "building": "school",
+        "name": "Liceul Teoretic \"Lucian Blaga\" Reghin"
+      }
+    },
+    {
+      "id": "way/1105290688",
+      "osm_id": 1105290688,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.7797115,
+      "lon": 24.7020054,
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "way/1105292726",
+      "osm_id": 1105292726,
+      "osm_type": "way",
+      "name": "Școala Gimnazială \"Alexandru Ceușianu\"",
+      "category": "education",
+      "lat": 46.7816103,
+      "lon": 24.6988155,
+      "tags": {
+        "addr:city": "Reghin",
+        "addr:housenumber": "11",
+        "addr:postcode": "545300",
+        "addr:street": "Piața Petru Maior",
+        "amenity": "school",
+        "name": "Școala Gimnazială \"Alexandru Ceușianu\"",
+        "website": "https://ceusianu.ro/"
+      }
+    },
+    {
+      "id": "way/1105340764",
+      "osm_id": 1105340764,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.7784253,
+      "lon": 24.7013148,
+      "tags": {
+        "amenity": "kindergarten"
+      }
+    },
+    {
+      "id": "way/1106135159",
+      "osm_id": 1106135159,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.7716515,
+      "lon": 24.6992269,
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "way/1107921794",
+      "osm_id": 1107921794,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.77717,
+      "lon": 24.7120649,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/1110584357",
+      "osm_id": 1110584357,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Mirona",
+      "category": "education",
+      "lat": 46.793047,
+      "lon": 24.7166956,
+      "tags": {
+        "amenity": "school",
+        "building": "yes",
+        "name": "Școala Gimnazială Mirona"
+      }
+    },
+    {
+      "id": "way/1111865358",
+      "osm_id": 1111865358,
+      "osm_type": "way",
+      "name": "Liceul Tehnologic \"Ioan Bojor\" Reghin",
+      "category": "education",
+      "lat": 46.7749766,
+      "lon": 24.7090609,
+      "tags": {
+        "addr:city": "Reghin",
+        "addr:housenumber": "16",
+        "addr:postcode": "545300",
+        "addr:street": "Strada Râului",
+        "amenity": "school",
+        "email": "liceul.ioanbojor@yahoo.com",
+        "fax": "+40 365 410 936",
+        "name": "Liceul Tehnologic \"Ioan Bojor\" Reghin",
+        "phone": "+40 365 410 936",
+        "website": "https://liceulbojor.ro/"
+      }
+    },
+    {
+      "id": "way/1116066053",
+      "osm_id": 1116066053,
+      "osm_type": "way",
+      "name": "Grădinița cu Program Prelungit Nr. 3",
+      "category": "education",
+      "lat": 46.7736819,
+      "lon": 24.7007323,
+      "tags": {
+        "addr:city": "Reghin",
+        "addr:housenumber": "26",
+        "addr:postcode": "545300",
+        "addr:street": "Strada Iernuțeni",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "name": "Grădinița cu Program Prelungit Nr. 3"
+      }
+    },
+    {
+      "id": "node/2308223528",
+      "osm_id": 2308223528,
+      "osm_type": "node",
+      "name": "Biserica Reformată Apalina",
+      "category": "place_of_worship",
+      "lat": 46.7471304,
+      "lon": 24.694058,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "reformed",
+        "name": "Biserica Reformată Apalina",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/2308223530",
+      "osm_id": 2308223530,
+      "osm_type": "node",
+      "name": "Biserica Ortodoxă Apalina",
+      "category": "place_of_worship",
+      "lat": 46.7524893,
+      "lon": 24.693661,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă Apalina",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/2308223898",
+      "osm_id": 2308223898,
+      "osm_type": "node",
+      "name": "Biserica Greco-Catolică Apalina",
+      "category": "place_of_worship",
+      "lat": 46.755235,
+      "lon": 24.6936238,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "greek_catholic",
+        "name": "Biserica Greco-Catolică Apalina",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/2308223916",
+      "osm_id": 2308223916,
+      "osm_type": "node",
+      "name": "Biserica Catolică Apalina",
+      "category": "place_of_worship",
+      "lat": 46.7493835,
+      "lon": 24.6940312,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "catholic",
+        "name": "Biserica Catolică Apalina",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/2314892938",
+      "osm_id": 2314892938,
+      "osm_type": "node",
+      "name": "Biserica Ortodoxă Nouă",
+      "category": "place_of_worship",
+      "lat": 46.7755638,
+      "lon": 24.7018792,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă Nouă",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/2314892964",
+      "osm_id": 2314892964,
+      "osm_type": "node",
+      "name": "Biserica Greco-Catolică",
+      "category": "place_of_worship",
+      "lat": 46.7755638,
+      "lon": 24.7027671,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "greek_catholic",
+        "name": "Biserica Greco-Catolică",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/2324416615",
+      "osm_id": 2324416615,
+      "osm_type": "node",
+      "name": "Biserica Sfântul Nicolae",
+      "category": "place_of_worship",
+      "lat": 46.7722079,
+      "lon": 24.7054193,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Sfântul Nicolae",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/2326845955",
+      "osm_id": 2326845955,
+      "osm_type": "node",
+      "name": "Biserica romano-catolică Iernuțeni",
+      "category": "place_of_worship",
+      "lat": 46.7644862,
+      "lon": 24.7150215,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "roman_catholic",
+        "name": "Biserica romano-catolică Iernuțeni",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/2326845965",
+      "osm_id": 2326845965,
+      "osm_type": "node",
+      "name": "Biserica Reformată Iernuțeni",
+      "category": "place_of_worship",
+      "lat": 46.7661673,
+      "lon": 24.715888,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "reformed",
+        "name": "Biserica Reformată Iernuțeni",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/2326845970",
+      "osm_id": 2326845970,
+      "osm_type": "node",
+      "name": "Biserica Ortodoxă Iernuțeni",
+      "category": "place_of_worship",
+      "lat": 46.7656911,
+      "lon": 24.7142876,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă Iernuțeni",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/222670875",
+      "osm_id": 222670875,
+      "osm_type": "way",
+      "name": "Biserica Evanghelică C.A Reghin",
+      "category": "place_of_worship",
+      "lat": 46.7787181,
+      "lon": 24.703651,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "evanghelic",
+        "name": "Biserica Evanghelică C.A Reghin",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/222931868",
+      "osm_id": 222931868,
+      "osm_type": "way",
+      "name": "Biserica Reformată-Calvină Reghin",
+      "category": "place_of_worship",
+      "lat": 46.7834501,
+      "lon": 24.7061926,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "reformed",
+        "name": "Biserica Reformată-Calvină Reghin",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/222941236",
+      "osm_id": 222941236,
+      "osm_type": "way",
+      "name": "Biserica Adventistă de Ziua A Șaptea \"Spetanța\"",
+      "category": "place_of_worship",
+      "lat": 46.7825336,
+      "lon": 24.6965715,
+      "tags": {
+        "addr:city": "Reghin",
+        "addr:housenumber": "21",
+        "addr:postcode": "545300",
+        "addr:street": "Strada Cardinal Alexandru Todea",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "seventh_day_adventist",
+        "name": "Biserica Adventistă de Ziua A Șaptea \"Spetanța\"",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/222941257",
+      "osm_id": 222941257,
+      "osm_type": "way",
+      "name": "Biserica Sfântul Vasile cel Mare",
+      "category": "place_of_worship",
+      "lat": 46.7832851,
+      "lon": 24.6958013,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Sfântul Vasile cel Mare",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/277947790",
+      "osm_id": 277947790,
+      "osm_type": "way",
+      "name": "Biserica Romano-Catolică Nașterea Maicii Domnului Reghin",
+      "category": "place_of_worship",
+      "lat": 46.7755349,
+      "lon": 24.6976721,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "roman_catholic",
+        "name": "Biserica Romano-Catolică Nașterea Maicii Domnului Reghin",
+        "name:hu": "Kisboldogasszony-templom",
+        "religion": "christian",
+        "url:miserend": "https://miserend.hu/templom/3512"
+      }
+    },
+    {
+      "id": "way/277947791",
+      "osm_id": 277947791,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 46.7756281,
+      "lon": 24.7018798,
+      "tags": {
+        "building": "church"
+      }
+    },
+    {
+      "id": "way/277947832",
+      "osm_id": 277947832,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 46.7756095,
+      "lon": 24.7028591,
+      "tags": {
+        "building": "church"
+      }
+    },
+    {
+      "id": "way/520286346",
+      "osm_id": 520286346,
+      "osm_type": "way",
+      "name": "Cimitirul Catolic",
+      "category": "place_of_worship",
+      "lat": 46.7769706,
+      "lon": 24.6934635,
+      "tags": {
+        "denomination": "catholic",
+        "landuse": "cemetery",
+        "name": "Cimitirul Catolic",
+        "name:hu": "Katolikus Temető",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/520763974",
+      "osm_id": 520763974,
+      "osm_type": "way",
+      "name": "Biserica Sfinții Împărații Constantin și Elena",
+      "category": "place_of_worship",
+      "lat": 46.7856467,
+      "lon": 24.7136691,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica Sfinții Împărații Constantin și Elena",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/542957353",
+      "osm_id": 542957353,
+      "osm_type": "way",
+      "name": "Biserica Penticostală Betel",
+      "category": "place_of_worship",
+      "lat": 46.7748081,
+      "lon": 24.7070498,
+      "tags": {
+        "addr:city": "Reghin",
+        "addr:housenumber": "3H",
+        "addr:postcode": "545300",
+        "addr:street": "Strada Râului",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "pentecostal",
+        "name": "Biserica Penticostală Betel",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/557735907",
+      "osm_id": 557735907,
+      "osm_type": "way",
+      "name": "Biserica Adventista Maghiara",
+      "category": "place_of_worship",
+      "lat": 46.7845559,
+      "lon": 24.6982615,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "advenist",
+        "name": "Biserica Adventista Maghiara",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/843701714",
+      "osm_id": 843701714,
+      "osm_type": "way",
+      "name": "Cimitirul Ortodox",
+      "category": "place_of_worship",
+      "lat": 46.7878919,
+      "lon": 24.7058789,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitirul Ortodox",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/958149703",
+      "osm_id": 958149703,
+      "osm_type": "way",
+      "name": "Sala Regatului a Martorilor lui Iehova",
+      "category": "place_of_worship",
+      "lat": 46.7762682,
+      "lon": 24.7063567,
+      "tags": {
+        "addr:city": "Reghin",
+        "addr:postcode": "545300",
+        "addr:street": "Strada Duzilor",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "jehovahs_witness",
+        "name": "Sala Regatului a Martorilor lui Iehova",
+        "opening_hours:covid19": "closed",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/962364718",
+      "osm_id": 962364718,
+      "osm_type": "way",
+      "name": "Biserica Sfântul Andrei și Sfântul Lazăr",
+      "category": "place_of_worship",
+      "lat": 46.7803125,
+      "lon": 24.6927066,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Sfântul Andrei și Sfântul Lazăr",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/962364720",
+      "osm_id": 962364720,
+      "osm_type": "way",
+      "name": "Cimitirul Ortodox",
+      "category": "place_of_worship",
+      "lat": 46.7812715,
+      "lon": 24.6908068,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitirul Ortodox",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1103528279",
+      "osm_id": 1103528279,
+      "osm_type": "way",
+      "name": "Biserica de lemn \"Tăierea capului Sf. Ioan Botezătorul\"",
+      "category": "place_of_worship",
+      "lat": 46.7862784,
+      "lon": 24.7015966,
+      "tags": {
+        "building": "church",
+        "historic": "building",
+        "name": "Biserica de lemn \"Tăierea capului Sf. Ioan Botezătorul\""
+      }
+    },
+    {
+      "id": "way/1104803026",
+      "osm_id": 1104803026,
+      "osm_type": "way",
+      "name": "Cimitirul Reformat",
+      "category": "place_of_worship",
+      "lat": 46.7882325,
+      "lon": 24.7089021,
+      "tags": {
+        "denomination": "reformed",
+        "landuse": "cemetery",
+        "name": "Cimitirul Reformat",
+        "name:hu": "Református Temető",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1104803028",
+      "osm_id": 1104803028,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 46.7881836,
+      "lon": 24.7091831,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes"
+      }
+    },
+    {
+      "id": "way/1104809908",
+      "osm_id": 1104809908,
+      "osm_type": "way",
+      "name": "Cimitirul Reformat",
+      "category": "place_of_worship",
+      "lat": 46.7784613,
+      "lon": 24.6888716,
+      "tags": {
+        "denomination": "reformed",
+        "landuse": "cemetery",
+        "name": "Cimitirul Reformat",
+        "name:hu": "Református Temető",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1104809909",
+      "osm_id": 1104809909,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 46.7779673,
+      "lon": 24.6886512,
+      "tags": {
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1104810137",
+      "osm_id": 1104810137,
+      "osm_type": "way",
+      "name": "Cimitirul Martorilor lui Iehova",
+      "category": "place_of_worship",
+      "lat": 46.7902013,
+      "lon": 24.7110763,
+      "tags": {
+        "denomination": "jehovahs_witness",
+        "landuse": "cemetery",
+        "name": "Cimitirul Martorilor lui Iehova",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1105348239",
+      "osm_id": 1105348239,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 46.7863261,
+      "lon": 24.7012597,
+      "tags": {
+        "building": "church",
+        "historic": "building"
+      }
+    },
+    {
+      "id": "way/1105851411",
+      "osm_id": 1105851411,
+      "osm_type": "way",
+      "name": "Biserica Adventistă de Ziua A Șaptea \"Emanuel\"",
+      "category": "place_of_worship",
+      "lat": 46.7800111,
+      "lon": 24.7071995,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "name": "Biserica Adventistă de Ziua A Șaptea \"Emanuel\"",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1105870772",
+      "osm_id": 1105870772,
+      "osm_type": "way",
+      "name": "Biserica de lemn Petru Maior",
+      "category": "place_of_worship",
+      "lat": 46.7869403,
+      "lon": 24.7071501,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica de lemn Petru Maior",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1105873639",
+      "osm_id": 1105873639,
+      "osm_type": "way",
+      "name": "Biserica Sfinții Apostoli Petru și Pavel",
+      "category": "place_of_worship",
+      "lat": 46.7876799,
+      "lon": 24.7061857,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Sfinții Apostoli Petru și Pavel",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1107827976",
+      "osm_id": 1107827976,
+      "osm_type": "way",
+      "name": "Biserica Reformată Reghin",
+      "category": "place_of_worship",
+      "lat": 46.7763566,
+      "lon": 24.6982537,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "reformed",
+        "name": "Biserica Reformată Reghin",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1109647945",
+      "osm_id": 1109647945,
+      "osm_type": "way",
+      "name": "Biserica Înălțarea Domnului",
+      "category": "place_of_worship",
+      "lat": 46.7833558,
+      "lon": 24.7012865,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Înălțarea Domnului",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1110596415",
+      "osm_id": 1110596415,
+      "osm_type": "way",
+      "name": "Biserica Sfântul Ioan Botezătorul",
+      "category": "place_of_worship",
+      "lat": 46.7776314,
+      "lon": 24.7183975,
+      "tags": {
+        "addr:city": "Reghin",
+        "addr:housenumber": "6",
+        "addr:postcode": "545300",
+        "addr:street": "Strada Iebușului",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Sfântul Ioan Botezătorul",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1113275007",
+      "osm_id": 1113275007,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă Sfânta Treime",
+      "category": "place_of_worship",
+      "lat": 46.7732719,
+      "lon": 24.6954154,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica Ortodoxă Sfânta Treime",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1113275012",
+      "osm_id": 1113275012,
+      "osm_type": "way",
+      "name": "Cimitirul Ortodox",
+      "category": "place_of_worship",
+      "lat": 46.7729443,
+      "lon": 24.6954126,
+      "tags": {
+        "denomination": "romanian_orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitirul Ortodox",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1280866765",
+      "osm_id": 1280866765,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 46.7661687,
+      "lon": 24.7159301,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1428542309",
+      "osm_id": 1428542309,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă cu hramul ,,Sfinții Arhangheli Mihail și Gavril\" și ,,Adormirea Maicii Domnului \"",
+      "category": "place_of_worship",
+      "lat": 46.7657244,
+      "lon": 24.7144384,
+      "tags": {
+        "addr:city": "Reghin",
+        "addr:postcode": "545300",
+        "addr:street": "Strada Oltului",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "height": "9",
+        "name": "Biserica Ortodoxă cu hramul ,,Sfinții Arhangheli Mihail și Gavril\" și ,,Adormirea Maicii Domnului \"",
+        "religion": "christian",
+        "roof:height": "2",
+        "roof:material": "roof_tiles",
+        "roof:shape": "hipped"
+      }
+    }
+  ]
+}

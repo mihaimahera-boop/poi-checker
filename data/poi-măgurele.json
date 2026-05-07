@@ -1,0 +1,346 @@
+{
+  "city": "Măgurele",
+  "generated_at": "2026-04-23T09:46:55.558Z",
+  "counts": {
+    "total": 22,
+    "schools": 7,
+    "churches": 15
+  },
+  "pois": [
+    {
+      "id": "node/7949661458",
+      "osm_id": 7949661458,
+      "osm_type": "node",
+      "name": "Școala Generală Măgurele",
+      "category": "education",
+      "lat": 45.1003675,
+      "lon": 26.035308,
+      "tags": {
+        "amenity": "school",
+        "name": "Școala Generală Măgurele"
+      }
+    },
+    {
+      "id": "way/119342310",
+      "osm_id": 119342310,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.4578475,
+      "lon": 27.9685678,
+      "tags": {
+        "addr:city": "Măgurele",
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/216999310",
+      "osm_id": 216999310,
+      "osm_type": "way",
+      "name": "Universitatea din București, Facultatea de fizică",
+      "category": "education",
+      "lat": 44.3500034,
+      "lon": 26.0321799,
+      "tags": {
+        "amenity": "university",
+        "building": "yes",
+        "name": "Universitatea din București, Facultatea de fizică"
+      }
+    },
+    {
+      "id": "way/305316663",
+      "osm_id": 305316663,
+      "osm_type": "way",
+      "name": "Liceul teoretic Horia Hulubei - Măgurele",
+      "category": "education",
+      "lat": 44.3497146,
+      "lon": 26.0274349,
+      "tags": {
+        "amenity": "college",
+        "building": "yes",
+        "name": "Liceul teoretic Horia Hulubei - Măgurele"
+      }
+    },
+    {
+      "id": "way/332709587",
+      "osm_id": 332709587,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.4603755,
+      "lon": 27.9736699,
+      "tags": {
+        "building": "kindergarten"
+      }
+    },
+    {
+      "id": "way/1215911689",
+      "osm_id": 1215911689,
+      "osm_type": "way",
+      "name": "Gimnaziul Măgurele",
+      "category": "education",
+      "lat": 47.4578321,
+      "lon": 27.968449,
+      "tags": {
+        "addr:city": "Măgurele",
+        "amenity": "school",
+        "name": "Gimnaziul Măgurele"
+      }
+    },
+    {
+      "id": "way/1215911695",
+      "osm_id": 1215911695,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.4605496,
+      "lon": 27.9736674,
+      "tags": {
+        "amenity": "kindergarten"
+      }
+    },
+    {
+      "id": "node/7949661414",
+      "osm_id": 7949661414,
+      "osm_type": "node",
+      "name": "Biserică",
+      "category": "place_of_worship",
+      "lat": 45.1296391,
+      "lon": 26.0343291,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserică",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/8987543613",
+      "osm_id": 8987543613,
+      "osm_type": "node",
+      "name": "Biserică",
+      "category": "place_of_worship",
+      "lat": 45.099171,
+      "lon": 26.0375493,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserică",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/305316668",
+      "osm_id": 305316668,
+      "osm_type": "way",
+      "name": "Cimitirul vechi Măgurele",
+      "category": "place_of_worship",
+      "lat": 44.349631,
+      "lon": 26.0284587,
+      "tags": {
+        "denomination": "romanian_orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitirul vechi Măgurele",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/322191347",
+      "osm_id": 322191347,
+      "osm_type": "way",
+      "name": "Cimitirul Parohial Sfântul Antonie cel Mare - Măgurele",
+      "category": "place_of_worship",
+      "lat": 44.3766376,
+      "lon": 26.0405106,
+      "tags": {
+        "barrier": "fence",
+        "denomination": "romanian_orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitirul Parohial Sfântul Antonie cel Mare - Măgurele",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/322242563",
+      "osm_id": 322242563,
+      "osm_type": "way",
+      "name": "Cimitirul Măgurele 2",
+      "category": "place_of_worship",
+      "lat": 44.3734252,
+      "lon": 26.0396054,
+      "tags": {
+        "barrier": "fence",
+        "denomination": "orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitirul Măgurele 2",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/334817754",
+      "osm_id": 334817754,
+      "osm_type": "way",
+      "name": "Biserica „Sfinții Împărați Constantin și Elena”",
+      "category": "place_of_worship",
+      "lat": 44.3483665,
+      "lon": 26.0287947,
+      "tags": {
+        "addr:city": "Măgurele",
+        "addr:housenumber": "10-12",
+        "addr:street": "Strada Călugăreni",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "heritage": "2",
+        "heritage:operator": "lmi",
+        "name": "Biserica „Sfinții Împărați Constantin și Elena”",
+        "ref:RO:lmi": "IF-II-m-B-15294.02",
+        "ref:RO:ran": "179418.04.01",
+        "religion": "christian",
+        "wikidata": "Q42958182"
+      }
+    },
+    {
+      "id": "way/478029235",
+      "osm_id": 478029235,
+      "osm_type": "way",
+      "name": "Cimitir Vârteju",
+      "category": "place_of_worship",
+      "lat": 44.359141,
+      "lon": 25.9916465,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitir Vârteju",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/538969345",
+      "osm_id": 538969345,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.3519283,
+      "lon": 26.0093717,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/683117357",
+      "osm_id": 683117357,
+      "osm_type": "way",
+      "name": "Biserica",
+      "category": "place_of_worship",
+      "lat": 47.4591153,
+      "lon": 27.961117,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Biserica",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/971104888",
+      "osm_id": 971104888,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.0993395,
+      "lon": 26.0379672,
+      "tags": {
+        "amenity": "grave_yard",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1171542831",
+      "osm_id": 1171542831,
+      "osm_type": "way",
+      "name": "Biserica „Sfânta Treime” - Gherman",
+      "category": "place_of_worship",
+      "lat": 44.3442709,
+      "lon": 26.0360523,
+      "tags": {
+        "addr:city": "Măgurele",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "heritage": "2",
+        "heritage:operator": "lmi",
+        "name": "Biserica „Sfânta Treime” - Gherman",
+        "ref:RO:lmi": "IF-II-m-B-15259",
+        "ref:RO:ran": "179427.03",
+        "religion": "christian",
+        "start_date": "1797"
+      }
+    },
+    {
+      "id": "way/1171542832",
+      "osm_id": 1171542832,
+      "osm_type": "way",
+      "name": "Biserica „Sfinții Ioachim și Ana”",
+      "category": "place_of_worship",
+      "lat": 44.3557959,
+      "lon": 25.9896413,
+      "tags": {
+        "addr:city": "Vârteju",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "heritage": "2",
+        "heritage:operator": "lmi",
+        "name": "Biserica „Sfinții Ioachim și Ana”",
+        "ref:RO:lmi": "IF-II-m-B-15320",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1171542833",
+      "osm_id": 1171542833,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.3558383,
+      "lon": 25.9895696,
+      "tags": {
+        "denomination": "romanian_orthodox",
+        "landuse": "religious",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1215933050",
+      "osm_id": 1215933050,
+      "osm_type": "way",
+      "name": "Cimitir",
+      "category": "place_of_worship",
+      "lat": 47.4698908,
+      "lon": 27.973945,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitir",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "relation/9476659",
+      "osm_id": 9476659,
+      "osm_type": "relation",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 47.4590968,
+      "lon": 27.9611522,
+      "tags": {
+        "amenity": "place_of_worship",
+        "type": "multipolygon"
+      }
+    }
+  ]
+}

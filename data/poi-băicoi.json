@@ -1,0 +1,333 @@
+{
+  "city": "Băicoi",
+  "generated_at": "2026-04-23T09:23:17.974Z",
+  "counts": {
+    "total": 22,
+    "schools": 10,
+    "churches": 12
+  },
+  "pois": [
+    {
+      "id": "node/2931465055",
+      "osm_id": 2931465055,
+      "osm_type": "node",
+      "name": "Eden grădiniță și școală primară",
+      "category": "education",
+      "lat": 45.0239649,
+      "lon": 25.8838314,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Eden grădiniță și școală primară"
+      }
+    },
+    {
+      "id": "node/3650903457",
+      "osm_id": 3650903457,
+      "osm_type": "node",
+      "name": "Școala generală cu clasele 1-8",
+      "category": "education",
+      "lat": 45.0352341,
+      "lon": 25.875867,
+      "tags": {
+        "addr:city": "Băicoi",
+        "amenity": "school",
+        "name": "Școala generală cu clasele 1-8"
+      }
+    },
+    {
+      "id": "way/360811920",
+      "osm_id": 360811920,
+      "osm_type": "way",
+      "name": "Gradinița",
+      "category": "education",
+      "lat": 45.0347117,
+      "lon": 25.8741926,
+      "tags": {
+        "addr:city": "Băicoi",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "name": "Gradinița"
+      }
+    },
+    {
+      "id": "way/360812036",
+      "osm_id": 360812036,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.0351609,
+      "lon": 25.8758903,
+      "tags": {
+        "addr:city": "Băicoi",
+        "amenity": "school",
+        "building": "yes"
+      }
+    },
+    {
+      "id": "way/360905390",
+      "osm_id": 360905390,
+      "osm_type": "way",
+      "name": "Cresa 1",
+      "category": "education",
+      "lat": 45.0353337,
+      "lon": 25.8742663,
+      "tags": {
+        "addr:city": "Băicoi",
+        "addr:street": "Strada Progresului",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "name": "Cresa 1"
+      }
+    },
+    {
+      "id": "way/892759893",
+      "osm_id": 892759893,
+      "osm_type": "way",
+      "name": "Gradinita Dendelion",
+      "category": "education",
+      "lat": 45.0270752,
+      "lon": 25.8446412,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Gradinita Dendelion"
+      }
+    },
+    {
+      "id": "way/893087687",
+      "osm_id": 893087687,
+      "osm_type": "way",
+      "name": "Școala",
+      "category": "education",
+      "lat": 45.0366911,
+      "lon": 25.851144,
+      "tags": {
+        "amenity": "school",
+        "name": "Școala"
+      }
+    },
+    {
+      "id": "way/893088278",
+      "osm_id": 893088278,
+      "osm_type": "way",
+      "name": "Școala",
+      "category": "education",
+      "lat": 45.0356323,
+      "lon": 25.8521424,
+      "tags": {
+        "amenity": "school",
+        "name": "Școala"
+      }
+    },
+    {
+      "id": "way/893089083",
+      "osm_id": 893089083,
+      "osm_type": "way",
+      "name": "Liceul Teoretic Constantin Cantacuzino",
+      "category": "education",
+      "lat": 45.0335978,
+      "lon": 25.8509669,
+      "tags": {
+        "amenity": "school",
+        "name": "Liceul Teoretic Constantin Cantacuzino"
+      }
+    },
+    {
+      "id": "way/896562770",
+      "osm_id": 896562770,
+      "osm_type": "way",
+      "name": "Complexul de Servicii Comunitare Rază de Soare",
+      "category": "education",
+      "lat": 45.0349893,
+      "lon": 25.8409985,
+      "tags": {
+        "amenity": "school",
+        "name": "Complexul de Servicii Comunitare Rază de Soare"
+      }
+    },
+    {
+      "id": "node/4227078962",
+      "osm_id": 4227078962,
+      "osm_type": "node",
+      "name": "Biserică",
+      "category": "place_of_worship",
+      "lat": 45.0359998,
+      "lon": 25.9051379,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserică",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/4227087611",
+      "osm_id": 4227087611,
+      "osm_type": "node",
+      "name": "Biserică",
+      "category": "place_of_worship",
+      "lat": 45.0453586,
+      "lon": 25.8933844,
+      "tags": {
+        "amenity": "place_of_worship",
+        "name": "Biserică",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/5552072271",
+      "osm_id": 5552072271,
+      "osm_type": "node",
+      "name": "Biserica Sfinții Împărați Constantin și Elena",
+      "category": "place_of_worship",
+      "lat": 45.0337338,
+      "lon": 25.8553963,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Sfinții Împărați Constantin și Elena",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/289837776",
+      "osm_id": 289837776,
+      "osm_type": "way",
+      "name": "Biserica Nașterea Maicii Domnului",
+      "category": "place_of_worship",
+      "lat": 45.0489539,
+      "lon": 25.8058845,
+      "tags": {
+        "addr:city": "Baicoi",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Nașterea Maicii Domnului",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/360784433",
+      "osm_id": 360784433,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.0336993,
+      "lon": 25.8553399,
+      "tags": {
+        "amenity": "grave_yard",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/412837836",
+      "osm_id": 412837836,
+      "osm_type": "way",
+      "name": "Cimitirul Hagica",
+      "category": "place_of_worship",
+      "lat": 45.0371255,
+      "lon": 25.8693528,
+      "tags": {
+        "amenity": "grave_yard",
+        "name": "Cimitirul Hagica",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/422985767",
+      "osm_id": 422985767,
+      "osm_type": "way",
+      "name": "Cimitir",
+      "category": "place_of_worship",
+      "lat": 45.0454022,
+      "lon": 25.8934086,
+      "tags": {
+        "amenity": "grave_yard",
+        "name": "Cimitir",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/559717153",
+      "osm_id": 559717153,
+      "osm_type": "way",
+      "name": "Cimitirul Liniște Sfântă Băicoi",
+      "category": "place_of_worship",
+      "lat": 45.0356964,
+      "lon": 25.842097,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitirul Liniște Sfântă Băicoi",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/894852415",
+      "osm_id": 894852415,
+      "osm_type": "way",
+      "name": "Biserica Adormirea Maicii Domnului",
+      "category": "place_of_worship",
+      "lat": 45.0358533,
+      "lon": 25.8510115,
+      "tags": {
+        "addr:street": "Strada Unirii",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Adormirea Maicii Domnului",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/897984731",
+      "osm_id": 897984731,
+      "osm_type": "way",
+      "name": "Biserica Sfinții Împărați Constantin și Elena",
+      "category": "place_of_worship",
+      "lat": 45.0337128,
+      "lon": 25.8555264,
+      "tags": {
+        "addr:street": "Strada Plevnei",
+        "building": "church",
+        "height": "10",
+        "name": "Biserica Sfinții Împărați Constantin și Elena",
+        "roof:colour": "red",
+        "roof:shape": "gabled"
+      }
+    },
+    {
+      "id": "way/923159614",
+      "osm_id": 923159614,
+      "osm_type": "way",
+      "name": "Biserica Sf. Nicolae",
+      "category": "place_of_worship",
+      "lat": 45.0351431,
+      "lon": 25.8693213,
+      "tags": {
+        "addr:city": "Băicoi",
+        "addr:street": "Strada Victoriei",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica Sf. Nicolae",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/923159621",
+      "osm_id": 923159621,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă Băicoi",
+      "category": "place_of_worship",
+      "lat": 45.0365246,
+      "lon": 25.8815281,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica Ortodoxă Băicoi",
+        "religion": "christian"
+      }
+    }
+  ]
+}

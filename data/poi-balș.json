@@ -1,0 +1,533 @@
+{
+  "city": "Balș",
+  "generated_at": "2026-04-23T09:26:15.624Z",
+  "counts": {
+    "total": 36,
+    "schools": 20,
+    "churches": 16
+  },
+  "pois": [
+    {
+      "id": "way/482514375",
+      "osm_id": 482514375,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.3495636,
+      "lon": 24.1072643,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/482602575",
+      "osm_id": 482602575,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.3492928,
+      "lon": 24.1082349,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/483020161",
+      "osm_id": 483020161,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.3503212,
+      "lon": 24.1052498,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/483021810",
+      "osm_id": 483021810,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.3509136,
+      "lon": 24.1053614,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/607292570",
+      "osm_id": 607292570,
+      "osm_type": "way",
+      "name": "Liceul Tehnologic nr. 1",
+      "category": "education",
+      "lat": 44.344565,
+      "lon": 24.1271161,
+      "tags": {
+        "amenity": "school",
+        "name": "Liceul Tehnologic nr. 1"
+      }
+    },
+    {
+      "id": "way/607329354",
+      "osm_id": 607329354,
+      "osm_type": "way",
+      "name": "Clubul Copiilor Balș",
+      "category": "education",
+      "lat": 44.3506445,
+      "lon": 24.1023568,
+      "tags": {
+        "amenity": "school",
+        "building": "yes",
+        "name": "Clubul Copiilor Balș"
+      }
+    },
+    {
+      "id": "way/682860521",
+      "osm_id": 682860521,
+      "osm_type": "way",
+      "name": "Colegiul Tehnologic nr.1 \"Nicolae Bălcescu\"",
+      "category": "education",
+      "lat": 44.3500625,
+      "lon": 24.1075065,
+      "tags": {
+        "addr:city": "Balș",
+        "addr:housenumber": "232",
+        "addr:street": "Strada Nicolae Bălcescu",
+        "amenity": "school",
+        "name": "Colegiul Tehnologic nr.1 \"Nicolae Bălcescu\"",
+        "website": "https://colegiultehnicbals.ro/"
+      }
+    },
+    {
+      "id": "way/793388913",
+      "osm_id": 793388913,
+      "osm_type": "way",
+      "name": "Liceul Teoretic \"Petre Pandrea\"",
+      "category": "education",
+      "lat": 44.3504226,
+      "lon": 24.1052222,
+      "tags": {
+        "addr:city": "Balș",
+        "addr:housenumber": "25",
+        "addr:street": "Strada Nicolae Bălcescu",
+        "amenity": "school",
+        "name": "Liceul Teoretic \"Petre Pandrea\"",
+        "website": "https://ltpetrepandrea.ro/"
+      }
+    },
+    {
+      "id": "way/1015448737",
+      "osm_id": 1015448737,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.3443429,
+      "lon": 24.1266033,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/1015448738",
+      "osm_id": 1015448738,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.3439847,
+      "lon": 24.1273365,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/1015448739",
+      "osm_id": 1015448739,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.3441947,
+      "lon": 24.1278305,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/1015448740",
+      "osm_id": 1015448740,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.3448678,
+      "lon": 24.127952,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/1015448741",
+      "osm_id": 1015448741,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.3445471,
+      "lon": 24.1282153,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/1015448742",
+      "osm_id": 1015448742,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.3449026,
+      "lon": 24.1274236,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/1015448743",
+      "osm_id": 1015448743,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.344306,
+      "lon": 24.1259729,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/1015448744",
+      "osm_id": 1015448744,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.3450498,
+      "lon": 24.1264324,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/1241011723",
+      "osm_id": 1241011723,
+      "osm_type": "way",
+      "name": "Grădinița nr.6 Balș",
+      "category": "education",
+      "lat": 44.3457197,
+      "lon": 24.1232892,
+      "tags": {
+        "addr:city": "Balș",
+        "addr:housenumber": "185",
+        "addr:street": "Strada Nicolae Bălcescu",
+        "building": "kindergarten",
+        "name": "Grădinița nr.6 Balș"
+      }
+    },
+    {
+      "id": "way/1476373005",
+      "osm_id": 1476373005,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Nr 1 Balș",
+      "category": "education",
+      "lat": 44.3538662,
+      "lon": 24.0996944,
+      "tags": {
+        "addr:city": "Balș",
+        "addr:street": "Strada Cireșului",
+        "amenity": "school",
+        "education": "school",
+        "name": "Școala Gimnazială Nr 1 Balș"
+      }
+    },
+    {
+      "id": "way/1476373006",
+      "osm_id": 1476373006,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.3536266,
+      "lon": 24.0994762,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/1476415778",
+      "osm_id": 1476415778,
+      "osm_type": "way",
+      "name": "Școala Gimnazială \"Mihail Drumeș\"",
+      "category": "education",
+      "lat": 44.3495988,
+      "lon": 24.1083449,
+      "tags": {
+        "addr:city": "Balș",
+        "addr:housenumber": "51",
+        "addr:street": "Strada Nicolae Bălcescu",
+        "amenity": "school",
+        "education": "school",
+        "name": "Școala Gimnazială \"Mihail Drumeș\"",
+        "website": "https://www.mihaildrumes.ro/acasa"
+      }
+    },
+    {
+      "id": "node/1316063385",
+      "osm_id": 1316063385,
+      "osm_type": "node",
+      "name": "Mănăstirea Măinești",
+      "category": "place_of_worship",
+      "lat": 44.32972,
+      "lon": 24.10574,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Mănăstirea Măinești",
+        "religion": "christian",
+        "source": "jonutzu@gpszone.ro"
+      }
+    },
+    {
+      "id": "node/2633750155",
+      "osm_id": 2633750155,
+      "osm_type": "node",
+      "name": "Biserica Ortodoxă",
+      "category": "place_of_worship",
+      "lat": 44.3609161,
+      "lon": 24.0850565,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/2668977116",
+      "osm_id": 2668977116,
+      "osm_type": "node",
+      "name": "Biserica Teiș",
+      "category": "place_of_worship",
+      "lat": 44.3383929,
+      "lon": 24.1281874,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Teiș",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/232228021",
+      "osm_id": 232228021,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.3550877,
+      "lon": 24.1007217,
+      "tags": {
+        "amenity": "grave_yard",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/257931742",
+      "osm_id": 257931742,
+      "osm_type": "way",
+      "name": "Cimitir",
+      "category": "place_of_worship",
+      "lat": 44.3614703,
+      "lon": 24.084968,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitir",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/261265592",
+      "osm_id": 261265592,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.3383963,
+      "lon": 24.1281928,
+      "tags": {
+        "building": "church"
+      }
+    },
+    {
+      "id": "way/482511471",
+      "osm_id": 482511471,
+      "osm_type": "way",
+      "name": "Biserica Sf. Apostoli Petru și Pavel",
+      "category": "place_of_worship",
+      "lat": 44.3505091,
+      "lon": 24.1005427,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Sf. Apostoli Petru și Pavel",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/482514370",
+      "osm_id": 482514370,
+      "osm_type": "way",
+      "name": "Sala Regatului Martorii lui Iehova",
+      "category": "place_of_worship",
+      "lat": 44.3488357,
+      "lon": 24.1069331,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "jehovahs_witness",
+        "name": "Sala Regatului Martorii lui Iehova",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/607298870",
+      "osm_id": 607298870,
+      "osm_type": "way",
+      "name": "Biserica Creștina Baptistă Sf. Treime",
+      "category": "place_of_worship",
+      "lat": 44.3481269,
+      "lon": 24.111334,
+      "tags": {
+        "addr:city": "Balș",
+        "addr:housenumber": "79",
+        "addr:street": "Strada Nicolae Bălcescu",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "baptist",
+        "name": "Biserica Creștina Baptistă Sf. Treime",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/650673970",
+      "osm_id": 650673970,
+      "osm_type": "way",
+      "name": "Biserica Acoperământul Maicii Domnului",
+      "category": "place_of_worship",
+      "lat": 44.3296164,
+      "lon": 24.1053859,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Acoperământul Maicii Domnului",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/650673971",
+      "osm_id": 650673971,
+      "osm_type": "way",
+      "name": "Biserica Sfinții Arhangheli Mihail și Gavriil",
+      "category": "place_of_worship",
+      "lat": 44.3304369,
+      "lon": 24.1045672,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica Sfinții Arhangheli Mihail și Gavriil",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/650673975",
+      "osm_id": 650673975,
+      "osm_type": "way",
+      "name": "Mănăstirea Măinești",
+      "category": "place_of_worship",
+      "lat": 44.3300148,
+      "lon": 24.1051855,
+      "tags": {
+        "amenity": "monastery",
+        "area": "yes",
+        "denomination": "orthodox",
+        "landuse": "religious",
+        "name": "Mănăstirea Măinești",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/655253719",
+      "osm_id": 655253719,
+      "osm_type": "way",
+      "name": "Biserică",
+      "category": "place_of_worship",
+      "lat": 44.3609283,
+      "lon": 24.0850472,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserică",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/657670755",
+      "osm_id": 657670755,
+      "osm_type": "way",
+      "name": "Biserica Corbeni - Adormirea Maicii Domnului",
+      "category": "place_of_worship",
+      "lat": 44.383016,
+      "lon": 24.1093994,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica Corbeni - Adormirea Maicii Domnului",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1015037255",
+      "osm_id": 1015037255,
+      "osm_type": "way",
+      "name": "Biserica Sf. Împărați Constantin și Elena",
+      "category": "place_of_worship",
+      "lat": 44.3452697,
+      "lon": 24.1197167,
+      "tags": {
+        "addr:city": "Balș",
+        "addr:housenumber": "188B",
+        "addr:street": "Strada Nicolae Bălcescu",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica Sf. Împărați Constantin și Elena",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1476373003",
+      "osm_id": 1476373003,
+      "osm_type": "way",
+      "name": "Biserica Sf. Dumitru din Balș",
+      "category": "place_of_worship",
+      "lat": 44.3551813,
+      "lon": 24.1002681,
+      "tags": {
+        "addr:city": "Balș",
+        "addr:street": "Strada George Vasilescu",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Sf. Dumitru din Balș",
+        "religion": "christian"
+      }
+    }
+  ]
+}

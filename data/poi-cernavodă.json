@@ -1,0 +1,184 @@
+{
+  "city": "Cernavodă",
+  "generated_at": "2026-04-23T09:38:20.973Z",
+  "counts": {
+    "total": 10,
+    "schools": 1,
+    "churches": 9
+  },
+  "pois": [
+    {
+      "id": "way/277706304",
+      "osm_id": 277706304,
+      "osm_type": "way",
+      "name": "Liceul Teoretic „Anghel Saligny”",
+      "category": "education",
+      "lat": 44.340872,
+      "lon": 28.0324758,
+      "tags": {
+        "building": "school",
+        "name": "Liceul Teoretic „Anghel Saligny”"
+      }
+    },
+    {
+      "id": "node/1316062639",
+      "osm_id": 1316062639,
+      "osm_type": "node",
+      "name": "Mănăstirea Axiopolis",
+      "category": "place_of_worship",
+      "lat": 44.33457,
+      "lon": 28.02075,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Mănăstirea Axiopolis",
+        "religion": "christian",
+        "source": "jonutzu@gpszone.ro",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "id": "node/4984729922",
+      "osm_id": 4984729922,
+      "osm_type": "node",
+      "name": "Sala Regatului a Martorilor lui Iehova",
+      "category": "place_of_worship",
+      "lat": 44.3432402,
+      "lon": 28.0359098,
+      "tags": {
+        "amenity": "place_of_worship",
+        "name": "Sala Regatului a Martorilor lui Iehova",
+        "name:ro": "Sala Regatului a Martorilor lui Iehova"
+      }
+    },
+    {
+      "id": "node/5222324021",
+      "osm_id": 5222324021,
+      "osm_type": "node",
+      "name": "Sala Regatului a Martorilor lui Iehova",
+      "category": "place_of_worship",
+      "lat": 44.3430431,
+      "lon": 28.0323077,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "jehovahs_witness",
+        "name": "Sala Regatului a Martorilor lui Iehova",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/271708687",
+      "osm_id": 271708687,
+      "osm_type": "way",
+      "name": "Biserica „Sfântul Andrei\", „Sfântul Ilie Tesviteanul\"",
+      "category": "place_of_worship",
+      "lat": 44.3336798,
+      "lon": 28.0355658,
+      "tags": {
+        "addr:city": "Cernavodă",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "building:material": "wood",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica „Sfântul Andrei\", „Sfântul Ilie Tesviteanul\"",
+        "religion": "christian",
+        "start_date": "2003"
+      }
+    },
+    {
+      "id": "way/277704185",
+      "osm_id": 277704185,
+      "osm_type": "way",
+      "name": "Biserica „Sfinții Împărați Constantin și Elena\"",
+      "category": "place_of_worship",
+      "lat": 44.3433403,
+      "lon": 28.0299629,
+      "tags": {
+        "addr:city": "Cernavodă",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "heritage": "2",
+        "heritage:operator": "lmi",
+        "name": "Biserica „Sfinții Împărați Constantin și Elena\"",
+        "ref:RO:lmi": "CT-II-m-A-02873",
+        "religion": "christian",
+        "start_date": "1895"
+      }
+    },
+    {
+      "id": "way/277706359",
+      "osm_id": 277706359,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.3388344,
+      "lon": 28.0320394,
+      "tags": {
+        "addr:city": "Cernavodă",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "sunni",
+        "heritage": "2",
+        "heritage:operator": "lmi",
+        "ref:RO:lmi": "CT-II-m-A-02874",
+        "religion": "muslim",
+        "start_date": "1756"
+      }
+    },
+    {
+      "id": "way/1106536289",
+      "osm_id": 1106536289,
+      "osm_type": "way",
+      "name": "Biserica „Sfântul Chiril\"",
+      "category": "place_of_worship",
+      "lat": 44.3465837,
+      "lon": 28.0370132,
+      "tags": {
+        "addr:city": "Cernavodă",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica „Sfântul Chiril\"",
+        "religion": "christian",
+        "start_date": "2000"
+      }
+    },
+    {
+      "id": "way/1175735168",
+      "osm_id": 1175735168,
+      "osm_type": "way",
+      "name": "Biserica „Nașterea Sfântului Ioan Botezătorul\"",
+      "category": "place_of_worship",
+      "lat": 44.3439381,
+      "lon": 28.0302701,
+      "tags": {
+        "addr:city": "Cernavodă",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "roman_catholic",
+        "name": "Biserica „Nașterea Sfântului Ioan Botezătorul\"",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1175735169",
+      "osm_id": 1175735169,
+      "osm_type": "way",
+      "name": "Biserica „Adormirea Maicii Domnului”",
+      "category": "place_of_worship",
+      "lat": 44.3531176,
+      "lon": 28.0344807,
+      "tags": {
+        "addr:city": "Cernavodă",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "building:material": "wood",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica „Adormirea Maicii Domnului”",
+        "religion": "christian",
+        "start_date": "2012"
+      }
+    }
+  ]
+}

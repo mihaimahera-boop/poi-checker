@@ -1,0 +1,588 @@
+{
+  "city": "Mangalia",
+  "generated_at": "2026-04-23T09:47:55.251Z",
+  "counts": {
+    "total": 38,
+    "schools": 24,
+    "churches": 14
+  },
+  "pois": [
+    {
+      "id": "way/49047933",
+      "osm_id": 49047933,
+      "osm_type": "way",
+      "name": "Grădinița 3",
+      "category": "education",
+      "lat": 43.8091924,
+      "lon": 28.5740373,
+      "tags": {
+        "addr:postcode": "905500",
+        "addr:street": "Strada 1 Decembrie 1918",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "name": "Grădinița 3"
+      }
+    },
+    {
+      "id": "way/49047934",
+      "osm_id": 49047934,
+      "osm_type": "way",
+      "name": "Școala nr 3",
+      "category": "education",
+      "lat": 43.8093738,
+      "lon": 28.5746957,
+      "tags": {
+        "amenity": "school",
+        "building": "yes",
+        "name": "Școala nr 3"
+      }
+    },
+    {
+      "id": "way/49047935",
+      "osm_id": 49047935,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 43.8092448,
+      "lon": 28.5740696,
+      "tags": {
+        "amenity": "kindergarten",
+        "is_in:city": "Mangalia"
+      }
+    },
+    {
+      "id": "way/116473170",
+      "osm_id": 116473170,
+      "osm_type": "way",
+      "name": "Școala \"Gala Galaction\"",
+      "category": "education",
+      "lat": 43.8158182,
+      "lon": 28.5824329,
+      "tags": {
+        "amenity": "school",
+        "building": "yes",
+        "name": "Școala \"Gala Galaction\""
+      }
+    },
+    {
+      "id": "way/185652243",
+      "osm_id": 185652243,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 43.8111116,
+      "lon": 28.5765314,
+      "tags": {
+        "amenity": "school",
+        "building": "yes",
+        "education": "school"
+      }
+    },
+    {
+      "id": "way/185652246",
+      "osm_id": 185652246,
+      "osm_type": "way",
+      "name": "Sf. Andrei",
+      "category": "education",
+      "lat": 43.8115869,
+      "lon": 28.5766007,
+      "tags": {
+        "amenity": "school",
+        "building": "yes",
+        "education": "school",
+        "name": "Sf. Andrei"
+      }
+    },
+    {
+      "id": "way/200060394",
+      "osm_id": 200060394,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 43.8108104,
+      "lon": 28.5828974,
+      "tags": {
+        "addr:city": "Mangalia",
+        "addr:housenumber": "2",
+        "addr:street": "Strada Oituz",
+        "building": "school",
+        "building:levels": "2"
+      }
+    },
+    {
+      "id": "way/220490288",
+      "osm_id": 220490288,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 43.8044612,
+      "lon": 28.5760771,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/220490289",
+      "osm_id": 220490289,
+      "osm_type": "way",
+      "name": "Grupul Școlar Industrial Ion Bănescu",
+      "category": "education",
+      "lat": 43.8050514,
+      "lon": 28.5763142,
+      "tags": {
+        "amenity": "school",
+        "name": "Grupul Școlar Industrial Ion Bănescu"
+      }
+    },
+    {
+      "id": "way/220490290",
+      "osm_id": 220490290,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 43.8047018,
+      "lon": 28.5760566,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/220490291",
+      "osm_id": 220490291,
+      "osm_type": "way",
+      "name": "Grupul Școlar Industrial Ion Bănescu",
+      "category": "education",
+      "lat": 43.8045233,
+      "lon": 28.5748428,
+      "tags": {
+        "addr:city": "Mangalia",
+        "addr:housenumber": "19",
+        "addr:postcode": "905500",
+        "addr:street": "Strada Negru Vodă",
+        "building": "school",
+        "name": "Grupul Școlar Industrial Ion Bănescu",
+        "website": "gsibanescu.licee.edu.ro"
+      }
+    },
+    {
+      "id": "way/220490292",
+      "osm_id": 220490292,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 43.8041691,
+      "lon": 28.5756393,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/220568859",
+      "osm_id": 220568859,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 43.8240025,
+      "lon": 28.5849505,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/220570634",
+      "osm_id": 220570634,
+      "osm_type": "way",
+      "name": "Grădinița cu program normal nr. 2",
+      "category": "education",
+      "lat": 43.8249972,
+      "lon": 28.5834634,
+      "tags": {
+        "addr:city": "Mangalia",
+        "addr:street": "Strada Rozelor",
+        "building": "kindergarten",
+        "building:levels": "2",
+        "name": "Grădinița cu program normal nr. 2"
+      }
+    },
+    {
+      "id": "way/220711514",
+      "osm_id": 220711514,
+      "osm_type": "way",
+      "name": "Liceul Economic",
+      "category": "education",
+      "lat": 43.8121695,
+      "lon": 28.5807006,
+      "tags": {
+        "amenity": "school",
+        "name": "Liceul Economic"
+      }
+    },
+    {
+      "id": "way/225525428",
+      "osm_id": 225525428,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 43.8064458,
+      "lon": 28.5736809,
+      "tags": {
+        "addr:postcode": "905500",
+        "addr:street": "Strada Negru Vodă",
+        "building": "kindergarten"
+      }
+    },
+    {
+      "id": "way/264455614",
+      "osm_id": 264455614,
+      "osm_type": "way",
+      "name": "Școala nr. 1",
+      "category": "education",
+      "lat": 43.8190445,
+      "lon": 28.5723393,
+      "tags": {
+        "addr:city": "Mangalia",
+        "building": "school",
+        "name": "Școala nr. 1"
+      }
+    },
+    {
+      "id": "way/264455615",
+      "osm_id": 264455615,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 43.8188986,
+      "lon": 28.5732165,
+      "tags": {
+        "addr:city": "Mangalia",
+        "addr:postcode": "90500",
+        "addr:street": "Strada Matei Basarab",
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/264455617",
+      "osm_id": 264455617,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 43.818814,
+      "lon": 28.5738078,
+      "tags": {
+        "building": "kindergarten"
+      }
+    },
+    {
+      "id": "way/533015691",
+      "osm_id": 533015691,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 43.825,
+      "lon": 28.5834443,
+      "tags": {
+        "addr:city": "Mangalia",
+        "addr:street": "Strada Rozelor",
+        "amenity": "kindergarten",
+        "operator": "Grădinița cu program normal nr. 2"
+      }
+    },
+    {
+      "id": "way/533016183",
+      "osm_id": 533016183,
+      "osm_type": "way",
+      "name": "Liceul Teoretic Callatis",
+      "category": "education",
+      "lat": 43.8247061,
+      "lon": 28.5845098,
+      "tags": {
+        "addr:city": "Mangalia",
+        "addr:street": "Strada Rozelor",
+        "amenity": "college",
+        "name": "Liceul Teoretic Callatis",
+        "operator": "Liceul Teoretic \"Callatis\""
+      }
+    },
+    {
+      "id": "way/609877381",
+      "osm_id": 609877381,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 43.8116553,
+      "lon": 28.5808418,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/1140980836",
+      "osm_id": 1140980836,
+      "osm_type": "way",
+      "name": "Grădinița 7",
+      "category": "education",
+      "lat": 43.8063873,
+      "lon": 28.5736438,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Grădinița 7"
+      }
+    },
+    {
+      "id": "way/1181989879",
+      "osm_id": 1181989879,
+      "osm_type": "way",
+      "name": "Școala Generală Nr. 5 „Gala Galaction”",
+      "category": "education",
+      "lat": 43.8108591,
+      "lon": 28.582718,
+      "tags": {
+        "addr:city": "Mangalia",
+        "addr:housenumber": "2",
+        "addr:street": "Strada Oituz",
+        "amenity": "school",
+        "grades": "1-8",
+        "name": "Școala Generală Nr. 5 „Gala Galaction”"
+      }
+    },
+    {
+      "id": "node/1774422468",
+      "osm_id": 1774422468,
+      "osm_type": "node",
+      "name": "Biserica Adventistă de Ziua a Șaptea Mangalia",
+      "category": "place_of_worship",
+      "lat": 43.8190205,
+      "lon": 28.5710124,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "seventh_day_adventist",
+        "name": "Biserica Adventistă de Ziua a Șaptea Mangalia",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/4638567770",
+      "osm_id": 4638567770,
+      "osm_type": "node",
+      "name": "Church",
+      "category": "place_of_worship",
+      "lat": 43.8176366,
+      "lon": 28.5807278,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Church",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/185643630",
+      "osm_id": 185643630,
+      "osm_type": "way",
+      "name": "Cimitirul Municipal Mangalia",
+      "category": "place_of_worship",
+      "lat": 43.8087692,
+      "lon": 28.5702251,
+      "tags": {
+        "landuse": "cemetery",
+        "name": "Cimitirul Municipal Mangalia",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/200056166",
+      "osm_id": 200056166,
+      "osm_type": "way",
+      "name": "Biserica „Sfântul Gheorghe\"",
+      "category": "place_of_worship",
+      "lat": 43.8121787,
+      "lon": 28.5821867,
+      "tags": {
+        "addr:city": "Mangalia",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "heritage": "2",
+        "heritage:operator": "lmi",
+        "name": "Biserica „Sfântul Gheorghe\"",
+        "ref:RO:lmi": "CT-II-m-B-02900",
+        "religion": "christian",
+        "start_date": "1929"
+      }
+    },
+    {
+      "id": "way/220475561",
+      "osm_id": 220475561,
+      "osm_type": "way",
+      "name": "Biserica „Sfântul Apostol Andrei\"",
+      "category": "place_of_worship",
+      "lat": 43.8146203,
+      "lon": 28.5797648,
+      "tags": {
+        "addr:city": "Mangalia",
+        "addr:postcode": "905500",
+        "addr:street": "Strada Libertății",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "roman_catholic",
+        "name": "Biserica „Sfântul Apostol Andrei\"",
+        "religion": "christian",
+        "start_date": "1998"
+      }
+    },
+    {
+      "id": "way/230406684",
+      "osm_id": 230406684,
+      "osm_type": "way",
+      "name": "Biserica „Adormirea Maicii Domnului”",
+      "category": "place_of_worship",
+      "lat": 43.8165191,
+      "lon": 28.5728012,
+      "tags": {
+        "addr:city": "Mangalia",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica „Adormirea Maicii Domnului”",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/268570330",
+      "osm_id": 268570330,
+      "osm_type": "way",
+      "name": "Biserica „Sfinții Arhangheli Mihail și Gavriil\"",
+      "category": "place_of_worship",
+      "lat": 43.8209124,
+      "lon": 28.5859523,
+      "tags": {
+        "addr:city": "Mangalia",
+        "addr:street": "Strada Rozelor",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica „Sfinții Arhangheli Mihail și Gavriil\"",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/268571275",
+      "osm_id": 268571275,
+      "osm_type": "way",
+      "name": "Geamia „Esmahan Sultan”",
+      "category": "place_of_worship",
+      "lat": 43.8101627,
+      "lon": 28.5830058,
+      "tags": {
+        "addr:city": "Mangalia",
+        "addr:housenumber": "1",
+        "addr:street": "Strada Oituz",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "sunni",
+        "heritage": "2",
+        "heritage:operator": "lmi",
+        "name": "Geamia „Esmahan Sultan”",
+        "ref:RO:lmi": "CT-II-m-A-02901.01",
+        "religion": "muslim",
+        "start_date": "1575"
+      }
+    },
+    {
+      "id": "way/294256043",
+      "osm_id": 294256043,
+      "osm_type": "way",
+      "name": "Biserica „Sfântul Mina\", „Sfântul Pantelimon\"",
+      "category": "place_of_worship",
+      "lat": 43.8173652,
+      "lon": 28.5862959,
+      "tags": {
+        "addr:city": "Mangalia",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "building:material": "wood",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica „Sfântul Mina\", „Sfântul Pantelimon\"",
+        "religion": "christian",
+        "start_date": "2007"
+      }
+    },
+    {
+      "id": "way/294256044",
+      "osm_id": 294256044,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 43.8171916,
+      "lon": 28.5863192,
+      "tags": {
+        "building": "church"
+      }
+    },
+    {
+      "id": "way/358120845",
+      "osm_id": 358120845,
+      "osm_type": "way",
+      "name": "Biserica „Adormirea Maicii Domnului”",
+      "category": "place_of_worship",
+      "lat": 43.8631855,
+      "lon": 28.5983064,
+      "tags": {
+        "addr:city": "Neptun",
+        "addr:street": "Strada Trandafirilor",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica „Adormirea Maicii Domnului”",
+        "religion": "christian",
+        "source": "survey"
+      }
+    },
+    {
+      "id": "way/536692197",
+      "osm_id": 536692197,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 43.8209179,
+      "lon": 28.5859369,
+      "tags": {
+        "denomination": "romanian_orthodox",
+        "landuse": "religious",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1181989872",
+      "osm_id": 1181989872,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 43.8165528,
+      "lon": 28.5724608,
+      "tags": {
+        "denomination": "romanian_orthodox",
+        "landuse": "religious",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1181989873",
+      "osm_id": 1181989873,
+      "osm_type": "way",
+      "name": "Biserica Sfânta Maria",
+      "category": "place_of_worship",
+      "lat": 43.8081358,
+      "lon": 28.5693101,
+      "tags": {
+        "addr:city": "Mangalia",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica Sfânta Maria",
+        "religion": "christian",
+        "start_date": "2005"
+      }
+    }
+  ]
+}

@@ -1,0 +1,297 @@
+{
+  "city": "Băilești",
+  "generated_at": "2026-04-23T09:25:26.126Z",
+  "counts": {
+    "total": 17,
+    "schools": 7,
+    "churches": 10
+  },
+  "pois": [
+    {
+      "id": "node/6414110886",
+      "osm_id": 6414110886,
+      "osm_type": "node",
+      "name": "Școala Gimnazială nr.4",
+      "category": "education",
+      "lat": 44.0130529,
+      "lon": 23.3483278,
+      "tags": {
+        "addr:street": "Eroilor",
+        "amenity": "school",
+        "name": "Școala Gimnazială nr.4"
+      }
+    },
+    {
+      "id": "node/6551134586",
+      "osm_id": 6551134586,
+      "osm_type": "node",
+      "name": "Școala Gimnazială, nr.5 \"Av. P. Ivanovici",
+      "category": "education",
+      "lat": 44.0217471,
+      "lon": 23.3413166,
+      "tags": {
+        "addr:street": "Strada Locotenent Becherescu",
+        "amenity": "school",
+        "name": "Școala Gimnazială, nr.5 \"Av. P. Ivanovici",
+        "opening_hours": "Mo-Su 08:00-13:00"
+      }
+    },
+    {
+      "id": "node/8363284790",
+      "osm_id": 8363284790,
+      "osm_type": "node",
+      "name": "Liceul Teoretic „Mihai Viteazul”",
+      "category": "education",
+      "lat": 44.0195425,
+      "lon": 23.3402388,
+      "tags": {
+        "addr:city": "Băilești",
+        "addr:housenumber": "5",
+        "addr:postcode": "205100",
+        "addr:street": "Strada Mărășești",
+        "amenity": "school",
+        "denomination": "orthodox",
+        "name": "Liceul Teoretic „Mihai Viteazul”",
+        "operator": "Liceul Teoretic „Mihai Viteazul”",
+        "operator:type": "public",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/8363291685",
+      "osm_id": 8363291685,
+      "osm_type": "node",
+      "name": "Liceul Tehnologic „Ștefan Anghel”",
+      "category": "education",
+      "lat": 44.0193952,
+      "lon": 23.3440222,
+      "tags": {
+        "addr:city": "Băilești",
+        "addr:postcode": "205100",
+        "addr:street": "Strada Revoluției",
+        "amenity": "school",
+        "name": "Liceul Tehnologic „Ștefan Anghel”",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/499539480",
+      "osm_id": 499539480,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Nr.3 Balasan",
+      "category": "education",
+      "lat": 44.0247358,
+      "lon": 23.2622156,
+      "tags": {
+        "addr:city": "Balasan",
+        "addr:street": "DJ561A",
+        "building": "school",
+        "name": "Școala Gimnazială Nr.3 Balasan"
+      }
+    },
+    {
+      "id": "way/901587879",
+      "osm_id": 901587879,
+      "osm_type": "way",
+      "name": "Liceul Teoretic „Mihai Viteazul”",
+      "category": "education",
+      "lat": 44.0195295,
+      "lon": 23.3402294,
+      "tags": {
+        "addr:city": "Băilești",
+        "addr:postcode": "205100",
+        "addr:street": "Strada Mărășești",
+        "building": "school",
+        "building:levels": "2",
+        "name": "Liceul Teoretic „Mihai Viteazul”"
+      }
+    },
+    {
+      "id": "way/1019733666",
+      "osm_id": 1019733666,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.0217124,
+      "lon": 23.3412695,
+      "tags": {
+        "addr:city": "Băilești",
+        "addr:postcode": "205100",
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "node/4499992861",
+      "osm_id": 4499992861,
+      "osm_type": "node",
+      "name": "Biserica Sfântul Nicolae",
+      "category": "place_of_worship",
+      "lat": 44.0216303,
+      "lon": 23.3500517,
+      "tags": {
+        "addr:city": "Băilești",
+        "addr:housenumber": "52",
+        "addr:postcode": "205100",
+        "addr:street": "Strada Independenței",
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Sfântul Nicolae",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/4499992862",
+      "osm_id": 4499992862,
+      "osm_type": "node",
+      "name": "Biserica Izvorul Tămăduirii",
+      "category": "place_of_worship",
+      "lat": 44.0257075,
+      "lon": 23.343432,
+      "tags": {
+        "addr:city": "Băilești",
+        "addr:postcode": "205100",
+        "addr:street": "Strada Gabroveni",
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Izvorul Tămăduirii",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/4499992863",
+      "osm_id": 4499992863,
+      "osm_type": "node",
+      "name": "Biserica Adormirea Maicii Domnului",
+      "category": "place_of_worship",
+      "lat": 44.0135372,
+      "lon": 23.3487193,
+      "tags": {
+        "addr:city": "Băilești",
+        "addr:postcode": "205100",
+        "addr:street": "Strada Dreptății",
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Adormirea Maicii Domnului",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/4499992864",
+      "osm_id": 4499992864,
+      "osm_type": "node",
+      "name": "Biserica „Sfinții Apostoli”",
+      "category": "place_of_worship",
+      "lat": 44.0210295,
+      "lon": 23.3412373,
+      "tags": {
+        "addr:city": "Băilești",
+        "addr:housenumber": "1",
+        "addr:postcode": "205100",
+        "addr:street": "Strada Mărășești",
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica „Sfinții Apostoli”",
+        "religion": "christian",
+        "wikidata": "Q72955673",
+        "wikipedia": "ro:Biserica „Sfinții Apostoli” din Alexandria"
+      }
+    },
+    {
+      "id": "node/8363284790",
+      "osm_id": 8363284790,
+      "osm_type": "node",
+      "name": "Liceul Teoretic „Mihai Viteazul”",
+      "category": "place_of_worship",
+      "lat": 44.0195425,
+      "lon": 23.3402388,
+      "tags": {
+        "addr:city": "Băilești",
+        "addr:housenumber": "5",
+        "addr:postcode": "205100",
+        "addr:street": "Strada Mărășești",
+        "amenity": "school",
+        "denomination": "orthodox",
+        "name": "Liceul Teoretic „Mihai Viteazul”",
+        "operator": "Liceul Teoretic „Mihai Viteazul”",
+        "operator:type": "public",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/8363291685",
+      "osm_id": 8363291685,
+      "osm_type": "node",
+      "name": "Liceul Tehnologic „Ștefan Anghel”",
+      "category": "place_of_worship",
+      "lat": 44.0193952,
+      "lon": 23.3440222,
+      "tags": {
+        "addr:city": "Băilești",
+        "addr:postcode": "205100",
+        "addr:street": "Strada Revoluției",
+        "amenity": "school",
+        "name": "Liceul Tehnologic „Ștefan Anghel”",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/448654751",
+      "osm_id": 448654751,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.030215,
+      "lon": 23.3490396,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/499539479",
+      "osm_id": 499539479,
+      "osm_type": "way",
+      "name": "Cimitir Balasan",
+      "category": "place_of_worship",
+      "lat": 44.0258603,
+      "lon": 23.2549748,
+      "tags": {
+        "denomination": "greek_orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitir Balasan",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/699186743",
+      "osm_id": 699186743,
+      "osm_type": "way",
+      "name": "Biserica Balasan",
+      "category": "place_of_worship",
+      "lat": 44.02481,
+      "lon": 23.2630732,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "name": "Biserica Balasan",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1019539068",
+      "osm_id": 1019539068,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.0209866,
+      "lon": 23.3413278,
+      "tags": {
+        "addr:city": "Băilești",
+        "addr:street": "Strada Mărășești",
+        "building": "church"
+      }
+    }
+  ]
+}

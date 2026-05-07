@@ -1,0 +1,575 @@
+{
+  "city": "Dej",
+  "generated_at": "2026-04-23T09:41:31.758Z",
+  "counts": {
+    "total": 35,
+    "schools": 8,
+    "churches": 27
+  },
+  "pois": [
+    {
+      "id": "way/215721981",
+      "osm_id": 215721981,
+      "osm_type": "way",
+      "name": "Colegiul Național „Andrei Mureșanu”",
+      "category": "education",
+      "lat": 47.1413905,
+      "lon": 23.8784894,
+      "tags": {
+        "addr:city": "Dej",
+        "addr:housenumber": "10",
+        "addr:postcode": "405200",
+        "addr:street": "Strada 1 Mai",
+        "amenity": "school",
+        "grades": "5-8, 9-12",
+        "level": "0",
+        "name": "Colegiul Național „Andrei Mureșanu”",
+        "name:en": "\"Andrei Mureșanu\" National College",
+        "website": "http://andreimuresanudej.ro/",
+        "wikidata": "Q61085718",
+        "wikipedia": "ro:Colegiul Național „Andrei Mureșanu” din Dej"
+      }
+    },
+    {
+      "id": "way/215721983",
+      "osm_id": 215721983,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.1412023,
+      "lon": 23.878284,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/215721987",
+      "osm_id": 215721987,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.1412241,
+      "lon": 23.8788969,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/216248622",
+      "osm_id": 216248622,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.1413866,
+      "lon": 23.8773,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/216248627",
+      "osm_id": 216248627,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.1408903,
+      "lon": 23.8767041,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/265565133",
+      "osm_id": 265565133,
+      "osm_type": "way",
+      "name": "Liceul Teoretic „Alexandru Papiu Ilarian”",
+      "category": "education",
+      "lat": 47.1416495,
+      "lon": 23.8727496,
+      "tags": {
+        "addr:city": "Dej",
+        "addr:postcode": "405200",
+        "addr:street": "Strada Simion Bărnuțiu",
+        "building": "school",
+        "building:levels": "3",
+        "name": "Liceul Teoretic „Alexandru Papiu Ilarian”",
+        "source": "Bing"
+      }
+    },
+    {
+      "id": "way/854204560",
+      "osm_id": 854204560,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.1415315,
+      "lon": 23.8784462,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/854209508",
+      "osm_id": 854209508,
+      "osm_type": "way",
+      "name": "Școala Gimnazială „Mihai Eminescu”",
+      "category": "education",
+      "lat": 47.141114,
+      "lon": 23.8770034,
+      "tags": {
+        "addr:city": "Dej",
+        "addr:housenumber": "2-4",
+        "addr:postcode": "405200",
+        "addr:street": "Strada Avram Iancu",
+        "amenity": "school",
+        "grades": "1-8",
+        "name": "Școala Gimnazială „Mihai Eminescu”",
+        "website": "https://www.scoalaeminescudej.ro/"
+      }
+    },
+    {
+      "id": "node/1851819083",
+      "osm_id": 1851819083,
+      "osm_type": "node",
+      "name": "Biserica Sfântul Nicolae",
+      "category": "place_of_worship",
+      "lat": 47.160556,
+      "lon": 23.7580071,
+      "tags": {
+        "addr:city": "Șomcutu Mic",
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Sfântul Nicolae",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/1856117912",
+      "osm_id": 1856117912,
+      "osm_type": "node",
+      "name": "Biserica Ortodoxă",
+      "category": "place_of_worship",
+      "lat": 47.0761976,
+      "lon": 23.787911,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/2452196305",
+      "osm_id": 2452196305,
+      "osm_type": "node",
+      "name": "Biserica Reformată",
+      "category": "place_of_worship",
+      "lat": 47.1586332,
+      "lon": 23.8296324,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "reformed",
+        "name": "Biserica Reformată",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/2452196408",
+      "osm_id": 2452196408,
+      "osm_type": "node",
+      "name": "Biserica Sfinții Apostoli Petru și Pavel",
+      "category": "place_of_worship",
+      "lat": 47.1592787,
+      "lon": 23.8284036,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Sfinții Apostoli Petru și Pavel",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/8894132911",
+      "osm_id": 8894132911,
+      "osm_type": "node",
+      "name": "Biserica Sfinții Arhangheli Mihail și Gavril",
+      "category": "place_of_worship",
+      "lat": 47.1621937,
+      "lon": 23.7576402,
+      "tags": {
+        "addr:city": "Șomcutu Mic",
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Sfinții Arhangheli Mihail și Gavril",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/9921893220",
+      "osm_id": 9921893220,
+      "osm_type": "node",
+      "name": "Biserica Sfântul Nectarie",
+      "category": "place_of_worship",
+      "lat": 47.1258917,
+      "lon": 23.8854034,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Sfântul Nectarie",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/11838843258",
+      "osm_id": 11838843258,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 47.1368949,
+      "lon": 23.8461343,
+      "tags": {
+        "amenity": "place_of_worship",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/215719892",
+      "osm_id": 215719892,
+      "osm_type": "way",
+      "name": "Biserica Penticostala \"Betel\"",
+      "category": "place_of_worship",
+      "lat": 47.1374096,
+      "lon": 23.881388,
+      "tags": {
+        "addr:city": "Dej",
+        "addr:housenumber": "25A",
+        "addr:postcode": "405200",
+        "addr:street": "Strada Horea",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "pentecostal",
+        "name": "Biserica Penticostala \"Betel\"",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/215721995",
+      "osm_id": 215721995,
+      "osm_type": "way",
+      "name": "Biserica Reformată",
+      "category": "place_of_worship",
+      "lat": 47.1430312,
+      "lon": 23.873767,
+      "tags": {
+        "addr:city": "Dej",
+        "addr:housenumber": "6",
+        "addr:postcode": "405200",
+        "addr:street": "Piața Bobâlna",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "reformed",
+        "name": "Biserica Reformată",
+        "religion": "christian",
+        "wikidata": "Q18539636",
+        "wikipedia": "ro:Biserica reformată din Dej"
+      }
+    },
+    {
+      "id": "way/215721998",
+      "osm_id": 215721998,
+      "osm_type": "way",
+      "name": "Biserica Adormirea Maicii Domnului",
+      "category": "place_of_worship",
+      "lat": 47.1395256,
+      "lon": 23.8790834,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica Adormirea Maicii Domnului",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/216247925",
+      "osm_id": 216247925,
+      "osm_type": "way",
+      "name": "Biserica Sf Anton",
+      "category": "place_of_worship",
+      "lat": 47.1429288,
+      "lon": 23.8765199,
+      "tags": {
+        "addr:city": "Dej",
+        "addr:street": "Strada George Coșbuc",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "catholic",
+        "name": "Biserica Sf Anton",
+        "name:hu": "Páduai Szent Antal templom",
+        "religion": "christian",
+        "url:miserend": "https://miserend.hu/templom/3415",
+        "wikidata": "Q12722738",
+        "wikipedia": "ro:Biserica Franciscană din Dej"
+      }
+    },
+    {
+      "id": "way/216248625",
+      "osm_id": 216248625,
+      "osm_type": "way",
+      "name": "Biserica Sfinții Arhangheli Mihail și Gavril",
+      "category": "place_of_worship",
+      "lat": 47.1401405,
+      "lon": 23.8763542,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Sfinții Arhangheli Mihail și Gavril",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/226831794",
+      "osm_id": 226831794,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 47.1408176,
+      "lon": 23.887028,
+      "tags": {
+        "amenity": "grave_yard",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/265569769",
+      "osm_id": 265569769,
+      "osm_type": "way",
+      "name": "Biserica Penticostala nr 1",
+      "category": "place_of_worship",
+      "lat": 47.1456414,
+      "lon": 23.8781521,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "pentecostal",
+        "name": "Biserica Penticostala nr 1",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/265569772",
+      "osm_id": 265569772,
+      "osm_type": "way",
+      "name": "Biserica Sfinții Apostoli Petru și Pavel",
+      "category": "place_of_worship",
+      "lat": 47.143594,
+      "lon": 23.8798093,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "catholic",
+        "name": "Biserica Sfinții Apostoli Petru și Pavel",
+        "religion": "christian",
+        "source": "Bing"
+      }
+    },
+    {
+      "id": "way/265610825",
+      "osm_id": 265610825,
+      "osm_type": "way",
+      "name": "Catedrala Sfânta Treime",
+      "category": "place_of_worship",
+      "lat": 47.1310517,
+      "lon": 23.8860691,
+      "tags": {
+        "addr:street": "Strada Unirii",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "building:levels": "2",
+        "check_date": "2025-07-24",
+        "denomination": "orthodox",
+        "name": "Catedrala Sfânta Treime",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/265610842",
+      "osm_id": 265610842,
+      "osm_type": "way",
+      "name": "Biserica Greco-Catolică Sfântul Anton de Padova",
+      "category": "place_of_worship",
+      "lat": 47.131225,
+      "lon": 23.8883208,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "greek_catholic",
+        "name": "Biserica Greco-Catolică Sfântul Anton de Padova",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/265614462",
+      "osm_id": 265614462,
+      "osm_type": "way",
+      "name": "Sinagoga din Dej",
+      "category": "place_of_worship",
+      "lat": 47.1404502,
+      "lon": 23.8737774,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Sinagoga din Dej",
+        "religion": "jewish"
+      }
+    },
+    {
+      "id": "way/272039182",
+      "osm_id": 272039182,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 47.1258954,
+      "lon": 23.885584,
+      "tags": {
+        "building": "church"
+      }
+    },
+    {
+      "id": "way/272061150",
+      "osm_id": 272061150,
+      "osm_type": "way",
+      "name": "Biserica Penticostala nr. 4",
+      "category": "place_of_worship",
+      "lat": 47.1364423,
+      "lon": 23.8741332,
+      "tags": {
+        "addr:city": "Dej",
+        "addr:housenumber": "37",
+        "addr:postcode": "405200",
+        "addr:street": "Strada Țibleșului",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "pentecostal",
+        "name": "Biserica Penticostala nr. 4",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/272077644",
+      "osm_id": 272077644,
+      "osm_type": "way",
+      "name": "Biserica Baptista Emanuel",
+      "category": "place_of_worship",
+      "lat": 47.1395185,
+      "lon": 23.8704473,
+      "tags": {
+        "addr:city": "Dej",
+        "addr:housenumber": "5",
+        "addr:postcode": "405200",
+        "addr:street": "Strada Corbului",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "baptist",
+        "name": "Biserica Baptista Emanuel",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/272598182",
+      "osm_id": 272598182,
+      "osm_type": "way",
+      "name": "Biserica Sf Gheorghe",
+      "category": "place_of_worship",
+      "lat": 47.1158454,
+      "lon": 23.8598846,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "check_date": "2026-01-02",
+        "denomination": "orthodox",
+        "name": "Biserica Sf Gheorghe",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/272598183",
+      "osm_id": 272598183,
+      "osm_type": "way",
+      "name": "Biserica Sf Nicolae",
+      "category": "place_of_worship",
+      "lat": 47.1156299,
+      "lon": 23.860212,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "check_date": "2026-01-02",
+        "denomination": "orthodox",
+        "name": "Biserica Sf Nicolae",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/909318151",
+      "osm_id": 909318151,
+      "osm_type": "way",
+      "name": "Biserica Romano-Catolică",
+      "category": "place_of_worship",
+      "lat": 47.1176958,
+      "lon": 23.8614226,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "roman_catholic",
+        "name": "Biserica Romano-Catolică",
+        "name:hu": "Nagyboldogasszony templom",
+        "religion": "christian",
+        "url:miserend": "https://miserend.hu/templom/3416"
+      }
+    },
+    {
+      "id": "way/961497161",
+      "osm_id": 961497161,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 47.1623854,
+      "lon": 23.7577203,
+      "tags": {
+        "addr:city": "Șomcutu Mic",
+        "amenity": "grave_yard",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/961497162",
+      "osm_id": 961497162,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 47.1599339,
+      "lon": 23.8270751,
+      "tags": {
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1241725679",
+      "osm_id": 1241725679,
+      "osm_type": "way",
+      "name": "Biserica Reformată",
+      "category": "place_of_worship",
+      "lat": 47.1165374,
+      "lon": 23.8589402,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Biserica Reformată",
+        "name:hu": "Désaknai Református Templom",
+        "religion": "christian"
+      }
+    }
+  ]
+}

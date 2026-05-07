@@ -1,0 +1,430 @@
+{
+  "city": "Orșova",
+  "generated_at": "2026-04-23T09:51:03.622Z",
+  "counts": {
+    "total": 28,
+    "schools": 17,
+    "churches": 11
+  },
+  "pois": [
+    {
+      "id": "node/259199427",
+      "osm_id": 259199427,
+      "osm_type": "node",
+      "name": "Școala Generală Nr. 2",
+      "category": "education",
+      "lat": 44.7183848,
+      "lon": 22.3975751,
+      "tags": {
+        "amenity": "school",
+        "grades": "1-12",
+        "name": "Școala Generală Nr. 2"
+      }
+    },
+    {
+      "id": "node/7933768153",
+      "osm_id": 7933768153,
+      "osm_type": "node",
+      "name": "Școala de Perfecționare a Pregătirii Personalului Poliției de Frontieră Orșova - IGPFR",
+      "category": "education",
+      "lat": 44.7146295,
+      "lon": 22.4013501,
+      "tags": {
+        "addr:city": "Orșova",
+        "addr:street": "Bulevardul 1 Decembrie 1918",
+        "amenity": "college",
+        "name": "Școala de Perfecționare a Pregătirii Personalului Poliției de Frontieră Orșova - IGPFR"
+      }
+    },
+    {
+      "id": "way/265674306",
+      "osm_id": 265674306,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.7202897,
+      "lon": 22.397622,
+      "tags": {
+        "access": "private",
+        "amenity": "school",
+        "barrier": "fence",
+        "source": "Legea 544/2001"
+      }
+    },
+    {
+      "id": "way/265680885",
+      "osm_id": 265680885,
+      "osm_type": "way",
+      "name": "Grădinița Nr. 1",
+      "category": "education",
+      "lat": 44.727304,
+      "lon": 22.3986454,
+      "tags": {
+        "amenity": "kindergarten",
+        "building": "school",
+        "name": "Grădinița Nr. 1",
+        "source": "Legea 544/2001"
+      }
+    },
+    {
+      "id": "way/265680887",
+      "osm_id": 265680887,
+      "osm_type": "way",
+      "name": "Grădinița Nr. 3",
+      "category": "education",
+      "lat": 44.7364589,
+      "lon": 22.4067661,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Grădinița Nr. 3"
+      }
+    },
+    {
+      "id": "way/265680890",
+      "osm_id": 265680890,
+      "osm_type": "way",
+      "name": "Grup Școlar Industrial de Marină",
+      "category": "education",
+      "lat": 44.7275079,
+      "lon": 22.3996644,
+      "tags": {
+        "building": "school",
+        "name": "Grup Școlar Industrial de Marină",
+        "source": "Legea 544/2001"
+      }
+    },
+    {
+      "id": "way/265680934",
+      "osm_id": 265680934,
+      "osm_type": "way",
+      "name": "Școala Generală cu Clasele 1-8",
+      "category": "education",
+      "lat": 44.7327716,
+      "lon": 22.4033354,
+      "tags": {
+        "addr:city": "Orșova",
+        "addr:street": "Bulevardul 1 Decembrie 1918",
+        "amenity": "school",
+        "building": "school",
+        "name": "Școala Generală cu Clasele 1-8",
+        "source": "Legea 544/2001"
+      }
+    },
+    {
+      "id": "way/265681037",
+      "osm_id": 265681037,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.7272576,
+      "lon": 22.3989012,
+      "tags": {
+        "building": "school",
+        "source": "Legea 544/2001"
+      }
+    },
+    {
+      "id": "way/265681639",
+      "osm_id": 265681639,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.7226821,
+      "lon": 22.3957631,
+      "tags": {
+        "addr:city": "Orșova",
+        "addr:street": "Strada Porțile de Fier",
+        "building": "school",
+        "grades": "9-12",
+        "source": "Legea 544/2001"
+      }
+    },
+    {
+      "id": "way/265681650",
+      "osm_id": 265681650,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.7185166,
+      "lon": 22.3975368,
+      "tags": {
+        "addr:city": "Orșova",
+        "addr:street": "Strada Porțile de Fier",
+        "amenity": "school",
+        "building": "school",
+        "source": "Legea 544/2001"
+      }
+    },
+    {
+      "id": "way/265681665",
+      "osm_id": 265681665,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.7203206,
+      "lon": 22.3977031,
+      "tags": {
+        "building": "school",
+        "source": "Legea 544/2001"
+      }
+    },
+    {
+      "id": "way/265683811",
+      "osm_id": 265683811,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.7274503,
+      "lon": 22.3986002,
+      "tags": {
+        "building": "school",
+        "source": "Legea 544/2001"
+      }
+    },
+    {
+      "id": "way/265683815",
+      "osm_id": 265683815,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.7273748,
+      "lon": 22.3988382,
+      "tags": {
+        "building": "school",
+        "source": "Legea 544/2001"
+      }
+    },
+    {
+      "id": "way/265684497",
+      "osm_id": 265684497,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.7272737,
+      "lon": 22.3984793,
+      "tags": {
+        "building": "school",
+        "source": "Legea 544/2001"
+      }
+    },
+    {
+      "id": "way/265684529",
+      "osm_id": 265684529,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.7271485,
+      "lon": 22.3986861,
+      "tags": {
+        "building": "school",
+        "source": "Legea 544/2001"
+      }
+    },
+    {
+      "id": "way/265685267",
+      "osm_id": 265685267,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.7274158,
+      "lon": 22.3984331,
+      "tags": {
+        "building": "school",
+        "source": "Legea 544/2001"
+      }
+    },
+    {
+      "id": "way/1344534677",
+      "osm_id": 1344534677,
+      "osm_type": "way",
+      "name": "Liceul Teoretic \"Traian Lalescu\"",
+      "category": "education",
+      "lat": 44.722921,
+      "lon": 22.3954134,
+      "tags": {
+        "amenity": "school",
+        "name": "Liceul Teoretic \"Traian Lalescu\""
+      }
+    },
+    {
+      "id": "node/259184024",
+      "osm_id": 259184024,
+      "osm_type": "node",
+      "name": "Biserica Romano-Catolică Neprihănita Zămislire",
+      "category": "place_of_worship",
+      "lat": 44.7243655,
+      "lon": 22.3937204,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "catholic",
+        "is_in": "Orșova",
+        "name": "Biserica Romano-Catolică Neprihănita Zămislire",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/7206415466",
+      "osm_id": 7206415466,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.7093578,
+      "lon": 22.397975,
+      "tags": {
+        "amenity": "place_of_worship",
+        "bench": "yes",
+        "historic": "wayside_cross",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/265673035",
+      "osm_id": 265673035,
+      "osm_type": "way",
+      "name": "Mănăstirea Sfânta Ana",
+      "category": "place_of_worship",
+      "lat": 44.711606,
+      "lon": 22.3978794,
+      "tags": {
+        "amenity": "monastery",
+        "denomination": "orthodox",
+        "landuse": "religious",
+        "name": "Mănăstirea Sfânta Ana",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/265673117",
+      "osm_id": 265673117,
+      "osm_type": "way",
+      "name": "Cimitir",
+      "category": "place_of_worship",
+      "lat": 44.7362227,
+      "lon": 22.4029228,
+      "tags": {
+        "landuse": "cemetery",
+        "name": "Cimitir",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/265673930",
+      "osm_id": 265673930,
+      "osm_type": "way",
+      "name": "Biserica Adormirea Maicii Domnului - Jupalnic",
+      "category": "place_of_worship",
+      "lat": 44.726866,
+      "lon": 22.3839776,
+      "tags": {
+        "access": "private",
+        "addr:housenumber": "79",
+        "addr:postcode": "225200",
+        "addr:street": "Strada Eroilor",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "landuse": "residential",
+        "name": "Biserica Adormirea Maicii Domnului - Jupalnic",
+        "religion": "christian",
+        "source": "Legea 544/2001"
+      }
+    },
+    {
+      "id": "way/265680904",
+      "osm_id": 265680904,
+      "osm_type": "way",
+      "name": "Mănăstirea Sfânta Ana",
+      "category": "place_of_worship",
+      "lat": 44.7117684,
+      "lon": 22.3978928,
+      "tags": {
+        "alt_name": "Mănăstirea Sf. Ana",
+        "alt_name:en": "St. Anne Monastery",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Mănăstirea Sfânta Ana",
+        "name:en": "Saint Anne Monastery",
+        "religion": "christian",
+        "source": "Legea 544/2001",
+        "wikipedia:ro": "Mănăstirea Sfânta Ana din Orșova"
+      }
+    },
+    {
+      "id": "way/265681162",
+      "osm_id": 265681162,
+      "osm_type": "way",
+      "name": "Biserica Baptistă",
+      "category": "place_of_worship",
+      "lat": 44.7199416,
+      "lon": 22.3942939,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "baptist",
+        "name": "Biserica Baptistă",
+        "religion": "christian",
+        "source": "Legea 544/2001"
+      }
+    },
+    {
+      "id": "way/265681178",
+      "osm_id": 265681178,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.7242207,
+      "lon": 22.3938973,
+      "tags": {
+        "building": "church",
+        "source": "Legea 544/2001"
+      }
+    },
+    {
+      "id": "way/265681562",
+      "osm_id": 265681562,
+      "osm_type": "way",
+      "name": "Centrul Creștin Tabor",
+      "category": "place_of_worship",
+      "lat": 44.7237956,
+      "lon": 22.3958675,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "pentecostal",
+        "name": "Centrul Creștin Tabor",
+        "religion": "christian",
+        "source": "Legea 544/2001"
+      }
+    },
+    {
+      "id": "way/288896943",
+      "osm_id": 288896943,
+      "osm_type": "way",
+      "name": "Biserica Nașterea Maicii Domnului",
+      "category": "place_of_worship",
+      "lat": 44.7378,
+      "lon": 22.405181,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica Nașterea Maicii Domnului",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1122274137",
+      "osm_id": 1122274137,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.7243572,
+      "lon": 22.3936003,
+      "tags": {
+        "building": "church",
+        "source": "Legea 544/2001"
+      }
+    }
+  ]
+}

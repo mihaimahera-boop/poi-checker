@@ -1,0 +1,133 @@
+{
+  "city": "Pâncota",
+  "generated_at": "2026-04-23T09:53:30.631Z",
+  "counts": {
+    "total": 8,
+    "schools": 0,
+    "churches": 8
+  },
+  "pois": [
+    {
+      "id": "node/561131479",
+      "osm_id": 561131479,
+      "osm_type": "node",
+      "name": "Biserica Ortodoxă",
+      "category": "place_of_worship",
+      "lat": 46.3330957,
+      "lon": 21.6932903,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/561131480",
+      "osm_id": 561131480,
+      "osm_type": "node",
+      "name": "Biserica Reformată",
+      "category": "place_of_worship",
+      "lat": 46.3302075,
+      "lon": 21.6916562,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "reformed",
+        "name": "Biserica Reformată",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/561131485",
+      "osm_id": 561131485,
+      "osm_type": "node",
+      "name": "Biserica Baptistă",
+      "category": "place_of_worship",
+      "lat": 46.3285548,
+      "lon": 21.6894278,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "baptist",
+        "name": "Biserica Baptistă",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/561131486",
+      "osm_id": 561131486,
+      "osm_type": "node",
+      "name": "Biserica Luterană",
+      "category": "place_of_worship",
+      "lat": 46.325565,
+      "lon": 21.6876669,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "lutheran",
+        "name": "Biserica Luterană",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/561131488",
+      "osm_id": 561131488,
+      "osm_type": "node",
+      "name": "Biserica Penticostală",
+      "category": "place_of_worship",
+      "lat": 46.3259406,
+      "lon": 21.6857649,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "pentecostal",
+        "name": "Biserica Penticostală",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/3610693875",
+      "osm_id": 3610693875,
+      "osm_type": "node",
+      "name": "Biserica Ortodoxă Măderat",
+      "category": "place_of_worship",
+      "lat": 46.2945831,
+      "lon": 21.7094818,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă Măderat",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/61373533",
+      "osm_id": 61373533,
+      "osm_type": "way",
+      "name": "Cimitir",
+      "category": "place_of_worship",
+      "lat": 46.2945597,
+      "lon": 21.7024767,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitir",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/296968708",
+      "osm_id": 296968708,
+      "osm_type": "way",
+      "name": "Biserica Catolică",
+      "category": "place_of_worship",
+      "lat": 46.3236112,
+      "lon": 21.6872405,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "cathedral",
+        "denomination": "catholic",
+        "name": "Biserica Catolică",
+        "religion": "christian"
+      }
+    }
+  ]
+}

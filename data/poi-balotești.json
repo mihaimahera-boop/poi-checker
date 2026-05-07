@@ -1,0 +1,297 @@
+{
+  "city": "Balotești",
+  "generated_at": "2026-04-23T09:26:02.135Z",
+  "counts": {
+    "total": 16,
+    "schools": 9,
+    "churches": 7
+  },
+  "pois": [
+    {
+      "id": "node/11716056369",
+      "osm_id": 11716056369,
+      "osm_type": "node",
+      "name": "Scoala Primara nr 2 Balotesti",
+      "category": "education",
+      "lat": 44.6236832,
+      "lon": 26.1103455,
+      "tags": {
+        "addr:street": "Șoseaua Unirii",
+        "amenity": "school",
+        "name": "Scoala Primara nr 2 Balotesti"
+      }
+    },
+    {
+      "id": "way/306089606",
+      "osm_id": 306089606,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.6106073,
+      "lon": 26.07415,
+      "tags": {
+        "addr:street": "Șoseaua Unirii",
+        "building": "school",
+        "building:cullis:height": "8",
+        "building:levels": "3",
+        "building:material": "concrete",
+        "colour": "#FFFF99",
+        "height": "11 m",
+        "roof:colour": "red",
+        "roof:height": "3",
+        "roof:shape": "hipped"
+      }
+    },
+    {
+      "id": "way/330920105",
+      "osm_id": 330920105,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.6107797,
+      "lon": 26.0745464,
+      "tags": {
+        "addr:street": "Șoseaua Unirii",
+        "building": "kindergarten",
+        "building:levels": "1",
+        "building:material": "brick",
+        "height": "3.2 m",
+        "roof:colour": "gray",
+        "roof:shape": "hipped"
+      }
+    },
+    {
+      "id": "way/732585136",
+      "osm_id": 732585136,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.6239379,
+      "lon": 26.1110022,
+      "tags": {
+        "building": "school",
+        "building:levels": "1"
+      }
+    },
+    {
+      "id": "way/807441605",
+      "osm_id": 807441605,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.6217024,
+      "lon": 26.1019142,
+      "tags": {
+        "building": "kindergarten",
+        "building:levels": "3"
+      }
+    },
+    {
+      "id": "way/913215968",
+      "osm_id": 913215968,
+      "osm_type": "way",
+      "name": "Grădinița nr.1 Balotești",
+      "category": "education",
+      "lat": 44.6107976,
+      "lon": 26.0744801,
+      "tags": {
+        "addr:city": "Balotești",
+        "addr:country": "RO",
+        "addr:postcode": "077015",
+        "addr:street": "Șoseaua Unirii",
+        "amenity": "kindergarten",
+        "name": "Grădinița nr.1 Balotești"
+      }
+    },
+    {
+      "id": "way/913215969",
+      "osm_id": 913215969,
+      "osm_type": "way",
+      "name": "Școala Gimnazială nr. 1 Balotești",
+      "category": "education",
+      "lat": 44.6107358,
+      "lon": 26.0740179,
+      "tags": {
+        "addr:city": "Balotești",
+        "addr:country": "RO",
+        "addr:postcode": "077015",
+        "addr:street": "Șoseaua Unirii",
+        "amenity": "school",
+        "name": "Școala Gimnazială nr. 1 Balotești"
+      }
+    },
+    {
+      "id": "way/915224638",
+      "osm_id": 915224638,
+      "osm_type": "way",
+      "name": "Grădinița nr. 1",
+      "category": "education",
+      "lat": 44.6217912,
+      "lon": 26.1019093,
+      "tags": {
+        "addr:city": "Balotești",
+        "addr:housenumber": "158",
+        "addr:postcode": "077015",
+        "addr:street": "Șoseaua Unirii",
+        "amenity": "kindergarten",
+        "barrier": "fence",
+        "name": "Grădinița nr. 1"
+      }
+    },
+    {
+      "id": "way/915224640",
+      "osm_id": 915224640,
+      "osm_type": "way",
+      "name": "Școala Gimnazială nr. 2",
+      "category": "education",
+      "lat": 44.6237916,
+      "lon": 26.1109717,
+      "tags": {
+        "addr:city": "Balotești",
+        "addr:housenumber": "224",
+        "addr:postcode": "077015",
+        "addr:street": "Șoseaua Unirii",
+        "amenity": "school",
+        "building:levels": "2",
+        "name": "Școala Gimnazială nr. 2"
+      }
+    },
+    {
+      "id": "node/3379575845",
+      "osm_id": 3379575845,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.6155107,
+      "lon": 26.0678479,
+      "tags": {
+        "addr:street": "Sf. Troită",
+        "amenity": "place_of_worship",
+        "colour": "#AF9C28",
+        "denomination": "orthodox",
+        "door": "hinged",
+        "entrance": "main",
+        "material": "wood",
+        "religion": "christian",
+        "width": "1.5"
+      }
+    },
+    {
+      "id": "way/231423185",
+      "osm_id": 231423185,
+      "osm_type": "way",
+      "name": "Cimitir",
+      "category": "place_of_worship",
+      "lat": 44.6179684,
+      "lon": 26.0908265,
+      "tags": {
+        "denomination": "greek_orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitir",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/330926619",
+      "osm_id": 330926619,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.6154313,
+      "lon": 26.067486,
+      "tags": {
+        "amenity": "grave_yard",
+        "denomination": "orthodox",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/337367563",
+      "osm_id": 337367563,
+      "osm_type": "way",
+      "name": "Biserica „Sfânta Troiță”, „Sfântul Dumitru” și „Sfânta Elisabeta”",
+      "category": "place_of_worship",
+      "lat": 44.6155088,
+      "lon": 26.0679712,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "building:architecture": "contemporary",
+        "building:material": "brick",
+        "construction_date": "1801",
+        "denomination": "romanian_orthodox",
+        "height": "5 m",
+        "heritage": "2",
+        "heritage:operator": "lmi",
+        "level": "0",
+        "name": "Biserica „Sfânta Troiță”, „Sfântul Dumitru” și „Sfânta Elisabeta”",
+        "ref:RO:lmi": "IF-II-m-B-15309",
+        "ref:RO:ran": "100996",
+        "religion": "christian",
+        "roof:colour": "red",
+        "roof:height": "1.5 m",
+        "roof:material": "roof_tiles",
+        "roof:shape": "hipped"
+      }
+    },
+    {
+      "id": "way/390217066",
+      "osm_id": 390217066,
+      "osm_type": "way",
+      "name": "Biserica „Izvorul Tămăduirii\"",
+      "category": "place_of_worship",
+      "lat": 44.6282986,
+      "lon": 26.1034395,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica „Izvorul Tămăduirii\"",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/390223328",
+      "osm_id": 390223328,
+      "osm_type": "way",
+      "name": "Biserica Preoțești",
+      "category": "place_of_worship",
+      "lat": 44.6186458,
+      "lon": 26.0905422,
+      "tags": {
+        "alt_name": "Biserica ortodoxă Balotești",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica Preoțești",
+        "religion": "christian",
+        "wikidata": "Q125635371"
+      }
+    },
+    {
+      "id": "way/1169373951",
+      "osm_id": 1169373951,
+      "osm_type": "way",
+      "name": "Biserica „Sfinții Nicolae, Teodor și Stelian”",
+      "category": "place_of_worship",
+      "lat": 44.6228854,
+      "lon": 26.1117689,
+      "tags": {
+        "addr:city": "Balotești",
+        "addr:housenumber": "221",
+        "addr:street": "Șoseaua Unirii",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "heritage": "2",
+        "heritage:operator": "lmi",
+        "name": "Biserica „Sfinții Nicolae, Teodor și Stelian”",
+        "ref:RO:lmi": "IF-II-m-B-20268",
+        "ref:RO:ran": "100978.04",
+        "religion": "christian",
+        "start_date": "1763",
+        "wikidata": "Q42959067"
+      }
+    }
+  ]
+}

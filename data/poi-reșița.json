@@ -1,0 +1,977 @@
+{
+  "city": "Reșița",
+  "generated_at": "2026-04-23T09:12:12.961Z",
+  "counts": {
+    "total": 65,
+    "schools": 35,
+    "churches": 30
+  },
+  "pois": [
+    {
+      "id": "node/4789533124",
+      "osm_id": 4789533124,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.2948968,
+      "lon": 21.9352792,
+      "tags": {
+        "addr:housenumber": "51",
+        "addr:street": "Strada Primăverii",
+        "amenity": "school",
+        "opening_hours": "Mo-Fr; Su 10:00-22:00"
+      }
+    },
+    {
+      "id": "node/8937795632",
+      "osm_id": 8937795632,
+      "osm_type": "node",
+      "name": "Colegiul Național Traian Lalescu - Reșița",
+      "category": "education",
+      "lat": 45.2944561,
+      "lon": 21.8799117,
+      "tags": {
+        "addr:city": "Reșița",
+        "addr:street": "Bulevardul Alexandru Ioan Cuza",
+        "amenity": "college",
+        "name": "Colegiul Național Traian Lalescu - Reșița"
+      }
+    },
+    {
+      "id": "way/223966935",
+      "osm_id": 223966935,
+      "osm_type": "way",
+      "name": "Liceul de Artă Sabin Păuță",
+      "category": "education",
+      "lat": 45.3247588,
+      "lon": 21.8787349,
+      "tags": {
+        "addr:city": "Reșița",
+        "addr:housename": "Liceul de Artă Sabin Păuță",
+        "addr:housenumber": "3",
+        "addr:street": "Aleea Herculane",
+        "amenity": "college",
+        "name": "Liceul de Artă Sabin Păuță"
+      }
+    },
+    {
+      "id": "way/223967074",
+      "osm_id": 223967074,
+      "osm_type": "way",
+      "name": "Corp A",
+      "category": "education",
+      "lat": 45.3222961,
+      "lon": 21.8841951,
+      "tags": {
+        "building": "school",
+        "building:levels": "3",
+        "name": "Corp A"
+      }
+    },
+    {
+      "id": "way/223967232",
+      "osm_id": 223967232,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.3238037,
+      "lon": 21.8824341,
+      "tags": {
+        "building": "school",
+        "building:levels": "3"
+      }
+    },
+    {
+      "id": "way/223969142",
+      "osm_id": 223969142,
+      "osm_type": "way",
+      "name": "Școala Gimnazială nr. 8",
+      "category": "education",
+      "lat": 45.3202017,
+      "lon": 21.880804,
+      "tags": {
+        "addr:housename": "Școala Generală Nr. 8",
+        "amenity": "school",
+        "name": "Școala Gimnazială nr. 8"
+      }
+    },
+    {
+      "id": "way/223969437",
+      "osm_id": 223969437,
+      "osm_type": "way",
+      "name": "Corp B",
+      "category": "education",
+      "lat": 45.3221272,
+      "lon": 21.8831044,
+      "tags": {
+        "addr:city": "Reșița",
+        "addr:housenumber": "6",
+        "addr:postcode": "320154",
+        "addr:street": "Strada Făgărașului",
+        "building": "school",
+        "building:levels": "4",
+        "name": "Corp B"
+      }
+    },
+    {
+      "id": "way/223970583",
+      "osm_id": 223970583,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.3188601,
+      "lon": 21.8766205,
+      "tags": {
+        "building": "kindergarten"
+      }
+    },
+    {
+      "id": "way/223972161",
+      "osm_id": 223972161,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.322502,
+      "lon": 21.8750853,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/223972261",
+      "osm_id": 223972261,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.3237075,
+      "lon": 21.8745152,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/223982226",
+      "osm_id": 223982226,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.3269069,
+      "lon": 21.8708091,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/223996857",
+      "osm_id": 223996857,
+      "osm_type": "way",
+      "name": "Școala Gimnazială nr. 6",
+      "category": "education",
+      "lat": 45.2993985,
+      "lon": 21.8778569,
+      "tags": {
+        "addr:housename": "Școala Generală Nr.6 Reșița",
+        "addr:street": "Strada Gratz",
+        "amenity": "school",
+        "name": "Școala Gimnazială nr. 6"
+      }
+    },
+    {
+      "id": "way/224338858",
+      "osm_id": 224338858,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.2938132,
+      "lon": 21.8801963,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/224338863",
+      "osm_id": 224338863,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.2934917,
+      "lon": 21.880453,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/224338872",
+      "osm_id": 224338872,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.2940632,
+      "lon": 21.8799291,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/292030106",
+      "osm_id": 292030106,
+      "osm_type": "way",
+      "name": "Grădinița cu program normal Piticot",
+      "category": "education",
+      "lat": 45.3180653,
+      "lon": 21.878184,
+      "tags": {
+        "building": "kindergarten",
+        "name": "Grădinița cu program normal Piticot"
+      }
+    },
+    {
+      "id": "way/292030125",
+      "osm_id": 292030125,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.3163985,
+      "lon": 21.8792536,
+      "tags": {
+        "building": "school",
+        "building:levels": "4",
+        "source": "survey"
+      }
+    },
+    {
+      "id": "way/316260129",
+      "osm_id": 316260129,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.3301074,
+      "lon": 21.8725374,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/467446346",
+      "osm_id": 467446346,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.3227641,
+      "lon": 21.8829984,
+      "tags": {
+        "addr:city": "Reșița",
+        "addr:housenumber": "10",
+        "addr:postcode": "320154",
+        "addr:street": "Strada Făgărașului",
+        "building": "school",
+        "building:levels": "3"
+      }
+    },
+    {
+      "id": "way/467446347",
+      "osm_id": 467446347,
+      "osm_type": "way",
+      "name": "Colegiul Național Mircea Eliade",
+      "category": "education",
+      "lat": 45.322343,
+      "lon": 21.8837032,
+      "tags": {
+        "addr:city": "Reșița",
+        "addr:housenumber": "6",
+        "addr:postcode": "320154",
+        "addr:street": "Strada Făgărașului",
+        "amenity": "school",
+        "name": "Colegiul Național Mircea Eliade"
+      }
+    },
+    {
+      "id": "way/467446348",
+      "osm_id": 467446348,
+      "osm_type": "way",
+      "name": "Școala Gimnazială nr. 7",
+      "category": "education",
+      "lat": 45.3233087,
+      "lon": 21.8749284,
+      "tags": {
+        "amenity": "school",
+        "name": "Școala Gimnazială nr. 7"
+      }
+    },
+    {
+      "id": "way/467446349",
+      "osm_id": 467446349,
+      "osm_type": "way",
+      "name": "Colegiul Economic al Banatului Montan",
+      "category": "education",
+      "lat": 45.3249029,
+      "lon": 21.8733639,
+      "tags": {
+        "amenity": "school",
+        "name": "Colegiul Economic al Banatului Montan"
+      }
+    },
+    {
+      "id": "way/467446350",
+      "osm_id": 467446350,
+      "osm_type": "way",
+      "name": "Școala Gimnazială nr. 9",
+      "category": "education",
+      "lat": 45.3268388,
+      "lon": 21.8711128,
+      "tags": {
+        "amenity": "school",
+        "name": "Școala Gimnazială nr. 9"
+      }
+    },
+    {
+      "id": "way/467578478",
+      "osm_id": 467578478,
+      "osm_type": "way",
+      "name": "Universitatea Eftimie Murgu",
+      "category": "education",
+      "lat": 45.2930149,
+      "lon": 21.8838587,
+      "tags": {
+        "amenity": "university",
+        "name": "Universitatea Eftimie Murgu"
+      }
+    },
+    {
+      "id": "way/471162049",
+      "osm_id": 471162049,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.3246606,
+      "lon": 21.8788015,
+      "tags": {
+        "building": "school",
+        "building:levels": "4"
+      }
+    },
+    {
+      "id": "way/471162050",
+      "osm_id": 471162050,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.3248425,
+      "lon": 21.8785489,
+      "tags": {
+        "building": "school",
+        "building:levels": "3"
+      }
+    },
+    {
+      "id": "way/471167787",
+      "osm_id": 471167787,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.2993045,
+      "lon": 21.8777898,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/471167788",
+      "osm_id": 471167788,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.2995357,
+      "lon": 21.8782088,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/480277419",
+      "osm_id": 480277419,
+      "osm_type": "way",
+      "name": "Colegiul Național Traian Lalescu",
+      "category": "education",
+      "lat": 45.2937272,
+      "lon": 21.8799413,
+      "tags": {
+        "amenity": "school",
+        "name": "Colegiul Național Traian Lalescu"
+      }
+    },
+    {
+      "id": "way/511119281",
+      "osm_id": 511119281,
+      "osm_type": "way",
+      "name": "Grădinița Floarea Soarelui",
+      "category": "education",
+      "lat": 45.3278995,
+      "lon": 21.8698273,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Grădinița Floarea Soarelui"
+      }
+    },
+    {
+      "id": "way/1079446752",
+      "osm_id": 1079446752,
+      "osm_type": "way",
+      "name": "Colegiul Național Diaconovici-Tietz",
+      "category": "education",
+      "lat": 45.2937338,
+      "lon": 21.9009943,
+      "tags": {
+        "building": "school",
+        "name": "Colegiul Național Diaconovici-Tietz",
+        "website": "https://cndt.ro/",
+        "wikidata": "Q134581536",
+        "wikipedia": "en:Diaconovici-Tietz National College"
+      }
+    },
+    {
+      "id": "way/1138093641",
+      "osm_id": 1138093641,
+      "osm_type": "way",
+      "name": "Şcoala Gimnazială Nr.2 \"Marius Șandru\"",
+      "category": "education",
+      "lat": 45.2913233,
+      "lon": 21.8939657,
+      "tags": {
+        "addr:city": "Reșița",
+        "addr:housenumber": "1",
+        "addr:street": "Strada Romanilor",
+        "building": "school",
+        "name": "Şcoala Gimnazială Nr.2 \"Marius Șandru\"",
+        "school": "secondary",
+        "source": "microsoft/BuildingFootprints"
+      }
+    },
+    {
+      "id": "way/1362267886",
+      "osm_id": 1362267886,
+      "osm_type": "way",
+      "name": "Colegiul Național Mircea Eliade - Corpul C",
+      "category": "education",
+      "lat": 45.3302152,
+      "lon": 21.8726729,
+      "tags": {
+        "amenity": "school",
+        "name": "Colegiul Național Mircea Eliade - Corpul C"
+      }
+    },
+    {
+      "id": "way/1362273750",
+      "osm_id": 1362273750,
+      "osm_type": "way",
+      "name": "Colegiul Tehnic Cărășan",
+      "category": "education",
+      "lat": 45.3228321,
+      "lon": 21.8828114,
+      "tags": {
+        "amenity": "school",
+        "name": "Colegiul Tehnic Cărășan"
+      }
+    },
+    {
+      "id": "way/1362292680",
+      "osm_id": 1362292680,
+      "osm_type": "way",
+      "name": "Liceul Teoretic Traian Vuia",
+      "category": "education",
+      "lat": 45.3163129,
+      "lon": 21.8793931,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Liceul Teoretic Traian Vuia"
+      }
+    },
+    {
+      "id": "node/3680467513",
+      "osm_id": 3680467513,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.2712449,
+      "lon": 21.9791597,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/3680472127",
+      "osm_id": 3680472127,
+      "osm_type": "node",
+      "name": "Biserica ortodoxă Țerova",
+      "category": "place_of_worship",
+      "lat": 45.3082454,
+      "lon": 21.9229003,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "name": "Biserica ortodoxă Țerova",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/4362062489",
+      "osm_id": 4362062489,
+      "osm_type": "node",
+      "name": "Biserca Penticostală Izvorul Vieții",
+      "category": "place_of_worship",
+      "lat": 45.3240545,
+      "lon": 21.8808069,
+      "tags": {
+        "addr:housenumber": "13",
+        "addr:street": "Strada Făgărașului",
+        "amenity": "place_of_worship",
+        "denomination": "baptist",
+        "email": "izvorul.vietii@live.com",
+        "name": "Biserca Penticostală Izvorul Vieții",
+        "opening_hours": "Su 09:00-12:00, 18:00-20:00; Fr 18:00-20:00; We 18:00-20:00",
+        "religion": "christian",
+        "website": "http://www.izvorulvietii.ro"
+      }
+    },
+    {
+      "id": "node/5776999472",
+      "osm_id": 5776999472,
+      "osm_type": "node",
+      "name": "Biserica Creștină Baptistă Speranța",
+      "category": "place_of_worship",
+      "lat": 45.3275453,
+      "lon": 21.8703619,
+      "tags": {
+        "addr:city": "Reșița",
+        "addr:housenumber": "5A",
+        "addr:postcode": "320189",
+        "addr:street": "Aleea Mărghitaș",
+        "amenity": "place_of_worship",
+        "denomination": "baptist",
+        "email": "BBsperantaresita@gmail.com",
+        "name": "Biserica Creștină Baptistă Speranța",
+        "phone": "+31 355 423633",
+        "religion": "christian",
+        "website": "https://sperantaresita.org/"
+      }
+    },
+    {
+      "id": "way/223966715",
+      "osm_id": 223966715,
+      "osm_type": "way",
+      "name": "Biserica Sfânta Treime Din Reșița",
+      "category": "place_of_worship",
+      "lat": 45.3250189,
+      "lon": 21.8800595,
+      "tags": {
+        "addr:city": "Reșița",
+        "addr:housenumber": "5",
+        "addr:postcode": "320154",
+        "addr:street": "Aleea Herculane",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "catholic",
+        "name": "Biserica Sfânta Treime Din Reșița",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/223983005",
+      "osm_id": 223983005,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă Schimbarea la Față",
+      "category": "place_of_worship",
+      "lat": 45.3256481,
+      "lon": 21.8771105,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă Schimbarea la Față",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/274506013",
+      "osm_id": 274506013,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.2556203,
+      "lon": 21.904872,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/292030110",
+      "osm_id": 292030110,
+      "osm_type": "way",
+      "name": "Biserica ortodoxă Pogorârea Sfântului Duh",
+      "category": "place_of_worship",
+      "lat": 45.3167714,
+      "lon": 21.88188,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica ortodoxă Pogorârea Sfântului Duh",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/363937108",
+      "osm_id": 363937108,
+      "osm_type": "way",
+      "name": "Cimitirul: 2, 3 Muncitoresc",
+      "category": "place_of_worship",
+      "lat": 45.2974463,
+      "lon": 21.911485,
+      "tags": {
+        "landuse": "cemetery",
+        "name": "Cimitirul: 2, 3 Muncitoresc",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/363937115",
+      "osm_id": 363937115,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.2654564,
+      "lon": 21.9649045,
+      "tags": {
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/363937116",
+      "osm_id": 363937116,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.3092944,
+      "lon": 21.9184518,
+      "tags": {
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/363937117",
+      "osm_id": 363937117,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.2752116,
+      "lon": 21.9793538,
+      "tags": {
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/373575182",
+      "osm_id": 373575182,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.2616613,
+      "lon": 21.9550158,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/401051374",
+      "osm_id": 401051374,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.266572,
+      "lon": 21.9159633,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/471168638",
+      "osm_id": 471168638,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.2993219,
+      "lon": 21.8764086,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/538185157",
+      "osm_id": 538185157,
+      "osm_type": "way",
+      "name": "Catedrala Adormirii Maicii Domnului",
+      "category": "place_of_worship",
+      "lat": 45.2936999,
+      "lon": 21.9087884,
+      "tags": {
+        "alt_name": "Biserica Albă",
+        "amenity": "place_of_worship",
+        "building": "cathedral",
+        "denomination": "orthodox",
+        "name": "Catedrala Adormirii Maicii Domnului",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/539482253",
+      "osm_id": 539482253,
+      "osm_type": "way",
+      "name": "Biserica evanghelică C.A.",
+      "category": "place_of_worship",
+      "lat": 45.2946559,
+      "lon": 21.9049776,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "lutheran",
+        "name": "Biserica evanghelică C.A.",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/539482254",
+      "osm_id": 539482254,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă Petru Iacob",
+      "category": "place_of_worship",
+      "lat": 45.2884081,
+      "lon": 21.8896518,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă Petru Iacob",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/539482255",
+      "osm_id": 539482255,
+      "osm_type": "way",
+      "name": "Biserica Maria Zăpezii din Reșița",
+      "category": "place_of_worship",
+      "lat": 45.2950632,
+      "lon": 21.9011665,
+      "tags": {
+        "addr:city": "Reșița",
+        "addr:housenumber": "34",
+        "addr:street": "Strada Traian Lalescu",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "roman_catholic",
+        "name": "Biserica Maria Zăpezii din Reșița",
+        "name:en": "Saint Mary of the Snows Church Reșița",
+        "religion": "christian",
+        "wikidata": "Q12721838",
+        "wikipedia": "ro:Biserica Maria Zăpezii din Reșița"
+      }
+    },
+    {
+      "id": "way/985617235",
+      "osm_id": 985617235,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.2616593,
+      "lon": 21.9674211,
+      "tags": {
+        "addr:city": "Cuptoare",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1257935761",
+      "osm_id": 1257935761,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.3506391,
+      "lon": 21.8315114,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1322886374",
+      "osm_id": 1322886374,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.2712265,
+      "lon": 21.9790372,
+      "tags": {
+        "addr:city": "Secu",
+        "denomination": "orthodox",
+        "landuse": "religious",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1362283653",
+      "osm_id": 1362283653,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.3255702,
+      "lon": 21.8724974,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1372674519",
+      "osm_id": 1372674519,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.3220843,
+      "lon": 21.8722884,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1372675319",
+      "osm_id": 1372675319,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.3207712,
+      "lon": 21.8731385,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1372685925",
+      "osm_id": 1372685925,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.3177262,
+      "lon": 21.8625979,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1372690425",
+      "osm_id": 1372690425,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.3148748,
+      "lon": 21.8728149,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1459625371",
+      "osm_id": 1459625371,
+      "osm_type": "way",
+      "name": "Sinagoga din Reşiţa",
+      "category": "place_of_worship",
+      "lat": 45.2926875,
+      "lon": 21.8987754,
+      "tags": {
+        "addr:city": "Reșița",
+        "addr:housenumber": "8",
+        "addr:street": "Strada Mihai Viteazu",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Sinagoga din Reşiţa",
+        "religion": "jewish",
+        "start_date": "1880",
+        "wikidata": "Q126979344",
+        "wikipedia": "en:Reșița Synagogue"
+      }
+    },
+    {
+      "id": "way/1459625372",
+      "osm_id": 1459625372,
+      "osm_type": "way",
+      "name": "Protopopiatul Ortodox Român Reşiţa",
+      "category": "place_of_worship",
+      "lat": 45.2899376,
+      "lon": 21.8924972,
+      "tags": {
+        "addr:city": "Reșița",
+        "addr:housenumber": "38",
+        "addr:postcode": "320066",
+        "addr:street": "Strada Libertății",
+        "building": "yes",
+        "denomination": "orthodox",
+        "email": "prot.ortodoxresita@gmail.com",
+        "name": "Protopopiatul Ortodox Român Reşiţa",
+        "office": "religion",
+        "phone": "0763680355",
+        "religion": "christian",
+        "website": "https://www.episcopiacaransebesului.ro/categories/protopopiatul-resita/"
+      }
+    },
+    {
+      "id": "way/1459625373",
+      "osm_id": 1459625373,
+      "osm_type": "way",
+      "name": "Biserica Sf. Ierarh Iosif cel Nou de la Partoş",
+      "category": "place_of_worship",
+      "lat": 45.2900349,
+      "lon": 21.8928179,
+      "tags": {
+        "addr:city": "Reșița",
+        "addr:housenumber": "38",
+        "addr:postcode": "320066",
+        "addr:street": "Strada Libertății",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Sf. Ierarh Iosif cel Nou de la Partoş",
+        "religion": "christian",
+        "start_date": "1865",
+        "website": "https://www.episcopiacaransebesului.ro/01-parohia-sfantul-ierarh-iosif-cel-nou-de-la-partos-resita/"
+      }
+    }
+  ]
+}

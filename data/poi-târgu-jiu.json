@@ -1,0 +1,1120 @@
+{
+  "city": "Târgu Jiu",
+  "generated_at": "2026-04-23T09:11:40.010Z",
+  "counts": {
+    "total": 71,
+    "schools": 45,
+    "churches": 26
+  },
+  "pois": [
+    {
+      "id": "node/448885386",
+      "osm_id": 448885386,
+      "osm_type": "node",
+      "name": "Colegiul Național Spiru Haret",
+      "category": "education",
+      "lat": 45.0278864,
+      "lon": 23.278507,
+      "tags": {
+        "addr:city": "Târgu Jiu",
+        "addr:housenumber": "106",
+        "addr:postcode": "210243",
+        "addr:street": "Strada 1 Decembrie 1918",
+        "amenity": "school",
+        "name": "Colegiul Național Spiru Haret",
+        "old_name": "Liceul Pedagogic"
+      }
+    },
+    {
+      "id": "node/1893278640",
+      "osm_id": 1893278640,
+      "osm_type": "node",
+      "name": "Școala Generală Constantin Săvoiu",
+      "category": "education",
+      "lat": 45.0374953,
+      "lon": 23.2727873,
+      "tags": {
+        "addr:housenumber": "27",
+        "addr:postcode": "210144",
+        "addr:street": "Strada Unirii",
+        "amenity": "school",
+        "name": "Școala Generală Constantin Săvoiu",
+        "old_name": "Școala Generală Nr. 8",
+        "operator:type": "public"
+      }
+    },
+    {
+      "id": "node/1893281701",
+      "osm_id": 1893281701,
+      "osm_type": "node",
+      "name": "Școala Generală Alexandru Ștefulescu",
+      "category": "education",
+      "lat": 45.0383051,
+      "lon": 23.27592,
+      "tags": {
+        "addr:housenumber": "32",
+        "addr:postcode": "210135",
+        "addr:street": "Calea Eroilor",
+        "amenity": "school",
+        "isced:level": "1;2",
+        "name": "Școala Generală Alexandru Ștefulescu",
+        "old_name": "Școala Geberală Nr. 4",
+        "operator:type": "public",
+        "wheelchair": "designated"
+      }
+    },
+    {
+      "id": "node/1893284339",
+      "osm_id": 1893284339,
+      "osm_type": "node",
+      "name": "Colegiul de Muzică și Arte Plastice Constantin Brăiloiu",
+      "category": "education",
+      "lat": 45.0437205,
+      "lon": 23.2782499,
+      "tags": {
+        "addr:housenumber": "34",
+        "addr:postcode": "210131",
+        "addr:street": "Strada Griviței",
+        "amenity": "college",
+        "name": "Colegiul de Muzică și Arte Plastice Constantin Brăiloiu",
+        "old_name": "Școala Generală Nr. 3"
+      }
+    },
+    {
+      "id": "node/1893293310",
+      "osm_id": 1893293310,
+      "osm_type": "node",
+      "name": "Școala Generală Ecaterina Teodoroiu",
+      "category": "education",
+      "lat": 45.0513842,
+      "lon": 23.2825951,
+      "tags": {
+        "addr:housenumber": "88",
+        "addr:postcode": "210113",
+        "addr:street": "Bulevardul Ecaterina Teodoroiu",
+        "amenity": "school",
+        "name": "Școala Generală Ecaterina Teodoroiu",
+        "old_name": "Școala Generală Nr. 2"
+      }
+    },
+    {
+      "id": "node/1893304498",
+      "osm_id": 1893304498,
+      "osm_type": "node",
+      "name": "Colegiul Național Tudor Vladimirescu",
+      "category": "education",
+      "lat": 45.0373867,
+      "lon": 23.2737891,
+      "tags": {
+        "addr:housenumber": "29",
+        "addr:postcode": "210144",
+        "addr:street": "Strada Unirii",
+        "amenity": "college",
+        "name": "Colegiul Național Tudor Vladimirescu",
+        "old_name": "Liceul Tudor Vladimirescu"
+      }
+    },
+    {
+      "id": "node/1893344901",
+      "osm_id": 1893344901,
+      "osm_type": "node",
+      "name": "Școala Generală Gheorghe Tătărăscu",
+      "category": "education",
+      "lat": 45.0286749,
+      "lon": 23.272113,
+      "tags": {
+        "addr:housenumber": "47",
+        "addr:postcode": "210238",
+        "addr:street": "Strada 23 August",
+        "amenity": "school",
+        "name": "Școala Generală Gheorghe Tătărăscu",
+        "old_name": "Școala Generală Nr. 1"
+      }
+    },
+    {
+      "id": "node/1893347667",
+      "osm_id": 1893347667,
+      "osm_type": "node",
+      "name": "Colegiul Național Ecaterina Teodoroiu",
+      "category": "education",
+      "lat": 45.028129,
+      "lon": 23.2707127,
+      "tags": {
+        "addr:housenumber": "25",
+        "addr:postcode": "210109",
+        "addr:street": "Strada 1 Decembrie 1918",
+        "amenity": "school",
+        "name": "Colegiul Național Ecaterina Teodoroiu",
+        "old_name": "Liceul Ecaterina Teodoroiu"
+      }
+    },
+    {
+      "id": "node/1893352610",
+      "osm_id": 1893352610,
+      "osm_type": "node",
+      "name": "Școala Geerală Pompiliu Marcea",
+      "category": "education",
+      "lat": 45.026253,
+      "lon": 23.2742947,
+      "tags": {
+        "addr:housenumber": "4",
+        "addr:postcode": "210212",
+        "addr:street": "Strada Mioriței",
+        "amenity": "school",
+        "name": "Școala Geerală Pompiliu Marcea",
+        "old_name": "Școala Generală Nr. 11"
+      }
+    },
+    {
+      "id": "node/1893362995",
+      "osm_id": 1893362995,
+      "osm_type": "node",
+      "name": "Colegiul Tehnic Nr. 2",
+      "category": "education",
+      "lat": 45.0316122,
+      "lon": 23.2689062,
+      "tags": {
+        "addr:housenumber": "132-134",
+        "addr:postcode": "210234",
+        "addr:street": "Strada Victoriei",
+        "amenity": "school",
+        "name": "Colegiul Tehnic Nr. 2",
+        "old_name": "Liceul Nr. 2"
+      }
+    },
+    {
+      "id": "node/1893367003",
+      "osm_id": 1893367003,
+      "osm_type": "node",
+      "name": "Colegiul Tehnic Ion Mincu",
+      "category": "education",
+      "lat": 45.051958,
+      "lon": 23.279953,
+      "tags": {
+        "addr:housenumber": "3",
+        "addr:postcode": "210182",
+        "addr:street": "Strada Locotenent Colonel Dumitru Petrescu",
+        "amenity": "school",
+        "name": "Colegiul Tehnic Ion Mincu",
+        "old_name": "Liceul Nr. 4"
+      }
+    },
+    {
+      "id": "node/1893377212",
+      "osm_id": 1893377212,
+      "osm_type": "node",
+      "name": "Colegiul Tehnic General Gheorghe Magheru",
+      "category": "education",
+      "lat": 45.0533928,
+      "lon": 23.2790543,
+      "tags": {
+        "addr:housenumber": "3",
+        "addr:postcode": "210182",
+        "addr:street": "Strada Locotenent Colonel Dumitru Petrescu",
+        "amenity": "school",
+        "name": "Colegiul Tehnic General Gheorghe Magheru",
+        "old_name": "Liceul Nr. 1"
+      }
+    },
+    {
+      "id": "node/1893386229",
+      "osm_id": 1893386229,
+      "osm_type": "node",
+      "name": "Colegiul Tehnic Henri Coandă",
+      "category": "education",
+      "lat": 45.0568792,
+      "lon": 23.2883616,
+      "tags": {
+        "addr:housenumber": "2",
+        "addr:postcode": "210107",
+        "addr:street": "Strada Islaz",
+        "amenity": "school",
+        "name": "Colegiul Tehnic Henri Coandă",
+        "old_name": "Liceul Nr. 5"
+      }
+    },
+    {
+      "id": "node/1893391760",
+      "osm_id": 1893391760,
+      "osm_type": "node",
+      "name": "Colegiul Auto Traian Vuia",
+      "category": "education",
+      "lat": 45.0661638,
+      "lon": 23.2937654,
+      "tags": {
+        "addr:city": "Târgu Jiu",
+        "addr:housenumber": "342",
+        "addr:postcode": "210101",
+        "addr:street": "Bulevardul Ecaterina Teodoroiu",
+        "amenity": "school",
+        "name": "Colegiul Auto Traian Vuia",
+        "old_name": "Liceul Nr. 3"
+      }
+    },
+    {
+      "id": "node/1893397272",
+      "osm_id": 1893397272,
+      "osm_type": "node",
+      "name": "Colegiul Comercial Virgil Madgeru",
+      "category": "education",
+      "lat": 45.0385411,
+      "lon": 23.2862284,
+      "tags": {
+        "addr:housenumber": "124",
+        "addr:postcode": "210132",
+        "addr:street": "Strada Tudor Vladimirescu",
+        "amenity": "college",
+        "name": "Colegiul Comercial Virgil Madgeru",
+        "old_name": "Liceul Economic"
+      }
+    },
+    {
+      "id": "node/1893404150",
+      "osm_id": 1893404150,
+      "osm_type": "node",
+      "name": "Colegiul Energetic Nr. 1",
+      "category": "education",
+      "lat": 45.0287063,
+      "lon": 23.2706579,
+      "tags": {
+        "addr:housenumber": "11",
+        "addr:postcode": "210256",
+        "addr:street": "Aleea 23 August",
+        "amenity": "school",
+        "name": "Colegiul Energetic Nr. 1",
+        "old_name": "Liceul Energetic"
+      }
+    },
+    {
+      "id": "node/1893429755",
+      "osm_id": 1893429755,
+      "osm_type": "node",
+      "name": "Grupul Școlar Bârsești",
+      "category": "education",
+      "lat": 45.0516874,
+      "lon": 23.2337786,
+      "tags": {
+        "addr:housenumber": "8",
+        "addr:postcode": "210001",
+        "addr:street": "Strada Bârsești",
+        "amenity": "school",
+        "name": "Grupul Școlar Bârsești",
+        "old_name": "Liceul Agricol"
+      }
+    },
+    {
+      "id": "node/2561190179",
+      "osm_id": 2561190179,
+      "osm_type": "node",
+      "name": "Facultatea de Litere și Științe Sociale",
+      "category": "education",
+      "lat": 45.0431973,
+      "lon": 23.2766782,
+      "tags": {
+        "amenity": "university",
+        "name": "Facultatea de Litere și Științe Sociale"
+      }
+    },
+    {
+      "id": "node/2561190180",
+      "osm_id": 2561190180,
+      "osm_type": "node",
+      "name": "Grădinița nr. 1",
+      "category": "education",
+      "lat": 45.043638,
+      "lon": 23.2767412,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Grădinița nr. 1"
+      }
+    },
+    {
+      "id": "node/8278944698",
+      "osm_id": 8278944698,
+      "osm_type": "node",
+      "name": "Grădinița cu program prelungit \"Lumea copiilor\"",
+      "category": "education",
+      "lat": 45.034168,
+      "lon": 23.2747009,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Grădinița cu program prelungit \"Lumea copiilor\"",
+        "operator:type": "public"
+      }
+    },
+    {
+      "id": "node/8281373983",
+      "osm_id": 8281373983,
+      "osm_type": "node",
+      "name": "Facultatea de Ştiințe ale Educației, Drept şi Administrație Publică",
+      "category": "education",
+      "lat": 45.0398564,
+      "lon": 23.2716761,
+      "tags": {
+        "amenity": "university",
+        "name": "Facultatea de Ştiințe ale Educației, Drept şi Administrație Publică",
+        "operator": "Universitatea \"Constantin Brâncuşi\" din Târgu-Jiu"
+      }
+    },
+    {
+      "id": "node/8307364186",
+      "osm_id": 8307364186,
+      "osm_type": "node",
+      "name": "Grădinița cu program normal Nr. 2",
+      "category": "education",
+      "lat": 45.0395177,
+      "lon": 23.2792112,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Grădinița cu program normal Nr. 2",
+        "operator:type": "public"
+      }
+    },
+    {
+      "id": "node/13430145920",
+      "osm_id": 13430145920,
+      "osm_type": "node",
+      "name": "Grădiniţa cu Program Prelungit \"Mihai Eminescu\"",
+      "category": "education",
+      "lat": 45.0262889,
+      "lon": 23.2789414,
+      "tags": {
+        "amenity": "kindergarten",
+        "education": "kindergarten",
+        "name": "Grădiniţa cu Program Prelungit \"Mihai Eminescu\""
+      }
+    },
+    {
+      "id": "way/179134126",
+      "osm_id": 179134126,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.0240362,
+      "lon": 23.2764948,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/249728454",
+      "osm_id": 249728454,
+      "osm_type": "way",
+      "name": "Colegiul Comercial Virgil Madgearu ",
+      "category": "education",
+      "lat": 45.0385301,
+      "lon": 23.2861213,
+      "tags": {
+        "addr:housename": "Colegiul Comercial Virgil Madgearu ",
+        "addr:housenumber": "124",
+        "addr:postcode": "210132",
+        "addr:street": "Strada Tudor Vladimirescu",
+        "building": "school",
+        "name": "Colegiul Comercial Virgil Madgearu "
+      }
+    },
+    {
+      "id": "way/256427907",
+      "osm_id": 256427907,
+      "osm_type": "way",
+      "name": "Școala Generală Sfântul Nicolae",
+      "category": "education",
+      "lat": 45.0475298,
+      "lon": 23.2746378,
+      "tags": {
+        "addr:housenumber": "56",
+        "addr:postcode": "210112",
+        "addr:street": "Strada 11 Iunie 1848",
+        "amenity": "school",
+        "building": "school",
+        "name": "Școala Generală Sfântul Nicolae",
+        "old_name": "Școala Generală Nr. 6"
+      }
+    },
+    {
+      "id": "way/262690550",
+      "osm_id": 262690550,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.0376351,
+      "lon": 23.2739931,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/262690553",
+      "osm_id": 262690553,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.0376705,
+      "lon": 23.2729195,
+      "tags": {
+        "addr:city": "Târgu Jiu",
+        "addr:housenumber": "27",
+        "addr:postcode": "210144",
+        "addr:street": "Strada Unirii",
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/338643320",
+      "osm_id": 338643320,
+      "osm_type": "way",
+      "name": "Spiru Haret",
+      "category": "education",
+      "lat": 45.0277168,
+      "lon": 23.2784937,
+      "tags": {
+        "addr:city": "Târgu Jiu",
+        "addr:housenumber": "106",
+        "addr:postcode": "210243",
+        "addr:street": "Strada 1 Decembrie 1918",
+        "building": "school",
+        "building:levels": "2",
+        "name": "Spiru Haret",
+        "official_name": "Colegiul Național \"Spiru Haret\"",
+        "old_name": "Liceul Pedagogic"
+      }
+    },
+    {
+      "id": "way/364700362",
+      "osm_id": 364700362,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.0511603,
+      "lon": 23.2825897,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/415792276",
+      "osm_id": 415792276,
+      "osm_type": "way",
+      "name": "Liceul cu Program Sportiv",
+      "category": "education",
+      "lat": 45.0239286,
+      "lon": 23.2710398,
+      "tags": {
+        "addr:housenumber": "100",
+        "addr:postcode": "210238",
+        "addr:street": "Strada 23 August",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Liceul cu Program Sportiv",
+        "old_name": "Școala Generală Nr. 14"
+      }
+    },
+    {
+      "id": "way/415819461",
+      "osm_id": 415819461,
+      "osm_type": "way",
+      "name": "Școala Geerală Pompiliu Marcea",
+      "category": "education",
+      "lat": 45.0262472,
+      "lon": 23.2741484,
+      "tags": {
+        "building": "school",
+        "name": "Școala Geerală Pompiliu Marcea"
+      }
+    },
+    {
+      "id": "way/420882071",
+      "osm_id": 420882071,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.0660071,
+      "lon": 23.2936803,
+      "tags": {
+        "addr:city": "Târgu Jiu",
+        "addr:housenumber": "342",
+        "addr:postcode": "210101",
+        "addr:street": "Bulevardul Ecaterina Teodoroiu",
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/427838445",
+      "osm_id": 427838445,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.0310145,
+      "lon": 23.2785943,
+      "tags": {
+        "addr:city": "Târgu Jiu",
+        "addr:housenumber": "23",
+        "addr:postcode": "210228",
+        "addr:street": "Strada Alexandru Ioan Cuza",
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/444276974",
+      "osm_id": 444276974,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.0395329,
+      "lon": 23.2792218,
+      "tags": {
+        "addr:city": "Târgu Jiu",
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/444574025",
+      "osm_id": 444574025,
+      "osm_type": "way",
+      "name": "Școala Generală Gheorghe Tătărăscu",
+      "category": "education",
+      "lat": 45.0286845,
+      "lon": 23.2723018,
+      "tags": {
+        "building": "school",
+        "name": "Școala Generală Gheorghe Tătărăscu"
+      }
+    },
+    {
+      "id": "way/444947855",
+      "osm_id": 444947855,
+      "osm_type": "way",
+      "name": "Colegiul Energetic Nr. 1",
+      "category": "education",
+      "lat": 45.02875,
+      "lon": 23.2705827,
+      "tags": {
+        "building": "school",
+        "name": "Colegiul Energetic Nr. 1"
+      }
+    },
+    {
+      "id": "way/444947939",
+      "osm_id": 444947939,
+      "osm_type": "way",
+      "name": "Colegiul Național Ecaterina Teodoroiu",
+      "category": "education",
+      "lat": 45.0281945,
+      "lon": 23.2706259,
+      "tags": {
+        "building": "school",
+        "name": "Colegiul Național Ecaterina Teodoroiu"
+      }
+    },
+    {
+      "id": "way/445044544",
+      "osm_id": 445044544,
+      "osm_type": "way",
+      "name": "Școala Generală Voievod Litovoi",
+      "category": "education",
+      "lat": 45.0364547,
+      "lon": 23.2550022,
+      "tags": {
+        "building": "school",
+        "name": "Școala Generală Voievod Litovoi"
+      }
+    },
+    {
+      "id": "way/890092664",
+      "osm_id": 890092664,
+      "osm_type": "way",
+      "name": "Liceul Teologic",
+      "category": "education",
+      "lat": 45.0311021,
+      "lon": 23.278592,
+      "tags": {
+        "addr:city": "Târgu Jiu",
+        "addr:housenumber": "23",
+        "addr:postcode": "210228",
+        "addr:street": "Strada Alexandru Ioan Cuza",
+        "amenity": "school",
+        "name": "Liceul Teologic",
+        "old_name": "Școala Generală Nr. 13"
+      }
+    },
+    {
+      "id": "way/1083384680",
+      "osm_id": 1083384680,
+      "osm_type": "way",
+      "name": "Școala Generală Voievod Litovoi",
+      "category": "education",
+      "lat": 45.0367054,
+      "lon": 23.2549385,
+      "tags": {
+        "addr:housenumber": "86",
+        "addr:postcode": "210170",
+        "addr:street": "Calea Severinului",
+        "amenity": "school",
+        "name": "Școala Generală Voievod Litovoi",
+        "old_name": "Școala Generală Nr. 5"
+      }
+    },
+    {
+      "id": "way/1163658881",
+      "osm_id": 1163658881,
+      "osm_type": "way",
+      "name": "Facultatea de Inginerie",
+      "category": "education",
+      "lat": 45.0383214,
+      "lon": 23.2746306,
+      "tags": {
+        "amenity": "university",
+        "building": "school",
+        "name": "Facultatea de Inginerie"
+      }
+    },
+    {
+      "id": "way/1408148115",
+      "osm_id": 1408148115,
+      "osm_type": "way",
+      "name": "Școala Generală Alexandru Ștefulescu",
+      "category": "education",
+      "lat": 45.0380938,
+      "lon": 23.2763458,
+      "tags": {
+        "addr:city": "Târgu Jiu",
+        "addr:postcode": "210135",
+        "addr:street": "Calea Eroilor",
+        "amenity": "school",
+        "denomination": "romanian_orthodox",
+        "grades": "0-8",
+        "mobile": "0253212679",
+        "name": "Școala Generală Alexandru Ștefulescu",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1408148116",
+      "osm_id": 1408148116,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.0277192,
+      "lon": 23.2784396,
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "relation/6603902",
+      "osm_id": 6603902,
+      "osm_type": "relation",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.0382018,
+      "lon": 23.2759229,
+      "tags": {
+        "addr:city": "Târgu Jiu",
+        "addr:postcode": "210135",
+        "addr:street": "Calea Eroilor",
+        "building": "school",
+        "building:levels": "2",
+        "type": "multipolygon",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "id": "node/2549849165",
+      "osm_id": 2549849165,
+      "osm_type": "node",
+      "name": "Biserica Nouă Drăgoeni",
+      "category": "place_of_worship",
+      "lat": 45.0455996,
+      "lon": 23.3435358,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Nouă Drăgoeni",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/2549849518",
+      "osm_id": 2549849518,
+      "osm_type": "node",
+      "name": "Biserica Veche Drăgoeni",
+      "category": "place_of_worship",
+      "lat": 45.0459085,
+      "lon": 23.3435733,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Veche Drăgoeni",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/2562725180",
+      "osm_id": 2562725180,
+      "osm_type": "node",
+      "name": "Biserică",
+      "category": "place_of_worship",
+      "lat": 45.0375151,
+      "lon": 23.2922716,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserică",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/4034157045",
+      "osm_id": 4034157045,
+      "osm_type": "node",
+      "name": "Biserică",
+      "category": "place_of_worship",
+      "lat": 45.0643006,
+      "lon": 23.3492138,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserică",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/4181547754",
+      "osm_id": 4181547754,
+      "osm_type": "node",
+      "name": "Biserică",
+      "category": "place_of_worship",
+      "lat": 45.0567635,
+      "lon": 23.2826024,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserică",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/4424204677",
+      "osm_id": 4424204677,
+      "osm_type": "node",
+      "name": "Biserică",
+      "category": "place_of_worship",
+      "lat": 45.0346528,
+      "lon": 23.3087508,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserică",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/4426648360",
+      "osm_id": 4426648360,
+      "osm_type": "node",
+      "name": "Biserică",
+      "category": "place_of_worship",
+      "lat": 45.03267,
+      "lon": 23.2590501,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserică",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/8289805875",
+      "osm_id": 8289805875,
+      "osm_type": "node",
+      "name": "Renașterea",
+      "category": "place_of_worship",
+      "lat": 45.0295074,
+      "lon": 23.2774434,
+      "tags": {
+        "building": "retail",
+        "building:levels": "1",
+        "denomination": "orthodox",
+        "level": "0",
+        "name": "Renașterea",
+        "religion": "christian",
+        "shop": "religion"
+      }
+    },
+    {
+      "id": "node/8293452690",
+      "osm_id": 8293452690,
+      "osm_type": "node",
+      "name": "Capela Ortodoxă",
+      "category": "place_of_worship",
+      "lat": 45.041204,
+      "lon": 23.2897601,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "chapel",
+        "denomination": "orthodox",
+        "name": "Capela Ortodoxă",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/249529177",
+      "osm_id": 249529177,
+      "osm_type": "way",
+      "name": "Catedrala Sfinții Arhangheli Mihail și Gavril",
+      "category": "place_of_worship",
+      "lat": 45.0410036,
+      "lon": 23.2723205,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Catedrala Sfinții Arhangheli Mihail și Gavril",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/256921664",
+      "osm_id": 256921664,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.0051282,
+      "lon": 23.25656,
+      "tags": {
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/415792306",
+      "osm_id": 415792306,
+      "osm_type": "way",
+      "name": "Biserica Înălțarea Domnului",
+      "category": "place_of_worship",
+      "lat": 45.0235237,
+      "lon": 23.2694481,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica Înălțarea Domnului",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/417638443",
+      "osm_id": 417638443,
+      "osm_type": "way",
+      "name": "Cimitir",
+      "category": "place_of_worship",
+      "lat": 45.0566997,
+      "lon": 23.2832058,
+      "tags": {
+        "addr:city": "Târgu Jiu",
+        "amenity": "grave_yard",
+        "name": "Cimitir",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/420453619",
+      "osm_id": 420453619,
+      "osm_type": "way",
+      "name": "Biserica Adormirii Maicii Domnului",
+      "category": "place_of_worship",
+      "lat": 45.0684434,
+      "lon": 23.2916327,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Biserica Adormirii Maicii Domnului",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/428063967",
+      "osm_id": 428063967,
+      "osm_type": "way",
+      "name": "Biserica Sfântul Nicolae",
+      "category": "place_of_worship",
+      "lat": 45.0485619,
+      "lon": 23.2749047,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica Sfântul Nicolae",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/437080183",
+      "osm_id": 437080183,
+      "osm_type": "way",
+      "name": "Biserica",
+      "category": "place_of_worship",
+      "lat": 45.0321483,
+      "lon": 23.2713067,
+      "tags": {
+        "building": "church",
+        "name": "Biserica"
+      }
+    },
+    {
+      "id": "way/444277044",
+      "osm_id": 444277044,
+      "osm_type": "way",
+      "name": "Biserica Sfinții Apostoli Petru și Pavel",
+      "category": "place_of_worship",
+      "lat": 45.038247,
+      "lon": 23.2788332,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica Sfinții Apostoli Petru și Pavel",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/444284759",
+      "osm_id": 444284759,
+      "osm_type": "way",
+      "name": "Biserica Sfânta Treime",
+      "category": "place_of_worship",
+      "lat": 45.0296766,
+      "lon": 23.2773919,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica Sfânta Treime",
+        "name:en": "Church of the Holy Trinity",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/444962744",
+      "osm_id": 444962744,
+      "osm_type": "way",
+      "name": "Biserică",
+      "category": "place_of_worship",
+      "lat": 45.0346556,
+      "lon": 23.3088137,
+      "tags": {
+        "building": "church",
+        "name": "Biserică"
+      }
+    },
+    {
+      "id": "way/445206770",
+      "osm_id": 445206770,
+      "osm_type": "way",
+      "name": "Biserică",
+      "category": "place_of_worship",
+      "lat": 45.0326747,
+      "lon": 23.2590526,
+      "tags": {
+        "building": "church",
+        "name": "Biserică"
+      }
+    },
+    {
+      "id": "way/890799922",
+      "osm_id": 890799922,
+      "osm_type": "way",
+      "name": "Biserica Sf. Împărați Constantin şi Elena",
+      "category": "place_of_worship",
+      "lat": 45.0370127,
+      "lon": 23.2711132,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica Sf. Împărați Constantin şi Elena",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/892402654",
+      "osm_id": 892402654,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.0469799,
+      "lon": 23.2329342,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/892764185",
+      "osm_id": 892764185,
+      "osm_type": "way",
+      "name": "Cimitirul municipal Târgu-Jiu",
+      "category": "place_of_worship",
+      "lat": 45.0425338,
+      "lon": 23.2923884,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitirul municipal Târgu-Jiu",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1276096352",
+      "osm_id": 1276096352,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.009733,
+      "lon": 23.3146269,
+      "tags": {
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1280599471",
+      "osm_id": 1280599471,
+      "osm_type": "way",
+      "name": "Biserică",
+      "category": "place_of_worship",
+      "lat": 45.0673546,
+      "lon": 23.3371906,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "height": "9",
+        "name": "Biserică",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1408148115",
+      "osm_id": 1408148115,
+      "osm_type": "way",
+      "name": "Școala Generală Alexandru Ștefulescu",
+      "category": "place_of_worship",
+      "lat": 45.0380938,
+      "lon": 23.2763458,
+      "tags": {
+        "addr:city": "Târgu Jiu",
+        "addr:postcode": "210135",
+        "addr:street": "Calea Eroilor",
+        "amenity": "school",
+        "denomination": "romanian_orthodox",
+        "grades": "0-8",
+        "mobile": "0253212679",
+        "name": "Școala Generală Alexandru Ștefulescu",
+        "religion": "christian"
+      }
+    }
+  ]
+}

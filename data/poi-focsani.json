@@ -1,0 +1,866 @@
+[
+  {
+    "id": "node-606322684",
+    "name": "Liceul nr. 1",
+    "type": "school",
+    "subcategory": "college",
+    "lat": 45.6882125,
+    "lng": 27.1909599,
+    "osmType": "node"
+  },
+  {
+    "id": "node-606327801",
+    "name": "Universitatea \"George Barițiu\"",
+    "type": "school",
+    "subcategory": "university",
+    "lat": 45.6774701,
+    "lng": 27.1766953,
+    "osmType": "node"
+  },
+  {
+    "id": "node-4196585212",
+    "name": "Colegiul Tehnic \"Edmund Nicolau\"",
+    "type": "school",
+    "subcategory": "college",
+    "lat": 45.6883312,
+    "lng": 27.1901398,
+    "osmType": "node"
+  },
+  {
+    "id": "node-4212308690",
+    "name": "Policlinica 2",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 45.6893734,
+    "lng": 27.1873752,
+    "osmType": "node"
+  },
+  {
+    "id": "node-7176822585",
+    "name": "Cabinet Medical Neurologie - dr. Buleu Mariana",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 45.6919894,
+    "lng": 27.1877328,
+    "osmType": "node"
+  },
+  {
+    "id": "node-8754914563",
+    "name": "Școala Generală Golești",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.6635592,
+    "lng": 27.1649362,
+    "osmType": "node"
+  },
+  {
+    "id": "node-8911007856",
+    "name": "Cabinet medical Psihomedicus Clinic",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 45.6961611,
+    "lng": 27.1825962,
+    "osmType": "node"
+  },
+  {
+    "id": "node-10776484033",
+    "name": "CMI. Dr. Gavriliță Maxim",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 45.6893569,
+    "lng": 27.1816044,
+    "osmType": "node"
+  },
+  {
+    "id": "node-11254642053",
+    "name": "Affidea",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 45.7108056,
+    "lng": 27.1834963,
+    "osmType": "node"
+  },
+  {
+    "id": "node-13230444072",
+    "name": "CMI Iacob",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 45.7030769,
+    "lng": 27.1714436,
+    "osmType": "node"
+  },
+  {
+    "id": "way-414686412",
+    "name": "Biserica „Nașterea Sfântului Ioan Botezătorul”",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.696056,
+    "lng": 27.1852612,
+    "osmType": "way"
+  },
+  {
+    "id": "way-414686437",
+    "name": "Biserica „Sfântul Nicolae” - Vechi",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.6959145,
+    "lng": 27.1823204,
+    "osmType": "way"
+  },
+  {
+    "id": "way-414686441",
+    "name": "Școala Generală Nr. 10 „Duliu Zamfirescu\"",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.6910252,
+    "lng": 27.183606,
+    "osmType": "way"
+  },
+  {
+    "id": "way-414686463",
+    "name": "Biserica „Adormirea Maicii Domnului” - Donie",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.6946176,
+    "lng": 27.186962,
+    "osmType": "way"
+  },
+  {
+    "id": "way-414755081",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 45.6914176,
+    "lng": 27.1884467,
+    "osmType": "way"
+  },
+  {
+    "id": "way-414755115",
+    "name": "Biserica „Sfinții Voievozi” - Stamatinești",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.699008,
+    "lng": 27.1917467,
+    "osmType": "way"
+  },
+  {
+    "id": "way-414755118",
+    "name": "Colegiul Național „Unirea\"",
+    "type": "school",
+    "subcategory": "college",
+    "lat": 45.6979453,
+    "lng": 27.1915716,
+    "osmType": "way"
+  },
+  {
+    "id": "way-415117004",
+    "name": "Biserica „Sfinții Împărați Constantin și Elena”",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.692531,
+    "lng": 27.1853956,
+    "osmType": "way"
+  },
+  {
+    "id": "way-415118962",
+    "name": "Școala Generală Nr. 3 „Oana-Diana Renea\"",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.6945171,
+    "lng": 27.1915602,
+    "osmType": "way"
+  },
+  {
+    "id": "way-415254961",
+    "name": "Școala Generală Nr. 9 „Ștefan cel Mare\"",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.6983333,
+    "lng": 27.1816289,
+    "osmType": "way"
+  },
+  {
+    "id": "way-415263306",
+    "name": "Școala Generală Nr. 8 „Alexandru Vlahuță\"",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.67896,
+    "lng": 27.1823512,
+    "osmType": "way"
+  },
+  {
+    "id": "way-714736570",
+    "name": "Grădinița cu Program Normal Nr. 4",
+    "type": "school",
+    "subcategory": "childcare",
+    "lat": 45.7039918,
+    "lng": 27.1867849,
+    "osmType": "way"
+  },
+  {
+    "id": "way-714736576",
+    "name": "Biserica „Sfântul Nicolae\" Stroe",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.7015935,
+    "lng": 27.1882487,
+    "osmType": "way"
+  },
+  {
+    "id": "way-714736599",
+    "name": "Biserica „Adormirea Maicii Domnului” - Precista",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.6974877,
+    "lng": 27.1836918,
+    "osmType": "way"
+  },
+  {
+    "id": "way-714736600",
+    "name": "Biserica „Sfântul Gheorghe” - Nord",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.7033777,
+    "lng": 27.1827927,
+    "osmType": "way"
+  },
+  {
+    "id": "way-714736601",
+    "name": "Biserica „Proorocul Samuil”",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.7042591,
+    "lng": 27.1855098,
+    "osmType": "way"
+  },
+  {
+    "id": "way-714736602",
+    "name": "Biserica „Sfântul Nicolae” - Nou",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.694825,
+    "lng": 27.1837625,
+    "osmType": "way"
+  },
+  {
+    "id": "way-714736603",
+    "name": "Biserica Armenească „Sfântul Gheorghe”",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.6959785,
+    "lng": 27.1797864,
+    "osmType": "way"
+  },
+  {
+    "id": "way-714764363",
+    "name": "Biserica „Nașterea Maicii Domnului” - Săpunaru",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.6988378,
+    "lng": 27.1883519,
+    "osmType": "way"
+  },
+  {
+    "id": "way-935051596",
+    "name": "Biserica „Sfinții Apostoli Petru și Paul\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.700204,
+    "lng": 27.1902746,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1082689490",
+    "name": "Biserica \"Sfântul Nicolae\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.7137359,
+    "lng": 27.2666024,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1082743965",
+    "name": "Biserica „Sfântul Dumitru\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.6976695,
+    "lng": 27.1853955,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1082743966",
+    "name": "Biserica „Adormirea Maicii Domnului”",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.6934726,
+    "lng": 27.1749353,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1082743967",
+    "name": "Biserica „Intrarea Maicii Domnului în Biserică”",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.6962649,
+    "lng": 27.1770049,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1082743968",
+    "name": "Biserica „Intrarea Maicii Domnului în Biserică”, „Ovidenia”",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.6983917,
+    "lng": 27.1810706,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1082743969",
+    "name": "Biserica „Sfinții Apostoli Petru și Pavel\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.7079088,
+    "lng": 27.1834215,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1082743970",
+    "name": "Biserica „Sfântul Gheorghe” - Sud",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.6934908,
+    "lng": 27.1662826,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1082743971",
+    "name": "Biserica „Sfântul Nicolae”",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.6950855,
+    "lng": 27.1733258,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1082743972",
+    "name": "Biserica „Sfântul Spiridon”",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.6952621,
+    "lng": 27.1709381,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1082743973",
+    "name": "Biserica „Sfinții Voievozi”",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.6982294,
+    "lng": 27.1720068,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1088934510",
+    "name": "Biserica „Sfântul Andrei\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.6915447,
+    "lng": 27.1929647,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1122161254",
+    "name": "Biserica „Sfântul Nicolae\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.6625254,
+    "lng": 27.1621783,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1126681513",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.7317704,
+    "lng": 27.2243113,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1143659826",
+    "name": "Biserica Armenească „Sfânta Maria\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.6993298,
+    "lng": 27.1783364,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1143659827",
+    "name": "Catedrala \"Sfânta Parascheva\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.6998179,
+    "lng": 27.1830529,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1143728562",
+    "name": "Școala Nereju",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.7231943,
+    "lng": 27.2320068,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1146098030",
+    "name": "Grădinița cu Program Prelungit Nr. 23",
+    "type": "school",
+    "subcategory": "childcare",
+    "lat": 45.7023133,
+    "lng": 27.1780159,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1146098052",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.7020711,
+    "lng": 27.1908452,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1146098055",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.7029517,
+    "lng": 27.1913894,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1146098059",
+    "name": "Grădinița cu Program Prelungit Nr. 2",
+    "type": "school",
+    "subcategory": "childcare",
+    "lat": 45.7016849,
+    "lng": 27.1924464,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1146098060",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.7013551,
+    "lng": 27.192653,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1146098062",
+    "name": "Biserica „Sfântul Pantelimon\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.7041538,
+    "lng": 27.1919022,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1146098072",
+    "name": "Grădinița cu Program Prelungit Nr. 18",
+    "type": "school",
+    "subcategory": "childcare",
+    "lat": 45.6944206,
+    "lng": 27.1832153,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1146098078",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "university",
+    "lat": 45.6993317,
+    "lng": 27.1868597,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1146098123",
+    "name": "Biserica „Sfântul Mina\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.6957967,
+    "lng": 27.1994398,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1146098126",
+    "name": "Biserica „Sfântul Dumitru\" - Bahne",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.6924046,
+    "lng": 27.2022739,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1148562774",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.6595095,
+    "lng": 27.2531444,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1150559348",
+    "name": "Fără nume",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 45.7044843,
+    "lng": 27.1940929,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1150559359",
+    "name": "Fără nume",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 45.7037599,
+    "lng": 27.1950049,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1150559360",
+    "name": "Spitalul de Boli Infecțioase",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 45.7049326,
+    "lng": 27.1953938,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1150559394",
+    "name": "Școala Gimnazială Nr. 5 „Anghel Saligny\"",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.6988686,
+    "lng": 27.1930342,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1150559397",
+    "name": "Colegiul Tehnic „Gheorghe Asachi”",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.6995921,
+    "lng": 27.1919129,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1150559406",
+    "name": "Școala Generală Nr. 2 „Ion Basgan\"",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.7046975,
+    "lng": 27.1853129,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1150559427",
+    "name": "Colegiul Tehnic „Valeriu D. Cotea\"",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.7026145,
+    "lng": 27.1912826,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1150559438",
+    "name": "Centrul Școlar pentru Educație Incluzivă „Elena Doamna\"",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.7069863,
+    "lng": 27.1937972,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1150559440",
+    "name": "Liceul de Artă „Gheorghe Tattarescu\"",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.6939675,
+    "lng": 27.1910227,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1150559443",
+    "name": "Colegiul Tehnic Auto „Traian Vuia\"",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.6934795,
+    "lng": 27.1762279,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1150559444",
+    "name": "Școala Generală Nr. 7 „Adrian Păunescu\"",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.7032862,
+    "lng": 27.1737534,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1150559447",
+    "name": "Școala Postliceală Sanitară „Vasile Alecsandri\"",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.7063382,
+    "lng": 27.173723,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1150559448",
+    "name": "Școala Postliceală „Ana Aslan\"",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.7064821,
+    "lng": 27.173752,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1150559449",
+    "name": "Liceul Tehnologic „G.G. Longinescu\"",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.7096653,
+    "lng": 27.1855265,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1150559450",
+    "name": "Colegiul Economic „Mihail Kogălniceanu\"",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.6996875,
+    "lng": 27.1720272,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1150559452",
+    "name": "Colegiul Național Pedagogic „Spiru Haret\"",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.6912401,
+    "lng": 27.1799045,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1150559456",
+    "name": "Colegiul Tehnic „Ion Mincu\"",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.6883351,
+    "lng": 27.1918098,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1150559457",
+    "name": "Grădinița cu Program Prelungit Nr. 1",
+    "type": "school",
+    "subcategory": "childcare",
+    "lat": 45.6793565,
+    "lng": 27.181242,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1150562820",
+    "name": "Spitalul Militar de Urgenţă „Dr. Alexandru Popescu”",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 45.696796,
+    "lng": 27.1905659,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1150955321",
+    "name": "Grădinița cu Program Normal Nr. 3",
+    "type": "school",
+    "subcategory": "childcare",
+    "lat": 45.6976183,
+    "lng": 27.1755539,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1150955323",
+    "name": "Grădinița cu Program Prelungit Nr. 7",
+    "type": "school",
+    "subcategory": "childcare",
+    "lat": 45.6900821,
+    "lng": 27.1833044,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1150955324",
+    "name": "Grădinița cu Program Prelungit Nr. 13",
+    "type": "school",
+    "subcategory": "childcare",
+    "lat": 45.6777544,
+    "lng": 27.1834415,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1150955376",
+    "name": "Biserica „Înălțarea Domnului\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.6785354,
+    "lng": 27.1811766,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1150955383",
+    "name": "Grădinița cu Program Prelungit Nr. 15",
+    "type": "school",
+    "subcategory": "childcare",
+    "lat": 45.7053801,
+    "lng": 27.1723692,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1150955385",
+    "name": "Grădinița cu Program Prelungit Nr. 16",
+    "type": "school",
+    "subcategory": "childcare",
+    "lat": 45.6937357,
+    "lng": 27.1938235,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1158031725",
+    "name": "Biserica „Sfinții Trei Ierarhi\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.7033007,
+    "lng": 27.1745796,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1158031753",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.678111,
+    "lng": 27.1761087,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1158031761",
+    "name": "Sinagoga „Ahai Vereai\"",
+    "type": "church",
+    "subcategory": "jewish",
+    "lat": 45.7005339,
+    "lng": 27.1864832,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1158526419",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.6980906,
+    "lng": 27.1719791,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1158526507",
+    "name": "Biserica „Sfinții Antonie și Sava\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.6899462,
+    "lng": 27.1934184,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1158750551",
+    "name": "Biserica „Ștefan cel Mare și Sfântul Ierarh Nicolae\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.6800637,
+    "lng": 27.1868046,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1158750634",
+    "name": "Biserica „Tuturor Sfinților\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.6781862,
+    "lng": 27.187095,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1158750737",
+    "name": "Biserica „Pogorârea Sfântului Duh\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.6744617,
+    "lng": 27.1807086,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1158960503",
+    "name": "Biserica Baptistă Betania",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.6966862,
+    "lng": 27.1745929,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1161796535",
+    "name": "Capela Militară „Sfântul Prooroc Ilie Tesviteanul\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.6857783,
+    "lng": 27.1847944,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1190781232",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.6613165,
+    "lng": 27.1670504,
+    "osmType": "way"
+  },
+  {
+    "id": "relation-13292032",
+    "name": "Fără nume",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 45.7044549,
+    "lng": 27.1933158,
+    "osmType": "relation"
+  },
+  {
+    "id": "relation-15547445",
+    "name": "Spitalul Județean de Urgență „Sfântul Pantelimon\"",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 45.7041539,
+    "lng": 27.1938359,
+    "osmType": "relation"
+  },
+  {
+    "id": "relation-15547446",
+    "name": "Colegiul Național „Alexandru Ioan Cuza\"",
+    "type": "school",
+    "subcategory": "college",
+    "lat": 45.7026087,
+    "lng": 27.1902032,
+    "osmType": "relation"
+  }
+]

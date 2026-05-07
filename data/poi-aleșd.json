@@ -1,0 +1,531 @@
+{
+  "city": "Aleșd",
+  "generated_at": "2026-04-23T09:21:37.959Z",
+  "counts": {
+    "total": 31,
+    "schools": 11,
+    "churches": 20
+  },
+  "pois": [
+    {
+      "id": "node/4096956089",
+      "osm_id": 4096956089,
+      "osm_type": "node",
+      "name": "Colegiul Tehnic Alexandru Roman",
+      "category": "education",
+      "lat": 47.0556169,
+      "lon": 22.3953343,
+      "tags": {
+        "addr:city": "Aleșd",
+        "addr:housenumber": "4",
+        "addr:postcode": "415100",
+        "addr:street": "Strada Ciocârliei",
+        "amenity": "school",
+        "name": "Colegiul Tehnic Alexandru Roman"
+      }
+    },
+    {
+      "id": "way/407662877",
+      "osm_id": 407662877,
+      "osm_type": "way",
+      "name": "Liceul Teoretic Constantin Serban",
+      "category": "education",
+      "lat": 47.0576347,
+      "lon": 22.3974725,
+      "tags": {
+        "addr:city": "Aleșd",
+        "addr:housenumber": "1",
+        "addr:postcode": "415100",
+        "addr:street": "Cartierul Soimul",
+        "amenity": "school",
+        "name": "Liceul Teoretic Constantin Serban"
+      }
+    },
+    {
+      "id": "way/407666387",
+      "osm_id": 407666387,
+      "osm_type": "way",
+      "name": "Colegiu Tehnic Alexandru Roman",
+      "category": "education",
+      "lat": 47.0560582,
+      "lon": 22.3948594,
+      "tags": {
+        "addr:city": "Aleșd",
+        "addr:postcode": "415100",
+        "amenity": "school",
+        "name": "Colegiu Tehnic Alexandru Roman"
+      }
+    },
+    {
+      "id": "way/417361976",
+      "osm_id": 417361976,
+      "osm_type": "way",
+      "name": "Liceul Teoretic \"Constantin Șerban\" Aleșd",
+      "category": "education",
+      "lat": 47.0576943,
+      "lon": 22.397391,
+      "tags": {
+        "addr:city": "Aleșd",
+        "addr:housenumber": "1",
+        "addr:postcode": "415100",
+        "addr:street": "Strada Șoimu",
+        "building": "school",
+        "building:levels": "2",
+        "name": "Liceul Teoretic \"Constantin Șerban\" Aleșd"
+      }
+    },
+    {
+      "id": "way/417363281",
+      "osm_id": 417363281,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.0559054,
+      "lon": 22.3954648,
+      "tags": {
+        "addr:city": "Aleșd",
+        "addr:street": "Strada Ciocârliei",
+        "building": "school",
+        "building:levels": "3"
+      }
+    },
+    {
+      "id": "way/417363284",
+      "osm_id": 417363284,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.056045,
+      "lon": 22.3957234,
+      "tags": {
+        "addr:city": "Aleșd",
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/417363286",
+      "osm_id": 417363286,
+      "osm_type": "way",
+      "name": "Sala de Sport",
+      "category": "education",
+      "lat": 47.055657,
+      "lon": 22.3948728,
+      "tags": {
+        "building": "school",
+        "name": "Sala de Sport"
+      }
+    },
+    {
+      "id": "way/418524790",
+      "osm_id": 418524790,
+      "osm_type": "way",
+      "name": "Scoala cu clasele 1-4",
+      "category": "education",
+      "lat": 47.0561713,
+      "lon": 22.3938349,
+      "tags": {
+        "addr:city": "Aleșd",
+        "addr:postcode": "415100",
+        "addr:street": "Strada Șoimu",
+        "building": "school",
+        "building:levels": "4",
+        "name": "Scoala cu clasele 1-4"
+      }
+    },
+    {
+      "id": "way/418524791",
+      "osm_id": 418524791,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.0564707,
+      "lon": 22.3941999,
+      "tags": {
+        "building": "school",
+        "building:levels": "4"
+      }
+    },
+    {
+      "id": "way/430648934",
+      "osm_id": 430648934,
+      "osm_type": "way",
+      "name": "Gradinița Crestină cu Program Normal \"Samuel\"",
+      "category": "education",
+      "lat": 47.0524439,
+      "lon": 22.4362266,
+      "tags": {
+        "addr:city": "Tinăud",
+        "addr:housenumber": "82",
+        "addr:postcode": "415103",
+        "amenity": "kindergarten",
+        "name": "Gradinița Crestină cu Program Normal \"Samuel\""
+      }
+    },
+    {
+      "id": "way/1450824510",
+      "osm_id": 1450824510,
+      "osm_type": "way",
+      "name": "Gradinita cu Program Prelungit Nr.1",
+      "category": "education",
+      "lat": 47.0572552,
+      "lon": 22.3955552,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Gradinita cu Program Prelungit Nr.1"
+      }
+    },
+    {
+      "id": "node/1794838879",
+      "osm_id": 1794838879,
+      "osm_type": "node",
+      "name": "Biserica",
+      "category": "place_of_worship",
+      "lat": 47.0520778,
+      "lon": 22.4332784,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/5635728084",
+      "osm_id": 5635728084,
+      "osm_type": "node",
+      "name": "Biserică",
+      "category": "place_of_worship",
+      "lat": 47.0714693,
+      "lon": 22.4111828,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserică",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/8601395624",
+      "osm_id": 8601395624,
+      "osm_type": "node",
+      "name": "Biserica ortodoxă",
+      "category": "place_of_worship",
+      "lat": 47.1632077,
+      "lon": 22.416876,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica ortodoxă",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/9275010210",
+      "osm_id": 9275010210,
+      "osm_type": "node",
+      "name": "Biserica Reformată Aleșd",
+      "category": "place_of_worship",
+      "lat": 47.0618887,
+      "lon": 22.3951209,
+      "tags": {
+        "addr:city": "Aleșd",
+        "addr:housenumber": "23",
+        "addr:postcode": "415100",
+        "addr:street": "Strada Bucegi",
+        "amenity": "place_of_worship",
+        "denomination": "reformed",
+        "name": "Biserica Reformată Aleșd",
+        "name:hu": "Élesdi Református Templom",
+        "name:ro": "Biserica Reformată Aleșd",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/379927847",
+      "osm_id": 379927847,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 47.1447884,
+      "lon": 22.3809947,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "monastery",
+        "denomination": "orthodox",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/383154829",
+      "osm_id": 383154829,
+      "osm_type": "way",
+      "name": "Biserica Catolică",
+      "category": "place_of_worship",
+      "lat": 47.0588696,
+      "lon": 22.3996306,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "roman_catholic",
+        "name": "Biserica Catolică",
+        "name:hu": "Szeplőtelen fogantatás-templom",
+        "name:ro": "Biserica Catolică",
+        "religion": "christian",
+        "url:miserend": "http://miserend.hu/?templom=4737"
+      }
+    },
+    {
+      "id": "way/417356032",
+      "osm_id": 417356032,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă",
+      "category": "place_of_worship",
+      "lat": 47.0598976,
+      "lon": 22.3972512,
+      "tags": {
+        "addr:city": "Aleșd",
+        "addr:postcode": "415100",
+        "addr:street": "Strada Piața Unirii",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/417356874",
+      "osm_id": 417356874,
+      "osm_type": "way",
+      "name": "Biserica Reformată Aleșd",
+      "category": "place_of_worship",
+      "lat": 47.0618678,
+      "lon": 22.3951852,
+      "tags": {
+        "addr:city": "Aleșd",
+        "addr:housenumber": "23",
+        "addr:postcode": "415100",
+        "addr:street": "Strada Bucegi",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "reformed",
+        "name": "Biserica Reformată Aleșd",
+        "name:hu": "Élesdi Református Templom",
+        "name:ro": "Biserica Reformată Aleșd",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/417357291",
+      "osm_id": 417357291,
+      "osm_type": "way",
+      "name": "Biserica Penticostală „Muntele Sionului”",
+      "category": "place_of_worship",
+      "lat": 47.0617943,
+      "lon": 22.39708,
+      "tags": {
+        "addr:city": "Aleșd",
+        "addr:postcode": "415100",
+        "addr:street": "Strada Bucegi",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "pentecostal",
+        "name": "Biserica Penticostală „Muntele Sionului”",
+        "name:ro": "Biserica Penticostală ,,Muntele Sionului\"",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/417357758",
+      "osm_id": 417357758,
+      "osm_type": "way",
+      "name": "Biserica Creștină Baptistă Română \"Sfânta Treime\"",
+      "category": "place_of_worship",
+      "lat": 47.0585765,
+      "lon": 22.3936968,
+      "tags": {
+        "addr:city": "Aleșd",
+        "addr:postcode": "415100",
+        "addr:street": "Strada Pârâului",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "baptist",
+        "name": "Biserica Creștină Baptistă Română \"Sfânta Treime\"",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/417358348",
+      "osm_id": 417358348,
+      "osm_type": "way",
+      "name": "Biserica Nașterea Sfântului Ioan Botezătorul",
+      "category": "place_of_worship",
+      "lat": 47.0560583,
+      "lon": 22.4017703,
+      "tags": {
+        "addr:city": "Aleșd",
+        "addr:postcode": "415100",
+        "addr:street": "Strada Oborului",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica Nașterea Sfântului Ioan Botezătorul",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/417360961",
+      "osm_id": 417360961,
+      "osm_type": "way",
+      "name": "Biserica Greco-Catolica Alesd",
+      "category": "place_of_worship",
+      "lat": 47.0601258,
+      "lon": 22.3986599,
+      "tags": {
+        "addr:city": "Aleșd",
+        "addr:postcode": "415100",
+        "addr:street": "Strada Lalelelor",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "greek_catholic",
+        "name": "Biserica Greco-Catolica Alesd",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/418050649",
+      "osm_id": 418050649,
+      "osm_type": "way",
+      "name": "Biserica Baptistă Maghiară",
+      "category": "place_of_worship",
+      "lat": 47.0608621,
+      "lon": 22.3999242,
+      "tags": {
+        "addr:city": "Aleșd",
+        "addr:housenumber": "21",
+        "addr:postcode": "415100",
+        "addr:street": "Strada Avram Iancu",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "baptist",
+        "name": "Biserica Baptistă Maghiară",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/430647578",
+      "osm_id": 430647578,
+      "osm_type": "way",
+      "name": "Biserica Creștină Baptistă \"Harul\"",
+      "category": "place_of_worship",
+      "lat": 47.052217,
+      "lon": 22.4362407,
+      "tags": {
+        "addr:city": "Tinăud",
+        "addr:housenumber": "82",
+        "addr:postcode": "415103",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "building:levels": "2",
+        "denomination": "baptist",
+        "name": "Biserica Creștină Baptistă \"Harul\"",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/430648935",
+      "osm_id": 430648935,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 47.052219,
+      "lon": 22.4361521,
+      "tags": {
+        "denomination": "baptist",
+        "landuse": "religious",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/430649244",
+      "osm_id": 430649244,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 47.0546928,
+      "lon": 22.443157,
+      "tags": {
+        "amenity": "grave_yard",
+        "denomination": "baptist",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/431342278",
+      "osm_id": 431342278,
+      "osm_type": "way",
+      "name": "Biserica",
+      "category": "place_of_worship",
+      "lat": 47.1583975,
+      "lon": 22.4273029,
+      "tags": {
+        "addr:city": "Pădurea Neagră",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Biserica",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/431342280",
+      "osm_id": 431342280,
+      "osm_type": "way",
+      "name": "Biserica Creștină Baptistă din Peștiș",
+      "category": "place_of_worship",
+      "lat": 47.0727427,
+      "lon": 22.4137993,
+      "tags": {
+        "addr:city": "Peștiș",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "baptist",
+        "name": "Biserica Creștină Baptistă din Peștiș",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/927013778",
+      "osm_id": 927013778,
+      "osm_type": "way",
+      "name": "Biserica Romano-Catolică",
+      "category": "place_of_worship",
+      "lat": 47.1637572,
+      "lon": 22.4149292,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "roman_catholic",
+        "name": "Biserica Romano-Catolică",
+        "name:hu": "Szűz Mária neve templom",
+        "religion": "christian",
+        "url:miserend": "https://miserend.hu/templom/4893"
+      }
+    },
+    {
+      "id": "way/1280168826",
+      "osm_id": 1280168826,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 47.0731844,
+      "lon": 22.4119798,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "religion": "christian"
+      }
+    }
+  ]
+}

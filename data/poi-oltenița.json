@@ -1,0 +1,267 @@
+{
+  "city": "Oltenița",
+  "generated_at": "2026-04-23T09:49:56.924Z",
+  "counts": {
+    "total": 16,
+    "schools": 8,
+    "churches": 8
+  },
+  "pois": [
+    {
+      "id": "node/2627452402",
+      "osm_id": 2627452402,
+      "osm_type": "node",
+      "name": "Liceul Nicolae Bălcescu",
+      "category": "education",
+      "lat": 44.077116,
+      "lon": 26.6380418,
+      "tags": {
+        "addr:city": "Oltenița",
+        "addr:housenumber": "3",
+        "addr:postcode": "915400",
+        "addr:street": "Șoseaua Portului",
+        "amenity": "school",
+        "name": "Liceul Nicolae Bălcescu"
+      }
+    },
+    {
+      "id": "node/2627476609",
+      "osm_id": 2627476609,
+      "osm_type": "node",
+      "name": "Liceul Neagoe Basarab",
+      "category": "education",
+      "lat": 44.0833469,
+      "lon": 26.6376504,
+      "tags": {
+        "addr:city": "Oltenița",
+        "addr:postcode": "915400",
+        "addr:street": "Strada Mihai Eminescu",
+        "amenity": "school",
+        "name": "Liceul Neagoe Basarab"
+      }
+    },
+    {
+      "id": "node/12031728899",
+      "osm_id": 12031728899,
+      "osm_type": "node",
+      "name": "Scoala nr. 5 Oltenita",
+      "category": "education",
+      "lat": 44.0847591,
+      "lon": 26.6320848,
+      "tags": {
+        "amenity": "school",
+        "name": "Scoala nr. 5 Oltenita"
+      }
+    },
+    {
+      "id": "node/12031728905",
+      "osm_id": 12031728905,
+      "osm_type": "node",
+      "name": "Clubul Copiilor Oltenita",
+      "category": "education",
+      "lat": 44.0933945,
+      "lon": 26.636839,
+      "tags": {
+        "amenity": "school",
+        "name": "Clubul Copiilor Oltenita"
+      }
+    },
+    {
+      "id": "node/12031738674",
+      "osm_id": 12031738674,
+      "osm_type": "node",
+      "name": "Scoala nr 2 Oltenita",
+      "category": "education",
+      "lat": 44.0932441,
+      "lon": 26.6408566,
+      "tags": {
+        "amenity": "school",
+        "name": "Scoala nr 2 Oltenita"
+      }
+    },
+    {
+      "id": "node/12031745901",
+      "osm_id": 12031745901,
+      "osm_type": "node",
+      "name": "Scoala nr. 1 Oltenita",
+      "category": "education",
+      "lat": 44.0835752,
+      "lon": 26.6391735,
+      "tags": {
+        "amenity": "school",
+        "name": "Scoala nr. 1 Oltenita"
+      }
+    },
+    {
+      "id": "node/12031762285",
+      "osm_id": 12031762285,
+      "osm_type": "node",
+      "name": "Scoala nr. 3 Oltenita",
+      "category": "education",
+      "lat": 44.1004343,
+      "lon": 26.639346,
+      "tags": {
+        "amenity": "school",
+        "name": "Scoala nr. 3 Oltenita"
+      }
+    },
+    {
+      "id": "way/257146124",
+      "osm_id": 257146124,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.0833502,
+      "lon": 26.6377459,
+      "tags": {
+        "amenity": "college"
+      }
+    },
+    {
+      "id": "node/4999281721",
+      "osm_id": 4999281721,
+      "osm_type": "node",
+      "name": "Sala Regatului a Martorilor lui Iehova",
+      "category": "place_of_worship",
+      "lat": 44.0810298,
+      "lon": 26.6389968,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "jehovahs_witness",
+        "name": "Sala Regatului a Martorilor lui Iehova",
+        "name:ro": "Sala Regatului a Martorilor lui Iehova",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/226975269",
+      "osm_id": 226975269,
+      "osm_type": "way",
+      "name": "Biserica „Înălțarea Domnului\" - Eroi",
+      "category": "place_of_worship",
+      "lat": 44.0936712,
+      "lon": 26.6402509,
+      "tags": {
+        "addr:city": "Oltenița",
+        "addr:street": "Bulevardul Tineretului",
+        "amenity": "place_of_worship",
+        "architect": "Henrieta Delavrancea-Gibory",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica „Înălțarea Domnului\" - Eroi",
+        "religion": "christian",
+        "start_date": "1939"
+      }
+    },
+    {
+      "id": "way/261462333",
+      "osm_id": 261462333,
+      "osm_type": "way",
+      "name": "Sfântul Gheorghe",
+      "category": "place_of_worship",
+      "lat": 44.0801022,
+      "lon": 26.6355297,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Sfântul Gheorghe",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1056860419",
+      "osm_id": 1056860419,
+      "osm_type": "way",
+      "name": "Biserica „Sfinții Împărați Constantin și Elena\"",
+      "category": "place_of_worship",
+      "lat": 44.090432,
+      "lon": 26.6542735,
+      "tags": {
+        "addr:city": "Oltenița",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica „Sfinții Împărați Constantin și Elena\"",
+        "religion": "christian",
+        "start_date": "2012"
+      }
+    },
+    {
+      "id": "way/1168004833",
+      "osm_id": 1168004833,
+      "osm_type": "way",
+      "name": "Biserica „Sfânta Cuvioasă Parascheva\"",
+      "category": "place_of_worship",
+      "lat": 44.0928655,
+      "lon": 26.6433356,
+      "tags": {
+        "addr:city": "Oltenița",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica „Sfânta Cuvioasă Parascheva\"",
+        "religion": "christian",
+        "start_date": "1863"
+      }
+    },
+    {
+      "id": "way/1168004834",
+      "osm_id": 1168004834,
+      "osm_type": "way",
+      "name": "Biserica „Sfântul Nicolae\"",
+      "category": "place_of_worship",
+      "lat": 44.087286,
+      "lon": 26.6364387,
+      "tags": {
+        "addr:city": "Oltenița",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "heritage": "2",
+        "heritage:operator": "lmi",
+        "name": "Biserica „Sfântul Nicolae\"",
+        "ref:RO:lmi": "CL-II-m-B-14702.01",
+        "religion": "christian",
+        "start_date": "1860"
+      }
+    },
+    {
+      "id": "way/1168004836",
+      "osm_id": 1168004836,
+      "osm_type": "way",
+      "name": "Biserica „Sfântul Nicolae\" - Oltenița Nord",
+      "category": "place_of_worship",
+      "lat": 44.0990922,
+      "lon": 26.6407338,
+      "tags": {
+        "addr:city": "Oltenița",
+        "amenity": "place_of_worship",
+        "architect": "Henrieta Delavrancea-Gibory",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica „Sfântul Nicolae\" - Oltenița Nord",
+        "religion": "christian",
+        "start_date": "1937"
+      }
+    },
+    {
+      "id": "way/1168004849",
+      "osm_id": 1168004849,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.0873081,
+      "lon": 26.6363188,
+      "tags": {
+        "denomination": "romanian_orthodox",
+        "heritage": "2",
+        "heritage:operator": "lmi",
+        "landuse": "religious",
+        "ref:RO:lmi": "CL-II-a-B-14702",
+        "religion": "christian",
+        "start_date": "1872"
+      }
+    }
+  ]
+}

@@ -1,0 +1,523 @@
+{
+  "city": "Drăgășani",
+  "generated_at": "2026-04-23T09:43:21.969Z",
+  "counts": {
+    "total": 35,
+    "schools": 18,
+    "churches": 17
+  },
+  "pois": [
+    {
+      "id": "way/183320029",
+      "osm_id": 183320029,
+      "osm_type": "way",
+      "name": "Liceul Tehnologic Brătianu",
+      "category": "education",
+      "lat": 44.65709,
+      "lon": 24.2667047,
+      "tags": {
+        "amenity": "school",
+        "name": "Liceul Tehnologic Brătianu"
+      }
+    },
+    {
+      "id": "way/197101149",
+      "osm_id": 197101149,
+      "osm_type": "way",
+      "name": "Corp C",
+      "category": "education",
+      "lat": 44.657082,
+      "lon": 24.2666834,
+      "tags": {
+        "building": "school",
+        "name": "Corp C"
+      }
+    },
+    {
+      "id": "way/197101150",
+      "osm_id": 197101150,
+      "osm_type": "way",
+      "name": "Corp A",
+      "category": "education",
+      "lat": 44.6565973,
+      "lon": 24.2664715,
+      "tags": {
+        "building": "school",
+        "name": "Corp A"
+      }
+    },
+    {
+      "id": "way/197102762",
+      "osm_id": 197102762,
+      "osm_type": "way",
+      "name": "Corp B",
+      "category": "education",
+      "lat": 44.6567391,
+      "lon": 24.2672495,
+      "tags": {
+        "building": "school",
+        "name": "Corp B"
+      }
+    },
+    {
+      "id": "way/197102764",
+      "osm_id": 197102764,
+      "osm_type": "way",
+      "name": "Corp D",
+      "category": "education",
+      "lat": 44.6570917,
+      "lon": 24.2670993,
+      "tags": {
+        "building": "school",
+        "name": "Corp D"
+      }
+    },
+    {
+      "id": "way/220751757",
+      "osm_id": 220751757,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.6596467,
+      "lon": 24.2638375,
+      "tags": {
+        "building": "school",
+        "building:levels": "2",
+        "roof:levels": "1"
+      }
+    },
+    {
+      "id": "way/223641328",
+      "osm_id": 223641328,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.6595341,
+      "lon": 24.259792,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/227202485",
+      "osm_id": 227202485,
+      "osm_type": "way",
+      "name": "Grădinița cu program prelungit nr. 1",
+      "category": "education",
+      "lat": 44.6621909,
+      "lon": 24.2618849,
+      "tags": {
+        "building": "kindergarten",
+        "name": "Grădinița cu program prelungit nr. 1",
+        "website": "https://www.colegiulgib.ro/index.php?s=gpp"
+      }
+    },
+    {
+      "id": "way/229544827",
+      "osm_id": 229544827,
+      "osm_type": "way",
+      "name": "Colegiul Național „Gib Mihăescu”",
+      "category": "education",
+      "lat": 44.659527,
+      "lon": 24.2593605,
+      "tags": {
+        "amenity": "school",
+        "name": "Colegiul Național „Gib Mihăescu”"
+      }
+    },
+    {
+      "id": "way/230150651",
+      "osm_id": 230150651,
+      "osm_type": "way",
+      "name": "Sală de sport",
+      "category": "education",
+      "lat": 44.6596775,
+      "lon": 24.2641175,
+      "tags": {
+        "building": "school",
+        "building:levels": "1",
+        "name": "Sală de sport",
+        "roof:levels": "0"
+      }
+    },
+    {
+      "id": "way/537233947",
+      "osm_id": 537233947,
+      "osm_type": "way",
+      "name": "Sală de sport a C.N. „Gib Mihăescu”",
+      "category": "education",
+      "lat": 44.661054,
+      "lon": 24.2592967,
+      "tags": {
+        "building": "school",
+        "building:levels": "2",
+        "name": "Sală de sport a C.N. „Gib Mihăescu”",
+        "roof:levels": "0"
+      }
+    },
+    {
+      "id": "way/759368991",
+      "osm_id": 759368991,
+      "osm_type": "way",
+      "name": "Liceul Tehnologic Brătianu, Corp C",
+      "category": "education",
+      "lat": 44.6608208,
+      "lon": 24.2753045,
+      "tags": {
+        "building": "school",
+        "name": "Liceul Tehnologic Brătianu, Corp C"
+      }
+    },
+    {
+      "id": "way/1016519705",
+      "osm_id": 1016519705,
+      "osm_type": "way",
+      "name": "Școala Gimnazială „Nicolae Bălcescu”",
+      "category": "education",
+      "lat": 44.6616098,
+      "lon": 24.2620831,
+      "tags": {
+        "amenity": "school",
+        "name": "Școala Gimnazială „Nicolae Bălcescu”"
+      }
+    },
+    {
+      "id": "way/1149135777",
+      "osm_id": 1149135777,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.6841951,
+      "lon": 24.2744233,
+      "tags": {
+        "amenity": "kindergarten"
+      }
+    },
+    {
+      "id": "way/1149179397",
+      "osm_id": 1149179397,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.6780553,
+      "lon": 24.2570341,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/1162655723",
+      "osm_id": 1162655723,
+      "osm_type": "way",
+      "name": "Școala cu clasele I-VIII „Tudor Vladimirescu”",
+      "category": "education",
+      "lat": 44.659646,
+      "lon": 24.2638542,
+      "tags": {
+        "addr:city": "Drăgășani",
+        "addr:housenumber": "26",
+        "addr:postcode": "245700",
+        "addr:street": "Strada Regele Carol",
+        "amenity": "school",
+        "email": "t.vladimirescu@yahoo.com",
+        "grades": "1-8",
+        "name": "Școala cu clasele I-VIII „Tudor Vladimirescu”",
+        "phone": "+40 250 811 282",
+        "website": "https://www.tudorvladimirescu.ro/"
+      }
+    },
+    {
+      "id": "way/1204714115",
+      "osm_id": 1204714115,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.6330778,
+      "lon": 24.2532628,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/1305841478",
+      "osm_id": 1305841478,
+      "osm_type": "way",
+      "name": "Școala Gimnazială nr. 5 Drăgășani",
+      "category": "education",
+      "lat": 44.6409258,
+      "lon": 24.2686647,
+      "tags": {
+        "amenity": "school",
+        "name": "Școala Gimnazială nr. 5 Drăgășani"
+      }
+    },
+    {
+      "id": "node/3723042366",
+      "osm_id": 3723042366,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.6432684,
+      "lon": 24.2529934,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/6342434550",
+      "osm_id": 6342434550,
+      "osm_type": "node",
+      "name": "Biserica Sfântul Ilie",
+      "category": "place_of_worship",
+      "lat": 44.6637395,
+      "lon": 24.2617581,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Sfântul Ilie",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/9282759087",
+      "osm_id": 9282759087,
+      "osm_type": "node",
+      "name": "Biserica din Capul Dealului",
+      "category": "place_of_worship",
+      "lat": 44.6570201,
+      "lon": 24.2371348,
+      "tags": {
+        "addr:city": "Drăgășani",
+        "addr:housenumber": "158A",
+        "addr:postcode": "245700",
+        "addr:street": "Strada Regele Ferdinand I",
+        "amenity": "place_of_worship",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica din Capul Dealului",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/223679041",
+      "osm_id": 223679041,
+      "osm_type": "way",
+      "name": "Sfântul Gheorghe - Izvoranu",
+      "category": "place_of_worship",
+      "lat": 44.6570994,
+      "lon": 24.2612747,
+      "tags": {
+        "addr:housenumber": "Nr. 2",
+        "addr:postcode": "245700",
+        "addr:street": "Strada Melodiei",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "check_date": "2023-07-29",
+        "denomination": "orthodox",
+        "name": "Sfântul Gheorghe - Izvoranu",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/263291255",
+      "osm_id": 263291255,
+      "osm_type": "way",
+      "name": "Cimitir Drăgășani",
+      "category": "place_of_worship",
+      "lat": 44.6586605,
+      "lon": 24.2555244,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitir Drăgășani",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/536969151",
+      "osm_id": 536969151,
+      "osm_type": "way",
+      "name": "Sala Regatului a Martorilor lui Iehova",
+      "category": "place_of_worship",
+      "lat": 44.6585824,
+      "lon": 24.266176,
+      "tags": {
+        "addr:city": "Drăgășani",
+        "addr:housenumber": "19",
+        "addr:postcode": "245700",
+        "addr:street": "Strada Decebal",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "building:levels": "1",
+        "denomination": "jehovahs_witness",
+        "name": "Sala Regatului a Martorilor lui Iehova",
+        "religion": "christian",
+        "service_times": "Th 17:00,Su 10:30"
+      }
+    },
+    {
+      "id": "way/537005433",
+      "osm_id": 537005433,
+      "osm_type": "way",
+      "name": "Catedrala Ortodoxă",
+      "category": "place_of_worship",
+      "lat": 44.6613888,
+      "lon": 24.2643507,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Catedrala Ortodoxă",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/537233953",
+      "osm_id": 537233953,
+      "osm_type": "way",
+      "name": "Biserica Adventistă",
+      "category": "place_of_worship",
+      "lat": 44.662118,
+      "lon": 24.2599897,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "adventist",
+        "name": "Biserica Adventistă",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/740637767",
+      "osm_id": 740637767,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.6553154,
+      "lon": 24.2631501,
+      "tags": {
+        "building": "church"
+      }
+    },
+    {
+      "id": "way/749173042",
+      "osm_id": 749173042,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.6432748,
+      "lon": 24.2530399,
+      "tags": {
+        "building": "church"
+      }
+    },
+    {
+      "id": "way/749454873",
+      "osm_id": 749454873,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.6598279,
+      "lon": 24.2577036,
+      "tags": {
+        "building": "church"
+      }
+    },
+    {
+      "id": "way/948075113",
+      "osm_id": 948075113,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.6338999,
+      "lon": 24.2496297,
+      "tags": {
+        "denomination": "protestant",
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1149135776",
+      "osm_id": 1149135776,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.6836438,
+      "lon": 24.2745313,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1149136618",
+      "osm_id": 1149136618,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.6847009,
+      "lon": 24.2776585,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1149162643",
+      "osm_id": 1149162643,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.6846307,
+      "lon": 24.2738564,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1210851773",
+      "osm_id": 1210851773,
+      "osm_type": "way",
+      "name": "Biserica Sfânta Treime Momotești",
+      "category": "place_of_worship",
+      "lat": 44.6484325,
+      "lon": 24.2680734,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "construction_date": "1925-1929",
+        "denomination": "orthodox",
+        "name": "Biserica Sfânta Treime Momotești",
+        "name:en": "Holy Trinity Church",
+        "phone": "+40 722 369 334",
+        "religion": "christian",
+        "website": "http://momotesti.arhiepiscopiaramnicului.ro/prezentarea-parohiei/parohia-momotesti"
+      }
+    },
+    {
+      "id": "way/1330180890",
+      "osm_id": 1330180890,
+      "osm_type": "way",
+      "name": "Capela Spitalului Municipal din Drăgășani",
+      "category": "place_of_worship",
+      "lat": 44.6595645,
+      "lon": 24.2577664,
+      "tags": {
+        "access": "permit",
+        "alt_name": "Biserica cu hramul Sfinții Împăraţi Constantin şi Elena şi Sfântul Cuvios Dimitrie Basarabov",
+        "building": "church",
+        "construction_date": "2013-07-16",
+        "name": "Capela Spitalului Municipal din Drăgășani",
+        "source": "http://arhiepiscopiaramnicului.ro/viata-eparhiei/s-sfintit-capela-spitalului-municipal-din-dragasani",
+        "start_date": "2015-09-06"
+      }
+    }
+  ]
+}

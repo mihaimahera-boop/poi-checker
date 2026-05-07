@@ -1,0 +1,851 @@
+{
+  "city": "Câmpulung",
+  "generated_at": "2026-04-23T09:37:12.624Z",
+  "counts": {
+    "total": 53,
+    "schools": 30,
+    "churches": 23
+  },
+  "pois": [
+    {
+      "id": "node/2096756109",
+      "osm_id": 2096756109,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.2796354,
+      "lon": 25.0499874,
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "node/9301120932",
+      "osm_id": 9301120932,
+      "osm_type": "node",
+      "name": "Grădiniţa cu program prelungit „Sfânta Marina”",
+      "category": "education",
+      "lat": 45.2788948,
+      "lon": 25.0616563,
+      "tags": {
+        "addr:housenumber": "8",
+        "addr:street": "Strada George Topârceanu",
+        "amenity": "kindergarten",
+        "name": "Grădiniţa cu program prelungit „Sfânta Marina”",
+        "website": "https://www.gradinitasfantamarina.ro/"
+      }
+    },
+    {
+      "id": "node/9301720894",
+      "osm_id": 9301720894,
+      "osm_type": "node",
+      "name": "Şcoala de Muzică",
+      "category": "education",
+      "lat": 45.26385,
+      "lon": 25.0483246,
+      "tags": {
+        "addr:city": "Câmpulung",
+        "addr:housenumber": "15",
+        "addr:street": "Strada Mărășești",
+        "amenity": "school",
+        "description": "funcţionează în incinta Colegiului Pedagogic „Carol I” din Cimpulung într-un număr de 15 săli de clasa, pretabile studiului individual-instrumental. Ne desfăşurăm audiţiile şi spectacolele programate prin planul şcolii în sala de muzică a Colegiului Pedag",
+        "name": "Şcoala de Muzică",
+        "website": "http://scoalademuzicacampulung.ro"
+      }
+    },
+    {
+      "id": "node/9301720895",
+      "osm_id": 9301720895,
+      "osm_type": "node",
+      "name": "Seminarul Teologic Liceal Ortodox \"Justin Patriarhul\"",
+      "category": "education",
+      "lat": 45.2635253,
+      "lon": 25.0480134,
+      "tags": {
+        "addr:city": "Câmpulung",
+        "addr:housenumber": "15",
+        "addr:street": "Strada Mărășești",
+        "amenity": "school",
+        "name": "Seminarul Teologic Liceal Ortodox \"Justin Patriarhul\""
+      }
+    },
+    {
+      "id": "way/199691570",
+      "osm_id": 199691570,
+      "osm_type": "way",
+      "name": "Liceul Național cu Program de Atletism",
+      "category": "education",
+      "lat": 45.2800908,
+      "lon": 25.0499441,
+      "tags": {
+        "amenity": "college",
+        "name": "Liceul Național cu Program de Atletism"
+      }
+    },
+    {
+      "id": "way/199693555",
+      "osm_id": 199693555,
+      "osm_type": "way",
+      "name": "Școala Generală Nr. 5",
+      "category": "education",
+      "lat": 45.2821525,
+      "lon": 25.0541218,
+      "tags": {
+        "amenity": "school",
+        "name": "Școala Generală Nr. 5"
+      }
+    },
+    {
+      "id": "way/199696733",
+      "osm_id": 199696733,
+      "osm_type": "way",
+      "name": "Școala Carol I",
+      "category": "education",
+      "lat": 45.2844271,
+      "lon": 25.0560999,
+      "tags": {
+        "building": "school",
+        "name": "Școala Carol I"
+      }
+    },
+    {
+      "id": "way/295293879",
+      "osm_id": 295293879,
+      "osm_type": "way",
+      "name": "Colegiul Național Pedagogic ”Carol I”",
+      "category": "education",
+      "lat": 45.2638238,
+      "lon": 25.0484501,
+      "tags": {
+        "addr:city": "Câmpulung",
+        "addr:housenumber": "15",
+        "addr:street": "Strada Mărășești",
+        "building": "school",
+        "name": "Colegiul Național Pedagogic ”Carol I”"
+      }
+    },
+    {
+      "id": "way/304438295",
+      "osm_id": 304438295,
+      "osm_type": "way",
+      "name": "Colegiul Tehnic Câmpulung",
+      "category": "education",
+      "lat": 45.2762395,
+      "lon": 25.0479264,
+      "tags": {
+        "addr:city": "Câmpulung",
+        "addr:housename": "Colegiul Tehnic Câmpulung",
+        "addr:housenumber": "145",
+        "addr:street": "Strada Negru Vodă",
+        "building": "school",
+        "name": "Colegiul Tehnic Câmpulung"
+      }
+    },
+    {
+      "id": "way/304438316",
+      "osm_id": 304438316,
+      "osm_type": "way",
+      "name": "Sală de sport",
+      "category": "education",
+      "lat": 45.2747305,
+      "lon": 25.0480431,
+      "tags": {
+        "addr:city": "Câmpulung",
+        "addr:street": "Raului",
+        "building": "school",
+        "leisure": "sports_centre",
+        "name": "Sală de sport"
+      }
+    },
+    {
+      "id": "way/304438328",
+      "osm_id": 304438328,
+      "osm_type": "way",
+      "name": "Școala Gimnazială nr. 3 „Nanu Muscel”",
+      "category": "education",
+      "lat": 45.2749841,
+      "lon": 25.0485719,
+      "tags": {
+        "building": "school",
+        "name": "Școala Gimnazială nr. 3 „Nanu Muscel”"
+      }
+    },
+    {
+      "id": "way/304493393",
+      "osm_id": 304493393,
+      "osm_type": "way",
+      "name": "Gradinița Sfântul Nicolae",
+      "category": "education",
+      "lat": 45.2754343,
+      "lon": 25.0472733,
+      "tags": {
+        "addr:city": "Câmpulung",
+        "addr:housenumber": "141",
+        "addr:street": "Strada Negru Vodă",
+        "building": "kindergarten",
+        "name": "Gradinița Sfântul Nicolae"
+      }
+    },
+    {
+      "id": "way/381417673",
+      "osm_id": 381417673,
+      "osm_type": "way",
+      "name": "Liceul ”Dan Barbilian”",
+      "category": "education",
+      "lat": 45.2709153,
+      "lon": 25.0498825,
+      "tags": {
+        "building": "school",
+        "name": "Liceul ”Dan Barbilian”"
+      }
+    },
+    {
+      "id": "way/416158112",
+      "osm_id": 416158112,
+      "osm_type": "way",
+      "name": "Colegiul Național Pedagogic ”Carol I”",
+      "category": "education",
+      "lat": 45.2643173,
+      "lon": 25.0486169,
+      "tags": {
+        "addr:housenumber": "15",
+        "addr:street": "Strada Mărășești",
+        "amenity": "college",
+        "name": "Colegiul Național Pedagogic ”Carol I”",
+        "website": "http://carol.rdsnet.ro",
+        "wikidata": "Q18549538",
+        "wikipedia": "ro:Colegiul Național Pedagogic „Carol I” din Câmpulung Muscel"
+      }
+    },
+    {
+      "id": "way/479489614",
+      "osm_id": 479489614,
+      "osm_type": "way",
+      "name": "Școala Generală C. D. Aricescu",
+      "category": "education",
+      "lat": 45.2657048,
+      "lon": 25.0404626,
+      "tags": {
+        "building": "school",
+        "name": "Școala Generală C. D. Aricescu"
+      }
+    },
+    {
+      "id": "way/553083764",
+      "osm_id": 553083764,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.2644155,
+      "lon": 25.0409031,
+      "tags": {
+        "addr:city": "Câmpulung",
+        "addr:street": "Strada Negru Vodă",
+        "building": "school",
+        "building:levels": "3",
+        "roof:shape": "pyramidal"
+      }
+    },
+    {
+      "id": "way/553083765",
+      "osm_id": 553083765,
+      "osm_type": "way",
+      "name": "Colegiul Național ”Dinicu Golescu”",
+      "category": "education",
+      "lat": 45.2642756,
+      "lon": 25.0409092,
+      "tags": {
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Colegiul Național ”Dinicu Golescu”",
+        "website": "http://www.dinicugolescu.ro"
+      }
+    },
+    {
+      "id": "way/664854359",
+      "osm_id": 664854359,
+      "osm_type": "way",
+      "name": "Școala Gimnazială nr. 3 „Nanu Muscel”",
+      "category": "education",
+      "lat": 45.2750185,
+      "lon": 25.0484238,
+      "tags": {
+        "addr:city": "Câmpulung",
+        "addr:housenumber": "27",
+        "addr:postcode": "115100",
+        "addr:street": "Strada Frații Golești",
+        "amenity": "school",
+        "name": "Școala Gimnazială nr. 3 „Nanu Muscel”"
+      }
+    },
+    {
+      "id": "way/913491487",
+      "osm_id": 913491487,
+      "osm_type": "way",
+      "name": "Colegiul Tehnic Câmpulung",
+      "category": "education",
+      "lat": 45.2763935,
+      "lon": 25.0476775,
+      "tags": {
+        "addr:city": "Câmpulung",
+        "addr:housenumber": "145",
+        "addr:street": "Strada Negru Vodă",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Colegiul Tehnic Câmpulung",
+        "website": "https://www.colegiultehnicag.info/"
+      }
+    },
+    {
+      "id": "way/913491491",
+      "osm_id": 913491491,
+      "osm_type": "way",
+      "name": "Gradinița Sfântul Nicolae",
+      "category": "education",
+      "lat": 45.2753173,
+      "lon": 25.0472275,
+      "tags": {
+        "addr:city": "Câmpulung",
+        "addr:housenumber": "141",
+        "addr:street": "Strada Negru Vodă",
+        "amenity": "kindergarten",
+        "name": "Gradinița Sfântul Nicolae"
+      }
+    },
+    {
+      "id": "way/927617952",
+      "osm_id": 927617952,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.2657639,
+      "lon": 25.0401832,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/927617954",
+      "osm_id": 927617954,
+      "osm_type": "way",
+      "name": "Școala Generală C. D. Aricescu",
+      "category": "education",
+      "lat": 45.2656958,
+      "lon": 25.0403182,
+      "tags": {
+        "amenity": "school",
+        "name": "Școala Generală C. D. Aricescu"
+      }
+    },
+    {
+      "id": "way/927798608",
+      "osm_id": 927798608,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.2798196,
+      "lon": 25.0614185,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/927798609",
+      "osm_id": 927798609,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Theodor Aman",
+      "category": "education",
+      "lat": 45.2799158,
+      "lon": 25.0612013,
+      "tags": {
+        "addr:city": "Câmpulung",
+        "addr:housenumber": "3",
+        "addr:street": "Strada George Topârceanu",
+        "amenity": "school",
+        "name": "Școala Gimnazială Theodor Aman",
+        "website": "https://www.scoalatheodoraman.ro/"
+      }
+    },
+    {
+      "id": "way/1006846087",
+      "osm_id": 1006846087,
+      "osm_type": "way",
+      "name": "Liceul Teoretic ”Dan Barbilian”",
+      "category": "education",
+      "lat": 45.2709625,
+      "lon": 25.0497535,
+      "tags": {
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Liceul Teoretic ”Dan Barbilian”",
+        "website": "https://www.liceulteoreticdanbarbilian.ro/"
+      }
+    },
+    {
+      "id": "way/1007825187",
+      "osm_id": 1007825187,
+      "osm_type": "way",
+      "name": "Facultatea de Ştiinţe Economice Câmpulung a Universităţii \"Spiru Haret\"",
+      "category": "education",
+      "lat": 45.2990871,
+      "lon": 25.0659785,
+      "tags": {
+        "addr:city": "Câmpulung",
+        "addr:housenumber": "223",
+        "addr:street": "Strada Traian",
+        "amenity": "university",
+        "building": "university",
+        "building:levels": "4",
+        "name": "Facultatea de Ştiinţe Economice Câmpulung a Universităţii \"Spiru Haret\"",
+        "old_name": "Universitatea Spiru Haret - Facultatea de Contabilitate şi Finanțe",
+        "website": "https://se-ag.spiruharet.ro/"
+      }
+    },
+    {
+      "id": "way/1007827114",
+      "osm_id": 1007827114,
+      "osm_type": "way",
+      "name": "Şcoala gimnazială Sfântul Iacob",
+      "category": "education",
+      "lat": 45.2844413,
+      "lon": 25.055735,
+      "tags": {
+        "addr:housenumber": "4",
+        "addr:street": "Strada Matei Drăghiceanu",
+        "amenity": "school",
+        "name": "Şcoala gimnazială Sfântul Iacob"
+      }
+    },
+    {
+      "id": "way/1008249338",
+      "osm_id": 1008249338,
+      "osm_type": "way",
+      "name": "Școala Dinicu Golescu",
+      "category": "education",
+      "lat": 45.2646764,
+      "lon": 25.0393942,
+      "tags": {
+        "amenity": "school",
+        "name": "Școala Dinicu Golescu"
+      }
+    },
+    {
+      "id": "way/1008253983",
+      "osm_id": 1008253983,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.265235,
+      "lon": 25.0491702,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/1210334847",
+      "osm_id": 1210334847,
+      "osm_type": "way",
+      "name": "Școala Gimnazială \"Oprea D. Iorgulescu\"",
+      "category": "education",
+      "lat": 45.2725262,
+      "lon": 25.0436137,
+      "tags": {
+        "amenity": "school",
+        "building": "yes",
+        "name": "Școala Gimnazială \"Oprea D. Iorgulescu\"",
+        "source": "microsoft/BuildingFootprints"
+      }
+    },
+    {
+      "id": "node/1316062665",
+      "osm_id": 1316062665,
+      "osm_type": "node",
+      "name": "Mănăstirea Negru Vodă",
+      "category": "place_of_worship",
+      "lat": 45.26381,
+      "lon": 25.04031,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Mănăstirea Negru Vodă",
+        "religion": "christian",
+        "source": "jonutzu@gpszone.ro",
+        "wikidata": "Q12736249",
+        "wikipedia": "ro:Mănăstirea Negru Vodă"
+      }
+    },
+    {
+      "id": "node/2096761456",
+      "osm_id": 2096761456,
+      "osm_type": "node",
+      "name": "Biserica Marină",
+      "category": "place_of_worship",
+      "lat": 45.2784987,
+      "lon": 25.0488378,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Marină",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/381801793",
+      "osm_id": 381801793,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.2638235,
+      "lon": 25.0403113,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/381801818",
+      "osm_id": 381801818,
+      "osm_type": "way",
+      "name": "Biserica Creștină Evanghelică",
+      "category": "place_of_worship",
+      "lat": 45.2792428,
+      "lon": 25.0566978,
+      "tags": {
+        "addr:city": "Câmpulung",
+        "addr:housenumber": "22",
+        "addr:street": "Bulevardul Ion C. Brătianu",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "evangelical",
+        "name": "Biserica Creștină Evanghelică",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/415853537",
+      "osm_id": 415853537,
+      "osm_type": "way",
+      "name": "Cimitirul Municipal Flămânda",
+      "category": "place_of_worship",
+      "lat": 45.2636935,
+      "lon": 25.0524449,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitirul Municipal Flămânda",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/570459944",
+      "osm_id": 570459944,
+      "osm_type": "way",
+      "name": "Biserica Schei",
+      "category": "place_of_worship",
+      "lat": 45.2823744,
+      "lon": 25.0500262,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Schei",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/707299276",
+      "osm_id": 707299276,
+      "osm_type": "way",
+      "name": "Capela",
+      "category": "place_of_worship",
+      "lat": 45.2632048,
+      "lon": 25.0510617,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "chapel",
+        "denomination": "orthodox",
+        "name": "Capela",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/707299277",
+      "osm_id": 707299277,
+      "osm_type": "way",
+      "name": "Biserica Adormirea Maicii Domnului - Flămânda (Biserica Miresei)",
+      "category": "place_of_worship",
+      "lat": 45.2647767,
+      "lon": 25.052759,
+      "tags": {
+        "addr:city": "Câmpulung",
+        "addr:street": "Strada Flămânda",
+        "alt_name": "Biserica Miresei",
+        "amenity": "place_of_worship",
+        "architect": "George Matei Cantacuzino",
+        "architect:wikipedia": "ro:George Matei Cantacuzino",
+        "building": "church",
+        "denomination": "orthodox",
+        "description": "Biserica \"Flămânda\", mai nou cunoscută drept Biserica Miresei, cu hramul \"Adormirea Maicii Domnului\"",
+        "heritage": "2",
+        "heritage:operator": "lmi",
+        "historic": "church",
+        "name": "Biserica Adormirea Maicii Domnului - Flămânda (Biserica Miresei)",
+        "ref:RO:lmi": "AG-II-m-A-13527",
+        "religion": "christian",
+        "start_date": "1940",
+        "website": "https://bisericamiresei.ro",
+        "wikidata": "Q42749004",
+        "wikipedia": "ro:Biserica Flămânda din Câmpulung"
+      }
+    },
+    {
+      "id": "way/708649740",
+      "osm_id": 708649740,
+      "osm_type": "way",
+      "name": "Biserica Spitalului",
+      "category": "place_of_worship",
+      "lat": 45.2659055,
+      "lon": 25.0382701,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Spitalului",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/944006291",
+      "osm_id": 944006291,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.2366875,
+      "lon": 25.0218194,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/944202910",
+      "osm_id": 944202910,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.2885529,
+      "lon": 25.0510677,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1006851741",
+      "osm_id": 1006851741,
+      "osm_type": "way",
+      "name": "Capelă",
+      "category": "place_of_worship",
+      "lat": 45.2653696,
+      "lon": 25.0457571,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "chapel",
+        "denomination": "romanian_orthodox",
+        "name": "Capelă",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1050700360",
+      "osm_id": 1050700360,
+      "osm_type": "way",
+      "name": "Biserica Sfântul Apostol Iacob (Bărăția)",
+      "category": "place_of_worship",
+      "lat": 45.2688147,
+      "lon": 25.0440789,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "catholic",
+        "heritage": "2",
+        "heritage:operator": "lmi",
+        "historic": "church",
+        "name": "Biserica Sfântul Apostol Iacob (Bărăția)",
+        "ref:RO:lmi": "AG-II-a-A-13554",
+        "religion": "christian",
+        "start_date": "sec XIII",
+        "wikidata": "Q26215729",
+        "wikipedia": "ro:Biserica Bărăția din Câmpulung"
+      }
+    },
+    {
+      "id": "way/1052950083",
+      "osm_id": 1052950083,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.2634344,
+      "lon": 25.0410962,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1191442741",
+      "osm_id": 1191442741,
+      "osm_type": "way",
+      "name": "Biserica Adventistă de Ziua a Șaptea Câmpulung",
+      "category": "place_of_worship",
+      "lat": 45.2750826,
+      "lon": 25.0478251,
+      "tags": {
+        "building": "church",
+        "name": "Biserica Adventistă de Ziua a Șaptea Câmpulung"
+      }
+    },
+    {
+      "id": "way/1191442744",
+      "osm_id": 1191442744,
+      "osm_type": "way",
+      "name": "Biserica Penticostală „Piatra Vie”",
+      "category": "place_of_worship",
+      "lat": 45.2766213,
+      "lon": 25.0494221,
+      "tags": {
+        "building": "church",
+        "name": "Biserica Penticostală „Piatra Vie”"
+      }
+    },
+    {
+      "id": "way/1206560133",
+      "osm_id": 1206560133,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.267771,
+      "lon": 25.0259041,
+      "tags": {
+        "area": "yes",
+        "denomination": "romanian_orthodox",
+        "historic": "wayside_shrine",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1210333011",
+      "osm_id": 1210333011,
+      "osm_type": "way",
+      "name": "Biserica Sfântul Ilie",
+      "category": "place_of_worship",
+      "lat": 45.2685451,
+      "lon": 25.0395999,
+      "tags": {
+        "addr:city": "Câmpulung",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica Sfântul Ilie",
+        "religion": "christian",
+        "source": "microsoft/BuildingFootprints"
+      }
+    },
+    {
+      "id": "way/1210333461",
+      "osm_id": 1210333461,
+      "osm_type": "way",
+      "name": "Biserica Domnească",
+      "category": "place_of_worship",
+      "lat": 45.2668838,
+      "lon": 25.0420268,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Domnească",
+        "religion": "christian",
+        "source": "microsoft/BuildingFootprints"
+      }
+    },
+    {
+      "id": "way/1210334850",
+      "osm_id": 1210334850,
+      "osm_type": "way",
+      "name": "Biserica Sf. Nicolae",
+      "category": "place_of_worship",
+      "lat": 45.2714342,
+      "lon": 25.045299,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Sf. Nicolae",
+        "religion": "christian",
+        "source": "microsoft/BuildingFootprints"
+      }
+    },
+    {
+      "id": "way/1226904223",
+      "osm_id": 1226904223,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.2677704,
+      "lon": 25.025905,
+      "tags": {
+        "access": "yes",
+        "denomination": "romanian_orthodox",
+        "historic": "wayside_shrine",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1453676758",
+      "osm_id": 1453676758,
+      "osm_type": "way",
+      "name": "Biserica „Sfinții Apostoli Petru și Pavel”",
+      "category": "place_of_worship",
+      "lat": 45.2843074,
+      "lon": 25.0631227,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "romanian_orthodox",
+        "heritage": "2",
+        "heritage:operator": "lmi",
+        "historic": "church",
+        "name": "Biserica „Sfinții Apostoli Petru și Pavel”",
+        "ref:RO:lmi": "AG-II-m-A-13522",
+        "religion": "christian",
+        "start_date": "1774"
+      }
+    },
+    {
+      "id": "way/1453676761",
+      "osm_id": 1453676761,
+      "osm_type": "way",
+      "name": "Biserica „Sfântul Mucenic Mina”",
+      "category": "place_of_worship",
+      "lat": 45.2768408,
+      "lon": 25.0456621,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "romanian_orthodox",
+        "heritage": "2",
+        "heritage:operator": "lmi",
+        "historic": "church",
+        "name": "Biserica „Sfântul Mucenic Mina”",
+        "ref:RO:lmi": "AG-II-m-A-13519",
+        "religion": "christian",
+        "start_date": "1708"
+      }
+    }
+  ]
+}

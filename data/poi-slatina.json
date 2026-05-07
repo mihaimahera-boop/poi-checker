@@ -1,0 +1,2632 @@
+{
+  "city": "Slatina",
+  "generated_at": "2026-04-23T10:16:40.157Z",
+  "counts": {
+    "total": 168,
+    "schools": 102,
+    "churches": 66
+  },
+  "pois": [
+    {
+      "id": "node/533987870",
+      "osm_id": 533987870,
+      "osm_type": "node",
+      "name": "Colegiul Tehnic \"Ion Mincu\"",
+      "category": "education",
+      "lat": 44.4203717,
+      "lon": 24.3896767,
+      "tags": {
+        "amenity": "school",
+        "name": "Colegiul Tehnic \"Ion Mincu\""
+      }
+    },
+    {
+      "id": "node/535072567",
+      "osm_id": 535072567,
+      "osm_type": "node",
+      "name": "Școala Constantin Brâncoveanu",
+      "category": "education",
+      "lat": 44.4188132,
+      "lon": 24.3830359,
+      "tags": {
+        "amenity": "school",
+        "name": "Școala Constantin Brâncoveanu"
+      }
+    },
+    {
+      "id": "node/618806444",
+      "osm_id": 618806444,
+      "osm_type": "node",
+      "name": "Liceul Sportiv Slatina",
+      "category": "education",
+      "lat": 44.4302818,
+      "lon": 24.3743642,
+      "tags": {
+        "addr:city": "Slatina",
+        "addr:housenumber": "10",
+        "addr:postcode": "230003",
+        "addr:street": "Strada Toamnei",
+        "amenity": "school",
+        "name": "Liceul Sportiv Slatina"
+      }
+    },
+    {
+      "id": "node/619204686",
+      "osm_id": 619204686,
+      "osm_type": "node",
+      "name": "Colegiul Național Radu Greceanu",
+      "category": "education",
+      "lat": 44.4319442,
+      "lon": 24.3511477,
+      "tags": {
+        "amenity": "school",
+        "name": "Colegiul Național Radu Greceanu"
+      }
+    },
+    {
+      "id": "node/620911338",
+      "osm_id": 620911338,
+      "osm_type": "node",
+      "name": "Colegiul Național Carol l",
+      "category": "education",
+      "lat": 44.4429877,
+      "lon": 24.3528014,
+      "tags": {
+        "amenity": "school",
+        "name": "Colegiul Național Carol l"
+      }
+    },
+    {
+      "id": "node/620915603",
+      "osm_id": 620915603,
+      "osm_type": "node",
+      "name": "Colegiul Tehnic Metalurgic",
+      "category": "education",
+      "lat": 44.4231579,
+      "lon": 24.3788165,
+      "tags": {
+        "amenity": "school",
+        "name": "Colegiul Tehnic Metalurgic"
+      }
+    },
+    {
+      "id": "node/962135657",
+      "osm_id": 962135657,
+      "osm_type": "node",
+      "name": "Suncokret",
+      "category": "education",
+      "lat": 45.6973781,
+      "lon": 17.706774,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Suncokret"
+      }
+    },
+    {
+      "id": "node/1655216337",
+      "osm_id": 1655216337,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7039131,
+      "lon": 17.7041935,
+      "tags": {
+        "amenity": "kindergarten"
+      }
+    },
+    {
+      "id": "node/1655216369",
+      "osm_id": 1655216369,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7044265,
+      "lon": 17.7036138,
+      "tags": {
+        "amenity": "kindergarten"
+      }
+    },
+    {
+      "id": "node/4244248796",
+      "osm_id": 4244248796,
+      "osm_type": "node",
+      "name": "Mateřská škola Brno, Jihomoravské náměstí 2",
+      "category": "education",
+      "lat": 49.179426,
+      "lon": 16.6865209,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Mateřská škola Brno, Jihomoravské náměstí 2",
+        "website": "https://www.zsjihomoravske.cz/"
+      }
+    },
+    {
+      "id": "node/4827724702",
+      "osm_id": 4827724702,
+      "osm_type": "node",
+      "name": "Grădinița cu Program Prelungit „Ion Creangă”",
+      "category": "education",
+      "lat": 44.4243856,
+      "lon": 24.3648411,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Grădinița cu Program Prelungit „Ion Creangă”"
+      }
+    },
+    {
+      "id": "node/4827743684",
+      "osm_id": 4827743684,
+      "osm_type": "node",
+      "name": "Școala gimnazială nr.2 „Ștefan Protopopescu”",
+      "category": "education",
+      "lat": 44.4264615,
+      "lon": 24.3657119,
+      "tags": {
+        "addr:city": "Slatina",
+        "addr:housenumber": "1",
+        "addr:postcode": "230022",
+        "addr:street": "Strada Arinului",
+        "amenity": "school",
+        "name": "Școala gimnazială nr.2 „Ștefan Protopopescu”"
+      }
+    },
+    {
+      "id": "node/4827758269",
+      "osm_id": 4827758269,
+      "osm_type": "node",
+      "name": "Colegiul Național Vocațional „Nicolae TItulescu”",
+      "category": "education",
+      "lat": 44.4266532,
+      "lon": 24.3696508,
+      "tags": {
+        "addr:city": "Slatina",
+        "addr:housenumber": "5",
+        "addr:postcode": "230041",
+        "addr:street": "Aleea Rozelor",
+        "amenity": "school",
+        "name": "Colegiul Național Vocațional „Nicolae TItulescu”"
+      }
+    },
+    {
+      "id": "node/4827758289",
+      "osm_id": 4827758289,
+      "osm_type": "node",
+      "name": "Colegiul Național Vocațional „Nicolae Titulescu” - Corp B",
+      "category": "education",
+      "lat": 44.4289488,
+      "lon": 24.3714828,
+      "tags": {
+        "amenity": "school",
+        "name": "Colegiul Național Vocațional „Nicolae Titulescu” - Corp B"
+      }
+    },
+    {
+      "id": "node/4827773840",
+      "osm_id": 4827773840,
+      "osm_type": "node",
+      "name": "Școala Gimnazială „George Poboran”",
+      "category": "education",
+      "lat": 44.428003,
+      "lon": 24.3806948,
+      "tags": {
+        "amenity": "school",
+        "name": "Școala Gimnazială „George Poboran”"
+      }
+    },
+    {
+      "id": "node/4828304458",
+      "osm_id": 4828304458,
+      "osm_type": "node",
+      "name": "Colegiul Național „Ion Minulescu”",
+      "category": "education",
+      "lat": 44.4247828,
+      "lon": 24.362812,
+      "tags": {
+        "addr:city": "Slatina",
+        "addr:housenumber": "33",
+        "addr:postcode": "230113",
+        "addr:street": "Strada Basarabilor",
+        "amenity": "school",
+        "name": "Colegiul Național „Ion Minulescu”"
+      }
+    },
+    {
+      "id": "node/4828304460",
+      "osm_id": 4828304460,
+      "osm_type": "node",
+      "name": "Grădinița nr.3",
+      "category": "education",
+      "lat": 44.4301308,
+      "lon": 24.356364,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Grădinița nr.3"
+      }
+    },
+    {
+      "id": "node/4828304479",
+      "osm_id": 4828304479,
+      "osm_type": "node",
+      "name": "Școala Gimnazială nr.1",
+      "category": "education",
+      "lat": 44.429017,
+      "lon": 24.3553112,
+      "tags": {
+        "addr:city": "Slatina",
+        "addr:housenumber": "2",
+        "addr:postcode": "230081",
+        "addr:street": "Strada Ion Moroșanu",
+        "amenity": "school",
+        "name": "Școala Gimnazială nr.1"
+      }
+    },
+    {
+      "id": "node/4828329982",
+      "osm_id": 4828329982,
+      "osm_type": "node",
+      "name": "Grădinița cu Program Prelungit nr. 2 Slatina",
+      "category": "education",
+      "lat": 44.4298931,
+      "lon": 24.3660562,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Grădinița cu Program Prelungit nr. 2 Slatina"
+      }
+    },
+    {
+      "id": "node/4828329983",
+      "osm_id": 4828329983,
+      "osm_type": "node",
+      "name": "Școala Gimnazială nr.5",
+      "category": "education",
+      "lat": 44.4299707,
+      "lon": 24.3677674,
+      "tags": {
+        "addr:city": "Slatina",
+        "addr:housenumber": "5",
+        "addr:postcode": "230026",
+        "addr:street": "Strada Libertății",
+        "amenity": "school",
+        "name": "Școala Gimnazială nr.5"
+      }
+    },
+    {
+      "id": "node/4828329985",
+      "osm_id": 4828329985,
+      "osm_type": "node",
+      "name": "Școala Gimnazială „Eugen Ionescu”",
+      "category": "education",
+      "lat": 44.4302505,
+      "lon": 24.3702297,
+      "tags": {
+        "amenity": "school",
+        "name": "Școala Gimnazială „Eugen Ionescu”"
+      }
+    },
+    {
+      "id": "node/5316600441",
+      "osm_id": 5316600441,
+      "osm_type": "node",
+      "name": "Școala Postliceală Sanitară \"Christiana\"",
+      "category": "education",
+      "lat": 44.4316344,
+      "lon": 24.3528115,
+      "tags": {
+        "addr:city": "Slatina",
+        "addr:housenumber": "1",
+        "addr:postcode": "230087",
+        "addr:street": "Strada Tudor Vladimirescu",
+        "amenity": "school",
+        "name": "Școala Postliceală Sanitară \"Christiana\""
+      }
+    },
+    {
+      "id": "node/13607507500",
+      "osm_id": 13607507500,
+      "osm_type": "node",
+      "name": "Základní škola a Mateřská škola Slatina",
+      "category": "education",
+      "lat": 49.7884081,
+      "lon": 17.9774518,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Základní škola a Mateřská škola Slatina"
+      }
+    },
+    {
+      "id": "way/33816401",
+      "osm_id": 33816401,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 49.1763857,
+      "lon": 16.6891045,
+      "tags": {
+        "amenity": "kindergarten",
+        "building": "yes",
+        "building:ruian:type": "19",
+        "ref:ruian:building": "41323424",
+        "source": "cuzk:ruian"
+      }
+    },
+    {
+      "id": "way/148455932",
+      "osm_id": 148455932,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7033045,
+      "lon": 17.7005224,
+      "tags": {
+        "addr:city": "Slatina",
+        "addr:housenumber": "5A",
+        "addr:postcode": "33520",
+        "addr:street": "Trg Ruđera Boškovića",
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/152686734",
+      "osm_id": 152686734,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7061488,
+      "lon": 17.6939885,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/152716389",
+      "osm_id": 152716389,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7004411,
+      "lon": 17.7070234,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/155472208",
+      "osm_id": 155472208,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7050746,
+      "lon": 17.7000222,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/220238650",
+      "osm_id": 220238650,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 49.1714093,
+      "lon": 16.6838033,
+      "tags": {
+        "building": "school",
+        "building:levels": "3",
+        "building:ruian:type": "15",
+        "ref:ruian:building": "19349807",
+        "roof:shape": "flat",
+        "source": "cuzk:ruian"
+      }
+    },
+    {
+      "id": "way/260638184",
+      "osm_id": 260638184,
+      "osm_type": "way",
+      "name": "Grădiniță",
+      "category": "education",
+      "lat": 44.4302875,
+      "lon": 24.3724486,
+      "tags": {
+        "building": "school",
+        "name": "Grădiniță"
+      }
+    },
+    {
+      "id": "way/274001186",
+      "osm_id": 274001186,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.428232,
+      "lon": 24.3805329,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/274001194",
+      "osm_id": 274001194,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.4279208,
+      "lon": 24.3803829,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/274008221",
+      "osm_id": 274008221,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.4232709,
+      "lon": 24.3788348,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/387674868",
+      "osm_id": 387674868,
+      "osm_type": "way",
+      "name": "Základní škola Jihomoravské náměstí 2",
+      "category": "education",
+      "lat": 49.1796177,
+      "lon": 16.6853717,
+      "tags": {
+        "amenity": "school",
+        "building": "civic",
+        "building:flats": "1",
+        "building:levels": "1",
+        "building:ruian:type": "15",
+        "name": "Základní škola Jihomoravské náměstí 2",
+        "ref:ruian:building": "19356871",
+        "roof:shape": "flat",
+        "source": "cuzk:ruian",
+        "website": "https://www.zsjihomoravske.cz/"
+      }
+    },
+    {
+      "id": "way/387674869",
+      "osm_id": 387674869,
+      "osm_type": "way",
+      "name": "ZŠ Přemyslovo náměstí",
+      "category": "education",
+      "lat": 49.1767068,
+      "lon": 16.6883785,
+      "tags": {
+        "amenity": "school",
+        "building": "civic",
+        "building:flats": "1",
+        "building:levels": "4",
+        "building:ruian:type": "15",
+        "name": "ZŠ Přemyslovo náměstí",
+        "ref:ruian:addr": "19542241",
+        "ref:ruian:building": "19347120",
+        "roof:levels": "0",
+        "roof:shape": "gabled",
+        "source": "cuzk:ruian"
+      }
+    },
+    {
+      "id": "way/413120144",
+      "osm_id": 413120144,
+      "osm_type": "way",
+      "name": "Colegiul Economic P.S. Aurelian",
+      "category": "education",
+      "lat": 44.4343029,
+      "lon": 24.3728732,
+      "tags": {
+        "amenity": "school",
+        "name": "Colegiul Economic P.S. Aurelian"
+      }
+    },
+    {
+      "id": "way/413120145",
+      "osm_id": 413120145,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.4342778,
+      "lon": 24.3727835,
+      "tags": {
+        "addr:city": "Slatina",
+        "addr:housenumber": "5",
+        "addr:postcode": "230127",
+        "addr:street": "Strada Primăverii",
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/413271898",
+      "osm_id": 413271898,
+      "osm_type": "way",
+      "name": "Colegiul Tehnic Alexe Marin",
+      "category": "education",
+      "lat": 44.4313262,
+      "lon": 24.3874881,
+      "tags": {
+        "amenity": "school",
+        "name": "Colegiul Tehnic Alexe Marin"
+      }
+    },
+    {
+      "id": "way/481644070",
+      "osm_id": 481644070,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.42986,
+      "lon": 24.3660535,
+      "tags": {
+        "addr:city": "Slatina",
+        "addr:housenumber": "1A",
+        "addr:street": "Strada Păcii",
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/481644073",
+      "osm_id": 481644073,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.4299844,
+      "lon": 24.3677336,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/481644087",
+      "osm_id": 481644087,
+      "osm_type": "way",
+      "name": "Sala de sport Eugen Ionescu",
+      "category": "education",
+      "lat": 44.4302362,
+      "lon": 24.3702831,
+      "tags": {
+        "addr:city": "Slatina",
+        "addr:housenumber": "1",
+        "addr:postcode": "230032",
+        "addr:street": "Strada Unirii",
+        "building": "school",
+        "name": "Sala de sport Eugen Ionescu"
+      }
+    },
+    {
+      "id": "way/481672464",
+      "osm_id": 481672464,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.4301465,
+      "lon": 24.3563907,
+      "tags": {
+        "addr:city": "Slatina",
+        "addr:housenumber": "7",
+        "addr:street": "Strada Frații Buzești",
+        "building": "kindergarten"
+      }
+    },
+    {
+      "id": "way/481725176",
+      "osm_id": 481725176,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.4299237,
+      "lon": 24.3699976,
+      "tags": {
+        "addr:city": "Slatina",
+        "addr:housenumber": "1",
+        "addr:postcode": "230032",
+        "addr:street": "Strada Unirii",
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/481725182",
+      "osm_id": 481725182,
+      "osm_type": "way",
+      "name": "Liceul Teoretic \"Nicolae Titulescu\"",
+      "category": "education",
+      "lat": 44.4289699,
+      "lon": 24.3713602,
+      "tags": {
+        "amenity": "school",
+        "name": "Liceul Teoretic \"Nicolae Titulescu\""
+      }
+    },
+    {
+      "id": "way/481726330",
+      "osm_id": 481726330,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.4264426,
+      "lon": 24.3658648,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/481726333",
+      "osm_id": 481726333,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.4265604,
+      "lon": 24.3662162,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/481940453",
+      "osm_id": 481940453,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.4266135,
+      "lon": 24.3696963,
+      "tags": {
+        "addr:city": "Slatina",
+        "addr:housenumber": "5",
+        "addr:street": "Aleea Rozelor",
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/482250593",
+      "osm_id": 482250593,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.4243676,
+      "lon": 24.3647736,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/482261051",
+      "osm_id": 482261051,
+      "osm_type": "way",
+      "name": "Grădinița Pictor Spiru Vergulescu",
+      "category": "education",
+      "lat": 44.4240817,
+      "lon": 24.3686758,
+      "tags": {
+        "addr:city": "Slatina",
+        "addr:housenumber": "7",
+        "addr:postcode": "230038",
+        "addr:street": "Strada Zmeurei",
+        "building": "kindergarten",
+        "name": "Grădinița Pictor Spiru Vergulescu"
+      }
+    },
+    {
+      "id": "way/482269334",
+      "osm_id": 482269334,
+      "osm_type": "way",
+      "name": "Centrul Școlar pentru Educație Incluzivă Balș - structura Slatina",
+      "category": "education",
+      "lat": 44.4238353,
+      "lon": 24.3679105,
+      "tags": {
+        "building": "school",
+        "name": "Centrul Școlar pentru Educație Incluzivă Balș - structura Slatina"
+      }
+    },
+    {
+      "id": "way/482324394",
+      "osm_id": 482324394,
+      "osm_type": "way",
+      "name": "Școala Gimnazială \"Vlaicu Vodă\"",
+      "category": "education",
+      "lat": 44.433768,
+      "lon": 24.3703326,
+      "tags": {
+        "addr:city": "Slatina",
+        "addr:housenumber": "6",
+        "addr:street": "Aleea Înfrățirii",
+        "building": "school",
+        "building:levels": "3",
+        "name": "Școala Gimnazială \"Vlaicu Vodă\"",
+        "roof:colour": "#365348",
+        "roof:shape": "flat"
+      }
+    },
+    {
+      "id": "way/482324472",
+      "osm_id": 482324472,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.4187557,
+      "lon": 24.3821635,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/482328903",
+      "osm_id": 482328903,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.4207894,
+      "lon": 24.3899858,
+      "tags": {
+        "addr:city": "Slatina",
+        "addr:housenumber": "25",
+        "addr:street": "Strada Drăgănești",
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/482328904",
+      "osm_id": 482328904,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.421094,
+      "lon": 24.390128,
+      "tags": {
+        "addr:city": "Slatina",
+        "addr:housenumber": "25",
+        "addr:street": "Strada Drăgănești",
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/490647841",
+      "osm_id": 490647841,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.4290028,
+      "lon": 24.3553053,
+      "tags": {
+        "addr:city": "Slatina",
+        "addr:housenumber": "9",
+        "addr:street": "Strada Mihail Kogălniceanu",
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/490651926",
+      "osm_id": 490651926,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.4264043,
+      "lon": 24.3660425,
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "way/490651927",
+      "osm_id": 490651927,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.4246018,
+      "lon": 24.3629712,
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "way/490651928",
+      "osm_id": 490651928,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.4245018,
+      "lon": 24.3648382,
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "way/490651929",
+      "osm_id": 490651929,
+      "osm_type": "way",
+      "name": "Colegiul Național Vocațional „Nicolae TItulescu”",
+      "category": "education",
+      "lat": 44.4266543,
+      "lon": 24.3694489,
+      "tags": {
+        "amenity": "school",
+        "name": "Colegiul Național Vocațional „Nicolae TItulescu”"
+      }
+    },
+    {
+      "id": "way/490652869",
+      "osm_id": 490652869,
+      "osm_type": "way",
+      "name": "Școala Gimnazială „Eugen Ionescu”",
+      "category": "education",
+      "lat": 44.4302265,
+      "lon": 24.3700746,
+      "tags": {
+        "addr:city": "Slatina",
+        "addr:housenumber": "1",
+        "addr:postcode": "230032",
+        "addr:street": "Strada Unirii",
+        "amenity": "school",
+        "name": "Școala Gimnazială „Eugen Ionescu”"
+      }
+    },
+    {
+      "id": "way/490652870",
+      "osm_id": 490652870,
+      "osm_type": "way",
+      "name": "Școala Gimnazială nr.5 Nicolae Iorga”",
+      "category": "education",
+      "lat": 44.4299958,
+      "lon": 24.3674649,
+      "tags": {
+        "amenity": "school",
+        "name": "Școala Gimnazială nr.5 Nicolae Iorga”"
+      }
+    },
+    {
+      "id": "way/490652871",
+      "osm_id": 490652871,
+      "osm_type": "way",
+      "name": "Grădinița cu Program Prelungit nr. 2 Slatina",
+      "category": "education",
+      "lat": 44.4299657,
+      "lon": 24.3660916,
+      "tags": {
+        "amenity": "school",
+        "name": "Grădinița cu Program Prelungit nr. 2 Slatina"
+      }
+    },
+    {
+      "id": "way/490653644",
+      "osm_id": 490653644,
+      "osm_type": "way",
+      "name": "Școala Gimnazială nr.1",
+      "category": "education",
+      "lat": 44.4290671,
+      "lon": 24.3551341,
+      "tags": {
+        "amenity": "school",
+        "name": "Școala Gimnazială nr.1"
+      }
+    },
+    {
+      "id": "way/490653646",
+      "osm_id": 490653646,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.4302161,
+      "lon": 24.3563149,
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "way/490653647",
+      "osm_id": 490653647,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.4318823,
+      "lon": 24.3512134,
+      "tags": {
+        "addr:city": "Slatina",
+        "addr:housenumber": "8",
+        "addr:postcode": "230092",
+        "addr:street": "Strada Nicolae Bălcescu",
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/490653648",
+      "osm_id": 490653648,
+      "osm_type": "way",
+      "name": "Colegiul Național \"Radu Greceanu\"",
+      "category": "education",
+      "lat": 44.4321197,
+      "lon": 24.3510189,
+      "tags": {
+        "amenity": "school",
+        "name": "Colegiul Național \"Radu Greceanu\""
+      }
+    },
+    {
+      "id": "way/490686819",
+      "osm_id": 490686819,
+      "osm_type": "way",
+      "name": "Colegiul Tehnic Metalurgic",
+      "category": "education",
+      "lat": 44.4233584,
+      "lon": 24.3787347,
+      "tags": {
+        "amenity": "school",
+        "name": "Colegiul Tehnic Metalurgic"
+      }
+    },
+    {
+      "id": "way/490813306",
+      "osm_id": 490813306,
+      "osm_type": "way",
+      "name": "Școala Gimnazială „George Poboran”",
+      "category": "education",
+      "lat": 44.4281694,
+      "lon": 24.3803471,
+      "tags": {
+        "amenity": "school",
+        "name": "Școala Gimnazială „George Poboran”"
+      }
+    },
+    {
+      "id": "way/490815403",
+      "osm_id": 490815403,
+      "osm_type": "way",
+      "name": "Colegiul Național Agricol ,,Carol I” Slatina",
+      "category": "education",
+      "lat": 44.4430749,
+      "lon": 24.3532003,
+      "tags": {
+        "addr:city": "Slatina",
+        "addr:housenumber": "150",
+        "addr:postcode": "230088",
+        "addr:street": "Strada Strehareți",
+        "building": "school",
+        "name": "Colegiul Național Agricol ,,Carol I” Slatina",
+        "website": "https://www.cnacarol1.ro"
+      }
+    },
+    {
+      "id": "way/490815404",
+      "osm_id": 490815404,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.4424133,
+      "lon": 24.352916,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/490815407",
+      "osm_id": 490815407,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.4432508,
+      "lon": 24.3539044,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/490815409",
+      "osm_id": 490815409,
+      "osm_type": "way",
+      "name": "Colegiul Național Agricol „Carol I”",
+      "category": "education",
+      "lat": 44.4427533,
+      "lon": 24.3540465,
+      "tags": {
+        "amenity": "school",
+        "name": "Colegiul Național Agricol „Carol I”"
+      }
+    },
+    {
+      "id": "way/490815410",
+      "osm_id": 490815410,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.4437681,
+      "lon": 24.3535477,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/490816327",
+      "osm_id": 490816327,
+      "osm_type": "way",
+      "name": "Colegiul Tehnic „Ion Mincu”",
+      "category": "education",
+      "lat": 44.420756,
+      "lon": 24.389548,
+      "tags": {
+        "amenity": "school",
+        "name": "Colegiul Tehnic „Ion Mincu”"
+      }
+    },
+    {
+      "id": "way/490818456",
+      "osm_id": 490818456,
+      "osm_type": "way",
+      "name": "Liceul cu Program Sportiv Slatina",
+      "category": "education",
+      "lat": 44.4306197,
+      "lon": 24.374597,
+      "tags": {
+        "amenity": "school",
+        "name": "Liceul cu Program Sportiv Slatina"
+      }
+    },
+    {
+      "id": "way/550285027",
+      "osm_id": 550285027,
+      "osm_type": "way",
+      "name": "Grădinița cu program normal nr. 5",
+      "category": "education",
+      "lat": 44.4160237,
+      "lon": 24.3734663,
+      "tags": {
+        "addr:city": "Slatina",
+        "addr:housenumber": "55",
+        "addr:postcode": "230075",
+        "addr:street": "Strada Banului",
+        "building": "kindergarten",
+        "name": "Grădinița cu program normal nr. 5"
+      }
+    },
+    {
+      "id": "way/551991798",
+      "osm_id": 551991798,
+      "osm_type": "way",
+      "name": "Bastilia",
+      "category": "education",
+      "lat": 44.4325154,
+      "lon": 24.3507157,
+      "tags": {
+        "addr:city": "Slatina",
+        "addr:street": "Strada Nicolae Bălcescu",
+        "building": "school",
+        "name": "Bastilia"
+      }
+    },
+    {
+      "id": "way/551991799",
+      "osm_id": 551991799,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.432473,
+      "lon": 24.3511914,
+      "tags": {
+        "addr:city": "Slatina",
+        "addr:street": "Strada Nicolae Bălcescu",
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/551991800",
+      "osm_id": 551991800,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.432166,
+      "lon": 24.3510351,
+      "tags": {
+        "addr:city": "Slatina",
+        "addr:street": "Strada Nicolae Bălcescu",
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/561070824",
+      "osm_id": 561070824,
+      "osm_type": "way",
+      "name": "Ion Minulescu",
+      "category": "education",
+      "lat": 44.424842,
+      "lon": 24.362314,
+      "tags": {
+        "addr:city": "Slatina",
+        "addr:housenumber": "33",
+        "addr:postcode": "230113",
+        "addr:street": "Strada Basarabilor",
+        "building": "school",
+        "building:levels": "3",
+        "name": "Ion Minulescu",
+        "roof:colour": "darkgrey",
+        "roof:material": "tar_paper",
+        "roof:shape": "flat"
+      }
+    },
+    {
+      "id": "way/639487381",
+      "osm_id": 639487381,
+      "osm_type": "way",
+      "name": "Grădinița cu program prelunigit nr. 5",
+      "category": "education",
+      "lat": 44.4342113,
+      "lon": 24.3713043,
+      "tags": {
+        "addr:city": "Slatina",
+        "addr:housenumber": "2",
+        "addr:postcode": "230012",
+        "addr:street": "Aleea Înfrățirii",
+        "building": "kindergarten",
+        "building:levels": "4",
+        "name": "Grădinița cu program prelunigit nr. 5",
+        "roof:colour": "#DADAC5",
+        "roof:material": "metal sheet",
+        "roof:shape": "hipped"
+      }
+    },
+    {
+      "id": "way/671330583",
+      "osm_id": 671330583,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.4541784,
+      "lon": 24.3713295,
+      "tags": {
+        "addr:city": "Slatina",
+        "addr:housenumber": "39",
+        "addr:street": "Strada Eroilor",
+        "building": "kindergarten"
+      }
+    },
+    {
+      "id": "way/689652027",
+      "osm_id": 689652027,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Nr.3",
+      "category": "education",
+      "lat": 44.4252316,
+      "lon": 24.3783033,
+      "tags": {
+        "addr:city": "Slatina",
+        "addr:housenumber": "2",
+        "addr:street": "Strada Drăgănești",
+        "amenity": "school",
+        "name": "Școala Gimnazială Nr.3"
+      }
+    },
+    {
+      "id": "way/690554494",
+      "osm_id": 690554494,
+      "osm_type": "way",
+      "name": "Școala Constantin Brâncoveanu",
+      "category": "education",
+      "lat": 44.4190933,
+      "lon": 24.3830243,
+      "tags": {
+        "amenity": "school",
+        "name": "Școala Constantin Brâncoveanu"
+      }
+    },
+    {
+      "id": "way/993892667",
+      "osm_id": 993892667,
+      "osm_type": "way",
+      "name": "Osnovna škola Josipa Kozarca",
+      "category": "education",
+      "lat": 45.7007619,
+      "lon": 17.7069538,
+      "tags": {
+        "addr:housenumber": "2",
+        "addr:street": "Ulica Nikole Šubića Zrinskog",
+        "amenity": "school",
+        "name": "Osnovna škola Josipa Kozarca",
+        "ref:HR:e-matica": "10-067-002",
+        "website": "http://os-jkozarca-slatina.skole.hr/"
+      }
+    },
+    {
+      "id": "way/1033798008",
+      "osm_id": 1033798008,
+      "osm_type": "way",
+      "name": "Srednja škola Marka Marulića Slatina",
+      "category": "education",
+      "lat": 45.7047982,
+      "lon": 17.6994987,
+      "tags": {
+        "addr:housenumber": "16",
+        "addr:postcode": "33520",
+        "addr:street": "Trg Ruđera Boškovića",
+        "amenity": "school",
+        "isced:level": "3",
+        "name": "Srednja škola Marka Marulića Slatina",
+        "ref:HR:e-matica": "10-067-502",
+        "website": "http://www.ss-mmarulica-slatina.skole.hr/"
+      }
+    },
+    {
+      "id": "way/1033799813",
+      "osm_id": 1033799813,
+      "osm_type": "way",
+      "name": "Osnovna škola Eugena Kumičića",
+      "category": "education",
+      "lat": 45.7063973,
+      "lon": 17.694272,
+      "tags": {
+        "addr:housenumber": "24",
+        "addr:street": "Dobriše Cesarića",
+        "amenity": "school",
+        "name": "Osnovna škola Eugena Kumičića",
+        "ref:HR:e-matica": "10-067-001",
+        "website": "http://os-ekumicica-slatina.skole.hr/"
+      }
+    },
+    {
+      "id": "way/1033809738",
+      "osm_id": 1033809738,
+      "osm_type": "way",
+      "name": "Industrijsko-obrtnička škola Slatina",
+      "category": "education",
+      "lat": 45.7032331,
+      "lon": 17.7001113,
+      "tags": {
+        "addr:housenumber": "5A",
+        "addr:postcode": "33520",
+        "addr:street": "Trg Ruđera Boškovića",
+        "amenity": "school",
+        "isced:level": "3",
+        "name": "Industrijsko-obrtnička škola Slatina",
+        "ref:HR:e-matica": "10-067-503",
+        "website": "http://ss-industrijsko-obrtnicka-sl.skole.hr/"
+      }
+    },
+    {
+      "id": "way/1102696663",
+      "osm_id": 1102696663,
+      "osm_type": "way",
+      "name": "Střední škola grafická Brno",
+      "category": "education",
+      "lat": 49.1714068,
+      "lon": 16.6839322,
+      "tags": {
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Střední škola grafická Brno"
+      }
+    },
+    {
+      "id": "way/1113261544",
+      "osm_id": 1113261544,
+      "osm_type": "way",
+      "name": "Brno Jihomoravké náměstí 5",
+      "category": "education",
+      "lat": 49.1788406,
+      "lon": 16.6859686,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Brno Jihomoravké náměstí 5",
+        "official_name": "Mateřská škola Brno, Jihomoravské náměstí 5"
+      }
+    },
+    {
+      "id": "way/1113261546",
+      "osm_id": 1113261546,
+      "osm_type": "way",
+      "name": "Brno Jihomoravké náměstí 3",
+      "category": "education",
+      "lat": 49.1797103,
+      "lon": 16.6867405,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Brno Jihomoravké náměstí 3",
+        "official_name": "Mateřská škola Brno, Jihomoravské náměstí 3"
+      }
+    },
+    {
+      "id": "way/1122053251",
+      "osm_id": 1122053251,
+      "osm_type": "way",
+      "name": "Centrul de Formare și Perfecționare a Pregătirii Agenților de Poliție „Nicolae Golescu” Slatina",
+      "category": "education",
+      "lat": 44.424749,
+      "lon": 24.3579977,
+      "tags": {
+        "addr:city": "Slatina",
+        "addr:housenumber": "40",
+        "addr:street": "Strada Cazarmei",
+        "amenity": "school",
+        "name": "Centrul de Formare și Perfecționare a Pregătirii Agenților de Poliție „Nicolae Golescu” Slatina"
+      }
+    },
+    {
+      "id": "way/1123075571",
+      "osm_id": 1123075571,
+      "osm_type": "way",
+      "name": "Grădinița 5",
+      "category": "education",
+      "lat": 44.4341863,
+      "lon": 24.3712994,
+      "tags": {
+        "addr:city": "Slatina",
+        "addr:housenumber": "10",
+        "addr:postcode": "230012",
+        "addr:street": "Aleea Înfrățirii",
+        "amenity": "kindergarten",
+        "name": "Grădinița 5"
+      }
+    },
+    {
+      "id": "way/1123075572",
+      "osm_id": 1123075572,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.4339792,
+      "lon": 24.370164,
+      "tags": {
+        "addr:city": "Slatina",
+        "addr:housenumber": "6",
+        "addr:street": "Aleea Înfrățirii",
+        "building": "school",
+        "building:levels": "1",
+        "height": "5",
+        "roof:colour": "#365348",
+        "roof:shape": "flat"
+      }
+    },
+    {
+      "id": "way/1123075573",
+      "osm_id": 1123075573,
+      "osm_type": "way",
+      "name": "Școala Gimnazială \"Vlaicu Vodă\"",
+      "category": "education",
+      "lat": 44.4340143,
+      "lon": 24.3703615,
+      "tags": {
+        "amenity": "school",
+        "name": "Școala Gimnazială \"Vlaicu Vodă\""
+      }
+    },
+    {
+      "id": "way/1123075574",
+      "osm_id": 1123075574,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.4340993,
+      "lon": 24.3703303,
+      "tags": {
+        "addr:city": "Slatina",
+        "addr:housenumber": "6",
+        "addr:street": "Aleea Înfrățirii",
+        "building": "school",
+        "building:levels": "1",
+        "height": "10",
+        "roof:shape": "gabled"
+      }
+    },
+    {
+      "id": "way/1135884054",
+      "osm_id": 1135884054,
+      "osm_type": "way",
+      "name": "Colegiu Național „Ion Minulescu”",
+      "category": "education",
+      "lat": 44.4248283,
+      "lon": 24.3627437,
+      "tags": {
+        "addr:city": "Slatina",
+        "addr:housenumber": "33",
+        "addr:postcode": "230113",
+        "addr:street": "Strada Basarabilor",
+        "building": "school",
+        "building:colour": "#F3D4DC",
+        "building:levels": "3",
+        "name": "Colegiu Național „Ion Minulescu”",
+        "roof:colour": "#D99376",
+        "roof:material": "roof_tiles",
+        "roof:shape": "gabled"
+      }
+    },
+    {
+      "id": "way/1135884055",
+      "osm_id": 1135884055,
+      "osm_type": "way",
+      "name": "Colegiu Național „Ion Minulescu”",
+      "category": "education",
+      "lat": 44.424543,
+      "lon": 24.3629403,
+      "tags": {
+        "addr:city": "Slatina",
+        "addr:housenumber": "33",
+        "addr:postcode": "230113",
+        "addr:street": "Strada Basarabilor",
+        "building": "school",
+        "building:colour": "#F3D4DC",
+        "building:levels": "3",
+        "name": "Colegiu Național „Ion Minulescu”",
+        "roof:colour": "#D99376",
+        "roof:material": "roof_tiles",
+        "roof:shape": "gabled"
+      }
+    },
+    {
+      "id": "way/1135884056",
+      "osm_id": 1135884056,
+      "osm_type": "way",
+      "name": "Colegiu Național „Ion Minulescu”",
+      "category": "education",
+      "lat": 44.4244872,
+      "lon": 24.3627032,
+      "tags": {
+        "addr:city": "Slatina",
+        "addr:housenumber": "33",
+        "addr:postcode": "230113",
+        "addr:street": "Strada Basarabilor",
+        "building": "school",
+        "building:colour": "#F3D4DC",
+        "building:levels": "3",
+        "name": "Colegiu Național „Ion Minulescu”",
+        "roof:colour": "#D99376",
+        "roof:material": "roof_tiles",
+        "roof:shape": "gabled"
+      }
+    },
+    {
+      "id": "way/1239873908",
+      "osm_id": 1239873908,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.4163618,
+      "lon": 24.3722097,
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "way/1491090268",
+      "osm_id": 1491090268,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.423946,
+      "lon": 24.3637733,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "relation/2066211",
+      "osm_id": 2066211,
+      "osm_type": "relation",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7046184,
+      "lon": 17.6999089,
+      "tags": {
+        "building": "school",
+        "type": "multipolygon"
+      }
+    },
+    {
+      "id": "node/544599866",
+      "osm_id": 544599866,
+      "osm_type": "node",
+      "name": "Mănăstirea Clocociov",
+      "category": "place_of_worship",
+      "lat": 44.4117412,
+      "lon": 24.3639856,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Mănăstirea Clocociov",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/559604867",
+      "osm_id": 559604867,
+      "osm_type": "node",
+      "name": "Biserica Clocociov",
+      "category": "place_of_worship",
+      "lat": 44.4164217,
+      "lon": 24.3695017,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Clocociov",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/649621214",
+      "osm_id": 649621214,
+      "osm_type": "node",
+      "name": "Biserica Sf. Nicolae",
+      "category": "place_of_worship",
+      "lat": 44.4270515,
+      "lon": 24.3557808,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Sf. Nicolae",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/649625923",
+      "osm_id": 649625923,
+      "osm_type": "node",
+      "name": "Biserica Maica Domnului",
+      "category": "place_of_worship",
+      "lat": 44.4279419,
+      "lon": 24.3579032,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Maica Domnului",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/2382719131",
+      "osm_id": 2382719131,
+      "osm_type": "node",
+      "name": "býv. synagoga",
+      "category": "place_of_worship",
+      "lat": 49.3887461,
+      "lon": 13.744649,
+      "tags": {
+        "amenity": "place_of_worship",
+        "name": "býv. synagoga",
+        "religion": "jewish"
+      }
+    },
+    {
+      "id": "node/2964626794",
+      "osm_id": 2964626794,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 47.419199,
+      "lon": 25.9152309,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/3646646490",
+      "osm_id": 3646646490,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 48.1486032,
+      "lon": 18.8893058,
+      "tags": {
+        "denomination": "catholic",
+        "historic": "wayside_shrine",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/4062885500",
+      "osm_id": 4062885500,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 49.1776639,
+      "lon": 16.6915787,
+      "tags": {
+        "historic": "wayside_shrine",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/4827730168",
+      "osm_id": 4827730168,
+      "osm_type": "node",
+      "name": "Biserica baptistă „Betel”",
+      "category": "place_of_worship",
+      "lat": 44.422659,
+      "lon": 24.3650315,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "baptist",
+        "name": "Biserica baptistă „Betel”",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/4827797228",
+      "osm_id": 4827797228,
+      "osm_type": "node",
+      "name": "Biserica Ortodoxă Sfinții Trei Ierarhi",
+      "category": "place_of_worship",
+      "lat": 44.4280201,
+      "lon": 24.3858855,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă Sfinții Trei Ierarhi",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/5306197305",
+      "osm_id": 5306197305,
+      "osm_type": "node",
+      "name": "Biserica „Sfinții Împărați”",
+      "category": "place_of_worship",
+      "lat": 44.4317098,
+      "lon": 24.3634686,
+      "tags": {
+        "addr:city": "Slatina",
+        "addr:housenumber": "16",
+        "addr:street": "Strada Pitești",
+        "amenity": "place_of_worship",
+        "denomination": "greek_orthodox",
+        "name": "Biserica „Sfinții Împărați”",
+        "religion": "christian",
+        "wikidata": "Q18538080",
+        "wikipedia": "ro:Biserica „Sfinții Împărați” din Slatina"
+      }
+    },
+    {
+      "id": "node/5422085750",
+      "osm_id": 5422085750,
+      "osm_type": "node",
+      "name": "Biserică",
+      "category": "place_of_worship",
+      "lat": 44.4543806,
+      "lon": 24.3708159,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserică",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/6176806500",
+      "osm_id": 6176806500,
+      "osm_type": "node",
+      "name": "Kaplička Pod Strání",
+      "category": "place_of_worship",
+      "lat": 49.1842616,
+      "lon": 16.681663,
+      "tags": {
+        "denomination": "roman_catholic",
+        "historic": "wayside_shrine",
+        "inscription": "1726",
+        "name": "Kaplička Pod Strání",
+        "religion": "christian",
+        "website": "https://www.kafelanka.cz/brno/slatina/kaple4.php"
+      }
+    },
+    {
+      "id": "node/7970021493",
+      "osm_id": 7970021493,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 49.3945971,
+      "lon": 13.7441009,
+      "tags": {
+        "historic": "wayside_cross",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/7970192862",
+      "osm_id": 7970192862,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 49.3941285,
+      "lon": 13.7530095,
+      "tags": {
+        "historic": "wayside_cross",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/9373428039",
+      "osm_id": 9373428039,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 49.3871449,
+      "lon": 13.7440635,
+      "tags": {
+        "historic": "wayside_shrine",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/9487623644",
+      "osm_id": 9487623644,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 47.4337193,
+      "lon": 25.9591269,
+      "tags": {
+        "amenity": "place_of_worship",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/9856384374",
+      "osm_id": 9856384374,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 49.3855988,
+      "lon": 13.7410288,
+      "tags": {
+        "historic": "wayside_cross",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/32007896",
+      "osm_id": 32007896,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 49.1767645,
+      "lon": 16.6925954,
+      "tags": {
+        "amenity": "grave_yard",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/33605750",
+      "osm_id": 33605750,
+      "osm_type": "way",
+      "name": "sv. Florián (kaple)",
+      "category": "place_of_worship",
+      "lat": 49.1769928,
+      "lon": 16.6876185,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "civic",
+        "building:levels": "1",
+        "building:ruian:type": "15",
+        "check_date": "2025-06-21",
+        "denomination": "catholic",
+        "name": "sv. Florián (kaple)",
+        "ref:ruian:building": "41307224",
+        "religion": "christian",
+        "roof:levels": "0",
+        "roof:shape": "pyramidal",
+        "source": "cuzk:ruian"
+      }
+    },
+    {
+      "id": "way/33871789",
+      "osm_id": 33871789,
+      "osm_type": "way",
+      "name": "sv. Vojtěch",
+      "category": "place_of_worship",
+      "lat": 50.2234108,
+      "lon": 14.2213506,
+      "tags": {
+        "addr:city": "Slatina",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "building:architecture": "baroque",
+        "building:colour": "sand",
+        "building:ruian:type": "5",
+        "denomination": "roman_catholic",
+        "diocese": "Pražská arcidiecéze",
+        "name": "sv. Vojtěch",
+        "organ": "yes",
+        "organ:manuals": "1",
+        "ref:ruian:building": "38584930",
+        "religion": "christian",
+        "roof:material": "roof_tiles",
+        "source": "cuzk:ruian",
+        "start_date": "1352",
+        "wikidata": "Q38096014",
+        "wikimedia_commons": "Category:Church of Saint Adalbert (Slatina)"
+      }
+    },
+    {
+      "id": "way/33871790",
+      "osm_id": 33871790,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 50.2234225,
+      "lon": 14.2213929,
+      "tags": {
+        "amenity": "grave_yard",
+        "barrier": "wall",
+        "denomination": "roman_catholic",
+        "religion": "christian",
+        "source": "cuzk:km"
+      }
+    },
+    {
+      "id": "way/51993660",
+      "osm_id": 51993660,
+      "osm_type": "way",
+      "name": "Kaple Panny Marie (Bolestné)",
+      "category": "place_of_worship",
+      "lat": 49.1636594,
+      "lon": 16.6877318,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "chapel",
+        "building:ruian:type": "15",
+        "check_date": "2024-02-18",
+        "name": "Kaple Panny Marie (Bolestné)",
+        "ref:ruian:building": "41796888",
+        "religion": "christian",
+        "source": "cuzk:ruian",
+        "wikidata": "Q47461108"
+      }
+    },
+    {
+      "id": "way/70673262",
+      "osm_id": 70673262,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 49.7853243,
+      "lon": 17.9713287,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "building:ruian:type": "19",
+        "ref:ruian:building": "38963248",
+        "religion": "christian",
+        "source": "cuzk:ruian"
+      }
+    },
+    {
+      "id": "way/70673291",
+      "osm_id": 70673291,
+      "osm_type": "way",
+      "name": "sv. Isidor",
+      "category": "place_of_worship",
+      "lat": 49.7933874,
+      "lon": 17.981876,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "chapel",
+        "building:ruian:type": "5",
+        "denomination": "catholic",
+        "name": "sv. Isidor",
+        "ref:ruian:building": "38963230",
+        "religion": "christian",
+        "source": "cuzk:ruian"
+      }
+    },
+    {
+      "id": "way/70673371",
+      "osm_id": 70673371,
+      "osm_type": "way",
+      "name": "Nanebevzetí Panny Marie",
+      "category": "place_of_worship",
+      "lat": 49.7886601,
+      "lon": 17.9769549,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "building:ruian:type": "15",
+        "denomination": "roman_catholic",
+        "name": "Nanebevzetí Panny Marie",
+        "ref:ruian:building": "44878893",
+        "religion": "christian",
+        "source": "cuzk:ruian"
+      }
+    },
+    {
+      "id": "way/95421237",
+      "osm_id": 95421237,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 49.1771792,
+      "lon": 16.6916681,
+      "tags": {
+        "building": "church",
+        "source": "cuzk:km"
+      }
+    },
+    {
+      "id": "way/95421241",
+      "osm_id": 95421241,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 49.1771028,
+      "lon": 16.6916587,
+      "tags": {
+        "building": "church",
+        "source": "cuzk:km"
+      }
+    },
+    {
+      "id": "way/95421249",
+      "osm_id": 95421249,
+      "osm_type": "way",
+      "name": "Povýšení svatého Kříže",
+      "category": "place_of_worship",
+      "lat": 49.1772489,
+      "lon": 16.6916868,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "building:levels": "3",
+        "building:ruian:type": "15",
+        "check_date": "2024-05-05",
+        "denomination": "catholic",
+        "name": "Povýšení svatého Kříže",
+        "ref:ruian:building": "45589267",
+        "religion": "christian",
+        "roof:levels": "0",
+        "roof:shape": "pyramidal",
+        "source": "cuzk:ruian",
+        "wikidata": "Q12030510",
+        "wikipedia": "cs:Kostel Povýšení svatého Kříže (Brno)"
+      }
+    },
+    {
+      "id": "way/95421259",
+      "osm_id": 95421259,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 49.177156,
+      "lon": 16.6917341,
+      "tags": {
+        "building": "church",
+        "source": "cuzk:km"
+      }
+    },
+    {
+      "id": "way/95663381",
+      "osm_id": 95663381,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 49.0197475,
+      "lon": 16.0184215,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "civic",
+        "building:ruian:type": "15",
+        "denomination": "catholic",
+        "ref:ruian:building": "41316517",
+        "religion": "christian",
+        "source": "cuzk:ruian",
+        "wikidata": "Q38096045"
+      }
+    },
+    {
+      "id": "way/133334882",
+      "osm_id": 133334882,
+      "osm_type": "way",
+      "name": "Gradsko groblje",
+      "category": "place_of_worship",
+      "lat": 45.6984119,
+      "lon": 17.6961156,
+      "tags": {
+        "landuse": "cemetery",
+        "name": "Gradsko groblje",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/152706746",
+      "osm_id": 152706746,
+      "osm_type": "way",
+      "name": "crkva svetog Josipa",
+      "category": "place_of_worship",
+      "lat": 45.7008254,
+      "lon": 17.7019918,
+      "tags": {
+        "addr:housenumber": "11B",
+        "addr:street": "Trg svetog Josipa",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "church:type": "parish",
+        "denomination": "roman_catholic",
+        "diocese": "Požeška biskupija",
+        "name": "crkva svetog Josipa",
+        "parish": "Župa svetog Josipa (Slatina)",
+        "patron_saint:wikidata": "Q128267",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/152806884",
+      "osm_id": 152806884,
+      "osm_type": "way",
+      "name": "Evanđeoska pentekostna crkva",
+      "category": "place_of_worship",
+      "lat": 45.7048298,
+      "lon": 17.7026764,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "pentecostal",
+        "diocese": "Evanđeoska pentekostna crkva u Republici Hrvatskoj",
+        "name": "Evanđeoska pentekostna crkva",
+        "religion": "christian",
+        "website": "http://site.epc.hr/slatina/"
+      }
+    },
+    {
+      "id": "way/152806919",
+      "osm_id": 152806919,
+      "osm_type": "way",
+      "name": "crkva svetih apostola Petra i Pavla",
+      "category": "place_of_worship",
+      "lat": 45.7019162,
+      "lon": 17.6992676,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "serbian_orthodox",
+        "diocese": "Eparhija pakračko-slavonska",
+        "name": "crkva svetih apostola Petra i Pavla",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/170945250",
+      "osm_id": 170945250,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 48.146163,
+      "lon": 18.8979848,
+      "tags": {
+        "addr:city": "Slatina",
+        "addr:conscriptionnumber": "25",
+        "addr:country": "SK",
+        "addr:housenumber": "25",
+        "addr:place": "Slatina",
+        "addr:postcode": "93584",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "roman_catholic",
+        "ref:minvskaddress": "15220205",
+        "religion": "christian",
+        "source": "kapor2",
+        "source:addr": "minvskaddress 2025-01"
+      }
+    },
+    {
+      "id": "way/229818224",
+      "osm_id": 229818224,
+      "osm_type": "way",
+      "name": "Filiální kostel sv. Petra a Pavla, apoštolů",
+      "category": "place_of_worship",
+      "lat": 49.9810913,
+      "lon": 16.1564251,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "civic",
+        "building:ruian:type": "5",
+        "denomination": "greek_catholic",
+        "name": "Filiální kostel sv. Petra a Pavla, apoštolů",
+        "ref:ruian:building": "39423379",
+        "religion": "christian",
+        "source": "cuzk:ruian"
+      }
+    },
+    {
+      "id": "way/244572123",
+      "osm_id": 244572123,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 49.3885892,
+      "lon": 13.7449404,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "chapel",
+        "denomination": "catholic",
+        "ref:ruian": "44667990",
+        "religion": "christian",
+        "source": "ruian"
+      }
+    },
+    {
+      "id": "way/359970489",
+      "osm_id": 359970489,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 49.6292167,
+      "lon": 16.6079563,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "chapel",
+        "building:ruian:type": "16",
+        "denomination": "catholic",
+        "ref:ruian:building": "15840603",
+        "religion": "christian",
+        "source": "cuzk:ruian"
+      }
+    },
+    {
+      "id": "way/376918777",
+      "osm_id": 376918777,
+      "osm_type": "way",
+      "name": "sv. Jan Nepomucký",
+      "category": "place_of_worship",
+      "lat": 49.7913922,
+      "lon": 17.9802915,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "chapel",
+        "building:ruian:type": "19",
+        "denomination": "catholic",
+        "name": "sv. Jan Nepomucký",
+        "ref:ruian:building": "44882955",
+        "religion": "christian",
+        "source": "cuzk:ruian"
+      }
+    },
+    {
+      "id": "way/413334887",
+      "osm_id": 413334887,
+      "osm_type": "way",
+      "name": "Catedrala Slatina",
+      "category": "place_of_worship",
+      "lat": 44.4308374,
+      "lon": 24.3542128,
+      "tags": {
+        "addr:city": "Slatina",
+        "addr:housenumber": "62",
+        "addr:street": "Ionașcu",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Catedrala Slatina",
+        "religion": "christian",
+        "wheelchair": "no",
+        "wikipedia": "ro:Catedrala din Slatina"
+      }
+    },
+    {
+      "id": "way/478843995",
+      "osm_id": 478843995,
+      "osm_type": "way",
+      "name": "Catedrala Nouă",
+      "category": "place_of_worship",
+      "lat": 44.4254753,
+      "lon": 24.3775756,
+      "tags": {
+        "addr:city": "Slatina",
+        "addr:housenumber": "1A",
+        "addr:postcode": "230053",
+        "addr:street": "Strada Ecaterina Teodoroiu",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Catedrala Nouă",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/478843997",
+      "osm_id": 478843997,
+      "osm_type": "way",
+      "name": "Biserica Domnească",
+      "category": "place_of_worship",
+      "lat": 44.4293963,
+      "lon": 24.3571603,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica Domnească",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/482269306",
+      "osm_id": 482269306,
+      "osm_type": "way",
+      "name": "Biserica Maica Domnului",
+      "category": "place_of_worship",
+      "lat": 44.4279812,
+      "lon": 24.3580385,
+      "tags": {
+        "addr:city": "Slatina",
+        "addr:housenumber": "2",
+        "addr:street": "Strada 1 Decembrie 1918",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Maica Domnului",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/490593922",
+      "osm_id": 490593922,
+      "osm_type": "way",
+      "name": "Biserica Sfinții Trei Ierarhi",
+      "category": "place_of_worship",
+      "lat": 44.4279478,
+      "lon": 24.3858788,
+      "tags": {
+        "addr:city": "Slatina",
+        "addr:housenumber": "54",
+        "addr:street": "Bulevardul Alexandru Ioan Cuza",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Sfinții Trei Ierarhi",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/490869292",
+      "osm_id": 490869292,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă Sf. Mina",
+      "category": "place_of_worship",
+      "lat": 44.4312174,
+      "lon": 24.3772492,
+      "tags": {
+        "addr:city": "Slatina",
+        "addr:housenumber": "17",
+        "addr:street": "Strada Textilistului",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă Sf. Mina",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/550175291",
+      "osm_id": 550175291,
+      "osm_type": "way",
+      "name": "Cimitirul Strehareți",
+      "category": "place_of_worship",
+      "lat": 44.4412476,
+      "lon": 24.3483061,
+      "tags": {
+        "denomination": "greek_orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitirul Strehareți",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/550175292",
+      "osm_id": 550175292,
+      "osm_type": "way",
+      "name": "Cimitirul Strehareți",
+      "category": "place_of_worship",
+      "lat": 44.4403044,
+      "lon": 24.3508604,
+      "tags": {
+        "denomination": "greek_orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitirul Strehareți",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/550285253",
+      "osm_id": 550285253,
+      "osm_type": "way",
+      "name": "Cimitirul Clocociov",
+      "category": "place_of_worship",
+      "lat": 44.4161907,
+      "lon": 24.3688142,
+      "tags": {
+        "denomination": "greek_orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitirul Clocociov",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/550611707",
+      "osm_id": 550611707,
+      "osm_type": "way",
+      "name": "Biserica Romano-Catolică \"Nașterea Sfintei Fecioare Maria\"",
+      "category": "place_of_worship",
+      "lat": 44.4375784,
+      "lon": 24.3719165,
+      "tags": {
+        "addr:city": "Slatina",
+        "addr:housenumber": "28",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Cornișei",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "roman_catholic",
+        "name": "Biserica Romano-Catolică \"Nașterea Sfintei Fecioare Maria\"",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/550611708",
+      "osm_id": 550611708,
+      "osm_type": "way",
+      "name": "Zona Bisericii Catolice",
+      "category": "place_of_worship",
+      "lat": 44.4375337,
+      "lon": 24.3718396,
+      "tags": {
+        "addr:city": "Slatina",
+        "addr:housenumber": "28",
+        "addr:street": "Strada Cornișei",
+        "denomination": "catholic",
+        "landuse": "religious",
+        "name": "Zona Bisericii Catolice",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/550931270",
+      "osm_id": 550931270,
+      "osm_type": "way",
+      "name": "Biserica „Adormirea Maicii Domnului”",
+      "category": "place_of_worship",
+      "lat": 44.4442418,
+      "lon": 24.3521218,
+      "tags": {
+        "addr:city": "Slatina",
+        "addr:housenumber": "154",
+        "addr:postcode": "230088",
+        "addr:street": "Strada Strehareți",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "greek_orthodox",
+        "name": "Biserica „Adormirea Maicii Domnului”",
+        "religion": "christian",
+        "website": "http://manastireastrehareti.ro"
+      }
+    },
+    {
+      "id": "way/592812164",
+      "osm_id": 592812164,
+      "osm_type": "way",
+      "name": "Biserica Grădiște",
+      "category": "place_of_worship",
+      "lat": 44.4264334,
+      "lon": 24.3519964,
+      "tags": {
+        "addr:city": "Slatina",
+        "addr:housenumber": "10",
+        "addr:street": "Strada 13 Decembrie",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "greek_orthodox",
+        "name": "Biserica Grădiște",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/639069887",
+      "osm_id": 639069887,
+      "osm_type": "way",
+      "name": "Biserica Sfântul Nicolae",
+      "category": "place_of_worship",
+      "lat": 44.4270589,
+      "lon": 24.3558103,
+      "tags": {
+        "addr:city": "Slatina",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "greek_orthodox",
+        "name": "Biserica Sfântul Nicolae",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/639487373",
+      "osm_id": 639487373,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă Cireașov",
+      "category": "place_of_worship",
+      "lat": 44.4543957,
+      "lon": 24.3708237,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă Cireașov",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/650625102",
+      "osm_id": 650625102,
+      "osm_type": "way",
+      "name": "Biserica Sfântul Vasile - Spital",
+      "category": "place_of_worship",
+      "lat": 44.4323061,
+      "lon": 24.3667547,
+      "tags": {
+        "addr:city": "Slatina",
+        "addr:street": "Strada Nicolae Titulescu",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Biserica Sfântul Vasile - Spital",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/665822704",
+      "osm_id": 665822704,
+      "osm_type": "way",
+      "name": "Biserica Cireașov - Nașterea Maicii Domnului",
+      "category": "place_of_worship",
+      "lat": 44.4474266,
+      "lon": 24.3733194,
+      "tags": {
+        "addr:city": "Slatina",
+        "addr:housenumber": "52",
+        "addr:street": "Strada Grigore Alexandrescu",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Cireașov - Nașterea Maicii Domnului",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/691374457",
+      "osm_id": 691374457,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.427925,
+      "lon": 24.3858507,
+      "tags": {
+        "denomination": "greek_orthodox",
+        "landuse": "religious",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/704301869",
+      "osm_id": 704301869,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.4191141,
+      "lon": 24.381858,
+      "tags": {
+        "building": "church"
+      }
+    },
+    {
+      "id": "way/704379131",
+      "osm_id": 704379131,
+      "osm_type": "way",
+      "name": "Biserica Obocari",
+      "category": "place_of_worship",
+      "lat": 44.4400069,
+      "lon": 24.3489315,
+      "tags": {
+        "addr:city": "Slatina",
+        "addr:housenumber": "141",
+        "addr:street": "Strada Strehareți",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "greek_orthodox",
+        "name": "Biserica Obocari",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1029069786",
+      "osm_id": 1029069786,
+      "osm_type": "way",
+      "name": "Mănăstirea Slatina",
+      "category": "place_of_worship",
+      "lat": 47.4337964,
+      "lon": 25.960755,
+      "tags": {
+        "amenity": "monastery",
+        "denomination": "orthodox",
+        "landuse": "religious",
+        "name": "Mănăstirea Slatina",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1033808165",
+      "osm_id": 1033808165,
+      "osm_type": "way",
+      "name": "crkva blaženog Ivana Merza",
+      "category": "place_of_worship",
+      "lat": 45.7057201,
+      "lon": 17.6975478,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "church:type": "parish",
+        "denomination": "roman_catholic",
+        "diocese": "Požeška biskupija",
+        "name": "crkva blaženog Ivana Merza",
+        "parish": "Župa blaženog Ivana Merza (Slatina)",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1033808180",
+      "osm_id": 1033808180,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.705765,
+      "lon": 17.6974168,
+      "tags": {
+        "denomination": "roman_catholic",
+        "landuse": "religious",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1122010168",
+      "osm_id": 1122010168,
+      "osm_type": "way",
+      "name": "Biserica Nașterii Maicii Domnului",
+      "category": "place_of_worship",
+      "lat": 44.4242931,
+      "lon": 24.3617738,
+      "tags": {
+        "addr:city": "Slatina",
+        "addr:housenumber": "55",
+        "addr:street": "Strada Caloianca",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "greek_orthodox",
+        "name": "Biserica Nașterii Maicii Domnului",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1177341084",
+      "osm_id": 1177341084,
+      "osm_type": "way",
+      "name": "Biserica",
+      "category": "place_of_worship",
+      "lat": 44.4093529,
+      "lon": 24.3756979,
+      "tags": {
+        "addr:city": "Slatina",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Biserica",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1177341086",
+      "osm_id": 1177341086,
+      "osm_type": "way",
+      "name": "Cimitir",
+      "category": "place_of_worship",
+      "lat": 44.4079138,
+      "lon": 24.3752572,
+      "tags": {
+        "landuse": "cemetery",
+        "name": "Cimitir",
+        "religion": "christian"
+      }
+    }
+  ]
+}

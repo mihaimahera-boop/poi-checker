@@ -1,0 +1,356 @@
+{
+  "city": "Săcele",
+  "generated_at": "2026-04-23T10:12:43.994Z",
+  "counts": {
+    "total": 23,
+    "schools": 9,
+    "churches": 14
+  },
+  "pois": [
+    {
+      "id": "node/303078831",
+      "osm_id": 303078831,
+      "osm_type": "node",
+      "name": "Grădinița Nr. 4",
+      "category": "education",
+      "lat": 45.6167881,
+      "lon": 25.6938872,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Grădinița Nr. 4"
+      }
+    },
+    {
+      "id": "node/303080036",
+      "osm_id": 303080036,
+      "osm_type": "node",
+      "name": "Școală",
+      "category": "education",
+      "lat": 45.6127881,
+      "lon": 25.6688992,
+      "tags": {
+        "amenity": "school",
+        "check_date": "2026-01-31",
+        "name": "Școală"
+      }
+    },
+    {
+      "id": "node/11900394578",
+      "osm_id": 11900394578,
+      "osm_type": "node",
+      "name": "Școala Gimnazială nr. 1 Municipiul Săcele",
+      "category": "education",
+      "lat": 45.6125441,
+      "lon": 25.6686683,
+      "tags": {
+        "amenity": "school",
+        "name": "Școala Gimnazială nr. 1 Municipiul Săcele"
+      }
+    },
+    {
+      "id": "way/313816113",
+      "osm_id": 313816113,
+      "osm_type": "way",
+      "name": "Generala 4",
+      "category": "education",
+      "lat": 45.6154794,
+      "lon": 25.7215768,
+      "tags": {
+        "addr:city": "Săcele",
+        "addr:postcode": "505600",
+        "addr:street": "Strada Viitorului",
+        "building": "school",
+        "building:levels": "4",
+        "name": "Generala 4"
+      }
+    },
+    {
+      "id": "way/313816114",
+      "osm_id": 313816114,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.6151124,
+      "lon": 25.7212408,
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "way/313816118",
+      "osm_id": 313816118,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.615712,
+      "lon": 25.7209178,
+      "tags": {
+        "building": "kindergarten"
+      }
+    },
+    {
+      "id": "way/313816122",
+      "osm_id": 313816122,
+      "osm_type": "way",
+      "name": "Colegiul Tehnic de Construcții-Montaj Victor Jinga",
+      "category": "education",
+      "lat": 45.6160452,
+      "lon": 25.7242673,
+      "tags": {
+        "addr:city": "Săcele",
+        "addr:housenumber": "20",
+        "addr:street": "Aleea Episcop Popeea",
+        "building": "school",
+        "building:levels": "2",
+        "name": "Colegiul Tehnic de Construcții-Montaj Victor Jinga"
+      }
+    },
+    {
+      "id": "way/313816123",
+      "osm_id": 313816123,
+      "osm_type": "way",
+      "name": "Colegiul Tehnic de Construcții-Montaj Victor Jinga",
+      "category": "education",
+      "lat": 45.6169041,
+      "lon": 25.7249868,
+      "tags": {
+        "building": "school",
+        "name": "Colegiul Tehnic de Construcții-Montaj Victor Jinga"
+      }
+    },
+    {
+      "id": "way/313816124",
+      "osm_id": 313816124,
+      "osm_type": "way",
+      "name": "Colegiul Tehnic de Construcții-Montaj Victor Jinga",
+      "category": "education",
+      "lat": 45.6168373,
+      "lon": 25.7258883,
+      "tags": {
+        "building": "school",
+        "name": "Colegiul Tehnic de Construcții-Montaj Victor Jinga"
+      }
+    },
+    {
+      "id": "node/289993662",
+      "osm_id": 289993662,
+      "osm_type": "node",
+      "name": "Biserica Adormirea Maicii Domnului",
+      "category": "place_of_worship",
+      "lat": 45.6178748,
+      "lon": 25.6949078,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica Adormirea Maicii Domnului",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/2534688470",
+      "osm_id": 2534688470,
+      "osm_type": "node",
+      "name": "Biserica Ortodoxă",
+      "category": "place_of_worship",
+      "lat": 45.6080777,
+      "lon": 25.6738562,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/2534690718",
+      "osm_id": 2534690718,
+      "osm_type": "node",
+      "name": "Capela Mortuală",
+      "category": "place_of_worship",
+      "lat": 45.609635,
+      "lon": 25.6671775,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "funeral",
+        "name": "Capela Mortuală",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/2565929167",
+      "osm_id": 2565929167,
+      "osm_type": "node",
+      "name": "Biserica Sfânta Adormire",
+      "category": "place_of_worship",
+      "lat": 45.6132018,
+      "lon": 25.7218969,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Sfânta Adormire",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/2769774435",
+      "osm_id": 2769774435,
+      "osm_type": "node",
+      "name": "Biserica Ortodoxă",
+      "category": "place_of_worship",
+      "lat": 45.6083778,
+      "lon": 25.6767725,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/3118857686",
+      "osm_id": 3118857686,
+      "osm_type": "node",
+      "name": "Biserica Sfântul Nicolae",
+      "category": "place_of_worship",
+      "lat": 45.6126735,
+      "lon": 25.6804189,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Sfântul Nicolae",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/5585628082",
+      "osm_id": 5585628082,
+      "osm_type": "node",
+      "name": "Mănăstirea „Înălțarea Domnului”, Brădet",
+      "category": "place_of_worship",
+      "lat": 45.542836,
+      "lon": 25.7593668,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Mănăstirea „Înălțarea Domnului”, Brădet",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/9712327712",
+      "osm_id": 9712327712,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.6166409,
+      "lon": 25.7046141,
+      "tags": {
+        "amenity": "place_of_worship",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/217784854",
+      "osm_id": 217784854,
+      "osm_type": "way",
+      "name": "Biserica Sf. Ioachim și Ana",
+      "category": "place_of_worship",
+      "lat": 45.593637,
+      "lon": 25.637462,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Sf. Ioachim și Ana",
+        "religion": "christian",
+        "source": "survey"
+      }
+    },
+    {
+      "id": "way/381785930",
+      "osm_id": 381785930,
+      "osm_type": "way",
+      "name": "Biserica Romano-Catolică Sfântul Arhanghel Mihail",
+      "category": "place_of_worship",
+      "lat": 45.6118377,
+      "lon": 25.6751819,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "roman_catholic",
+        "name": "Biserica Romano-Catolică Sfântul Arhanghel Mihail",
+        "name:hu": "Szent Mihály arkangyal-templom",
+        "religion": "christian",
+        "url:miserend": "http://miserend.hu/?templom=3334"
+      }
+    },
+    {
+      "id": "way/417942055",
+      "osm_id": 417942055,
+      "osm_type": "way",
+      "name": "Biserica „Sfânta Treime\"",
+      "category": "place_of_worship",
+      "lat": 44.4881557,
+      "lon": 28.642603,
+      "tags": {
+        "addr:city": "Săcele",
+        "amenity": "place_of_worship",
+        "building": "house",
+        "denomination": "romanian_orthodox",
+        "historic": "church",
+        "name": "Biserica „Sfânta Treime\"",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/921687246",
+      "osm_id": 921687246,
+      "osm_type": "way",
+      "name": "Biserica Romano-Catolică",
+      "category": "place_of_worship",
+      "lat": 45.6205373,
+      "lon": 25.7090826,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "roman_catholic",
+        "name": "Biserica Romano-Catolică",
+        "name:hu": "Boldog Apor Vilmos-templom",
+        "religion": "christian",
+        "url:miserend": "https://miserend.hu/templom/5048"
+      }
+    },
+    {
+      "id": "way/1188484342",
+      "osm_id": 1188484342,
+      "osm_type": "way",
+      "name": "Biserica „Sfântul Cuvios Stelian – Ocrotitorul copiilor“",
+      "category": "place_of_worship",
+      "lat": 44.4896412,
+      "lon": 28.6501461,
+      "tags": {
+        "addr:city": "Săcele",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica „Sfântul Cuvios Stelian – Ocrotitorul copiilor“",
+        "religion": "christian",
+        "start_date": "2011"
+      }
+    },
+    {
+      "id": "way/1188484348",
+      "osm_id": 1188484348,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.4881413,
+      "lon": 28.6423852,
+      "tags": {
+        "denomination": "romanian_orthodox",
+        "landuse": "religious",
+        "religion": "christian"
+      }
+    }
+  ]
+}

@@ -1,0 +1,326 @@
+{
+  "city": "Năvodari",
+  "generated_at": "2026-04-23T09:49:21.976Z",
+  "counts": {
+    "total": 22,
+    "schools": 10,
+    "churches": 12
+  },
+  "pois": [
+    {
+      "id": "node/11407142313",
+      "osm_id": 11407142313,
+      "osm_type": "node",
+      "name": "Școala Postliceală „Henri Coandă” Năvodari",
+      "category": "education",
+      "lat": 44.3195919,
+      "lon": 28.6107122,
+      "tags": {
+        "amenity": "college",
+        "education": "college",
+        "email": "henricoanda.constanta@yahoo.ro",
+        "name": "Școala Postliceală „Henri Coandă” Năvodari",
+        "phone": "+40 743 144 336",
+        "website": "https://www.henricoandaconstanta.ro"
+      }
+    },
+    {
+      "id": "way/259158367",
+      "osm_id": 259158367,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.3203331,
+      "lon": 28.6099558,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/259158372",
+      "osm_id": 259158372,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.3203852,
+      "lon": 28.6093207,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/259158375",
+      "osm_id": 259158375,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.3195751,
+      "lon": 28.6107562,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/259159855",
+      "osm_id": 259159855,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.3190805,
+      "lon": 28.6128346,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/361067081",
+      "osm_id": 361067081,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.3213223,
+      "lon": 28.6067888,
+      "tags": {
+        "addr:city": "Năvodari",
+        "building": "school",
+        "source": "survey"
+      }
+    },
+    {
+      "id": "way/1230069838",
+      "osm_id": 1230069838,
+      "osm_type": "way",
+      "name": "Liceul Tehnologic „Lazăr Erdeleanu”",
+      "category": "education",
+      "lat": 44.3191781,
+      "lon": 28.6108365,
+      "tags": {
+        "addr:housenumber": "2",
+        "addr:postcode": "905700",
+        "addr:street": "Strada Sănătății",
+        "amenity": "school",
+        "education": "school",
+        "fax": "+40 241 761 553",
+        "name": "Liceul Tehnologic „Lazăr Erdeleanu”",
+        "phone": "+40 241 760 008",
+        "website": "https://www.ltedeleanu.ro"
+      }
+    },
+    {
+      "id": "way/1230072322",
+      "osm_id": 1230072322,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Tudor Arghezi",
+      "category": "education",
+      "lat": 44.3191156,
+      "lon": 28.612936,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Școala Gimnazială Tudor Arghezi"
+      }
+    },
+    {
+      "id": "way/1316716937",
+      "osm_id": 1316716937,
+      "osm_type": "way",
+      "name": "Școala Gimnazială „Grigore Moisil” Năvodari",
+      "category": "education",
+      "lat": 44.3213849,
+      "lon": 28.6069601,
+      "tags": {
+        "addr:city": "Năvodari",
+        "amenity": "school",
+        "education": "school",
+        "name": "Școala Gimnazială „Grigore Moisil” Năvodari",
+        "source": "survey"
+      }
+    },
+    {
+      "id": "way/1455471556",
+      "osm_id": 1455471556,
+      "osm_type": "way",
+      "name": "Școala Gimnazială George Enescu",
+      "category": "education",
+      "lat": 44.3204744,
+      "lon": 28.6096703,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "grades": "1-8",
+        "name": "Școala Gimnazială George Enescu",
+        "website": "https://www.scgeorgeenescu.ro/"
+      }
+    },
+    {
+      "id": "node/2637596329",
+      "osm_id": 2637596329,
+      "osm_type": "node",
+      "name": "Biserică",
+      "category": "place_of_worship",
+      "lat": 44.321761,
+      "lon": 28.6084972,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserică",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/3833137794",
+      "osm_id": 3833137794,
+      "osm_type": "node",
+      "name": "Biserica Sfântul Ioan Botezătorul",
+      "category": "place_of_worship",
+      "lat": 44.2733261,
+      "lon": 28.5817028,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Sfântul Ioan Botezătorul",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/244815420",
+      "osm_id": 244815420,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.288699,
+      "lon": 28.6153633,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/258395295",
+      "osm_id": 258395295,
+      "osm_type": "way",
+      "name": "Biserică",
+      "category": "place_of_worship",
+      "lat": 44.3218051,
+      "lon": 28.6085268,
+      "tags": {
+        "building": "church",
+        "name": "Biserică"
+      }
+    },
+    {
+      "id": "way/258578703",
+      "osm_id": 258578703,
+      "osm_type": "way",
+      "name": "Mănăstirea Năvodari",
+      "category": "place_of_worship",
+      "lat": 44.336055,
+      "lon": 28.6334782,
+      "tags": {
+        "building": "church",
+        "designation": "Ortodox",
+        "name": "Mănăstirea Năvodari"
+      }
+    },
+    {
+      "id": "way/258928565",
+      "osm_id": 258928565,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.3276884,
+      "lon": 28.6091328,
+      "tags": {
+        "building": "church"
+      }
+    },
+    {
+      "id": "way/258928566",
+      "osm_id": 258928566,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.3275263,
+      "lon": 28.6089548,
+      "tags": {
+        "building": "church"
+      }
+    },
+    {
+      "id": "way/379648446",
+      "osm_id": 379648446,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.315296,
+      "lon": 28.6138824,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/379655023",
+      "osm_id": 379655023,
+      "osm_type": "way",
+      "name": "Biserica Romano Catolică",
+      "category": "place_of_worship",
+      "lat": 44.3190022,
+      "lon": 28.6059916,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "roman_catholic",
+        "name": "Biserica Romano Catolică",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/380364217",
+      "osm_id": 380364217,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă",
+      "category": "place_of_worship",
+      "lat": 44.3179102,
+      "lon": 28.6042462,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/706798778",
+      "osm_id": 706798778,
+      "osm_type": "way",
+      "name": "biserica",
+      "category": "place_of_worship",
+      "lat": 44.2733528,
+      "lon": 28.5817322,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "biserica",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1383624715",
+      "osm_id": 1383624715,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.3363634,
+      "lon": 28.6336596,
+      "tags": {
+        "building": "church"
+      }
+    }
+  ]
+}

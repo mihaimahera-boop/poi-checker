@@ -1,0 +1,27 @@
+{
+  "city": "Bălteni",
+  "generated_at": "2026-04-23T09:27:42.562Z",
+  "counts": {
+    "total": 1,
+    "schools": 0,
+    "churches": 1
+  },
+  "pois": [
+    {
+      "id": "node/3502898191",
+      "osm_id": 3502898191,
+      "osm_type": "node",
+      "name": "Biserica Bălteni",
+      "category": "place_of_worship",
+      "lat": 46.6808576,
+      "lon": 27.6265665,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica Bălteni",
+        "religion": "christian"
+      }
+    }
+  ]
+}

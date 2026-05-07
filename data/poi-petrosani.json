@@ -1,0 +1,1323 @@
+{
+  "city": "Petroșani",
+  "generated_at": "2026-04-23T09:57:06.152Z",
+  "counts": {
+    "total": 77,
+    "schools": 47,
+    "churches": 30
+  },
+  "pois": [
+    {
+      "id": "node/2124945200",
+      "osm_id": 2124945200,
+      "osm_type": "node",
+      "name": "Școala Sportivă",
+      "category": "education",
+      "lat": 45.4177809,
+      "lon": 23.372372,
+      "tags": {
+        "addr:city": "Petroșani",
+        "amenity": "school",
+        "is_in:city": "Petroșani",
+        "name": "Școala Sportivă"
+      }
+    },
+    {
+      "id": "node/2124952988",
+      "osm_id": 2124952988,
+      "osm_type": "node",
+      "name": "Colegiul Național Mihai Eminescu - Școala Gimnazială Avram Stanca Petroșani , nr.4",
+      "category": "education",
+      "lat": 45.4201039,
+      "lon": 23.372937,
+      "tags": {
+        "addr:city": "Petroșani",
+        "addr:housenumber": "73",
+        "addr:postcode": "907111",
+        "addr:street": "Strada Anghel Saligny",
+        "amenity": "school",
+        "email": "office@cnme-petrosani.ro",
+        "grades": "1-8",
+        "is_in:city": "Petroșani",
+        "name": "Colegiul Național Mihai Eminescu - Școala Gimnazială Avram Stanca Petroșani , nr.4",
+        "website": "https://www.cnme-petrosani.ro/despre-noi/structura-colegiului/"
+      }
+    },
+    {
+      "id": "node/2209821230",
+      "osm_id": 2209821230,
+      "osm_type": "node",
+      "name": "Universitatea Petroșani",
+      "category": "education",
+      "lat": 45.418175,
+      "lon": 23.3738962,
+      "tags": {
+        "addr:city": "Petroșani",
+        "addr:housename": "Universitatea Petroșani",
+        "addr:street": "Strada Universității",
+        "amenity": "school",
+        "name": "Universitatea Petroșani"
+      }
+    },
+    {
+      "id": "node/2209823557",
+      "osm_id": 2209823557,
+      "osm_type": "node",
+      "name": "Universitatea Petroșani",
+      "category": "education",
+      "lat": 45.4196962,
+      "lon": 23.3759615,
+      "tags": {
+        "addr:city": "Petroșani",
+        "addr:housename": "Universitatea Petroșani",
+        "addr:housenumber": "20",
+        "addr:postcode": "332006",
+        "addr:street": "Strada Universității",
+        "amenity": "school",
+        "name": "Universitatea Petroșani"
+      }
+    },
+    {
+      "id": "way/210966052",
+      "osm_id": 210966052,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Nr.7 Petroșani",
+      "category": "education",
+      "lat": 45.393075,
+      "lon": 23.3769955,
+      "tags": {
+        "addr:city": "Petroșani",
+        "addr:housename": "Scoală generala nr. 7",
+        "addr:housenumber": "9",
+        "addr:street": "Strada Venus",
+        "amenity": "school",
+        "building": "school",
+        "building:colour": "#3CB371",
+        "height": "12",
+        "name": "Școala Gimnazială Nr.7 Petroșani",
+        "roof:height": "3",
+        "roof:material": "roof_tiles",
+        "roof:shape": "hipped"
+      }
+    },
+    {
+      "id": "way/211128356",
+      "osm_id": 211128356,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.3934305,
+      "lon": 23.374472,
+      "tags": {
+        "addr:city": "Petroșani",
+        "addr:housenumber": "2",
+        "addr:street": "Strada Aviatorilor",
+        "amenity": "social_facility",
+        "building": "school",
+        "building:colour": "#FFA07A",
+        "height": "9",
+        "roof:material": "roof_tiles",
+        "roof:shape": "hipped",
+        "social_facility": "group_home",
+        "social_facility:for": "senior"
+      }
+    },
+    {
+      "id": "way/211269483",
+      "osm_id": 211269483,
+      "osm_type": "way",
+      "name": "Grădiniță cu program Prelungit",
+      "category": "education",
+      "lat": 45.3956201,
+      "lon": 23.3761073,
+      "tags": {
+        "addr:city": "Petroșani",
+        "addr:housename": "Grădiniță cu program Prelungit",
+        "addr:housenumber": "3",
+        "addr:street": "Strada Aviatorilor",
+        "amenity": "school",
+        "building": "yes",
+        "building:colour": "#F0E68C",
+        "name": "Grădiniță cu program Prelungit",
+        "roof:material": "roof_tiles",
+        "roof:shape": "hipped"
+      }
+    },
+    {
+      "id": "way/211773213",
+      "osm_id": 211773213,
+      "osm_type": "way",
+      "name": "Corpul D",
+      "category": "education",
+      "lat": 45.4203642,
+      "lon": 23.3759368,
+      "tags": {
+        "addr:city": "Petroșani",
+        "addr:housenumber": "1",
+        "addr:postcode": "907111",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Universității",
+        "amenity": "university",
+        "building": "yes",
+        "education": "university",
+        "name": "Corpul D"
+      }
+    },
+    {
+      "id": "way/211927015",
+      "osm_id": 211927015,
+      "osm_type": "way",
+      "name": "Școala Generală Nr. 6",
+      "category": "education",
+      "lat": 45.3983167,
+      "lon": 23.3774025,
+      "tags": {
+        "addr:housename": "Școala Generală nr. 6",
+        "addr:street": "Strada Independenței",
+        "amenity": "school",
+        "education": "school",
+        "grades": "0-8",
+        "name": "Școala Generală Nr. 6"
+      }
+    },
+    {
+      "id": "way/213072703",
+      "osm_id": 213072703,
+      "osm_type": "way",
+      "name": "Grădiniță",
+      "category": "education",
+      "lat": 45.4019572,
+      "lon": 23.3764516,
+      "tags": {
+        "addr:housename": "Grădiniță",
+        "addr:street": "Strada Independenței",
+        "amenity": "school",
+        "education": "school",
+        "name": "Grădiniță"
+      }
+    },
+    {
+      "id": "way/213923192",
+      "osm_id": 213923192,
+      "osm_type": "way",
+      "name": "Colegiul Economic Hermes",
+      "category": "education",
+      "lat": 45.407238,
+      "lon": 23.3746408,
+      "tags": {
+        "addr:city": "Petroșani",
+        "addr:housename": "COLEGIUL ECONOMIC HERMES",
+        "addr:housenumber": "1 A",
+        "addr:street": "Strada Independenței",
+        "amenity": "college",
+        "building": "yes",
+        "building:colour": "#FFE4E1",
+        "building:material": "brick",
+        "name": "Colegiul Economic Hermes",
+        "roof:material": "roof_tiles",
+        "roof:shape": "hipped"
+      }
+    },
+    {
+      "id": "way/213923584",
+      "osm_id": 213923584,
+      "osm_type": "way",
+      "name": "Sală de Sport",
+      "category": "education",
+      "lat": 45.407288,
+      "lon": 23.3748018,
+      "tags": {
+        "addr:city": "Petroșani",
+        "addr:housename": "Sală de Sport",
+        "addr:housenumber": "1 A",
+        "addr:street": "Strada Independenței",
+        "amenity": "college",
+        "building": "school",
+        "name": "Sală de Sport"
+      }
+    },
+    {
+      "id": "way/214138888",
+      "osm_id": 214138888,
+      "osm_type": "way",
+      "name": "Universitatea Petroșani - Corpul B",
+      "category": "education",
+      "lat": 45.4182718,
+      "lon": 23.3741489,
+      "tags": {
+        "addr:housename": "Universitatea Petroșani - Corpul B",
+        "addr:street": "Strada Universității",
+        "amenity": "university",
+        "building": "yes",
+        "name": "Universitatea Petroșani - Corpul B"
+      }
+    },
+    {
+      "id": "way/216254035",
+      "osm_id": 216254035,
+      "osm_type": "way",
+      "name": "Grădinița Ion Gheorghe Duca",
+      "category": "education",
+      "lat": 45.414641,
+      "lon": 23.3731434,
+      "tags": {
+        "addr:housename": "Grădiniță în lucru",
+        "building": "kindergarten",
+        "name": "Grădinița Ion Gheorghe Duca"
+      }
+    },
+    {
+      "id": "way/216254859",
+      "osm_id": 216254859,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.4178412,
+      "lon": 23.3725624,
+      "tags": {
+        "amenity": "school",
+        "building": "yes"
+      }
+    },
+    {
+      "id": "way/216490073",
+      "osm_id": 216490073,
+      "osm_type": "way",
+      "name": "Grup Școlar Dimitrie Leonida",
+      "category": "education",
+      "lat": 45.4126907,
+      "lon": 23.3784009,
+      "tags": {
+        "addr:city": "Petroșani",
+        "addr:housenumber": "6",
+        "addr:street": "Strada 22 Decembrie",
+        "amenity": "college",
+        "building": "yes",
+        "name": "Grup Școlar Dimitrie Leonida"
+      }
+    },
+    {
+      "id": "way/216490099",
+      "osm_id": 216490099,
+      "osm_type": "way",
+      "name": "Atelier",
+      "category": "education",
+      "lat": 45.4129494,
+      "lon": 23.3786596,
+      "tags": {
+        "amenity": "college",
+        "building": "yes",
+        "name": "Atelier"
+      }
+    },
+    {
+      "id": "way/216490138",
+      "osm_id": 216490138,
+      "osm_type": "way",
+      "name": "Sală de Sport",
+      "category": "education",
+      "lat": 45.4133152,
+      "lon": 23.3789171,
+      "tags": {
+        "addr:housename": "Sală de sport",
+        "amenity": "college",
+        "name": "Sală de Sport"
+      }
+    },
+    {
+      "id": "way/216490230",
+      "osm_id": 216490230,
+      "osm_type": "way",
+      "name": "Cantină",
+      "category": "education",
+      "lat": 45.413696,
+      "lon": 23.3793322,
+      "tags": {
+        "addr:housename": "Cantină",
+        "amenity": "college",
+        "building": "yes",
+        "name": "Cantină"
+      }
+    },
+    {
+      "id": "way/216493259",
+      "osm_id": 216493259,
+      "osm_type": "way",
+      "name": "Liceul de Informatică",
+      "category": "education",
+      "lat": 45.4123744,
+      "lon": 23.3797232,
+      "tags": {
+        "addr:city": "Petroșani",
+        "addr:housename": "Liceul de Informatică",
+        "addr:housenumber": "10",
+        "addr:street": "Strada Slătioara",
+        "amenity": "college",
+        "building": "yes",
+        "name": "Liceul de Informatică"
+      }
+    },
+    {
+      "id": "way/216606026",
+      "osm_id": 216606026,
+      "osm_type": "way",
+      "name": "Școala Gimnazială I. Gh. Duca",
+      "category": "education",
+      "lat": 45.4150502,
+      "lon": 23.3733524,
+      "tags": {
+        "addr:city": "Petroșani",
+        "addr:housenumber": "98",
+        "addr:postcode": "332024",
+        "addr:street": "Strada 1 Decembrie 1918",
+        "building": "school",
+        "building:colour": "#FFA07A",
+        "grades": "0-4",
+        "height": "9",
+        "layer": "1",
+        "name": "Școala Gimnazială I. Gh. Duca",
+        "roof:material": "roof_tiles",
+        "roof:shape": "hipped"
+      }
+    },
+    {
+      "id": "way/216620623",
+      "osm_id": 216620623,
+      "osm_type": "way",
+      "name": "Alelier",
+      "category": "education",
+      "lat": 45.4201982,
+      "lon": 23.376793,
+      "tags": {
+        "addr:housename": "Alelier",
+        "addr:street": "Strada Universității",
+        "amenity": "university",
+        "name": "Alelier"
+      }
+    },
+    {
+      "id": "way/216620893",
+      "osm_id": 216620893,
+      "osm_type": "way",
+      "name": "Sală de Sport",
+      "category": "education",
+      "lat": 45.4207473,
+      "lon": 23.3787454,
+      "tags": {
+        "addr:housename": "Sală de Sport",
+        "addr:street": "Strada Universității",
+        "amenity": "university",
+        "name": "Sală de Sport"
+      }
+    },
+    {
+      "id": "way/216620928",
+      "osm_id": 216620928,
+      "osm_type": "way",
+      "name": "Corp E",
+      "category": "education",
+      "lat": 45.4202669,
+      "lon": 23.378413,
+      "tags": {
+        "addr:housename": "Corp E",
+        "amenity": "university",
+        "name": "Corp E"
+      }
+    },
+    {
+      "id": "way/217927949",
+      "osm_id": 217927949,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.4198175,
+      "lon": 23.3718181,
+      "tags": {
+        "amenity": "school",
+        "building": "yes",
+        "roof:material": "roof_tiles",
+        "roof:shape": "gabled"
+      }
+    },
+    {
+      "id": "way/218137584",
+      "osm_id": 218137584,
+      "osm_type": "way",
+      "name": "Grădiniță",
+      "category": "education",
+      "lat": 45.423696,
+      "lon": 23.3701332,
+      "tags": {
+        "addr:housename": "Grădiniță",
+        "addr:street": "Strada Constructorului",
+        "amenity": "kindergarten",
+        "name": "Grădiniță"
+      }
+    },
+    {
+      "id": "way/218229573",
+      "osm_id": 218229573,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.4252145,
+      "lon": 23.3684596,
+      "tags": {
+        "addr:city": "Petroșani",
+        "addr:housenumber": "7",
+        "addr:street": "Bulevardul 1 Decembrie 1918",
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/219217008",
+      "osm_id": 219217008,
+      "osm_type": "way",
+      "name": "Școala Generală nr 2",
+      "category": "education",
+      "lat": 45.4225088,
+      "lon": 23.3630846,
+      "tags": {
+        "addr:city": "Petroșani",
+        "addr:housename": "Școala Generală nr 2",
+        "amenity": "school",
+        "is_in:city": "Petroșani",
+        "name": "Școala Generală nr 2"
+      }
+    },
+    {
+      "id": "way/219217327",
+      "osm_id": 219217327,
+      "osm_type": "way",
+      "name": "Atelier Școala Generală nr 2",
+      "category": "education",
+      "lat": 45.4222434,
+      "lon": 23.3633501,
+      "tags": {
+        "addr:city": "Petroșani",
+        "amenity": "school",
+        "is_in:city": "Petroșani",
+        "name": "Atelier Școala Generală nr 2"
+      }
+    },
+    {
+      "id": "way/243292179",
+      "osm_id": 243292179,
+      "osm_type": "way",
+      "name": "ANEFS",
+      "category": "education",
+      "lat": 45.3845339,
+      "lon": 23.4738067,
+      "tags": {
+        "amenity": "school",
+        "name": "ANEFS"
+      }
+    },
+    {
+      "id": "way/246376008",
+      "osm_id": 246376008,
+      "osm_type": "way",
+      "name": "Sală de Sport",
+      "category": "education",
+      "lat": 45.4132401,
+      "lon": 23.3789838,
+      "tags": {
+        "addr:housename": "Sală de sport",
+        "amenity": "college",
+        "name": "Sală de Sport"
+      }
+    },
+    {
+      "id": "way/249337146",
+      "osm_id": 249337146,
+      "osm_type": "way",
+      "name": "Sală de Sport",
+      "category": "education",
+      "lat": 45.4072837,
+      "lon": 23.3750346,
+      "tags": {
+        "addr:city": "Petroșani",
+        "addr:housename": "Sală de Sport",
+        "addr:housenumber": "1 A",
+        "addr:street": "Strada Independenței",
+        "amenity": "college",
+        "building": "school",
+        "name": "Sală de Sport"
+      }
+    },
+    {
+      "id": "way/256577476",
+      "osm_id": 256577476,
+      "osm_type": "way",
+      "name": "Fundația Sfânta Maria",
+      "category": "education",
+      "lat": 45.4270855,
+      "lon": 23.3857094,
+      "tags": {
+        "addr:housename": "Fundația Sfânta Maria ",
+        "addr:street": "Maleia",
+        "building": "school",
+        "name": "Fundația Sfânta Maria"
+      }
+    },
+    {
+      "id": "way/258214888",
+      "osm_id": 258214888,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.3816035,
+      "lon": 23.3728761,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/674679402",
+      "osm_id": 674679402,
+      "osm_type": "way",
+      "name": "Școala Generală nr. 5",
+      "category": "education",
+      "lat": 45.4025694,
+      "lon": 23.374679,
+      "tags": {
+        "addr:city": "Petroșani",
+        "addr:street": "Strada Oituz",
+        "amenity": "school",
+        "building": "school",
+        "name": "Școala Generală nr. 5"
+      }
+    },
+    {
+      "id": "way/743717091",
+      "osm_id": 743717091,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Ion Gheorghe Duca",
+      "category": "education",
+      "lat": 45.4144149,
+      "lon": 23.3758738,
+      "tags": {
+        "addr:city": "Petroșani",
+        "addr:housenumber": "4",
+        "addr:postcode": "332021",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Ștefan Octavian Iosif",
+        "amenity": "school",
+        "barrier": "fence",
+        "fence_type": "chain_link",
+        "grades": "5-8",
+        "height": "1",
+        "material": "steel",
+        "name": "Școala Gimnazială Ion Gheorghe Duca",
+        "website": "https://igducapetrosani.ro/"
+      }
+    },
+    {
+      "id": "way/750790535",
+      "osm_id": 750790535,
+      "osm_type": "way",
+      "name": "Bazinul pentru Înot -\" Iancu Avram- M.\"",
+      "category": "education",
+      "lat": 45.4024357,
+      "lon": 23.3759606,
+      "tags": {
+        "access": "yes",
+        "addr:city": "Petroșani",
+        "addr:housenumber": "1",
+        "addr:street": "Strada Viitorului",
+        "amenity": "school",
+        "building": "yes",
+        "email": "bazinpetrosani@yahoo.com",
+        "height": "9",
+        "location": "roof",
+        "name": "Bazinul pentru Înot -\" Iancu Avram- M.\"",
+        "website": "https://bazininotpetrosani.webnode.ro/"
+      }
+    },
+    {
+      "id": "way/812919545",
+      "osm_id": 812919545,
+      "osm_type": "way",
+      "name": "Grădinița nr. 3",
+      "category": "education",
+      "lat": 45.4118661,
+      "lon": 23.3728741,
+      "tags": {
+        "addr:city": "Petroșani",
+        "addr:street": "Strada Carpați",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "name": "Grădinița nr. 3"
+      }
+    },
+    {
+      "id": "way/838639462",
+      "osm_id": 838639462,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Ion Gheorghe Duca",
+      "category": "education",
+      "lat": 45.4148317,
+      "lon": 23.3732183,
+      "tags": {
+        "addr:city": "Petroșani",
+        "addr:housenumber": "98",
+        "addr:postcode": "332024",
+        "addr:street": "Strada 1 Decembrie 1918",
+        "amenity": "school",
+        "grades": "0-4",
+        "layer": "1",
+        "name": "Școala Gimnazială Ion Gheorghe Duca"
+      }
+    },
+    {
+      "id": "way/884140015",
+      "osm_id": 884140015,
+      "osm_type": "way",
+      "name": "Colegiul Național Mihai Eminescu",
+      "category": "education",
+      "lat": 45.4252158,
+      "lon": 23.3684443,
+      "tags": {
+        "addr:city": "Petroșani",
+        "addr:housenumber": "7",
+        "addr:street": "Strada 1 Decembrie 1918",
+        "amenity": "school",
+        "grades": "9-12",
+        "name": "Colegiul Național Mihai Eminescu"
+      }
+    },
+    {
+      "id": "way/1016853188",
+      "osm_id": 1016853188,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.4144134,
+      "lon": 23.3761868,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/1162639833",
+      "osm_id": 1162639833,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Avram Stanca Petroșani",
+      "category": "education",
+      "lat": 45.4200714,
+      "lon": 23.3728669,
+      "tags": {
+        "addr:city": "Petroșani",
+        "addr:housenumber": "76",
+        "addr:postcode": "907111",
+        "addr:street": "Bulevardul 1 Decembrie 1918",
+        "amenity": "school",
+        "building": "yes",
+        "building:colour": "#90EE90",
+        "denomination": "romanian_orthodox",
+        "grades": "1-8",
+        "height": "12",
+        "name": "Școala Gimnazială Avram Stanca Petroșani",
+        "religion": "christian",
+        "roof:material": "roof_tiles",
+        "roof:shape": "gabled",
+        "website": "https://www.cnme-petrosani.ro/despre-noi/structura-colegiului/"
+      }
+    },
+    {
+      "id": "way/1162639838",
+      "osm_id": 1162639838,
+      "osm_type": "way",
+      "name": "Sală de Sport",
+      "category": "education",
+      "lat": 45.4197497,
+      "lon": 23.3727154,
+      "tags": {
+        "amenity": "school",
+        "building": "yes",
+        "height": "8",
+        "name": "Sală de Sport",
+        "roof:colour": "#AFEEEE",
+        "roof:height": "1",
+        "roof:shape": "gabled"
+      }
+    },
+    {
+      "id": "way/1164907893",
+      "osm_id": 1164907893,
+      "osm_type": "way",
+      "name": "Sala de sport",
+      "category": "education",
+      "lat": 45.4027203,
+      "lon": 23.375333,
+      "tags": {
+        "amenity": "school",
+        "building": "yes",
+        "height": "7",
+        "name": "Sala de sport"
+      }
+    },
+    {
+      "id": "way/1164907894",
+      "osm_id": 1164907894,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.4028819,
+      "lon": 23.3752719,
+      "tags": {
+        "amenity": "school",
+        "building": "yes",
+        "height": "4"
+      }
+    },
+    {
+      "id": "way/1164907895",
+      "osm_id": 1164907895,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.402552,
+      "lon": 23.3753847,
+      "tags": {
+        "amenity": "school",
+        "building": "yes",
+        "height": "4"
+      }
+    },
+    {
+      "id": "relation/11241524",
+      "osm_id": 11241524,
+      "osm_type": "relation",
+      "name": "Școala Gimnazială Ion Gheorghe Duca",
+      "category": "education",
+      "lat": 45.4146279,
+      "lon": 23.3745873,
+      "tags": {
+        "amenity": "school",
+        "name": "Școala Gimnazială Ion Gheorghe Duca",
+        "type": "multipolygon",
+        "website": "https://igducapetrosani.ro"
+      }
+    },
+    {
+      "id": "node/2124975846",
+      "osm_id": 2124975846,
+      "osm_type": "node",
+      "name": "Bisericuța de Lemn",
+      "category": "place_of_worship",
+      "lat": 45.4290493,
+      "lon": 23.3617559,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Bisericuța de Lemn",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/2621886767",
+      "osm_id": 2621886767,
+      "osm_type": "node",
+      "name": "Biserica Nașterea Maicii Domnului",
+      "category": "place_of_worship",
+      "lat": 45.42689,
+      "lon": 23.3946714,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Nașterea Maicii Domnului",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/2622266149",
+      "osm_id": 2622266149,
+      "osm_type": "node",
+      "name": "Biserica de lemn",
+      "category": "place_of_worship",
+      "lat": 45.4266002,
+      "lon": 23.3919006,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica de lemn",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/4471819131",
+      "osm_id": 4471819131,
+      "osm_type": "node",
+      "name": "Biserica Sânonilor",
+      "category": "place_of_worship",
+      "lat": 45.4101742,
+      "lon": 23.3676494,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "designation": "Monument Istoric",
+        "name": "Biserica Sânonilor",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/5283565472",
+      "osm_id": 5283565472,
+      "osm_type": "node",
+      "name": "Biserica Reformată",
+      "category": "place_of_worship",
+      "lat": 45.4160295,
+      "lon": 23.3735397,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "reformed",
+        "name": "Biserica Reformată",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/5283565473",
+      "osm_id": 5283565473,
+      "osm_type": "node",
+      "name": "Biserica Unitariană",
+      "category": "place_of_worship",
+      "lat": 45.4159354,
+      "lon": 23.3728719,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "unitarian",
+        "name": "Biserica Unitariană",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/6735731401",
+      "osm_id": 6735731401,
+      "osm_type": "node",
+      "name": "Sala Regatului Martorilor lui Iehova",
+      "category": "place_of_worship",
+      "lat": 45.4230111,
+      "lon": 23.3711994,
+      "tags": {
+        "addr:city": "Petroșani",
+        "addr:housenumber": "8",
+        "addr:street": "Strada Cireșilor",
+        "amenity": "place_of_worship",
+        "denomination": "jehovahs_witness",
+        "name": "Sala Regatului Martorilor lui Iehova",
+        "name:ro": "Sala Regatului a Martorilor lui Iehova",
+        "opening_hours": "Su, Th 18:00-20:00",
+        "phone": "0799212225(,",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/214787508",
+      "osm_id": 214787508,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă - Sfinții Împărați Constantin și Elena",
+      "category": "place_of_worship",
+      "lat": 45.4082386,
+      "lon": 23.3727918,
+      "tags": {
+        "addr:city": "Petroșani",
+        "addr:housenumber": "18",
+        "addr:postcode": "332000",
+        "addr:street": "Strada Petru Maior",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "designation": "Ortodox",
+        "name": "Biserica Ortodoxă - Sfinții Împărați Constantin și Elena",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/216623942",
+      "osm_id": 216623942,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă - Sfânta Treime",
+      "category": "place_of_worship",
+      "lat": 45.4191215,
+      "lon": 23.3717422,
+      "tags": {
+        "addr:city": "Petroșani",
+        "addr:housenumber": "75",
+        "addr:street": "Strada 1 Decembrie 1918",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica Ortodoxă - Sfânta Treime",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/217274171",
+      "osm_id": 217274171,
+      "osm_type": "way",
+      "name": "Protopopiatul Ortodox Petroșani",
+      "category": "place_of_worship",
+      "lat": 45.4166864,
+      "lon": 23.3743051,
+      "tags": {
+        "addr:city": "Petroșani",
+        "addr:housename": "Protopopiatul Ortodox Petroșani",
+        "addr:housenumber": "5",
+        "addr:postcode": "332007",
+        "addr:street": "Strada General Dragalina",
+        "building": "yes",
+        "denomination": "orthodox",
+        "height": "7",
+        "landuse": "religious",
+        "name": "Protopopiatul Ortodox Petroșani",
+        "religion": "christian",
+        "roof:material": "roof_tiles",
+        "roof:shape": "hipped"
+      }
+    },
+    {
+      "id": "way/217274271",
+      "osm_id": 217274271,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă - Pogorârea Sfântului Duh",
+      "category": "place_of_worship",
+      "lat": 45.4169393,
+      "lon": 23.3743106,
+      "tags": {
+        "addr:city": "Petroșani",
+        "addr:street": "Strada General Dragalina",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "height": "9",
+        "name": "Biserica Ortodoxă - Pogorârea Sfântului Duh",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/218273524",
+      "osm_id": 218273524,
+      "osm_type": "way",
+      "name": "Biserica Sânonilor",
+      "category": "place_of_worship",
+      "lat": 45.4101815,
+      "lon": 23.3676349,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "designation": "Monument Istoric",
+        "name": "Biserica Sânonilor",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/218276550",
+      "osm_id": 218276550,
+      "osm_type": "way",
+      "name": "Biserica de lemn Sfântul Gheorghe",
+      "category": "place_of_worship",
+      "lat": 45.3867821,
+      "lon": 23.3744217,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica de lemn Sfântul Gheorghe",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/232379748",
+      "osm_id": 232379748,
+      "osm_type": "way",
+      "name": "Biserica Evanghalică Sfânta Maria",
+      "category": "place_of_worship",
+      "lat": 45.4187037,
+      "lon": 23.3697899,
+      "tags": {
+        "addr:city": "Petroșani",
+        "addr:housename": "Biserica Evanghelica",
+        "addr:postcode": "332014",
+        "addr:street": "Strada Mihai Viteazu",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "evanghelic_(A.B.)",
+        "name": "Biserica Evanghalică Sfânta Maria",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/256574735",
+      "osm_id": 256574735,
+      "osm_type": "way",
+      "name": "Biserica de Lemn",
+      "category": "place_of_worship",
+      "lat": 45.426609,
+      "lon": 23.3919606,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica de Lemn",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/256575908",
+      "osm_id": 256575908,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă Nașterea Maicii Domnului",
+      "category": "place_of_worship",
+      "lat": 45.426892,
+      "lon": 23.3947224,
+      "tags": {
+        "addr:city": "Petroșani",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă Nașterea Maicii Domnului",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/270542841",
+      "osm_id": 270542841,
+      "osm_type": "way",
+      "name": "Cimitir",
+      "category": "place_of_worship",
+      "lat": 45.4389697,
+      "lon": 23.3682632,
+      "tags": {
+        "access": "private",
+        "barrier": "fence",
+        "landuse": "cemetery",
+        "name": "Cimitir",
+        "religion": "christian",
+        "source": "Bing, survey"
+      }
+    },
+    {
+      "id": "way/293087728",
+      "osm_id": 293087728,
+      "osm_type": "way",
+      "name": "Biserica Catolică Sfânta Varavra",
+      "category": "place_of_worship",
+      "lat": 45.4186343,
+      "lon": 23.3681368,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "roman_catholic",
+        "name": "Biserica Catolică Sfânta Varavra",
+        "name:hu": "Szent Borbála-templom",
+        "religion": "christian",
+        "url:miserend": "https://miserend.hu/templom/3127"
+      }
+    },
+    {
+      "id": "way/324055697",
+      "osm_id": 324055697,
+      "osm_type": "way",
+      "name": "Bisericuța de Lemn",
+      "category": "place_of_worship",
+      "lat": 45.429052,
+      "lon": 23.361807,
+      "tags": {
+        "building": "church",
+        "name": "Bisericuța de Lemn"
+      }
+    },
+    {
+      "id": "way/743717098",
+      "osm_id": 743717098,
+      "osm_type": "way",
+      "name": "Biserica Sfântul Ierarh Nectarie Taumaturgul de la Eghina",
+      "category": "place_of_worship",
+      "lat": 45.4125141,
+      "lon": 23.3737188,
+      "tags": {
+        "addr:city": "Petroșani",
+        "addr:street": "Strada Avram Iancu",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica Sfântul Ierarh Nectarie Taumaturgul de la Eghina",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/743717099",
+      "osm_id": 743717099,
+      "osm_type": "way",
+      "name": "Catedrala Sfântul Proroc Ilie Tesviteanul",
+      "category": "place_of_worship",
+      "lat": 45.4125571,
+      "lon": 23.3733335,
+      "tags": {
+        "addr:city": "Petroșani",
+        "addr:street": "Strada Avram Iancu",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "name": "Catedrala Sfântul Proroc Ilie Tesviteanul",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/823793085",
+      "osm_id": 823793085,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxa - Sfântul Ierarh Nicolae",
+      "category": "place_of_worship",
+      "lat": 45.4245389,
+      "lon": 23.3686891,
+      "tags": {
+        "addr:city": "Petroșani",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "height": "9",
+        "name": "Biserica Ortodoxa - Sfântul Ierarh Nicolae",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1160207002",
+      "osm_id": 1160207002,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.3926733,
+      "lon": 23.3762685,
+      "tags": {
+        "building": "church",
+        "building:part": "yes",
+        "height": "20",
+        "roof:colour": "#8B4513"
+      }
+    },
+    {
+      "id": "way/1160207004",
+      "osm_id": 1160207004,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă Sf. M. Mc. Varvara",
+      "category": "place_of_worship",
+      "lat": 45.3926733,
+      "lon": 23.376345,
+      "tags": {
+        "addr:city": "Petroșani",
+        "addr:housenumber": "9A",
+        "addr:street": "Strada Venus",
+        "amenity": "place_of_worship",
+        "building:colour": "#8B4513",
+        "building:part": "yes",
+        "denomination": "romanian_orthodox",
+        "height": "9",
+        "name": "Biserica Ortodoxă Sf. M. Mc. Varvara",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1160207005",
+      "osm_id": 1160207005,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.3926178,
+      "lon": 23.3763475,
+      "tags": {
+        "building": "church",
+        "height": "7"
+      }
+    },
+    {
+      "id": "way/1160271841",
+      "osm_id": 1160271841,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.3927289,
+      "lon": 23.376345,
+      "tags": {
+        "building": "church",
+        "height": "7",
+        "roof:colour": "#787878",
+        "roof:material": "tar_paper"
+      }
+    },
+    {
+      "id": "way/1160271872",
+      "osm_id": 1160271872,
+      "osm_type": "way",
+      "name": "Biserica Sfânta Mare Mucenică Varvara",
+      "category": "place_of_worship",
+      "lat": 45.3926733,
+      "lon": 23.3763244,
+      "tags": {
+        "addr:city": "Petroșani",
+        "addr:housenumber": "9A",
+        "addr:street": "Strada Venus",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "height": "11",
+        "name": "Biserica Sfânta Mare Mucenică Varvara",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1160271873",
+      "osm_id": 1160271873,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.3926714,
+      "lon": 23.3764754,
+      "tags": {
+        "building": "church",
+        "height": "9"
+      }
+    },
+    {
+      "id": "way/1162639833",
+      "osm_id": 1162639833,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Avram Stanca Petroșani",
+      "category": "place_of_worship",
+      "lat": 45.4200714,
+      "lon": 23.3728669,
+      "tags": {
+        "addr:city": "Petroșani",
+        "addr:housenumber": "76",
+        "addr:postcode": "907111",
+        "addr:street": "Bulevardul 1 Decembrie 1918",
+        "amenity": "school",
+        "building": "yes",
+        "building:colour": "#90EE90",
+        "denomination": "romanian_orthodox",
+        "grades": "1-8",
+        "height": "12",
+        "name": "Școala Gimnazială Avram Stanca Petroșani",
+        "religion": "christian",
+        "roof:material": "roof_tiles",
+        "roof:shape": "gabled",
+        "website": "https://www.cnme-petrosani.ro/despre-noi/structura-colegiului/"
+      }
+    },
+    {
+      "id": "way/1164859983",
+      "osm_id": 1164859983,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.4169047,
+      "lon": 23.3741913,
+      "tags": {
+        "building": "church",
+        "height": "13"
+      }
+    }
+  ]
+}

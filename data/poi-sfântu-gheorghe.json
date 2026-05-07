@@ -1,0 +1,145 @@
+{
+  "city": "Sfântu Gheorghe",
+  "generated_at": "2026-04-23T10:14:06.294Z",
+  "counts": {
+    "total": 8,
+    "schools": 5,
+    "churches": 3
+  },
+  "pois": [
+    {
+      "id": "node/1735667943",
+      "osm_id": 1735667943,
+      "osm_type": "node",
+      "name": "Marine and Fluvial Research Station",
+      "category": "education",
+      "lat": 44.8969523,
+      "lon": 29.5911532,
+      "tags": {
+        "amenity": "university",
+        "internet_access": "yes",
+        "internet_access:fee": "customers",
+        "name": "Marine and Fluvial Research Station",
+        "operator": "University of Bucharest",
+        "operator:type": "university",
+        "website": "http://www.coastalresearch.ro/"
+      }
+    },
+    {
+      "id": "way/344094668",
+      "osm_id": 344094668,
+      "osm_type": "way",
+      "name": "Cămin Cultural",
+      "category": "education",
+      "lat": 44.8954904,
+      "lon": 29.5944397,
+      "tags": {
+        "addr:city": "Sfântu Gheorghe",
+        "addr:postcode": "827195",
+        "addr:street": "Strada I",
+        "building": "kindergarten",
+        "name": "Cămin Cultural"
+      }
+    },
+    {
+      "id": "way/344094858",
+      "osm_id": 344094858,
+      "osm_type": "way",
+      "name": "Școala Sf. Gheorghe",
+      "category": "education",
+      "lat": 44.8969549,
+      "lon": 29.5941135,
+      "tags": {
+        "building": "school",
+        "name": "Școala Sf. Gheorghe"
+      }
+    },
+    {
+      "id": "way/1075807264",
+      "osm_id": 1075807264,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.8966573,
+      "lon": 29.5938086,
+      "tags": {
+        "addr:city": "Sfântu Gheorghe",
+        "addr:housenumber": "51",
+        "addr:postcode": "827195",
+        "addr:street": "Strada II",
+        "building": "kindergarten"
+      }
+    },
+    {
+      "id": "way/1075807265",
+      "osm_id": 1075807265,
+      "osm_type": "way",
+      "name": "Școala Sf. Gheorghe",
+      "category": "education",
+      "lat": 44.8969443,
+      "lon": 29.5940903,
+      "tags": {
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Școala Sf. Gheorghe"
+      }
+    },
+    {
+      "id": "way/1075805401",
+      "osm_id": 1075805401,
+      "osm_type": "way",
+      "name": "Biserica „Sfântul Mare Mucenic Gheorghe”",
+      "category": "place_of_worship",
+      "lat": 44.8958001,
+      "lon": 29.5943585,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "description": "Biserica din Sfântu Gheorghe: ridicată în 1896 din donația lui Iany Melano, unul dintre stăpânii satului la vremea respectivă. Despre el a scris o poveste fabuloasă renumitul Sadoveanu.",
+        "historic": "church",
+        "mobile": "+40742560370",
+        "name": "Biserica „Sfântul Mare Mucenic Gheorghe”",
+        "religion": "christian",
+        "website": "http://www.episcopiatulcii.ro/"
+      }
+    },
+    {
+      "id": "way/1167227768",
+      "osm_id": 1167227768,
+      "osm_type": "way",
+      "name": "Biserica „Adormirea Maicii Domnului\"",
+      "category": "place_of_worship",
+      "lat": 44.6484833,
+      "lon": 26.8200466,
+      "tags": {
+        "addr:city": "Sfântu Gheorghe",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "heritage": "2",
+        "heritage:operator": "lmi",
+        "name": "Biserica „Adormirea Maicii Domnului\"",
+        "ref:RO:lmi": "IL-II-m-B-14141",
+        "religion": "christian",
+        "start_date": "1837"
+      }
+    },
+    {
+      "id": "way/1167227775",
+      "osm_id": 1167227775,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.6444465,
+      "lon": 26.8658725,
+      "tags": {
+        "addr:city": "Sfântu Gheorghe",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "religion": "christian"
+      }
+    }
+  ]
+}

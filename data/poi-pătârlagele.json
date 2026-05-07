@@ -1,0 +1,138 @@
+{
+  "city": "Pătârlagele",
+  "generated_at": "2026-04-23T09:55:00.315Z",
+  "counts": {
+    "total": 9,
+    "schools": 5,
+    "churches": 4
+  },
+  "pois": [
+    {
+      "id": "node/6715061908",
+      "osm_id": 6715061908,
+      "osm_type": "node",
+      "name": "Fosta Școală",
+      "category": "education",
+      "lat": 45.3363418,
+      "lon": 26.3591262,
+      "tags": {
+        "amenity": "school",
+        "name": "Fosta Școală"
+      }
+    },
+    {
+      "id": "node/6715061909",
+      "osm_id": 6715061909,
+      "osm_type": "node",
+      "name": "Gradinita",
+      "category": "education",
+      "lat": 45.336922,
+      "lon": 26.359957,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Gradinita"
+      }
+    },
+    {
+      "id": "way/133402645",
+      "osm_id": 133402645,
+      "osm_type": "way",
+      "name": "Liceul Teoretic „Radu Vlădescu”",
+      "category": "education",
+      "lat": 45.3211469,
+      "lon": 26.3587963,
+      "tags": {
+        "amenity": "college",
+        "building": "yes",
+        "name": "Liceul Teoretic „Radu Vlădescu”"
+      }
+    },
+    {
+      "id": "way/133402670",
+      "osm_id": 133402670,
+      "osm_type": "way",
+      "name": "Școala Generală",
+      "category": "education",
+      "lat": 45.3215263,
+      "lon": 26.3586863,
+      "tags": {
+        "amenity": "school",
+        "building": "yes",
+        "name": "Școala Generală"
+      }
+    },
+    {
+      "id": "way/433051828",
+      "osm_id": 433051828,
+      "osm_type": "way",
+      "name": "Liceul Tehnologic",
+      "category": "education",
+      "lat": 45.3176923,
+      "lon": 26.360684,
+      "tags": {
+        "building": "school",
+        "name": "Liceul Tehnologic"
+      }
+    },
+    {
+      "id": "node/2098621358",
+      "osm_id": 2098621358,
+      "osm_type": "node",
+      "name": "Biserica Adormirea Maicii Domnului",
+      "category": "place_of_worship",
+      "lat": 45.335903,
+      "lon": 26.3612833,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Adormirea Maicii Domnului",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/6715061910",
+      "osm_id": 6715061910,
+      "osm_type": "node",
+      "name": "Cimitir Ortodox",
+      "category": "place_of_worship",
+      "lat": 45.3389949,
+      "lon": 26.3662043,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Cimitir Ortodox",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/13313764207",
+      "osm_id": 13313764207,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.3496769,
+      "lon": 26.3420361,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "romanian_orthodox",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/133402684",
+      "osm_id": 133402684,
+      "osm_type": "way",
+      "name": "Biserica Buna Vestire",
+      "category": "place_of_worship",
+      "lat": 45.3145718,
+      "lon": 26.3623346,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica Buna Vestire",
+        "religion": "christian"
+      }
+    }
+  ]
+}

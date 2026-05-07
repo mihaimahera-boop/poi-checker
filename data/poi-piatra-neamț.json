@@ -1,0 +1,1923 @@
+{
+  "city": "Piatra-Neamț",
+  "generated_at": "2026-04-23T09:58:56.601Z",
+  "counts": {
+    "total": 130,
+    "schools": 77,
+    "churches": 53
+  },
+  "pois": [
+    {
+      "id": "node/1813499593",
+      "osm_id": 1813499593,
+      "osm_type": "node",
+      "name": "Colegiul Tehnic Forestier",
+      "category": "education",
+      "lat": 46.9389028,
+      "lon": 26.3576939,
+      "tags": {
+        "addr:city": "Piatra Neamț",
+        "addr:housenumber": "67",
+        "addr:street": "Strada Ștefan cel Mare",
+        "amenity": "school",
+        "name": "Colegiul Tehnic Forestier"
+      }
+    },
+    {
+      "id": "node/1923457126",
+      "osm_id": 1923457126,
+      "osm_type": "node",
+      "name": "Colegiul Tehnologic „Spiru Haret”",
+      "category": "education",
+      "lat": 46.934956,
+      "lon": 26.3743057,
+      "tags": {
+        "addr:city": "Piatra Neamț",
+        "addr:housenumber": "26",
+        "addr:street": "Strada Petru Rareș",
+        "amenity": "school",
+        "grades": "1-12",
+        "name": "Colegiul Tehnologic „Spiru Haret”",
+        "website": "https://liceul-spiru-haret.ro/"
+      }
+    },
+    {
+      "id": "node/3602267054",
+      "osm_id": 3602267054,
+      "osm_type": "node",
+      "name": "Liceul de artă Victor Brauner corp A",
+      "category": "education",
+      "lat": 46.9323315,
+      "lon": 26.3635355,
+      "tags": {
+        "addr:city": "Piatra Neamț",
+        "amenity": "college",
+        "name": "Liceul de artă Victor Brauner corp A"
+      }
+    },
+    {
+      "id": "node/3689977048",
+      "osm_id": 3689977048,
+      "osm_type": "node",
+      "name": "Colegiul Național Petru Rareș",
+      "category": "education",
+      "lat": 46.9330336,
+      "lon": 26.3709756,
+      "tags": {
+        "addr:city": "Piatra Neamț",
+        "amenity": "college",
+        "name": "Colegiul Național Petru Rareș"
+      }
+    },
+    {
+      "id": "node/6738296688",
+      "osm_id": 6738296688,
+      "osm_type": "node",
+      "name": "Centrul Teritorial de Învățământ Deschis la Distanță Piatra Neamț",
+      "category": "education",
+      "lat": 46.9437672,
+      "lon": 26.3878246,
+      "tags": {
+        "amenity": "school",
+        "name": "Centrul Teritorial de Învățământ Deschis la Distanță Piatra Neamț"
+      }
+    },
+    {
+      "id": "node/7368576795",
+      "osm_id": 7368576795,
+      "osm_type": "node",
+      "name": "Colegiul Tehnic de Transporturi",
+      "category": "education",
+      "lat": 46.940695,
+      "lon": 26.3475379,
+      "tags": {
+        "addr:city": "Piatra Neamț",
+        "addr:housenumber": "1",
+        "addr:street": "Strada Soarelui",
+        "amenity": "school",
+        "grades": "9-12",
+        "name": "Colegiul Tehnic de Transporturi",
+        "phone": "+40233216163"
+      }
+    },
+    {
+      "id": "node/7466037717",
+      "osm_id": 7466037717,
+      "osm_type": "node",
+      "name": "Grădinița Happy Land",
+      "category": "education",
+      "lat": 46.9244215,
+      "lon": 26.3797049,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Grădinița Happy Land"
+      }
+    },
+    {
+      "id": "node/7484554797",
+      "osm_id": 7484554797,
+      "osm_type": "node",
+      "name": "Grădinița cu Program Normal Nr. 13",
+      "category": "education",
+      "lat": 46.9326869,
+      "lon": 26.3619848,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Grădinița cu Program Normal Nr. 13"
+      }
+    },
+    {
+      "id": "node/7492717869",
+      "osm_id": 7492717869,
+      "osm_type": "node",
+      "name": "Școala Gimnazială \"Nicu Albu\" Piatra Neamț",
+      "category": "education",
+      "lat": 46.9326561,
+      "lon": 26.354564,
+      "tags": {
+        "amenity": "school",
+        "name": "Școala Gimnazială \"Nicu Albu\" Piatra Neamț"
+      }
+    },
+    {
+      "id": "node/8390151244",
+      "osm_id": 8390151244,
+      "osm_type": "node",
+      "name": "Colegul Național \"Gheorghe Asachi\" Piatra Neamț",
+      "category": "education",
+      "lat": 46.9459419,
+      "lon": 26.3884232,
+      "tags": {
+        "amenity": "college",
+        "name": "Colegul Național \"Gheorghe Asachi\" Piatra Neamț"
+      }
+    },
+    {
+      "id": "node/8488474033",
+      "osm_id": 8488474033,
+      "osm_type": "node",
+      "name": "Colegul Național \"Gheorghe Asachi\" Piatra Neamț Corp B",
+      "category": "education",
+      "lat": 46.9459094,
+      "lon": 26.3878342,
+      "tags": {
+        "amenity": "college",
+        "name": "Colegul Național \"Gheorghe Asachi\" Piatra Neamț Corp B"
+      }
+    },
+    {
+      "id": "node/9288114151",
+      "osm_id": 9288114151,
+      "osm_type": "node",
+      "name": "Liceul Tehnologic \"Dimitrie Leonida\" Corp B",
+      "category": "education",
+      "lat": 46.9063338,
+      "lon": 26.4067295,
+      "tags": {
+        "amenity": "school",
+        "name": "Liceul Tehnologic \"Dimitrie Leonida\" Corp B"
+      }
+    },
+    {
+      "id": "node/9288133336",
+      "osm_id": 9288133336,
+      "osm_type": "node",
+      "name": "Grădinița cu program prelungit nr. 10",
+      "category": "education",
+      "lat": 46.9202121,
+      "lon": 26.3948494,
+      "tags": {
+        "addr:city": "Piatra Neamț",
+        "addr:housenumber": "34BIS",
+        "addr:street": "Bulevardul Mărășești",
+        "amenity": "kindergarten",
+        "name": "Grădinița cu program prelungit nr. 10",
+        "phone": "+40233226523"
+      }
+    },
+    {
+      "id": "node/9294343693",
+      "osm_id": 9294343693,
+      "osm_type": "node",
+      "name": "Scoala Gimnaziala nr. 8",
+      "category": "education",
+      "lat": 46.940773,
+      "lon": 26.3817228,
+      "tags": {
+        "addr:city": "Piatra Neamț",
+        "addr:housenumber": "33",
+        "addr:street": "Strada Dărmănești",
+        "amenity": "school",
+        "name": "Scoala Gimnaziala nr. 8"
+      }
+    },
+    {
+      "id": "node/9294343699",
+      "osm_id": 9294343699,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.9414747,
+      "lon": 26.381561,
+      "tags": {
+        "addr:city": "Piatra Neamț",
+        "addr:housenumber": "41",
+        "addr:street": "Strada Dărmănești",
+        "amenity": "kindergarten"
+      }
+    },
+    {
+      "id": "node/9405581893",
+      "osm_id": 9405581893,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.9169125,
+      "lon": 26.4303592,
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "node/9405590941",
+      "osm_id": 9405590941,
+      "osm_type": "node",
+      "name": "Grădiniță",
+      "category": "education",
+      "lat": 46.9158032,
+      "lon": 26.4314862,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Grădiniță"
+      }
+    },
+    {
+      "id": "node/10846819770",
+      "osm_id": 10846819770,
+      "osm_type": "node",
+      "name": "Grădinița Vincenzina Cusmano",
+      "category": "education",
+      "lat": 46.9418138,
+      "lon": 26.3851226,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Grădinița Vincenzina Cusmano"
+      }
+    },
+    {
+      "id": "node/12204699209",
+      "osm_id": 12204699209,
+      "osm_type": "node",
+      "name": "Grădinița cu program prelungit nr 2 Piatra Neamț",
+      "category": "education",
+      "lat": 46.9210863,
+      "lon": 26.3871934,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Grădinița cu program prelungit nr 2 Piatra Neamț"
+      }
+    },
+    {
+      "id": "way/50079828",
+      "osm_id": 50079828,
+      "osm_type": "way",
+      "name": "Colegiul Național \"Calistrat Hogaș\"",
+      "category": "education",
+      "lat": 46.9337651,
+      "lon": 26.3655494,
+      "tags": {
+        "alt_name": "CNCH",
+        "amenity": "college",
+        "designation": "highschool",
+        "name": "Colegiul Național \"Calistrat Hogaș\"",
+        "phone": "+40233215853"
+      }
+    },
+    {
+      "id": "way/224608374",
+      "osm_id": 224608374,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.930491,
+      "lon": 26.3683673,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/224852038",
+      "osm_id": 224852038,
+      "osm_type": "way",
+      "name": "Grup Școlar Economic-Administrativ",
+      "category": "education",
+      "lat": 46.9351589,
+      "lon": 26.3604505,
+      "tags": {
+        "addr:city": "Piatra Neamț",
+        "addr:housenumber": "16",
+        "addr:street": "Strada Alexandru Lăpușneanu",
+        "building": "school",
+        "name": "Grup Școlar Economic-Administrativ"
+      }
+    },
+    {
+      "id": "way/253699068",
+      "osm_id": 253699068,
+      "osm_type": "way",
+      "name": "Școala Gimnazială \"Elena Cuza\"",
+      "category": "education",
+      "lat": 46.9342879,
+      "lon": 26.3594929,
+      "tags": {
+        "addr:city": "Piatra Neamț",
+        "addr:housenumber": "72-74",
+        "addr:street": "Bulevardul Decebal",
+        "building": "school",
+        "building:levels": "2",
+        "name": "Școala Gimnazială \"Elena Cuza\""
+      }
+    },
+    {
+      "id": "way/284997650",
+      "osm_id": 284997650,
+      "osm_type": "way",
+      "name": "Liceul Teologic Ortodox \"Sf. Împărați Constantin și Elena\"",
+      "category": "education",
+      "lat": 46.9184541,
+      "lon": 26.3884128,
+      "tags": {
+        "addr:city": "Piatra Neamț",
+        "addr:housenumber": "4",
+        "addr:street": "Bulevardul General Nicolae Dăscălescu",
+        "building": "school",
+        "name": "Liceul Teologic Ortodox \"Sf. Împărați Constantin și Elena\""
+      }
+    },
+    {
+      "id": "way/286026464",
+      "osm_id": 286026464,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.9350584,
+      "lon": 26.3589894,
+      "tags": {
+        "amenity": "kindergarten"
+      }
+    },
+    {
+      "id": "way/286026479",
+      "osm_id": 286026479,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.9342489,
+      "lon": 26.3594186,
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "way/286250642",
+      "osm_id": 286250642,
+      "osm_type": "way",
+      "name": "Grădinița nr.9",
+      "category": "education",
+      "lat": 46.9309267,
+      "lon": 26.3649413,
+      "tags": {
+        "addr:city": "Piatra Neamț",
+        "addr:housenumber": "18",
+        "addr:street": "Bulevardul Republicii",
+        "building": "school",
+        "name": "Grădinița nr.9"
+      }
+    },
+    {
+      "id": "way/286250643",
+      "osm_id": 286250643,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.9311715,
+      "lon": 26.3651809,
+      "tags": {
+        "amenity": "kindergarten"
+      }
+    },
+    {
+      "id": "way/286250673",
+      "osm_id": 286250673,
+      "osm_type": "way",
+      "name": "Școala Nr. 3",
+      "category": "education",
+      "lat": 46.9303989,
+      "lon": 26.3685918,
+      "tags": {
+        "amenity": "school",
+        "name": "Școala Nr. 3"
+      }
+    },
+    {
+      "id": "way/292827854",
+      "osm_id": 292827854,
+      "osm_type": "way",
+      "name": "Liceul de artă",
+      "category": "education",
+      "lat": 46.9342843,
+      "lon": 26.362845,
+      "tags": {
+        "building": "school",
+        "heritage": "2",
+        "heritage:operator": "lmi",
+        "historic": "building",
+        "name": "Liceul de artă",
+        "ref:RO:lmi": "NT-II-m-B-10552",
+        "start_date": "1862"
+      }
+    },
+    {
+      "id": "way/331500818",
+      "osm_id": 331500818,
+      "osm_type": "way",
+      "name": "Colegiul National de Informatica",
+      "category": "education",
+      "lat": 46.9354018,
+      "lon": 26.3829956,
+      "tags": {
+        "addr:city": "Piatra Neamț",
+        "addr:housenumber": "12",
+        "addr:postcode": "610226",
+        "addr:street": "Strada Mihai Viteazul",
+        "amenity": "college",
+        "name": "Colegiul National de Informatica",
+        "operator": "Ministerul Invatamantului"
+      }
+    },
+    {
+      "id": "way/331501659",
+      "osm_id": 331501659,
+      "osm_type": "way",
+      "name": "Cladire laboratoare",
+      "category": "education",
+      "lat": 46.9356681,
+      "lon": 26.3837388,
+      "tags": {
+        "building": "school",
+        "name": "Cladire laboratoare"
+      }
+    },
+    {
+      "id": "way/331501663",
+      "osm_id": 331501663,
+      "osm_type": "way",
+      "name": "Internat",
+      "category": "education",
+      "lat": 46.9351194,
+      "lon": 26.3831737,
+      "tags": {
+        "building": "school",
+        "name": "Internat"
+      }
+    },
+    {
+      "id": "way/331501667",
+      "osm_id": 331501667,
+      "osm_type": "way",
+      "name": "Cantina",
+      "category": "education",
+      "lat": 46.9354711,
+      "lon": 26.3833307,
+      "tags": {
+        "building": "school",
+        "name": "Cantina"
+      }
+    },
+    {
+      "id": "way/331501670",
+      "osm_id": 331501670,
+      "osm_type": "way",
+      "name": "Sala de sport",
+      "category": "education",
+      "lat": 46.9348253,
+      "lon": 26.3826619,
+      "tags": {
+        "building": "school",
+        "name": "Sala de sport"
+      }
+    },
+    {
+      "id": "way/331501674",
+      "osm_id": 331501674,
+      "osm_type": "way",
+      "name": "Corp principal",
+      "category": "education",
+      "lat": 46.9353321,
+      "lon": 26.3823357,
+      "tags": {
+        "building": "school",
+        "name": "Corp principal"
+      }
+    },
+    {
+      "id": "way/334297098",
+      "osm_id": 334297098,
+      "osm_type": "way",
+      "name": "Școala Nouă",
+      "category": "education",
+      "lat": 46.925046,
+      "lon": 26.3731675,
+      "tags": {
+        "building": "school",
+        "name": "Școala Nouă"
+      }
+    },
+    {
+      "id": "way/334929160",
+      "osm_id": 334929160,
+      "osm_type": "way",
+      "name": "Centrala termica",
+      "category": "education",
+      "lat": 46.924587,
+      "lon": 26.3731243,
+      "tags": {
+        "building": "school",
+        "name": "Centrala termica"
+      }
+    },
+    {
+      "id": "way/334929161",
+      "osm_id": 334929161,
+      "osm_type": "way",
+      "name": "Școala Veche",
+      "category": "education",
+      "lat": 46.9250448,
+      "lon": 26.3738215,
+      "tags": {
+        "building": "school",
+        "name": "Școala Veche"
+      }
+    },
+    {
+      "id": "way/334929162",
+      "osm_id": 334929162,
+      "osm_type": "way",
+      "name": "Atelier",
+      "category": "education",
+      "lat": 46.9245803,
+      "lon": 26.3735166,
+      "tags": {
+        "building": "school",
+        "name": "Atelier"
+      }
+    },
+    {
+      "id": "way/334930434",
+      "osm_id": 334930434,
+      "osm_type": "way",
+      "name": "Școala Generală Nr. 2",
+      "category": "education",
+      "lat": 46.9249875,
+      "lon": 26.3734572,
+      "tags": {
+        "amenity": "school",
+        "name": "Școala Generală Nr. 2"
+      }
+    },
+    {
+      "id": "way/363282105",
+      "osm_id": 363282105,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.9326036,
+      "lon": 26.3545112,
+      "tags": {
+        "addr:city": "Piatra Neamț",
+        "addr:housenumber": "1BIS",
+        "addr:street": "Strada Ecoului",
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/363282106",
+      "osm_id": 363282106,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.9325739,
+      "lon": 26.3543462,
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "way/363587747",
+      "osm_id": 363587747,
+      "osm_type": "way",
+      "name": "Colegiul Național Petru Rareș",
+      "category": "education",
+      "lat": 46.9333446,
+      "lon": 26.37003,
+      "tags": {
+        "building": "school",
+        "name": "Colegiul Național Petru Rareș"
+      }
+    },
+    {
+      "id": "way/363587786",
+      "osm_id": 363587786,
+      "osm_type": "way",
+      "name": "Colegiul Tehnic \"Gheorghe Cartianu\"",
+      "category": "education",
+      "lat": 46.9220084,
+      "lon": 26.3856435,
+      "tags": {
+        "addr:city": "Piatra Neamț",
+        "addr:housenumber": "31",
+        "addr:street": "Bulevardul Traian",
+        "building": "school",
+        "name": "Colegiul Tehnic \"Gheorghe Cartianu\""
+      }
+    },
+    {
+      "id": "way/363591773",
+      "osm_id": 363591773,
+      "osm_type": "way",
+      "name": "Grădinița cu program prelungit \"Floare de colț\"",
+      "category": "education",
+      "lat": 46.9220689,
+      "lon": 26.375045,
+      "tags": {
+        "addr:city": "Piatra Neamț",
+        "addr:housenumber": "36",
+        "addr:street": "Strada Progresului",
+        "building": "kindergarten",
+        "building:levels": "2",
+        "name": "Grădinița cu program prelungit \"Floare de colț\""
+      }
+    },
+    {
+      "id": "way/363877479",
+      "osm_id": 363877479,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.9197098,
+      "lon": 26.3827616,
+      "tags": {
+        "addr:city": "Piatra Neamț",
+        "addr:housenumber": "108A",
+        "addr:street": "Strada Progresului",
+        "building": "kindergarten",
+        "building:levels": "2"
+      }
+    },
+    {
+      "id": "way/364303673",
+      "osm_id": 364303673,
+      "osm_type": "way",
+      "name": "Grupul Școlar „Dimitrie Leonida”",
+      "category": "education",
+      "lat": 46.9213548,
+      "lon": 26.3942268,
+      "tags": {
+        "addr:city": "Piatra Neamț",
+        "addr:housenumber": "13",
+        "addr:street": "Bulevardul Mărășești",
+        "building": "school",
+        "building:levels": "2",
+        "name": "Grupul Școlar „Dimitrie Leonida”",
+        "phone": "+40233215262"
+      }
+    },
+    {
+      "id": "way/364965715",
+      "osm_id": 364965715,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.938717,
+      "lon": 26.3580192,
+      "tags": {
+        "building": "school",
+        "building:levels": "3",
+        "roof:levels": "0"
+      }
+    },
+    {
+      "id": "way/364965716",
+      "osm_id": 364965716,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.939177,
+      "lon": 26.3568142,
+      "tags": {
+        "building": "school",
+        "building:levels": "4",
+        "roof:levels": "0"
+      }
+    },
+    {
+      "id": "way/367603883",
+      "osm_id": 367603883,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.9324997,
+      "lon": 26.3622362,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/367603895",
+      "osm_id": 367603895,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.9327028,
+      "lon": 26.3620103,
+      "tags": {
+        "addr:city": "Piatra Neamț",
+        "addr:housenumber": "46",
+        "addr:street": "Bulevardul Decebal",
+        "building": "kindergarten",
+        "building:levels": "1"
+      }
+    },
+    {
+      "id": "way/377765440",
+      "osm_id": 377765440,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.9244647,
+      "lon": 26.37974,
+      "tags": {
+        "addr:city": "Piatra Neamț",
+        "addr:housenumber": "15",
+        "addr:street": "Strada Privighetorii",
+        "building": "kindergarten"
+      }
+    },
+    {
+      "id": "way/386585640",
+      "osm_id": 386585640,
+      "osm_type": "way",
+      "name": "Scoala Generala nr. 5",
+      "category": "education",
+      "lat": 46.9408781,
+      "lon": 26.3855637,
+      "tags": {
+        "addr:city": "Piatra Neamț",
+        "addr:housenumber": "32",
+        "addr:street": "Strada 1 Decembrie 1918",
+        "building": "school",
+        "name": "Scoala Generala nr. 5"
+      }
+    },
+    {
+      "id": "way/396881617",
+      "osm_id": 396881617,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.9389322,
+      "lon": 26.3576372,
+      "tags": {
+        "building": "school",
+        "building:levels": "2",
+        "roof:levels": "1",
+        "roof:shape": "half-hipped"
+      }
+    },
+    {
+      "id": "way/670662786",
+      "osm_id": 670662786,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.9195529,
+      "lon": 26.3817477,
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "way/671098263",
+      "osm_id": 671098263,
+      "osm_type": "way",
+      "name": "Liceul cu Program Sportiv",
+      "category": "education",
+      "lat": 46.9373418,
+      "lon": 26.3791413,
+      "tags": {
+        "building": "school",
+        "name": "Liceul cu Program Sportiv"
+      }
+    },
+    {
+      "id": "way/684956480",
+      "osm_id": 684956480,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.937673,
+      "lon": 26.3861486,
+      "tags": {
+        "building": "kindergarten",
+        "building:levels": "2"
+      }
+    },
+    {
+      "id": "way/702986908",
+      "osm_id": 702986908,
+      "osm_type": "way",
+      "name": "Școala Gimnazială \"Daniela Cuciuc\"",
+      "category": "education",
+      "lat": 46.9195114,
+      "lon": 26.3819557,
+      "tags": {
+        "addr:city": "Piatra Neamț",
+        "addr:housenumber": "108",
+        "addr:street": "Strada Progresului",
+        "building": "school",
+        "building:levels": "3",
+        "name": "Școala Gimnazială \"Daniela Cuciuc\""
+      }
+    },
+    {
+      "id": "way/702986910",
+      "osm_id": 702986910,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.9193745,
+      "lon": 26.3814857,
+      "tags": {
+        "addr:city": "Piatra Neamț",
+        "addr:housenumber": "108",
+        "addr:street": "Strada Progresului",
+        "building": "school",
+        "building:levels": "3"
+      }
+    },
+    {
+      "id": "way/707600041",
+      "osm_id": 707600041,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.9391026,
+      "lon": 26.3824086,
+      "tags": {
+        "building": "kindergarten",
+        "building:levels": "2"
+      }
+    },
+    {
+      "id": "way/707600043",
+      "osm_id": 707600043,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.9390625,
+      "lon": 26.382429,
+      "tags": {
+        "amenity": "kindergarten"
+      }
+    },
+    {
+      "id": "way/903351301",
+      "osm_id": 903351301,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.945948,
+      "lon": 26.3887694,
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "way/925938176",
+      "osm_id": 925938176,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.9220565,
+      "lon": 26.3863036,
+      "tags": {
+        "amenity": "college"
+      }
+    },
+    {
+      "id": "way/947770304",
+      "osm_id": 947770304,
+      "osm_type": "way",
+      "name": "Liceul Tehnologic ”Dimitrie Leonida”",
+      "category": "education",
+      "lat": 46.9213386,
+      "lon": 26.3943818,
+      "tags": {
+        "amenity": "school",
+        "name": "Liceul Tehnologic ”Dimitrie Leonida”"
+      }
+    },
+    {
+      "id": "way/996679071",
+      "osm_id": 996679071,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.918392,
+      "lon": 26.388349,
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "way/1001130544",
+      "osm_id": 1001130544,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.9201596,
+      "lon": 26.3947921,
+      "tags": {
+        "amenity": "kindergarten"
+      }
+    },
+    {
+      "id": "way/1006729593",
+      "osm_id": 1006729593,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.9063541,
+      "lon": 26.4066875,
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "way/1006775321",
+      "osm_id": 1006775321,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.941162,
+      "lon": 26.3476607,
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "way/1007449592",
+      "osm_id": 1007449592,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.9408257,
+      "lon": 26.3815724,
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "way/1007449593",
+      "osm_id": 1007449593,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.9414897,
+      "lon": 26.381647,
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "way/1008057490",
+      "osm_id": 1008057490,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.9352535,
+      "lon": 26.3606134,
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "way/1040139234",
+      "osm_id": 1040139234,
+      "osm_type": "way",
+      "name": "Grădiniţa Program Prelungit Nr. 2",
+      "category": "education",
+      "lat": 46.9275114,
+      "lon": 26.3625442,
+      "tags": {
+        "addr:city": "Piatra Neamț",
+        "addr:housenumber": "3",
+        "addr:street": "Bulevardul 9 Mai",
+        "amenity": "kindergarten",
+        "name": "Grădiniţa Program Prelungit Nr. 2",
+        "phone": "+40 233 211 023"
+      }
+    },
+    {
+      "id": "way/1040141090",
+      "osm_id": 1040141090,
+      "osm_type": "way",
+      "name": "Start Academy",
+      "category": "education",
+      "lat": 46.9438986,
+      "lon": 26.3830684,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Start Academy"
+      }
+    },
+    {
+      "id": "way/1062821496",
+      "osm_id": 1062821496,
+      "osm_type": "way",
+      "name": "Liceul cu Program Sportiv",
+      "category": "education",
+      "lat": 46.9414391,
+      "lon": 26.3548033,
+      "tags": {
+        "amenity": "school",
+        "name": "Liceul cu Program Sportiv"
+      }
+    },
+    {
+      "id": "way/1178006822",
+      "osm_id": 1178006822,
+      "osm_type": "way",
+      "name": "Şcoala Cu Clasele I-VIII NR. 7",
+      "category": "education",
+      "lat": 46.9083131,
+      "lon": 26.3864161,
+      "tags": {
+        "amenity": "school",
+        "name": "Şcoala Cu Clasele I-VIII NR. 7"
+      }
+    },
+    {
+      "id": "relation/10244584",
+      "osm_id": 10244584,
+      "osm_type": "relation",
+      "name": "Gradinita cu program prelungit  \"Veronica Filip\"",
+      "category": "education",
+      "lat": 46.9350843,
+      "lon": 26.3589314,
+      "tags": {
+        "addr:city": "Piatra Neamț",
+        "addr:housenumber": "12",
+        "addr:street": "Strada Liliacului",
+        "building": "school",
+        "building:levels": "2",
+        "height": "1",
+        "name": "Gradinita cu program prelungit  \"Veronica Filip\"",
+        "type": "multipolygon"
+      }
+    },
+    {
+      "id": "node/482812699",
+      "osm_id": 482812699,
+      "osm_type": "node",
+      "name": "Sf Mina",
+      "category": "place_of_worship",
+      "lat": 46.9368819,
+      "lon": 26.3804598,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Sf Mina",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/534919388",
+      "osm_id": 534919388,
+      "osm_type": "node",
+      "name": "Biserica Pogorârea Sfântului Duh",
+      "category": "place_of_worship",
+      "lat": 46.9282892,
+      "lon": 26.36145,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Pogorârea Sfântului Duh",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/537079098",
+      "osm_id": 537079098,
+      "osm_type": "node",
+      "name": "Biserica Adormirea Maicii Domnului (Precista)",
+      "category": "place_of_worship",
+      "lat": 46.9333868,
+      "lon": 26.3604067,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Adormirea Maicii Domnului (Precista)",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/1316063293",
+      "osm_id": 1316063293,
+      "osm_type": "node",
+      "name": "Mănăstirea Muntele Pietricica",
+      "category": "place_of_worship",
+      "lat": 46.927116,
+      "lon": 26.3846829,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Mănăstirea Muntele Pietricica",
+        "religion": "christian",
+        "source": "jonutzu@gpszone.ro"
+      }
+    },
+    {
+      "id": "node/2325326497",
+      "osm_id": 2325326497,
+      "osm_type": "node",
+      "name": "Schitul Lipovenesc",
+      "category": "place_of_worship",
+      "lat": 46.8870704,
+      "lon": 26.3456997,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "old rite orthodox",
+        "name": "Schitul Lipovenesc",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/3601232322",
+      "osm_id": 3601232322,
+      "osm_type": "node",
+      "name": "Biserica Ortodoxă",
+      "category": "place_of_worship",
+      "lat": 46.9195937,
+      "lon": 26.3242527,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/3604811800",
+      "osm_id": 3604811800,
+      "osm_type": "node",
+      "name": "Biserica Sarata",
+      "category": "place_of_worship",
+      "lat": 46.9425044,
+      "lon": 26.3340316,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Sarata",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/3636850361",
+      "osm_id": 3636850361,
+      "osm_type": "node",
+      "name": "Biserica Sfântul Ioan",
+      "category": "place_of_worship",
+      "lat": 46.9266424,
+      "lon": 26.3748837,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Sfântul Ioan",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/3689909413",
+      "osm_id": 3689909413,
+      "osm_type": "node",
+      "name": "Biserica Nouă",
+      "category": "place_of_worship",
+      "lat": 46.9156844,
+      "lon": 26.3922642,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Nouă",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/4615932108",
+      "osm_id": 4615932108,
+      "osm_type": "node",
+      "name": "Biserica Catolică",
+      "category": "place_of_worship",
+      "lat": 46.935937,
+      "lon": 26.3881477,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "catholic",
+        "name": "Biserica Catolică",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/4615933335",
+      "osm_id": 4615933335,
+      "osm_type": "node",
+      "name": "Biserica Sf Parascheva",
+      "category": "place_of_worship",
+      "lat": 46.9394697,
+      "lon": 26.390213,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Sf Parascheva",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/7312350586",
+      "osm_id": 7312350586,
+      "osm_type": "node",
+      "name": "Biserica Creștină Baptistă \"Sfânta Treime\"",
+      "category": "place_of_worship",
+      "lat": 46.9310763,
+      "lon": 26.3602984,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "baptist",
+        "name": "Biserica Creștină Baptistă \"Sfânta Treime\"",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/7479300875",
+      "osm_id": 7479300875,
+      "osm_type": "node",
+      "name": "Biserica \"Sfinții Părinți Ioachim și Ana\"",
+      "category": "place_of_worship",
+      "lat": 46.9220667,
+      "lon": 26.3788755,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica \"Sfinții Părinți Ioachim și Ana\"",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/7484879248",
+      "osm_id": 7484879248,
+      "osm_type": "node",
+      "name": "Biserica Adventistă Laodiceea",
+      "category": "place_of_worship",
+      "lat": 46.9206145,
+      "lon": 26.3803991,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "seventh_day_adventist",
+        "name": "Biserica Adventistă Laodiceea",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/8767887718",
+      "osm_id": 8767887718,
+      "osm_type": "node",
+      "name": "Biserica Ortodoxă de Stil Vechi ,,Sf. Ioan Botezătorul''",
+      "category": "place_of_worship",
+      "lat": 46.9484549,
+      "lon": 26.3920125,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica Ortodoxă de Stil Vechi ,,Sf. Ioan Botezătorul''",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/9502648663",
+      "osm_id": 9502648663,
+      "osm_type": "node",
+      "name": "Biserica Creștină După Evanghelie BETEL",
+      "category": "place_of_worship",
+      "lat": 46.9271502,
+      "lon": 26.3628905,
+      "tags": {
+        "amenity": "place_of_worship",
+        "name": "Biserica Creștină După Evanghelie BETEL",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/9630854153",
+      "osm_id": 9630854153,
+      "osm_type": "node",
+      "name": "Biserica Sfântul Neculai",
+      "category": "place_of_worship",
+      "lat": 46.940291,
+      "lon": 26.3775618,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Sfântul Neculai",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/9689094543",
+      "osm_id": 9689094543,
+      "osm_type": "node",
+      "name": "Biserica Ortodoxă Sfânta Teodora",
+      "category": "place_of_worship",
+      "lat": 46.9438973,
+      "lon": 26.3871013,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă Sfânta Teodora",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/9739691111",
+      "osm_id": 9739691111,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 46.9412571,
+      "lon": 26.3973522,
+      "tags": {
+        "amenity": "place_of_worship",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/10589077637",
+      "osm_id": 10589077637,
+      "osm_type": "node",
+      "name": "Schitul Draga",
+      "category": "place_of_worship",
+      "lat": 46.9646278,
+      "lon": 26.3673066,
+      "tags": {
+        "addr:city": "Piatra Neamț",
+        "addr:postcode": "610252",
+        "addr:street": "Strada Cetatea Neamțului",
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Schitul Draga",
+        "religion": "christian",
+        "website": "https://draga.mmb.ro/"
+      }
+    },
+    {
+      "id": "node/10961050121",
+      "osm_id": 10961050121,
+      "osm_type": "node",
+      "name": "Biserica Penticostală ELIM",
+      "category": "place_of_worship",
+      "lat": 46.9220659,
+      "lon": 26.3910081,
+      "tags": {
+        "addr:city": "Piatra Neamț",
+        "addr:housenumber": "3",
+        "addr:street": "Strada Lotrului",
+        "amenity": "place_of_worship",
+        "denomination": "pentecostal",
+        "name": "Biserica Penticostală ELIM",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/11578466960",
+      "osm_id": 11578466960,
+      "osm_type": "node",
+      "name": "Paraclisul „Acoperământul Maicii Domnului”-Precista 3",
+      "category": "place_of_worship",
+      "lat": 46.9308727,
+      "lon": 26.3558825,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Paraclisul „Acoperământul Maicii Domnului”-Precista 3",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/42886007",
+      "osm_id": 42886007,
+      "osm_type": "way",
+      "name": "Cimitirul Eternitatea",
+      "category": "place_of_worship",
+      "lat": 46.9407714,
+      "lon": 26.3523795,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitirul Eternitatea",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/230584485",
+      "osm_id": 230584485,
+      "osm_type": "way",
+      "name": "Biserica Baptistă Sfânta Treime",
+      "category": "place_of_worship",
+      "lat": 46.9310704,
+      "lon": 26.3602902,
+      "tags": {
+        "addr:city": "Piatra Neamț",
+        "addr:housenumber": "3",
+        "addr:street": "Strada Titu Maiorescu",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "baptist",
+        "name": "Biserica Baptistă Sfânta Treime",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/284793373",
+      "osm_id": 284793373,
+      "osm_type": "way",
+      "name": "Sf. Iosif muncitorul",
+      "category": "place_of_worship",
+      "lat": 46.9263617,
+      "lon": 26.3683536,
+      "tags": {
+        "addr:city": "Piatra Neamț",
+        "addr:housenumber": "27",
+        "addr:postcode": "610028",
+        "addr:street": "Strada Mihai Eminescu",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "catholic",
+        "name": "Sf. Iosif muncitorul",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/284793407",
+      "osm_id": 284793407,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă Pogorârea Sfântului Duh",
+      "category": "place_of_worship",
+      "lat": 46.9282725,
+      "lon": 26.3614266,
+      "tags": {
+        "addr:city": "Piatra Neamț",
+        "addr:housenumber": "44",
+        "addr:street": "Bulevardul Republicii",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă Pogorârea Sfântului Duh",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/284997653",
+      "osm_id": 284997653,
+      "osm_type": "way",
+      "name": "Biserica Cimitirului Eternitatea",
+      "category": "place_of_worship",
+      "lat": 46.9414562,
+      "lon": 26.3525723,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Cimitirului Eternitatea",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/284997654",
+      "osm_id": 284997654,
+      "osm_type": "way",
+      "name": "Cloponița Bisericii Eternitatea",
+      "category": "place_of_worship",
+      "lat": 46.9415192,
+      "lon": 26.3529996,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "layer": "-1",
+        "name": "Cloponița Bisericii Eternitatea",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/284997677",
+      "osm_id": 284997677,
+      "osm_type": "way",
+      "name": "Cimitirul al Schitulul Doamna",
+      "category": "place_of_worship",
+      "lat": 46.9278424,
+      "lon": 26.3462109,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitirul al Schitulul Doamna",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/284997679",
+      "osm_id": 284997679,
+      "osm_type": "way",
+      "name": "Schitul Doamna",
+      "category": "place_of_worship",
+      "lat": 46.9279853,
+      "lon": 26.3462247,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Schitul Doamna",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/286406974",
+      "osm_id": 286406974,
+      "osm_type": "way",
+      "name": "Biserica Sf. Maria",
+      "category": "place_of_worship",
+      "lat": 46.935303,
+      "lon": 26.3527627,
+      "tags": {
+        "addr:street": "Strada Luceafărului",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Sf. Maria",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/336665572",
+      "osm_id": 336665572,
+      "osm_type": "way",
+      "name": "Cimitirul Dărmănești",
+      "category": "place_of_worship",
+      "lat": 46.932258,
+      "lon": 26.3904526,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitirul Dărmănești",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/336665830",
+      "osm_id": 336665830,
+      "osm_type": "way",
+      "name": "Cimitir Ciritei",
+      "category": "place_of_worship",
+      "lat": 46.9310797,
+      "lon": 26.4059596,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitir Ciritei",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/336665831",
+      "osm_id": 336665831,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă \"Sfinții Apostoli Petru și Pavel\", Ciritei",
+      "category": "place_of_worship",
+      "lat": 46.9310896,
+      "lon": 26.4058513,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă \"Sfinții Apostoli Petru și Pavel\", Ciritei",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/336665972",
+      "osm_id": 336665972,
+      "osm_type": "way",
+      "name": "Biserica Cimitirului Dărmănești",
+      "category": "place_of_worship",
+      "lat": 46.9326091,
+      "lon": 26.3908982,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Cimitirului Dărmănești",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/362825767",
+      "osm_id": 362825767,
+      "osm_type": "way",
+      "name": "Biserica „Buna Vestire”",
+      "category": "place_of_worship",
+      "lat": 46.9530675,
+      "lon": 26.3851078,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "romanian_orthodox",
+        "heritage": "2",
+        "heritage:operator": "lmi",
+        "historic": "church",
+        "name": "Biserica „Buna Vestire”",
+        "ref:RO:lmi": "NT-II-m-B-10550",
+        "religion": "christian",
+        "start_date": "1740"
+      }
+    },
+    {
+      "id": "way/363587776",
+      "osm_id": 363587776,
+      "osm_type": "way",
+      "name": "Mănăstirea Muntele Pietricica",
+      "category": "place_of_worship",
+      "lat": 46.9271005,
+      "lon": 26.384746,
+      "tags": {
+        "building": "church",
+        "name": "Mănăstirea Muntele Pietricica"
+      }
+    },
+    {
+      "id": "way/363587789",
+      "osm_id": 363587789,
+      "osm_type": "way",
+      "name": "Biserica Domnească Nașterea Sf. Ioan Botezătorul",
+      "category": "place_of_worship",
+      "lat": 46.932893,
+      "lon": 26.3688203,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "layer": "1",
+        "name": "Biserica Domnească Nașterea Sf. Ioan Botezătorul",
+        "religion": "christian",
+        "wikidata": "Q6980147",
+        "wikipedia": "ro:Biserica Nașterea Sfântului Ioan Botezătorul din Piatra Neamț"
+      }
+    },
+    {
+      "id": "way/363587873",
+      "osm_id": 363587873,
+      "osm_type": "way",
+      "name": "Templul Mare Leipziger",
+      "category": "place_of_worship",
+      "lat": 46.9337797,
+      "lon": 26.3710747,
+      "tags": {
+        "addr:city": "Piatra Neamț",
+        "addr:street": "Dimitrie Ernici",
+        "amenity": "place_of_worship",
+        "building": "synagogue",
+        "historic": "yes",
+        "name": "Templul Mare Leipziger",
+        "religion": "jewish",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "id": "way/363587944",
+      "osm_id": 363587944,
+      "osm_type": "way",
+      "name": "Biserica Trei Ierarhi",
+      "category": "place_of_worship",
+      "lat": 46.9329142,
+      "lon": 26.3704213,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Trei Ierarhi",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/363591838",
+      "osm_id": 363591838,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 46.9220957,
+      "lon": 26.3788635,
+      "tags": {
+        "building": "church"
+      }
+    },
+    {
+      "id": "way/363644297",
+      "osm_id": 363644297,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 46.9529395,
+      "lon": 26.3847544,
+      "tags": {
+        "amenity": "grave_yard",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/363747788",
+      "osm_id": 363747788,
+      "osm_type": "way",
+      "name": "Biserica Sfântul Spiridon",
+      "category": "place_of_worship",
+      "lat": 46.9273618,
+      "lon": 26.3735504,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "check_date": "2025-06-12",
+        "denomination": "orthodox",
+        "name": "Biserica Sfântul Spiridon",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/364111481",
+      "osm_id": 364111481,
+      "osm_type": "way",
+      "name": "Biserica Lipovenească",
+      "category": "place_of_worship",
+      "lat": 46.93074,
+      "lon": 26.3595229,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Lipovenească",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/364303675",
+      "osm_id": 364303675,
+      "osm_type": "way",
+      "name": "Parohia Ortodoxă „Sf. Împărați Constantin și Elena”",
+      "category": "place_of_worship",
+      "lat": 46.9216083,
+      "lon": 26.3949404,
+      "tags": {
+        "building": "church",
+        "name": "Parohia Ortodoxă „Sf. Împărați Constantin și Elena”"
+      }
+    },
+    {
+      "id": "way/369344888",
+      "osm_id": 369344888,
+      "osm_type": "way",
+      "name": "Cimitir",
+      "category": "place_of_worship",
+      "lat": 46.9428441,
+      "lon": 26.3345295,
+      "tags": {
+        "amenity": "grave_yard",
+        "name": "Cimitir",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/684645938",
+      "osm_id": 684645938,
+      "osm_type": "way",
+      "name": "Biserica Sfânta Paraschieva",
+      "category": "place_of_worship",
+      "lat": 46.9394546,
+      "lon": 26.3902023,
+      "tags": {
+        "building": "church",
+        "name": "Biserica Sfânta Paraschieva"
+      }
+    },
+    {
+      "id": "way/900357968",
+      "osm_id": 900357968,
+      "osm_type": "way",
+      "name": "Schitu Lipovenilor",
+      "category": "place_of_worship",
+      "lat": 46.8894124,
+      "lon": 26.3227003,
+      "tags": {
+        "building": "church",
+        "name": "Schitu Lipovenilor"
+      }
+    },
+    {
+      "id": "way/939673610",
+      "osm_id": 939673610,
+      "osm_type": "way",
+      "name": "Biserica Sfântul Gheorghe",
+      "category": "place_of_worship",
+      "lat": 46.9309252,
+      "lon": 26.3690806,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica Sfântul Gheorghe",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1000833662",
+      "osm_id": 1000833662,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 46.9066168,
+      "lon": 26.405114,
+      "tags": {
+        "building": "church"
+      }
+    },
+    {
+      "id": "way/1135935259",
+      "osm_id": 1135935259,
+      "osm_type": "way",
+      "name": "Biserica de lemn „Buna Vestire”",
+      "category": "place_of_worship",
+      "lat": 46.9644624,
+      "lon": 26.3675245,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "heritage": "2",
+        "heritage:operator": "lmi",
+        "historic": "church",
+        "name": "Biserica de lemn „Buna Vestire”",
+        "ref:RO:lmi": "NT-II-m-B-10549",
+        "religion": "christian",
+        "start_date": "1779-1787"
+      }
+    },
+    {
+      "id": "way/1135935260",
+      "osm_id": 1135935260,
+      "osm_type": "way",
+      "name": "Biserica",
+      "category": "place_of_worship",
+      "lat": 46.9644004,
+      "lon": 26.3669462,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Biserica",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1357045743",
+      "osm_id": 1357045743,
+      "osm_type": "way",
+      "name": "Fosta mănăstire „Peste vale”",
+      "category": "place_of_worship",
+      "lat": 46.901706,
+      "lon": 26.3882549,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "heritage": "2",
+        "heritage:operator": "lmi",
+        "historic": "church",
+        "name": "Fosta mănăstire „Peste vale”",
+        "ref:RO:lmi": "NT-II-a-A-10730",
+        "religion": "christian"
+      }
+    }
+  ]
+}

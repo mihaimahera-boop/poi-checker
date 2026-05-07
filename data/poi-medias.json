@@ -1,0 +1,452 @@
+[
+  {
+    "id": "node-1073020042",
+    "name": "Biserica creștină adventistă de ziua a șaptea",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.1609621,
+    "lng": 24.3581692,
+    "osmType": "node"
+  },
+  {
+    "id": "node-1073020045",
+    "name": "Biserica Baptistă Mediaș",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.1598454,
+    "lng": 24.3586985,
+    "osmType": "node"
+  },
+  {
+    "id": "node-1073214711",
+    "name": "Liceul Teoretic Stephan Ludwig Roth Medias",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.1658533,
+    "lng": 24.3510105,
+    "osmType": "node"
+  },
+  {
+    "id": "node-1073214737",
+    "name": "Școala Hermann Oberth",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.1654406,
+    "lng": 24.3510684,
+    "osmType": "node"
+  },
+  {
+    "id": "node-1443075169",
+    "name": "Biserica Ortodoxă",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.1684715,
+    "lng": 24.3382211,
+    "osmType": "node"
+  },
+  {
+    "id": "node-1443080871",
+    "name": "Grădinița Nr. 7",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 46.1689313,
+    "lng": 24.3393445,
+    "osmType": "node"
+  },
+  {
+    "id": "node-2328399030",
+    "name": "Biserica Ortodoxă \"Sfânta Treime\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.1494787,
+    "lng": 24.331995,
+    "osmType": "node"
+  },
+  {
+    "id": "node-2829246264",
+    "name": "Școala Generală Nr.6",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.1656078,
+    "lng": 24.3655491,
+    "osmType": "node"
+  },
+  {
+    "id": "node-4208992693",
+    "name": "Liceul Tehnologica Automecanica",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.1709427,
+    "lng": 24.3808837,
+    "osmType": "node"
+  },
+  {
+    "id": "node-4253211789",
+    "name": "SC Lotus Med",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 46.1628284,
+    "lng": 24.3483151,
+    "osmType": "node"
+  },
+  {
+    "id": "node-5267743232",
+    "name": "Biserica Reformată",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.1614296,
+    "lng": 24.3523438,
+    "osmType": "node"
+  },
+  {
+    "id": "node-5267743234",
+    "name": "Biserica Catolică",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.154105,
+    "lng": 24.3399651,
+    "osmType": "node"
+  },
+  {
+    "id": "node-5267743235",
+    "name": "Biserica Greco-Catolică",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.1535868,
+    "lng": 24.3407823,
+    "osmType": "node"
+  },
+  {
+    "id": "node-5267743236",
+    "name": "Biserica Ortodoxă \"Sfântul Dumitru\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.1566759,
+    "lng": 24.3636646,
+    "osmType": "node"
+  },
+  {
+    "id": "node-5267743237",
+    "name": "Biserica Română cu Unită",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.1482853,
+    "lng": 24.3676841,
+    "osmType": "node"
+  },
+  {
+    "id": "node-5267746175",
+    "name": "Biserica Unitariană",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.1618749,
+    "lng": 24.3445243,
+    "osmType": "node"
+  },
+  {
+    "id": "node-5267746176",
+    "name": "Capela ortodoxă",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.1561273,
+    "lng": 24.3507052,
+    "osmType": "node"
+  },
+  {
+    "id": "node-5267782506",
+    "name": "Biserica Schimbarea la Față",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.1877283,
+    "lng": 24.3681096,
+    "osmType": "node"
+  },
+  {
+    "id": "node-5268093800",
+    "name": "Biserica Romano-Catolică \"Imaculata Concepție\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.1686189,
+    "lng": 24.352827,
+    "osmType": "node"
+  },
+  {
+    "id": "node-5268172822",
+    "name": "Biserica Sfinții Trei Ierarh",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.1142236,
+    "lng": 24.3488961,
+    "osmType": "node"
+  },
+  {
+    "id": "node-5268172827",
+    "name": "Dispansar Moșna",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 46.0911276,
+    "lng": 24.3990875,
+    "osmType": "node"
+  },
+  {
+    "id": "node-5268172829",
+    "name": "Școala Moșna",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.0916559,
+    "lng": 24.3946425,
+    "osmType": "node"
+  },
+  {
+    "id": "node-5284293958",
+    "name": "Biserica Sfinții Apostoli Petru și Pavel",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.169529,
+    "lng": 24.3518667,
+    "osmType": "node"
+  },
+  {
+    "id": "node-5284293959",
+    "name": "Biserica Baptistă Oastea Domnului",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.149736,
+    "lng": 24.3425215,
+    "osmType": "node"
+  },
+  {
+    "id": "node-11586576854",
+    "name": "Affidea",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 46.1630949,
+    "lng": 24.3564856,
+    "osmType": "node"
+  },
+  {
+    "id": "node-12046075763",
+    "name": "Gral Medical",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 46.1521147,
+    "lng": 24.3340275,
+    "osmType": "node"
+  },
+  {
+    "id": "way-131047977",
+    "name": "Grădinița Nr. 15",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 46.1665875,
+    "lng": 24.3356096,
+    "osmType": "way"
+  },
+  {
+    "id": "way-131070459",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.1665849,
+    "lng": 24.3327456,
+    "osmType": "way"
+  },
+  {
+    "id": "way-131079703",
+    "name": "Școala Generală Nr. 5",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.1685129,
+    "lng": 24.3373506,
+    "osmType": "way"
+  },
+  {
+    "id": "way-131422100",
+    "name": "Școala Generală Nr. 2",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.1568243,
+    "lng": 24.358629,
+    "osmType": "way"
+  },
+  {
+    "id": "way-131649631",
+    "name": "Biserica Buna Vestire",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.1684694,
+    "lng": 24.3382101,
+    "osmType": "way"
+  },
+  {
+    "id": "way-131674693",
+    "name": "Școala Generală Nr. 4",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.1618495,
+    "lng": 24.3494029,
+    "osmType": "way"
+  },
+  {
+    "id": "way-131676401",
+    "name": "Biserica Armeano-Catolică Mediaș (distrusă din anul 1923)",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.1575744,
+    "lng": 24.3548835,
+    "osmType": "way"
+  },
+  {
+    "id": "way-131676479",
+    "name": "Școala Națională de Gaz, Mediaș",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.1574911,
+    "lng": 24.3543001,
+    "osmType": "way"
+  },
+  {
+    "id": "way-131682294",
+    "name": "Spitalul Municipal",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 46.16321,
+    "lng": 24.3572684,
+    "osmType": "way"
+  },
+  {
+    "id": "way-131722813",
+    "name": "Liceul \"Axente Sever\"",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.1587056,
+    "lng": 24.3563096,
+    "osmType": "way"
+  },
+  {
+    "id": "way-225777879",
+    "name": "Școala Generală Nr. 7",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.1663818,
+    "lng": 24.3329236,
+    "osmType": "way"
+  },
+  {
+    "id": "way-267474442",
+    "name": "Biserica Sfânta Margareta din Mediaș",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.1651269,
+    "lng": 24.3512817,
+    "osmType": "way"
+  },
+  {
+    "id": "way-267556832",
+    "name": "Catedrala Ortodoxă \"Sfinții Arhangheli Mihail și Gavril\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.1618276,
+    "lng": 24.3552917,
+    "osmType": "way"
+  },
+  {
+    "id": "way-267559157",
+    "name": "Sinagoga din Mediaș",
+    "type": "church",
+    "subcategory": "jewish",
+    "lat": 46.1611565,
+    "lng": 24.3512826,
+    "osmType": "way"
+  },
+  {
+    "id": "way-313221589",
+    "name": "Biserica fortificată din Moșna",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.0918968,
+    "lng": 24.395309,
+    "osmType": "way"
+  },
+  {
+    "id": "way-422504368",
+    "name": "Biserica fortificată din Ighișu Nou",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.1128992,
+    "lng": 24.3460024,
+    "osmType": "way"
+  },
+  {
+    "id": "way-556197974",
+    "name": "Biserica Greco-Catolică Mediaș",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.166165,
+    "lng": 24.3543768,
+    "osmType": "way"
+  },
+  {
+    "id": "way-556739211",
+    "name": "Școala Gimnazială Hermann Oberth Moșna",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.0906308,
+    "lng": 24.3994338,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1065891006",
+    "name": "Școala Generală Nr.6",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.1653208,
+    "lng": 24.3655041,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1066075009",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.1657757,
+    "lng": 24.351342,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1066157084",
+    "name": "Grădinița „Micul Prinț”",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 46.1578656,
+    "lng": 24.3563747,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1066163378",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.1533317,
+    "lng": 24.3427597,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1066169073",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.1501729,
+    "lng": 24.3331815,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1079985390",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.1704241,
+    "lng": 24.3808947,
+    "osmType": "way"
+  }
+]

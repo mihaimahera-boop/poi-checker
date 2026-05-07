@@ -1,0 +1,4771 @@
+{
+  "city": "Craiova",
+  "generated_at": "2026-04-23T08:56:12.181Z",
+  "counts": {
+    "total": 293,
+    "schools": 175,
+    "churches": 118
+  },
+  "pois": [
+    {
+      "id": "node/317718354",
+      "osm_id": 317718354,
+      "osm_type": "node",
+      "name": "Facultatea de Medicină",
+      "category": "education",
+      "lat": 44.3047594,
+      "lon": 23.794708,
+      "tags": {
+        "amenity": "university",
+        "name": "Facultatea de Medicină"
+      }
+    },
+    {
+      "id": "node/2686505842",
+      "osm_id": 2686505842,
+      "osm_type": "node",
+      "name": "Grădinița Micul Prinț",
+      "category": "education",
+      "lat": 44.3087118,
+      "lon": 23.7872619,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housename": "Grădinița Micul Prinț",
+        "addr:housenumber": "60",
+        "addr:street": "Strada Dealul Spirei",
+        "amenity": "kindergarten",
+        "name": "Grădinița Micul Prinț"
+      }
+    },
+    {
+      "id": "node/3228663315",
+      "osm_id": 3228663315,
+      "osm_type": "node",
+      "name": "Grădinița Tedy Bear",
+      "category": "education",
+      "lat": 44.320976,
+      "lon": 23.7902859,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "17",
+        "addr:postcode": "200420",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Brestei",
+        "amenity": "kindergarten",
+        "name": "Grădinița Tedy Bear"
+      }
+    },
+    {
+      "id": "node/3243467271",
+      "osm_id": 3243467271,
+      "osm_type": "node",
+      "name": "Facultatea de Agronomie",
+      "category": "education",
+      "lat": 44.3194629,
+      "lon": 23.7865155,
+      "tags": {
+        "amenity": "university",
+        "name": "Facultatea de Agronomie"
+      }
+    },
+    {
+      "id": "node/4015377115",
+      "osm_id": 4015377115,
+      "osm_type": "node",
+      "name": "Grădinița Iedera",
+      "category": "education",
+      "lat": 44.3162045,
+      "lon": 23.8052748,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:country": "RO",
+        "addr:housenumber": "35",
+        "addr:postcode": "200399",
+        "addr:street": "Strada Împăratul Traian",
+        "amenity": "kindergarten",
+        "name": "Grădinița Iedera"
+      }
+    },
+    {
+      "id": "node/6313835001",
+      "osm_id": 6313835001,
+      "osm_type": "node",
+      "name": "Grădinița Nicolae Romanescu",
+      "category": "education",
+      "lat": 44.302411,
+      "lon": 23.7925759,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "22",
+        "addr:street": "Strada Doctor Dimitrie Gerota",
+        "amenity": "kindergarten",
+        "name": "Grădinița Nicolae Romanescu"
+      }
+    },
+    {
+      "id": "node/6916637771",
+      "osm_id": 6916637771,
+      "osm_type": "node",
+      "name": "Grădinița Traian Demetrescu",
+      "category": "education",
+      "lat": 44.3166707,
+      "lon": 23.8005337,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "18",
+        "addr:street": "Strada Traian Demetrescu",
+        "amenity": "kindergarten",
+        "name": "Grădinița Traian Demetrescu"
+      }
+    },
+    {
+      "id": "node/6916651297",
+      "osm_id": 6916651297,
+      "osm_type": "node",
+      "name": "Grădinița Madona Dudu",
+      "category": "education",
+      "lat": 44.3157457,
+      "lon": 23.7901803,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "12",
+        "addr:street": "Strada Câmpia Islaz",
+        "amenity": "kindergarten",
+        "name": "Grădinița Madona Dudu"
+      }
+    },
+    {
+      "id": "node/7044770324",
+      "osm_id": 7044770324,
+      "osm_type": "node",
+      "name": "Colegiul Național Militar Tudor Vladimirescu",
+      "category": "education",
+      "lat": 44.3207887,
+      "lon": 23.8145253,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "91",
+        "addr:street": "Strada Vasile Alecsandri",
+        "amenity": "school",
+        "name": "Colegiul Național Militar Tudor Vladimirescu"
+      }
+    },
+    {
+      "id": "node/7080319520",
+      "osm_id": 7080319520,
+      "osm_type": "node",
+      "name": "Școala Gimnazială Terraveda",
+      "category": "education",
+      "lat": 44.325784,
+      "lon": 23.7952003,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "15",
+        "addr:street": "Strada Brazda lui Novac",
+        "amenity": "school",
+        "name": "Școala Gimnazială Terraveda"
+      }
+    },
+    {
+      "id": "node/7080367915",
+      "osm_id": 7080367915,
+      "osm_type": "node",
+      "name": "Grădinița Curcubeul Copilăriei",
+      "category": "education",
+      "lat": 44.3319359,
+      "lon": 23.7940939,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "70",
+        "addr:street": "Strada Amaradia",
+        "amenity": "kindergarten",
+        "name": "Grădinița Curcubeul Copilăriei",
+        "phone": "0251592583"
+      }
+    },
+    {
+      "id": "node/7080373844",
+      "osm_id": 7080373844,
+      "osm_type": "node",
+      "name": "Liceul Voltaire",
+      "category": "education",
+      "lat": 44.3071562,
+      "lon": 23.8226951,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "21",
+        "addr:street": "Strada Electroputere",
+        "amenity": "school",
+        "name": "Liceul Voltaire"
+      }
+    },
+    {
+      "id": "node/7080403062",
+      "osm_id": 7080403062,
+      "osm_type": "node",
+      "name": "Grădinița Nr. 29",
+      "category": "education",
+      "lat": 44.3288362,
+      "lon": 23.8122032,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "111",
+        "addr:street": "Strada Frații Golești",
+        "amenity": "kindergarten",
+        "name": "Grădinița Nr. 29"
+      }
+    },
+    {
+      "id": "node/7080403063",
+      "osm_id": 7080403063,
+      "osm_type": "node",
+      "name": "Grădinița Căsuța Fermecată",
+      "category": "education",
+      "lat": 44.3224067,
+      "lon": 23.7956839,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "1",
+        "addr:street": "Strada Principatele Unite",
+        "amenity": "kindergarten",
+        "name": "Grădinița Căsuța Fermecată"
+      }
+    },
+    {
+      "id": "node/7080499726",
+      "osm_id": 7080499726,
+      "osm_type": "node",
+      "name": "Grădinița Little Diamonds",
+      "category": "education",
+      "lat": 44.3253162,
+      "lon": 23.7920372,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "5A",
+        "addr:street": "Strada Amaradia",
+        "amenity": "kindergarten",
+        "name": "Grădinița Little Diamonds"
+      }
+    },
+    {
+      "id": "node/7080512889",
+      "osm_id": 7080512889,
+      "osm_type": "node",
+      "name": "Grădinița Sf. Tatiana",
+      "category": "education",
+      "lat": 44.3259929,
+      "lon": 23.7919737,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "15",
+        "addr:street": "Strada Amaradia",
+        "amenity": "kindergarten",
+        "name": "Grădinița Sf. Tatiana"
+      }
+    },
+    {
+      "id": "node/7080512890",
+      "osm_id": 7080512890,
+      "osm_type": "node",
+      "name": "Grădinița Romano-Catolică Sf. Anton",
+      "category": "education",
+      "lat": 44.320586,
+      "lon": 23.7938439,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "2",
+        "addr:street": "Calea Unirii",
+        "amenity": "kindergarten",
+        "name": "Grădinița Romano-Catolică Sf. Anton"
+      }
+    },
+    {
+      "id": "node/7080520916",
+      "osm_id": 7080520916,
+      "osm_type": "node",
+      "name": "Școala Postliceală Sanitară Queen Elizabeth",
+      "category": "education",
+      "lat": 44.3215663,
+      "lon": 23.8174055,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "113",
+        "addr:street": "Strada Vasile Alecsandri",
+        "amenity": "school",
+        "name": "Școala Postliceală Sanitară Queen Elizabeth"
+      }
+    },
+    {
+      "id": "node/7080523194",
+      "osm_id": 7080523194,
+      "osm_type": "node",
+      "name": "Școala Postliceală Sanitară Christiana",
+      "category": "education",
+      "lat": 44.3133706,
+      "lon": 23.7972433,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "13",
+        "addr:street": "Strada Mitropolit Firmilian",
+        "amenity": "school",
+        "name": "Școala Postliceală Sanitară Christiana"
+      }
+    },
+    {
+      "id": "node/7080524013",
+      "osm_id": 7080524013,
+      "osm_type": "node",
+      "name": "Școala Postliceală Edunet",
+      "category": "education",
+      "lat": 44.321738,
+      "lon": 23.7840069,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "38",
+        "addr:street": "Strada Brestei",
+        "amenity": "school",
+        "name": "Școala Postliceală Edunet"
+      }
+    },
+    {
+      "id": "node/9624460637",
+      "osm_id": 9624460637,
+      "osm_type": "node",
+      "name": "Scoala Gimnaziala Nicolae Romanescu nr 29",
+      "category": "education",
+      "lat": 44.3045288,
+      "lon": 23.8141741,
+      "tags": {
+        "addr:housenumber": "81",
+        "addr:street": "Strada Caracal",
+        "amenity": "school",
+        "check_date": "2025-04-04",
+        "denomination": "orthodox",
+        "grades": "5-8",
+        "name": "Scoala Gimnaziala Nicolae Romanescu nr 29",
+        "religion": "christian",
+        "website": "http://www.scoalaromanescu.ro"
+      }
+    },
+    {
+      "id": "node/11933619971",
+      "osm_id": 11933619971,
+      "osm_type": "node",
+      "name": "After school Art",
+      "category": "education",
+      "lat": 44.312629,
+      "lon": 23.792712,
+      "tags": {
+        "amenity": "school",
+        "email": "contact@after-art.ro",
+        "name": "After school Art",
+        "operator:type": "private",
+        "phone": "0740 319 990",
+        "website": "www.after-art.ro"
+      }
+    },
+    {
+      "id": "way/152792514",
+      "osm_id": 152792514,
+      "osm_type": "way",
+      "name": "Facultatea de Automatică, Calculatoare și Electronică",
+      "category": "education",
+      "lat": 44.3088308,
+      "lon": 23.8356428,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "97",
+        "addr:postcode": "200588",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Bulevardul Decebal",
+        "amenity": "college",
+        "name": "Facultatea de Automatică, Calculatoare și Electronică"
+      }
+    },
+    {
+      "id": "way/172692627",
+      "osm_id": 172692627,
+      "osm_type": "way",
+      "name": "Colegiul Național Elena Cuza",
+      "category": "education",
+      "lat": 44.3200679,
+      "lon": 23.7928275,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "12",
+        "addr:street": "Strada Mihai Viteazul",
+        "amenity": "school",
+        "name": "Colegiul Național Elena Cuza"
+      }
+    },
+    {
+      "id": "way/172692818",
+      "osm_id": 172692818,
+      "osm_type": "way",
+      "name": "Colegiul Național Carol I",
+      "category": "education",
+      "lat": 44.3187611,
+      "lon": 23.7912975,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "2",
+        "addr:postcode": "200418",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Ion Maiorescu",
+        "amenity": "school",
+        "name": "Colegiul Național Carol I",
+        "wikidata": "Q5044392"
+      }
+    },
+    {
+      "id": "way/180239812",
+      "osm_id": 180239812,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Mircea Eliade",
+      "category": "education",
+      "lat": 44.3137543,
+      "lon": 23.8179553,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "1",
+        "addr:postcode": "200500",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Cloșca",
+        "amenity": "school",
+        "name": "Școala Gimnazială Mircea Eliade"
+      }
+    },
+    {
+      "id": "way/180239813",
+      "osm_id": 180239813,
+      "osm_type": "way",
+      "name": "Colegiul Național Frații Buzești",
+      "category": "education",
+      "lat": 44.3126817,
+      "lon": 23.7945269,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "5",
+        "addr:street": "Bulevardul Știrbei Vodă",
+        "amenity": "school",
+        "name": "Colegiul Național Frații Buzești",
+        "source": "Me"
+      }
+    },
+    {
+      "id": "way/197562086",
+      "osm_id": 197562086,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Gheorghe Țițeica",
+      "category": "education",
+      "lat": 44.3184531,
+      "lon": 23.8137676,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:country": "RO",
+        "addr:housenumber": "93",
+        "addr:postcode": "200753",
+        "addr:street": "Calea București",
+        "amenity": "school",
+        "email": "scoala21craiova@yahoo.com",
+        "name": "Școala Gimnazială Gheorghe Țițeica",
+        "phone": "0251544765",
+        "website": "http://www.gheorghetiteica.ro/"
+      }
+    },
+    {
+      "id": "way/221178877",
+      "osm_id": 221178877,
+      "osm_type": "way",
+      "name": "Școala Gimnazială nr. 29 \"Nicolae Romanescu\"",
+      "category": "education",
+      "lat": 44.3044912,
+      "lon": 23.8140787,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "81",
+        "addr:postcode": "200542",
+        "addr:street": "Strada Caracal",
+        "amenity": "school",
+        "check_date": "2025-04-04",
+        "name": "Școala Gimnazială nr. 29 \"Nicolae Romanescu\""
+      }
+    },
+    {
+      "id": "way/221673912",
+      "osm_id": 221673912,
+      "osm_type": "way",
+      "name": "Colegiul Economic Gheoghe Chițu",
+      "category": "education",
+      "lat": 44.3213006,
+      "lon": 23.7892314,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "10",
+        "addr:street": "Strada Brestei",
+        "amenity": "school",
+        "building": "yes",
+        "name": "Colegiul Economic Gheoghe Chițu"
+      }
+    },
+    {
+      "id": "way/221673913",
+      "osm_id": 221673913,
+      "osm_type": "way",
+      "name": "Grădinița Căsuța Fermecată",
+      "category": "education",
+      "lat": 44.3218237,
+      "lon": 23.7862572,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "17",
+        "addr:street": "Strada Ludwig van Beethoven",
+        "building": "kindergarten",
+        "name": "Grădinița Căsuța Fermecată"
+      }
+    },
+    {
+      "id": "way/242386503",
+      "osm_id": 242386503,
+      "osm_type": "way",
+      "name": "Universitatea de Medicină și Farmacie din Craiova - Clădirea Veche",
+      "category": "education",
+      "lat": 44.3088289,
+      "lon": 23.7977006,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "2",
+        "addr:postcode": "200349",
+        "addr:street": "Strada Petru Rareș",
+        "amenity": "university",
+        "building": "yes",
+        "name": "Universitatea de Medicină și Farmacie din Craiova - Clădirea Veche",
+        "website": "https://www.umfcv.ro/"
+      }
+    },
+    {
+      "id": "way/243255997",
+      "osm_id": 243255997,
+      "osm_type": "way",
+      "name": "Școala Gimnazială nr. 29 \"Nicolae Romanescu\" Corp B",
+      "category": "education",
+      "lat": 44.3066466,
+      "lon": 23.8162741,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "3",
+        "addr:postcode": "200577",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Vântului",
+        "amenity": "school",
+        "name": "Școala Gimnazială nr. 29 \"Nicolae Romanescu\" Corp B"
+      }
+    },
+    {
+      "id": "way/243257127",
+      "osm_id": 243257127,
+      "osm_type": "way",
+      "name": "Liceul Tehnologic Ștefan Odobleja",
+      "category": "education",
+      "lat": 44.3063963,
+      "lon": 23.8227525,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "21",
+        "addr:postcode": "200568",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Electroputere",
+        "amenity": "school",
+        "name": "Liceul Tehnologic Ștefan Odobleja",
+        "website": "https://www.stefanodoblejacraiova.ro/"
+      }
+    },
+    {
+      "id": "way/243257302",
+      "osm_id": 243257302,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.3069275,
+      "lon": 23.8219516,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "21",
+        "addr:street": "Strada Electroputere",
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/243278169",
+      "osm_id": 243278169,
+      "osm_type": "way",
+      "name": "Grup Școlar Traian Vuia",
+      "category": "education",
+      "lat": 44.3097701,
+      "lon": 23.8121585,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:country": "RO",
+        "addr:housenumber": "1",
+        "addr:postcode": "200533",
+        "addr:street": "Strada Rovinari",
+        "amenity": "school",
+        "education": "school",
+        "fax": "0351407201",
+        "name": "Grup Școlar Traian Vuia",
+        "phone": "0351407200",
+        "website": "http://www.traianvuia.ro"
+      }
+    },
+    {
+      "id": "way/245175797",
+      "osm_id": 245175797,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Traian",
+      "category": "education",
+      "lat": 44.3228912,
+      "lon": 23.7947811,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "7",
+        "addr:postcode": "200138",
+        "addr:street": "Strada Principatele Unite",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Școala Gimnazială Traian"
+      }
+    },
+    {
+      "id": "way/247003595",
+      "osm_id": 247003595,
+      "osm_type": "way",
+      "name": "Liceul Teoretic Henri Coandă",
+      "category": "education",
+      "lat": 44.3110195,
+      "lon": 23.8213271,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "48",
+        "addr:postcode": "200556",
+        "addr:street": "Strada Henri Coandă",
+        "amenity": "school",
+        "education": "school",
+        "name": "Liceul Teoretic Henri Coandă"
+      }
+    },
+    {
+      "id": "way/250972369",
+      "osm_id": 250972369,
+      "osm_type": "way",
+      "name": "Liceul Matei Basarab",
+      "category": "education",
+      "lat": 44.321297,
+      "lon": 23.817038,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "113",
+        "addr:postcode": "200463",
+        "addr:street": "Strada Vasile Alecsandri",
+        "amenity": "school",
+        "name": "Liceul Matei Basarab"
+      }
+    },
+    {
+      "id": "way/253346352",
+      "osm_id": 253346352,
+      "osm_type": "way",
+      "name": "Grădinița Dumbrava Minunată",
+      "category": "education",
+      "lat": 44.3145701,
+      "lon": 23.821084,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "50",
+        "addr:postcode": "200513",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Putnei",
+        "amenity": "kindergarten",
+        "name": "Grădinița Dumbrava Minunată"
+      }
+    },
+    {
+      "id": "way/263017414",
+      "osm_id": 263017414,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.3088853,
+      "lon": 23.787576,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housename": "Grădinița Micul Prinț",
+        "addr:housenumber": "52",
+        "addr:street": "Strada Dealul Spirei",
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/292713705",
+      "osm_id": 292713705,
+      "osm_type": "way",
+      "name": "Campus Medicină",
+      "category": "education",
+      "lat": 44.3048247,
+      "lon": 23.7946816,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "68",
+        "addr:postcode": "200638",
+        "addr:street": "Bulevardul 1 Mai",
+        "amenity": "university",
+        "name": "Campus Medicină"
+      }
+    },
+    {
+      "id": "way/292714980",
+      "osm_id": 292714980,
+      "osm_type": "way",
+      "name": "Liceul de Arte Marin Sorescu",
+      "category": "education",
+      "lat": 44.3079526,
+      "lon": 23.794362,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "4",
+        "addr:postcode": "200642",
+        "addr:street": "Strada Marin Sorescu",
+        "amenity": "school",
+        "name": "Liceul de Arte Marin Sorescu",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "id": "way/292716610",
+      "osm_id": 292716610,
+      "osm_type": "way",
+      "name": "Universitatea de Medicină și Farmacie",
+      "category": "education",
+      "lat": 44.3088188,
+      "lon": 23.7979724,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "2",
+        "addr:postcode": "200349",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Petru Rareș",
+        "amenity": "university",
+        "name": "Universitatea de Medicină și Farmacie"
+      }
+    },
+    {
+      "id": "way/292795821",
+      "osm_id": 292795821,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Gheorghe Bibescu",
+      "category": "education",
+      "lat": 44.297307,
+      "lon": 23.7969474,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "3",
+        "addr:street": "Strada Doctor Nicolae Ionescu-Sisești",
+        "alt_name": "Școala 36",
+        "amenity": "school",
+        "name": "Școala Gimnazială Gheorghe Bibescu",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "id": "way/292800393",
+      "osm_id": 292800393,
+      "osm_type": "way",
+      "name": "Colegiul Național Ștefan Velovan",
+      "category": "education",
+      "lat": 44.3326443,
+      "lon": 23.7956779,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "72",
+        "addr:postcode": "200170",
+        "addr:street": "Strada Amaradia",
+        "amenity": "school",
+        "name": "Colegiul Național Ștefan Velovan"
+      }
+    },
+    {
+      "id": "way/292800779",
+      "osm_id": 292800779,
+      "osm_type": "way",
+      "name": "Liceul Energetic",
+      "category": "education",
+      "lat": 44.332392,
+      "lon": 23.7929447,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "59",
+        "addr:postcode": "200170",
+        "addr:street": "Strada Amaradia",
+        "amenity": "school",
+        "name": "Liceul Energetic"
+      }
+    },
+    {
+      "id": "way/292801675",
+      "osm_id": 292801675,
+      "osm_type": "way",
+      "name": "Campus Mecanică",
+      "category": "education",
+      "lat": 44.3167737,
+      "lon": 23.8226461,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:country": "RO",
+        "addr:housenumber": "107",
+        "addr:postcode": "200478",
+        "addr:street": "Calea București",
+        "amenity": "university",
+        "name": "Campus Mecanică"
+      }
+    },
+    {
+      "id": "way/292895318",
+      "osm_id": 292895318,
+      "osm_type": "way",
+      "name": "Liceul Tehnologic Auto",
+      "category": "education",
+      "lat": 44.3101057,
+      "lon": 23.8359632,
+      "tags": {
+        "addr:housenumber": "95",
+        "addr:street": "Bulevardul Decebal",
+        "amenity": "school",
+        "name": "Liceul Tehnologic Auto"
+      }
+    },
+    {
+      "id": "way/304214094",
+      "osm_id": 304214094,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Mihai Viteazul",
+      "category": "education",
+      "lat": 44.3361547,
+      "lon": 23.780987,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "16",
+        "addr:street": "Aleea Arhitect Duiliu Marcu",
+        "amenity": "school",
+        "name": "Școala Gimnazială Mihai Viteazul",
+        "phone": "+40 251588429, +40 351412859"
+      }
+    },
+    {
+      "id": "way/304214103",
+      "osm_id": 304214103,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.3358693,
+      "lon": 23.7805332,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/310410601",
+      "osm_id": 310410601,
+      "osm_type": "way",
+      "name": "Greenwich School of English",
+      "category": "education",
+      "lat": 44.3048909,
+      "lon": 23.8135636,
+      "tags": {
+        "addr:housenumber": "6B",
+        "addr:street": "Strada Pandurilor",
+        "amenity": "school",
+        "building": "yes",
+        "name": "Greenwich School of English"
+      }
+    },
+    {
+      "id": "way/310410625",
+      "osm_id": 310410625,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.3044154,
+      "lon": 23.8141104,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "81",
+        "addr:street": "Strada Caracal",
+        "building": "school",
+        "building:levels": "3"
+      }
+    },
+    {
+      "id": "way/310533114",
+      "osm_id": 310533114,
+      "osm_type": "way",
+      "name": "Grădinița nr. 41 \"Elena Farago\"",
+      "category": "education",
+      "lat": 44.304592,
+      "lon": 23.8182919,
+      "tags": {
+        "addr:housenumber": "15",
+        "addr:street": "Strada Revoluției",
+        "amenity": "kindergarten",
+        "name": "Grădinița nr. 41 \"Elena Farago\""
+      }
+    },
+    {
+      "id": "way/313005032",
+      "osm_id": 313005032,
+      "osm_type": "way",
+      "name": "Grădinița nr. 42 \"Ion Creangă\"",
+      "category": "education",
+      "lat": 44.3064489,
+      "lon": 23.8136454,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "10",
+        "addr:street": "Strada Aurel Vlaicu",
+        "amenity": "kindergarten",
+        "name": "Grădinița nr. 42 \"Ion Creangă\""
+      }
+    },
+    {
+      "id": "way/314975925",
+      "osm_id": 314975925,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.3071484,
+      "lon": 23.8226027,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "21",
+        "addr:street": "Strada Electroputere",
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/314975928",
+      "osm_id": 314975928,
+      "osm_type": "way",
+      "name": "Grădinița Castelul Fermecat",
+      "category": "education",
+      "lat": 44.3056725,
+      "lon": 23.8216873,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "21",
+        "addr:street": "Strada Electroputere",
+        "building": "kindergarten",
+        "name": "Grădinița Castelul Fermecat"
+      }
+    },
+    {
+      "id": "way/314975934",
+      "osm_id": 314975934,
+      "osm_type": "way",
+      "name": "Pavilionul Central",
+      "category": "education",
+      "lat": 44.3065224,
+      "lon": 23.8227623,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "21",
+        "addr:street": "Strada Electroputere",
+        "building": "school",
+        "building:levels": "3",
+        "name": "Pavilionul Central",
+        "name:en": "Central Pavilion"
+      }
+    },
+    {
+      "id": "way/331654744",
+      "osm_id": 331654744,
+      "osm_type": "way",
+      "name": "Liceul Tehnologic Transporturi Căi Ferate",
+      "category": "education",
+      "lat": 44.3249749,
+      "lon": 23.7953395,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "15",
+        "addr:street": "Strada Constantin Brâncuși",
+        "amenity": "school",
+        "building": "yes",
+        "name": "Liceul Tehnologic Transporturi Căi Ferate"
+      }
+    },
+    {
+      "id": "way/345039618",
+      "osm_id": 345039618,
+      "osm_type": "way",
+      "name": "Liceul Teoretic Tudor Arghezi",
+      "category": "education",
+      "lat": 44.3249658,
+      "lon": 23.8158755,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "5",
+        "addr:postcode": "200026",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Bucovina",
+        "amenity": "school",
+        "name": "Liceul Teoretic Tudor Arghezi"
+      }
+    },
+    {
+      "id": "way/345041937",
+      "osm_id": 345041937,
+      "osm_type": "way",
+      "name": "Grădinița Sfânta Lucia",
+      "category": "education",
+      "lat": 44.3253876,
+      "lon": 23.8135521,
+      "tags": {
+        "addr:housenumber": "5",
+        "addr:street": "Strada Ion Gheorghe Duca",
+        "amenity": "kindergarten",
+        "name": "Grădinița Sfânta Lucia"
+      }
+    },
+    {
+      "id": "way/345097298",
+      "osm_id": 345097298,
+      "osm_type": "way",
+      "name": "Colegiul Național Carol I",
+      "category": "education",
+      "lat": 44.3190099,
+      "lon": 23.7921256,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "2",
+        "addr:postcode": "200418",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Ion Maiorescu",
+        "building": "school",
+        "name": "Colegiul Național Carol I"
+      }
+    },
+    {
+      "id": "way/345106847",
+      "osm_id": 345106847,
+      "osm_type": "way",
+      "name": "Campus Agronomie",
+      "category": "education",
+      "lat": 44.3191697,
+      "lon": 23.7856806,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "19",
+        "addr:postcode": "200421",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Libertății",
+        "amenity": "university",
+        "name": "Campus Agronomie"
+      }
+    },
+    {
+      "id": "way/346062918",
+      "osm_id": 346062918,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.3184871,
+      "lon": 23.8138212,
+      "tags": {
+        "addr:housenumber": "93",
+        "addr:street": "Calea București",
+        "building": "school",
+        "building:levels": "3"
+      }
+    },
+    {
+      "id": "way/346363039",
+      "osm_id": 346363039,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.2974791,
+      "lon": 23.797037,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "3",
+        "addr:street": "Strada Doctor Nicolae Ionescu-Sisești",
+        "building": "school",
+        "building:levels": "3"
+      }
+    },
+    {
+      "id": "way/346364238",
+      "osm_id": 346364238,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Sfântul Dumitru",
+      "category": "education",
+      "lat": 44.3042397,
+      "lon": 23.7972659,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "162",
+        "addr:street": "Calea Unirii",
+        "alt_name": "Școala 18",
+        "amenity": "school",
+        "name": "Școala Gimnazială Sfântul Dumitru"
+      }
+    },
+    {
+      "id": "way/346365560",
+      "osm_id": 346365560,
+      "osm_type": "way",
+      "name": "Școala Specială Sfântul Vasile",
+      "category": "education",
+      "lat": 44.3004177,
+      "lon": 23.7919322,
+      "tags": {
+        "addr:housenumber": "3",
+        "addr:street": "Strada Doctor Dimitrie Gerota",
+        "amenity": "school",
+        "name": "Școala Specială Sfântul Vasile"
+      }
+    },
+    {
+      "id": "way/346369190",
+      "osm_id": 346369190,
+      "osm_type": "way",
+      "name": "Liceul Tehnologic de Transporturi Auto",
+      "category": "education",
+      "lat": 44.2921726,
+      "lon": 23.7999769,
+      "tags": {
+        "addr:housenumber": "99",
+        "addr:postcode": "200738",
+        "addr:street": "Bulevardul Nicolae Romanescu",
+        "amenity": "school",
+        "name": "Liceul Tehnologic de Transporturi Auto"
+      }
+    },
+    {
+      "id": "way/346965091",
+      "osm_id": 346965091,
+      "osm_type": "way",
+      "name": "Liceul Tehnologic Transporturi Căi Ferate",
+      "category": "education",
+      "lat": 44.32546,
+      "lon": 23.7945315,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "15",
+        "addr:postcode": "200139",
+        "addr:street": "Strada Constantin Brâncuși",
+        "amenity": "school",
+        "name": "Liceul Tehnologic Transporturi Căi Ferate"
+      }
+    },
+    {
+      "id": "way/346965092",
+      "osm_id": 346965092,
+      "osm_type": "way",
+      "name": "Liceul Tehnologic Constantin Brâncuși",
+      "category": "education",
+      "lat": 44.3258502,
+      "lon": 23.7959765,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "17",
+        "addr:postcode": "200139",
+        "addr:street": "Strada Constantin Brâncuși",
+        "amenity": "school",
+        "name": "Liceul Tehnologic Constantin Brâncuși"
+      }
+    },
+    {
+      "id": "way/346965093",
+      "osm_id": 346965093,
+      "osm_type": "way",
+      "name": "Universitatea Spiru Haret",
+      "category": "education",
+      "lat": 44.3264776,
+      "lon": 23.7966848,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "4",
+        "addr:postcode": "200690",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Brazda lui Novac",
+        "amenity": "college",
+        "building": "yes",
+        "name": "Universitatea Spiru Haret"
+      }
+    },
+    {
+      "id": "way/346965953",
+      "osm_id": 346965953,
+      "osm_type": "way",
+      "name": "Colegiul Național Nicolae Titulescu",
+      "category": "education",
+      "lat": 44.328764,
+      "lon": 23.8000289,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "12",
+        "addr:postcode": "200127",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Doljului",
+        "amenity": "school",
+        "name": "Colegiul Național Nicolae Titulescu"
+      }
+    },
+    {
+      "id": "way/346965954",
+      "osm_id": 346965954,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Sfântu Gheorghe",
+      "category": "education",
+      "lat": 44.3302052,
+      "lon": 23.8037336,
+      "tags": {
+        "addr:housenumber": "87",
+        "addr:postcode": "200690",
+        "addr:street": "Strada Brazda lui Novac",
+        "amenity": "school",
+        "name": "Școala Gimnazială Sfântu Gheorghe"
+      }
+    },
+    {
+      "id": "way/346965959",
+      "osm_id": 346965959,
+      "osm_type": "way",
+      "name": "Grădinița Căsuța cu Povești",
+      "category": "education",
+      "lat": 44.3305282,
+      "lon": 23.801884,
+      "tags": {
+        "addr:housenumber": "6",
+        "addr:postcode": "200075",
+        "addr:street": "Strada General Ștefan Fălcoianu",
+        "amenity": "kindergarten",
+        "name": "Grădinița Căsuța cu Povești"
+      }
+    },
+    {
+      "id": "way/346966600",
+      "osm_id": 346966600,
+      "osm_type": "way",
+      "name": "Grădinița Voiniceii",
+      "category": "education",
+      "lat": 44.3312772,
+      "lon": 23.7964667,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "10",
+        "addr:street": "Strada Scarlat Demetriade",
+        "amenity": "kindergarten",
+        "name": "Grădinița Voiniceii"
+      }
+    },
+    {
+      "id": "way/347569165",
+      "osm_id": 347569165,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Mihai Eminescu",
+      "category": "education",
+      "lat": 44.3125524,
+      "lon": 23.8390072,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "3",
+        "addr:postcode": "200438",
+        "addr:street": "Strada Ion Țuculescu",
+        "amenity": "school",
+        "name": "Școala Gimnazială Mihai Eminescu"
+      }
+    },
+    {
+      "id": "way/347569168",
+      "osm_id": 347569168,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Nicolae Bălcescu",
+      "category": "education",
+      "lat": 44.3228706,
+      "lon": 23.8254477,
+      "tags": {
+        "addr:housenumber": "6",
+        "addr:street": "Strada Traian Lalescu",
+        "amenity": "school",
+        "name": "Școala Gimnazială Nicolae Bălcescu"
+      }
+    },
+    {
+      "id": "way/347581593",
+      "osm_id": 347581593,
+      "osm_type": "way",
+      "name": "Grădinița Petrache Poenaru",
+      "category": "education",
+      "lat": 44.3214288,
+      "lon": 23.8112104,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "87",
+        "addr:street": "Strada Vasile Alecsandri",
+        "after_school": "yes",
+        "amenity": "kindergarten",
+        "fee": "yes",
+        "name": "Grădinița Petrache Poenaru",
+        "nursery": "yes",
+        "phone": "+40  351 800484",
+        "preschool": "yes"
+      }
+    },
+    {
+      "id": "way/347581594",
+      "osm_id": 347581594,
+      "osm_type": "way",
+      "name": "Grădinița Luceafărul",
+      "category": "education",
+      "lat": 44.3196536,
+      "lon": 23.8237329,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "12",
+        "addr:postcode": "200010",
+        "addr:street": "Strada Mihail Străjan",
+        "amenity": "kindergarten",
+        "name": "Grădinița Luceafărul"
+      }
+    },
+    {
+      "id": "way/347581595",
+      "osm_id": 347581595,
+      "osm_type": "way",
+      "name": "Grădinița Pinocchio",
+      "category": "education",
+      "lat": 44.317074,
+      "lon": 23.8193216,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "4",
+        "addr:street": "Strada Ștefan Velovan",
+        "amenity": "kindergarten",
+        "name": "Grădinița Pinocchio"
+      }
+    },
+    {
+      "id": "way/347586086",
+      "osm_id": 347586086,
+      "osm_type": "way",
+      "name": "Grădinița Tudor Vladimirescu",
+      "category": "education",
+      "lat": 44.323362,
+      "lon": 23.8034059,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "41A",
+        "addr:postcode": "200692",
+        "addr:street": "Bulevardul Carol I",
+        "amenity": "kindergarten",
+        "name": "Grădinița Tudor Vladimirescu"
+      }
+    },
+    {
+      "id": "way/347586090",
+      "osm_id": 347586090,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Sfântul Gheorghe",
+      "category": "education",
+      "lat": 44.3271735,
+      "lon": 23.8069826,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "4",
+        "addr:postcode": "200116",
+        "addr:street": "Strada Lămâiței",
+        "amenity": "school",
+        "barrier": "fence",
+        "fence_type": "metal",
+        "name": "Școala Gimnazială Sfântul Gheorghe"
+      }
+    },
+    {
+      "id": "way/347589010",
+      "osm_id": 347589010,
+      "osm_type": "way",
+      "name": "Școala Specială Sfântul Mina",
+      "category": "education",
+      "lat": 44.3259836,
+      "lon": 23.7895949,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "7",
+        "addr:postcode": "200144",
+        "addr:street": "Strada George Enescu",
+        "amenity": "school",
+        "name": "Școala Specială Sfântul Mina"
+      }
+    },
+    {
+      "id": "way/347594512",
+      "osm_id": 347594512,
+      "osm_type": "way",
+      "name": "Colegiul Tehnic Costin D. Nenițescu",
+      "category": "education",
+      "lat": 44.3299571,
+      "lon": 23.7812738,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "9",
+        "addr:postcode": "200151",
+        "addr:street": "Strada Pașcani",
+        "alt_name": "Liceul de Chimie",
+        "amenity": "school",
+        "name": "Colegiul Tehnic Costin D. Nenițescu"
+      }
+    },
+    {
+      "id": "way/347594513",
+      "osm_id": 347594513,
+      "osm_type": "way",
+      "name": "Liceul Teologic Adventist",
+      "category": "education",
+      "lat": 44.3291258,
+      "lon": 23.7798729,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "9A",
+        "addr:postcode": "200151",
+        "addr:street": "Strada Pașcani",
+        "amenity": "school",
+        "name": "Liceul Teologic Adventist"
+      }
+    },
+    {
+      "id": "way/347594514",
+      "osm_id": 347594514,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Decebal",
+      "category": "education",
+      "lat": 44.3272378,
+      "lon": 23.785407,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "64",
+        "addr:postcode": "200142",
+        "addr:street": "Bulevardul Nicolae Titulescu",
+        "amenity": "school",
+        "name": "Școala Gimnazială Decebal"
+      }
+    },
+    {
+      "id": "way/347594515",
+      "osm_id": 347594515,
+      "osm_type": "way",
+      "name": "Grădinița Paradisul Copiilor",
+      "category": "education",
+      "lat": 44.3255414,
+      "lon": 23.7819284,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "1",
+        "addr:postcode": "200187",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Renașterii",
+        "amenity": "kindergarten",
+        "name": "Grădinița Paradisul Copiilor"
+      }
+    },
+    {
+      "id": "way/347597082",
+      "osm_id": 347597082,
+      "osm_type": "way",
+      "name": "Grădinița Phoenix",
+      "category": "education",
+      "lat": 44.3336375,
+      "lon": 23.7816669,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "81",
+        "addr:street": "Bulevardul Oltenia",
+        "amenity": "kindergarten",
+        "name": "Grădinița Phoenix"
+      }
+    },
+    {
+      "id": "way/347597083",
+      "osm_id": 347597083,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Alexandru Macedonski",
+      "category": "education",
+      "lat": 44.337692,
+      "lon": 23.783902,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "4",
+        "addr:street": "Strada Castanilor",
+        "amenity": "school",
+        "name": "Școala Gimnazială Alexandru Macedonski"
+      }
+    },
+    {
+      "id": "way/347597085",
+      "osm_id": 347597085,
+      "osm_type": "way",
+      "name": "Grădinița Floarea Soarelui",
+      "category": "education",
+      "lat": 44.3387429,
+      "lon": 23.7832989,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "20",
+        "addr:street": "Strada Nicolae Coculescu",
+        "amenity": "kindergarten",
+        "name": "Grădinița Floarea Soarelui"
+      }
+    },
+    {
+      "id": "way/347597086",
+      "osm_id": 347597086,
+      "osm_type": "way",
+      "name": "Grădinița Floare Albastră",
+      "category": "education",
+      "lat": 44.3377021,
+      "lon": 23.7790281,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "28",
+        "addr:street": "Bulevardul Tineretului",
+        "amenity": "kindergarten",
+        "name": "Grădinița Floare Albastră"
+      }
+    },
+    {
+      "id": "way/347597087",
+      "osm_id": 347597087,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Elena Farago",
+      "category": "education",
+      "lat": 44.3399751,
+      "lon": 23.773956,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "19",
+        "addr:street": "Strada Elena Farago",
+        "amenity": "school",
+        "name": "Școala Gimnazială Elena Farago"
+      }
+    },
+    {
+      "id": "way/347597088",
+      "osm_id": 347597088,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Elena Farago",
+      "category": "education",
+      "lat": 44.3372465,
+      "lon": 23.7689677,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "53",
+        "addr:street": "Strada Elena Farago",
+        "amenity": "school",
+        "name": "Școala Gimnazială Elena Farago"
+      }
+    },
+    {
+      "id": "way/348362970",
+      "osm_id": 348362970,
+      "osm_type": "way",
+      "name": "Universitatea de Medicină si Farmacie din Craiova - Clădirea Nouă",
+      "category": "education",
+      "lat": 44.3053225,
+      "lon": 23.7945307,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "66",
+        "addr:postcode": "200638",
+        "addr:street": "Bulevardul 1 Mai",
+        "amenity": "university",
+        "building": "yes",
+        "building:levels": "5",
+        "name": "Universitatea de Medicină si Farmacie din Craiova - Clădirea Nouă",
+        "website": "https://www.umfcv.ro/"
+      }
+    },
+    {
+      "id": "way/348398361",
+      "osm_id": 348398361,
+      "osm_type": "way",
+      "name": "Liceul de Industrie Alimentară",
+      "category": "education",
+      "lat": 44.3254464,
+      "lon": 23.774153,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "144",
+        "addr:postcode": "200207",
+        "addr:street": "Strada Brestei",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Liceul de Industrie Alimentară"
+      }
+    },
+    {
+      "id": "way/348398364",
+      "osm_id": 348398364,
+      "osm_type": "way",
+      "name": "Facultatea de Educație Fizică și Sport",
+      "category": "education",
+      "lat": 44.326048,
+      "lon": 23.7734103,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "146",
+        "addr:postcode": "200207",
+        "addr:street": "Strada Brestei",
+        "amenity": "college",
+        "barrier": "fence",
+        "name": "Facultatea de Educație Fizică și Sport"
+      }
+    },
+    {
+      "id": "way/352340731",
+      "osm_id": 352340731,
+      "osm_type": "way",
+      "name": "Liceul cu Program Sportiv Petrache Trișcu",
+      "category": "education",
+      "lat": 44.3127809,
+      "lon": 23.8045403,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "9",
+        "addr:postcode": "200534",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Tudor Vladimirescu",
+        "amenity": "school",
+        "name": "Liceul cu Program Sportiv Petrache Trișcu"
+      }
+    },
+    {
+      "id": "way/352383223",
+      "osm_id": 352383223,
+      "osm_type": "way",
+      "name": "Grădinița Otilia Cazimir",
+      "category": "education",
+      "lat": 44.3122031,
+      "lon": 23.7958609,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "64",
+        "addr:street": "Calea Unirii",
+        "amenity": "kindergarten",
+        "name": "Grădinița Otilia Cazimir"
+      }
+    },
+    {
+      "id": "way/353275786",
+      "osm_id": 353275786,
+      "osm_type": "way",
+      "name": "Liceul Tehnologic Special Beethoven",
+      "category": "education",
+      "lat": 44.3221002,
+      "lon": 23.7869611,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "2",
+        "addr:postcode": "200218",
+        "addr:street": "Strada Ludwig van Beethoven",
+        "amenity": "school",
+        "name": "Liceul Tehnologic Special Beethoven"
+      }
+    },
+    {
+      "id": "way/353275788",
+      "osm_id": 353275788,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.3214881,
+      "lon": 23.784055,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "38",
+        "addr:street": "Strada Brestei",
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "way/353275789",
+      "osm_id": 353275789,
+      "osm_type": "way",
+      "name": "Liceul Charles Laugier",
+      "category": "education",
+      "lat": 44.3219751,
+      "lon": 23.7774088,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "129",
+        "addr:postcode": "200177",
+        "addr:street": "Strada Brestei",
+        "amenity": "school",
+        "name": "Liceul Charles Laugier"
+      }
+    },
+    {
+      "id": "way/353422202",
+      "osm_id": 353422202,
+      "osm_type": "way",
+      "name": "Grădinița Piticot",
+      "category": "education",
+      "lat": 44.3405506,
+      "lon": 23.7747351,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "17",
+        "addr:street": "Strada Elena Farago",
+        "amenity": "kindergarten",
+        "name": "Grădinița Piticot"
+      }
+    },
+    {
+      "id": "way/481723023",
+      "osm_id": 481723023,
+      "osm_type": "way",
+      "name": "Cămin",
+      "category": "education",
+      "lat": 44.3255526,
+      "lon": 23.7948172,
+      "tags": {
+        "building": "school",
+        "name": "Cămin"
+      }
+    },
+    {
+      "id": "way/481723026",
+      "osm_id": 481723026,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.3251977,
+      "lon": 23.7950612,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/481924161",
+      "osm_id": 481924161,
+      "osm_type": "way",
+      "name": "Școala Gimnazială 1 Obedeanu",
+      "category": "education",
+      "lat": 44.3211538,
+      "lon": 23.7843395,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:street": "Strada Brestei",
+        "building": "school",
+        "building:levels": "2",
+        "name": "Școala Gimnazială 1 Obedeanu"
+      }
+    },
+    {
+      "id": "way/544772673",
+      "osm_id": 544772673,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.3067884,
+      "lon": 23.7830858,
+      "tags": {
+        "building": "school",
+        "building:levels": "3"
+      }
+    },
+    {
+      "id": "way/611980710",
+      "osm_id": 611980710,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Ion Creangă",
+      "category": "education",
+      "lat": 44.3268561,
+      "lon": 23.7686735,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "234",
+        "addr:street": "Strada Brestei",
+        "amenity": "school",
+        "name": "Școala Gimnazială Ion Creangă"
+      }
+    },
+    {
+      "id": "way/671665634",
+      "osm_id": 671665634,
+      "osm_type": "way",
+      "name": "Școala Gimnazială 25",
+      "category": "education",
+      "lat": 44.275196,
+      "lon": 23.8151504,
+      "tags": {
+        "addr:street": "Prelungirea Bechetului",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Școala Gimnazială 25"
+      }
+    },
+    {
+      "id": "way/678735906",
+      "osm_id": 678735906,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.3216006,
+      "lon": 23.789968,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "10",
+        "addr:street": "Strada Brestei",
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "way/681740590",
+      "osm_id": 681740590,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Ethos",
+      "category": "education",
+      "lat": 44.2874425,
+      "lon": 23.8116672,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:street": "Strada Geniștilor",
+        "amenity": "school",
+        "email": "info@scoalaethos.ro",
+        "name": "Școala Gimnazială Ethos",
+        "phone": "+40 351427236",
+        "website": "https://scoalaethos.ro"
+      }
+    },
+    {
+      "id": "way/684462125",
+      "osm_id": 684462125,
+      "osm_type": "way",
+      "name": "Grădinița Eden",
+      "category": "education",
+      "lat": 44.3131143,
+      "lon": 23.8221574,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "15A",
+        "addr:street": "Strada Putnei",
+        "building": "kindergarten",
+        "name": "Grădinița Eden"
+      }
+    },
+    {
+      "id": "way/686186527",
+      "osm_id": 686186527,
+      "osm_type": "way",
+      "name": "Liceul George Bibescu",
+      "category": "education",
+      "lat": 44.3360561,
+      "lon": 23.7910297,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "101",
+        "addr:street": "Strada Constantin Brâncoveanu",
+        "amenity": "school",
+        "name": "Liceul George Bibescu"
+      }
+    },
+    {
+      "id": "way/686944874",
+      "osm_id": 686944874,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Lascăr Catargiu",
+      "category": "education",
+      "lat": 44.306835,
+      "lon": 23.7830042,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "45",
+        "addr:street": "Strada Bărăganului",
+        "amenity": "school",
+        "name": "Școala Gimnazială Lascăr Catargiu"
+      }
+    },
+    {
+      "id": "way/687645738",
+      "osm_id": 687645738,
+      "osm_type": "way",
+      "name": "Școala Româno-Britanică",
+      "category": "education",
+      "lat": 44.3145999,
+      "lon": 23.790632,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "15A",
+        "addr:street": "Strada Gheorghe Bibescu",
+        "amenity": "school",
+        "name": "Școala Româno-Britanică"
+      }
+    },
+    {
+      "id": "way/727274301",
+      "osm_id": 727274301,
+      "osm_type": "way",
+      "name": "Colegiul Economic Gheorghe Chițu - Sediul 2",
+      "category": "education",
+      "lat": 44.3023077,
+      "lon": 23.793155,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "22",
+        "addr:street": "Strada Doctor Dimitrie Gerota",
+        "amenity": "school",
+        "name": "Colegiul Economic Gheorghe Chițu - Sediul 2"
+      }
+    },
+    {
+      "id": "way/727274302",
+      "osm_id": 727274302,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.3022927,
+      "lon": 23.7922821,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "22",
+        "addr:street": "Strada Doctor Dimitrie Gerota",
+        "amenity": "kindergarten"
+      }
+    },
+    {
+      "id": "way/732585915",
+      "osm_id": 732585915,
+      "osm_type": "way",
+      "name": "Universitatea de Medicină și Farmacie din Craiova - Corp A Extindere",
+      "category": "education",
+      "lat": 44.3087098,
+      "lon": 23.7985531,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "2",
+        "addr:street": "Strada Petru Rareș",
+        "amenity": "university",
+        "building": "yes",
+        "name": "Universitatea de Medicină și Farmacie din Craiova - Corp A Extindere",
+        "website": "https://www.umfcv.ro/"
+      }
+    },
+    {
+      "id": "way/736848167",
+      "osm_id": 736848167,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Anton Pann",
+      "category": "education",
+      "lat": 44.3165224,
+      "lon": 23.7805826,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "76",
+        "addr:street": "Strada Bucovăț",
+        "amenity": "school",
+        "name": "Școala Gimnazială Anton Pann"
+      }
+    },
+    {
+      "id": "way/737655099",
+      "osm_id": 737655099,
+      "osm_type": "way",
+      "name": "Grădinița Casa cu Pitici",
+      "category": "education",
+      "lat": 44.3289976,
+      "lon": 23.7618076,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "342",
+        "addr:street": "Strada Brestei",
+        "amenity": "kindergarten",
+        "name": "Grădinița Casa cu Pitici"
+      }
+    },
+    {
+      "id": "way/737655100",
+      "osm_id": 737655100,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.3289874,
+      "lon": 23.7616663,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "342",
+        "addr:street": "Strada Brestei",
+        "building": "school",
+        "building:levels": "2"
+      }
+    },
+    {
+      "id": "way/737655101",
+      "osm_id": 737655101,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.3268608,
+      "lon": 23.7683121,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "234",
+        "addr:street": "Strada Brestei",
+        "building": "school",
+        "building:levels": "3"
+      }
+    },
+    {
+      "id": "way/737655102",
+      "osm_id": 737655102,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.3265957,
+      "lon": 23.7689606,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "234",
+        "addr:street": "Strada Brestei",
+        "building": "school",
+        "building:levels": "3"
+      }
+    },
+    {
+      "id": "way/738631459",
+      "osm_id": 738631459,
+      "osm_type": "way",
+      "name": "Grădinița Sf. Stelian",
+      "category": "education",
+      "lat": 44.3163024,
+      "lon": 23.7889952,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "37",
+        "addr:street": "Strada Câmpia Islaz",
+        "amenity": "kindergarten",
+        "name": "Grădinița Sf. Stelian"
+      }
+    },
+    {
+      "id": "way/739800017",
+      "osm_id": 739800017,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.3212287,
+      "lon": 23.8111413,
+      "tags": {
+        "after_school": "yes",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "building:levels": "2",
+        "fee": "yes",
+        "height": "9",
+        "nursery": "yes"
+      }
+    },
+    {
+      "id": "way/739801309",
+      "osm_id": 739801309,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.3215528,
+      "lon": 23.8114006,
+      "tags": {
+        "after_school": "yes",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "building:levels": "1",
+        "fee": "no",
+        "height": "4",
+        "nursery": "no"
+      }
+    },
+    {
+      "id": "way/744166637",
+      "osm_id": 744166637,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.3401766,
+      "lon": 23.774205,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "19",
+        "addr:street": "Strada Elena Farago",
+        "building": "school",
+        "building:levels": "3"
+      }
+    },
+    {
+      "id": "way/744398603",
+      "osm_id": 744398603,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.3373593,
+      "lon": 23.7686652,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/753527785",
+      "osm_id": 753527785,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Ion Creangă",
+      "category": "education",
+      "lat": 44.3367427,
+      "lon": 23.7394084,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "597",
+        "addr:street": "Strada Brestei",
+        "amenity": "school",
+        "name": "Școala Gimnazială Ion Creangă"
+      }
+    },
+    {
+      "id": "way/754057666",
+      "osm_id": 754057666,
+      "osm_type": "way",
+      "name": "Colegiul Național Militar Tudor Vladimirescu",
+      "category": "education",
+      "lat": 44.2793956,
+      "lon": 23.809364,
+      "tags": {
+        "amenity": "school",
+        "name": "Colegiul Național Militar Tudor Vladimirescu"
+      }
+    },
+    {
+      "id": "way/758162612",
+      "osm_id": 758162612,
+      "osm_type": "way",
+      "name": "Grădinița Axia",
+      "category": "education",
+      "lat": 44.3106097,
+      "lon": 23.8044953,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "9",
+        "addr:street": "Strada Matei Millo",
+        "amenity": "kindergarten",
+        "name": "Grădinița Axia"
+      }
+    },
+    {
+      "id": "way/758165368",
+      "osm_id": 758165368,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Terraveda",
+      "category": "education",
+      "lat": 44.3259816,
+      "lon": 23.7952766,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "15",
+        "addr:street": "Strada Brazda lui Novac",
+        "building": "school",
+        "name": "Școala Gimnazială Terraveda"
+      }
+    },
+    {
+      "id": "way/758165369",
+      "osm_id": 758165369,
+      "osm_type": "way",
+      "name": "Ateliere",
+      "category": "education",
+      "lat": 44.3259451,
+      "lon": 23.794554,
+      "tags": {
+        "building": "school",
+        "name": "Ateliere"
+      }
+    },
+    {
+      "id": "way/758165370",
+      "osm_id": 758165370,
+      "osm_type": "way",
+      "name": "Liceul Tehnologic Constantin Brâncuși",
+      "category": "education",
+      "lat": 44.3259579,
+      "lon": 23.795692,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "17",
+        "addr:street": "Strada Brazda lui Novac",
+        "building": "school",
+        "name": "Liceul Tehnologic Constantin Brâncuși"
+      }
+    },
+    {
+      "id": "way/758165371",
+      "osm_id": 758165371,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.325953,
+      "lon": 23.796466,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/758167594",
+      "osm_id": 758167594,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.3252914,
+      "lon": 23.8134688,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "5",
+        "addr:street": "Strada Ion Gheorghe Duca",
+        "building": "kindergarten",
+        "building:levels": "1"
+      }
+    },
+    {
+      "id": "way/758167595",
+      "osm_id": 758167595,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.3249322,
+      "lon": 23.8159581,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "5",
+        "addr:street": "Strada Bucovina",
+        "building": "school",
+        "building:levels": "3"
+      }
+    },
+    {
+      "id": "way/758168718",
+      "osm_id": 758168718,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.3170423,
+      "lon": 23.8193537,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "4",
+        "addr:street": "Strada Ștefan Velovan",
+        "building": "kindergarten",
+        "building:levels": "1"
+      }
+    },
+    {
+      "id": "way/758171589",
+      "osm_id": 758171589,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.3321856,
+      "lon": 23.7959563,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "72",
+        "addr:street": "Strada Amaradia",
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/758175711",
+      "osm_id": 758175711,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.3162928,
+      "lon": 23.7890154,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "37",
+        "addr:street": "Strada Câmpia Islaz",
+        "building": "kindergarten",
+        "building:levels": "1"
+      }
+    },
+    {
+      "id": "way/758183530",
+      "osm_id": 758183530,
+      "osm_type": "way",
+      "name": "Școala Primară Popoveni",
+      "category": "education",
+      "lat": 44.2897947,
+      "lon": 23.7820386,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "3",
+        "addr:street": "Șoseaua Popoveni",
+        "amenity": "school",
+        "name": "Școala Primară Popoveni"
+      }
+    },
+    {
+      "id": "way/758185344",
+      "osm_id": 758185344,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.3092871,
+      "lon": 23.7812665,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "37",
+        "addr:street": "Strada Teleajenului",
+        "building": "kindergarten",
+        "building:levels": "1"
+      }
+    },
+    {
+      "id": "way/758185345",
+      "osm_id": 758185345,
+      "osm_type": "way",
+      "name": "Grădinița Lascăr Catargiu",
+      "category": "education",
+      "lat": 44.309294,
+      "lon": 23.7812559,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "37",
+        "addr:street": "Strada Teleajenului",
+        "amenity": "kindergarten",
+        "name": "Grădinița Lascăr Catargiu"
+      }
+    },
+    {
+      "id": "way/758185346",
+      "osm_id": 758185346,
+      "osm_type": "way",
+      "name": "Grădinița Floare de Colț",
+      "category": "education",
+      "lat": 44.3099294,
+      "lon": 23.8062895,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "14",
+        "addr:street": "Strada Recunoștinței",
+        "amenity": "kindergarten",
+        "name": "Grădinița Floare de Colț"
+      }
+    },
+    {
+      "id": "way/758185347",
+      "osm_id": 758185347,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.3099919,
+      "lon": 23.806416,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "14",
+        "addr:street": "Strada Recunoștinței",
+        "building": "kindergarten",
+        "building:levels": "1"
+      }
+    },
+    {
+      "id": "way/758185349",
+      "osm_id": 758185349,
+      "osm_type": "way",
+      "name": "Grădinița Voinicel",
+      "category": "education",
+      "lat": 44.3272968,
+      "lon": 23.7688404,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "2",
+        "addr:street": "Strada Râului",
+        "amenity": "kindergarten",
+        "name": "Grădinița Voinicel"
+      }
+    },
+    {
+      "id": "way/758185350",
+      "osm_id": 758185350,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.3273036,
+      "lon": 23.7689606,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "2",
+        "addr:street": "Strada Râului",
+        "building": "kindergarten",
+        "building:levels": "2"
+      }
+    },
+    {
+      "id": "way/758187499",
+      "osm_id": 758187499,
+      "osm_type": "way",
+      "name": "Grădinița Sf. Ana",
+      "category": "education",
+      "lat": 44.3132995,
+      "lon": 23.8044437,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "14",
+        "addr:street": "Strada Crișului",
+        "amenity": "kindergarten",
+        "name": "Grădinița Sf. Ana"
+      }
+    },
+    {
+      "id": "way/758192453",
+      "osm_id": 758192453,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.3216997,
+      "lon": 23.7840303,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/758682472",
+      "osm_id": 758682472,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.3343002,
+      "lon": 23.8167885,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "52",
+        "addr:street": "Strada Bariera Vâlcii",
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/758682474",
+      "osm_id": 758682474,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.3339025,
+      "lon": 23.8177964,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:street": "Strada Bariera Vâlcii",
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/758682475",
+      "osm_id": 758682475,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Ion Țuculescu",
+      "category": "education",
+      "lat": 44.3340819,
+      "lon": 23.8171735,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "52",
+        "addr:street": "Strada Bariera Vâlcii",
+        "amenity": "school",
+        "name": "Școala Gimnazială Ion Țuculescu"
+      }
+    },
+    {
+      "id": "way/793958155",
+      "osm_id": 793958155,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.3305331,
+      "lon": 23.8018487,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "6",
+        "addr:street": "Strada General Ștefan Fălcoianu",
+        "building": "kindergarten",
+        "building:levels": "1"
+      }
+    },
+    {
+      "id": "way/793958156",
+      "osm_id": 793958156,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.3301849,
+      "lon": 23.8039765,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "87",
+        "addr:street": "Strada Brazda lui Novac",
+        "building": "school",
+        "building:levels": "3"
+      }
+    },
+    {
+      "id": "way/793958157",
+      "osm_id": 793958157,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.3301671,
+      "lon": 23.8033275,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:street": "Strada Brazda lui Novac",
+        "building": "school",
+        "building:levels": "3"
+      }
+    },
+    {
+      "id": "way/793958160",
+      "osm_id": 793958160,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.3288266,
+      "lon": 23.8001494,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "12",
+        "addr:street": "Strada Doljului",
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/939057325",
+      "osm_id": 939057325,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.3098681,
+      "lon": 23.8366163,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/939057326",
+      "osm_id": 939057326,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.3102845,
+      "lon": 23.8364609,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/939057327",
+      "osm_id": 939057327,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.3101129,
+      "lon": 23.8358526,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/942701766",
+      "osm_id": 942701766,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.304237,
+      "lon": 23.7971553,
+      "tags": {
+        "building": "school",
+        "building:levels": "2"
+      }
+    },
+    {
+      "id": "way/942701767",
+      "osm_id": 942701767,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.3041632,
+      "lon": 23.797507,
+      "tags": {
+        "building": "school",
+        "building:levels": "2"
+      }
+    },
+    {
+      "id": "way/943562848",
+      "osm_id": 943562848,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.3134949,
+      "lon": 23.8178632,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "1",
+        "addr:street": "Strada Cloșca",
+        "building": "school",
+        "building:levels": "3"
+      }
+    },
+    {
+      "id": "way/956129097",
+      "osm_id": 956129097,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.3196186,
+      "lon": 23.8237721,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "12",
+        "addr:postcode": "200010",
+        "addr:street": "Strada Mihail Străjan",
+        "building": "kindergarten",
+        "building:levels": "2"
+      }
+    },
+    {
+      "id": "way/978472118",
+      "osm_id": 978472118,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.3229481,
+      "lon": 23.82571,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "6",
+        "addr:street": "Strada Traian Lalescu",
+        "building": "school",
+        "building:levels": "3"
+      }
+    },
+    {
+      "id": "way/1017427540",
+      "osm_id": 1017427540,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.3321523,
+      "lon": 23.8227421,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "63",
+        "addr:street": "Strada Teilor",
+        "building": "kindergarten",
+        "building:levels": "1"
+      }
+    },
+    {
+      "id": "way/1017427541",
+      "osm_id": 1017427541,
+      "osm_type": "way",
+      "name": "Grădinița Îngerașii",
+      "category": "education",
+      "lat": 44.3321543,
+      "lon": 23.8225154,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "63",
+        "addr:street": "Strada Teilor",
+        "amenity": "kindergarten",
+        "name": "Grădinița Îngerașii"
+      }
+    },
+    {
+      "id": "way/1132760880",
+      "osm_id": 1132760880,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.2874301,
+      "lon": 23.8119928,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/1132760884",
+      "osm_id": 1132760884,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.2879774,
+      "lon": 23.8131895,
+      "tags": {
+        "building": "kindergarten"
+      }
+    },
+    {
+      "id": "way/1132760885",
+      "osm_id": 1132760885,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.2876151,
+      "lon": 23.8131238,
+      "tags": {
+        "building": "kindergarten"
+      }
+    },
+    {
+      "id": "way/1133515668",
+      "osm_id": 1133515668,
+      "osm_type": "way",
+      "name": "Grădiniţa Ethos",
+      "category": "education",
+      "lat": 44.2877783,
+      "lon": 23.8131581,
+      "tags": {
+        "amenity": "kindergarten",
+        "email": "info@scoalaethos.ro",
+        "name": "Grădiniţa Ethos",
+        "website": "https://scoalaethos.ro/gradinita"
+      }
+    },
+    {
+      "id": "way/1160883351",
+      "osm_id": 1160883351,
+      "osm_type": "way",
+      "name": "Ateliere Liceul Tehnologic Auto",
+      "category": "education",
+      "lat": 44.2887071,
+      "lon": 23.8002343,
+      "tags": {
+        "amenity": "school",
+        "name": "Ateliere Liceul Tehnologic Auto"
+      }
+    },
+    {
+      "id": "way/1234728328",
+      "osm_id": 1234728328,
+      "osm_type": "way",
+      "name": "Liceul Tehnologic UCECOM Spiru Haret",
+      "category": "education",
+      "lat": 44.3082785,
+      "lon": 23.822687,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "16",
+        "addr:street": "Strada Electroputere",
+        "building": "school",
+        "building:levels": "2",
+        "name": "Liceul Tehnologic UCECOM Spiru Haret"
+      }
+    },
+    {
+      "id": "way/1391416446",
+      "osm_id": 1391416446,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.3049323,
+      "lon": 23.7597274,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "relation/9506449",
+      "osm_id": 9506449,
+      "osm_type": "relation",
+      "name": "Universitatea din Craiova",
+      "category": "education",
+      "lat": 44.3189859,
+      "lon": 23.8008218,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "13",
+        "addr:street": "Strada Alexandru Ioan Cuza",
+        "amenity": "university",
+        "building": "university",
+        "building:levels": "5",
+        "name": "Universitatea din Craiova",
+        "type": "multipolygon",
+        "wikidata": "Q494096",
+        "wikipedia": "ro:Universitatea din Craiova"
+      }
+    },
+    {
+      "id": "relation/9510278",
+      "osm_id": 9510278,
+      "osm_type": "relation",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.3324116,
+      "lon": 23.7951822,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "72",
+        "addr:street": "Strada Amaradia",
+        "building": "school",
+        "building:levels": "3",
+        "type": "multipolygon"
+      }
+    },
+    {
+      "id": "relation/10466100",
+      "osm_id": 10466100,
+      "osm_type": "relation",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.3313406,
+      "lon": 23.7964432,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "10",
+        "addr:street": "Strada Scarlat Demetriade",
+        "building": "kindergarten",
+        "type": "multipolygon"
+      }
+    },
+    {
+      "id": "node/317724016",
+      "osm_id": 317724016,
+      "osm_type": "node",
+      "name": "Biserica Sfânta Treime",
+      "category": "place_of_worship",
+      "lat": 44.3183176,
+      "lon": 23.7928514,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "1",
+        "addr:postcode": "200418",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Ion Maiorescu",
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Sfânta Treime",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/2539518678",
+      "osm_id": 2539518678,
+      "osm_type": "node",
+      "name": "Biserica Sfântul Calinic Cernicanul",
+      "category": "place_of_worship",
+      "lat": 44.3094596,
+      "lon": 23.820896,
+      "tags": {
+        "addr:street": "Strada Împăratul Traian",
+        "amenity": "place_of_worship",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica Sfântul Calinic Cernicanul",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/2592374389",
+      "osm_id": 2592374389,
+      "osm_type": "node",
+      "name": "Biserica Sfântul Nicodim",
+      "category": "place_of_worship",
+      "lat": 44.3338514,
+      "lon": 23.7711684,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "65",
+        "addr:postcode": "200222",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Toporași",
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Sfântul Nicodim",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/2620351233",
+      "osm_id": 2620351233,
+      "osm_type": "node",
+      "name": "Biserica Madona Oota",
+      "category": "place_of_worship",
+      "lat": 44.309119,
+      "lon": 23.8116492,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:country": "RO",
+        "addr:housenumber": "115",
+        "addr:postcode": "200539",
+        "addr:street": "Strada General Dragalina",
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Madona Oota",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/3226305495",
+      "osm_id": 3226305495,
+      "osm_type": "node",
+      "name": "Biserica Sfântul Ioan Botezătorul",
+      "category": "place_of_worship",
+      "lat": 44.3130331,
+      "lon": 23.80234,
+      "tags": {
+        "addr:housenumber": "33",
+        "addr:street": "Strada Arieș",
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Sfântul Ioan Botezătorul",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/3253650415",
+      "osm_id": 3253650415,
+      "osm_type": "node",
+      "name": "Biserica Buna Vestire",
+      "category": "place_of_worship",
+      "lat": 44.3213368,
+      "lon": 23.7843916,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:street": "Strada Pictor Oscar Obedeanu",
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Buna Vestire",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/3518057172",
+      "osm_id": 3518057172,
+      "osm_type": "node",
+      "name": "Biserica Sfântul Gheorghe Vechi",
+      "category": "place_of_worship",
+      "lat": 44.3162253,
+      "lon": 23.8018401,
+      "tags": {
+        "addr:housenumber": "9",
+        "addr:street": "Strada Arieș",
+        "amenity": "place_of_worship",
+        "check_date": "2023-10-25",
+        "denomination": "orthodox",
+        "name": "Biserica Sfântul Gheorghe Vechi",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/3518118651",
+      "osm_id": 3518118651,
+      "osm_type": "node",
+      "name": "Biserica Hagi Enuș",
+      "category": "place_of_worship",
+      "lat": 44.318065,
+      "lon": 23.8048194,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "21",
+        "addr:postcode": "200585",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Alexandru Ioan Cuza",
+        "alt_name": "Biserica Toți Sfinții",
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Hagi Enuș",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/3574348101",
+      "osm_id": 3574348101,
+      "osm_type": "node",
+      "name": "Biserica Ortodoxă Sfântul Mina",
+      "category": "place_of_worship",
+      "lat": 44.3228354,
+      "lon": 23.7920729,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:street": "Strada Filantropiei",
+        "amenity": "place_of_worship",
+        "check_date": "2025-12-28",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă Sfântul Mina",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/3589365643",
+      "osm_id": 3589365643,
+      "osm_type": "node",
+      "name": "Biserica Sfântul Mare Mucenic Gheorghe",
+      "category": "place_of_worship",
+      "lat": 44.3155071,
+      "lon": 23.8042623,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "9",
+        "addr:postcode": "200383",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Alexandru Macedonski",
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Sfântul Mare Mucenic Gheorghe",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/3590602950",
+      "osm_id": 3590602950,
+      "osm_type": "node",
+      "name": "Biserica Sfântul Gheorghe",
+      "category": "place_of_worship",
+      "lat": 44.2902154,
+      "lon": 23.7810716,
+      "tags": {
+        "addr:city": "Popoveni",
+        "addr:street": "Șoseaua Popoveni",
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Sfântul Gheorghe",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/3590602955",
+      "osm_id": 3590602955,
+      "osm_type": "node",
+      "name": "Biserica Sfinții Martiri Brâncoveni",
+      "category": "place_of_worship",
+      "lat": 44.3013723,
+      "lon": 23.7974872,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "88",
+        "addr:postcode": "200638",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Bulevardul 1 Mai",
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Sfinții Martiri Brâncoveni",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/3590603102",
+      "osm_id": 3590603102,
+      "osm_type": "node",
+      "name": "Biserica Sfinții Apostoli",
+      "category": "place_of_worship",
+      "lat": 44.3154587,
+      "lon": 23.8071783,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "1",
+        "addr:postcode": "200392",
+        "addr:street": "Strada Sfinții Apostoli",
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Sfinții Apostoli",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/3590603103",
+      "osm_id": 3590603103,
+      "osm_type": "node",
+      "name": "Biserica Toți Sfinții",
+      "category": "place_of_worship",
+      "lat": 44.3100639,
+      "lon": 23.8045704,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:street": "Strada Matei Millo",
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Toți Sfinții",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/3590603129",
+      "osm_id": 3590603129,
+      "osm_type": "node",
+      "name": "Biserica Sfântul Nicolae",
+      "category": "place_of_worship",
+      "lat": 44.3262224,
+      "lon": 23.7918615,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "15",
+        "addr:street": "Strada Amaradia",
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Sfântul Nicolae",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/3590603151",
+      "osm_id": 3590603151,
+      "osm_type": "node",
+      "name": "Biserica Sfântul Ioan Sebastian",
+      "category": "place_of_worship",
+      "lat": 44.3385096,
+      "lon": 23.7755124,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "1",
+        "addr:postcode": "200706",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Aleea Ion Vasilescu",
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Sfântul Ioan Sebastian",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/3590603156",
+      "osm_id": 3590603156,
+      "osm_type": "node",
+      "name": "Biserica Ziua Crucii",
+      "category": "place_of_worship",
+      "lat": 44.3250235,
+      "lon": 23.8190971,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "11",
+        "addr:postcode": "200025",
+        "addr:street": "Strada Bătrânilor",
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Ziua Crucii",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/3590603157",
+      "osm_id": 3590603157,
+      "osm_type": "node",
+      "name": "Biserica Evanghelică Luterană",
+      "category": "place_of_worship",
+      "lat": 44.319603,
+      "lon": 23.7950297,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "13",
+        "addr:street": "Calea Unirii",
+        "amenity": "place_of_worship",
+        "denomination": "protestant",
+        "name": "Biserica Evanghelică Luterană",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/4015377104",
+      "osm_id": 4015377104,
+      "osm_type": "node",
+      "name": "Biserica Sfinții Arhangheli",
+      "category": "place_of_worship",
+      "lat": 44.3138651,
+      "lon": 23.7996263,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:country": "RO",
+        "addr:housenumber": "22",
+        "addr:postcode": "200381",
+        "addr:street": "Strada Frații Buzești",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica Sfinții Arhangheli",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/4195626174",
+      "osm_id": 4195626174,
+      "osm_type": "node",
+      "name": "Biserica Sfântul Nicolae",
+      "category": "place_of_worship",
+      "lat": 44.3264349,
+      "lon": 23.7792386,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:street": "Strada Craioviței",
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Sfântul Nicolae",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/5793608126",
+      "osm_id": 5793608126,
+      "osm_type": "node",
+      "name": "Biserica Sfântul Ioan Botezătorul",
+      "category": "place_of_worship",
+      "lat": 44.326497,
+      "lon": 23.7666914,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "247",
+        "addr:street": "Strada Brestei",
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Sfântul Ioan Botezătorul",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/6301288046",
+      "osm_id": 6301288046,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.361131,
+      "lon": 23.7193963,
+      "tags": {
+        "amenity": "place_of_worship",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/6590635166",
+      "osm_id": 6590635166,
+      "osm_type": "node",
+      "name": "Biserica Sfântul Vasile",
+      "category": "place_of_worship",
+      "lat": 44.3302287,
+      "lon": 23.8119673,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:street": "Strada Brazda lui Novac",
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Sfântul Vasile",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/6592188770",
+      "osm_id": 6592188770,
+      "osm_type": "node",
+      "name": "Biserica Sfântul Ioan Valahul",
+      "category": "place_of_worship",
+      "lat": 44.3350801,
+      "lon": 23.791323,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "40",
+        "addr:street": "Strada Constantin Brâncoveanu",
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Sfântul Ioan Valahul",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/6712962781",
+      "osm_id": 6712962781,
+      "osm_type": "node",
+      "name": "Biserica Adormirea Maicii Domnului",
+      "category": "place_of_worship",
+      "lat": 44.3601658,
+      "lon": 23.822729,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "18",
+        "addr:street": "Șoseaua Bălcești",
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Adormirea Maicii Domnului",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/7388965154",
+      "osm_id": 7388965154,
+      "osm_type": "node",
+      "name": "Biserica Sfântul Nicolae",
+      "category": "place_of_worship",
+      "lat": 44.3038632,
+      "lon": 23.7913192,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "3",
+        "addr:street": "Strada Tabaci",
+        "amenity": "place_of_worship",
+        "name": "Biserica Sfântul Nicolae",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/9624460637",
+      "osm_id": 9624460637,
+      "osm_type": "node",
+      "name": "Scoala Gimnaziala Nicolae Romanescu nr 29",
+      "category": "place_of_worship",
+      "lat": 44.3045288,
+      "lon": 23.8141741,
+      "tags": {
+        "addr:housenumber": "81",
+        "addr:street": "Strada Caracal",
+        "amenity": "school",
+        "check_date": "2025-04-04",
+        "denomination": "orthodox",
+        "grades": "5-8",
+        "name": "Scoala Gimnaziala Nicolae Romanescu nr 29",
+        "religion": "christian",
+        "website": "http://www.scoalaromanescu.ro"
+      }
+    },
+    {
+      "id": "node/10026481757",
+      "osm_id": 10026481757,
+      "osm_type": "node",
+      "name": "Mãnãstirea Tuturor Sfintilor - Paraclis Mitropolitan",
+      "category": "place_of_worship",
+      "lat": 44.3148052,
+      "lon": 23.7988561,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:street": "Strada Frații Buzești",
+        "amenity": "place_of_worship",
+        "amenity_1": "hram: Duminica Tuturor Sfinților",
+        "denomination": "romanian_orthodox",
+        "name": "Mãnãstirea Tuturor Sfintilor - Paraclis Mitropolitan",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/10026563452",
+      "osm_id": 10026563452,
+      "osm_type": "node",
+      "name": "Mănăstirea Coșuna - Bucovățul Vechi",
+      "category": "place_of_worship",
+      "lat": 44.3010651,
+      "lon": 23.7537106,
+      "tags": {
+        "addr:city": "Mofleni",
+        "addr:housenumber": "17",
+        "addr:street": "Strada Coșuna",
+        "amenity": "place_of_worship",
+        "denomination": "romanian_orthodox",
+        "name": "Mănăstirea Coșuna - Bucovățul Vechi",
+        "phone": "+40251-463966",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/10026563453",
+      "osm_id": 10026563453,
+      "osm_type": "node",
+      "name": "Seminarul Teologic Ortodox Sfântul Grigorie Teologul",
+      "category": "place_of_worship",
+      "lat": 44.3011037,
+      "lon": 23.7538381,
+      "tags": {
+        "addr:city": "Mofleni",
+        "addr:housenumber": "17",
+        "addr:street": "Strada Coșuna",
+        "amenity": "place_of_worship",
+        "denomination": "romanian_orthodox",
+        "email": "teologiccv2004@yahoo.com;",
+        "name": "Seminarul Teologic Ortodox Sfântul Grigorie Teologul",
+        "phone": "0251/463966",
+        "religion": "christian",
+        "website": "https://seminarulortodoxcraiova.ro/"
+      }
+    },
+    {
+      "id": "node/10166403916",
+      "osm_id": 10166403916,
+      "osm_type": "node",
+      "name": "Biserica lui Isus Hristos a Sfintilor din Zilele din Urma",
+      "category": "place_of_worship",
+      "lat": 44.3151717,
+      "lon": 23.8005288,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "4",
+        "addr:postcode": "200730",
+        "addr:street": "Strada C.D. Fortunescu",
+        "amenity": "place_of_worship",
+        "denomination": "mormon",
+        "name": "Biserica lui Isus Hristos a Sfintilor din Zilele din Urma",
+        "name:en": "Church of Jesus Christ of Latter-day Saints",
+        "religion": "christian",
+        "service_times": "Sunday 10:00am"
+      }
+    },
+    {
+      "id": "way/198031983",
+      "osm_id": 198031983,
+      "osm_type": "way",
+      "name": "Cimitirul Ungureni",
+      "category": "place_of_worship",
+      "lat": 44.3035426,
+      "lon": 23.8060256,
+      "tags": {
+        "amenity": "grave_yard",
+        "barrier": "fence",
+        "designation": "Cimitir",
+        "fence_type": "concrete",
+        "name": "Cimitirul Ungureni",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/221069049",
+      "osm_id": 221069049,
+      "osm_type": "way",
+      "name": "Biserica Adormirea Maicii Domnului",
+      "category": "place_of_worship",
+      "lat": 44.2803253,
+      "lon": 23.8084622,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "221",
+        "addr:street": "Bulevardul Nicolae Romanescu",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Adormirea Maicii Domnului",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/223965380",
+      "osm_id": 223965380,
+      "osm_type": "way",
+      "name": "Cimitirul Popova",
+      "category": "place_of_worship",
+      "lat": 44.2882137,
+      "lon": 23.8094354,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitirul Popova",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/224243225",
+      "osm_id": 224243225,
+      "osm_type": "way",
+      "name": "Cimitirul Sineasca",
+      "category": "place_of_worship",
+      "lat": 44.331039,
+      "lon": 23.7870845,
+      "tags": {
+        "barrier": "fence",
+        "denomination": "romanian_orthodox",
+        "fence_type": "concrete",
+        "landuse": "cemetery",
+        "name": "Cimitirul Sineasca",
+        "religion": "christian",
+        "wikidata": "Q57659103"
+      }
+    },
+    {
+      "id": "way/224253211",
+      "osm_id": 224253211,
+      "osm_type": "way",
+      "name": "Cimitirul Catolic",
+      "category": "place_of_worship",
+      "lat": 44.314499,
+      "lon": 23.7736194,
+      "tags": {
+        "denomination": "roman_catholic",
+        "landuse": "cemetery",
+        "name": "Cimitirul Catolic",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/224286562",
+      "osm_id": 224286562,
+      "osm_type": "way",
+      "name": "Cimitirul Dorobănția",
+      "category": "place_of_worship",
+      "lat": 44.3184778,
+      "lon": 23.7675183,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitirul Dorobănția",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/224337101",
+      "osm_id": 224337101,
+      "osm_type": "way",
+      "name": "Cimitirul Roboaica",
+      "category": "place_of_worship",
+      "lat": 44.3277276,
+      "lon": 23.8289368,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitirul Roboaica",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/224337102",
+      "osm_id": 224337102,
+      "osm_type": "way",
+      "name": "Cimitirul Roboaica",
+      "category": "place_of_worship",
+      "lat": 44.3273289,
+      "lon": 23.8308141,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitirul Roboaica",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/224349316",
+      "osm_id": 224349316,
+      "osm_type": "way",
+      "name": "Cimitirul Cernele de Sus",
+      "category": "place_of_worship",
+      "lat": 44.3408782,
+      "lon": 23.7369703,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitirul Cernele de Sus",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/224489195",
+      "osm_id": 224489195,
+      "osm_type": "way",
+      "name": "Cimitirul Lascăr Catargiu",
+      "category": "place_of_worship",
+      "lat": 44.3050624,
+      "lon": 23.7790864,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitirul Lascăr Catargiu",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/345068260",
+      "osm_id": 345068260,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.3013662,
+      "lon": 23.7974974,
+      "tags": {
+        "addr:housenumber": "88",
+        "addr:street": "Bulevardul 1 Mai",
+        "building": "church"
+      }
+    },
+    {
+      "id": "way/346627375",
+      "osm_id": 346627375,
+      "osm_type": "way",
+      "name": "Cimitirul Mofleni",
+      "category": "place_of_worship",
+      "lat": 44.3057022,
+      "lon": 23.7624476,
+      "tags": {
+        "landuse": "cemetery",
+        "name": "Cimitirul Mofleni",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/346632973",
+      "osm_id": 346632973,
+      "osm_type": "way",
+      "name": "Biserica Mântuleasa",
+      "category": "place_of_worship",
+      "lat": 44.312026,
+      "lon": 23.7967653,
+      "tags": {
+        "addr:street": "Calea Unirii",
+        "building": "church",
+        "name": "Biserica Mântuleasa"
+      }
+    },
+    {
+      "id": "way/346972393",
+      "osm_id": 346972393,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.3505236,
+      "lon": 23.8179358,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/347598818",
+      "osm_id": 347598818,
+      "osm_type": "way",
+      "name": "Catedrala Sfântul Ioan Botezătorul",
+      "category": "place_of_worship",
+      "lat": 44.335611,
+      "lon": 23.7771387,
+      "tags": {
+        "addr:street": "Strada George Enescu",
+        "building": "cathedral",
+        "name": "Catedrala Sfântul Ioan Botezătorul"
+      }
+    },
+    {
+      "id": "way/352338290",
+      "osm_id": 352338290,
+      "osm_type": "way",
+      "name": "Biserica Sfântul Ilie",
+      "category": "place_of_worship",
+      "lat": 44.3168492,
+      "lon": 23.7963438,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "3",
+        "addr:street": "Strada C.S. Nicolăescu Plopșor",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica Sfântul Ilie",
+        "name:en": "St. Elias Church",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/353275774",
+      "osm_id": 353275774,
+      "osm_type": "way",
+      "name": "Biserica Sfântul Petru Movilă",
+      "category": "place_of_worship",
+      "lat": 44.2960686,
+      "lon": 23.7994455,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:street": "Bulevardul Nicolae Romanescu",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica Sfântul Petru Movilă",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/353275776",
+      "osm_id": 353275776,
+      "osm_type": "way",
+      "name": "Cimitirul Popoveni",
+      "category": "place_of_worship",
+      "lat": 44.291208,
+      "lon": 23.7823255,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitirul Popoveni",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/353275777",
+      "osm_id": 353275777,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.3094328,
+      "lon": 23.820969,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:street": "Strada Împăratul Traian",
+        "building": "church"
+      }
+    },
+    {
+      "id": "way/353275778",
+      "osm_id": 353275778,
+      "osm_type": "way",
+      "name": "Biserica Eroii Neamului",
+      "category": "place_of_worship",
+      "lat": 44.313677,
+      "lon": 23.8321879,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "84",
+        "addr:street": "Calea București",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica Eroii Neamului",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/353476554",
+      "osm_id": 353476554,
+      "osm_type": "way",
+      "name": "Cimitirul Bobonete",
+      "category": "place_of_worship",
+      "lat": 44.3294563,
+      "lon": 23.7572769,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitirul Bobonete",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/603492813",
+      "osm_id": 603492813,
+      "osm_type": "way",
+      "name": "Mănăstirea Sfântul Mucenic Gheorghe",
+      "category": "place_of_worship",
+      "lat": 44.3190273,
+      "lon": 23.861795,
+      "tags": {
+        "addr:city": "Craiova",
+        "amenity": "monastery",
+        "denomination": "orthodox",
+        "name": "Mănăstirea Sfântul Mucenic Gheorghe",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/603494126",
+      "osm_id": 603494126,
+      "osm_type": "way",
+      "name": "Cimitirul Vulcănești",
+      "category": "place_of_worship",
+      "lat": 44.3119844,
+      "lon": 23.8669271,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitirul Vulcănești",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/611980707",
+      "osm_id": 611980707,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.3264872,
+      "lon": 23.7667324,
+      "tags": {
+        "building": "church"
+      }
+    },
+    {
+      "id": "way/672884024",
+      "osm_id": 672884024,
+      "osm_type": "way",
+      "name": "Cimitirul Rovine",
+      "category": "place_of_worship",
+      "lat": 44.360112,
+      "lon": 23.7226315,
+      "tags": {
+        "landuse": "cemetery",
+        "name": "Cimitirul Rovine",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/687645739",
+      "osm_id": 687645739,
+      "osm_type": "way",
+      "name": "Templul Coral",
+      "category": "place_of_worship",
+      "lat": 44.3163873,
+      "lon": 23.7924982,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:street": "Strada Horezu",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "building:levels": "2",
+        "name": "Templul Coral",
+        "religion": "none"
+      }
+    },
+    {
+      "id": "way/692080007",
+      "osm_id": 692080007,
+      "osm_type": "way",
+      "name": "Biserica Parcului Mureșul",
+      "category": "place_of_worship",
+      "lat": 44.3074005,
+      "lon": 23.7953292,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Parcului Mureșul",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/720137763",
+      "osm_id": 720137763,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.3591064,
+      "lon": 23.813282,
+      "tags": {
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/737662183",
+      "osm_id": 737662183,
+      "osm_type": "way",
+      "name": "Biserica Greco-Catolică Buna Vestire",
+      "category": "place_of_worship",
+      "lat": 44.3283238,
+      "lon": 23.7779126,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "2",
+        "addr:postcode": "200222",
+        "addr:street": "Calea Severinului",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "catholic",
+        "name": "Biserica Greco-Catolică Buna Vestire",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/744153348",
+      "osm_id": 744153348,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.338545,
+      "lon": 23.7755149,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "1",
+        "addr:street": "Aleea Ion Vasilescu",
+        "building": "church",
+        "building:levels": "3"
+      }
+    },
+    {
+      "id": "way/746332088",
+      "osm_id": 746332088,
+      "osm_type": "way",
+      "name": "Biserica Sfântul Anton",
+      "category": "place_of_worship",
+      "lat": 44.3199703,
+      "lon": 23.793718,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "10",
+        "addr:street": "Strada Mihai Viteazu",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "building:levels": "3",
+        "denomination": "roman_catholic",
+        "name": "Biserica Sfântul Anton",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/746340899",
+      "osm_id": 746340899,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.3138931,
+      "lon": 23.7995669,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "20",
+        "addr:street": "Strada Frații Buzești",
+        "building": "church",
+        "building:levels": "3"
+      }
+    },
+    {
+      "id": "way/746340901",
+      "osm_id": 746340901,
+      "osm_type": "way",
+      "name": "Biserica Duminica Tuturor Sfinților",
+      "category": "place_of_worship",
+      "lat": 44.3147621,
+      "lon": 23.7989464,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:street": "Strada Frații Buzești",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica Duminica Tuturor Sfinților",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/751876846",
+      "osm_id": 751876846,
+      "osm_type": "way",
+      "name": "Biserica Sfinții Martiri Brâncoveni",
+      "category": "place_of_worship",
+      "lat": 44.3013151,
+      "lon": 23.7974465,
+      "tags": {
+        "barrier": "fence",
+        "denomination": "orthodox",
+        "landuse": "religious",
+        "name": "Biserica Sfinții Martiri Brâncoveni",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/753520141",
+      "osm_id": 753520141,
+      "osm_type": "way",
+      "name": "Biserica Sfinții Apostoli Petru și Pavel",
+      "category": "place_of_worship",
+      "lat": 44.3154484,
+      "lon": 23.8072521,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Sfinții Apostoli Petru și Pavel",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/753520145",
+      "osm_id": 753520145,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.3155402,
+      "lon": 23.8042333,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/753520160",
+      "osm_id": 753520160,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.3162487,
+      "lon": 23.8018865,
+      "tags": {
+        "building": "church"
+      }
+    },
+    {
+      "id": "way/753521332",
+      "osm_id": 753521332,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.321016,
+      "lon": 23.799848,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "religious",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/753661097",
+      "osm_id": 753661097,
+      "osm_type": "way",
+      "name": "Biserica Madona Oota",
+      "category": "place_of_worship",
+      "lat": 44.3092005,
+      "lon": 23.8116757,
+      "tags": {
+        "addr:housenumber": "115",
+        "addr:street": "Strada General Dragalina",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Madona Oota",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/758175712",
+      "osm_id": 758175712,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.3166492,
+      "lon": 23.7897946,
+      "tags": {
+        "barrier": "fence",
+        "denomination": "orthodox",
+        "landuse": "religious",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/808467027",
+      "osm_id": 808467027,
+      "osm_type": "way",
+      "name": "Cimitirul Eroilor Germani",
+      "category": "place_of_worship",
+      "lat": 44.3138042,
+      "lon": 23.7725645,
+      "tags": {
+        "denomination": "catholic",
+        "landuse": "cemetery",
+        "name": "Cimitirul Eroilor Germani",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/843615837",
+      "osm_id": 843615837,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.2960762,
+      "lon": 23.7993598,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "religious",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/843616210",
+      "osm_id": 843616210,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.3068636,
+      "lon": 23.8060608,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "religious",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/843617650",
+      "osm_id": 843617650,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.3092754,
+      "lon": 23.8115795,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "religious",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/843618229",
+      "osm_id": 843618229,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.3093819,
+      "lon": 23.8208793,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "religious",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/843618683",
+      "osm_id": 843618683,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.3153633,
+      "lon": 23.8069091,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "religious",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/843619572",
+      "osm_id": 843619572,
+      "osm_type": "way",
+      "name": "Biserica Hagi Enuș",
+      "category": "place_of_worship",
+      "lat": 44.3181089,
+      "lon": 23.8050147,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica Hagi Enuș",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/843619573",
+      "osm_id": 843619573,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.318117,
+      "lon": 23.8048505,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "religious",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/843620632",
+      "osm_id": 843620632,
+      "osm_type": "way",
+      "name": "Biserica Madona Dudu",
+      "category": "place_of_worship",
+      "lat": 44.3167237,
+      "lon": 23.7900906,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "13",
+        "addr:postcode": "200410",
+        "addr:street": "Strada Madona Dudu",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Madona Dudu",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/843994105",
+      "osm_id": 843994105,
+      "osm_type": "way",
+      "name": "Biserica Sfântul Nicolae - Dorobănția",
+      "category": "place_of_worship",
+      "lat": 44.3161291,
+      "lon": 23.7872973,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "1",
+        "addr:postcode": "200377",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Alexandru Odobescu",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica Sfântul Nicolae - Dorobănția",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/843994106",
+      "osm_id": 843994106,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.3160884,
+      "lon": 23.7872344,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "religious",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/843994498",
+      "osm_id": 843994498,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.317975,
+      "lon": 23.7887622,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "religious",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/843994499",
+      "osm_id": 843994499,
+      "osm_type": "way",
+      "name": "Biserica Sfântul Nicolae - Brândușa",
+      "category": "place_of_worship",
+      "lat": 44.3179738,
+      "lon": 23.7887529,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "12",
+        "addr:postcode": "200421",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Brândușa",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica Sfântul Nicolae - Brândușa",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/843994879",
+      "osm_id": 843994879,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.3262312,
+      "lon": 23.7917423,
+      "tags": {
+        "barrier": "fence",
+        "denomination": "orthodox",
+        "landuse": "religious",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/843995203",
+      "osm_id": 843995203,
+      "osm_type": "way",
+      "name": "Capela Sfânta Maria",
+      "category": "place_of_worship",
+      "lat": 44.3304126,
+      "lon": 23.7875234,
+      "tags": {
+        "addr:street": "Strada George Enescu",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Capela Sfânta Maria",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/844735663",
+      "osm_id": 844735663,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.3151828,
+      "lon": 23.791487,
+      "tags": {
+        "building": "church",
+        "man_made": "tower",
+        "tower:type": "bell_tower"
+      }
+    },
+    {
+      "id": "way/844735675",
+      "osm_id": 844735675,
+      "osm_type": "way",
+      "name": "Catedrala Mitropolitană Sfântul Dumitru",
+      "category": "place_of_worship",
+      "lat": 44.3151589,
+      "lon": 23.791933,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "14",
+        "addr:street": "Strada Matei Basarab",
+        "alt_name": "Biserica Sfântul Dumitru",
+        "building": "church",
+        "name": "Catedrala Mitropolitană Sfântul Dumitru"
+      }
+    },
+    {
+      "id": "way/917141351",
+      "osm_id": 917141351,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.3599989,
+      "lon": 23.8225594,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "religious",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/938074503",
+      "osm_id": 938074503,
+      "osm_type": "way",
+      "name": "Biserica Sfântul Ierarh Nicolae",
+      "category": "place_of_worship",
+      "lat": 44.3009812,
+      "lon": 23.7535602,
+      "tags": {
+        "building": "church",
+        "height": "15",
+        "name": "Biserica Sfântul Ierarh Nicolae"
+      }
+    },
+    {
+      "id": "way/941916181",
+      "osm_id": 941916181,
+      "osm_type": "way",
+      "name": "Capela Sfinții Martiri Brâncoveni",
+      "category": "place_of_worship",
+      "lat": 44.3009873,
+      "lon": 23.7973047,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "chapel",
+        "denomination": "orthodox",
+        "name": "Capela Sfinții Martiri Brâncoveni",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/943576509",
+      "osm_id": 943576509,
+      "osm_type": "way",
+      "name": "Biserica Sfântu Gheorghe",
+      "category": "place_of_worship",
+      "lat": 44.3240079,
+      "lon": 23.7990823,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica Sfântu Gheorghe",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/952434401",
+      "osm_id": 952434401,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.3367931,
+      "lon": 23.7852864,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "religious",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/952766252",
+      "osm_id": 952766252,
+      "osm_type": "way",
+      "name": "Capela Sfinții Trei Ierarhi",
+      "category": "place_of_worship",
+      "lat": 44.316497,
+      "lon": 23.812097,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "chapel",
+        "denomination": "romanian_orthodox",
+        "name": "Capela Sfinții Trei Ierarhi",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/952766253",
+      "osm_id": 952766253,
+      "osm_type": "way",
+      "name": "Biserica Sfinții Trei Ierarhi",
+      "category": "place_of_worship",
+      "lat": 44.3163681,
+      "lon": 23.8118922,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "11",
+        "addr:postcode": "200485",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Nanterre",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica Sfinții Trei Ierarhi",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/952766254",
+      "osm_id": 952766254,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.316401,
+      "lon": 23.8116465,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "religious",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/953546994",
+      "osm_id": 953546994,
+      "osm_type": "way",
+      "name": "Biserica Sf. Grigorie Decapolitul",
+      "category": "place_of_worship",
+      "lat": 44.3198126,
+      "lon": 23.829796,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "1",
+        "addr:street": "Strada Fagului",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica Sf. Grigorie Decapolitul",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/953561416",
+      "osm_id": 953561416,
+      "osm_type": "way",
+      "name": "Biserica Sf. Cuvioasa Parascheva",
+      "category": "place_of_worship",
+      "lat": 44.3318232,
+      "lon": 23.8145763,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "1",
+        "addr:street": "Strada Toamnei",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "check_date": "2025-12-28",
+        "denomination": "orthodox",
+        "name": "Biserica Sf. Cuvioasa Parascheva",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/953791307",
+      "osm_id": 953791307,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.3200144,
+      "lon": 23.7936056,
+      "tags": {
+        "denomination": "roman_catholic",
+        "landuse": "religious",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/953806918",
+      "osm_id": 953806918,
+      "osm_type": "way",
+      "name": "Biserica Sfântul Spiridon",
+      "category": "place_of_worship",
+      "lat": 44.3210847,
+      "lon": 23.8000599,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "3",
+        "addr:postcode": "200678",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Jean Negulescu",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica Sfântul Spiridon",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/956135269",
+      "osm_id": 956135269,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.3250243,
+      "lon": 23.8191902,
+      "tags": {
+        "denomination": "romanian_orthodox",
+        "landuse": "religious",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/961017729",
+      "osm_id": 961017729,
+      "osm_type": "way",
+      "name": "Biserica Sf. Nicolae - Ungureni",
+      "category": "place_of_worship",
+      "lat": 44.3070072,
+      "lon": 23.8062016,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "100",
+        "addr:street": "Strada Ana Ipătescu",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "building:levels": "2",
+        "denomination": "orthodox",
+        "name": "Biserica Sf. Nicolae - Ungureni",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/976379672",
+      "osm_id": 976379672,
+      "osm_type": "way",
+      "name": "Biserica romano-catolică Înălțarea Sfintei Cruci Craiova",
+      "category": "place_of_worship",
+      "lat": 44.3581862,
+      "lon": 23.7499538,
+      "tags": {
+        "addr:city": "Craiova",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "roman_catholic",
+        "name": "Biserica romano-catolică Înălțarea Sfintei Cruci Craiova",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/977048451",
+      "osm_id": 977048451,
+      "osm_type": "way",
+      "name": "Biserica Sfinții Constantin și Elena",
+      "category": "place_of_worship",
+      "lat": 44.3407472,
+      "lon": 23.7339247,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:street": "Calea Brezei",
+        "building": "church",
+        "name": "Biserica Sfinții Constantin și Elena"
+      }
+    },
+    {
+      "id": "way/1032994452",
+      "osm_id": 1032994452,
+      "osm_type": "way",
+      "name": "Biserica Sfântul Ștefan",
+      "category": "place_of_worship",
+      "lat": 44.3108599,
+      "lon": 23.7780519,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "79",
+        "addr:street": "Bulevardul Ilie Balaci",
+        "building": "church",
+        "name": "Biserica Sfântul Ștefan"
+      }
+    },
+    {
+      "id": "way/1094683164",
+      "osm_id": 1094683164,
+      "osm_type": "way",
+      "name": "Biserica Sfântul Mucenic Gheorghe",
+      "category": "place_of_worship",
+      "lat": 44.3186297,
+      "lon": 23.8632645,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "romanian_orthodox",
+        "height": "13",
+        "name": "Biserica Sfântul Mucenic Gheorghe",
+        "phone": "+40251-435122",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1118976083",
+      "osm_id": 1118976083,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.3302134,
+      "lon": 23.8120184,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:street": "Strada Brazda lui Novac",
+        "building": "church"
+      }
+    },
+    {
+      "id": "way/1123313005",
+      "osm_id": 1123313005,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.2882297,
+      "lon": 23.8175712,
+      "tags": {
+        "addr:street": "Strada Artileriei",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1133898130",
+      "osm_id": 1133898130,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.2888345,
+      "lon": 23.8093186,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes"
+      }
+    },
+    {
+      "id": "way/1163665370",
+      "osm_id": 1163665370,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.3261984,
+      "lon": 23.79178,
+      "tags": {
+        "building": "church",
+        "building:levels": "2"
+      }
+    },
+    {
+      "id": "way/1163975747",
+      "osm_id": 1163975747,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.3264419,
+      "lon": 23.7792668,
+      "tags": {
+        "barrier": "fence",
+        "landuse": "religious",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1163975748",
+      "osm_id": 1163975748,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.3264197,
+      "lon": 23.7793795,
+      "tags": {
+        "addr:city": "Craiova",
+        "addr:housenumber": "64",
+        "addr:street": "Strada Craioviței",
+        "building": "church",
+        "building:levels": "2"
+      }
+    },
+    {
+      "id": "way/1209425621",
+      "osm_id": 1209425621,
+      "osm_type": "way",
+      "name": "Biserica Sfântul Cuvios Antonie de la Iezer",
+      "category": "place_of_worship",
+      "lat": 44.3073287,
+      "lon": 23.7624601,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Sfântul Cuvios Antonie de la Iezer",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1315997397",
+      "osm_id": 1315997397,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.31307,
+      "lon": 23.8023347,
+      "tags": {
+        "building": "church"
+      }
+    },
+    {
+      "id": "way/1317174104",
+      "osm_id": 1317174104,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.3100235,
+      "lon": 23.80465,
+      "tags": {
+        "building": "church"
+      }
+    },
+    {
+      "id": "way/1338117046",
+      "osm_id": 1338117046,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.3611334,
+      "lon": 23.7194608,
+      "tags": {
+        "building": "church"
+      }
+    },
+    {
+      "id": "way/1377808824",
+      "osm_id": 1377808824,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.3182269,
+      "lon": 23.7739859,
+      "tags": {
+        "building": "church"
+      }
+    },
+    {
+      "id": "way/1385650484",
+      "osm_id": 1385650484,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.3114328,
+      "lon": 23.7769065,
+      "tags": {
+        "building": "church"
+      }
+    }
+  ]
+}

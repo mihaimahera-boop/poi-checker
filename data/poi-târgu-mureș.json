@@ -1,0 +1,2264 @@
+{
+  "city": "Târgu Mureș",
+  "generated_at": "2026-04-29T13:47:10.293Z",
+  "counts": {
+    "total": 130,
+    "schools": 69,
+    "churches": 61
+  },
+  "pois": [
+    {
+      "id": "node/506584370",
+      "osm_id": 506584370,
+      "osm_type": "node",
+      "name": "Grupul Școlar Sanitar Gheorghe  Marinescu",
+      "category": "education",
+      "lat": 46.557499,
+      "lon": 24.5810921,
+      "tags": {
+        "addr:city": "Târgu Mureș",
+        "addr:street": "Strada Gheorghe Marinescu",
+        "amenity": "school",
+        "name": "Grupul Școlar Sanitar Gheorghe  Marinescu",
+        "name:ro": "Grupul Școlar Sanitar Gheorghe  Marinescu"
+      }
+    },
+    {
+      "id": "node/530099084",
+      "osm_id": 530099084,
+      "osm_type": "node",
+      "name": "Liceul de Artă",
+      "category": "education",
+      "lat": 46.5474136,
+      "lon": 24.5638017,
+      "tags": {
+        "amenity": "school",
+        "name": "Liceul de Artă"
+      }
+    },
+    {
+      "id": "node/530099128",
+      "osm_id": 530099128,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.5583315,
+      "lon": 24.5749718,
+      "tags": {
+        "addr:city": "Târgu Mureș",
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "node/8084902097",
+      "osm_id": 8084902097,
+      "osm_type": "node",
+      "name": "Școala Gimnazială Europa",
+      "category": "education",
+      "lat": 46.5525395,
+      "lon": 24.5716926,
+      "tags": {
+        "addr:city": "Târgu Mureș",
+        "addr:housenumber": "11",
+        "addr:postcode": "540097",
+        "addr:street": "Strada Doctor Victor Babeș",
+        "amenity": "school",
+        "name": "Școala Gimnazială Europa"
+      }
+    },
+    {
+      "id": "node/9487468194",
+      "osm_id": 9487468194,
+      "osm_type": "node",
+      "name": "Colegiul Național Pedagogic Mihai Eminescu",
+      "category": "education",
+      "lat": 46.5404949,
+      "lon": 24.5744313,
+      "tags": {
+        "addr:city": "Târgu Mureș",
+        "addr:housenumber": "37",
+        "addr:postcode": "540075",
+        "addr:street": "Strada Alexandru Papiu Ilarian",
+        "amenity": "school",
+        "grades": "9-12",
+        "name": "Colegiul Național Pedagogic Mihai Eminescu",
+        "phone": "+40365882694",
+        "website": "https://www.pedagogicmures.ro/"
+      }
+    },
+    {
+      "id": "node/10235313746",
+      "osm_id": 10235313746,
+      "osm_type": "node",
+      "name": "Facultatea de Economie și Drept",
+      "category": "education",
+      "lat": 46.5381995,
+      "lon": 24.5984595,
+      "tags": {
+        "addr:housenumber": "69",
+        "addr:street": "Strada Livezeni",
+        "amenity": "university",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Facultatea de Economie și Drept",
+        "operator": "Universitatea de Medicină, Farmacie, Științe și Tehnologie „George Emil Palade”",
+        "operator:type": "public",
+        "phone": "+40265219034",
+        "website": "https://www.umfst.ro"
+      }
+    },
+    {
+      "id": "way/23564115",
+      "osm_id": 23564115,
+      "osm_type": "way",
+      "name": "Universitatea Dimitrie Cantemir",
+      "category": "education",
+      "lat": 46.5308937,
+      "lon": 24.5841549,
+      "tags": {
+        "amenity": "university",
+        "is_in:city": "Târgu Mureș",
+        "name": "Universitatea Dimitrie Cantemir"
+      }
+    },
+    {
+      "id": "way/23564487",
+      "osm_id": 23564487,
+      "osm_type": "way",
+      "name": "Gimnaziul George Coșbuc",
+      "category": "education",
+      "lat": 46.5348347,
+      "lon": 24.5807507,
+      "tags": {
+        "amenity": "school",
+        "is_in:city": "Târgu Mureș",
+        "name": "Gimnaziul George Coșbuc",
+        "old_name": "Școala Generală nr. 3"
+      }
+    },
+    {
+      "id": "way/31530698",
+      "osm_id": 31530698,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.5436429,
+      "lon": 24.5636763,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/31530942",
+      "osm_id": 31530942,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.5441153,
+      "lon": 24.5636041,
+      "tags": {
+        "amenity": "college",
+        "building": "yes"
+      }
+    },
+    {
+      "id": "way/31996022",
+      "osm_id": 31996022,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.5590251,
+      "lon": 24.54596,
+      "tags": {
+        "amenity": "school",
+        "building": "yes",
+        "height": "12",
+        "roof:colour": "#FF7F50",
+        "roof:orientation": "along",
+        "roof:shape": "cross_gabled"
+      }
+    },
+    {
+      "id": "way/31997007",
+      "osm_id": 31997007,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.5575776,
+      "lon": 24.5497591,
+      "tags": {
+        "building": "kindergarten"
+      }
+    },
+    {
+      "id": "way/31998896",
+      "osm_id": 31998896,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.5593893,
+      "lon": 24.5463897,
+      "tags": {
+        "amenity": "school",
+        "building": "yes",
+        "height": "12",
+        "roof:colour": "#FF7F50",
+        "roof:height": "3",
+        "roof:orientation": "along",
+        "roof:shape": "hipped"
+      }
+    },
+    {
+      "id": "way/42715466",
+      "osm_id": 42715466,
+      "osm_type": "way",
+      "name": "Grădinița Albinuța",
+      "category": "education",
+      "lat": 46.5343022,
+      "lon": 24.5616551,
+      "tags": {
+        "amenity": "kindergarten",
+        "barrier": "fence",
+        "is_in:city": "Târgu Mureș",
+        "name": "Grădinița Albinuța"
+      }
+    },
+    {
+      "id": "way/42881346",
+      "osm_id": 42881346,
+      "osm_type": "way",
+      "name": "Colegiul Național Al. Papiu Ilarian",
+      "category": "education",
+      "lat": 46.5457522,
+      "lon": 24.568551,
+      "tags": {
+        "addr:city": "Târgu Mureș",
+        "addr:housenumber": "12",
+        "addr:postcode": "540072",
+        "addr:street": "Strada Bernády György",
+        "amenity": "college",
+        "name": "Colegiul Național Al. Papiu Ilarian",
+        "website": "http://www.papiu.ro/"
+      }
+    },
+    {
+      "id": "way/42946568",
+      "osm_id": 42946568,
+      "osm_type": "way",
+      "name": "Gimnaziul Mihai Viteazul",
+      "category": "education",
+      "lat": 46.5353166,
+      "lon": 24.587039,
+      "tags": {
+        "addr:city": "Târgu Mureș",
+        "addr:housenumber": "17",
+        "addr:street": "Strada Muncii",
+        "amenity": "school",
+        "name": "Gimnaziul Mihai Viteazul",
+        "old_name": "Școala Generală nr. 5"
+      }
+    },
+    {
+      "id": "way/58643651",
+      "osm_id": 58643651,
+      "osm_type": "way",
+      "name": "Universitatea Petru Maior",
+      "category": "education",
+      "lat": 46.5471689,
+      "lon": 24.5682523,
+      "tags": {
+        "addr:city": "Târgu Mureș",
+        "addr:housenumber": "1",
+        "addr:postcode": "540088",
+        "addr:street": "Strada Nicolae Iorga",
+        "amenity": "university",
+        "name": "Universitatea Petru Maior",
+        "website": "http://www.upm.ro/"
+      }
+    },
+    {
+      "id": "way/80943762",
+      "osm_id": 80943762,
+      "osm_type": "way",
+      "name": "Colegiul Național Unirea",
+      "category": "education",
+      "lat": 46.5475551,
+      "lon": 24.5706315,
+      "tags": {
+        "amenity": "college",
+        "name": "Colegiul Național Unirea",
+        "website": "https://www.colegiulunirea.ro/"
+      }
+    },
+    {
+      "id": "way/83487525",
+      "osm_id": 83487525,
+      "osm_type": "way",
+      "name": "Gimnaziul Nicolae Bălcescu",
+      "category": "education",
+      "lat": 46.5387028,
+      "lon": 24.5459273,
+      "tags": {
+        "addr:city": "Târgu-Mureș",
+        "amenity": "school",
+        "name": "Gimnaziul Nicolae Bălcescu",
+        "name:ro": "Gimnaziul Nicolae Bălcescu"
+      }
+    },
+    {
+      "id": "way/84891694",
+      "osm_id": 84891694,
+      "osm_type": "way",
+      "name": "Grădinița Rândunica",
+      "category": "education",
+      "lat": 46.5284883,
+      "lon": 24.5574403,
+      "tags": {
+        "addr:city": "Târgu Mureș",
+        "addr:housenumber": "18",
+        "addr:postcode": "540408",
+        "addr:street": "Strada Ion Buteanu",
+        "amenity": "kindergarten",
+        "barrier": "fence",
+        "is_in:city": "Târgu Mureș",
+        "name": "Grădinița Rândunica",
+        "name:hu": "Fecske óvoda",
+        "phone": "+40-365-730953"
+      }
+    },
+    {
+      "id": "way/87792929",
+      "osm_id": 87792929,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.5564092,
+      "lon": 24.5807284,
+      "tags": {
+        "addr:city": "Târgu Mureș",
+        "addr:housenumber": "19",
+        "addr:street": "Strada Gheorghe Marinescu",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "building:levels": "1"
+      }
+    },
+    {
+      "id": "way/87936589",
+      "osm_id": 87936589,
+      "osm_type": "way",
+      "name": "Prima școală românească din Târgu Mureș",
+      "category": "education",
+      "lat": 46.550847,
+      "lon": 24.5683108,
+      "tags": {
+        "building": "school",
+        "name": "Prima școală românească din Târgu Mureș"
+      }
+    },
+    {
+      "id": "way/87966991",
+      "osm_id": 87966991,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.5468981,
+      "lon": 24.5716847,
+      "tags": {
+        "building": "kindergarten"
+      }
+    },
+    {
+      "id": "way/88004312",
+      "osm_id": 88004312,
+      "osm_type": "way",
+      "name": "Gimnaziul Dacia - corp B",
+      "category": "education",
+      "lat": 46.536361,
+      "lon": 24.572763,
+      "tags": {
+        "building": "school",
+        "building:levels": "3",
+        "name": "Gimnaziul Dacia - corp B",
+        "old_name": "Școala Generală Nr. 14"
+      }
+    },
+    {
+      "id": "way/88004530",
+      "osm_id": 88004530,
+      "osm_type": "way",
+      "name": "Gradinița cu Program Prelungit \"Codrișor\"",
+      "category": "education",
+      "lat": 46.5351093,
+      "lon": 24.5732876,
+      "tags": {
+        "addr:city": "Târgu Mureș",
+        "addr:housenumber": "1",
+        "addr:street": "Strada Moldovei",
+        "building": "kindergarten",
+        "name": "Gradinița cu Program Prelungit \"Codrișor\""
+      }
+    },
+    {
+      "id": "way/88027045",
+      "osm_id": 88027045,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.5502873,
+      "lon": 24.5626679,
+      "tags": {
+        "amenity": "school",
+        "building": "yes"
+      }
+    },
+    {
+      "id": "way/88107298",
+      "osm_id": 88107298,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.534437,
+      "lon": 24.5897832,
+      "tags": {
+        "building": "school",
+        "building:levels": "4",
+        "height": "12"
+      }
+    },
+    {
+      "id": "way/88254128",
+      "osm_id": 88254128,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.5386429,
+      "lon": 24.586484,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/88750672",
+      "osm_id": 88750672,
+      "osm_type": "way",
+      "name": "Școala Generală Bernády György",
+      "category": "education",
+      "lat": 46.5377724,
+      "lon": 24.5585015,
+      "tags": {
+        "addr:city": "Târgu Mureș",
+        "amenity": "school",
+        "grades": "1-8",
+        "name": "Școala Generală Bernády György",
+        "name:hu": "Bernády György Általános Iskola",
+        "name:ro": "Școala Generală Bernády György",
+        "old_name": "Școala Generală nr. 2"
+      }
+    },
+    {
+      "id": "way/88750753",
+      "osm_id": 88750753,
+      "osm_type": "way",
+      "name": "Liceul Industrial Avram Iancu",
+      "category": "education",
+      "lat": 46.5367394,
+      "lon": 24.5575798,
+      "tags": {
+        "amenity": "college",
+        "is_in:city": "Târgu Mureș",
+        "name": "Liceul Industrial Avram Iancu"
+      }
+    },
+    {
+      "id": "way/88750781",
+      "osm_id": 88750781,
+      "osm_type": "way",
+      "name": "Grupul Școlar Industrial Avram Iancu",
+      "category": "education",
+      "lat": 46.5364614,
+      "lon": 24.5589098,
+      "tags": {
+        "addr:city": "Târgu Mureș",
+        "addr:housenumber": "57",
+        "addr:postcode": "540342",
+        "addr:street": "Bulevardul 1848",
+        "amenity": "school",
+        "grades": "9-12",
+        "is_in:city": "Târgu Mureș",
+        "name": "Grupul Școlar Industrial Avram Iancu",
+        "phone": "+40365882487",
+        "religion": "none",
+        "website": "http://www.avramiancu-ms.edituraedu.ro/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "id": "way/90439584",
+      "osm_id": 90439584,
+      "osm_type": "way",
+      "name": "Gimnaziul Serafim Duicu",
+      "category": "education",
+      "lat": 46.5257643,
+      "lon": 24.5494419,
+      "tags": {
+        "addr:city": "Târgu Mureș",
+        "addr:housenumber": "50A",
+        "addr:postcode": "540390",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Budiului",
+        "amenity": "school",
+        "name": "Gimnaziul Serafim Duicu",
+        "name:ro": "Gimnaziul Serafim Duicu",
+        "old_name": "Școala Generală nr. 11"
+      }
+    },
+    {
+      "id": "way/90967361",
+      "osm_id": 90967361,
+      "osm_type": "way",
+      "name": "Gimnaziul Dacia",
+      "category": "education",
+      "lat": 46.536386,
+      "lon": 24.5650538,
+      "tags": {
+        "addr:city": "Târgu Mureș",
+        "addr:housenumber": "6",
+        "addr:postcode": "540005",
+        "addr:street": "Pasajul Panseluțelor",
+        "amenity": "school",
+        "grades": "5-8",
+        "is_in:city": "Târgu Mureș",
+        "name": "Gimnaziul Dacia",
+        "phone": "+40265230858",
+        "website": "https://www.gimnaziuldaciams.ro/"
+      }
+    },
+    {
+      "id": "way/102608459",
+      "osm_id": 102608459,
+      "osm_type": "way",
+      "name": "Gimnaziul Serafim Duicu",
+      "category": "education",
+      "lat": 46.5217075,
+      "lon": 24.537952,
+      "tags": {
+        "addr:city": "Târgu Mureș",
+        "addr:housenumber": "38",
+        "addr:street": "Strada Hunedoara",
+        "amenity": "school",
+        "name": "Gimnaziul Serafim Duicu",
+        "old_name": "Școala Generală nr. 1"
+      }
+    },
+    {
+      "id": "way/122236786",
+      "osm_id": 122236786,
+      "osm_type": "way",
+      "name": "Colegiul Agricol Traian Săvulescu",
+      "category": "education",
+      "lat": 46.552171,
+      "lon": 24.5543796,
+      "tags": {
+        "addr:city": "Târgu Mureș",
+        "addr:housenumber": "108",
+        "addr:street": "Strada Călărașilor",
+        "amenity": "college",
+        "name": "Colegiul Agricol Traian Săvulescu"
+      }
+    },
+    {
+      "id": "way/122236787",
+      "osm_id": 122236787,
+      "osm_type": "way",
+      "name": "Gimnaziul Friedrich Schiller",
+      "category": "education",
+      "lat": 46.5543372,
+      "lon": 24.5554689,
+      "tags": {
+        "addr:city": "Târgu Mureș",
+        "addr:housenumber": "23",
+        "addr:street": "Aleea Carpați",
+        "amenity": "school",
+        "name": "Gimnaziul Friedrich Schiller",
+        "old_name": "Școala Generală nr. 16"
+      }
+    },
+    {
+      "id": "way/122236789",
+      "osm_id": 122236789,
+      "osm_type": "way",
+      "name": "Liceul cu Program Sportiv Szász Adalbert",
+      "category": "education",
+      "lat": 46.5510015,
+      "lon": 24.5608802,
+      "tags": {
+        "addr:city": "Târgu Mureș",
+        "addr:housenumber": "9A",
+        "addr:street": "Strada Pavel Chinezu",
+        "amenity": "college",
+        "name": "Liceul cu Program Sportiv Szász Adalbert"
+      }
+    },
+    {
+      "id": "way/173031886",
+      "osm_id": 173031886,
+      "osm_type": "way",
+      "name": "Universitatea de Arte",
+      "category": "education",
+      "lat": 46.5429967,
+      "lon": 24.5616044,
+      "tags": {
+        "addr:city": "Târgu Mureș",
+        "addr:housenumber": "6",
+        "addr:postcode": "540057",
+        "addr:street": "Strada Köteles Sámuel",
+        "amenity": "university",
+        "email": "uat@uat.ro",
+        "fax": "+40-265-266281",
+        "name": "Universitatea de Arte",
+        "name:hu": "Művészeti egyetem",
+        "name:ro": "Universitatea de Arte",
+        "phone": "+40-265-266281",
+        "website": "http://www.uat.ro/"
+      }
+    },
+    {
+      "id": "way/173315269",
+      "osm_id": 173315269,
+      "osm_type": "way",
+      "name": "Gimnaziul \"Liviu Rebreanu\"",
+      "category": "education",
+      "lat": 46.5314702,
+      "lon": 24.5593777,
+      "tags": {
+        "addr:city": "Târgu Mureș",
+        "addr:housenumber": "3",
+        "addr:street": "Strada Șurianu",
+        "amenity": "school",
+        "name": "Gimnaziul \"Liviu Rebreanu\"",
+        "old_name": "Școala generală nr. 17",
+        "phone": "+40-365-882845",
+        "website": "http://liviurebreanutgmures.blogspot.com/"
+      }
+    },
+    {
+      "id": "way/173315305",
+      "osm_id": 173315305,
+      "osm_type": "way",
+      "name": "Liceul Tehnologic Gheorghe Șincai",
+      "category": "education",
+      "lat": 46.5284198,
+      "lon": 24.5557113,
+      "tags": {
+        "amenity": "school",
+        "name": "Liceul Tehnologic Gheorghe Șincai"
+      }
+    },
+    {
+      "id": "way/187760717",
+      "osm_id": 187760717,
+      "osm_type": "way",
+      "name": "Școala Generală nr. 7",
+      "category": "education",
+      "lat": 46.5584341,
+      "lon": 24.575082,
+      "tags": {
+        "addr:city": "Târgu Mureș",
+        "amenity": "school",
+        "name": "Școala Generală nr. 7",
+        "name:ro": "Școala Generală nr. 7"
+      }
+    },
+    {
+      "id": "way/187761658",
+      "osm_id": 187761658,
+      "osm_type": "way",
+      "name": "Școala Generală nr. 7",
+      "category": "education",
+      "lat": 46.5562959,
+      "lon": 24.5710682,
+      "tags": {
+        "addr:city": "Târgu Mureș",
+        "addr:housenumber": "49",
+        "addr:postcode": "540119",
+        "addr:street": "Aleea Constructorilor",
+        "amenity": "school",
+        "grades": "1-9",
+        "name": "Școala Generală nr. 7",
+        "phone": "+40365882752",
+        "religion": "none"
+      }
+    },
+    {
+      "id": "way/187762048",
+      "osm_id": 187762048,
+      "osm_type": "way",
+      "name": "Grădinița Manpel",
+      "category": "education",
+      "lat": 46.5550995,
+      "lon": 24.5725974,
+      "tags": {
+        "addr:city": "Târgu Mureș",
+        "addr:housenumber": "2",
+        "addr:street": "Strada Constantin Romanu Vivu",
+        "amenity": "kindergarten",
+        "name": "Grădinița Manpel"
+      }
+    },
+    {
+      "id": "way/188026996",
+      "osm_id": 188026996,
+      "osm_type": "way",
+      "name": "Universitatea de Medicină, Farmacie, Științe și Tehnologie \"George Emil Palade\" din Târgu Mureș",
+      "category": "education",
+      "lat": 46.5549513,
+      "lon": 24.5818734,
+      "tags": {
+        "addr:city": "Târgu Mureș",
+        "addr:housenumber": "38",
+        "addr:postcode": "540000",
+        "addr:street": "Strada Gheorghe Marinescu",
+        "amenity": "university",
+        "barrier": "fence",
+        "fax": "+40-265-210407",
+        "fence_type": "metal",
+        "height": "2",
+        "material": "metal",
+        "name": "Universitatea de Medicină, Farmacie, Științe și Tehnologie \"George Emil Palade\" din Târgu Mureș",
+        "name:hu": "Marosvásárhelyi „George Emil Palade” Orvosi, Gyógyszerészeti, Tudomány és Technológiai Egyetem",
+        "name:ro": "Universitatea de Medicină, Farmacie, Științe și Tehnologie \"George Emil Palade\" din Târgu Mureș",
+        "phone": "+40-265-215551",
+        "website": "https://www.umfst.ro/"
+      }
+    },
+    {
+      "id": "way/188180490",
+      "osm_id": 188180490,
+      "osm_type": "way",
+      "name": "Grădinița Pițigoi",
+      "category": "education",
+      "lat": 46.5380091,
+      "lon": 24.5705944,
+      "tags": {
+        "amenity": "kindergarten",
+        "barrier": "fence",
+        "name": "Grădinița Pițigoi"
+      }
+    },
+    {
+      "id": "way/188200437",
+      "osm_id": 188200437,
+      "osm_type": "way",
+      "name": "Colegiul Economic Transilvania",
+      "category": "education",
+      "lat": 46.541072,
+      "lon": 24.5724771,
+      "tags": {
+        "addr:city": "Târgu Mureș",
+        "addr:housenumber": "5",
+        "addr:postcode": "540074",
+        "addr:street": "Strada Călimanului",
+        "amenity": "college",
+        "barrier": "fence",
+        "name": "Colegiul Economic Transilvania"
+      }
+    },
+    {
+      "id": "way/188434960",
+      "osm_id": 188434960,
+      "osm_type": "way",
+      "name": "Liceul Tehnologic \"Ion Vlasiu\"",
+      "category": "education",
+      "lat": 46.5589544,
+      "lon": 24.5795337,
+      "tags": {
+        "addr:city": "Târgu Mureș",
+        "addr:housenumber": "62",
+        "addr:street": "Strada Gheorghe Marinescu",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Liceul Tehnologic \"Ion Vlasiu\"",
+        "name:ro": "Liceul Tehnologic \"Ion Vlasiu\""
+      }
+    },
+    {
+      "id": "way/191046724",
+      "osm_id": 191046724,
+      "osm_type": "way",
+      "name": "Școala Waldorf",
+      "category": "education",
+      "lat": 46.5432672,
+      "lon": 24.5496815,
+      "tags": {
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Școala Waldorf",
+        "operator": "Gimnaziul Nicolae Bălcescu"
+      }
+    },
+    {
+      "id": "way/191552454",
+      "osm_id": 191552454,
+      "osm_type": "way",
+      "name": "Grădinița Licurici",
+      "category": "education",
+      "lat": 46.5308725,
+      "lon": 24.5547961,
+      "tags": {
+        "amenity": "school",
+        "name": "Grădinița Licurici"
+      }
+    },
+    {
+      "id": "way/193878415",
+      "osm_id": 193878415,
+      "osm_type": "way",
+      "name": "Liceul Teoretic Bólyai Farkas",
+      "category": "education",
+      "lat": 46.5438661,
+      "lon": 24.5634401,
+      "tags": {
+        "addr:city": "Târgu Mureș",
+        "amenity": "college",
+        "internet_access": "yes",
+        "name": "Liceul Teoretic Bólyai Farkas",
+        "name:en": "Bólyai Farkas HighSchool",
+        "name:hu": "Bólyai Farkas Középiskola",
+        "name:ro": "Liceul Teoretic Bólyai Farkas"
+      }
+    },
+    {
+      "id": "way/197837292",
+      "osm_id": 197837292,
+      "osm_type": "way",
+      "name": "Grupul școlar de Chimie Industrială Emil A. Dandea",
+      "category": "education",
+      "lat": 46.5184595,
+      "lon": 24.5231871,
+      "tags": {
+        "amenity": "college",
+        "name": "Grupul școlar de Chimie Industrială Emil A. Dandea"
+      }
+    },
+    {
+      "id": "way/220908473",
+      "osm_id": 220908473,
+      "osm_type": "way",
+      "name": "Grupul școlar Aurel Persu",
+      "category": "education",
+      "lat": 46.5399528,
+      "lon": 24.5407995,
+      "tags": {
+        "amenity": "school",
+        "name": "Grupul școlar Aurel Persu"
+      }
+    },
+    {
+      "id": "way/220908474",
+      "osm_id": 220908474,
+      "osm_type": "way",
+      "name": "Grupul școlar Aurel Persu",
+      "category": "education",
+      "lat": 46.5391911,
+      "lon": 24.5427039,
+      "tags": {
+        "amenity": "school",
+        "name": "Grupul școlar Aurel Persu"
+      }
+    },
+    {
+      "id": "way/224499725",
+      "osm_id": 224499725,
+      "osm_type": "way",
+      "name": "Gimnaziul Romulus Guga",
+      "category": "education",
+      "lat": 46.5321415,
+      "lon": 24.5753323,
+      "tags": {
+        "addr:city": "Târgu Mureș",
+        "addr:housenumber": "2",
+        "addr:street": "Strada Cernavodă",
+        "amenity": "school",
+        "name": "Gimnaziul Romulus Guga",
+        "old_name": "Școala Generală nr.18",
+        "phone": "+40-265-254108",
+        "website": "http://www.rguga.ro"
+      }
+    },
+    {
+      "id": "way/232129345",
+      "osm_id": 232129345,
+      "osm_type": "way",
+      "name": "Liceul Tehnologic Traian Vuia",
+      "category": "education",
+      "lat": 46.5261802,
+      "lon": 24.5377791,
+      "tags": {
+        "amenity": "school",
+        "name": "Liceul Tehnologic Traian Vuia"
+      }
+    },
+    {
+      "id": "way/238118183",
+      "osm_id": 238118183,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.5341642,
+      "lon": 24.5897754,
+      "tags": {
+        "building": "school",
+        "building:levels": "2",
+        "height": "6"
+      }
+    },
+    {
+      "id": "way/238865120",
+      "osm_id": 238865120,
+      "osm_type": "way",
+      "name": "Școala Generală nr. 20",
+      "category": "education",
+      "lat": 46.5387489,
+      "lon": 24.5860429,
+      "tags": {
+        "addr:city": "Târgu Mureș",
+        "amenity": "school",
+        "name": "Școala Generală nr. 20",
+        "name:hu": "20-as általános iskola",
+        "name:ro": "Școala Generală nr. 20"
+      }
+    },
+    {
+      "id": "way/239075059",
+      "osm_id": 239075059,
+      "osm_type": "way",
+      "name": "Grădinița nr. 6",
+      "category": "education",
+      "lat": 46.5502375,
+      "lon": 24.5618236,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Grădinița nr. 6"
+      }
+    },
+    {
+      "id": "way/239234433",
+      "osm_id": 239234433,
+      "osm_type": "way",
+      "name": "Grupul Școlar Electromureș",
+      "category": "education",
+      "lat": 46.5345269,
+      "lon": 24.5888275,
+      "tags": {
+        "addr:city": "Târgu Mureș",
+        "addr:housenumber": "5",
+        "addr:street": "Strada Livezeni",
+        "amenity": "college",
+        "name": "Grupul Școlar Electromureș",
+        "phone": "+40-365-730969",
+        "website": "http://www.electromures.net/"
+      }
+    },
+    {
+      "id": "way/242521909",
+      "osm_id": 242521909,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Omega",
+      "category": "education",
+      "lat": 46.5319159,
+      "lon": 24.5745548,
+      "tags": {
+        "addr:city": "Târgu Mureș",
+        "addr:housenumber": "25",
+        "addr:street": "Strada Transilvania",
+        "amenity": "school",
+        "email": "office@scoalaomega.ro",
+        "name": "Școala Gimnazială Omega",
+        "phone": "+40-265-255391",
+        "website": "https://www.scoalaomega.ro/"
+      }
+    },
+    {
+      "id": "way/271459179",
+      "osm_id": 271459179,
+      "osm_type": "way",
+      "name": "Liceul Pedagogic Mihai Eminescu",
+      "category": "education",
+      "lat": 46.5405265,
+      "lon": 24.5747951,
+      "tags": {
+        "addr:city": "Târgu Mureș",
+        "addr:housenumber": "37",
+        "addr:postcode": "540075",
+        "addr:street": "Strada Alexandru Papiu Ilarian",
+        "amenity": "college",
+        "email": "pedagogicmures@yahoo.com",
+        "name": "Liceul Pedagogic Mihai Eminescu",
+        "phone": "+40-365-882694",
+        "website": "https://www.pedagogicmures.ro/"
+      }
+    },
+    {
+      "id": "way/510102948",
+      "osm_id": 510102948,
+      "osm_type": "way",
+      "name": "Grădinița Nr.15",
+      "category": "education",
+      "lat": 46.5469094,
+      "lon": 24.5717413,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Grădinița Nr.15"
+      }
+    },
+    {
+      "id": "way/908047221",
+      "osm_id": 908047221,
+      "osm_type": "way",
+      "name": "Grădinița cu Program Prelungit",
+      "category": "education",
+      "lat": 46.5575348,
+      "lon": 24.5498401,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Grădinița cu Program Prelungit"
+      }
+    },
+    {
+      "id": "way/911544935",
+      "osm_id": 911544935,
+      "osm_type": "way",
+      "name": "Școala Generală Nr. 8",
+      "category": "education",
+      "lat": 46.5593699,
+      "lon": 24.5461659,
+      "tags": {
+        "addr:city": "Târgu Mureș",
+        "addr:housenumber": "2",
+        "addr:neighbourhood": "Unirii",
+        "addr:street": "Strada Bărăganului",
+        "amenity": "school",
+        "fee": "no",
+        "grades": "0-8",
+        "internet_access": "wired",
+        "level": "2",
+        "name": "Școala Generală Nr. 8",
+        "polling_station": "yes",
+        "religion": "none",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "id": "way/1454383449",
+      "osm_id": 1454383449,
+      "osm_type": "way",
+      "name": "Grădinița „Emanuel”",
+      "category": "education",
+      "lat": 46.5334376,
+      "lon": 24.5380628,
+      "tags": {
+        "amenity": "kindergarten",
+        "building": "kindergarten",
+        "name": "Grădinița „Emanuel”"
+      }
+    },
+    {
+      "id": "way/1465987166",
+      "osm_id": 1465987166,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.5310461,
+      "lon": 24.5597846,
+      "tags": {
+        "addr:city": "Târgu Mureș",
+        "addr:housenumber": "1-3",
+        "addr:postcode": "540376",
+        "addr:street": "Strada Șurianu",
+        "amenity": "school",
+        "building": "school",
+        "building:levels": "3",
+        "education": "school",
+        "email": "rebreanums@yahoo.com",
+        "grades": "1-8",
+        "phone": "0365882845",
+        "website": "https://www.gimnaziul-rebreanums.ro/"
+      }
+    },
+    {
+      "id": "way/1465987168",
+      "osm_id": 1465987168,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.5314544,
+      "lon": 24.5592237,
+      "tags": {
+        "addr:city": "Târgu Mureș",
+        "addr:housenumber": "1-3",
+        "addr:postcode": "540376",
+        "addr:street": "Strada Șurianu",
+        "amenity": "school",
+        "building": "yes",
+        "building:levels": "4",
+        "education": "school",
+        "grades": "1-8"
+      }
+    },
+    {
+      "id": "relation/2762912",
+      "osm_id": 2762912,
+      "osm_type": "relation",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.5540581,
+      "lon": 24.557418,
+      "tags": {
+        "building": "kindergarten",
+        "building:levels": "2",
+        "type": "multipolygon"
+      }
+    },
+    {
+      "id": "relation/20069687",
+      "osm_id": 20069687,
+      "osm_type": "relation",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.5363218,
+      "lon": 24.5728339,
+      "tags": {
+        "amenity": "school",
+        "barrier": "fence",
+        "education": "school",
+        "type": "multipolygon"
+      }
+    },
+    {
+      "id": "node/526427320",
+      "osm_id": 526427320,
+      "osm_type": "node",
+      "name": "Biserica Sfinții Trei Ierarh",
+      "category": "place_of_worship",
+      "lat": 46.5301169,
+      "lon": 24.5563716,
+      "tags": {
+        "addr:city": "Târgu Mureș",
+        "addr:housenumber": "43",
+        "addr:postcode": "540406",
+        "addr:street": "Bulevardul 1848",
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Sfinții Trei Ierarh",
+        "name:ro": "Biserica Sfinții Trei Ierarh",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/559570854",
+      "osm_id": 559570854,
+      "osm_type": "node",
+      "name": "Biserica Sfânta Ana",
+      "category": "place_of_worship",
+      "lat": 46.5337013,
+      "lon": 24.5724888,
+      "tags": {
+        "amenity": "place_of_worship",
+        "check_date": "2025-09-08",
+        "denomination": "orthodox",
+        "name": "Biserica Sfânta Ana",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/2499880003",
+      "osm_id": 2499880003,
+      "osm_type": "node",
+      "name": "Biserica Adventistă de Ziua a Șaptea Târgu Mureș - \"Omega\"",
+      "category": "place_of_worship",
+      "lat": 46.5320835,
+      "lon": 24.574427,
+      "tags": {
+        "addr:city": "Târgu Mureș",
+        "addr:housenumber": "25",
+        "addr:street": "Strada Transilvania",
+        "amenity": "place_of_worship",
+        "denomination": "seventh_day_adventist",
+        "email": "iosifsuciu@adventist.ro",
+        "name": "Biserica Adventistă de Ziua a Șaptea Târgu Mureș - \"Omega\"",
+        "phone": "+40-744-513127",
+        "religion": "christian",
+        "website": "https://www.facebook.com/bisericaomega/"
+      }
+    },
+    {
+      "id": "node/2519145899",
+      "osm_id": 2519145899,
+      "osm_type": "node",
+      "name": "Vili Funerar",
+      "category": "place_of_worship",
+      "lat": 46.5588469,
+      "lon": 24.5769704,
+      "tags": {
+        "addr:city": "Târgu Mureș",
+        "addr:housenumber": "57",
+        "addr:postcode": "540136",
+        "addr:street": "Bulevardul 22 Decembrie 1989",
+        "name": "Vili Funerar",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+40-265-215119",
+        "religion": "christian",
+        "shop": "funeral_directors",
+        "website": "https://vilifunerar.ro/"
+      }
+    },
+    {
+      "id": "node/3799982986",
+      "osm_id": 3799982986,
+      "osm_type": "node",
+      "name": "Biserica Greco-Catolică Regina Sfântului Rozar",
+      "category": "place_of_worship",
+      "lat": 46.5622937,
+      "lon": 24.5457554,
+      "tags": {
+        "addr:city": "Târgu Mureș",
+        "addr:housenumber": "18",
+        "addr:postcode": "540272",
+        "addr:street": "Strada Ciucului",
+        "amenity": "place_of_worship",
+        "denomination": "greek_catholic",
+        "name": "Biserica Greco-Catolică Regina Sfântului Rozar",
+        "name:hu": "Rózsafüzér Királynője görögkatolikus templom",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/5150824021",
+      "osm_id": 5150824021,
+      "osm_type": "node",
+      "name": "Biserica Harvest Mures",
+      "category": "place_of_worship",
+      "lat": 46.5528654,
+      "lon": 24.5525622,
+      "tags": {
+        "addr:city": "Târgu Mureș",
+        "amenity": "place_of_worship",
+        "denomination": "tibetan",
+        "name": "Biserica Harvest Mures",
+        "name:en": "Harvest Mures Church",
+        "name:ro": "Biserica Harvest Mures",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/8482967412",
+      "osm_id": 8482967412,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 46.5302161,
+      "lon": 24.5508733,
+      "tags": {
+        "historic": "wayside_cross",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/9010434057",
+      "osm_id": 9010434057,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 46.513323,
+      "lon": 24.5588964,
+      "tags": {
+        "amenity": "place_of_worship",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/9484271482",
+      "osm_id": 9484271482,
+      "osm_type": "node",
+      "name": "Biserica Greco-Catolică Sf. Nicolae",
+      "category": "place_of_worship",
+      "lat": 46.5409246,
+      "lon": 24.5561687,
+      "tags": {
+        "addr:city": "Târgu Mureș",
+        "addr:housenumber": "8",
+        "addr:postcode": "540027",
+        "addr:street": "Strada Cuza Vodă",
+        "amenity": "place_of_worship",
+        "denomination": "greek_catholic",
+        "name": "Biserica Greco-Catolică Sf. Nicolae",
+        "name:hu": "Szent Miklós görögkatolikus templom",
+        "phone": "+40 265262226",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/9500565506",
+      "osm_id": 9500565506,
+      "osm_type": "node",
+      "name": "Adunarea Liberă Creștină",
+      "category": "place_of_worship",
+      "lat": 46.547194,
+      "lon": 24.5649854,
+      "tags": {
+        "addr:city": "Târgu Mureș",
+        "addr:housenumber": "1",
+        "addr:postcode": "540088",
+        "addr:street": "Strada Avram Iancu",
+        "amenity": "place_of_worship",
+        "denomination": "pentecostal",
+        "name": "Adunarea Liberă Creștină",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/9887320311",
+      "osm_id": 9887320311,
+      "osm_type": "node",
+      "name": "Hit Gyülekezete Marosvásárhely",
+      "category": "place_of_worship",
+      "lat": 46.5248214,
+      "lon": 24.5386667,
+      "tags": {
+        "addr:city": "Târgu Mureș",
+        "addr:housenumber": "177",
+        "addr:postcode": "540210",
+        "addr:street": "Strada Gheorghe Doja",
+        "amenity": "place_of_worship",
+        "denomination": "pentecostal",
+        "name": "Hit Gyülekezete Marosvásárhely",
+        "religion": "christian",
+        "service_times": "Sa 17:00-20:00"
+      }
+    },
+    {
+      "id": "way/24482609",
+      "osm_id": 24482609,
+      "osm_type": "way",
+      "name": "Biserica Reformată Mică",
+      "category": "place_of_worship",
+      "lat": 46.5397241,
+      "lon": 24.5665882,
+      "tags": {
+        "addr:city": "Târgu Mureș",
+        "addr:housenumber": "22",
+        "addr:street": "Strada Ștefan cel Mare",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "reformed",
+        "email": "gecseutca@gmail.com",
+        "name": "Biserica Reformată Mică",
+        "name:hu": "Kistemplom",
+        "name:ro": "Biserica Reformată Mică",
+        "phone": "+40265261847",
+        "religion": "christian",
+        "service_times": "Sa 19:00; Su 09:00,11:00,19:00",
+        "start_date": "1827",
+        "website": "https://www.kistemplom.ro/",
+        "wikidata": "Q780987",
+        "wikipedia": "hu:Kistemplom (Marosvásárhely)"
+      }
+    },
+    {
+      "id": "way/31530630",
+      "osm_id": 31530630,
+      "osm_type": "way",
+      "name": "Sinagoga Mare",
+      "category": "place_of_worship",
+      "lat": 46.545293,
+      "lon": 24.5580996,
+      "tags": {
+        "addr:city": "Târgu Mureș",
+        "addr:housenumber": "21",
+        "addr:postcode": "540035",
+        "addr:street": "Strada Aurel Filimon",
+        "alt_name": "Templul mare",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Sinagoga Mare",
+        "name:hu": "Nagy zsinagóga",
+        "name:ro": "Sinagoga Mare",
+        "religion": "jewish"
+      }
+    },
+    {
+      "id": "way/31530807",
+      "osm_id": 31530807,
+      "osm_type": "way",
+      "name": "Biserica Sfântul Ioan Botezătorul",
+      "category": "place_of_worship",
+      "lat": 46.5457873,
+      "lon": 24.5640911,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "roman_catholic",
+        "name": "Biserica Sfântul Ioan Botezătorul",
+        "name:hu": "Keresztelő Szt János plébániatemplom",
+        "name:ro": "Biserica Sfântul Ioan Botezătorul",
+        "religion": "christian",
+        "url:miserend": "http://miserend.hu/?templom=3482"
+      }
+    },
+    {
+      "id": "way/31530870",
+      "osm_id": 31530870,
+      "osm_type": "way",
+      "name": "Catedrala Înălțarea Domnului",
+      "category": "place_of_worship",
+      "lat": 46.5461281,
+      "lon": 24.5633632,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "design": "typical",
+        "designation": "Parohia Târgu Mureș II",
+        "name": "Catedrala Înălțarea Domnului",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/31993970",
+      "osm_id": 31993970,
+      "osm_type": "way",
+      "name": "Sala Regatului Martorilor lui Iehova",
+      "category": "place_of_worship",
+      "lat": 46.559739,
+      "lon": 24.5495432,
+      "tags": {
+        "addr:city": "Târgu Mureș",
+        "addr:housenumber": "9/1",
+        "addr:street": "Strada Apaductului",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "jehovahs_witness",
+        "name": "Sala Regatului Martorilor lui Iehova",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/31994898",
+      "osm_id": 31994898,
+      "osm_type": "way",
+      "name": "Biserica Adventistă de Ziua a Șaptea Târgu Mureș - \"B\"",
+      "category": "place_of_worship",
+      "lat": 46.5617146,
+      "lon": 24.5397001,
+      "tags": {
+        "addr:housenumber": "33",
+        "addr:street": "Strada Remetea",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "seventh_day_adventist",
+        "email": "iuliutopor@adventist.ro",
+        "name": "Biserica Adventistă de Ziua a Șaptea Târgu Mureș - \"B\"",
+        "phone": "+40-748-203432",
+        "religion": "christian",
+        "website": "http://transilvania-sud.adventist.ro/"
+      }
+    },
+    {
+      "id": "way/31996540",
+      "osm_id": 31996540,
+      "osm_type": "way",
+      "name": "Biserica Remetea",
+      "category": "place_of_worship",
+      "lat": 46.5627392,
+      "lon": 24.5395094,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Remetea",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/41980551",
+      "osm_id": 41980551,
+      "osm_type": "way",
+      "name": "Biserica Adormirea Maicii Domnului",
+      "category": "place_of_worship",
+      "lat": 46.563794,
+      "lon": 24.5475364,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "designation": "Parohia Târgu Mureș XI",
+        "name": "Biserica Adormirea Maicii Domnului",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/58606656",
+      "osm_id": 58606656,
+      "osm_type": "way",
+      "name": "Cimitirul romano-catolic",
+      "category": "place_of_worship",
+      "lat": 46.5439051,
+      "lon": 24.5722964,
+      "tags": {
+        "addr:city": "Târgu Mureș",
+        "addr:housenumber": "21",
+        "addr:postcode": "540074",
+        "addr:street": "Strada Alexandru Papiu Ilarian",
+        "denomination": "catholic",
+        "landuse": "cemetery",
+        "name": "Cimitirul romano-catolic",
+        "phone": "+40-265-480260",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/79213952",
+      "osm_id": 79213952,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 46.5632495,
+      "lon": 24.588696,
+      "tags": {
+        "area": "yes",
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/87791960",
+      "osm_id": 87791960,
+      "osm_type": "way",
+      "name": "Biserica din cetate",
+      "category": "place_of_worship",
+      "lat": 46.5466178,
+      "lon": 24.5663593,
+      "tags": {
+        "addr:city": "Târgu Mureș",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "check_date": "2024-04-25",
+        "denomination": "reformed",
+        "name": "Biserica din cetate",
+        "name:hu": "Vártemplom",
+        "name:ro": "Biserica din cetate",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/87936591",
+      "osm_id": 87936591,
+      "osm_type": "way",
+      "name": "Biserica Bob, Sf. Nicolae",
+      "category": "place_of_worship",
+      "lat": 46.5506266,
+      "lon": 24.5686134,
+      "tags": {
+        "addr:city": "Târgu Mureș",
+        "addr:housenumber": "9",
+        "addr:street": "Strada Mitropolit Andrei Șaguna",
+        "alt_name": "Biserica de Piatră",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "designation": "Parohia Târgu Mureș I",
+        "name": "Biserica Bob, Sf. Nicolae",
+        "religion": "christian",
+        "wikidata": "Q658718",
+        "wikipedia": "ro:Biserica Bob din Târgu Mureș"
+      }
+    },
+    {
+      "id": "way/87983756",
+      "osm_id": 87983756,
+      "osm_type": "way",
+      "name": "Biserica Penticostală Filadelfia",
+      "category": "place_of_worship",
+      "lat": 46.5345775,
+      "lon": 24.5759248,
+      "tags": {
+        "addr:city": "Târgu Mureș",
+        "addr:housenumber": "3",
+        "addr:postcode": "540493",
+        "addr:street": "Aleea Hațeg",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "pentecostal",
+        "name": "Biserica Penticostală Filadelfia",
+        "phone": "+40744965356",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/87983770",
+      "osm_id": 87983770,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 46.5336958,
+      "lon": 24.5724726,
+      "tags": {
+        "building": "church"
+      }
+    },
+    {
+      "id": "way/87996241",
+      "osm_id": 87996241,
+      "osm_type": "way",
+      "name": "Sinagoga Mică",
+      "category": "place_of_worship",
+      "lat": 46.548618,
+      "lon": 24.5615175,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "name": "Sinagoga Mică",
+        "religion": "jewish"
+      }
+    },
+    {
+      "id": "way/88056445",
+      "osm_id": 88056445,
+      "osm_type": "way",
+      "name": "Parohia IV. \"Adormirea Maicii Domnului\"",
+      "category": "place_of_worship",
+      "lat": 46.5378629,
+      "lon": 24.5829123,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "contact:facebook": "grecocatolicaivmures.parohia",
+        "denomination": "greek_catholic",
+        "name": "Parohia IV. \"Adormirea Maicii Domnului\"",
+        "name:hu": "Istenanya mennybevétele görögkatolikus templom",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/88184223",
+      "osm_id": 88184223,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 46.5405256,
+      "lon": 24.5839575,
+      "tags": {
+        "building": "church"
+      }
+    },
+    {
+      "id": "way/88191857",
+      "osm_id": 88191857,
+      "osm_type": "way",
+      "name": "Biserica Adventistă de Ziua a Șaptea Târgu Mureș - \"C\"",
+      "category": "place_of_worship",
+      "lat": 46.5463002,
+      "lon": 24.5578238,
+      "tags": {
+        "addr:city": "Târgu Mureș",
+        "addr:housenumber": "16",
+        "addr:street": "Strada Aurel Filimon",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "seventh_day_adventist",
+        "email": "iacobcoman@adventist.ro",
+        "name": "Biserica Adventistă de Ziua a Șaptea Târgu Mureș - \"C\"",
+        "phone": "+40-744-301177",
+        "religion": "christian",
+        "website": "https://www.adventistmures.ro/"
+      }
+    },
+    {
+      "id": "way/88194992",
+      "osm_id": 88194992,
+      "osm_type": "way",
+      "name": "Biserica Adventistă de Ziua a Șaptea Târgu Mureș - \"A\"",
+      "category": "place_of_worship",
+      "lat": 46.5484185,
+      "lon": 24.5578664,
+      "tags": {
+        "addr:city": "Târgu Mureș",
+        "addr:housenumber": "55",
+        "addr:street": "Strada Călărașilor",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "seventh_day_adventist",
+        "email": "jozsefveress@adventist.ro",
+        "name": "Biserica Adventistă de Ziua a Șaptea Târgu Mureș - \"A\"",
+        "name:ro": "Biserica Adventistă de Ziua a Șaptea Târgu Mureș - \"A\"",
+        "phone": "+40-742-105024",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/88750796",
+      "osm_id": 88750796,
+      "osm_type": "way",
+      "name": "Biserica Creștină Baptistă Harul",
+      "category": "place_of_worship",
+      "lat": 46.536324,
+      "lon": 24.5602759,
+      "tags": {
+        "addr:city": "Târgu Mureș",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "contact:website": "https://www.harulmures.ro/",
+        "denomination": "baptist",
+        "name": "Biserica Creștină Baptistă Harul",
+        "name:hu": "Baptista templom",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/90407072",
+      "osm_id": 90407072,
+      "osm_type": "way",
+      "name": "Biserica reformată din Orașul de Jos",
+      "category": "place_of_worship",
+      "lat": 46.5287833,
+      "lon": 24.5503156,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "reformed",
+        "name": "Biserica reformată din Orașul de Jos",
+        "name:hu": "Alsóvárosi református templom",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/91236004",
+      "osm_id": 91236004,
+      "osm_type": "way",
+      "name": "Biserica Sf. Trei Ierarhi, Târgu Mureș X",
+      "category": "place_of_worship",
+      "lat": 46.5301185,
+      "lon": 24.5563934,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "building:levels": "3",
+        "denomination": "orthodox",
+        "name": "Biserica Sf. Trei Ierarhi, Târgu Mureș X",
+        "religion": "christian",
+        "source": "http://www.protopopiat.ro/pag_cms_id_73_p_parohia-tg.mures-x.html"
+      }
+    },
+    {
+      "id": "way/93253005",
+      "osm_id": 93253005,
+      "osm_type": "way",
+      "name": "Biserica Sfânta Elisabeta",
+      "category": "place_of_worship",
+      "lat": 46.5219509,
+      "lon": 24.5307721,
+      "tags": {
+        "addr:city": "Târgu Mureș",
+        "addr:housenumber": "188",
+        "addr:street": "Strada Gheorghe Doja",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "roman_catholic",
+        "name": "Biserica Sfânta Elisabeta",
+        "name:hu": "Árpádházi Szent Erzsébet-templom",
+        "name:ro": "Biserica Sfânta Elisabeta",
+        "religion": "christian",
+        "url:miserend": "http://miserend.hu/?templom=3486"
+      }
+    },
+    {
+      "id": "way/105750369",
+      "osm_id": 105750369,
+      "osm_type": "way",
+      "name": "Martorii lui Iehova",
+      "category": "place_of_worship",
+      "lat": 46.539412,
+      "lon": 24.5785782,
+      "tags": {
+        "addr:city": "Târgu Mureș",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "jehovahs_witness",
+        "name": "Martorii lui Iehova",
+        "name:hu": "Jehova tanúi",
+        "name:ro": "Martorii lui Iehova",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/167612255",
+      "osm_id": 167612255,
+      "osm_type": "way",
+      "name": "Catedrala Învierea Domnului",
+      "category": "place_of_worship",
+      "lat": 46.534598,
+      "lon": 24.5823757,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Catedrala Învierea Domnului",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/172642934",
+      "osm_id": 172642934,
+      "osm_type": "way",
+      "name": "Cimitirul reformat",
+      "category": "place_of_worship",
+      "lat": 46.5436863,
+      "lon": 24.5697058,
+      "tags": {
+        "addr:city": "Târgu Mureș",
+        "addr:housenumber": "4",
+        "addr:street": "Strada Crizantemelor",
+        "denomination": "reformed",
+        "landuse": "cemetery",
+        "name": "Cimitirul reformat",
+        "phone": "+40-265-215875",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/172647919",
+      "osm_id": 172647919,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 46.5407175,
+      "lon": 24.6036932,
+      "tags": {
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/172710004",
+      "osm_id": 172710004,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 46.544762,
+      "lon": 24.5793668,
+      "tags": {
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/173019593",
+      "osm_id": 173019593,
+      "osm_type": "way",
+      "name": "Biserica de lemn",
+      "category": "place_of_worship",
+      "lat": 46.5505379,
+      "lon": 24.569691,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica de lemn",
+        "name:en": "The Wooden Church",
+        "name:ro": "Biserica de lemn",
+        "religion": "christian",
+        "tourism": "attraction",
+        "wikipedia": "ro:Biserica de lemn din Târgu Mureș"
+      }
+    },
+    {
+      "id": "way/173019600",
+      "osm_id": 173019600,
+      "osm_type": "way",
+      "name": "Cimitirul Ortodox",
+      "category": "place_of_worship",
+      "lat": 46.5508436,
+      "lon": 24.5689233,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitirul Ortodox",
+        "name:ro": "Cimitirul Ortodox",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/173031922",
+      "osm_id": 173031922,
+      "osm_type": "way",
+      "name": "Biserica Sf. Antonie de Padova",
+      "category": "place_of_worship",
+      "lat": 46.543112,
+      "lon": 24.5621487,
+      "tags": {
+        "addr:city": "Târgu Mureș",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "roman_catholic",
+        "name": "Biserica Sf. Antonie de Padova",
+        "name:hu": "Páduai Szent Antal-templom",
+        "name:ro": "Biserica Sf. Antonie de Padova",
+        "religion": "christian",
+        "url:miserend": "https://miserend.hu/templom/3488"
+      }
+    },
+    {
+      "id": "way/183330816",
+      "osm_id": 183330816,
+      "osm_type": "way",
+      "name": "Biserica Sfânta Parascheva",
+      "category": "place_of_worship",
+      "lat": 46.5580756,
+      "lon": 24.5807037,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Sfânta Parascheva",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/192437137",
+      "osm_id": 192437137,
+      "osm_type": "way",
+      "name": "Biserica Penticostală Betania",
+      "category": "place_of_worship",
+      "lat": 46.5514752,
+      "lon": 24.561959,
+      "tags": {
+        "addr:city": "Târgu Mureș",
+        "addr:housenumber": "5",
+        "addr:street": "Strada Pavel Chinezu",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "pentecostal",
+        "name": "Biserica Penticostală Betania",
+        "religion": "christian",
+        "website": "http://www.betania-tgmures.ro/"
+      }
+    },
+    {
+      "id": "way/196508078",
+      "osm_id": 196508078,
+      "osm_type": "way",
+      "name": "Biserica Unitariană Mihail (fostă reformată)",
+      "category": "place_of_worship",
+      "lat": 46.541143,
+      "lon": 24.54807,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "building:levels": "2",
+        "denomination": "unitarian",
+        "name": "Biserica Unitariană Mihail (fostă reformată)",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/200303945",
+      "osm_id": 200303945,
+      "osm_type": "way",
+      "name": "Biserica Nașterea Sf. Ioan Botezătorul",
+      "category": "place_of_worship",
+      "lat": 46.5225602,
+      "lon": 24.5393271,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Nașterea Sf. Ioan Botezătorul",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/220908472",
+      "osm_id": 220908472,
+      "osm_type": "way",
+      "name": "Biserica Franciscană Sf. Emeric",
+      "category": "place_of_worship",
+      "lat": 46.5394363,
+      "lon": 24.5423525,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "catholic",
+        "height": "10",
+        "name": "Biserica Franciscană Sf. Emeric",
+        "name:hu": "Szent Imre herceg (ferences) templom",
+        "religion": "christian",
+        "url:miserend": "https://miserend.hu/templom/3483"
+      }
+    },
+    {
+      "id": "way/220960522",
+      "osm_id": 220960522,
+      "osm_type": "way",
+      "name": "Biserica Unitariană Dâmbul Pietros",
+      "category": "place_of_worship",
+      "lat": 46.5275028,
+      "lon": 24.5526127,
+      "tags": {
+        "addr:city": "Târgu Mureș",
+        "addr:housenumber": "1",
+        "addr:postcode": "540399",
+        "addr:street": "Strada Episcop Dávid Ferenc",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "unitarian",
+        "email": "ekt@unitarius.org",
+        "name": "Biserica Unitariană Dâmbul Pietros",
+        "phone": "+40365449315",
+        "religion": "christian",
+        "website": "https://unitarius.org/"
+      }
+    },
+    {
+      "id": "way/224983607",
+      "osm_id": 224983607,
+      "osm_type": "way",
+      "name": "Biserica Sfântul Mihail",
+      "category": "place_of_worship",
+      "lat": 46.5336228,
+      "lon": 24.5569461,
+      "tags": {
+        "addr:city": "Târgu Mureș",
+        "addr:housenumber": "20",
+        "addr:street": "Strada Constantin Dobrogeanu Gherea",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "building:levels": "2",
+        "denomination": "roman_catholic",
+        "name": "Biserica Sfântul Mihail",
+        "name:hu": "Szent Miklós püspök-templom",
+        "name:ro": "Biserica Sfântul Mihail",
+        "religion": "christian",
+        "url:miserend": "http://miserend.hu/?templom=3484"
+      }
+    },
+    {
+      "id": "way/228891356",
+      "osm_id": 228891356,
+      "osm_type": "way",
+      "name": "Biserica Buna Vestire",
+      "category": "place_of_worship",
+      "lat": 46.5417128,
+      "lon": 24.5573852,
+      "tags": {
+        "addr:city": "Târgu Mureș",
+        "addr:housenumber": "4",
+        "addr:street": "Piața Victoriei",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "designation": "Parohia Târgu Mureș III",
+        "name": "Biserica Buna Vestire",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/238865109",
+      "osm_id": 238865109,
+      "osm_type": "way",
+      "name": "Biserica de lemn Pocloș",
+      "category": "place_of_worship",
+      "lat": 46.538969,
+      "lon": 24.5854388,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica de lemn Pocloș",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/246820175",
+      "osm_id": 246820175,
+      "osm_type": "way",
+      "name": "Biserica Penticostală Betel",
+      "category": "place_of_worship",
+      "lat": 46.5484775,
+      "lon": 24.5563484,
+      "tags": {
+        "addr:city": "Târgu Mureș",
+        "addr:housenumber": "24-26",
+        "addr:postcode": "410211",
+        "addr:street": "Strada Arany János",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "pentecostal",
+        "name": "Biserica Penticostală Betel",
+        "phone": "+40-265-214599",
+        "religion": "christian",
+        "website": "https://www.facebook.com/betelmures/"
+      }
+    },
+    {
+      "id": "way/247901264",
+      "osm_id": 247901264,
+      "osm_type": "way",
+      "name": "Biserică Reformată",
+      "category": "place_of_worship",
+      "lat": 46.5594995,
+      "lon": 24.548063,
+      "tags": {
+        "addr:city": "Târgu Mureș",
+        "addr:housenumber": "47",
+        "addr:postcode": "540289",
+        "addr:street": "Strada Voinicenilor",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "reformed",
+        "name": "Biserică Reformată",
+        "name:hu": "Szabadi Úti Református Egyházközség",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/282540764",
+      "osm_id": 282540764,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă Mureșeni",
+      "category": "place_of_worship",
+      "lat": 46.5241568,
+      "lon": 24.5183539,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă Mureșeni",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/341959683",
+      "osm_id": 341959683,
+      "osm_type": "way",
+      "name": "Cimitirul Municipal Remetea",
+      "category": "place_of_worship",
+      "lat": 46.5724223,
+      "lon": 24.5319715,
+      "tags": {
+        "landuse": "cemetery",
+        "name": "Cimitirul Municipal Remetea",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/379684735",
+      "osm_id": 379684735,
+      "osm_type": "way",
+      "name": "Biserica Sfânta Familie",
+      "category": "place_of_worship",
+      "lat": 46.5624926,
+      "lon": 24.5437748,
+      "tags": {
+        "addr:city": "Târgu Mureș",
+        "addr:housenumber": "26",
+        "addr:postcode": "540272",
+        "addr:street": "Strada Agricultorilor",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "roman_catholic",
+        "name": "Biserica Sfânta Familie",
+        "name:en": "Holy Family Church",
+        "name:hu": "Szent Család Templom",
+        "religion": "christian",
+        "service_times": "Sunday 11am",
+        "url:miserend": "https://miserend.hu/templom/5138"
+      }
+    },
+    {
+      "id": "way/911612017",
+      "osm_id": 911612017,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă Belvedere",
+      "category": "place_of_worship",
+      "lat": 46.5285753,
+      "lon": 24.5735162,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă Belvedere",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1004764982",
+      "osm_id": 1004764982,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 46.5768561,
+      "lon": 24.5092902,
+      "tags": {
+        "building": "church"
+      }
+    },
+    {
+      "id": "way/1362378179",
+      "osm_id": 1362378179,
+      "osm_type": "way",
+      "name": "Biserica Sfinții Kozma și Damian",
+      "category": "place_of_worship",
+      "lat": 46.5320852,
+      "lon": 24.5829478,
+      "tags": {
+        "addr:city": "Târgu Mureș",
+        "addr:housenumber": "2",
+        "addr:postcode": "540680",
+        "addr:street": "Strada Bodoni Sándor",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "roman_catholic",
+        "name": "Biserica Sfinții Kozma și Damian",
+        "name:hu": "Szent Kozma és Damján templom",
+        "religion": "christian",
+        "url:miserend": "https://miserend.hu/templom/3485"
+      }
+    },
+    {
+      "id": "way/1444732683",
+      "osm_id": 1444732683,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 46.5396812,
+      "lon": 24.5555535,
+      "tags": {
+        "addr:city": "Târgu Mureș",
+        "addr:housenumber": "50",
+        "addr:postcode": "540019",
+        "addr:street": "Strada Tudor Vladimirescu",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "baptist",
+        "phone": "+40743089905",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1454383446",
+      "osm_id": 1454383446,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 46.5333342,
+      "lon": 24.5372712,
+      "tags": {
+        "building": "church"
+      }
+    }
+  ]
+}

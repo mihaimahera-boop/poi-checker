@@ -1,0 +1,944 @@
+{
+  "city": "Blaj",
+  "generated_at": "2026-04-23T09:30:18.440Z",
+  "counts": {
+    "total": 60,
+    "schools": 20,
+    "churches": 40
+  },
+  "pois": [
+    {
+      "id": "node/292203484",
+      "osm_id": 292203484,
+      "osm_type": "node",
+      "name": "Gradinita",
+      "category": "education",
+      "lat": 46.1750978,
+      "lon": 23.9199396,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Gradinita"
+      }
+    },
+    {
+      "id": "node/2103110422",
+      "osm_id": 2103110422,
+      "osm_type": "node",
+      "name": "Complexul Educational Caritas Blaj",
+      "category": "education",
+      "lat": 46.1765709,
+      "lon": 23.9230896,
+      "tags": {
+        "amenity": "school",
+        "name": "Complexul Educational Caritas Blaj"
+      }
+    },
+    {
+      "id": "node/2108646283",
+      "osm_id": 2108646283,
+      "osm_type": "node",
+      "name": "Grădinița cu program normal Nr.1 Blaj",
+      "category": "education",
+      "lat": 46.1767453,
+      "lon": 23.9210506,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Grădinița cu program normal Nr.1 Blaj"
+      }
+    },
+    {
+      "id": "node/2108648294",
+      "osm_id": 2108648294,
+      "osm_type": "node",
+      "name": "Grădinița cu program prelungit Nr. 4 Blaj",
+      "category": "education",
+      "lat": 46.1756682,
+      "lon": 23.9235558,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Grădinița cu program prelungit Nr. 4 Blaj"
+      }
+    },
+    {
+      "id": "node/2108673019",
+      "osm_id": 2108673019,
+      "osm_type": "node",
+      "name": "Grădinița Surâsul copiilor Blaj",
+      "category": "education",
+      "lat": 46.1768864,
+      "lon": 23.9231588,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Grădinița Surâsul copiilor Blaj"
+      }
+    },
+    {
+      "id": "node/2119881920",
+      "osm_id": 2119881920,
+      "osm_type": "node",
+      "name": "Școala cu Clasele I-VIII ,,Toma Cocișiu\"",
+      "category": "education",
+      "lat": 46.1770096,
+      "lon": 23.9180205,
+      "tags": {
+        "amenity": "school",
+        "bench": "yes",
+        "covered": "yes",
+        "highway": "bus_stop",
+        "name": "Școala cu Clasele I-VIII ,,Toma Cocișiu\"",
+        "shelter": "yes",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "id": "node/3328656397",
+      "osm_id": 3328656397,
+      "osm_type": "node",
+      "name": "Colegiul Industrial Blaj",
+      "category": "education",
+      "lat": 46.1784351,
+      "lon": 23.9185155,
+      "tags": {
+        "addr:city": "Blaj",
+        "addr:postcode": "515400",
+        "addr:street": "Strada Doctor Vasile Suciu",
+        "amenity": "college",
+        "name": "Colegiul Industrial Blaj"
+      }
+    },
+    {
+      "id": "node/6579694796",
+      "osm_id": 6579694796,
+      "osm_type": "node",
+      "name": "Școala Sanitară Postliceală \"Carol Davila\"",
+      "category": "education",
+      "lat": 46.1796702,
+      "lon": 23.9247462,
+      "tags": {
+        "addr:housenumber": "16",
+        "addr:street": "Strada Andrei Mureșanu",
+        "amenity": "school",
+        "email": "davila_carol@yahoo.com",
+        "name": "Școala Sanitară Postliceală \"Carol Davila\"",
+        "reviewed": "no",
+        "school_type": "Unitate de învăţământ"
+      }
+    },
+    {
+      "id": "way/200905124",
+      "osm_id": 200905124,
+      "osm_type": "way",
+      "name": "Liceul Tehnologic \"Ștefan Manciulea\" Blaj",
+      "category": "education",
+      "lat": 46.173124,
+      "lon": 23.9232399,
+      "tags": {
+        "addr:city": "Blaj",
+        "addr:housenumber": "3",
+        "addr:street": "Piața 1848",
+        "amenity": "school",
+        "building": "school",
+        "education": "school",
+        "name": "Liceul Tehnologic \"Ștefan Manciulea\" Blaj",
+        "website": "https://stefanmanciulea.ro/"
+      }
+    },
+    {
+      "id": "way/200905633",
+      "osm_id": 200905633,
+      "osm_type": "way",
+      "name": "Institutul Teologic Greco-Catolic \"Bunavestire\"",
+      "category": "education",
+      "lat": 46.1739635,
+      "lon": 23.9235705,
+      "tags": {
+        "addr:city": "Blaj",
+        "addr:housenumber": "1",
+        "addr:street": "Piața 1848",
+        "amenity": "college",
+        "building": "yes",
+        "contact:facebook": "https://www.facebook.com/InstitutulTeologicBlaj/",
+        "denomination": "greek_catholic",
+        "name": "Institutul Teologic Greco-Catolic \"Bunavestire\"",
+        "religion": "christian",
+        "website": "https://gct.ubbcluj.ro/"
+      }
+    },
+    {
+      "id": "way/201790304",
+      "osm_id": 201790304,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.1776006,
+      "lon": 23.9267668,
+      "tags": {
+        "building": "kindergarten"
+      }
+    },
+    {
+      "id": "way/201790307",
+      "osm_id": 201790307,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.1776927,
+      "lon": 23.9277231,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/201994892",
+      "osm_id": 201994892,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.1771018,
+      "lon": 23.9180699,
+      "tags": {
+        "addr:city": "Blaj",
+        "addr:postcode": "515400",
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/201994895",
+      "osm_id": 201994895,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.1774328,
+      "lon": 23.9181358,
+      "tags": {
+        "addr:city": "Blaj",
+        "addr:postcode": "515400",
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/202170380",
+      "osm_id": 202170380,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.1767867,
+      "lon": 23.9231128,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/328981644",
+      "osm_id": 328981644,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.1772845,
+      "lon": 23.9178963,
+      "tags": {
+        "addr:city": "Blaj",
+        "addr:postcode": "515400",
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "way/550916992",
+      "osm_id": 550916992,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.1691096,
+      "lon": 23.9212708,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/1465663899",
+      "osm_id": 1465663899,
+      "osm_type": "way",
+      "name": "Şcoala generală Ion Micu Moldovan",
+      "category": "education",
+      "lat": 46.169949,
+      "lon": 23.9067263,
+      "tags": {
+        "addr:city": "Blaj",
+        "addr:housenumber": "144",
+        "addr:postcode": "515400",
+        "addr:street": "Strada Păcii",
+        "amenity": "school",
+        "education": "school",
+        "email": "imc.blaj@isjalba.ro",
+        "name": "Şcoala generală Ion Micu Moldovan",
+        "phone": "0258711831"
+      }
+    },
+    {
+      "id": "way/1465663905",
+      "osm_id": 1465663905,
+      "osm_type": "way",
+      "name": "Școala Gimnazială „Petru Pavel Aaron” Blaj",
+      "category": "education",
+      "lat": 46.1691501,
+      "lon": 23.9212754,
+      "tags": {
+        "addr:city": "Blaj",
+        "addr:housenumber": "1",
+        "addr:postcode": "515400",
+        "addr:street": "Strada Păcii",
+        "amenity": "school",
+        "education": "school",
+        "name": "Școala Gimnazială „Petru Pavel Aaron” Blaj",
+        "phone": "0258711405",
+        "website": "https://scoalatiur.ro/"
+      }
+    },
+    {
+      "id": "way/1468446176",
+      "osm_id": 1468446176,
+      "osm_type": "way",
+      "name": "Colegiul Național „Inochentie Micu Clain”",
+      "category": "education",
+      "lat": 46.1778961,
+      "lon": 23.9273828,
+      "tags": {
+        "addr:city": "Blaj",
+        "addr:housenumber": "2",
+        "addr:postcode": "515400",
+        "addr:street": "Strada Simion Bărnuțiu",
+        "amenity": "school",
+        "education": "school",
+        "facebook": "https://www.facebook.com/IMCBlaj/",
+        "name": "Colegiul Național „Inochentie Micu Clain”",
+        "religion": "christian",
+        "website": "https://imclain.ro/"
+      }
+    },
+    {
+      "id": "node/2106260239",
+      "osm_id": 2106260239,
+      "osm_type": "node",
+      "name": "Sanctuarul Fecioara Săracilor",
+      "category": "place_of_worship",
+      "lat": 46.1483784,
+      "lon": 23.917133,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "greek_catholic",
+        "name": "Sanctuarul Fecioara Săracilor",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/2118031183",
+      "osm_id": 2118031183,
+      "osm_type": "node",
+      "name": "Biserica Sf Paraschiva",
+      "category": "place_of_worship",
+      "lat": 46.1795628,
+      "lon": 23.9247059,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Sf Paraschiva",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/5166825411",
+      "osm_id": 5166825411,
+      "osm_type": "node",
+      "name": "Biserica fortificată",
+      "category": "place_of_worship",
+      "lat": 46.1408651,
+      "lon": 23.9701698,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "lutheran",
+        "name": "Biserica fortificată",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/5320598919",
+      "osm_id": 5320598919,
+      "osm_type": "node",
+      "name": "Biserica Adormirea Maicii Domnului și Sfântul Mucenic Dimitrie",
+      "category": "place_of_worship",
+      "lat": 46.179023,
+      "lon": 23.9261358,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Adormirea Maicii Domnului și Sfântul Mucenic Dimitrie",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/5320605078",
+      "osm_id": 5320605078,
+      "osm_type": "node",
+      "name": "Biserica Sf Teodor Tiron",
+      "category": "place_of_worship",
+      "lat": 46.1697628,
+      "lon": 23.9155194,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Sf Teodor Tiron",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/5325473680",
+      "osm_id": 5325473680,
+      "osm_type": "node",
+      "name": "Tűr Reformatus Kapolna",
+      "category": "place_of_worship",
+      "lat": 46.1593976,
+      "lon": 23.8844665,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "protestant",
+        "name": "Tűr Reformatus Kapolna",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/5327015286",
+      "osm_id": 5327015286,
+      "osm_type": "node",
+      "name": "Biserica Spătac",
+      "category": "place_of_worship",
+      "lat": 46.1370792,
+      "lon": 23.9431408,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Spătac",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/200190565",
+      "osm_id": 200190565,
+      "osm_type": "way",
+      "name": "Catedrala Adormirea Maicii Domnului",
+      "category": "place_of_worship",
+      "lat": 46.1756529,
+      "lon": 23.909463,
+      "tags": {
+        "addr:city": "Blaj",
+        "addr:street": "Strada Gării",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Catedrala Adormirea Maicii Domnului",
+        "phone": "0743619740",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/200898210",
+      "osm_id": 200898210,
+      "osm_type": "way",
+      "name": "Catedrala Sfânta Treime",
+      "category": "place_of_worship",
+      "lat": 46.1736246,
+      "lon": 23.9233275,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_catholic",
+        "name": "Catedrala Sfânta Treime",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/200905633",
+      "osm_id": 200905633,
+      "osm_type": "way",
+      "name": "Institutul Teologic Greco-Catolic \"Bunavestire\"",
+      "category": "place_of_worship",
+      "lat": 46.1739635,
+      "lon": 23.9235705,
+      "tags": {
+        "addr:city": "Blaj",
+        "addr:housenumber": "1",
+        "addr:street": "Piața 1848",
+        "amenity": "college",
+        "building": "yes",
+        "contact:facebook": "https://www.facebook.com/InstitutulTeologicBlaj/",
+        "denomination": "greek_catholic",
+        "name": "Institutul Teologic Greco-Catolic \"Bunavestire\"",
+        "religion": "christian",
+        "website": "https://gct.ubbcluj.ro/"
+      }
+    },
+    {
+      "id": "way/202170370",
+      "osm_id": 202170370,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 46.1765373,
+      "lon": 23.9248769,
+      "tags": {
+        "building": "church",
+        "man_made": "tower",
+        "tower:type": "bell_tower"
+      }
+    },
+    {
+      "id": "way/202170385",
+      "osm_id": 202170385,
+      "osm_type": "way",
+      "name": "Biserica Sf. Gheorghe",
+      "category": "place_of_worship",
+      "lat": 46.1765463,
+      "lon": 23.9252454,
+      "tags": {
+        "addr:city": "Blaj",
+        "addr:street": "Strada Simion Bărnuțiu",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica Sf. Gheorghe",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/227354265",
+      "osm_id": 227354265,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 46.1483084,
+      "lon": 23.9168618,
+      "tags": {
+        "building": "church"
+      }
+    },
+    {
+      "id": "way/227354266",
+      "osm_id": 227354266,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 46.1483683,
+      "lon": 23.9171683,
+      "tags": {
+        "building": "church"
+      }
+    },
+    {
+      "id": "way/283527775",
+      "osm_id": 283527775,
+      "osm_type": "way",
+      "name": "Biserica Romano Catolică",
+      "category": "place_of_worship",
+      "lat": 46.1768448,
+      "lon": 23.9166477,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "roman_catholic",
+        "name": "Biserica Romano Catolică",
+        "name:hu": "Szentháromság templom",
+        "name:ro": "Biserica Romano Catolică",
+        "religion": "christian",
+        "url:miserend": "https://miserend.hu/templom/3192"
+      }
+    },
+    {
+      "id": "way/326212298",
+      "osm_id": 326212298,
+      "osm_type": "way",
+      "name": "Cimitir Nou",
+      "category": "place_of_worship",
+      "lat": 46.1857441,
+      "lon": 23.9262913,
+      "tags": {
+        "denomination": "romanian_orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitir Nou",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/374546744",
+      "osm_id": 374546744,
+      "osm_type": "way",
+      "name": "Szentlélek-templom",
+      "category": "place_of_worship",
+      "lat": 46.1596994,
+      "lon": 23.887125,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "roman_catholic",
+        "name": "Szentlélek-templom",
+        "religion": "christian",
+        "url:miserend": "http://miserend.hu/?templom=3066"
+      }
+    },
+    {
+      "id": "way/550211190",
+      "osm_id": 550211190,
+      "osm_type": "way",
+      "name": "Magyarpéterfalva Reformatus Templom",
+      "category": "place_of_worship",
+      "lat": 46.1921939,
+      "lon": 23.9170989,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "reformed",
+        "name": "Magyarpéterfalva Reformatus Templom",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/550211191",
+      "osm_id": 550211191,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă Tiur",
+      "category": "place_of_worship",
+      "lat": 46.1587735,
+      "lon": 23.8839207,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă Tiur",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/550211192",
+      "osm_id": 550211192,
+      "osm_type": "way",
+      "name": "Biserica Greco-Catolică Tiur",
+      "category": "place_of_worship",
+      "lat": 46.1571569,
+      "lon": 23.8835657,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "greek_catholic",
+        "name": "Biserica Greco-Catolică Tiur",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/550646204",
+      "osm_id": 550646204,
+      "osm_type": "way",
+      "name": "Biserica Luterană Mănărade (1412)",
+      "category": "place_of_worship",
+      "lat": 46.1407904,
+      "lon": 23.9701632,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "lutheran",
+        "name": "Biserica Luterană Mănărade (1412)",
+        "religion": "christian",
+        "wikidata": "Q18537979"
+      }
+    },
+    {
+      "id": "way/550646205",
+      "osm_id": 550646205,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă Mănărade (1937)",
+      "category": "place_of_worship",
+      "lat": 46.1365872,
+      "lon": 23.9749259,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă Mănărade (1937)",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/550646212",
+      "osm_id": 550646212,
+      "osm_type": "way",
+      "name": "Cimitirul Luteran",
+      "category": "place_of_worship",
+      "lat": 46.140316,
+      "lon": 23.9647303,
+      "tags": {
+        "denomination": "lutheran",
+        "landuse": "cemetery",
+        "name": "Cimitirul Luteran",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/550646213",
+      "osm_id": 550646213,
+      "osm_type": "way",
+      "name": "Cimitirul Ortodox",
+      "category": "place_of_worship",
+      "lat": 46.1396256,
+      "lon": 23.9648815,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitirul Ortodox",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/550914686",
+      "osm_id": 550914686,
+      "osm_type": "way",
+      "name": "Biserica Sf. Arhangheli Mihail și Gavril",
+      "category": "place_of_worship",
+      "lat": 46.1718427,
+      "lon": 23.9230952,
+      "tags": {
+        "alt_name": "Biserica Grecilor din Blaj",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica Sf. Arhangheli Mihail și Gavril",
+        "religion": "christian",
+        "wikidata": "Q42522489",
+        "wikipedia": "ro:Biserica Grecilor din Blaj"
+      }
+    },
+    {
+      "id": "way/550916983",
+      "osm_id": 550916983,
+      "osm_type": "way",
+      "name": "Biserica Reformată Blaj",
+      "category": "place_of_worship",
+      "lat": 46.1756929,
+      "lon": 23.9168065,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "reformed",
+        "name": "Biserica Reformată Blaj",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/550916986",
+      "osm_id": 550916986,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 46.179576,
+      "lon": 23.9246805,
+      "tags": {
+        "building": "church"
+      }
+    },
+    {
+      "id": "way/550916991",
+      "osm_id": 550916991,
+      "osm_type": "way",
+      "name": "Biserica Sfinții Apostoli Petru și Pavel",
+      "category": "place_of_worship",
+      "lat": 46.1652608,
+      "lon": 23.9259816,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Sfinții Apostoli Petru și Pavel",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/551434982",
+      "osm_id": 551434982,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 46.1585688,
+      "lon": 23.8840545,
+      "tags": {
+        "amenity": "grave_yard",
+        "denomination": "orthodox",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/551590665",
+      "osm_id": 551590665,
+      "osm_type": "way",
+      "name": "Biserica Sf. Arhangheli",
+      "category": "place_of_worship",
+      "lat": 46.168659,
+      "lon": 23.9016537,
+      "tags": {
+        "addr:street": "Strada Șipotului",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica Sf. Arhangheli",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/551590666",
+      "osm_id": 551590666,
+      "osm_type": "way",
+      "name": "Biserica Greco-Catolică Sfânta Treime",
+      "category": "place_of_worship",
+      "lat": 46.1697573,
+      "lon": 23.9060856,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "greek_catholic",
+        "name": "Biserica Greco-Catolică Sfânta Treime",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/551590671",
+      "osm_id": 551590671,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 46.1689517,
+      "lon": 23.9014868,
+      "tags": {
+        "amenity": "grave_yard",
+        "denomination": "orthodox",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/551590686",
+      "osm_id": 551590686,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 46.1637698,
+      "lon": 23.8906517,
+      "tags": {
+        "denomination": "roman_catholic",
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/552373299",
+      "osm_id": 552373299,
+      "osm_type": "way",
+      "name": "Biserica Românească Deleni-Obârșie",
+      "category": "place_of_worship",
+      "lat": 46.0953851,
+      "lon": 23.8509633,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica Românească Deleni-Obârșie",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/556999812",
+      "osm_id": 556999812,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 46.1370503,
+      "lon": 23.9431447,
+      "tags": {
+        "building": "church"
+      }
+    },
+    {
+      "id": "way/557002169",
+      "osm_id": 557002169,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 46.1697599,
+      "lon": 23.9155087,
+      "tags": {
+        "building": "church"
+      }
+    },
+    {
+      "id": "way/1096119530",
+      "osm_id": 1096119530,
+      "osm_type": "way",
+      "name": "Sanctuarul Fecioara Săracilor",
+      "category": "place_of_worship",
+      "lat": 46.1479954,
+      "lon": 23.9166306,
+      "tags": {
+        "barrier": "fence",
+        "denomination": "greek_catholic",
+        "landuse": "religious",
+        "name": "Sanctuarul Fecioara Săracilor",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1436861164",
+      "osm_id": 1436861164,
+      "osm_type": "way",
+      "name": "Biserica greco-catolica \"Sf. Apostol Andrei si Fericitul Episcop Ioan Suciu\"",
+      "category": "place_of_worship",
+      "lat": 46.1744894,
+      "lon": 23.9141399,
+      "tags": {
+        "addr:city": "Blaj",
+        "addr:street": "Strada Morii",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "greek_catholic",
+        "name": "Biserica greco-catolica \"Sf. Apostol Andrei si Fericitul Episcop Ioan Suciu\"",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1466111981",
+      "osm_id": 1466111981,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 46.1652112,
+      "lon": 23.9261499,
+      "tags": {
+        "amenity": "grave_yard",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1468446176",
+      "osm_id": 1468446176,
+      "osm_type": "way",
+      "name": "Colegiul Național „Inochentie Micu Clain”",
+      "category": "place_of_worship",
+      "lat": 46.1778961,
+      "lon": 23.9273828,
+      "tags": {
+        "addr:city": "Blaj",
+        "addr:housenumber": "2",
+        "addr:postcode": "515400",
+        "addr:street": "Strada Simion Bărnuțiu",
+        "amenity": "school",
+        "education": "school",
+        "facebook": "https://www.facebook.com/IMCBlaj/",
+        "name": "Colegiul Național „Inochentie Micu Clain”",
+        "religion": "christian",
+        "website": "https://imclain.ro/"
+      }
+    }
+  ]
+}

@@ -1,0 +1,317 @@
+[
+  {
+    "id": "node-1340724302",
+    "name": "Cabinet de Ginecologie",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 45.8430509,
+    "lng": 27.4337417,
+    "osmType": "node"
+  },
+  {
+    "id": "node-4355688295",
+    "name": "CMI dr.Aganencei Marta",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 45.8475419,
+    "lng": 27.4293814,
+    "osmType": "node"
+  },
+  {
+    "id": "node-8930556629",
+    "name": "Clinica Sante",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 45.8432289,
+    "lng": 27.4315976,
+    "osmType": "node"
+  },
+  {
+    "id": "node-13348047103",
+    "name": "Școala Postliceală FEG Education Tecuci",
+    "type": "school",
+    "subcategory": "college",
+    "lat": 45.8463703,
+    "lng": 27.4256788,
+    "osmType": "node"
+  },
+  {
+    "id": "node-13630130614",
+    "name": "Medic One - Divizia medicală",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 45.8435265,
+    "lng": 27.4302514,
+    "osmType": "node"
+  },
+  {
+    "id": "way-243819347",
+    "name": "Liceul Tehnologic Elena Caragiani",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.846877,
+    "lng": 27.426742,
+    "osmType": "way"
+  },
+  {
+    "id": "way-246337156",
+    "name": "Biserica „Înălțarea Domnului\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.8483975,
+    "lng": 27.4238126,
+    "osmType": "way"
+  },
+  {
+    "id": "way-246337157",
+    "name": "Centrul de Asistență pentru Copii cu Deficiențe Neuromotorii",
+    "type": "school",
+    "subcategory": "childcare",
+    "lat": 45.8436724,
+    "lng": 27.4313752,
+    "osmType": "way"
+  },
+  {
+    "id": "way-246337158",
+    "name": "Catedrala „Sfântul Gheorghe\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.8443388,
+    "lng": 27.4313882,
+    "osmType": "way"
+  },
+  {
+    "id": "way-247506785",
+    "name": "Biserica „Sfinții Împărați Constantin și Elena\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.8304478,
+    "lng": 27.4389696,
+    "osmType": "way"
+  },
+  {
+    "id": "way-281081311",
+    "name": "Colegiul Național „Spiru Haret”",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.8422779,
+    "lng": 27.4283206,
+    "osmType": "way"
+  },
+  {
+    "id": "way-337184481",
+    "name": "Școala Gimnazială nr. 10 „Dimitrie Sturdza”",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.8516563,
+    "lng": 27.4269464,
+    "osmType": "way"
+  },
+  {
+    "id": "way-846513395",
+    "name": "Colegiul Național de Agricultură și Economie",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.8383149,
+    "lng": 27.4360524,
+    "osmType": "way"
+  },
+  {
+    "id": "way-947274378",
+    "name": "Grădinița cu Program Prelungit Nr. 16",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 45.8448442,
+    "lng": 27.4317761,
+    "osmType": "way"
+  },
+  {
+    "id": "way-947915003",
+    "name": "Ambulatoriul de specialitate",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 45.851925,
+    "lng": 27.4284215,
+    "osmType": "way"
+  },
+  {
+    "id": "way-947917073",
+    "name": "Spitalul Municipal „Anton Cincu”",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 45.8473331,
+    "lng": 27.4379722,
+    "osmType": "way"
+  },
+  {
+    "id": "way-948398295",
+    "name": "Școala Gimnazială Anghel Rugină",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.869349,
+    "lng": 27.4230357,
+    "osmType": "way"
+  },
+  {
+    "id": "way-948438513",
+    "name": "Școala Gimnazială „Gheorghe Petrașcu”",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.8506461,
+    "lng": 27.4314233,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1124864992",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.8315153,
+    "lng": 27.4704833,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1201795118",
+    "name": "Biserica „Sfinții Arhangheli Mihail și Gavriil\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.8006968,
+    "lng": 27.4648628,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1201795120",
+    "name": "Biserica „Sfântul Mucenic Dimitrie – Izvorâtorul de Mir\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.7872486,
+    "lng": 27.4628302,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1202989120",
+    "name": "Biserica „Adormirea Maicii Domnului”",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.8408334,
+    "lng": 27.4349023,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1202989122",
+    "name": "Biserica „Sfinții Apostoli Petru și Pavel\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.8699024,
+    "lng": 27.4228824,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1202989124",
+    "name": "Biserica „Sfântul Mucenic Dimitrie – Izvorâtorul de Mir\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.8533812,
+    "lng": 27.4317922,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1202989128",
+    "name": "Biserica „Sfântul Ioan Botezătorul\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.8458617,
+    "lng": 27.4223263,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1202989134",
+    "name": "Biserica „Nașterea Maicii Domnului\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.8361504,
+    "lng": 27.4082395,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1202989136",
+    "name": "Biserica „Sfântul Nicolae\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.8466695,
+    "lng": 27.4361953,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1202989138",
+    "name": "Biserica „Sfinții Arhangheli Mihail și Gavriil\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.8500868,
+    "lng": 27.4352437,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1202989140",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.8544708,
+    "lng": 27.4413183,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1202989141",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.8562067,
+    "lng": 27.4196854,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1454982751",
+    "name": "Școala Gimnazială Iorgu Iordan",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.8295579,
+    "lng": 27.4376871,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1455482722",
+    "name": "Școala Gimnazială Nr.5 „Elena Doamna“ Tecuci",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.8459023,
+    "lng": 27.4253535,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1455482723",
+    "name": "Colegiul Național Calistrat Hogaș",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.8465796,
+    "lng": 27.4275024,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1455487256",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.8463249,
+    "lng": 27.4332844,
+    "osmType": "way"
+  },
+  {
+    "id": "relation-19932843",
+    "name": "Liceul Tehnologic „Ovid Caledoniu”",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.8357906,
+    "lng": 27.427889,
+    "osmType": "relation"
+  }
+]

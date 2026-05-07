@@ -1,0 +1,209 @@
+{
+  "city": "Oțelu Roșu",
+  "generated_at": "2026-04-23T09:51:43.128Z",
+  "counts": {
+    "total": 12,
+    "schools": 0,
+    "churches": 12
+  },
+  "pois": [
+    {
+      "id": "node/3602646173",
+      "osm_id": 3602646173,
+      "osm_type": "node",
+      "name": "Biserica Ortodoxă Mal",
+      "category": "place_of_worship",
+      "lat": 45.5032331,
+      "lon": 22.3967653,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica Ortodoxă Mal",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/5073516347",
+      "osm_id": 5073516347,
+      "osm_type": "node",
+      "name": "Biserica Pogorârea Sfântului Duh",
+      "category": "place_of_worship",
+      "lat": 45.5254933,
+      "lon": 22.371064,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "historic": "wayside_cross",
+        "name": "Biserica Pogorârea Sfântului Duh",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/5073637823",
+      "osm_id": 5073637823,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.5052741,
+      "lon": 22.336582,
+      "tags": {
+        "amenity": "place_of_worship",
+        "historic": "wayside_cross",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/520555651",
+      "osm_id": 520555651,
+      "osm_type": "way",
+      "name": "Biserica Sfinții Arhangheli",
+      "category": "place_of_worship",
+      "lat": 45.5258875,
+      "lon": 22.3877833,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica Sfinții Arhangheli",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/520555662",
+      "osm_id": 520555662,
+      "osm_type": "way",
+      "name": "Biserica Pogorârea Sfântului Duh",
+      "category": "place_of_worship",
+      "lat": 45.5255037,
+      "lon": 22.3710995,
+      "tags": {
+        "addr:city": "Oțelu Roșu",
+        "addr:street": "Bulevardul Republicii",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica Pogorârea Sfântului Duh",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/520555667",
+      "osm_id": 520555667,
+      "osm_type": "way",
+      "name": "Biserica Luterană Oțelu Roșu",
+      "category": "place_of_worship",
+      "lat": 45.5222028,
+      "lon": 22.3646921,
+      "tags": {
+        "addr:city": "Oțelu Roșu",
+        "addr:street": "Bulevardul Republicii",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "lutheran",
+        "name": "Biserica Luterană Oțelu Roșu",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/520555670",
+      "osm_id": 520555670,
+      "osm_type": "way",
+      "name": "Capela Baptistă Maranatha",
+      "category": "place_of_worship",
+      "lat": 45.5213238,
+      "lon": 22.3622149,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "baptist",
+        "name": "Capela Baptistă Maranatha",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/520555672",
+      "osm_id": 520555672,
+      "osm_type": "way",
+      "name": "Biserica Catolică Oțelu Roșu",
+      "category": "place_of_worship",
+      "lat": 45.520585,
+      "lon": 22.3621747,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "catholic",
+        "name": "Biserica Catolică Oțelu Roșu",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/520555676",
+      "osm_id": 520555676,
+      "osm_type": "way",
+      "name": "Biserica Greco-Catolică Oțelu Roșu",
+      "category": "place_of_worship",
+      "lat": 45.5189517,
+      "lon": 22.3574581,
+      "tags": {
+        "addr:city": "Oțelu Roșu",
+        "addr:street": "Strada Revoluției",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "greek_catholic",
+        "name": "Biserica Greco-Catolică Oțelu Roșu",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/520555679",
+      "osm_id": 520555679,
+      "osm_type": "way",
+      "name": "Biserica Sfinții Împărați Constantin și Elena",
+      "category": "place_of_worship",
+      "lat": 45.5155249,
+      "lon": 22.3520582,
+      "tags": {
+        "addr:city": "Oțelu Roșu",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica Sfinții Împărați Constantin și Elena",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/520555687",
+      "osm_id": 520555687,
+      "osm_type": "way",
+      "name": "Biserica Sfântul Gheorghe",
+      "category": "place_of_worship",
+      "lat": 45.5105727,
+      "lon": 22.3453471,
+      "tags": {
+        "addr:city": "Oțelu Roșu",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica Sfântul Gheorghe",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/521238251",
+      "osm_id": 521238251,
+      "osm_type": "way",
+      "name": "Cimitir Ohaba",
+      "category": "place_of_worship",
+      "lat": 45.5090287,
+      "lon": 22.3497614,
+      "tags": {
+        "addr:street": "Strada Alexandru Ioan Cuza",
+        "description": "Aici incepe vesnicia si in pulberea pamantului se vor preface averile lumesti",
+        "landuse": "cemetery",
+        "name": "Cimitir Ohaba",
+        "religion": "christian"
+      }
+    }
+  ]
+}

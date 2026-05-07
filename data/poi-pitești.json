@@ -1,0 +1,2286 @@
+{
+  "city": "Pitești",
+  "generated_at": "2026-04-23T08:54:31.037Z",
+  "counts": {
+    "total": 138,
+    "schools": 86,
+    "churches": 52
+  },
+  "pois": [
+    {
+      "id": "node/906648694",
+      "osm_id": 906648694,
+      "osm_type": "node",
+      "name": "Corp I",
+      "category": "education",
+      "lat": 44.8546836,
+      "lon": 24.8807001,
+      "tags": {
+        "alt_name": "Facultatea de Științe Socio-Umane",
+        "amenity": "university",
+        "name": "Corp I",
+        "operator": "Universitatea din Pitești",
+        "phone": "+40 348 453 290",
+        "website": "https://www.upit.ro/"
+      }
+    },
+    {
+      "id": "node/906648695",
+      "osm_id": 906648695,
+      "osm_type": "node",
+      "name": "Universitatea din Pitești corp S",
+      "category": "education",
+      "lat": 44.8552569,
+      "lon": 24.8805359,
+      "tags": {
+        "amenity": "university",
+        "name": "Universitatea din Pitești corp S"
+      }
+    },
+    {
+      "id": "node/1495075114",
+      "osm_id": 1495075114,
+      "osm_type": "node",
+      "name": "Centru educational",
+      "category": "education",
+      "lat": 44.8640431,
+      "lon": 24.8654066,
+      "tags": {
+        "amenity": "school",
+        "name": "Centru educational"
+      }
+    },
+    {
+      "id": "node/1495075286",
+      "osm_id": 1495075286,
+      "osm_type": "node",
+      "name": "Colegiul Național Zinca Golescu",
+      "category": "education",
+      "lat": 44.8535338,
+      "lon": 24.8742658,
+      "tags": {
+        "addr:city": "Pitești",
+        "addr:housenumber": "34",
+        "addr:postcode": "110049",
+        "addr:street": "Strada Egalității",
+        "amenity": "school",
+        "name": "Colegiul Național Zinca Golescu",
+        "website": "https://zinca-golescu.ro/"
+      }
+    },
+    {
+      "id": "node/1495075471",
+      "osm_id": 1495075471,
+      "osm_type": "node",
+      "name": "Școala de Limbi Străine Lexis",
+      "category": "education",
+      "lat": 44.8556942,
+      "lon": 24.8644077,
+      "tags": {
+        "amenity": "school",
+        "name": "Școala de Limbi Străine Lexis"
+      }
+    },
+    {
+      "id": "node/1495075605",
+      "osm_id": 1495075605,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.829079,
+      "lon": 24.9146264,
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "node/1495076059",
+      "osm_id": 1495076059,
+      "osm_type": "node",
+      "name": "Colegiul Tehnic \"Costin D. Nenițescu\"",
+      "category": "education",
+      "lat": 44.83153,
+      "lon": 24.9098367,
+      "tags": {
+        "addr:city": "Pitești",
+        "addr:housenumber": "23",
+        "addr:street": "Bulevardul Petrochimiștilor",
+        "amenity": "school",
+        "name": "Colegiul Tehnic \"Costin D. Nenițescu\"",
+        "website": "https://ctnenitescu.ro/wp_nenitescu/"
+      }
+    },
+    {
+      "id": "node/2615981592",
+      "osm_id": 2615981592,
+      "osm_type": "node",
+      "name": "Corp T",
+      "category": "education",
+      "lat": 44.8548967,
+      "lon": 24.8814791,
+      "tags": {
+        "amenity": "university",
+        "name": "Corp T",
+        "opening_hours": "Mo-Fr 08:00-20:30",
+        "operator": "Universitatea din Pitești",
+        "phone": "+40 348 453 240",
+        "source": "survey September 2013",
+        "website": "https://www.upit.ro/"
+      }
+    },
+    {
+      "id": "node/3131452345",
+      "osm_id": 3131452345,
+      "osm_type": "node",
+      "name": "Colegiul Tehnic Dimitrie Dima",
+      "category": "education",
+      "lat": 44.8416324,
+      "lon": 24.8733223,
+      "tags": {
+        "addr:city": "Pitești",
+        "alt_name": "Liceul Tehnologic „Dimitrie Dima“ Piteşti",
+        "amenity": "school",
+        "name": "Colegiul Tehnic Dimitrie Dima",
+        "website": "https://dimitriedimapitesti.ro/"
+      }
+    },
+    {
+      "id": "node/4046535745",
+      "osm_id": 4046535745,
+      "osm_type": "node",
+      "name": "Colegiul Tehnic Armand Călinescu",
+      "category": "education",
+      "lat": 44.8598443,
+      "lon": 24.8719715,
+      "tags": {
+        "addr:city": "Pitești",
+        "amenity": "school",
+        "grades": "9-12",
+        "name": "Colegiul Tehnic Armand Călinescu",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/13333634251",
+      "osm_id": 13333634251,
+      "osm_type": "node",
+      "name": "Școala Militară de Maiștri Militari și Subofițeri a Forțelor Terestre „Basarab I”",
+      "category": "education",
+      "lat": 44.8601449,
+      "lon": 24.8621693,
+      "tags": {
+        "access": "private",
+        "addr:city": "Pitești",
+        "addr:housenumber": "16",
+        "addr:street": "Strada Trivale",
+        "amenity": "school",
+        "education": "training",
+        "military_service": "army",
+        "name": "Școala Militară de Maiștri Militari și Subofițeri a Forțelor Terestre „Basarab I”",
+        "operator": "Ministerul Apărării Naționale",
+        "operator:type": "government",
+        "phone": "0248215900",
+        "school:type": "military",
+        "website": "https://www.ncoacademy.ro/index.html"
+      }
+    },
+    {
+      "id": "node/13335414836",
+      "osm_id": 13335414836,
+      "osm_type": "node",
+      "name": "Facultatea de Teologie Ortodoxă",
+      "category": "education",
+      "lat": 44.8422086,
+      "lon": 24.890059,
+      "tags": {
+        "amenity": "university",
+        "education": "university",
+        "name": "Facultatea de Teologie Ortodoxă"
+      }
+    },
+    {
+      "id": "node/13335414851",
+      "osm_id": 13335414851,
+      "osm_type": "node",
+      "name": "Facultatea de Litere",
+      "category": "education",
+      "lat": 44.8425777,
+      "lon": 24.8907725,
+      "tags": {
+        "amenity": "university",
+        "education": "university",
+        "name": "Facultatea de Litere"
+      }
+    },
+    {
+      "id": "node/13335414852",
+      "osm_id": 13335414852,
+      "osm_type": "node",
+      "name": "Facultatea de Educație Fizică și Sport",
+      "category": "education",
+      "lat": 44.842192,
+      "lon": 24.8910042,
+      "tags": {
+        "amenity": "university",
+        "education": "university",
+        "name": "Facultatea de Educație Fizică și Sport"
+      }
+    },
+    {
+      "id": "way/136266332",
+      "osm_id": 136266332,
+      "osm_type": "way",
+      "name": "Școala Gimnazială „Marin Preda”",
+      "category": "education",
+      "lat": 44.8633114,
+      "lon": 24.8734868,
+      "tags": {
+        "addr:city": "Pitești",
+        "addr:housenumber": "37",
+        "addr:postcode": "110154",
+        "addr:street": "Strada Pictor Nicolae Grigorescu",
+        "amenity": "school",
+        "building": "school",
+        "building:levels": "3",
+        "grades": "0-8",
+        "name": "Școala Gimnazială „Marin Preda”",
+        "operator": "Primaria Pitesti",
+        "operator:type": "public",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/136266792",
+      "osm_id": 136266792,
+      "osm_type": "way",
+      "name": "Grup Școlar Nr. 2",
+      "category": "education",
+      "lat": 44.8516886,
+      "lon": 24.8660411,
+      "tags": {
+        "amenity": "school",
+        "building": "school",
+        "building:levels": "5",
+        "name": "Grup Școlar Nr. 2"
+      }
+    },
+    {
+      "id": "way/136267513",
+      "osm_id": 136267513,
+      "osm_type": "way",
+      "name": "Gradinita Marin Preda",
+      "category": "education",
+      "lat": 44.8630634,
+      "lon": 24.8727653,
+      "tags": {
+        "building": "kindergarten",
+        "building:levels": "3",
+        "name": "Gradinita Marin Preda"
+      }
+    },
+    {
+      "id": "way/136267859",
+      "osm_id": 136267859,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.8558469,
+      "lon": 24.8691245,
+      "tags": {
+        "addr:city": "Pitești",
+        "addr:housenumber": "6",
+        "addr:postcode": "110054",
+        "addr:street": "Intrarea Rahovei",
+        "building": "school",
+        "building:levels": "4"
+      }
+    },
+    {
+      "id": "way/136267944",
+      "osm_id": 136267944,
+      "osm_type": "way",
+      "name": "Școala Gimnazială „Matei Basarab” Corpul vechi( A&B)",
+      "category": "education",
+      "lat": 44.8680078,
+      "lon": 24.8455881,
+      "tags": {
+        "addr:city": "Pitești",
+        "addr:housenumber": "5",
+        "addr:postcode": "110310",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Gion Ionescu Gheorghe",
+        "amenity": "school",
+        "building": "school",
+        "building:levels": "5",
+        "grades": "0-8",
+        "name": "Școala Gimnazială „Matei Basarab” Corpul vechi( A&B)",
+        "website": "https://www.scoalamateibasarab.ro/online/"
+      }
+    },
+    {
+      "id": "way/136268120",
+      "osm_id": 136268120,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.8738314,
+      "lon": 24.8476786,
+      "tags": {
+        "addr:city": "Pitești",
+        "addr:housenumber": "141",
+        "addr:postcode": "110298",
+        "addr:street": "Bulevardul Nicolae Bălcescu",
+        "building": "school",
+        "building:levels": "4"
+      }
+    },
+    {
+      "id": "way/136268145",
+      "osm_id": 136268145,
+      "osm_type": "way",
+      "name": "Liceul Teoretic \"Ion Cantacuzino\"",
+      "category": "education",
+      "lat": 44.8700688,
+      "lon": 24.8430826,
+      "tags": {
+        "amenity": "school",
+        "building": "yes",
+        "building:levels": "3",
+        "grades": "9-12",
+        "name": "Liceul Teoretic \"Ion Cantacuzino\""
+      }
+    },
+    {
+      "id": "way/136268176",
+      "osm_id": 136268176,
+      "osm_type": "way",
+      "name": "Școala Gimnazială „Tudor Mușatescu”",
+      "category": "education",
+      "lat": 44.8415482,
+      "lon": 24.8771002,
+      "tags": {
+        "addr:city": "Pitești",
+        "addr:housenumber": "3",
+        "addr:postcode": "110251",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Vasile Pârvan",
+        "amenity": "school",
+        "building": "school",
+        "building:levels": "3",
+        "name": "Școala Gimnazială „Tudor Mușatescu”"
+      }
+    },
+    {
+      "id": "way/136268364",
+      "osm_id": 136268364,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.8411432,
+      "lon": 24.8734199,
+      "tags": {
+        "building": "school",
+        "building:levels": "2"
+      }
+    },
+    {
+      "id": "way/136268741",
+      "osm_id": 136268741,
+      "osm_type": "way",
+      "name": "Universitatea din Pitești - Corp D",
+      "category": "education",
+      "lat": 44.8544776,
+      "lon": 24.8626428,
+      "tags": {
+        "addr:city": "Pitești",
+        "addr:postcode": "110040",
+        "amenity": "university",
+        "building": "yes",
+        "building:levels": "5",
+        "name": "Universitatea din Pitești - Corp D"
+      }
+    },
+    {
+      "id": "way/136268829",
+      "osm_id": 136268829,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.8492813,
+      "lon": 24.8547466,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/136269055",
+      "osm_id": 136269055,
+      "osm_type": "way",
+      "name": "Școala Gimnazială „Mircea cel Bătrân”",
+      "category": "education",
+      "lat": 44.8477301,
+      "lon": 24.8492266,
+      "tags": {
+        "addr:city": "Pitești",
+        "addr:housenumber": "3",
+        "addr:postcode": "110380",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Zimbrului",
+        "amenity": "school",
+        "building": "yes",
+        "name": "Școala Gimnazială „Mircea cel Bătrân”"
+      }
+    },
+    {
+      "id": "way/136269080",
+      "osm_id": 136269080,
+      "osm_type": "way",
+      "name": "Școala Postliceală Carol Davila",
+      "category": "education",
+      "lat": 44.8710005,
+      "lon": 24.8494797,
+      "tags": {
+        "amenity": "school",
+        "building": "school",
+        "building:levels": "2",
+        "name": "Școala Postliceală Carol Davila"
+      }
+    },
+    {
+      "id": "way/136269115",
+      "osm_id": 136269115,
+      "osm_type": "way",
+      "name": "Colegiul National Zinca Golescu",
+      "category": "education",
+      "lat": 44.8533985,
+      "lon": 24.8743907,
+      "tags": {
+        "amenity": "school",
+        "building": "yes",
+        "name": "Colegiul National Zinca Golescu"
+      }
+    },
+    {
+      "id": "way/136269419",
+      "osm_id": 136269419,
+      "osm_type": "way",
+      "name": "Sunrise Kindergarden",
+      "category": "education",
+      "lat": 44.8628205,
+      "lon": 24.8731438,
+      "tags": {
+        "building": "kindergarten",
+        "building:levels": "1",
+        "name": "Sunrise Kindergarden"
+      }
+    },
+    {
+      "id": "way/136269594",
+      "osm_id": 136269594,
+      "osm_type": "way",
+      "name": "Sala Sport",
+      "category": "education",
+      "lat": 44.851743,
+      "lon": 24.8703771,
+      "tags": {
+        "building": "school",
+        "building:levels": "6",
+        "leisure": "sports_centre",
+        "name": "Sala Sport",
+        "sport": "multi"
+      }
+    },
+    {
+      "id": "way/136270314",
+      "osm_id": 136270314,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.8410068,
+      "lon": 24.8729449,
+      "tags": {
+        "building": "school",
+        "building:levels": "4"
+      }
+    },
+    {
+      "id": "way/136270572",
+      "osm_id": 136270572,
+      "osm_type": "way",
+      "name": "Școala nr 9 / Liceul teologic penticostal",
+      "category": "education",
+      "lat": 44.8633411,
+      "lon": 24.8624126,
+      "tags": {
+        "amenity": "school",
+        "building": "yes",
+        "building:levels": "3",
+        "name": "Școala nr 9 / Liceul teologic penticostal"
+      }
+    },
+    {
+      "id": "way/136271125",
+      "osm_id": 136271125,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.8413278,
+      "lon": 24.8724161,
+      "tags": {
+        "building": "school",
+        "building:levels": "4"
+      }
+    },
+    {
+      "id": "way/136271684",
+      "osm_id": 136271684,
+      "osm_type": "way",
+      "name": "Școala Gimnazială „Negru Vodă”",
+      "category": "education",
+      "lat": 44.8489342,
+      "lon": 24.854676,
+      "tags": {
+        "addr:city": "Pitești",
+        "addr:housenumber": "12",
+        "addr:street": "Strada Bradului",
+        "building": "school",
+        "name": "Școala Gimnazială „Negru Vodă”"
+      }
+    },
+    {
+      "id": "way/136271809",
+      "osm_id": 136271809,
+      "osm_type": "way",
+      "name": "Liceul Teoretic \"Ion Cantacuzino\"",
+      "category": "education",
+      "lat": 44.8707287,
+      "lon": 24.8445772,
+      "tags": {
+        "addr:city": "Pitești",
+        "addr:housenumber": "2",
+        "addr:postcode": "110286",
+        "addr:street": "Strada Carol Davila",
+        "amenity": "school",
+        "building": "school",
+        "building:levels": "3",
+        "denomination": "romanian_orthodox",
+        "grades": "9-12",
+        "name": "Liceul Teoretic \"Ion Cantacuzino\"",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/136271924",
+      "osm_id": 136271924,
+      "osm_type": "way",
+      "name": "Școala Gimnazială „Alexandru Davila”",
+      "category": "education",
+      "lat": 44.8678691,
+      "lon": 24.8620158,
+      "tags": {
+        "addr:city": "Pitești",
+        "addr:housename": "Școala Generală Nr.14",
+        "addr:housenumber": "10",
+        "addr:postcode": "110080",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Făgăraș",
+        "amenity": "school",
+        "building": "school",
+        "building:levels": "3",
+        "grades": "0-8",
+        "name": "Școala Gimnazială „Alexandru Davila”",
+        "website": "https://scoalaalexandrudavilapitesti.ro/"
+      }
+    },
+    {
+      "id": "way/136271997",
+      "osm_id": 136271997,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.8415215,
+      "lon": 24.8730295,
+      "tags": {
+        "building": "school",
+        "building:levels": "4"
+      }
+    },
+    {
+      "id": "way/136272273",
+      "osm_id": 136272273,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.8415385,
+      "lon": 24.8740931,
+      "tags": {
+        "building": "school",
+        "building:levels": "4"
+      }
+    },
+    {
+      "id": "way/137371573",
+      "osm_id": 137371573,
+      "osm_type": "way",
+      "name": "Școala Gimnazială „Tudor Vladimirescu”",
+      "category": "education",
+      "lat": 44.8481025,
+      "lon": 24.8896024,
+      "tags": {
+        "addr:city": "Pitești",
+        "addr:housenumber": "3",
+        "addr:postcode": "110194",
+        "addr:street": "Strada Călugăreni",
+        "amenity": "school",
+        "building": "school",
+        "building:levels": "4",
+        "name": "Școala Gimnazială „Tudor Vladimirescu”"
+      }
+    },
+    {
+      "id": "way/178207948",
+      "osm_id": 178207948,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.8445598,
+      "lon": 24.8766558,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/178236803",
+      "osm_id": 178236803,
+      "osm_type": "way",
+      "name": "Școala Gimnazială „Traian”",
+      "category": "education",
+      "lat": 44.8516274,
+      "lon": 24.870541,
+      "tags": {
+        "addr:city": "Pitești",
+        "addr:housenumber": "35",
+        "addr:postcode": "110424",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Traian",
+        "amenity": "school",
+        "building": "school",
+        "grades": "0-8",
+        "name": "Școala Gimnazială „Traian”",
+        "website": "https://scoalagimnazialatraianpitesti.ro/"
+      }
+    },
+    {
+      "id": "way/178495662",
+      "osm_id": 178495662,
+      "osm_type": "way",
+      "name": "Liceul Teoretic Ion Barbu",
+      "category": "education",
+      "lat": 44.850205,
+      "lon": 24.8688725,
+      "tags": {
+        "addr:city": "Pitești",
+        "addr:housenumber": "6",
+        "addr:street": "Strada Transilvania",
+        "amenity": "college",
+        "building": "school",
+        "name": "Liceul Teoretic Ion Barbu",
+        "phone": "+ 04 0248 217 730",
+        "website": "https://sites.google.com/ltibp.ro/licionbarbu/acasa/"
+      }
+    },
+    {
+      "id": "way/178668842",
+      "osm_id": 178668842,
+      "osm_type": "way",
+      "name": "Liceul de Artă Dinu Lipatti",
+      "category": "education",
+      "lat": 44.8469257,
+      "lon": 24.8769257,
+      "tags": {
+        "addr:city": "Pitești",
+        "addr:housenumber": "2",
+        "addr:street": "Strada Pătrașcu Vodă",
+        "amenity": "college",
+        "name": "Liceul de Artă Dinu Lipatti",
+        "website": "https://www.lipattipitesti.ro/"
+      }
+    },
+    {
+      "id": "way/178673505",
+      "osm_id": 178673505,
+      "osm_type": "way",
+      "name": "Liceul Tehnologic Constantin Brancusi",
+      "category": "education",
+      "lat": 44.8477915,
+      "lon": 24.8776823,
+      "tags": {
+        "addr:city": "Pitești",
+        "addr:housenumber": "2",
+        "addr:postcode": "110223",
+        "addr:street": "Strada Pătrașcu Vodă",
+        "amenity": "college",
+        "building": "school",
+        "email": "licteh_c.brancusi_pitesti@yahoo.com",
+        "name": "Liceul Tehnologic Constantin Brancusi"
+      }
+    },
+    {
+      "id": "way/178673757",
+      "osm_id": 178673757,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.84762,
+      "lon": 24.8772729,
+      "tags": {
+        "amenity": "college"
+      }
+    },
+    {
+      "id": "way/178677797",
+      "osm_id": 178677797,
+      "osm_type": "way",
+      "name": "Sala Sport",
+      "category": "education",
+      "lat": 44.8444757,
+      "lon": 24.8762908,
+      "tags": {
+        "building": "school",
+        "leisure": "sports_centre",
+        "name": "Sala Sport",
+        "sport": "multi"
+      }
+    },
+    {
+      "id": "way/178677798",
+      "osm_id": 178677798,
+      "osm_type": "way",
+      "name": "Școala Gimnazială „Ion Minulescu”",
+      "category": "education",
+      "lat": 44.844436,
+      "lon": 24.8767897,
+      "tags": {
+        "addr:city": "Pitești",
+        "addr:housenumber": "206",
+        "addr:postcode": "110210",
+        "addr:street": "Strada Exercițiu",
+        "amenity": "school",
+        "name": "Școala Gimnazială „Ion Minulescu”",
+        "phone": "+40 248251452",
+        "website": "http://www.i-minulescu-pitesti.ro/"
+      }
+    },
+    {
+      "id": "way/178677799",
+      "osm_id": 178677799,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.8445078,
+      "lon": 24.8773211,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/181482423",
+      "osm_id": 181482423,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.8515711,
+      "lon": 24.8706911,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/181492406",
+      "osm_id": 181492406,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.8440891,
+      "lon": 24.892013,
+      "tags": {
+        "amenity": "school",
+        "building": "yes"
+      }
+    },
+    {
+      "id": "way/181492412",
+      "osm_id": 181492412,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Nr. 8",
+      "category": "education",
+      "lat": 44.8439729,
+      "lon": 24.8919705,
+      "tags": {
+        "addr:city": "Pitești",
+        "amenity": "school",
+        "name": "Școala Gimnazială Nr. 8"
+      }
+    },
+    {
+      "id": "way/216537800",
+      "osm_id": 216537800,
+      "osm_type": "way",
+      "name": "Universitatea Pitești Rectorat",
+      "category": "education",
+      "lat": 44.8546482,
+      "lon": 24.8818256,
+      "tags": {
+        "addr:city": "Pitești",
+        "addr:housenumber": "1",
+        "addr:postcode": "110040",
+        "addr:street": "Strada Târgul din Vale",
+        "amenity": "university",
+        "name": "Universitatea Pitești Rectorat",
+        "opening_hours": "Mo-Fr 08:00-16:00",
+        "phone": "+40 348 453 102",
+        "source": "Survey September 2013",
+        "website": "https://www.upit.ro/"
+      }
+    },
+    {
+      "id": "way/255880920",
+      "osm_id": 255880920,
+      "osm_type": "way",
+      "name": "Facultatea de Științe Economice și Administrative",
+      "category": "education",
+      "lat": 44.8545013,
+      "lon": 24.8758319,
+      "tags": {
+        "addr:city": "Pitești",
+        "addr:housenumber": "71",
+        "addr:postcode": "110014",
+        "addr:street": "Bulevardul Republicii",
+        "alt_name": "Corp C",
+        "amenity": "university",
+        "building": "yes",
+        "name": "Facultatea de Științe Economice și Administrative",
+        "opening_hours": "Mo-Fr 08:00-20:30",
+        "operator": "Universitatea din Pitești",
+        "phone": "+40 348 453 370",
+        "source": "Survey September 2013",
+        "website": "https://www.upit.ro/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "id": "way/261093291",
+      "osm_id": 261093291,
+      "osm_type": "way",
+      "name": "Școala Gimnazială „Tudor Arghezi”",
+      "category": "education",
+      "lat": 44.8371714,
+      "lon": 24.9028126,
+      "tags": {
+        "addr:city": "Pitești",
+        "addr:district": "Prundu",
+        "addr:housenumber": "7",
+        "addr:postcode": "110171",
+        "addr:street": "Strada Horia, Cloșca și Crișan",
+        "amenity": "school",
+        "building": "yes",
+        "education": "school",
+        "name": "Școala Gimnazială „Tudor Arghezi”",
+        "old_name": "Școala nr. 7",
+        "phone": "+40 248216990",
+        "website": "https://scoala7pitesti.ro/"
+      }
+    },
+    {
+      "id": "way/261100181",
+      "osm_id": 261100181,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.8375879,
+      "lon": 24.9035301,
+      "tags": {
+        "amenity": "kindergarten",
+        "building": "yes",
+        "education": "kindergarten"
+      }
+    },
+    {
+      "id": "way/261100202",
+      "osm_id": 261100202,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.8319854,
+      "lon": 24.9109068,
+      "tags": {
+        "amenity": "school",
+        "building": "yes"
+      }
+    },
+    {
+      "id": "way/261100217",
+      "osm_id": 261100217,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.8311788,
+      "lon": 24.9102067,
+      "tags": {
+        "amenity": "school",
+        "building": "yes"
+      }
+    },
+    {
+      "id": "way/307913972",
+      "osm_id": 307913972,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.8418676,
+      "lon": 24.8727058,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/307913973",
+      "osm_id": 307913973,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.8419052,
+      "lon": 24.8734918,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/319082127",
+      "osm_id": 319082127,
+      "osm_type": "way",
+      "name": "Școala Gimnazială „Nicolae Simonide”",
+      "category": "education",
+      "lat": 44.860591,
+      "lon": 24.8747022,
+      "tags": {
+        "addr:city": "Pitești",
+        "addr:housenumber": "50",
+        "addr:postcode": "110109",
+        "addr:street": "Strada 9 Mai",
+        "amenity": "school",
+        "building": "school",
+        "grades": "0-8",
+        "name": "Școala Gimnazială „Nicolae Simonide”"
+      }
+    },
+    {
+      "id": "way/319082128",
+      "osm_id": 319082128,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.8601513,
+      "lon": 24.8719008,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/319146273",
+      "osm_id": 319146273,
+      "osm_type": "way",
+      "name": "Școala Gimnazială „Nicolae Iorga”",
+      "category": "education",
+      "lat": 44.8567606,
+      "lon": 24.8802838,
+      "tags": {
+        "addr:city": "Pitești",
+        "addr:housenumber": "5",
+        "addr:postcode": "110036",
+        "addr:street": "Strada Râurilor",
+        "amenity": "school",
+        "building": "school",
+        "name": "Școala Gimnazială „Nicolae Iorga”"
+      }
+    },
+    {
+      "id": "way/439221875",
+      "osm_id": 439221875,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.852468,
+      "lon": 24.8651658,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/538349814",
+      "osm_id": 538349814,
+      "osm_type": "way",
+      "name": "Colegiul Economic „Maria Teiuleanu”",
+      "category": "education",
+      "lat": 44.8546458,
+      "lon": 24.8779212,
+      "tags": {
+        "addr:city": "Pitești",
+        "addr:street": "Strada Teiuleanu",
+        "amenity": "school",
+        "building": "school",
+        "grades": "9-12",
+        "name": "Colegiul Economic „Maria Teiuleanu”",
+        "website": "http://ecopit.eu/"
+      }
+    },
+    {
+      "id": "way/542676521",
+      "osm_id": 542676521,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.872536,
+      "lon": 24.8394824,
+      "tags": {
+        "addr:city": "Pitești",
+        "addr:housenumber": "2",
+        "addr:postcode": "110276",
+        "addr:street": "Strada Paltinului",
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/989448621",
+      "osm_id": 989448621,
+      "osm_type": "way",
+      "name": "Universitatea Constantin Brâncoveanu",
+      "category": "education",
+      "lat": 44.8699018,
+      "lon": 24.860018,
+      "tags": {
+        "addr:city": "Pitești",
+        "addr:street": "Calea Bascovului",
+        "amenity": "university",
+        "name": "Universitatea Constantin Brâncoveanu",
+        "phone": "+40 248212627",
+        "website": "https://www.univcb.ro/"
+      }
+    },
+    {
+      "id": "way/1158374048",
+      "osm_id": 1158374048,
+      "osm_type": "way",
+      "name": "Liceul Economic",
+      "category": "education",
+      "lat": 44.8527787,
+      "lon": 24.865637,
+      "tags": {
+        "amenity": "school",
+        "name": "Liceul Economic"
+      }
+    },
+    {
+      "id": "way/1182043958",
+      "osm_id": 1182043958,
+      "osm_type": "way",
+      "name": "Scoala Gimnaziala \"Matei Basarab\" Corpul nou( C&D)",
+      "category": "education",
+      "lat": 44.8673226,
+      "lon": 24.8452628,
+      "tags": {
+        "addr:city": "Pitești",
+        "amenity": "school",
+        "building": "school",
+        "building:levels": "2",
+        "grades": "0-8",
+        "name": "Scoala Gimnaziala \"Matei Basarab\" Corpul nou( C&D)"
+      }
+    },
+    {
+      "id": "way/1182303991",
+      "osm_id": 1182303991,
+      "osm_type": "way",
+      "name": "Grădinița cu program prelungit ”Micul Prinț”",
+      "category": "education",
+      "lat": 44.8466781,
+      "lon": 24.8505405,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Grădinița cu program prelungit ”Micul Prinț”"
+      }
+    },
+    {
+      "id": "way/1182312839",
+      "osm_id": 1182312839,
+      "osm_type": "way",
+      "name": "Școala Gimnaziala I.L. Caragiale",
+      "category": "education",
+      "lat": 44.8489714,
+      "lon": 24.870225,
+      "tags": {
+        "addr:city": "Pitești",
+        "addr:street": "Intrarea Petrache Poenaru",
+        "amenity": "school",
+        "grades": "0-8",
+        "name": "Școala Gimnaziala I.L. Caragiale"
+      }
+    },
+    {
+      "id": "way/1182680986",
+      "osm_id": 1182680986,
+      "osm_type": "way",
+      "name": "Liceul Astra",
+      "category": "education",
+      "lat": 44.8431997,
+      "lon": 24.8711793,
+      "tags": {
+        "addr:city": "Pitești",
+        "addr:housenumber": "3",
+        "addr:street": "Strada Nicolae Dobrin",
+        "building": "school",
+        "name": "Liceul Astra"
+      }
+    },
+    {
+      "id": "way/1187815874",
+      "osm_id": 1187815874,
+      "osm_type": "way",
+      "name": "Universitatea din Pitești",
+      "category": "education",
+      "lat": 44.8539294,
+      "lon": 24.8674162,
+      "tags": {
+        "amenity": "university",
+        "name": "Universitatea din Pitești"
+      }
+    },
+    {
+      "id": "way/1233024129",
+      "osm_id": 1233024129,
+      "osm_type": "way",
+      "name": "Grădinița cu Program Prelungit \"Luminișul Pãdurii\" Pitești",
+      "category": "education",
+      "lat": 44.8518864,
+      "lon": 24.8545796,
+      "tags": {
+        "addr:city": "Pitești",
+        "addr:housenumber": "10",
+        "addr:street": "Strada Frasinului",
+        "building": "kindergarten",
+        "building:levels": "2",
+        "name": "Grădinița cu Program Prelungit \"Luminișul Pãdurii\" Pitești",
+        "website": "https://www.facebook.com/gradinitaluminisulpadurii/?locale=ro_RO"
+      }
+    },
+    {
+      "id": "way/1233025924",
+      "osm_id": 1233025924,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.8503327,
+      "lon": 24.8688085,
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "way/1293356414",
+      "osm_id": 1293356414,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.8314869,
+      "lon": 24.9104467,
+      "tags": {
+        "amenity": "school",
+        "building": "yes"
+      }
+    },
+    {
+      "id": "way/1293356415",
+      "osm_id": 1293356415,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.8314975,
+      "lon": 24.9107809,
+      "tags": {
+        "amenity": "school",
+        "building": "yes"
+      }
+    },
+    {
+      "id": "way/1319698314",
+      "osm_id": 1319698314,
+      "osm_type": "way",
+      "name": "Școala Gimnazială „Nicolae Bălcescu”",
+      "category": "education",
+      "lat": 44.8736545,
+      "lon": 24.847708,
+      "tags": {
+        "amenity": "school",
+        "denomination": "romanian_orthodox",
+        "email": "scoala6pitesti@yahoo.com",
+        "grades": "0-8",
+        "name": "Școala Gimnazială „Nicolae Bălcescu”",
+        "phone": "+40 0248 287 058",
+        "religion": "christian",
+        "website": "http://balcescupitesti.ro/"
+      }
+    },
+    {
+      "id": "way/1338227788",
+      "osm_id": 1338227788,
+      "osm_type": "way",
+      "name": "Parculet Zinca",
+      "category": "education",
+      "lat": 44.8528489,
+      "lon": 24.8737468,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "grades": "5-12",
+        "name": "Parculet Zinca",
+        "operator": "Zinca"
+      }
+    },
+    {
+      "id": "way/1421415842",
+      "osm_id": 1421415842,
+      "osm_type": "way",
+      "name": "Școala Gimnazială „Ion Pillat”",
+      "category": "education",
+      "lat": 44.8557292,
+      "lon": 24.8690514,
+      "tags": {
+        "amenity": "school",
+        "grades": "0-8",
+        "name": "Școala Gimnazială „Ion Pillat”",
+        "religion": "christian",
+        "website": "https://scoala3pitesti.ro/"
+      }
+    },
+    {
+      "id": "way/1454085333",
+      "osm_id": 1454085333,
+      "osm_type": "way",
+      "name": "Universitatea din Pitești Corp B",
+      "category": "education",
+      "lat": 44.8418252,
+      "lon": 24.8919683,
+      "tags": {
+        "amenity": "university",
+        "education": "university",
+        "name": "Universitatea din Pitești Corp B"
+      }
+    },
+    {
+      "id": "way/1454147113",
+      "osm_id": 1454147113,
+      "osm_type": "way",
+      "name": "Grădinița Îngerașii",
+      "category": "education",
+      "lat": 44.8384974,
+      "lon": 24.8895231,
+      "tags": {
+        "addr:city": "Pitești",
+        "addr:housenumber": "29B",
+        "addr:street": "Strada Dârzu",
+        "amenity": "kindergarten",
+        "barrier": "fence",
+        "education": "kindergarten",
+        "name": "Grădinița Îngerașii",
+        "preschool": "no",
+        "website": "https://gradinitaingerasii.ro/"
+      }
+    },
+    {
+      "id": "way/1454152245",
+      "osm_id": 1454152245,
+      "osm_type": "way",
+      "name": "Grădinița Așchiuță",
+      "category": "education",
+      "lat": 44.8369091,
+      "lon": 24.8855889,
+      "tags": {
+        "addr:city": "Pitești",
+        "addr:street": "Strada Primăverii 2",
+        "amenity": "kindergarten",
+        "education": "kindergarten",
+        "name": "Grădinița Așchiuță",
+        "phone": "0745324698",
+        "website": "https://www.gradinitaaschiuta.ro/"
+      }
+    },
+    {
+      "id": "way/1467996453",
+      "osm_id": 1467996453,
+      "osm_type": "way",
+      "name": "Școala Gimnazială „Adrian Păunescu”",
+      "category": "education",
+      "lat": 44.8722549,
+      "lon": 24.8395186,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "email": "scoalanr15_pitesti@yahoo.com",
+        "grades": "0-8",
+        "name": "Școala Gimnazială „Adrian Păunescu”",
+        "phone": "+40 0248 287 676",
+        "start_date": "1977-09-01",
+        "website": "https://sc15pitesti.ro/"
+      }
+    },
+    {
+      "id": "relation/1835650",
+      "osm_id": 1835650,
+      "osm_type": "relation",
+      "name": "Colegiul Național „Ion C. Brătianu\"",
+      "category": "education",
+      "lat": 44.8575395,
+      "lon": 24.8682424,
+      "tags": {
+        "addr:city": "Pitești",
+        "addr:housenumber": "14",
+        "addr:postcode": "110047",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Armand Călinescu",
+        "amenity": "school",
+        "building": "college",
+        "building:levels": "3",
+        "name": "Colegiul Național „Ion C. Brătianu\"",
+        "start_date": "1866",
+        "type": "multipolygon"
+      }
+    },
+    {
+      "id": "relation/17731046",
+      "osm_id": 17731046,
+      "osm_type": "relation",
+      "name": "Școala Gimnazială „Mircea Eliade”",
+      "category": "education",
+      "lat": 44.8324278,
+      "lon": 24.909726,
+      "tags": {
+        "addr:city": "Pitești",
+        "addr:housenumber": "31",
+        "addr:postcode": "110180",
+        "addr:street": "Bulevardul Petrochimiștilor",
+        "amenity": "school",
+        "building": "school",
+        "email": "scoala18pitesti@yahoo.com",
+        "grades": "0-8",
+        "name": "Școala Gimnazială „Mircea Eliade”",
+        "type": "multipolygon",
+        "website": "https://scoalamirceaeliadepitesti.ro/"
+      }
+    },
+    {
+      "id": "relation/17731047",
+      "osm_id": 17731047,
+      "osm_type": "relation",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.8314985,
+      "lon": 24.9095745,
+      "tags": {
+        "amenity": "school",
+        "building": "yes",
+        "type": "multipolygon"
+      }
+    },
+    {
+      "id": "node/1316062700",
+      "osm_id": 1316062700,
+      "osm_type": "node",
+      "name": "Mănăstirea Trivale",
+      "category": "place_of_worship",
+      "lat": 44.8531487,
+      "lon": 24.8488399,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Mănăstirea Trivale",
+        "religion": "christian",
+        "source": "jonutzu@gpszone.ro"
+      }
+    },
+    {
+      "id": "node/1495075634",
+      "osm_id": 1495075634,
+      "osm_type": "node",
+      "name": "Martorii lui Iehova",
+      "category": "place_of_worship",
+      "lat": 44.8729673,
+      "lon": 24.8451073,
+      "tags": {
+        "addr:city": "Pitești",
+        "addr:street": "Strada Carpenului",
+        "amenity": "place_of_worship",
+        "denomination": "jehovahs_witness",
+        "name": "Martorii lui Iehova",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/1495075921",
+      "osm_id": 1495075921,
+      "osm_type": "node",
+      "name": "Biserica Sfintele Femei Mironosițe și Nașterea Maicii Domnului",
+      "category": "place_of_worship",
+      "lat": 44.8740389,
+      "lon": 24.8451773,
+      "tags": {
+        "addr:city": "Pitești",
+        "addr:street": "Strada Carpenului",
+        "amenity": "place_of_worship",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica Sfintele Femei Mironosițe și Nașterea Maicii Domnului",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/2506221445",
+      "osm_id": 2506221445,
+      "osm_type": "node",
+      "name": "Biserica Sf Gheorghe",
+      "category": "place_of_worship",
+      "lat": 44.850697,
+      "lon": 24.8633464,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Sf Gheorghe",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/2647594101",
+      "osm_id": 2647594101,
+      "osm_type": "node",
+      "name": "Biserica Adormirea Maicii Domnului",
+      "category": "place_of_worship",
+      "lat": 44.850783,
+      "lon": 24.8491382,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Adormirea Maicii Domnului",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/3255090765",
+      "osm_id": 3255090765,
+      "osm_type": "node",
+      "name": "Biserica Sf. Apostol Andrei",
+      "category": "place_of_worship",
+      "lat": 44.8457093,
+      "lon": 24.8916518,
+      "tags": {
+        "addr:city": "Pitești",
+        "addr:postcode": "110191",
+        "addr:street": "Strada Tudor Vladimirescu",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica Sf. Apostol Andrei",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/4038936689",
+      "osm_id": 4038936689,
+      "osm_type": "node",
+      "name": "Biserică",
+      "category": "place_of_worship",
+      "lat": 44.8769728,
+      "lon": 24.8823304,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserică",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/4046535745",
+      "osm_id": 4046535745,
+      "osm_type": "node",
+      "name": "Colegiul Tehnic Armand Călinescu",
+      "category": "place_of_worship",
+      "lat": 44.8598443,
+      "lon": 24.8719715,
+      "tags": {
+        "addr:city": "Pitești",
+        "amenity": "school",
+        "grades": "9-12",
+        "name": "Colegiul Tehnic Armand Călinescu",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/4046560751",
+      "osm_id": 4046560751,
+      "osm_type": "node",
+      "name": "Biserică Sf. Treime",
+      "category": "place_of_worship",
+      "lat": 44.8542597,
+      "lon": 24.8721155,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserică Sf. Treime",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/4706487434",
+      "osm_id": 4706487434,
+      "osm_type": "node",
+      "name": "Biserica „Izvorul Tămăduirii”",
+      "category": "place_of_worship",
+      "lat": 44.8623985,
+      "lon": 24.8696419,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica „Izvorul Tămăduirii”",
+        "name:ro": "Biserica „Izvorul Tămăduirii”",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/4723679690",
+      "osm_id": 4723679690,
+      "osm_type": "node",
+      "name": "Biserica Baptistă",
+      "category": "place_of_worship",
+      "lat": 44.8553981,
+      "lon": 24.8731051,
+      "tags": {
+        "addr:housenumber": "86",
+        "addr:street": "Bulevardul Republicii",
+        "amenity": "place_of_worship",
+        "denomination": "baptist",
+        "name": "Biserica Baptistă",
+        "name:ro": "Biserica Baptistă",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/5104612331",
+      "osm_id": 5104612331,
+      "osm_type": "node",
+      "name": "Biserica Sf Arhangheli",
+      "category": "place_of_worship",
+      "lat": 44.8522984,
+      "lon": 24.8587382,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Sf Arhangheli",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/10167110668",
+      "osm_id": 10167110668,
+      "osm_type": "node",
+      "name": "Biserica lui Isus Hristos a Sfintilor din Zilele din Urma",
+      "category": "place_of_worship",
+      "lat": 44.850469,
+      "lon": 24.8792213,
+      "tags": {
+        "addr:city": "Pitesti",
+        "addr:housenumber": "76-78",
+        "addr:postcode": "110269",
+        "addr:street": "Calea Craiovei",
+        "amenity": "place_of_worship",
+        "denomination": "mormon",
+        "name": "Biserica lui Isus Hristos a Sfintilor din Zilele din Urma",
+        "name:en": "Church of Jesus Christ of Latter-day Saints",
+        "religion": "christian",
+        "service_times": "Sun 10:00 am Sacrament meets first"
+      }
+    },
+    {
+      "id": "node/10994731814",
+      "osm_id": 10994731814,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.8885654,
+      "lon": 24.8370519,
+      "tags": {
+        "amenity": "place_of_worship",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/12083346915",
+      "osm_id": 12083346915,
+      "osm_type": "node",
+      "name": "Biserica Sfântul Ioan Valahul",
+      "category": "place_of_worship",
+      "lat": 44.8391014,
+      "lon": 24.8834629,
+      "tags": {
+        "addr:city": "Pitești",
+        "addr:street": "Strada Basarabiei",
+        "amenity": "place_of_worship",
+        "name": "Biserica Sfântul Ioan Valahul",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/136266332",
+      "osm_id": 136266332,
+      "osm_type": "way",
+      "name": "Școala Gimnazială „Marin Preda”",
+      "category": "place_of_worship",
+      "lat": 44.8633114,
+      "lon": 24.8734868,
+      "tags": {
+        "addr:city": "Pitești",
+        "addr:housenumber": "37",
+        "addr:postcode": "110154",
+        "addr:street": "Strada Pictor Nicolae Grigorescu",
+        "amenity": "school",
+        "building": "school",
+        "building:levels": "3",
+        "grades": "0-8",
+        "name": "Școala Gimnazială „Marin Preda”",
+        "operator": "Primaria Pitesti",
+        "operator:type": "public",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/136267596",
+      "osm_id": 136267596,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.8382548,
+      "lon": 24.8841816,
+      "tags": {
+        "addr:city": "Pitești",
+        "addr:street": "Strada Caporal Dogaru",
+        "amenity": "place_of_worship",
+        "building": "synagogue",
+        "building:levels": "1",
+        "religion": "jewish"
+      }
+    },
+    {
+      "id": "way/136268927",
+      "osm_id": 136268927,
+      "osm_type": "way",
+      "name": "Biserica Sfântul Andrei",
+      "category": "place_of_worship",
+      "lat": 44.850135,
+      "lon": 24.8568438,
+      "tags": {
+        "alt_name": "Biserica Papucești",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Sfântul Andrei",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/136269012",
+      "osm_id": 136269012,
+      "osm_type": "way",
+      "name": "Biserica Sfântul Ioan Botezătorul",
+      "category": "place_of_worship",
+      "lat": 44.8592196,
+      "lon": 24.8671114,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "building:levels": "2",
+        "denomination": "orthodox",
+        "name": "Biserica Sfântul Ioan Botezătorul",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/136269110",
+      "osm_id": 136269110,
+      "osm_type": "way",
+      "name": "Biserica Armeană",
+      "category": "place_of_worship",
+      "lat": 44.8420715,
+      "lon": 24.8880347,
+      "tags": {
+        "addr:city": "Pitești",
+        "addr:street": "Strada Gheorghe Doja",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "building:levels": "2",
+        "denomination": "armenian_apostolic",
+        "is_in:city": "Pitești",
+        "name": "Biserica Armeană",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/136269848",
+      "osm_id": 136269848,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.8507789,
+      "lon": 24.8491531,
+      "tags": {
+        "building": "church"
+      }
+    },
+    {
+      "id": "way/136270059",
+      "osm_id": 136270059,
+      "osm_type": "way",
+      "name": "Biserica Sfântul Pantelimon",
+      "category": "place_of_worship",
+      "lat": 44.8711759,
+      "lon": 24.8460266,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "building:levels": "4",
+        "denomination": "orthodox",
+        "name": "Biserica Sfântul Pantelimon",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/136270209",
+      "osm_id": 136270209,
+      "osm_type": "way",
+      "name": "Mănăstirea Trivale",
+      "category": "place_of_worship",
+      "lat": 44.8531601,
+      "lon": 24.8488685,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Mănăstirea Trivale",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/136271809",
+      "osm_id": 136271809,
+      "osm_type": "way",
+      "name": "Liceul Teoretic \"Ion Cantacuzino\"",
+      "category": "place_of_worship",
+      "lat": 44.8707287,
+      "lon": 24.8445772,
+      "tags": {
+        "addr:city": "Pitești",
+        "addr:housenumber": "2",
+        "addr:postcode": "110286",
+        "addr:street": "Strada Carol Davila",
+        "amenity": "school",
+        "building": "school",
+        "building:levels": "3",
+        "denomination": "romanian_orthodox",
+        "grades": "9-12",
+        "name": "Liceul Teoretic \"Ion Cantacuzino\"",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/136272970",
+      "osm_id": 136272970,
+      "osm_type": "way",
+      "name": "Biserica Sfinții Apostoli Petru și Pavel",
+      "category": "place_of_worship",
+      "lat": 44.8656897,
+      "lon": 24.8605658,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Sfinții Apostoli Petru și Pavel",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/136273093",
+      "osm_id": 136273093,
+      "osm_type": "way",
+      "name": "Biserica Sfântul Dumitru",
+      "category": "place_of_worship",
+      "lat": 44.8661663,
+      "lon": 24.8453185,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "building:levels": "4",
+        "denomination": "orthodox",
+        "name": "Biserica Sfântul Dumitru",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/233955865",
+      "osm_id": 233955865,
+      "osm_type": "way",
+      "name": "Biserica armeană „Sfântul Ioan Botezătorul” Pitești",
+      "category": "place_of_worship",
+      "lat": 44.852966,
+      "lon": 24.876743,
+      "tags": {
+        "addr:city": "Pitești",
+        "addr:housenumber": "43",
+        "addr:postcode": "110049",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Egalității",
+        "alt_name": "Biserica armenească „Sfântul Ioan Botezătorul” Pitești",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "armenian_apostolic",
+        "is_in:city": "Pitești",
+        "name": "Biserica armeană „Sfântul Ioan Botezătorul” Pitești",
+        "name:en": "Saint John the Baptist Armenian Church",
+        "religion": "christian",
+        "start_date": "1852",
+        "wikidata": "Q28230325",
+        "wikipedia": "en:Armenian Church, Pitești"
+      }
+    },
+    {
+      "id": "way/233957766",
+      "osm_id": 233957766,
+      "osm_type": "way",
+      "name": "Biserica Mavrodolu",
+      "category": "place_of_worship",
+      "lat": 44.8535171,
+      "lon": 24.8789865,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica Mavrodolu",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/236834487",
+      "osm_id": 236834487,
+      "osm_type": "way",
+      "name": "Biserica Domnească „Sfântul Gheorghe”",
+      "category": "place_of_worship",
+      "lat": 44.855709,
+      "lon": 24.8757492,
+      "tags": {
+        "addr:city": "Pitești",
+        "addr:housenumber": "2",
+        "addr:street": "Strada Bălașa Doamna",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "romanian_orthodox",
+        "heritage": "2",
+        "heritage:operator": "lmi",
+        "historic": "church",
+        "name": "Biserica Domnească „Sfântul Gheorghe”",
+        "ref:RO:lmi": "AG-II-m-A-13390",
+        "religion": "christian",
+        "wikidata": "Q61086715",
+        "wikipedia": "ro:Biserica Domnească „Sfântul Gheorghe” din Pitești"
+      }
+    },
+    {
+      "id": "way/261100244",
+      "osm_id": 261100244,
+      "osm_type": "way",
+      "name": "Biserica Sf. Ierarh Spiridon",
+      "category": "place_of_worship",
+      "lat": 44.8294336,
+      "lon": 24.9118023,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica Sf. Ierarh Spiridon",
+        "religion": "christian",
+        "wikidata": "Q110131779",
+        "wikipedia": "ro:Biserica Sfântul Spiridon din Pitești"
+      }
+    },
+    {
+      "id": "way/264453442",
+      "osm_id": 264453442,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă Nașterea Maicii Domnului",
+      "category": "place_of_worship",
+      "lat": 44.838157,
+      "lon": 24.9024403,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă Nașterea Maicii Domnului",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/301837249",
+      "osm_id": 301837249,
+      "osm_type": "way",
+      "name": "Betel",
+      "category": "place_of_worship",
+      "lat": 44.8602205,
+      "lon": 24.8828728,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "baptist",
+        "name": "Betel",
+        "name:ro": "Betel",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/301837260",
+      "osm_id": 301837260,
+      "osm_type": "way",
+      "name": "Biserica Maica Domnului",
+      "category": "place_of_worship",
+      "lat": 44.8585505,
+      "lon": 24.8757265,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "heritage": "2",
+        "heritage:operator": "lmi",
+        "name": "Biserica Maica Domnului",
+        "name:ro": "Biserica Maica Domnului",
+        "ref:RO:lmi": "AG-II-m-B-13417",
+        "religion": "christian",
+        "wikidata": "Q42750519",
+        "wikipedia": "ro:Biserica „Maica Precista” din Pitești"
+      }
+    },
+    {
+      "id": "way/319067318",
+      "osm_id": 319067318,
+      "osm_type": "way",
+      "name": "Biserica Sfânta Filofteia",
+      "category": "place_of_worship",
+      "lat": 44.8428087,
+      "lon": 24.8741277,
+      "tags": {
+        "addr:city": "Pitești",
+        "addr:housenumber": "75",
+        "addr:postcode": "110224",
+        "addr:street": "Strada Războieni",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Sfânta Filofteia",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/319082143",
+      "osm_id": 319082143,
+      "osm_type": "way",
+      "name": "Biserica Sf Mina",
+      "category": "place_of_worship",
+      "lat": 44.8597623,
+      "lon": 24.8729898,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica Sf Mina",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/319217859",
+      "osm_id": 319217859,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.881849,
+      "lon": 24.8497042,
+      "tags": {
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/319275975",
+      "osm_id": 319275975,
+      "osm_type": "way",
+      "name": "Biserica Adventistă",
+      "category": "place_of_worship",
+      "lat": 44.8596685,
+      "lon": 24.8651934,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "adventist",
+        "name": "Biserica Adventistă",
+        "name:ro": "Biserica Adventistă",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/319395997",
+      "osm_id": 319395997,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă",
+      "category": "place_of_worship",
+      "lat": 44.8820827,
+      "lon": 24.8492647,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/319485731",
+      "osm_id": 319485731,
+      "osm_type": "way",
+      "name": "Biserica -Sfânta Vineri",
+      "category": "place_of_worship",
+      "lat": 44.8584224,
+      "lon": 24.8804483,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica -Sfânta Vineri",
+        "religion": "christian",
+        "wikidata": "Q42748190",
+        "wikipedia": "ro:Biserica Sfânta Vineri din Pitești"
+      }
+    },
+    {
+      "id": "way/372299288",
+      "osm_id": 372299288,
+      "osm_type": "way",
+      "name": "Cimitirul armenesc",
+      "category": "place_of_worship",
+      "lat": 44.8416775,
+      "lon": 24.888528,
+      "tags": {
+        "addr:city": "Pitești",
+        "addr:street": "Strada Gheorghe Doja",
+        "alt_name": "Cimitirul armenesc din Pitești",
+        "denomination": "armenian_apostolic",
+        "is_in:city": "Pitești",
+        "landuse": "cemetery",
+        "name": "Cimitirul armenesc",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/524769559",
+      "osm_id": 524769559,
+      "osm_type": "way",
+      "name": "Biserica de lemn Sfinții Constantin și Elena",
+      "category": "place_of_worship",
+      "lat": 44.8718396,
+      "lon": 24.8728939,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica de lemn Sfinții Constantin și Elena",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/668526993",
+      "osm_id": 668526993,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.8631986,
+      "lon": 24.8496911,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/953545367",
+      "osm_id": 953545367,
+      "osm_type": "way",
+      "name": "Biserica Romano-Catolică „Sfinții Apostoli Petru și Paul”",
+      "category": "place_of_worship",
+      "lat": 44.8593849,
+      "lon": 24.8686779,
+      "tags": {
+        "addr:housenumber": "11",
+        "addr:street": "Strada Victoriei",
+        "alt_name": "Biserica Romano-Catolică „Sfântul Anton”",
+        "amenity": "place_of_worship",
+        "architect": "Lapierre",
+        "building": "church",
+        "denomination": "roman_catholic",
+        "historic": "church",
+        "name": "Biserica Romano-Catolică „Sfinții Apostoli Petru și Paul”",
+        "note": "Official name seems to be Sfinții Apostoli Petru și Paul. However Sfântul Anton is also used for this church because there is a relic of his here",
+        "religion": "christian",
+        "start_date": "1896",
+        "wikidata": "Q20006981",
+        "wikipedia": "ro:Biserica Sfinții Petru și Paul din Pitești"
+      }
+    },
+    {
+      "id": "way/1144060361",
+      "osm_id": 1144060361,
+      "osm_type": "way",
+      "name": "Biserica Sf. Parascheva și Sf. Filoteea",
+      "category": "place_of_worship",
+      "lat": 44.8420312,
+      "lon": 24.890335,
+      "tags": {
+        "building": "church",
+        "building:levels": "1",
+        "name": "Biserica Sf. Parascheva și Sf. Filoteea"
+      }
+    },
+    {
+      "id": "way/1255645816",
+      "osm_id": 1255645816,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.8668979,
+      "lon": 24.8097349,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1304663480",
+      "osm_id": 1304663480,
+      "osm_type": "way",
+      "name": "Biserica Sfinții Împărați Constantin şi mama sa, Elena",
+      "category": "place_of_worship",
+      "lat": 44.8592072,
+      "lon": 24.8774376,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Biserica Sfinții Împărați Constantin şi mama sa, Elena",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1319698314",
+      "osm_id": 1319698314,
+      "osm_type": "way",
+      "name": "Școala Gimnazială „Nicolae Bălcescu”",
+      "category": "place_of_worship",
+      "lat": 44.8736545,
+      "lon": 24.847708,
+      "tags": {
+        "amenity": "school",
+        "denomination": "romanian_orthodox",
+        "email": "scoala6pitesti@yahoo.com",
+        "grades": "0-8",
+        "name": "Școala Gimnazială „Nicolae Bălcescu”",
+        "phone": "+40 0248 287 058",
+        "religion": "christian",
+        "website": "http://balcescupitesti.ro/"
+      }
+    },
+    {
+      "id": "way/1337950112",
+      "osm_id": 1337950112,
+      "osm_type": "way",
+      "name": "Magazin Bisericesc",
+      "category": "place_of_worship",
+      "lat": 44.8505667,
+      "lon": 24.8488253,
+      "tags": {
+        "building": "church",
+        "name": "Magazin Bisericesc"
+      }
+    },
+    {
+      "id": "way/1416935460",
+      "osm_id": 1416935460,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.8769736,
+      "lon": 24.8823413,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "height": "7",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1421415842",
+      "osm_id": 1421415842,
+      "osm_type": "way",
+      "name": "Școala Gimnazială „Ion Pillat”",
+      "category": "place_of_worship",
+      "lat": 44.8557292,
+      "lon": 24.8690514,
+      "tags": {
+        "amenity": "school",
+        "grades": "0-8",
+        "name": "Școala Gimnazială „Ion Pillat”",
+        "religion": "christian",
+        "website": "https://scoala3pitesti.ro/"
+      }
+    },
+    {
+      "id": "way/1449714047",
+      "osm_id": 1449714047,
+      "osm_type": "way",
+      "name": "Biserica „Sf. Ilie”, a Cojocarilor",
+      "category": "place_of_worship",
+      "lat": 44.8505894,
+      "lon": 24.8802303,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica „Sf. Ilie”, a Cojocarilor",
+        "name:en": "Saint Elijah the Prophet church",
+        "religion": "christian",
+        "wikidata": "Q42750513"
+      }
+    },
+    {
+      "id": "way/1454351505",
+      "osm_id": 1454351505,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.8391046,
+      "lon": 24.8834644,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "religion": "christian"
+      }
+    }
+  ]
+}

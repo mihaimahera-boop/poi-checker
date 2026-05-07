@@ -1,0 +1,596 @@
+{
+  "city": "Câmpina",
+  "generated_at": "2026-04-23T09:36:23.042Z",
+  "counts": {
+    "total": 34,
+    "schools": 21,
+    "churches": 13
+  },
+  "pois": [
+    {
+      "id": "node/1395796200",
+      "osm_id": 1395796200,
+      "osm_type": "node",
+      "name": "Sala de Sport  L. Energetic",
+      "category": "education",
+      "lat": 45.1187974,
+      "lon": 25.7362186,
+      "tags": {
+        "amenity": "school",
+        "name": "Sala de Sport  L. Energetic"
+      }
+    },
+    {
+      "id": "node/2344289333",
+      "osm_id": 2344289333,
+      "osm_type": "node",
+      "name": "Școala de Poliție",
+      "category": "education",
+      "lat": 45.1331578,
+      "lon": 25.7229241,
+      "tags": {
+        "amenity": "school",
+        "name": "Școala de Poliție"
+      }
+    },
+    {
+      "id": "node/11722340418",
+      "osm_id": 11722340418,
+      "osm_type": "node",
+      "name": "Grădinița nr. 9",
+      "category": "education",
+      "lat": 45.1337342,
+      "lon": 25.7315802,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Grădinița nr. 9"
+      }
+    },
+    {
+      "id": "node/11747490168",
+      "osm_id": 11747490168,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.1215212,
+      "lon": 25.7319545,
+      "tags": {
+        "amenity": "kindergarten"
+      }
+    },
+    {
+      "id": "way/125728639",
+      "osm_id": 125728639,
+      "osm_type": "way",
+      "name": "Liceul Energetic Câmpina",
+      "category": "education",
+      "lat": 45.1191333,
+      "lon": 25.7352454,
+      "tags": {
+        "amenity": "school",
+        "name": "Liceul Energetic Câmpina"
+      }
+    },
+    {
+      "id": "way/126070874",
+      "osm_id": 126070874,
+      "osm_type": "way",
+      "name": "Școala Centrală Câmpina nr.2",
+      "category": "education",
+      "lat": 45.127691,
+      "lon": 25.735398,
+      "tags": {
+        "addr:city": "Câmpina",
+        "addr:housename": "Școala Centrală Câmpina Gen2",
+        "addr:housenumber": "13",
+        "addr:postcode": "105600",
+        "addr:street": "Strada Calea Doftanei",
+        "amenity": "school",
+        "name": "Școala Centrală Câmpina nr.2"
+      }
+    },
+    {
+      "id": "way/195574656",
+      "osm_id": 195574656,
+      "osm_type": "way",
+      "name": "Colegiul Național „Nicolae Grigorescu”",
+      "category": "education",
+      "lat": 45.1262225,
+      "lon": 25.7347225,
+      "tags": {
+        "addr:city": "Câmpina",
+        "addr:housename": "Nicolae Grigorescu",
+        "addr:housenumber": "4",
+        "addr:postcode": "105600",
+        "addr:street": "Calea Doftanei",
+        "building": "school",
+        "building:levels": "3",
+        "height": "10",
+        "name": "Colegiul Național „Nicolae Grigorescu”"
+      }
+    },
+    {
+      "id": "way/195574962",
+      "osm_id": 195574962,
+      "osm_type": "way",
+      "name": "Sala Sport Nicolae Grigorescu",
+      "category": "education",
+      "lat": 45.1263469,
+      "lon": 25.7354562,
+      "tags": {
+        "addr:city": "Câmpina",
+        "addr:housename": "Sala Sport Nicolae Grigorescu",
+        "addr:housenumber": "4",
+        "addr:postcode": "105600",
+        "addr:street": "Calea Doftanei",
+        "building": "school",
+        "leisure": "sports_centre",
+        "name": "Sala Sport Nicolae Grigorescu"
+      }
+    },
+    {
+      "id": "way/195587314",
+      "osm_id": 195587314,
+      "osm_type": "way",
+      "name": "Grup Școlar Forestier",
+      "category": "education",
+      "lat": 45.12207,
+      "lon": 25.7357761,
+      "tags": {
+        "addr:city": "Câmpina",
+        "addr:housename": "Grup Școlar Forestier",
+        "addr:housenumber": "31",
+        "addr:postcode": "105600",
+        "addr:street": "Bulevardul Carol I",
+        "amenity": "school",
+        "name": "Grup Școlar Forestier"
+      }
+    },
+    {
+      "id": "way/195597513",
+      "osm_id": 195597513,
+      "osm_type": "way",
+      "name": "Școala Generală Nr.1 Ion Câmpineanu",
+      "category": "education",
+      "lat": 45.117493,
+      "lon": 25.7375386,
+      "tags": {
+        "addr:city": "Câmpina",
+        "addr:housename": "Școala Generală Nr.1 Ion Câmpineanu",
+        "addr:housenumber": "7",
+        "addr:postcode": "105600",
+        "addr:street": "Strada Erupției",
+        "amenity": "school",
+        "name": "Școala Generală Nr.1 Ion Câmpineanu"
+      }
+    },
+    {
+      "id": "way/197717432",
+      "osm_id": 197717432,
+      "osm_type": "way",
+      "name": "Mecanică 2",
+      "category": "education",
+      "lat": 45.1282578,
+      "lon": 25.7498385,
+      "tags": {
+        "addr:street": "Strada Zorilor",
+        "amenity": "school",
+        "name": "Mecanică 2"
+      }
+    },
+    {
+      "id": "way/197721095",
+      "osm_id": 197721095,
+      "osm_type": "way",
+      "name": "Liceul Tehnologic Constantin Istrati",
+      "category": "education",
+      "lat": 45.1281528,
+      "lon": 25.7302543,
+      "tags": {
+        "addr:city": "Câmpina",
+        "addr:housename": "Grup Școlar Petrol Câmpina Constantin Istrati",
+        "addr:housenumber": "91",
+        "addr:postcode": "105600",
+        "addr:street": "Strada Griviței",
+        "amenity": "school",
+        "name": "Liceul Tehnologic Constantin Istrati"
+      }
+    },
+    {
+      "id": "way/200177180",
+      "osm_id": 200177180,
+      "osm_type": "way",
+      "name": "Școala Generală 7",
+      "category": "education",
+      "lat": 45.1249641,
+      "lon": 25.7392004,
+      "tags": {
+        "addr:city": "Câmpina",
+        "addr:housename": "Școala Generală 7",
+        "addr:housenumber": "31",
+        "addr:postcode": "105600",
+        "addr:street": "Strada Mihail Kogălniceanu",
+        "amenity": "school",
+        "building": "school",
+        "name": "Școala Generală 7"
+      }
+    },
+    {
+      "id": "way/229108323",
+      "osm_id": 229108323,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Alexandru Ioan Cuza",
+      "category": "education",
+      "lat": 45.1343593,
+      "lon": 25.7336992,
+      "tags": {
+        "addr:city": "Câmpina",
+        "addr:postcode": "105600",
+        "addr:street": "Bulevardul Carol I",
+        "building": "school",
+        "building:levels": "3",
+        "height": "12",
+        "name": "Școala Gimnazială Alexandru Ioan Cuza"
+      }
+    },
+    {
+      "id": "way/230755332",
+      "osm_id": 230755332,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.1284554,
+      "lon": 25.7289904,
+      "tags": {
+        "addr:city": "Câmpina",
+        "addr:housenumber": "24",
+        "addr:postcode": "105600",
+        "addr:street": "Strada Mărășești",
+        "building": "kindergarten"
+      }
+    },
+    {
+      "id": "way/230760483",
+      "osm_id": 230760483,
+      "osm_type": "way",
+      "name": "Colegiul Național Nicolae Grigorescu",
+      "category": "education",
+      "lat": 45.1294375,
+      "lon": 25.7316437,
+      "tags": {
+        "building": "school",
+        "building:levels": "1",
+        "height": "5",
+        "name": "Colegiul Național Nicolae Grigorescu"
+      }
+    },
+    {
+      "id": "way/237742126",
+      "osm_id": 237742126,
+      "osm_type": "way",
+      "name": "Liceul Energetic Câmpina Corp B",
+      "category": "education",
+      "lat": 45.1188414,
+      "lon": 25.7356115,
+      "tags": {
+        "addr:city": "Câmpina",
+        "addr:housename": "Liceul Energetic Câmpina Corp B",
+        "addr:housenumber": "1",
+        "addr:postcode": "105600",
+        "addr:street": "Strada Griviței",
+        "building": "school",
+        "building:levels": "3",
+        "height": "9",
+        "name": "Liceul Energetic Câmpina Corp B"
+      }
+    },
+    {
+      "id": "way/237742128",
+      "osm_id": 237742128,
+      "osm_type": "way",
+      "name": "Liceul Energetic Câmpina Corp C",
+      "category": "education",
+      "lat": 45.1193076,
+      "lon": 25.7358514,
+      "tags": {
+        "addr:city": "Câmpina",
+        "addr:housenumber": "2A",
+        "addr:postcode": "105600",
+        "addr:street": "Strada Griviței",
+        "building": "school",
+        "building:levels": "3",
+        "height": "9",
+        "name": "Liceul Energetic Câmpina Corp C"
+      }
+    },
+    {
+      "id": "way/237742129",
+      "osm_id": 237742129,
+      "osm_type": "way",
+      "name": "Liceul Energetic Câmpina Corp A",
+      "category": "education",
+      "lat": 45.1192576,
+      "lon": 25.7351177,
+      "tags": {
+        "addr:city": "Câmpina",
+        "addr:housename": "Liceul Energetic Câmpina Corp A",
+        "addr:housenumber": "1",
+        "addr:postcode": "105600",
+        "addr:street": "Strada Griviței",
+        "building": "school",
+        "building:levels": "3",
+        "height": "9",
+        "name": "Liceul Energetic Câmpina Corp A"
+      }
+    },
+    {
+      "id": "way/258135051",
+      "osm_id": 258135051,
+      "osm_type": "way",
+      "name": "Liceul Energetic Câmpina Corp D",
+      "category": "education",
+      "lat": 45.119054,
+      "lon": 25.7360175,
+      "tags": {
+        "addr:city": "Câmpina",
+        "addr:housename": "Liceul Energetic Câmpina Corp D",
+        "addr:housenumber": "2A",
+        "addr:postcode": "105600",
+        "addr:street": "Strada Griviței",
+        "building": "school",
+        "building:levels": "3",
+        "height": "9",
+        "name": "Liceul Energetic Câmpina Corp D"
+      }
+    },
+    {
+      "id": "way/1257909158",
+      "osm_id": 1257909158,
+      "osm_type": "way",
+      "name": "Liceul Tehnologic Constantin Istrati",
+      "category": "education",
+      "lat": 45.1283068,
+      "lon": 25.7302528,
+      "tags": {
+        "addr:city": "Câmpina",
+        "addr:postcode": "105600",
+        "addr:street": "Strada Griviței",
+        "building": "school",
+        "building:levels": "3",
+        "height": "10",
+        "name": "Liceul Tehnologic Constantin Istrati"
+      }
+    },
+    {
+      "id": "way/130855007",
+      "osm_id": 130855007,
+      "osm_type": "way",
+      "name": "Biserica Nașterii Maicii Domnului",
+      "category": "place_of_worship",
+      "lat": 45.1503634,
+      "lon": 25.749618,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "Biserică Cartier Voila",
+        "designation": "Biserică Cartier Voila",
+        "name": "Biserica Nașterii Maicii Domnului",
+        "religion": "christian",
+        "source": "Florin Glontaru & Gabriel Sebastian Moise"
+      }
+    },
+    {
+      "id": "way/195233109",
+      "osm_id": 195233109,
+      "osm_type": "way",
+      "name": "Biserica Brazi",
+      "category": "place_of_worship",
+      "lat": 45.1307228,
+      "lon": 25.7335995,
+      "tags": {
+        "addr:postcode": "105600",
+        "addr:street": "Bulevardul Carol I",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "building:levels": "2",
+        "denomination": "romanian_orthodox",
+        "height": "10",
+        "name": "Biserica Brazi",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/230755074",
+      "osm_id": 230755074,
+      "osm_type": "way",
+      "name": "Biserica Adventistă",
+      "category": "place_of_worship",
+      "lat": 45.1286934,
+      "lon": 25.7273093,
+      "tags": {
+        "building": "church",
+        "building:levels": "1",
+        "height": "6",
+        "name": "Biserica Adventistă"
+      }
+    },
+    {
+      "id": "way/230760502",
+      "osm_id": 230760502,
+      "osm_type": "way",
+      "name": "Biserica Adventistă de Ziua a Șaptea Sălaj Câmpina",
+      "category": "place_of_worship",
+      "lat": 45.1194995,
+      "lon": 25.7444135,
+      "tags": {
+        "addr:city": "Câmpina",
+        "addr:housenumber": "1",
+        "addr:postcode": "105600",
+        "addr:street": "Strada Sălaj",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "seventh_day_adventist",
+        "name": "Biserica Adventistă de Ziua a Șaptea Sălaj Câmpina",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/251407649",
+      "osm_id": 251407649,
+      "osm_type": "way",
+      "name": "Biserica romano-catolică Sf. Anton de Padova Câmpina",
+      "category": "place_of_worship",
+      "lat": 45.1306498,
+      "lon": 25.7326263,
+      "tags": {
+        "addr:city": "Câmpina",
+        "addr:housename": "Biserica Catolică Câmpina",
+        "addr:housenumber": "10",
+        "addr:postcode": "105600",
+        "addr:street": "Strada Golești",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "building:levels": "2",
+        "denomination": "catholic",
+        "height": "10",
+        "name": "Biserica romano-catolică Sf. Anton de Padova Câmpina",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/258078370",
+      "osm_id": 258078370,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă Sfântul Nicolae",
+      "category": "place_of_worship",
+      "lat": 45.1107291,
+      "lon": 25.7521939,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă Sfântul Nicolae",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/299446966",
+      "osm_id": 299446966,
+      "osm_type": "way",
+      "name": "Biserica de la Lac",
+      "category": "place_of_worship",
+      "lat": 45.13231,
+      "lon": 25.7346624,
+      "tags": {
+        "addr:city": "Câmpina",
+        "addr:housenumber": "88",
+        "addr:postcode": "105600",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada B.P. Hașdeu",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "height": "9",
+        "name": "Biserica de la Lac",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/579961448",
+      "osm_id": 579961448,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă Sf. Parascheva",
+      "category": "place_of_worship",
+      "lat": 45.119617,
+      "lon": 25.7410358,
+      "tags": {
+        "addr:city": "Câmpina",
+        "addr:postcode": "105600",
+        "addr:street": "Strada Orizontului",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă Sf. Parascheva",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/867013309",
+      "osm_id": 867013309,
+      "osm_type": "way",
+      "name": "Biserica Sf. Pantelimon",
+      "category": "place_of_worship",
+      "lat": 45.1586489,
+      "lon": 25.749813,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica Sf. Pantelimon",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1259401904",
+      "osm_id": 1259401904,
+      "osm_type": "way",
+      "name": "Biserica Sfântul Ierarh Nicolae",
+      "category": "place_of_worship",
+      "lat": 45.1109089,
+      "lon": 25.7513122,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Sfântul Ierarh Nicolae",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1268323933",
+      "osm_id": 1268323933,
+      "osm_type": "way",
+      "name": "Biserica Sfânta Treime",
+      "category": "place_of_worship",
+      "lat": 45.1257836,
+      "lon": 25.7352312,
+      "tags": {
+        "amenity": "place_of_worship",
+        "area": "yes",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica Sfânta Treime",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1337386744",
+      "osm_id": 1337386744,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.1195776,
+      "lon": 25.7444245,
+      "tags": {
+        "area": "yes",
+        "denomination": "seventh_day_adventist",
+        "landuse": "religious",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1337386745",
+      "osm_id": 1337386745,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.1196092,
+      "lon": 25.7410367,
+      "tags": {
+        "area": "yes",
+        "denomination": "orthodox",
+        "landuse": "religious",
+        "religion": "christian"
+      }
+    }
+  ]
+}

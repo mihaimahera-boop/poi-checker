@@ -1,0 +1,775 @@
+{
+  "city": "Curtea de Argeș",
+  "generated_at": "2026-04-23T09:41:13.300Z",
+  "counts": {
+    "total": 46,
+    "schools": 18,
+    "churches": 28
+  },
+  "pois": [
+    {
+      "id": "node/3132088071",
+      "osm_id": 3132088071,
+      "osm_type": "node",
+      "name": "Universitatea Titu Maiorescu",
+      "category": "education",
+      "lat": 45.1546084,
+      "lon": 24.6763509,
+      "tags": {
+        "addr:city": "Curtea de Argeș",
+        "addr:housenumber": "17",
+        "addr:postcode": "115300",
+        "addr:street": "Bulevardul Basarabilor",
+        "amenity": "university",
+        "name": "Universitatea Titu Maiorescu"
+      }
+    },
+    {
+      "id": "node/3132092472",
+      "osm_id": 3132092472,
+      "osm_type": "node",
+      "name": "Grupul Școlar Constantin Dobrescu",
+      "category": "education",
+      "lat": 45.1550937,
+      "lon": 24.6762542,
+      "tags": {
+        "addr:city": "Curtea de Argeș",
+        "addr:housenumber": "17",
+        "addr:postcode": "115300",
+        "addr:street": "Bulevardul Basarabilor",
+        "amenity": "college",
+        "name": "Grupul Școlar Constantin Dobrescu"
+      }
+    },
+    {
+      "id": "node/4290080320",
+      "osm_id": 4290080320,
+      "osm_type": "node",
+      "name": "Grădinița nr. 3 Curtea de Argeș",
+      "category": "education",
+      "lat": 45.1433532,
+      "lon": 24.6766705,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Grădinița nr. 3 Curtea de Argeș"
+      }
+    },
+    {
+      "id": "node/4704048694",
+      "osm_id": 4704048694,
+      "osm_type": "node",
+      "name": "școala cu clasele i-viii Carol II",
+      "category": "education",
+      "lat": 45.138899,
+      "lon": 24.6768458,
+      "tags": {
+        "amenity": "school",
+        "name": "școala cu clasele i-viii Carol II",
+        "name:ro": "școala cu clasele i-viii Carol II"
+      }
+    },
+    {
+      "id": "way/167051367",
+      "osm_id": 167051367,
+      "osm_type": "way",
+      "name": "Colegiul Național Vlaicu-Vodă",
+      "category": "education",
+      "lat": 45.1339339,
+      "lon": 24.6764341,
+      "tags": {
+        "amenity": "college",
+        "building": "yes",
+        "name": "Colegiul Național Vlaicu-Vodă"
+      }
+    },
+    {
+      "id": "way/167051377",
+      "osm_id": 167051377,
+      "osm_type": "way",
+      "name": "Seminarul Teologic Ortodox Neagoe Vodă Basarab",
+      "category": "education",
+      "lat": 45.1555767,
+      "lon": 24.6764189,
+      "tags": {
+        "addr:city": "Curtea de Argeș",
+        "addr:housenumber": "15",
+        "addr:postcode": "115300",
+        "addr:street": "Bulevardul Basarabilor",
+        "amenity": "college",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "name": "Seminarul Teologic Ortodox Neagoe Vodă Basarab",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/167051408",
+      "osm_id": 167051408,
+      "osm_type": "way",
+      "name": "Școala Generală Nr. 5",
+      "category": "education",
+      "lat": 45.1333805,
+      "lon": 24.6749893,
+      "tags": {
+        "amenity": "school",
+        "building": "yes",
+        "name": "Școala Generală Nr. 5"
+      }
+    },
+    {
+      "id": "way/167051418",
+      "osm_id": 167051418,
+      "osm_type": "way",
+      "name": "Școala Generală Nr. 4",
+      "category": "education",
+      "lat": 45.1474437,
+      "lon": 24.6769518,
+      "tags": {
+        "addr:city": "Curtea de Argeș",
+        "amenity": "school",
+        "building": "yes",
+        "name": "Școala Generală Nr. 4"
+      }
+    },
+    {
+      "id": "way/167051420",
+      "osm_id": 167051420,
+      "osm_type": "way",
+      "name": "Școala Generală Basarab I",
+      "category": "education",
+      "lat": 45.1535815,
+      "lon": 24.6802488,
+      "tags": {
+        "amenity": "school",
+        "building": "yes",
+        "name": "Școala Generală Basarab I"
+      }
+    },
+    {
+      "id": "way/167051421",
+      "osm_id": 167051421,
+      "osm_type": "way",
+      "name": "Colegiul Național Vlaicu-Vodă",
+      "category": "education",
+      "lat": 45.1334514,
+      "lon": 24.6765783,
+      "tags": {
+        "addr:city": "Curtea de Argeș",
+        "amenity": "college",
+        "building": "yes",
+        "name": "Colegiul Național Vlaicu-Vodă"
+      }
+    },
+    {
+      "id": "way/300666453",
+      "osm_id": 300666453,
+      "osm_type": "way",
+      "name": "Școala generală Carol I Curtea de Argeș",
+      "category": "education",
+      "lat": 45.1406598,
+      "lon": 24.6750493,
+      "tags": {
+        "amenity": "school",
+        "building": "yes",
+        "name": "Școala generală Carol I Curtea de Argeș"
+      }
+    },
+    {
+      "id": "way/300789236",
+      "osm_id": 300789236,
+      "osm_type": "way",
+      "name": "Școala Generală Regina Maria",
+      "category": "education",
+      "lat": 45.1627085,
+      "lon": 24.6729242,
+      "tags": {
+        "addr:city": "Curtea de Argeș",
+        "amenity": "school",
+        "building": "yes",
+        "name": "Școala Generală Regina Maria"
+      }
+    },
+    {
+      "id": "way/300834812",
+      "osm_id": 300834812,
+      "osm_type": "way",
+      "name": "Liceul Forestier",
+      "category": "education",
+      "lat": 45.1535083,
+      "lon": 24.676982,
+      "tags": {
+        "addr:city": "Curtea de Argeș",
+        "addr:housenumber": "21",
+        "addr:postcode": "115300",
+        "addr:street": "Bulevardul Basarabilor",
+        "amenity": "college",
+        "building": "school",
+        "name": "Liceul Forestier"
+      }
+    },
+    {
+      "id": "way/300835109",
+      "osm_id": 300835109,
+      "osm_type": "way",
+      "name": "Liceul Ferdinand I",
+      "category": "education",
+      "lat": 45.1725801,
+      "lon": 24.6705254,
+      "tags": {
+        "amenity": "school",
+        "building": "yes",
+        "name": "Liceul Ferdinand I"
+      }
+    },
+    {
+      "id": "way/431451624",
+      "osm_id": 431451624,
+      "osm_type": "way",
+      "name": "Garajul B",
+      "category": "education",
+      "lat": 45.1332774,
+      "lon": 24.6654123,
+      "tags": {
+        "amenity": "college",
+        "building": "garage",
+        "name": "Garajul B"
+      }
+    },
+    {
+      "id": "way/431451732",
+      "osm_id": 431451732,
+      "osm_type": "way",
+      "name": "Garajul C",
+      "category": "education",
+      "lat": 45.1333559,
+      "lon": 24.6650341,
+      "tags": {
+        "amenity": "college",
+        "building": "garage",
+        "name": "Garajul C"
+      }
+    },
+    {
+      "id": "way/431451739",
+      "osm_id": 431451739,
+      "osm_type": "way",
+      "name": "Garajul A",
+      "category": "education",
+      "lat": 45.1341224,
+      "lon": 24.6658068,
+      "tags": {
+        "amenity": "college",
+        "building": "garage",
+        "name": "Garajul A"
+      }
+    },
+    {
+      "id": "way/431451740",
+      "osm_id": 431451740,
+      "osm_type": "way",
+      "name": "Liceul Tehnologic de Automobile",
+      "category": "education",
+      "lat": 45.1340714,
+      "lon": 24.6650965,
+      "tags": {
+        "amenity": "college",
+        "building": "school",
+        "name": "Liceul Tehnologic de Automobile"
+      }
+    },
+    {
+      "id": "node/2634652288",
+      "osm_id": 2634652288,
+      "osm_type": "node",
+      "name": "Colecția Muzeală a Mănăstirii Ortodoxe Curtea de Argeș",
+      "category": "place_of_worship",
+      "lat": 45.156947,
+      "lon": 24.676654,
+      "tags": {
+        "SIRUTA:code": "13631",
+        "addr:city": "Curtea de Argeș",
+        "addr:housenumber": "1",
+        "addr:postcode": "115300",
+        "addr:street": "Bulevardul Basarabilor",
+        "codul_entității_muzeale": "5.1210001501E10",
+        "denomination": "romanian_orthodox",
+        "name": "Colecția Muzeală a Mănăstirii Ortodoxe Curtea de Argeș",
+        "name:en": "Curtea de Argeș Orthodox Monastery Museum Collection",
+        "phone": "+40248 721 735",
+        "religion": "christian",
+        "shop": "religion",
+        "source": "INP",
+        "source:link": "http://date.gov.ro/dataset/ghidul-muzeelor-din-romania",
+        "tourism": "museum",
+        "tourism_survey": "13.09.2013 10:57:53",
+        "website": "https://www.crestinortodox.ro/biserici-manastiri/manastirea-curtea-arges-67950.html"
+      }
+    },
+    {
+      "id": "node/9921850339",
+      "osm_id": 9921850339,
+      "osm_type": "node",
+      "name": "Biserica Catolică Sfântul Nicolae",
+      "category": "place_of_worship",
+      "lat": 45.1606011,
+      "lon": 24.6709618,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "catholic",
+        "name": "Biserica Catolică Sfântul Nicolae",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/167051371",
+      "osm_id": 167051371,
+      "osm_type": "way",
+      "name": "Mănăstirea Ortodoxă „Curtea de Argeș”",
+      "category": "place_of_worship",
+      "lat": 45.1567845,
+      "lon": 24.6754612,
+      "tags": {
+        "addr:city": "Curtea de Argeș",
+        "addr:street": "Strada Meșterul Manole",
+        "amenity": "place_of_worship",
+        "building": "cathedral",
+        "denomination": "romanian_orthodox",
+        "name": "Mănăstirea Ortodoxă „Curtea de Argeș”",
+        "name:en": "Curtea de Argeș Monastery",
+        "religion": "christian",
+        "tourism": "attraction",
+        "wikidata": "Q1151535",
+        "wikipedia": "en:Curtea de Argeș Cathedral"
+      }
+    },
+    {
+      "id": "way/167051377",
+      "osm_id": 167051377,
+      "osm_type": "way",
+      "name": "Seminarul Teologic Ortodox Neagoe Vodă Basarab",
+      "category": "place_of_worship",
+      "lat": 45.1555767,
+      "lon": 24.6764189,
+      "tags": {
+        "addr:city": "Curtea de Argeș",
+        "addr:housenumber": "15",
+        "addr:postcode": "115300",
+        "addr:street": "Bulevardul Basarabilor",
+        "amenity": "college",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "name": "Seminarul Teologic Ortodox Neagoe Vodă Basarab",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/180554056",
+      "osm_id": 180554056,
+      "osm_type": "way",
+      "name": "Biserica Marină",
+      "category": "place_of_worship",
+      "lat": 45.1475951,
+      "lon": 24.6660219,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Marină",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/180554058",
+      "osm_id": 180554058,
+      "osm_type": "way",
+      "name": "Biserica Sf. Nicolae",
+      "category": "place_of_worship",
+      "lat": 45.1373684,
+      "lon": 24.6756287,
+      "tags": {
+        "addr:city": "Curtea de Argeș",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica Sf. Nicolae",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/216582045",
+      "osm_id": 216582045,
+      "osm_type": "way",
+      "name": "Biserica Sf. Gheorghe",
+      "category": "place_of_worship",
+      "lat": 45.145871,
+      "lon": 24.6762641,
+      "tags": {
+        "addr:city": "Curtea de Argeș",
+        "addr:street": "Bulevardul Basarabilor",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica Sf. Gheorghe",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/238199259",
+      "osm_id": 238199259,
+      "osm_type": "way",
+      "name": "Palatul Episcopal",
+      "category": "place_of_worship",
+      "lat": 45.1568941,
+      "lon": 24.6768353,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "check_date": "2024-09-06",
+        "denomination": "orthodox",
+        "name": "Palatul Episcopal",
+        "religion": "christian",
+        "url": "https://youtu.be/omk9g1D-Ppg?si=u9rkgAFueU3UQecF&t=384"
+      }
+    },
+    {
+      "id": "way/238305251",
+      "osm_id": 238305251,
+      "osm_type": "way",
+      "name": "Biserica Domnească Sfântul Nicolae",
+      "category": "place_of_worship",
+      "lat": 45.142038,
+      "lon": 24.6757415,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica Domnească Sfântul Nicolae",
+        "religion": "christian",
+        "wikidata": "Q3586093"
+      }
+    },
+    {
+      "id": "way/300216630",
+      "osm_id": 300216630,
+      "osm_type": "way",
+      "name": "Catedrala Regală",
+      "category": "place_of_worship",
+      "lat": 45.1556321,
+      "lon": 24.6757013,
+      "tags": {
+        "addr:city": "Curtea de Argeș",
+        "addr:housenumber": "15",
+        "addr:postcode": "115300",
+        "addr:street": "Bulevardul Basarabilor",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "check_date": "2025-07-22",
+        "denomination": "romanian_orthodox",
+        "image": "https://photos.app.goo.gl/TVHadMHiv2Jq6i8F7",
+        "name": "Catedrala Regală",
+        "religion": "christian",
+        "url": "https://youtu.be/omk9g1D-Ppg?si=YVzvjl9HEYq-XtM_"
+      }
+    },
+    {
+      "id": "way/300843768",
+      "osm_id": 300843768,
+      "osm_type": "way",
+      "name": "Biserica Sf. Îngeri",
+      "category": "place_of_worship",
+      "lat": 45.1391437,
+      "lon": 24.6779378,
+      "tags": {
+        "addr:street": "Strada Valea Doamnei",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica Sf. Îngeri",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/307631936",
+      "osm_id": 307631936,
+      "osm_type": "way",
+      "name": "Biserica Sfinții Constantin și Elena",
+      "category": "place_of_worship",
+      "lat": 45.1719572,
+      "lon": 24.6783273,
+      "tags": {
+        "addr:street": "Strada Valea Iașului",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Sfinții Constantin și Elena",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/307632895",
+      "osm_id": 307632895,
+      "osm_type": "way",
+      "name": "Biserica Adventistă",
+      "category": "place_of_worship",
+      "lat": 45.1420325,
+      "lon": 24.6691651,
+      "tags": {
+        "addr:city": "Curtea de Argeș",
+        "addr:postcode": "115300",
+        "addr:street": "Strada Vișina",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "adventist",
+        "name": "Biserica Adventistă",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/307928163",
+      "osm_id": 307928163,
+      "osm_type": "way",
+      "name": "Biserică",
+      "category": "place_of_worship",
+      "lat": 45.1396058,
+      "lon": 24.6617251,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserică",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/307928490",
+      "osm_id": 307928490,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă Noapteș",
+      "category": "place_of_worship",
+      "lat": 45.1022074,
+      "lon": 24.6545155,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă Noapteș",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/307928552",
+      "osm_id": 307928552,
+      "osm_type": "way",
+      "name": "Cimitir Noapteș",
+      "category": "place_of_worship",
+      "lat": 45.1023525,
+      "lon": 24.6553806,
+      "tags": {
+        "denomination": "romanian_orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitir Noapteș",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/307928880",
+      "osm_id": 307928880,
+      "osm_type": "way",
+      "name": "Biserica Înălțarea Domnului",
+      "category": "place_of_worship",
+      "lat": 45.1521065,
+      "lon": 24.6796674,
+      "tags": {
+        "addr:city": "Curtea de Argeș",
+        "addr:housenumber": "7",
+        "addr:postcode": "115300",
+        "addr:street": "Strada Elena Cuza",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica Înălțarea Domnului",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/307928935",
+      "osm_id": 307928935,
+      "osm_type": "way",
+      "name": "Biserica Sfântul Dimitrie",
+      "category": "place_of_worship",
+      "lat": 45.1490495,
+      "lon": 24.6783925,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica Sfântul Dimitrie",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/307929123",
+      "osm_id": 307929123,
+      "osm_type": "way",
+      "name": "Biserica Bătăușani",
+      "category": "place_of_worship",
+      "lat": 45.1342157,
+      "lon": 24.6754333,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Bătăușani",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/307929279",
+      "osm_id": 307929279,
+      "osm_type": "way",
+      "name": "Biserica ortodoxă Sfinții Voivozi Flămânzești",
+      "category": "place_of_worship",
+      "lat": 45.1581906,
+      "lon": 24.6708294,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica ortodoxă Sfinții Voivozi Flămânzești",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/307929460",
+      "osm_id": 307929460,
+      "osm_type": "way",
+      "name": "Biserica Drujesti",
+      "category": "place_of_worship",
+      "lat": 45.1368097,
+      "lon": 24.675052,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Drujesti",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/307929590",
+      "osm_id": 307929590,
+      "osm_type": "way",
+      "name": "Biserica Sf. Dumitru",
+      "category": "place_of_worship",
+      "lat": 45.1240626,
+      "lon": 24.655581,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica Sf. Dumitru",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/307930056",
+      "osm_id": 307930056,
+      "osm_type": "way",
+      "name": "Biserica Olari",
+      "category": "place_of_worship",
+      "lat": 45.1442918,
+      "lon": 24.6788085,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Olari",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/397928513",
+      "osm_id": 397928513,
+      "osm_type": "way",
+      "name": "Biserica ortodoxă de lemn Sf. vasile cel Mare",
+      "category": "place_of_worship",
+      "lat": 45.1638168,
+      "lon": 24.671029,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica ortodoxă de lemn Sf. vasile cel Mare",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/400153721",
+      "osm_id": 400153721,
+      "osm_type": "way",
+      "name": "Cimitirul Boinița - Curtea de Argeș",
+      "category": "place_of_worship",
+      "lat": 45.15849,
+      "lon": 24.6710316,
+      "tags": {
+        "amenity": "grave_yard",
+        "denomination": "romanian_orthodox",
+        "name": "Cimitirul Boinița - Curtea de Argeș",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/400153722",
+      "osm_id": 400153722,
+      "osm_type": "way",
+      "name": "Capela cimitirului Boinița",
+      "category": "place_of_worship",
+      "lat": 45.158282,
+      "lon": 24.6706378,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Capela cimitirului Boinița",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/400153726",
+      "osm_id": 400153726,
+      "osm_type": "way",
+      "name": "Cimitirul Eroilor - Curtea de Argeș",
+      "category": "place_of_worship",
+      "lat": 45.1579785,
+      "lon": 24.6712081,
+      "tags": {
+        "amenity": "grave_yard",
+        "denomination": "romanian_orthodox",
+        "name": "Cimitirul Eroilor - Curtea de Argeș",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "relation/4112624",
+      "osm_id": 4112624,
+      "osm_type": "relation",
+      "name": "Arhiepiscopia Argeșului și Muscelului",
+      "category": "place_of_worship",
+      "lat": 45.1530367,
+      "lon": 24.6760537,
+      "tags": {
+        "addr:city": "Curtea de Argeș",
+        "addr:housenumber": "23",
+        "addr:postcode": "115300",
+        "addr:street": "Bulevardul Basarabilor",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "episcopal",
+        "name": "Arhiepiscopia Argeșului și Muscelului",
+        "religion": "christian",
+        "type": "multipolygon",
+        "website": "http://eparhiaargesului.ro/"
+      }
+    }
+  ]
+}

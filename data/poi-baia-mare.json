@@ -1,0 +1,1768 @@
+{
+  "city": "Baia Mare",
+  "generated_at": "2026-04-23T09:22:32.985Z",
+  "counts": {
+    "total": 118,
+    "schools": 70,
+    "churches": 48
+  },
+  "pois": [
+    {
+      "id": "node/11904042588",
+      "osm_id": 11904042588,
+      "osm_type": "node",
+      "name": "Colegiul Tehnic Anghel Saligny",
+      "category": "education",
+      "lat": 47.6517085,
+      "lon": 23.5724726,
+      "tags": {
+        "addr:city": "Baia Mare",
+        "addr:housenumber": "43",
+        "addr:street": "Strada Progresului",
+        "alt_name": "Liceul 5",
+        "amenity": "college",
+        "name": "Colegiul Tehnic Anghel Saligny",
+        "name:en": "Technical College Anghel Saligny",
+        "phone": "+40262225803",
+        "website": "https://www.asalignybm.tpsvision.ro/"
+      }
+    },
+    {
+      "id": "node/11904042589",
+      "osm_id": 11904042589,
+      "osm_type": "node",
+      "name": "Liceul Internațional Baia Mare - gimnaziu & liceu",
+      "category": "education",
+      "lat": 47.650856,
+      "lon": 23.5714603,
+      "tags": {
+        "addr:city": "Baia Mare",
+        "addr:street": "Strada Școlii",
+        "amenity": "school",
+        "name": "Liceul Internațional Baia Mare - gimnaziu & liceu",
+        "name:ro": "Liceul Internațional Baia Mare - gimnaziu & liceu",
+        "phone": "+40729975905",
+        "website": "https://scoalainternationalabaiamare.ro/"
+      }
+    },
+    {
+      "id": "node/12602313513",
+      "osm_id": 12602313513,
+      "osm_type": "node",
+      "name": "Grădinița cu program prelungit \"Floare de colț\" Nr. 34",
+      "category": "education",
+      "lat": 47.6467207,
+      "lon": 23.5562861,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Grădinița cu program prelungit \"Floare de colț\" Nr. 34"
+      }
+    },
+    {
+      "id": "way/249951637",
+      "osm_id": 249951637,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.6560703,
+      "lon": 23.5650834,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/308888321",
+      "osm_id": 308888321,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.656394,
+      "lon": 23.5596446,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/308888325",
+      "osm_id": 308888325,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.6565513,
+      "lon": 23.5596296,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/338617493",
+      "osm_id": 338617493,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.648036,
+      "lon": 23.5594488,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/338617494",
+      "osm_id": 338617494,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.6475809,
+      "lon": 23.5598072,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/338617496",
+      "osm_id": 338617496,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.6468242,
+      "lon": 23.5598088,
+      "tags": {
+        "building": "school",
+        "building:levels": "3"
+      }
+    },
+    {
+      "id": "way/356344582",
+      "osm_id": 356344582,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.6528784,
+      "lon": 23.5438622,
+      "tags": {
+        "building": "school",
+        "building:levels": "2"
+      }
+    },
+    {
+      "id": "way/443628292",
+      "osm_id": 443628292,
+      "osm_type": "way",
+      "name": "Colegiul Național Gheorghe Șincai",
+      "category": "education",
+      "lat": 47.6577075,
+      "lon": 23.5783212,
+      "tags": {
+        "building": "school",
+        "name": "Colegiul Național Gheorghe Șincai"
+      }
+    },
+    {
+      "id": "way/443633387",
+      "osm_id": 443633387,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.6495533,
+      "lon": 23.5549833,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/443958248",
+      "osm_id": 443958248,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.6580232,
+      "lon": 23.5683832,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/443958249",
+      "osm_id": 443958249,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.6579003,
+      "lon": 23.5696266,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/443958250",
+      "osm_id": 443958250,
+      "osm_type": "way",
+      "name": "Colegiul Național Vasile Lucaciu",
+      "category": "education",
+      "lat": 47.6579494,
+      "lon": 23.5691308,
+      "tags": {
+        "amenity": "school",
+        "name": "Colegiul Național Vasile Lucaciu"
+      }
+    },
+    {
+      "id": "way/443958853",
+      "osm_id": 443958853,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.6492445,
+      "lon": 23.553028,
+      "tags": {
+        "building": "kindergarten"
+      }
+    },
+    {
+      "id": "way/443958854",
+      "osm_id": 443958854,
+      "osm_type": "way",
+      "name": "Grădinița cu program prelungit Nr. 25",
+      "category": "education",
+      "lat": 47.6492191,
+      "lon": 23.5530343,
+      "tags": {
+        "addr:city": "Baia Mare",
+        "addr:housenumber": "4",
+        "addr:street": "Strada Jupiter",
+        "amenity": "kindergarten",
+        "email": "gradinita25@yahoo.com",
+        "name": "Grădinița cu program prelungit Nr. 25",
+        "phone": "0262221009",
+        "website": "https://www.gpp25.ro/"
+      }
+    },
+    {
+      "id": "way/443958889",
+      "osm_id": 443958889,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Ion Luca Caragiale",
+      "category": "education",
+      "lat": 47.6496922,
+      "lon": 23.5550331,
+      "tags": {
+        "addr:housenumber": "26A",
+        "addr:street": "Bulevardul Traian",
+        "alt_name": "Școala 15",
+        "amenity": "school",
+        "name": "Școala Gimnazială Ion Luca Caragiale"
+      }
+    },
+    {
+      "id": "way/454674091",
+      "osm_id": 454674091,
+      "osm_type": "way",
+      "name": "Facultatea de Științe și Litere - Centrul Universitar Nord din Baia Mare",
+      "category": "education",
+      "lat": 47.660241,
+      "lon": 23.5645302,
+      "tags": {
+        "amenity": "university",
+        "name": "Facultatea de Științe și Litere - Centrul Universitar Nord din Baia Mare"
+      }
+    },
+    {
+      "id": "way/463402373",
+      "osm_id": 463402373,
+      "osm_type": "way",
+      "name": "Facultatea de Inginerie - Centrul Universitar Nord din Baia Mare",
+      "category": "education",
+      "lat": 47.6601183,
+      "lon": 23.5445103,
+      "tags": {
+        "amenity": "university",
+        "name": "Facultatea de Inginerie - Centrul Universitar Nord din Baia Mare"
+      }
+    },
+    {
+      "id": "way/463402929",
+      "osm_id": 463402929,
+      "osm_type": "way",
+      "name": "Școala de Mineri",
+      "category": "education",
+      "lat": 47.6594657,
+      "lon": 23.542728,
+      "tags": {
+        "building": "school",
+        "building:condition": "abandoned",
+        "disused:amenity": "school",
+        "name": "Școala de Mineri"
+      }
+    },
+    {
+      "id": "way/463402935",
+      "osm_id": 463402935,
+      "osm_type": "way",
+      "name": "Grup Școlar Gheorghe Lazăr",
+      "category": "education",
+      "lat": 47.6587726,
+      "lon": 23.5451099,
+      "tags": {
+        "alt_name": "Liceul 2",
+        "amenity": "school",
+        "name": "Grup Școlar Gheorghe Lazăr"
+      }
+    },
+    {
+      "id": "way/463402937",
+      "osm_id": 463402937,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.6588775,
+      "lon": 23.5448508,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/463402940",
+      "osm_id": 463402940,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.6584932,
+      "lon": 23.5450121,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/463406313",
+      "osm_id": 463406313,
+      "osm_type": "way",
+      "name": "Liceul Teoretic Emil Racoviță",
+      "category": "education",
+      "lat": 47.6535908,
+      "lon": 23.5567006,
+      "tags": {
+        "addr:housenumber": "8",
+        "addr:street": "Bulevardul Republicii",
+        "alt_name": "Liceul 6",
+        "amenity": "school",
+        "name": "Liceul Teoretic Emil Racoviță"
+      }
+    },
+    {
+      "id": "way/463406317",
+      "osm_id": 463406317,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.6530499,
+      "lon": 23.5567439,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/463406320",
+      "osm_id": 463406320,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Nicolae Iorga",
+      "category": "education",
+      "lat": 47.6563716,
+      "lon": 23.55984,
+      "tags": {
+        "addr:city": "Baia Mare",
+        "addr:housenumber": "1",
+        "addr:street": "Strada Gheorghe Bilașcu",
+        "alt_name": "Școala 11",
+        "amenity": "school",
+        "name": "Școala Gimnazială Nicolae Iorga"
+      }
+    },
+    {
+      "id": "way/463407711",
+      "osm_id": 463407711,
+      "osm_type": "way",
+      "name": "Liceul de Artă",
+      "category": "education",
+      "lat": 47.6643963,
+      "lon": 23.5759088,
+      "tags": {
+        "amenity": "school",
+        "name": "Liceul de Artă"
+      }
+    },
+    {
+      "id": "way/463407712",
+      "osm_id": 463407712,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.6647123,
+      "lon": 23.5756977,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/463408087",
+      "osm_id": 463408087,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Alexandru Ioan Cuza",
+      "category": "education",
+      "lat": 47.6539679,
+      "lon": 23.5521419,
+      "tags": {
+        "addr:housenumber": "7",
+        "addr:street": "Strada Cuza Vodă",
+        "alt_name": "Școala 17",
+        "amenity": "school",
+        "name": "Școala Gimnazială Alexandru Ioan Cuza"
+      }
+    },
+    {
+      "id": "way/463408088",
+      "osm_id": 463408088,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.653813,
+      "lon": 23.5524017,
+      "tags": {
+        "building": "school",
+        "building:levels": "3"
+      }
+    },
+    {
+      "id": "way/463408091",
+      "osm_id": 463408091,
+      "osm_type": "way",
+      "name": "Grădinița cu program prelungit Micul Prinț",
+      "category": "education",
+      "lat": 47.6530299,
+      "lon": 23.5526012,
+      "tags": {
+        "amenity": "school",
+        "name": "Grădinița cu program prelungit Micul Prinț"
+      }
+    },
+    {
+      "id": "way/463408092",
+      "osm_id": 463408092,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.6531194,
+      "lon": 23.5527015,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/463415313",
+      "osm_id": 463415313,
+      "osm_type": "way",
+      "name": "FÎPCM Spiru Haret",
+      "category": "education",
+      "lat": 47.6675956,
+      "lon": 23.5687839,
+      "tags": {
+        "amenity": "school",
+        "name": "FÎPCM Spiru Haret"
+      }
+    },
+    {
+      "id": "way/463736643",
+      "osm_id": 463736643,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.6554634,
+      "lon": 23.570897,
+      "tags": {
+        "building": "school",
+        "building:levels": "4"
+      }
+    },
+    {
+      "id": "way/475585300",
+      "osm_id": 475585300,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.6552389,
+      "lon": 23.5721441,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/475585306",
+      "osm_id": 475585306,
+      "osm_type": "way",
+      "name": "Colegiul Național Mihai Eminescu",
+      "category": "education",
+      "lat": 47.6552513,
+      "lon": 23.5721877,
+      "tags": {
+        "addr:city": "Baia Mare",
+        "addr:housenumber": "7",
+        "addr:street": "Strada Culturii",
+        "amenity": "college",
+        "name": "Colegiul Național Mihai Eminescu"
+      }
+    },
+    {
+      "id": "way/549516601",
+      "osm_id": 549516601,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.6435297,
+      "lon": 23.5769062,
+      "tags": {
+        "building": "kindergarten"
+      }
+    },
+    {
+      "id": "way/549905354",
+      "osm_id": 549905354,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.6534928,
+      "lon": 23.574262,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/549905381",
+      "osm_id": 549905381,
+      "osm_type": "way",
+      "name": "Colegiul Național Gheorghe Șincai ",
+      "category": "education",
+      "lat": 47.6577703,
+      "lon": 23.5774557,
+      "tags": {
+        "building": "school",
+        "name": "Colegiul Național Gheorghe Șincai "
+      }
+    },
+    {
+      "id": "way/549905417",
+      "osm_id": 549905417,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.6562505,
+      "lon": 23.5778775,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/549905502",
+      "osm_id": 549905502,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.6516781,
+      "lon": 23.5724649,
+      "tags": {
+        "addr:city": "Baia Mare",
+        "addr:street": "Strada Școlii",
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/660168045",
+      "osm_id": 660168045,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.6530862,
+      "lon": 23.5623906,
+      "tags": {
+        "building": "school",
+        "building:levels": "2"
+      }
+    },
+    {
+      "id": "way/728203860",
+      "osm_id": 728203860,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.6508318,
+      "lon": 23.5714856,
+      "tags": {
+        "addr:city": "Baia Mare",
+        "addr:street": "Strada Școlii",
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/728205027",
+      "osm_id": 728205027,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.6599589,
+      "lon": 23.5618051,
+      "tags": {
+        "alt_name": "Școala 4",
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "way/728210807",
+      "osm_id": 728210807,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.6584732,
+      "lon": 23.5480192,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/728792317",
+      "osm_id": 728792317,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.6464389,
+      "lon": 23.5656519,
+      "tags": {
+        "addr:city": "Baia Mare",
+        "addr:postcode": "430191",
+        "addr:street": "Bulevardul Republicii",
+        "building": "school",
+        "building:levels": "4"
+      }
+    },
+    {
+      "id": "way/729130166",
+      "osm_id": 729130166,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.6534357,
+      "lon": 23.5596323,
+      "tags": {
+        "building": "kindergarten"
+      }
+    },
+    {
+      "id": "way/729959537",
+      "osm_id": 729959537,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.6465838,
+      "lon": 23.5593193,
+      "tags": {
+        "building": "kindergarten",
+        "building:levels": "2"
+      }
+    },
+    {
+      "id": "way/731181751",
+      "osm_id": 731181751,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.6481631,
+      "lon": 23.5886006,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/1357878986",
+      "osm_id": 1357878986,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Dimitrie Cantemir",
+      "category": "education",
+      "lat": 47.6476848,
+      "lon": 23.5594604,
+      "tags": {
+        "alt_name": "Școala 3",
+        "amenity": "school",
+        "name": "Școala Gimnazială Dimitrie Cantemir"
+      }
+    },
+    {
+      "id": "way/1357898767",
+      "osm_id": 1357898767,
+      "osm_type": "way",
+      "name": "Grădinița cu program prelungit \"Floare de colț\" Nr. 36",
+      "category": "education",
+      "lat": 47.646614,
+      "lon": 23.559132,
+      "tags": {
+        "addr:city": "Baia Mare",
+        "addr:housenumber": "7",
+        "addr:postcode": "430194",
+        "addr:street": "Strada Bucovinei",
+        "amenity": "kindergarten",
+        "name": "Grădinița cu program prelungit \"Floare de colț\" Nr. 36"
+      }
+    },
+    {
+      "id": "way/1357898771",
+      "osm_id": 1357898771,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Alexandru Ivasiuc",
+      "category": "education",
+      "lat": 47.6469088,
+      "lon": 23.5595922,
+      "tags": {
+        "addr:city": "Baia Mare",
+        "addr:housenumber": "9",
+        "addr:postcode": "430194",
+        "addr:street": "Strada Bucovinei",
+        "alt_name": "Școala 21",
+        "amenity": "school",
+        "name": "Școala Gimnazială Alexandru Ivasiuc"
+      }
+    },
+    {
+      "id": "way/1358109978",
+      "osm_id": 1358109978,
+      "osm_type": "way",
+      "name": "Liceul cu Program Sportiv",
+      "category": "education",
+      "lat": 47.646764,
+      "lon": 23.5651215,
+      "tags": {
+        "addr:city": "Baia Mare",
+        "addr:housenumber": "33",
+        "addr:postcode": "430191",
+        "addr:street": "Bulevardul Republicii",
+        "alt_name": "Școala 19",
+        "amenity": "school",
+        "name": "Liceul cu Program Sportiv"
+      }
+    },
+    {
+      "id": "way/1390053258",
+      "osm_id": 1390053258,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Nr. 18",
+      "category": "education",
+      "lat": 47.6525044,
+      "lon": 23.5474045,
+      "tags": {
+        "addr:housenumber": "2",
+        "addr:street": "Aleea Filaturii",
+        "alt_name": "Școala 18",
+        "amenity": "school",
+        "name": "Școala Gimnazială Nr. 18"
+      }
+    },
+    {
+      "id": "way/1390135969",
+      "osm_id": 1390135969,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.6527176,
+      "lon": 23.5461534,
+      "tags": {
+        "building": "kindergarten"
+      }
+    },
+    {
+      "id": "way/1390135971",
+      "osm_id": 1390135971,
+      "osm_type": "way",
+      "name": "Liceul Teologic Penticostal",
+      "category": "education",
+      "lat": 47.652661,
+      "lon": 23.5439122,
+      "tags": {
+        "addr:city": "Baia Mare",
+        "addr:housenumber": "9",
+        "addr:postcode": "430022",
+        "addr:street": "Strada Dragoș Vodă",
+        "amenity": "school",
+        "name": "Liceul Teologic Penticostal"
+      }
+    },
+    {
+      "id": "way/1390135974",
+      "osm_id": 1390135974,
+      "osm_type": "way",
+      "name": "Grădinița cu program prelungit Nr. 28",
+      "category": "education",
+      "lat": 47.6526824,
+      "lon": 23.5462097,
+      "tags": {
+        "addr:city": "Baia Mare",
+        "addr:housenumber": "4",
+        "addr:street": "Aleea Filaturii",
+        "amenity": "kindergarten",
+        "name": "Grădinița cu program prelungit Nr. 28"
+      }
+    },
+    {
+      "id": "way/1392322777",
+      "osm_id": 1392322777,
+      "osm_type": "way",
+      "name": "Grădinița cu program prelungit Nr. 9",
+      "category": "education",
+      "lat": 47.6546575,
+      "lon": 23.5601604,
+      "tags": {
+        "addr:city": "Baia Mare",
+        "addr:housenumber": "3A",
+        "addr:street": "Strada Nicolae Iorga",
+        "amenity": "kindergarten",
+        "name": "Grădinița cu program prelungit Nr. 9"
+      }
+    },
+    {
+      "id": "way/1393235397",
+      "osm_id": 1393235397,
+      "osm_type": "way",
+      "name": "Școala Gimnazială George Coșbuc",
+      "category": "education",
+      "lat": 47.6563797,
+      "lon": 23.5649098,
+      "tags": {
+        "addr:city": "Baia Mare",
+        "addr:housenumber": "19A",
+        "addr:street": "Strada Gheorghe Bilașcu",
+        "alt_name": "Școala 14",
+        "amenity": "school",
+        "name": "Școala Gimnazială George Coșbuc"
+      }
+    },
+    {
+      "id": "way/1393403523",
+      "osm_id": 1393403523,
+      "osm_type": "way",
+      "name": "Grădinița cu program normal Nr. 20",
+      "category": "education",
+      "lat": 47.6534921,
+      "lon": 23.5596167,
+      "tags": {
+        "addr:city": "Baia Mare",
+        "addr:housenumber": "20",
+        "addr:street": "Bulevardul Regele Mihai I",
+        "amenity": "kindergarten",
+        "name": "Grădinița cu program normal Nr. 20"
+      }
+    },
+    {
+      "id": "way/1409719450",
+      "osm_id": 1409719450,
+      "osm_type": "way",
+      "name": "Colegiul Tehnic George Barițiu",
+      "category": "education",
+      "lat": 47.6553816,
+      "lon": 23.5708363,
+      "tags": {
+        "addr:city": "Baia Mare",
+        "addr:housenumber": "9",
+        "addr:postcode": "430282",
+        "addr:street": "Strada Culturii",
+        "alt_name": "Liceul 4",
+        "amenity": "college",
+        "name": "Colegiul Tehnic George Barițiu"
+      }
+    },
+    {
+      "id": "way/1409783284",
+      "osm_id": 1409783284,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Nichita Stănescu",
+      "category": "education",
+      "lat": 47.6594477,
+      "lon": 23.5551036,
+      "tags": {
+        "addr:housenumber": "26A",
+        "addr:street": "Bulevardul Traian",
+        "alt_name": "Școala 15",
+        "amenity": "school",
+        "name": "Școala Gimnazială Nichita Stănescu"
+      }
+    },
+    {
+      "id": "way/1412481494",
+      "osm_id": 1412481494,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Lucian Blaga",
+      "category": "education",
+      "lat": 47.6536893,
+      "lon": 23.5741747,
+      "tags": {
+        "alt_name": "Școala 8",
+        "amenity": "school",
+        "name": "Școala Gimnazială Lucian Blaga"
+      }
+    },
+    {
+      "id": "way/1412481497",
+      "osm_id": 1412481497,
+      "osm_type": "way",
+      "name": "Colegiul Economic Nicolae Titulescu",
+      "category": "education",
+      "lat": 47.6527223,
+      "lon": 23.5730841,
+      "tags": {
+        "amenity": "college",
+        "name": "Colegiul Economic Nicolae Titulescu"
+      }
+    },
+    {
+      "id": "way/1412503764",
+      "osm_id": 1412503764,
+      "osm_type": "way",
+      "name": "Creșa Nr. 5",
+      "category": "education",
+      "lat": 47.6585418,
+      "lon": 23.549443,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Creșa Nr. 5"
+      }
+    },
+    {
+      "id": "way/1412503765",
+      "osm_id": 1412503765,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Dr. Victor Babeș",
+      "category": "education",
+      "lat": 47.6585053,
+      "lon": 23.5481281,
+      "tags": {
+        "addr:housenumber": "132A",
+        "addr:postcode": "435100",
+        "addr:street": "Strada Victoriei",
+        "alt_name": "Școala 12",
+        "amenity": "school",
+        "name": "Școala Gimnazială Dr. Victor Babeș"
+      }
+    },
+    {
+      "id": "way/1412513755",
+      "osm_id": 1412513755,
+      "osm_type": "way",
+      "name": "Grădinița cu program prelungit Otilia Cazimir",
+      "category": "education",
+      "lat": 47.6435932,
+      "lon": 23.5769105,
+      "tags": {
+        "addr:city": "Baia Mare",
+        "amenity": "kindergarten",
+        "name": "Grădinița cu program prelungit Otilia Cazimir"
+      }
+    },
+    {
+      "id": "way/1412513758",
+      "osm_id": 1412513758,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Vasile Alecsandri",
+      "category": "education",
+      "lat": 47.6441879,
+      "lon": 23.5762257,
+      "tags": {
+        "alt_name": "Școala 5",
+        "amenity": "school",
+        "name": "Școala Gimnazială Vasile Alecsandri"
+      }
+    },
+    {
+      "id": "way/1412513759",
+      "osm_id": 1412513759,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Simion Bărnuţiu",
+      "category": "education",
+      "lat": 47.6481283,
+      "lon": 23.5884522,
+      "tags": {
+        "alt_name": "Școala 10",
+        "amenity": "school",
+        "name": "Școala Gimnazială Simion Bărnuţiu"
+      }
+    },
+    {
+      "id": "node/2962819907",
+      "osm_id": 2962819907,
+      "osm_type": "node",
+      "name": "Biserica Ortodoxă Ferneziu",
+      "category": "place_of_worship",
+      "lat": 47.6913306,
+      "lon": 23.6271627,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă Ferneziu",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/2962820138",
+      "osm_id": 2962820138,
+      "osm_type": "node",
+      "name": "Biserica Penticostală Ferneziu",
+      "category": "place_of_worship",
+      "lat": 47.6924428,
+      "lon": 23.6277011,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "pentecostal",
+        "name": "Biserica Penticostală Ferneziu",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/4247494504",
+      "osm_id": 4247494504,
+      "osm_type": "node",
+      "name": "Sala Regatului a Martorilor lui Iehova",
+      "category": "place_of_worship",
+      "lat": 47.6637896,
+      "lon": 23.5466129,
+      "tags": {
+        "addr:city": "Baia Mare",
+        "addr:housenumber": "100",
+        "addr:postcode": "430094",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Ciocârliei",
+        "amenity": "place_of_worship",
+        "denomination": "jehovahs_witness",
+        "name": "Sala Regatului a Martorilor lui Iehova",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/4469614693",
+      "osm_id": 4469614693,
+      "osm_type": "node",
+      "name": "Biserica Credinței",
+      "category": "place_of_worship",
+      "lat": 47.6618895,
+      "lon": 23.5744644,
+      "tags": {
+        "addr:housenumber": "24",
+        "addr:street": "Strada Victoriei",
+        "amenity": "place_of_worship",
+        "denomination": "christian",
+        "name": "Biserica Credinței",
+        "name:en": "Faith Church",
+        "name:hu": "Hit Gyülekezete",
+        "opening_hours": "Su 17:00-21:00",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/5851442085",
+      "osm_id": 5851442085,
+      "osm_type": "node",
+      "name": "Mânăstirea Sfânta Maria",
+      "category": "place_of_worship",
+      "lat": 47.6695401,
+      "lon": 23.5890024,
+      "tags": {
+        "amenity": "monastery",
+        "denomination": "greek_catholic",
+        "name": "Mânăstirea Sfânta Maria",
+        "opening_hours": "Mo-Su 09:00-18:00",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/6181841322",
+      "osm_id": 6181841322,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 47.6652428,
+      "lon": 23.5855007,
+      "tags": {
+        "denomination": "catholic",
+        "historic": "wayside_cross",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/6183606463",
+      "osm_id": 6183606463,
+      "osm_type": "node",
+      "name": "Biserica Catolică",
+      "category": "place_of_worship",
+      "lat": 47.6523655,
+      "lon": 23.5597113,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "catholic",
+        "name": "Biserica Catolică",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/8484857150",
+      "osm_id": 8484857150,
+      "osm_type": "node",
+      "name": "Capela Sfântului Francisc de Assisi",
+      "category": "place_of_worship",
+      "lat": 47.6416766,
+      "lon": 23.5805195,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "roman_catholic",
+        "name": "Capela Sfântului Francisc de Assisi",
+        "name:hu": "Assisi Szent Ferenc kápolna",
+        "religion": "christian",
+        "url:miserend": "https://miserend.hu/templom/4676"
+      }
+    },
+    {
+      "id": "node/12582241027",
+      "osm_id": 12582241027,
+      "osm_type": "node",
+      "name": "Librăria Betel",
+      "category": "place_of_worship",
+      "lat": 47.6487951,
+      "lon": 23.5620274,
+      "tags": {
+        "addr:city": "Baia Mare",
+        "addr:housenumber": "21",
+        "addr:street": "Bulevardul Republicii",
+        "name": "Librăria Betel",
+        "religion": "christian",
+        "shop": "books"
+      }
+    },
+    {
+      "id": "way/292748382",
+      "osm_id": 292748382,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 47.6914821,
+      "lon": 23.6274266,
+      "tags": {
+        "amenity": "grave_yard",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/298267727",
+      "osm_id": 298267727,
+      "osm_type": "way",
+      "name": "Cimitirul Dealul Florilor",
+      "category": "place_of_worship",
+      "lat": 47.6671333,
+      "lon": 23.5752005,
+      "tags": {
+        "denomination": "greek_orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitirul Dealul Florilor",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/387596057",
+      "osm_id": 387596057,
+      "osm_type": "way",
+      "name": "Biserica Sfânta Elisabeta",
+      "category": "place_of_worship",
+      "lat": 47.6740798,
+      "lon": 23.6200511,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "roman_catholic",
+        "name": "Biserica Sfânta Elisabeta",
+        "name:hu": "Árpádházi Szent Erzsébet templom",
+        "religion": "christian",
+        "url:miserend": "http://miserend.hu/?templom=4673"
+      }
+    },
+    {
+      "id": "way/443633385",
+      "osm_id": 443633385,
+      "osm_type": "way",
+      "name": "Biserica „Soborul Sfinților 12 Apostoli”",
+      "category": "place_of_worship",
+      "lat": 47.6487185,
+      "lon": 23.5545555,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "check_date": "2026-02-10",
+        "denomination": "orthodox",
+        "name": "Biserica „Soborul Sfinților 12 Apostoli”",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/443642534",
+      "osm_id": 443642534,
+      "osm_type": "way",
+      "name": "Catedrala Sfânta Maria",
+      "category": "place_of_worship",
+      "lat": 47.64982,
+      "lon": 23.5715499,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "catholic",
+        "name": "Catedrala Sfânta Maria",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/443642539",
+      "osm_id": 443642539,
+      "osm_type": "way",
+      "name": "Curtea Catedralei Episcopale din Baia Mare",
+      "category": "place_of_worship",
+      "lat": 47.6464343,
+      "lon": 23.5728281,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "religious",
+        "name": "Curtea Catedralei Episcopale din Baia Mare",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/443642540",
+      "osm_id": 443642540,
+      "osm_type": "way",
+      "name": "Catedrala Ortodoxă Episcopală \"Sfânta Treime\"",
+      "category": "place_of_worship",
+      "lat": 47.6463482,
+      "lon": 23.5729137,
+      "tags": {
+        "addr:city": "Baia Mare",
+        "addr:housenumber": "17",
+        "addr:postcode": "430232",
+        "addr:street": "Bulevardul Unirii",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Catedrala Ortodoxă Episcopală \"Sfânta Treime\"",
+        "religion": "christian",
+        "website": "http://www.catedrala-baia-mare.ro/"
+      }
+    },
+    {
+      "id": "way/445138569",
+      "osm_id": 445138569,
+      "osm_type": "way",
+      "name": "Biserica Cristos Regele Universului",
+      "category": "place_of_worship",
+      "lat": 47.6647816,
+      "lon": 23.5739283,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "check_date": "2026-03-26",
+        "denomination": "roman_catholic",
+        "name": "Biserica Cristos Regele Universului",
+        "name:hu": "Krisztus Király templom",
+        "religion": "christian",
+        "url:miserend": "https://miserend.hu/templom/4672"
+      }
+    },
+    {
+      "id": "way/463402374",
+      "osm_id": 463402374,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă Sfântul Ilie Săsar",
+      "category": "place_of_worship",
+      "lat": 47.6619033,
+      "lon": 23.5448967,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica Ortodoxă Sfântul Ilie Săsar",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/463406319",
+      "osm_id": 463406319,
+      "osm_type": "way",
+      "name": "Biserica Nașterea Domnului",
+      "category": "place_of_worship",
+      "lat": 47.6568184,
+      "lon": 23.5556735,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica Nașterea Domnului",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/463406324",
+      "osm_id": 463406324,
+      "osm_type": "way",
+      "name": "Biserica Baptistă Maghiară",
+      "category": "place_of_worship",
+      "lat": 47.657997,
+      "lon": 23.56731,
+      "tags": {
+        "building": "church",
+        "name": "Biserica Baptistă Maghiară"
+      }
+    },
+    {
+      "id": "way/467723690",
+      "osm_id": 467723690,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă Sfântul Ierarh Nicolae",
+      "category": "place_of_worship",
+      "lat": 47.658372,
+      "lon": 23.5825015,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica Ortodoxă Sfântul Ierarh Nicolae",
+        "religion": "christian",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "id": "way/467723691",
+      "osm_id": 467723691,
+      "osm_type": "way",
+      "name": "Biserica Sfânta Treime",
+      "category": "place_of_worship",
+      "lat": 47.6584354,
+      "lon": 23.5831668,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "roman_catholic",
+        "name": "Biserica Sfânta Treime",
+        "name:hu": "Szentháromság templom",
+        "religion": "christian",
+        "url:miserend": "https://miserend.hu/templom/4670"
+      }
+    },
+    {
+      "id": "way/549905362",
+      "osm_id": 549905362,
+      "osm_type": "way",
+      "name": "Biserica Greco-catolica Bunavestire",
+      "category": "place_of_worship",
+      "lat": 47.6537833,
+      "lon": 23.5748175,
+      "tags": {
+        "addr:city": "Baia Mare",
+        "addr:housenumber": "8",
+        "addr:street": "Strada Agriculturii",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "catholic",
+        "name": "Biserica Greco-catolica Bunavestire",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/653543679",
+      "osm_id": 653543679,
+      "osm_type": "way",
+      "name": "Biserica Greco-Catolică Sfânta Cruce",
+      "category": "place_of_worship",
+      "lat": 47.6583673,
+      "lon": 23.5571702,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "catholic",
+        "name": "Biserica Greco-Catolică Sfânta Cruce",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/654452230",
+      "osm_id": 654452230,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă Sfinții Arhangheli Mihail și Gavril",
+      "category": "place_of_worship",
+      "lat": 47.6451549,
+      "lon": 23.5786613,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica Ortodoxă Sfinții Arhangheli Mihail și Gavril",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/660168078",
+      "osm_id": 660168078,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă de lemn Sfântul Andrei",
+      "category": "place_of_worship",
+      "lat": 47.6520321,
+      "lon": 23.5651104,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă de lemn Sfântul Andrei",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/660168079",
+      "osm_id": 660168079,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă Sfântul Andrei",
+      "category": "place_of_worship",
+      "lat": 47.6518516,
+      "lon": 23.5652048,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă Sfântul Andrei",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/660263710",
+      "osm_id": 660263710,
+      "osm_type": "way",
+      "name": "Casa de Rugaciune si Studiu Biblic",
+      "category": "place_of_worship",
+      "lat": 47.6655853,
+      "lon": 23.5714474,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "chapel",
+        "denomination": "protestant",
+        "name": "Casa de Rugaciune si Studiu Biblic",
+        "name:de": "Gebetshaus und Bibelstudium Baia Mare",
+        "name:en": "Prayer House and Bible Study Baia Mare",
+        "name:hu": "Ima és a Biblia Tanulmány háza",
+        "religion": "christian",
+        "website": "https://www.studentiibibliei.org/"
+      }
+    },
+    {
+      "id": "way/660279655",
+      "osm_id": 660279655,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 47.6523746,
+      "lon": 23.5598036,
+      "tags": {
+        "building": "church"
+      }
+    },
+    {
+      "id": "way/728199552",
+      "osm_id": 728199552,
+      "osm_type": "way",
+      "name": "Capela Rozália",
+      "category": "place_of_worship",
+      "lat": 47.6558241,
+      "lon": 23.5855683,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Capela Rozália",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/728202385",
+      "osm_id": 728202385,
+      "osm_type": "way",
+      "name": "Biserica Militară",
+      "category": "place_of_worship",
+      "lat": 47.641165,
+      "lon": 23.5684947,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Militară",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/728789613",
+      "osm_id": 728789613,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 47.6585286,
+      "lon": 23.5580232,
+      "tags": {
+        "building": "church"
+      }
+    },
+    {
+      "id": "way/728791774",
+      "osm_id": 728791774,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 47.6461383,
+      "lon": 23.5640255,
+      "tags": {
+        "addr:city": "Baia Mare",
+        "addr:housenumber": "30B",
+        "addr:street": "Bulevardul Republicii",
+        "building": "church"
+      }
+    },
+    {
+      "id": "way/729149805",
+      "osm_id": 729149805,
+      "osm_type": "way",
+      "name": "Biserica de lemn „Sfântul Iosif Mărturisitorul”",
+      "category": "place_of_worship",
+      "lat": 47.6542439,
+      "lon": 23.5578407,
+      "tags": {
+        "addr:city": "Baia Mare",
+        "addr:housenumber": "8",
+        "addr:street": "Bulevardul Republicii",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica de lemn „Sfântul Iosif Mărturisitorul”",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/729150506",
+      "osm_id": 729150506,
+      "osm_type": "way",
+      "name": "Biserica Reformată",
+      "category": "place_of_worship",
+      "lat": 47.6612684,
+      "lon": 23.5805601,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "check_date": "2026-04-12",
+        "denomination": "reformed",
+        "name": "Biserica Reformată",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/729181363",
+      "osm_id": 729181363,
+      "osm_type": "way",
+      "name": "Biserica Sfântul Iosif",
+      "category": "place_of_worship",
+      "lat": 47.6555513,
+      "lon": 23.5488497,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "roman_catholic",
+        "name": "Biserica Sfântul Iosif",
+        "name:hu": "Szent József templom",
+        "religion": "christian",
+        "url:miserend": "https://miserend.hu/templom/4675"
+      }
+    },
+    {
+      "id": "way/729950001",
+      "osm_id": 729950001,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă Înălțarea Domnului",
+      "category": "place_of_worship",
+      "lat": 47.6618755,
+      "lon": 23.554648,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă Înălțarea Domnului",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/729959538",
+      "osm_id": 729959538,
+      "osm_type": "way",
+      "name": "Biserica „Buna Vestire\"",
+      "category": "place_of_worship",
+      "lat": 47.6471808,
+      "lon": 23.5602441,
+      "tags": {
+        "addr:city": "Baia Mare",
+        "addr:housenumber": "7",
+        "addr:street": "Strada Bogdan Vodă",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica „Buna Vestire\"",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/730006730",
+      "osm_id": 730006730,
+      "osm_type": "way",
+      "name": "Biserica Penticostală \"Muntele Sionului\"",
+      "category": "place_of_worship",
+      "lat": 47.6484322,
+      "lon": 23.5660289,
+      "tags": {
+        "addr:city": "Baia Mare",
+        "addr:housenumber": "1",
+        "addr:street": "Strada Oituz",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "name": "Biserica Penticostală \"Muntele Sionului\""
+      }
+    },
+    {
+      "id": "way/730011993",
+      "osm_id": 730011993,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 47.6464948,
+      "lon": 23.5506243,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/730224982",
+      "osm_id": 730224982,
+      "osm_type": "way",
+      "name": "Biserica greco-catolică Adormirea Maicii Domnului",
+      "category": "place_of_worship",
+      "lat": 47.6616422,
+      "lon": 23.5881561,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "greek_catholic",
+        "name": "Biserica greco-catolică Adormirea Maicii Domnului",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/732380333",
+      "osm_id": 732380333,
+      "osm_type": "way",
+      "name": "sala",
+      "category": "place_of_worship",
+      "lat": 47.6637676,
+      "lon": 23.5465323,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "jehovahs_witness",
+        "name": "sala",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/849466107",
+      "osm_id": 849466107,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 47.6634923,
+      "lon": 23.523449,
+      "tags": {
+        "amenity": "grave_yard",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/927083156",
+      "osm_id": 927083156,
+      "osm_type": "way",
+      "name": "Biserica greco-catolică Schimbarea la Față Ferneziu",
+      "category": "place_of_worship",
+      "lat": 47.6927324,
+      "lon": 23.6265769,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "greek_catholic",
+        "name": "Biserica greco-catolică Schimbarea la Față Ferneziu",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1035763395",
+      "osm_id": 1035763395,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 47.6470093,
+      "lon": 23.573109,
+      "tags": {
+        "building": "church"
+      }
+    },
+    {
+      "id": "way/1221496812",
+      "osm_id": 1221496812,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 47.6684488,
+      "lon": 23.5517686,
+      "tags": {
+        "building": "church"
+      }
+    },
+    {
+      "id": "way/1326331325",
+      "osm_id": 1326331325,
+      "osm_type": "way",
+      "name": "Sinagoga Baia Mare",
+      "category": "place_of_worship",
+      "lat": 47.6585525,
+      "lon": 23.585373,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Sinagoga Baia Mare",
+        "religion": "jewish"
+      }
+    },
+    {
+      "id": "way/1421753712",
+      "osm_id": 1421753712,
+      "osm_type": "way",
+      "name": "Szent Miklós minorita templom",
+      "category": "place_of_worship",
+      "lat": 47.6583543,
+      "lon": 23.5811358,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "layer": "1",
+        "name": "Szent Miklós minorita templom",
+        "religion": "christian"
+      }
+    }
+  ]
+}

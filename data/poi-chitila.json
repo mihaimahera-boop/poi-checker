@@ -1,0 +1,516 @@
+{
+  "city": "Chitila",
+  "generated_at": "2026-04-23T09:39:09.250Z",
+  "counts": {
+    "total": 32,
+    "schools": 20,
+    "churches": 12
+  },
+  "pois": [
+    {
+      "id": "node/10120148918",
+      "osm_id": 10120148918,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.509056,
+      "lon": 25.9803021,
+      "tags": {
+        "amenity": "kindergarten"
+      }
+    },
+    {
+      "id": "node/11722109569",
+      "osm_id": 11722109569,
+      "osm_type": "node",
+      "name": "scoala rudeni",
+      "category": "education",
+      "lat": 44.4760022,
+      "lon": 25.9703481,
+      "tags": {
+        "amenity": "school",
+        "name": "scoala rudeni"
+      }
+    },
+    {
+      "id": "node/11722134669",
+      "osm_id": 11722134669,
+      "osm_type": "node",
+      "name": "Scoala Voinicel",
+      "category": "education",
+      "lat": 44.499049,
+      "lon": 25.9810758,
+      "tags": {
+        "addr:street": "Strada Școlii",
+        "amenity": "school",
+        "name": "Scoala Voinicel"
+      }
+    },
+    {
+      "id": "node/11722163569",
+      "osm_id": 11722163569,
+      "osm_type": "node",
+      "name": "ion visoiu. locatia 1",
+      "category": "education",
+      "lat": 44.5036995,
+      "lon": 25.9873553,
+      "tags": {
+        "addr:street": "Strada Victoriei",
+        "amenity": "school",
+        "name": "ion visoiu. locatia 1"
+      }
+    },
+    {
+      "id": "node/11722182869",
+      "osm_id": 11722182869,
+      "osm_type": "node",
+      "name": "scoala ion olteanu",
+      "category": "education",
+      "lat": 44.5086211,
+      "lon": 25.9823384,
+      "tags": {
+        "addr:street": "Strada Ion Olteanu",
+        "amenity": "school",
+        "name": "scoala ion olteanu"
+      }
+    },
+    {
+      "id": "node/11722227169",
+      "osm_id": 11722227169,
+      "osm_type": "node",
+      "name": "scoala ion visoiu locatia 2",
+      "category": "education",
+      "lat": 44.5179634,
+      "lon": 25.9802861,
+      "tags": {
+        "amenity": "school",
+        "name": "scoala ion visoiu locatia 2"
+      }
+    },
+    {
+      "id": "way/404456381",
+      "osm_id": 404456381,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.5040164,
+      "lon": 25.9874977,
+      "tags": {
+        "addr:city": "Chitila",
+        "addr:housenumber": "75",
+        "addr:postcode": "077045",
+        "addr:street": "Șoseaua Banatului",
+        "building": "school",
+        "building:levels": "2"
+      }
+    },
+    {
+      "id": "way/404456382",
+      "osm_id": 404456382,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Prof. Ion Vişoiu",
+      "category": "education",
+      "lat": 44.5040493,
+      "lon": 25.9876311,
+      "tags": {
+        "addr:city": "Chitila",
+        "addr:housenumber": "75",
+        "addr:postcode": "077045",
+        "addr:street": "Șoseaua Banatului",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Școala Gimnazială Prof. Ion Vişoiu"
+      }
+    },
+    {
+      "id": "way/453514516",
+      "osm_id": 453514516,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.5087078,
+      "lon": 25.9832196,
+      "tags": {
+        "building": "school",
+        "building:levels": "1"
+      }
+    },
+    {
+      "id": "way/765158877",
+      "osm_id": 765158877,
+      "osm_type": "way",
+      "name": "Grădinița Voinicel II",
+      "category": "education",
+      "lat": 44.5118519,
+      "lon": 25.9777854,
+      "tags": {
+        "addr:city": "Chitila",
+        "addr:postcode": "077045",
+        "addr:street": "Strada Mușețelului",
+        "building": "kindergarten",
+        "name": "Grădinița Voinicel II"
+      }
+    },
+    {
+      "id": "way/1086223939",
+      "osm_id": 1086223939,
+      "osm_type": "way",
+      "name": "Școala Primară Ion Olteanu",
+      "category": "education",
+      "lat": 44.5087214,
+      "lon": 25.9831517,
+      "tags": {
+        "addr:city": "Chitila",
+        "addr:housenumber": "2",
+        "addr:postcode": "077045",
+        "addr:street": "Strada Ion Olteanu",
+        "amenity": "school",
+        "barrier": "fence",
+        "grades": "0-4",
+        "name": "Școala Primară Ion Olteanu"
+      }
+    },
+    {
+      "id": "way/1086223948",
+      "osm_id": 1086223948,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.517871,
+      "lon": 25.9805835,
+      "tags": {
+        "building": "school",
+        "building:levels": "2",
+        "building:levels:underground": "2",
+        "height": "11",
+        "start_date": "2022"
+      }
+    },
+    {
+      "id": "way/1086223953",
+      "osm_id": 1086223953,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Chitila",
+      "category": "education",
+      "lat": 44.5177243,
+      "lon": 25.9806611,
+      "tags": {
+        "addr:city": "Chitila",
+        "addr:housenumber": "57",
+        "addr:postcode": "077045",
+        "addr:street": "Strada Troiței",
+        "amenity": "school",
+        "barrier": "fence",
+        "grades": "0-8",
+        "name": "Școala Gimnazială Chitila",
+        "start_date": "2022"
+      }
+    },
+    {
+      "id": "way/1086223957",
+      "osm_id": 1086223957,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.5086156,
+      "lon": 25.9801442,
+      "tags": {
+        "building": "kindergarten",
+        "building:levels": "2",
+        "building:levels:underground": "1"
+      }
+    },
+    {
+      "id": "way/1086223958",
+      "osm_id": 1086223958,
+      "osm_type": "way",
+      "name": "Grădinița Voinicel",
+      "category": "education",
+      "lat": 44.5085224,
+      "lon": 25.9801343,
+      "tags": {
+        "addr:city": "Chitila",
+        "addr:housenumber": "2 bis",
+        "addr:postcode": "077045",
+        "addr:street": "Șoseaua Banatului",
+        "amenity": "kindergarten",
+        "barrier": "fence",
+        "name": "Grădinița Voinicel",
+        "start_date": "2022"
+      }
+    },
+    {
+      "id": "way/1086240325",
+      "osm_id": 1086240325,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.4993763,
+      "lon": 25.9810115,
+      "tags": {
+        "building": "school",
+        "building:levels": "1"
+      }
+    },
+    {
+      "id": "way/1086240326",
+      "osm_id": 1086240326,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.4990741,
+      "lon": 25.9809399,
+      "tags": {
+        "building": "school",
+        "building:levels": "1"
+      }
+    },
+    {
+      "id": "way/1086240327",
+      "osm_id": 1086240327,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.4991222,
+      "lon": 25.9805639,
+      "tags": {
+        "building": "school",
+        "start_date": "2022"
+      }
+    },
+    {
+      "id": "way/1086240441",
+      "osm_id": 1086240441,
+      "osm_type": "way",
+      "name": "Școala Primară Eleonora Iliescu",
+      "category": "education",
+      "lat": 44.4992939,
+      "lon": 25.9808631,
+      "tags": {
+        "addr:city": "Chitila",
+        "addr:housenumber": "36",
+        "addr:postcode": "077045",
+        "addr:street": "Strada Școlii",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Școala Primară Eleonora Iliescu"
+      }
+    },
+    {
+      "id": "way/1104951571",
+      "osm_id": 1104951571,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.4760843,
+      "lon": 25.9701581,
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "node/3460431719",
+      "osm_id": 3460431719,
+      "osm_type": "node",
+      "name": "Biserica Ortodoxă \"Sfântul Mare Mucenic Gheorghe\" - Chitila II",
+      "category": "place_of_worship",
+      "lat": 44.4997457,
+      "lon": 25.9801875,
+      "tags": {
+        "addr:city": "Chitila",
+        "addr:housenumber": "38",
+        "addr:postcode": "077045",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Ana Ipătescu",
+        "amenity": "place_of_worship",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica Ortodoxă \"Sfântul Mare Mucenic Gheorghe\" - Chitila II",
+        "religion": "christian",
+        "source": "http://www.protoieriailfovsud.ro/church/biserica-parohiei-chitila-ii/",
+        "start_date": "1950"
+      }
+    },
+    {
+      "id": "node/13645759207",
+      "osm_id": 13645759207,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.4798213,
+      "lon": 25.9611565,
+      "tags": {
+        "amenity": "place_of_worship",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/27930950",
+      "osm_id": 27930950,
+      "osm_type": "way",
+      "name": "Cimitirul Ortodox „Chitila I”",
+      "category": "place_of_worship",
+      "lat": 44.5098502,
+      "lon": 25.9877578,
+      "tags": {
+        "addr:city": "Chitila",
+        "denomination": "romanian_orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitirul Ortodox „Chitila I”",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/338880939",
+      "osm_id": 338880939,
+      "osm_type": "way",
+      "name": "Cimitirul Ortodox „Chitila II”",
+      "category": "place_of_worship",
+      "lat": 44.4964013,
+      "lon": 25.9825775,
+      "tags": {
+        "addr:city": "Chitila",
+        "denomination": "romanian_orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitirul Ortodox „Chitila II”",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/338884325",
+      "osm_id": 338884325,
+      "osm_type": "way",
+      "name": "Cimitirul Ortodox Rudeni",
+      "category": "place_of_worship",
+      "lat": 44.4761449,
+      "lon": 25.9677955,
+      "tags": {
+        "addr:city": "Chitila",
+        "denomination": "romanian_orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitirul Ortodox Rudeni",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/404463611",
+      "osm_id": 404463611,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă Sfinții Mihail și Gavril",
+      "category": "place_of_worship",
+      "lat": 44.5044228,
+      "lon": 25.9884161,
+      "tags": {
+        "addr:city": "Chitila",
+        "addr:country": "RO",
+        "addr:housenumber": "18",
+        "addr:postcode": "077045",
+        "addr:street": "Șoseaua Banatului",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "romanian_orthodox",
+        "height": "18",
+        "name": "Biserica Ortodoxă Sfinții Mihail și Gavril",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/404463616",
+      "osm_id": 404463616,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.5043741,
+      "lon": 25.9884741,
+      "tags": {
+        "addr:city": "Chitila",
+        "barrier": "fence",
+        "denomination": "romanian_orthodox",
+        "landuse": "religious",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/453514518",
+      "osm_id": 453514518,
+      "osm_type": "way",
+      "name": "Biserica \"Sfântul Prooroc Ioan Botezătorul\" - Chitila I",
+      "category": "place_of_worship",
+      "lat": 44.509078,
+      "lon": 25.9829899,
+      "tags": {
+        "addr:city": "Chitila",
+        "addr:housenumber": "4",
+        "addr:postcode": "077045",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Intrarea Ion Olteanu",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica \"Sfântul Prooroc Ioan Botezătorul\" - Chitila I",
+        "religion": "christian",
+        "source": "http://www.protoieriailfovsud.ro/church/biserica-parohiei-chitila-i/",
+        "start_date": "1913"
+      }
+    },
+    {
+      "id": "way/1086240933",
+      "osm_id": 1086240933,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.4997135,
+      "lon": 25.9803327,
+      "tags": {
+        "barrier": "fence",
+        "denomination": "orthodox",
+        "landuse": "religious",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1104951572",
+      "osm_id": 1104951572,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.4751498,
+      "lon": 25.9713622,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1104954642",
+      "osm_id": 1104954642,
+      "osm_type": "way",
+      "name": "Biserica Penticostală Golgota Chitila",
+      "category": "place_of_worship",
+      "lat": 44.4972106,
+      "lon": 25.9776151,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "pentecostal",
+        "name": "Biserica Penticostală Golgota Chitila",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1169398971",
+      "osm_id": 1169398971,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.5090561,
+      "lon": 25.9828933,
+      "tags": {
+        "denomination": "romanian_orthodox",
+        "landuse": "religious",
+        "religion": "christian"
+      }
+    }
+  ]
+}

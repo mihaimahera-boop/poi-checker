@@ -1,0 +1,890 @@
+{
+  "city": "Sighișoara",
+  "generated_at": "2026-04-23T10:14:37.096Z",
+  "counts": {
+    "total": 57,
+    "schools": 26,
+    "churches": 31
+  },
+  "pois": [
+    {
+      "id": "node/202965818",
+      "osm_id": 202965818,
+      "osm_type": "node",
+      "name": "Liceul Joseph Haltrich",
+      "category": "education",
+      "lat": 46.217831,
+      "lon": 24.791413,
+      "tags": {
+        "amenity": "school",
+        "name": "Liceul Joseph Haltrich",
+        "name:de": "Bergschule Schäßburg",
+        "wikidata": "Q18549424",
+        "wikipedia": "de:Bergschule Schäßburg"
+      }
+    },
+    {
+      "id": "node/203327682",
+      "osm_id": 203327682,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.2144903,
+      "lon": 24.7896432,
+      "tags": {
+        "amenity": "school",
+        "old_name": "Liceul MIU"
+      }
+    },
+    {
+      "id": "node/203338431",
+      "osm_id": 203338431,
+      "osm_type": "node",
+      "name": "Radu Popa",
+      "category": "education",
+      "lat": 46.221991,
+      "lon": 24.792364,
+      "tags": {
+        "amenity": "school",
+        "created_by": "Potlatch 0.6a",
+        "name": "Radu Popa",
+        "old_name": "Generala 1"
+      }
+    },
+    {
+      "id": "node/203358770",
+      "osm_id": 203358770,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.220631,
+      "lon": 24.7925562,
+      "tags": {
+        "amenity": "school",
+        "name:signed": "no"
+      }
+    },
+    {
+      "id": "node/203359574",
+      "osm_id": 203359574,
+      "osm_type": "node",
+      "name": "Școala Gimnazială Zaharia Boiu",
+      "category": "education",
+      "lat": 46.2217416,
+      "lon": 24.7842873,
+      "tags": {
+        "amenity": "school",
+        "name": "Școala Gimnazială Zaharia Boiu",
+        "old_name": "Generala 4"
+      }
+    },
+    {
+      "id": "node/203360412",
+      "osm_id": 203360412,
+      "osm_type": "node",
+      "name": "Școala Generală Octavian Goga",
+      "category": "education",
+      "lat": 46.2124606,
+      "lon": 24.7809807,
+      "tags": {
+        "amenity": "school",
+        "name": "Școala Generală Octavian Goga",
+        "old_name": "Generala 5"
+      }
+    },
+    {
+      "id": "node/203361639",
+      "osm_id": 203361639,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.2221037,
+      "lon": 24.7978262,
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "node/203365605",
+      "osm_id": 203365605,
+      "osm_type": "node",
+      "name": "Școala gimnazială \"Aurel Mosora\"",
+      "category": "education",
+      "lat": 46.2222403,
+      "lon": 24.7986244,
+      "tags": {
+        "amenity": "school",
+        "check_date": "2025-06-21",
+        "created_by": "Potlatch 0.6",
+        "name": "Școala gimnazială \"Aurel Mosora\""
+      }
+    },
+    {
+      "id": "node/203366422",
+      "osm_id": 203366422,
+      "osm_type": "node",
+      "name": "Şcoala Gimnazială \"Miron Neagu\"",
+      "category": "education",
+      "lat": 46.2202734,
+      "lon": 24.7987317,
+      "tags": {
+        "amenity": "school",
+        "name": "Şcoala Gimnazială \"Miron Neagu\"",
+        "old_name": "Generala 3"
+      }
+    },
+    {
+      "id": "node/206100735",
+      "osm_id": 206100735,
+      "osm_type": "node",
+      "name": "Grup Școlar Agricol",
+      "category": "education",
+      "lat": 46.2160285,
+      "lon": 24.7915658,
+      "tags": {
+        "amenity": "school",
+        "name": "Grup Școlar Agricol"
+      }
+    },
+    {
+      "id": "node/265452064",
+      "osm_id": 265452064,
+      "osm_type": "node",
+      "name": "Liceul MIU",
+      "category": "education",
+      "lat": 46.2164248,
+      "lon": 24.7927296,
+      "tags": {
+        "amenity": "school",
+        "name": "Liceul MIU"
+      }
+    },
+    {
+      "id": "node/321978593",
+      "osm_id": 321978593,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.2207614,
+      "lon": 24.7929104,
+      "tags": {
+        "amenity": "school",
+        "note": "Musikschule"
+      }
+    },
+    {
+      "id": "node/1564332108",
+      "osm_id": 1564332108,
+      "osm_type": "node",
+      "name": "Școala Generală Dealul Viilor clasele I-VIII",
+      "category": "education",
+      "lat": 46.2403913,
+      "lon": 24.8100059,
+      "tags": {
+        "amenity": "school",
+        "name": "Școala Generală Dealul Viilor clasele I-VIII"
+      }
+    },
+    {
+      "id": "node/1564332784",
+      "osm_id": 1564332784,
+      "osm_type": "node",
+      "name": "nr. 4",
+      "category": "education",
+      "lat": 46.2404024,
+      "lon": 24.8100461,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "nr. 4"
+      }
+    },
+    {
+      "id": "node/1564386961",
+      "osm_id": 1564386961,
+      "osm_type": "node",
+      "name": "nr. 6",
+      "category": "education",
+      "lat": 46.216202,
+      "lon": 24.7944634,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "nr. 6"
+      }
+    },
+    {
+      "id": "node/8993711014",
+      "osm_id": 8993711014,
+      "osm_type": "node",
+      "name": "Grădinița cu program prelungit Târnava",
+      "category": "education",
+      "lat": 46.2149284,
+      "lon": 24.7871538,
+      "tags": {
+        "addr:city": "Sighișoara",
+        "addr:housenumber": "40",
+        "addr:street": "Strada Mihai Eminescu",
+        "amenity": "kindergarten",
+        "name": "Grădinița cu program prelungit Târnava",
+        "phone": "+40265772029"
+      }
+    },
+    {
+      "id": "node/8994106670",
+      "osm_id": 8994106670,
+      "osm_type": "node",
+      "name": "Liceul Tehnologic nr. 1",
+      "category": "education",
+      "lat": 46.2145503,
+      "lon": 24.7898336,
+      "tags": {
+        "amenity": "college",
+        "name": "Liceul Tehnologic nr. 1"
+      }
+    },
+    {
+      "id": "way/42717179",
+      "osm_id": 42717179,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.2267352,
+      "lon": 24.812773,
+      "tags": {
+        "amenity": "school",
+        "is_in:city": "Sighișoara"
+      }
+    },
+    {
+      "id": "way/192457447",
+      "osm_id": 192457447,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.2265723,
+      "lon": 24.8128347,
+      "tags": {
+        "amenity": "school",
+        "building": "yes",
+        "source": "BING"
+      }
+    },
+    {
+      "id": "way/192457450",
+      "osm_id": 192457450,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.2252633,
+      "lon": 24.8134457,
+      "tags": {
+        "amenity": "kindergarten",
+        "building": "yes",
+        "source": "BING"
+      }
+    },
+    {
+      "id": "way/240337094",
+      "osm_id": 240337094,
+      "osm_type": "way",
+      "name": "Liceul Mircea Eliade",
+      "category": "education",
+      "lat": 46.2195283,
+      "lon": 24.7964797,
+      "tags": {
+        "addr:city": "Sighișoara",
+        "addr:housenumber": "31",
+        "addr:street": "Strada 1 Decembrie 1918",
+        "amenity": "college",
+        "building": "yes",
+        "historic": "building",
+        "name": "Liceul Mircea Eliade"
+      }
+    },
+    {
+      "id": "way/264039074",
+      "osm_id": 264039074,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.2404661,
+      "lon": 24.8100763,
+      "tags": {
+        "amenity": "school",
+        "building": "yes",
+        "source": "Legea 544/2001"
+      }
+    },
+    {
+      "id": "way/264044840",
+      "osm_id": 264044840,
+      "osm_type": "way",
+      "name": "Sala sport",
+      "category": "education",
+      "lat": 46.2157024,
+      "lon": 24.7917233,
+      "tags": {
+        "building": "school",
+        "leisure": "sports_centre",
+        "name": "Sala sport",
+        "source": "Legea 544/2001"
+      }
+    },
+    {
+      "id": "way/264044872",
+      "osm_id": 264044872,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.2328359,
+      "lon": 24.8212243,
+      "tags": {
+        "building": "school",
+        "source": "Legea 544/2001"
+      }
+    },
+    {
+      "id": "way/896754780",
+      "osm_id": 896754780,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Zaharia Boiu",
+      "category": "education",
+      "lat": 46.232654,
+      "lon": 24.8208189,
+      "tags": {
+        "amenity": "school",
+        "name": "Școala Gimnazială Zaharia Boiu"
+      }
+    },
+    {
+      "id": "way/1020027952",
+      "osm_id": 1020027952,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.1818032,
+      "lon": 24.7893559,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "node/203225288",
+      "osm_id": 203225288,
+      "osm_type": "node",
+      "name": "Biserica Cornești",
+      "category": "place_of_worship",
+      "lat": 46.2203643,
+      "lon": 24.7822504,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Cornești",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/203902210",
+      "osm_id": 203902210,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 46.225787,
+      "lon": 24.7892926,
+      "tags": {
+        "denomination": "protestant",
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/330054485",
+      "osm_id": 330054485,
+      "osm_type": "node",
+      "name": "Capela Adormirea Maicii Domnului",
+      "category": "place_of_worship",
+      "lat": 46.2295842,
+      "lon": 24.8192908,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Capela Adormirea Maicii Domnului",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/5283629657",
+      "osm_id": 5283629657,
+      "osm_type": "node",
+      "name": "Biserica Unitariană",
+      "category": "place_of_worship",
+      "lat": 46.2248529,
+      "lon": 24.7944341,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "unitarian",
+        "name": "Biserica Unitariană",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/5366062042",
+      "osm_id": 5366062042,
+      "osm_type": "node",
+      "name": "Biserica Ortodoxă",
+      "category": "place_of_worship",
+      "lat": 46.2328454,
+      "lon": 24.8176102,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/5546368664",
+      "osm_id": 5546368664,
+      "osm_type": "node",
+      "name": "Biserica Nouă cu hramul Sf. Ioan Botezătorul",
+      "category": "place_of_worship",
+      "lat": 46.2150143,
+      "lon": 24.7867184,
+      "tags": {
+        "addr:city": "Sighișoara",
+        "addr:housenumber": "40",
+        "addr:street": "Strada Mihai Eminescu",
+        "alt_name": "Biserica Sfântul Ioan Botezătorul",
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Nouă cu hramul Sf. Ioan Botezătorul",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/9011070280",
+      "osm_id": 9011070280,
+      "osm_type": "node",
+      "name": "Biserica Nazarineanului",
+      "category": "place_of_worship",
+      "lat": 46.2141531,
+      "lon": 24.7907343,
+      "tags": {
+        "addr:city": "Sighișoara",
+        "addr:housenumber": "20",
+        "addr:street": "Strada Ștefan Octavian Iosif",
+        "amenity": "place_of_worship",
+        "denomination": "protestant",
+        "name": "Biserica Nazarineanului",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/19566086",
+      "osm_id": 19566086,
+      "osm_type": "way",
+      "name": "Cimitirul Evanghelic din Deal",
+      "category": "place_of_worship",
+      "lat": 46.2175398,
+      "lon": 24.7886244,
+      "tags": {
+        "denomination": "lutheran",
+        "is_in:city": "Sighișoara",
+        "landuse": "cemetery",
+        "name": "Cimitirul Evanghelic din Deal",
+        "name:de": "Evangelischer Bergfriedhof",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/19566304",
+      "osm_id": 19566304,
+      "osm_type": "way",
+      "name": "Cimitirul Schimbarea la față",
+      "category": "place_of_worship",
+      "lat": 46.2172173,
+      "lon": 24.7862882,
+      "tags": {
+        "alt_name": "Cimitirul Sighișoara",
+        "denomination": "catholic",
+        "is_in:city": "Sighișoara",
+        "landuse": "cemetery",
+        "name": "Cimitirul Schimbarea la față",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/19566425",
+      "osm_id": 19566425,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 46.2169119,
+      "lon": 24.7850695,
+      "tags": {
+        "denomination": "orthodox",
+        "is_in:city": "Sighișoara",
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/28748045",
+      "osm_id": 28748045,
+      "osm_type": "way",
+      "name": "Cimitirul Ortodox 1",
+      "category": "place_of_worship",
+      "lat": 46.2240188,
+      "lon": 24.775782,
+      "tags": {
+        "denomination": "orthodox",
+        "is_in:city": "Sighișoara",
+        "landuse": "cemetery",
+        "name": "Cimitirul Ortodox 1",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/29979393",
+      "osm_id": 29979393,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 46.2182558,
+      "lon": 24.8026864,
+      "tags": {
+        "is_in:city": "Sighișoara",
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/29980193",
+      "osm_id": 29980193,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 46.2157644,
+      "lon": 24.8008336,
+      "tags": {
+        "is_in:city": "Sighișoara",
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/29982061",
+      "osm_id": 29982061,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 46.2280782,
+      "lon": 24.8240204,
+      "tags": {
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/142967362",
+      "osm_id": 142967362,
+      "osm_type": "way",
+      "name": "Sfânta Treime",
+      "category": "place_of_worship",
+      "lat": 46.232705,
+      "lon": 24.8045277,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "cemetery",
+        "name": "Sfânta Treime",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/192457449",
+      "osm_id": 192457449,
+      "osm_type": "way",
+      "name": "Biserica Nouă",
+      "category": "place_of_worship",
+      "lat": 46.2247505,
+      "lon": 24.8065816,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Nouă",
+        "religion": "christian",
+        "source": "BING"
+      }
+    },
+    {
+      "id": "way/222687411",
+      "osm_id": 222687411,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 46.2255383,
+      "lon": 24.7894753,
+      "tags": {
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/223840494",
+      "osm_id": 223840494,
+      "osm_type": "way",
+      "name": "Catedrala Romano-Catolică Sf. Iosif",
+      "category": "place_of_worship",
+      "lat": 46.2211634,
+      "lon": 24.7928227,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "roman_catholic",
+        "name": "Catedrala Romano-Catolică Sf. Iosif",
+        "name:de": "Römisch-katholische Kathedrale St. Josef",
+        "name:hu": "Szent József templom",
+        "religion": "christian",
+        "url:miserend": "https://miserend.hu/templom/3164",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "id": "way/233081222",
+      "osm_id": 233081222,
+      "osm_type": "way",
+      "name": "Catedrala ortodoxă Sfânta Treime",
+      "category": "place_of_worship",
+      "lat": 46.2218706,
+      "lon": 24.7958934,
+      "tags": {
+        "addr:city": "Sighișoara",
+        "amenity": "place_of_worship",
+        "building": "cathedral",
+        "denomination": "orthodox",
+        "name": "Catedrala ortodoxă Sfânta Treime",
+        "name:ca": "Església de la Santíssima trinitat",
+        "name:en": "Holy Trinity Church",
+        "religion": "christian",
+        "wikidata": "Q4382309"
+      }
+    },
+    {
+      "id": "way/236295410",
+      "osm_id": 236295410,
+      "osm_type": "way",
+      "name": "Capela Cimitirului",
+      "category": "place_of_worship",
+      "lat": 46.2172866,
+      "lon": 24.7902546,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "lutheran",
+        "name": "Capela Cimitirului",
+        "name:en": "Cemetery chapel",
+        "religion": "christian",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "id": "way/240336377",
+      "osm_id": 240336377,
+      "osm_type": "way",
+      "name": "Biserica Reformată Sighișoara (1888)",
+      "category": "place_of_worship",
+      "lat": 46.2218656,
+      "lon": 24.7986917,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "reformed",
+        "historic": "building",
+        "name": "Biserica Reformată Sighișoara (1888)",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/240337345",
+      "osm_id": 240337345,
+      "osm_type": "way",
+      "name": "Biserica Mănăstirii Dominicane",
+      "category": "place_of_worship",
+      "lat": 46.2196593,
+      "lon": 24.7934785,
+      "tags": {
+        "addr:city": "Sighișoara",
+        "addr:street": "Strada Cetății",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "lutheran",
+        "name": "Biserica Mănăstirii Dominicane",
+        "name:de": "Klosterkirche",
+        "name:en": "Monastery Church",
+        "religion": "christian",
+        "tourism": "attraction",
+        "wheelchair": "no",
+        "wikidata": "Q18378645",
+        "wikipedia": "ro:Biserica Mănăstirii din Sighișoara"
+      }
+    },
+    {
+      "id": "way/264038288",
+      "osm_id": 264038288,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 46.2328748,
+      "lon": 24.8174692,
+      "tags": {
+        "building": "church",
+        "source": "Legea 544/2001"
+      }
+    },
+    {
+      "id": "way/264041019",
+      "osm_id": 264041019,
+      "osm_type": "way",
+      "name": "Biserica Sfântul Spirit",
+      "category": "place_of_worship",
+      "lat": 46.2250511,
+      "lon": 24.7894567,
+      "tags": {
+        "addr:city": "Sighișoara",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "greek_catholic",
+        "name": "Biserica Sfântul Spirit",
+        "name:de": "Siechhofkirche",
+        "name:en": "Holy Spirit Church (Lepers' Church)",
+        "name:ro": "Biserica Sfântul Spirit (Biserica Leproșilor)",
+        "religion": "christian",
+        "source": "Legea 544/2001",
+        "wikidata": "Q24952384",
+        "wikipedia": "ro:Biserica Leproșilor din Sighișoara"
+      }
+    },
+    {
+      "id": "way/264047337",
+      "osm_id": 264047337,
+      "osm_type": "way",
+      "name": "Sinagoga Sighișoara",
+      "category": "place_of_worship",
+      "lat": 46.2145724,
+      "lon": 24.7905691,
+      "tags": {
+        "addr:city": "Sighișoara",
+        "amenity": "place_of_worship",
+        "building": "synagogue",
+        "name": "Sinagoga Sighișoara",
+        "religion": "jewish",
+        "source": "Legea 544/2001",
+        "wikidata": "Q55685460"
+      }
+    },
+    {
+      "id": "way/264048676",
+      "osm_id": 264048676,
+      "osm_type": "way",
+      "name": "Biserica Nașterea Maicii Domnului",
+      "category": "place_of_worship",
+      "lat": 46.229891,
+      "lon": 24.8190565,
+      "tags": {
+        "addr:city": "Sighișoara",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica Nașterea Maicii Domnului",
+        "religion": "christian",
+        "source": "Legea 544/2001"
+      }
+    },
+    {
+      "id": "way/264051096",
+      "osm_id": 264051096,
+      "osm_type": "way",
+      "name": "Biserica din Deal",
+      "category": "place_of_worship",
+      "lat": 46.2176225,
+      "lon": 24.7906045,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "check_date": "2023-08-07",
+        "denomination": "lutheran",
+        "name": "Biserica din Deal",
+        "name:de": "Bergkirche",
+        "name:en": "The Hill Church",
+        "opening_hours": "Tu-Su 10:00-18:00",
+        "religion": "christian",
+        "source": "Legea 544/2001",
+        "tourism": "attraction",
+        "wheelchair": "no",
+        "wikipedia": "ro:Biserica din Deal din Sighișoara"
+      }
+    },
+    {
+      "id": "way/264954028",
+      "osm_id": 264954028,
+      "osm_type": "way",
+      "name": "biserica spitalului",
+      "category": "place_of_worship",
+      "lat": 46.2203641,
+      "lon": 24.7823269,
+      "tags": {
+        "building": "church",
+        "name": "biserica spitalului",
+        "source": "Legea 544/2001"
+      }
+    },
+    {
+      "id": "way/368458168",
+      "osm_id": 368458168,
+      "osm_type": "way",
+      "name": "Mânăstirea Sf. Dimitrie",
+      "category": "place_of_worship",
+      "lat": 46.1881925,
+      "lon": 24.8053427,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "name": "Mânăstirea Sf. Dimitrie",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/550805439",
+      "osm_id": 550805439,
+      "osm_type": "way",
+      "name": "Biserica Luterană Hetiur",
+      "category": "place_of_worship",
+      "lat": 46.2671668,
+      "lon": 24.7701074,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "lutheran",
+        "name": "Biserica Luterană Hetiur",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/550805440",
+      "osm_id": 550805440,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă Hetiur",
+      "category": "place_of_worship",
+      "lat": 46.2712105,
+      "lon": 24.7731051,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă Hetiur",
+        "religion": "christian"
+      }
+    }
+  ]
+}

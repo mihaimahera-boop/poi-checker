@@ -1,0 +1,247 @@
+{
+  "city": "Urziceni",
+  "generated_at": "2026-04-23T10:23:01.849Z",
+  "counts": {
+    "total": 16,
+    "schools": 10,
+    "churches": 6
+  },
+  "pois": [
+    {
+      "id": "way/149836874",
+      "osm_id": 149836874,
+      "osm_type": "way",
+      "name": "Școala Generală nr.1 Alexandru Odobescu",
+      "category": "education",
+      "lat": 44.7129917,
+      "lon": 26.6416794,
+      "tags": {
+        "addr:housename": "Școala Generală nr.1 Alexandru Odobescu",
+        "addr:housenumber": "8",
+        "addr:postcode": "925300",
+        "addr:street": "Strada Aurora",
+        "amenity": "school",
+        "building": "yes",
+        "name": "Școala Generală nr.1 Alexandru Odobescu"
+      }
+    },
+    {
+      "id": "way/1286047153",
+      "osm_id": 1286047153,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.7243967,
+      "lon": 26.6390604,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/1286047154",
+      "osm_id": 1286047154,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.7245352,
+      "lon": 26.6387316,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/1286047155",
+      "osm_id": 1286047155,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.7246567,
+      "lon": 26.6384756,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/1286047156",
+      "osm_id": 1286047156,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.7248445,
+      "lon": 26.6393733,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/1286047157",
+      "osm_id": 1286047157,
+      "osm_type": "way",
+      "name": "Liceul Tehnologic Urziceni",
+      "category": "education",
+      "lat": 44.7245542,
+      "lon": 26.638917,
+      "tags": {
+        "addr:city": "Urziceni",
+        "addr:housenumber": "16",
+        "addr:street": "Strada Petroliștilor",
+        "amenity": "school",
+        "name": "Liceul Tehnologic Urziceni"
+      }
+    },
+    {
+      "id": "way/1286055519",
+      "osm_id": 1286055519,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.7153646,
+      "lon": 26.640683,
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "way/1286055520",
+      "osm_id": 1286055520,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.7160577,
+      "lon": 26.6418384,
+      "tags": {
+        "amenity": "kindergarten"
+      }
+    },
+    {
+      "id": "way/1286055523",
+      "osm_id": 1286055523,
+      "osm_type": "way",
+      "name": "Școala Generală Ion Heliade Rădulescu",
+      "category": "education",
+      "lat": 44.7146143,
+      "lon": 26.6481146,
+      "tags": {
+        "addr:housenumber": "102",
+        "addr:street": "Calea București",
+        "amenity": "school",
+        "name": "Școala Generală Ion Heliade Rădulescu"
+      }
+    },
+    {
+      "id": "way/1286274761",
+      "osm_id": 1286274761,
+      "osm_type": "way",
+      "name": "Liceul Teoretic „Grigore Moisil” Urziceni",
+      "category": "education",
+      "lat": 44.7112566,
+      "lon": 26.6472183,
+      "tags": {
+        "amenity": "college",
+        "name": "Liceul Teoretic „Grigore Moisil” Urziceni"
+      }
+    },
+    {
+      "id": "node/1979833800",
+      "osm_id": 1979833800,
+      "osm_type": "node",
+      "name": "Biserica Romano-Catolică Urziceni",
+      "category": "place_of_worship",
+      "lat": 47.7361466,
+      "lon": 22.4003781,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "roman_catholic",
+        "name": "Biserica Romano-Catolică Urziceni",
+        "name:hu": "Szent Kereszt megtalálása templom",
+        "religion": "christian",
+        "url:miserend": "https://miserend.hu/templom/4638"
+      }
+    },
+    {
+      "id": "node/4984736023",
+      "osm_id": 4984736023,
+      "osm_type": "node",
+      "name": "Sala Regatului a Martorilor lui Iehova",
+      "category": "place_of_worship",
+      "lat": 44.7180163,
+      "lon": 26.6397197,
+      "tags": {
+        "addr:housenumber": "82",
+        "addr:street": "Strada Regele Ferdinand",
+        "amenity": "place_of_worship",
+        "denomination": "jehovahs_witness",
+        "name": "Sala Regatului a Martorilor lui Iehova",
+        "religion": "christian",
+        "website": "https://www.jw.org/"
+      }
+    },
+    {
+      "id": "node/9587297318",
+      "osm_id": 9587297318,
+      "osm_type": "node",
+      "name": "Biserica Sfânta Treime",
+      "category": "place_of_worship",
+      "lat": 44.7140159,
+      "lon": 26.6349129,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica Sfânta Treime",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/149836848",
+      "osm_id": 149836848,
+      "osm_type": "way",
+      "name": "Cimitirul Municipal",
+      "category": "place_of_worship",
+      "lat": 44.7110097,
+      "lon": 26.6403205,
+      "tags": {
+        "denomination": "romanian_orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitirul Municipal",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1163749825",
+      "osm_id": 1163749825,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.7172886,
+      "lon": 26.6375599,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1286047249",
+      "osm_id": 1286047249,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă „Sfinții Împărați Constantin și Elena” Urziceni",
+      "category": "place_of_worship",
+      "lat": 44.7154697,
+      "lon": 26.645348,
+      "tags": {
+        "addr:city": "Urziceni",
+        "addr:street": "Strada Revoluției",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "is_in:city": "Urziceni",
+        "is_in:country": "România",
+        "is_in:county": "Ialomița",
+        "name": "Biserica Ortodoxă „Sfinții Împărați Constantin și Elena” Urziceni",
+        "religion": "christian"
+      }
+    }
+  ]
+}

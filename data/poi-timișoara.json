@@ -1,0 +1,6834 @@
+{
+  "city": "Timișoara",
+  "generated_at": "2026-04-23T08:54:57.949Z",
+  "counts": {
+    "total": 416,
+    "schools": 287,
+    "churches": 129
+  },
+  "pois": [
+    {
+      "id": "node/1264085776",
+      "osm_id": 1264085776,
+      "osm_type": "node",
+      "name": "Grădinița Cordiana",
+      "category": "education",
+      "lat": 45.7345542,
+      "lon": 21.2137565,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Grădinița Cordiana"
+      }
+    },
+    {
+      "id": "node/2229384306",
+      "osm_id": 2229384306,
+      "osm_type": "node",
+      "name": "Facultatea de Agronomie",
+      "category": "education",
+      "lat": 45.7829858,
+      "lon": 21.2168591,
+      "tags": {
+        "amenity": "school",
+        "name": "Facultatea de Agronomie",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "id": "node/3577447594",
+      "osm_id": 3577447594,
+      "osm_type": "node",
+      "name": "Wendy Kids",
+      "category": "education",
+      "lat": 45.7638874,
+      "lon": 21.2806804,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:street": "Calea Ghirodei",
+        "amenity": "kindergarten",
+        "name": "Wendy Kids"
+      }
+    },
+    {
+      "id": "node/4291601186",
+      "osm_id": 4291601186,
+      "osm_type": "node",
+      "name": "Facultatea de Automatică și Calculatoare",
+      "category": "education",
+      "lat": 45.747264,
+      "lon": 21.2267099,
+      "tags": {
+        "amenity": "university",
+        "check_date": "2026-04-04",
+        "name": "Facultatea de Automatică și Calculatoare"
+      }
+    },
+    {
+      "id": "node/4291601187",
+      "osm_id": 4291601187,
+      "osm_type": "node",
+      "name": "Facultatea de Electronică și Telecomunicații",
+      "category": "education",
+      "lat": 45.7472646,
+      "lon": 21.2268468,
+      "tags": {
+        "amenity": "university",
+        "check_date": "2026-04-04",
+        "name": "Facultatea de Electronică și Telecomunicații"
+      }
+    },
+    {
+      "id": "node/4291601188",
+      "osm_id": 4291601188,
+      "osm_type": "node",
+      "name": "Facultatea de Electrotehnică și Electroenergetică",
+      "category": "education",
+      "lat": 45.7471755,
+      "lon": 21.2278309,
+      "tags": {
+        "amenity": "university",
+        "check_date": "2026-04-04",
+        "name": "Facultatea de Electrotehnică și Electroenergetică"
+      }
+    },
+    {
+      "id": "node/4879658521",
+      "osm_id": 4879658521,
+      "osm_type": "node",
+      "name": "Kinderhaus Minissa",
+      "category": "education",
+      "lat": 45.7318402,
+      "lon": 21.196652,
+      "tags": {
+        "addr:housenumber": "2",
+        "addr:street": "Strada Paul Constantinescu",
+        "amenity": "kindergarten",
+        "education": "kindergarten",
+        "name": "Kinderhaus Minissa",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "id": "node/5227190024",
+      "osm_id": 5227190024,
+      "osm_type": "node",
+      "name": "Planeta Piticilor",
+      "category": "education",
+      "lat": 45.7594747,
+      "lon": 21.2076303,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "3",
+        "addr:street": "Strada Balta Verde",
+        "amenity": "kindergarten",
+        "name": "Planeta Piticilor",
+        "nursery": "yes",
+        "website": "http://www.planetapiticilor.ro/"
+      }
+    },
+    {
+      "id": "node/6804804251",
+      "osm_id": 6804804251,
+      "osm_type": "node",
+      "name": "Wendy School",
+      "category": "education",
+      "lat": 45.7659627,
+      "lon": 21.2284415,
+      "tags": {
+        "amenity": "kindergarten",
+        "check_date": "2025-05-04",
+        "name": "Wendy School"
+      }
+    },
+    {
+      "id": "node/6950363212",
+      "osm_id": 6950363212,
+      "osm_type": "node",
+      "name": "Little M'house",
+      "category": "education",
+      "lat": 45.7564878,
+      "lon": 21.2161785,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Little M'house"
+      }
+    },
+    {
+      "id": "node/6959677402",
+      "osm_id": 6959677402,
+      "osm_type": "node",
+      "name": "Colegiul Național Ana Aslan",
+      "category": "education",
+      "lat": 45.7558868,
+      "lon": 21.2356279,
+      "tags": {
+        "amenity": "school",
+        "name": "Colegiul Național Ana Aslan",
+        "wikidata": "Q18539107"
+      }
+    },
+    {
+      "id": "node/7021617412",
+      "osm_id": 7021617412,
+      "osm_type": "node",
+      "name": "Grădinița Betania",
+      "category": "education",
+      "lat": 45.7391426,
+      "lon": 21.2259079,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Grădinița Betania"
+      }
+    },
+    {
+      "id": "node/7284444708",
+      "osm_id": 7284444708,
+      "osm_type": "node",
+      "name": "Facultatea de Electrotehnică și Electroenergetică",
+      "category": "education",
+      "lat": 45.7468271,
+      "lon": 21.2269835,
+      "tags": {
+        "amenity": "university",
+        "name": "Facultatea de Electrotehnică și Electroenergetică"
+      }
+    },
+    {
+      "id": "node/7284444710",
+      "osm_id": 7284444710,
+      "osm_type": "node",
+      "name": "Departamentul de Construcții Metalice și Mecanica Construcțiilor",
+      "category": "education",
+      "lat": 45.7453787,
+      "lon": 21.230576,
+      "tags": {
+        "amenity": "university",
+        "name": "Departamentul de Construcții Metalice și Mecanica Construcțiilor"
+      }
+    },
+    {
+      "id": "node/7284444711",
+      "osm_id": 7284444711,
+      "osm_type": "node",
+      "name": "Departamentul Căi de Comunicație Terestre, Fundații și Cadastru",
+      "category": "education",
+      "lat": 45.7454605,
+      "lon": 21.2311628,
+      "tags": {
+        "amenity": "university",
+        "name": "Departamentul Căi de Comunicație Terestre, Fundații și Cadastru"
+      }
+    },
+    {
+      "id": "node/7284444712",
+      "osm_id": 7284444712,
+      "osm_type": "node",
+      "name": "Facultatea de Construcții",
+      "category": "education",
+      "lat": 45.7457808,
+      "lon": 21.2299367,
+      "tags": {
+        "amenity": "university",
+        "name": "Facultatea de Construcții"
+      }
+    },
+    {
+      "id": "node/7284444713",
+      "osm_id": 7284444713,
+      "osm_type": "node",
+      "name": "Facultatea de Arhitectură și Urbanism",
+      "category": "education",
+      "lat": 45.7455594,
+      "lon": 21.2299754,
+      "tags": {
+        "amenity": "university",
+        "name": "Facultatea de Arhitectură și Urbanism"
+      }
+    },
+    {
+      "id": "node/7284444714",
+      "osm_id": 7284444714,
+      "osm_type": "node",
+      "name": "Facultatea de Științe ale Comunicării",
+      "category": "education",
+      "lat": 45.745316,
+      "lon": 21.2300203,
+      "tags": {
+        "amenity": "university",
+        "name": "Facultatea de Științe ale Comunicării"
+      }
+    },
+    {
+      "id": "node/7284444715",
+      "osm_id": 7284444715,
+      "osm_type": "node",
+      "name": "Facultatea de Construcții",
+      "category": "education",
+      "lat": 45.7461325,
+      "lon": 21.2315101,
+      "tags": {
+        "amenity": "university",
+        "name": "Facultatea de Construcții"
+      }
+    },
+    {
+      "id": "node/7284444716",
+      "osm_id": 7284444716,
+      "osm_type": "node",
+      "name": "Facultatea de Științe ale Comunicării",
+      "category": "education",
+      "lat": 45.7458761,
+      "lon": 21.2315837,
+      "tags": {
+        "amenity": "university",
+        "name": "Facultatea de Științe ale Comunicării"
+      }
+    },
+    {
+      "id": "node/7284444717",
+      "osm_id": 7284444717,
+      "osm_type": "node",
+      "name": "Facultatea de Automatică și Calculatoare",
+      "category": "education",
+      "lat": 45.745587,
+      "lon": 21.2316678,
+      "tags": {
+        "amenity": "university",
+        "name": "Facultatea de Automatică și Calculatoare"
+      }
+    },
+    {
+      "id": "node/7284444718",
+      "osm_id": 7284444718,
+      "osm_type": "node",
+      "name": "Facultatea de Mecanică",
+      "category": "education",
+      "lat": 45.7463062,
+      "lon": 21.2271335,
+      "tags": {
+        "amenity": "university",
+        "name": "Facultatea de Mecanică"
+      }
+    },
+    {
+      "id": "node/7284444719",
+      "osm_id": 7284444719,
+      "osm_type": "node",
+      "name": "Facultatea de Construcții",
+      "category": "education",
+      "lat": 45.7455161,
+      "lon": 21.2265552,
+      "tags": {
+        "amenity": "university",
+        "name": "Facultatea de Construcții"
+      }
+    },
+    {
+      "id": "node/7284444720",
+      "osm_id": 7284444720,
+      "osm_type": "node",
+      "name": "Facultatea de Management și Producție în Transporturi",
+      "category": "education",
+      "lat": 45.7454742,
+      "lon": 21.227485,
+      "tags": {
+        "amenity": "university",
+        "name": "Facultatea de Management și Producție în Transporturi"
+      }
+    },
+    {
+      "id": "node/9860922578",
+      "osm_id": 9860922578,
+      "osm_type": "node",
+      "name": "Curcubeul Copiilor",
+      "category": "education",
+      "lat": 45.7683121,
+      "lon": 21.2377015,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "1",
+        "addr:street": "Strada Ion Roată",
+        "amenity": "kindergarten",
+        "name": "Curcubeul Copiilor"
+      }
+    },
+    {
+      "id": "node/9963799531",
+      "osm_id": 9963799531,
+      "osm_type": "node",
+      "name": "Grădinița cu program normal nr. 4",
+      "category": "education",
+      "lat": 45.7791755,
+      "lon": 21.2381427,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Grădinița cu program normal nr. 4",
+        "operator": "Grădinița cu program prelungit nr. 20"
+      }
+    },
+    {
+      "id": "node/9963799532",
+      "osm_id": 9963799532,
+      "osm_type": "node",
+      "name": "Grădinița cu program normal nr. 27",
+      "category": "education",
+      "lat": 45.7781391,
+      "lon": 21.2384833,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Grădinița cu program normal nr. 27",
+        "operator": "Grădinița cu program prelungit nr. 20"
+      }
+    },
+    {
+      "id": "node/10044736942",
+      "osm_id": 10044736942,
+      "osm_type": "node",
+      "name": "Centrul pentru Educație Incluzivă \"Dumitru Ciumăgeanu\"",
+      "category": "education",
+      "lat": 45.7434292,
+      "lon": 21.2129554,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Centrul pentru Educație Incluzivă \"Dumitru Ciumăgeanu\""
+      }
+    },
+    {
+      "id": "node/10125664035",
+      "osm_id": 10125664035,
+      "osm_type": "node",
+      "name": "Anitta Kindergarten",
+      "category": "education",
+      "lat": 45.7693266,
+      "lon": 21.2366956,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "4A",
+        "addr:street": "Strada Olanda",
+        "amenity": "kindergarten",
+        "name": "Anitta Kindergarten"
+      }
+    },
+    {
+      "id": "node/10750637497",
+      "osm_id": 10750637497,
+      "osm_type": "node",
+      "name": "Centrul Camelot",
+      "category": "education",
+      "lat": 45.7714202,
+      "lon": 21.2344252,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "26",
+        "addr:street": "Strada Constantin cel Mare",
+        "amenity": "kindergarten",
+        "name": "Centrul Camelot"
+      }
+    },
+    {
+      "id": "node/11681901108",
+      "osm_id": 11681901108,
+      "osm_type": "node",
+      "name": "Butterfly Academy",
+      "category": "education",
+      "lat": 45.7747391,
+      "lon": 21.235832,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Butterfly Academy"
+      }
+    },
+    {
+      "id": "node/11933960140",
+      "osm_id": 11933960140,
+      "osm_type": "node",
+      "name": "Grădinița Primii Pași",
+      "category": "education",
+      "lat": 45.7377076,
+      "lon": 21.2511474,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Grădinița Primii Pași"
+      }
+    },
+    {
+      "id": "node/12854216155",
+      "osm_id": 12854216155,
+      "osm_type": "node",
+      "name": "Grădinița program prelungit Nr.4",
+      "category": "education",
+      "lat": 45.7550422,
+      "lon": 21.1876371,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Grădinița program prelungit Nr.4"
+      }
+    },
+    {
+      "id": "node/12864471591",
+      "osm_id": 12864471591,
+      "osm_type": "node",
+      "name": "Printre Curcubee",
+      "category": "education",
+      "lat": 45.764459,
+      "lon": 21.194876,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Printre Curcubee"
+      }
+    },
+    {
+      "id": "node/13145853333",
+      "osm_id": 13145853333,
+      "osm_type": "node",
+      "name": "Scoala Gimnazială Nr. 19",
+      "category": "education",
+      "lat": 45.7568044,
+      "lon": 21.2089485,
+      "tags": {
+        "amenity": "school",
+        "name": "Scoala Gimnazială Nr. 19"
+      }
+    },
+    {
+      "id": "node/13163172543",
+      "osm_id": 13163172543,
+      "osm_type": "node",
+      "name": "Kinderwelt",
+      "category": "education",
+      "lat": 45.7645371,
+      "lon": 21.186853,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Kinderwelt"
+      }
+    },
+    {
+      "id": "node/13184946601",
+      "osm_id": 13184946601,
+      "osm_type": "node",
+      "name": "Școala gimnazială Nr. 19",
+      "category": "education",
+      "lat": 45.7650413,
+      "lon": 21.2052247,
+      "tags": {
+        "amenity": "school",
+        "name": "Școala gimnazială Nr. 19"
+      }
+    },
+    {
+      "id": "node/13200231077",
+      "osm_id": 13200231077,
+      "osm_type": "node",
+      "name": "Grădinița program prelungit Nr. 24",
+      "category": "education",
+      "lat": 45.7540347,
+      "lon": 21.2008022,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Grădinița program prelungit Nr. 24"
+      }
+    },
+    {
+      "id": "node/13226717435",
+      "osm_id": 13226717435,
+      "osm_type": "node",
+      "name": "Grădinița cu program prelungit Nikolaus Lenau",
+      "category": "education",
+      "lat": 45.7584433,
+      "lon": 21.2266114,
+      "tags": {
+        "amenity": "kindergarten",
+        "education": "kindergarten",
+        "name": "Grădinița cu program prelungit Nikolaus Lenau"
+      }
+    },
+    {
+      "id": "node/13254130420",
+      "osm_id": 13254130420,
+      "osm_type": "node",
+      "name": "Sossi Care Center",
+      "category": "education",
+      "lat": 45.7736601,
+      "lon": 21.2167201,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Sossi Care Center"
+      }
+    },
+    {
+      "id": "node/13254139533",
+      "osm_id": 13254139533,
+      "osm_type": "node",
+      "name": "Albinuțe de poveste",
+      "category": "education",
+      "lat": 45.7722957,
+      "lon": 21.2171999,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Albinuțe de poveste"
+      }
+    },
+    {
+      "id": "node/13255776078",
+      "osm_id": 13255776078,
+      "osm_type": "node",
+      "name": "Liceul Tehnologic Ion I. C. Brătianu",
+      "category": "education",
+      "lat": 45.7537111,
+      "lon": 21.228269,
+      "tags": {
+        "amenity": "school",
+        "name": "Liceul Tehnologic Ion I. C. Brătianu"
+      }
+    },
+    {
+      "id": "node/13667580476",
+      "osm_id": 13667580476,
+      "osm_type": "node",
+      "name": "Club Best Kids",
+      "category": "education",
+      "lat": 45.7302653,
+      "lon": 21.2114487,
+      "tags": {
+        "after_school": "yes",
+        "amenity": "kindergarten",
+        "name": "Club Best Kids"
+      }
+    },
+    {
+      "id": "way/41050451",
+      "osm_id": 41050451,
+      "osm_type": "way",
+      "name": "Facultatea de Arte și Design",
+      "category": "education",
+      "lat": 45.7595889,
+      "lon": 21.2295996,
+      "tags": {
+        "amenity": "university",
+        "building": "university",
+        "education": "university",
+        "name": "Facultatea de Arte și Design",
+        "name:en": "Faculty of Art and Design",
+        "name:pl": "Wydział Sztuki i Designu",
+        "operator": "Universitatea de Vest din Timișoara"
+      }
+    },
+    {
+      "id": "way/44681606",
+      "osm_id": 44681606,
+      "osm_type": "way",
+      "name": "Școala Gimnazială nr. 30",
+      "category": "education",
+      "lat": 45.7336412,
+      "lon": 21.2520065,
+      "tags": {
+        "amenity": "school",
+        "is_in:city": "Timișoara",
+        "name": "Școala Gimnazială nr. 30",
+        "operator": "Școala Gimnazială nr. 30"
+      }
+    },
+    {
+      "id": "way/97718357",
+      "osm_id": 97718357,
+      "osm_type": "way",
+      "name": "Școala Gimnazială nr. 26",
+      "category": "education",
+      "lat": 45.766043,
+      "lon": 21.2172048,
+      "tags": {
+        "amenity": "school",
+        "name": "Școala Gimnazială nr. 26"
+      }
+    },
+    {
+      "id": "way/97718358",
+      "osm_id": 97718358,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7658297,
+      "lon": 21.2170314,
+      "tags": {
+        "building": "school",
+        "building:levels": "4"
+      }
+    },
+    {
+      "id": "way/97718807",
+      "osm_id": 97718807,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7641392,
+      "lon": 21.2163916,
+      "tags": {
+        "building": "school",
+        "building:levels": "4"
+      }
+    },
+    {
+      "id": "way/97718808",
+      "osm_id": 97718808,
+      "osm_type": "way",
+      "name": "Școala Gimnazială nr. 18",
+      "category": "education",
+      "lat": 45.7639296,
+      "lon": 21.2166656,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "6",
+        "addr:street": "Strada Amforei",
+        "amenity": "school",
+        "email": "scgimnaziala18.tm@gmail.com",
+        "name": "Școala Gimnazială nr. 18",
+        "phone": "0256 444 828",
+        "website": "https://www.scoala18tm.ro/"
+      }
+    },
+    {
+      "id": "way/97795790",
+      "osm_id": 97795790,
+      "osm_type": "way",
+      "name": "Grădinița nr. 27",
+      "category": "education",
+      "lat": 45.7674066,
+      "lon": 21.2198611,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Grădinița nr. 27"
+      }
+    },
+    {
+      "id": "way/97795791",
+      "osm_id": 97795791,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7674326,
+      "lon": 21.2198896,
+      "tags": {
+        "addr:housenumber": "27",
+        "addr:street": "Strada Brândușei",
+        "building": "kindergarten",
+        "building:levels": "3"
+      }
+    },
+    {
+      "id": "way/97811820",
+      "osm_id": 97811820,
+      "osm_type": "way",
+      "name": "Universitatea de Științele Vieții „Regele Mihai I”",
+      "category": "education",
+      "lat": 45.7828884,
+      "lon": 21.2155967,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "119",
+        "addr:postcode": "300645",
+        "addr:street": "Calea Aradului",
+        "amenity": "university",
+        "contact:facebook": "https://www.facebook.com/USVTimisoara/",
+        "email": "rectorat@usab-tm.ro",
+        "instagram": "instagram.com/usvtimisoara",
+        "internet_access": "yes",
+        "internet_access:fee": "customers",
+        "name": "Universitatea de Științele Vieții „Regele Mihai I”",
+        "name:en": "University of Life Sciences \"King Mihai I\"",
+        "website": "https://www.usab-tm.ro/",
+        "wikidata": "Q824493",
+        "wikipedia": "ro:Universitatea de Științele Vieții „Regele Mihai I” din Timișoara"
+      }
+    },
+    {
+      "id": "way/97929100",
+      "osm_id": 97929100,
+      "osm_type": "way",
+      "name": "Universitatea de Vest din Timișoara",
+      "category": "education",
+      "lat": 45.7472256,
+      "lon": 21.2312903,
+      "tags": {
+        "amenity": "university",
+        "name": "Universitatea de Vest din Timișoara",
+        "name:de": "West-Universität Temeswar",
+        "name:en": "West University of Timișoara",
+        "name:hu": "Temesvári Nyugati Tudományegyetem",
+        "name:la": "Universitas Occidentis Timisvariensis",
+        "name:ro": "Universitatea de Vest din Timișoara",
+        "short_name": "UVT",
+        "website": "https://uvt.ro/",
+        "wheelchair": "yes",
+        "wikidata": "Q837657"
+      }
+    },
+    {
+      "id": "way/97930019",
+      "osm_id": 97930019,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7458608,
+      "lon": 21.2307741,
+      "tags": {
+        "amenity": "university",
+        "operator": "Universitatea Politehnica Timișoara"
+      }
+    },
+    {
+      "id": "way/98109201",
+      "osm_id": 98109201,
+      "osm_type": "way",
+      "name": "Liceul Teologic Romano-Catolic Gerhardinum",
+      "category": "education",
+      "lat": 45.7526666,
+      "lon": 21.2223205,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "1",
+        "addr:street": "Bulevardul Regele Ferdinand I",
+        "building": "school",
+        "building:colour": "#c0c0c0",
+        "building:levels": "4",
+        "denomination": "roman_catholic",
+        "name": "Liceul Teologic Romano-Catolic Gerhardinum",
+        "name:hu": "Gerhardinum Római Katolikus Teológiai Líceum",
+        "religion": "christian",
+        "roof:shape": "hipped",
+        "wikidata": "Q1413977",
+        "wikipedia": "ro:Liceul Piarist din Timișoara"
+      }
+    },
+    {
+      "id": "way/98248495",
+      "osm_id": 98248495,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7635335,
+      "lon": 21.2180564,
+      "tags": {
+        "addr:housenumber": "5",
+        "addr:street": "Strada Teiului",
+        "building": "kindergarten",
+        "building:levels": "3"
+      }
+    },
+    {
+      "id": "way/98248504",
+      "osm_id": 98248504,
+      "osm_type": "way",
+      "name": "Grădinița cu program prelungit nr. 36",
+      "category": "education",
+      "lat": 45.7636016,
+      "lon": 21.2180555,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "5",
+        "addr:street": "Strada Teiului",
+        "amenity": "kindergarten",
+        "check_date": "2025-03-23",
+        "name": "Grădinița cu program prelungit nr. 36",
+        "website": "https://www.gradinitapp36timisoara.ro/"
+      }
+    },
+    {
+      "id": "way/99939455",
+      "osm_id": 99939455,
+      "osm_type": "way",
+      "name": "Școala Gimnazială nr. 24",
+      "category": "education",
+      "lat": 45.7655659,
+      "lon": 21.2208666,
+      "tags": {
+        "amenity": "school",
+        "name": "Școala Gimnazială nr. 24"
+      }
+    },
+    {
+      "id": "way/99939465",
+      "osm_id": 99939465,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7657558,
+      "lon": 21.2209996,
+      "tags": {
+        "building": "school",
+        "building:levels": "4"
+      }
+    },
+    {
+      "id": "way/100059873",
+      "osm_id": 100059873,
+      "osm_type": "way",
+      "name": "Clubul Sportiv Școlar Bega",
+      "category": "education",
+      "lat": 45.7623202,
+      "lon": 21.2182927,
+      "tags": {
+        "addr:housenumber": "1",
+        "addr:street": "Strada Teiului",
+        "building": "school",
+        "building:levels": "2",
+        "name": "Clubul Sportiv Școlar Bega",
+        "roof:shape": "hipped"
+      }
+    },
+    {
+      "id": "way/100394610",
+      "osm_id": 100394610,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7620412,
+      "lon": 21.2107187,
+      "tags": {
+        "addr:housenumber": "40",
+        "addr:street": "Bulevardul Cetății",
+        "building": "school",
+        "building:levels": "3"
+      }
+    },
+    {
+      "id": "way/100394621",
+      "osm_id": 100394621,
+      "osm_type": "way",
+      "name": "Școala Gimnazială nr. 19 Avram Iancu",
+      "category": "education",
+      "lat": 45.7618137,
+      "lon": 21.2109531,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:street": "Bulevardul Cetății",
+        "amenity": "school",
+        "email": "scoala19avramiancu@yahoo.com",
+        "name": "Școala Gimnazială nr. 19 Avram Iancu",
+        "website": "https://www.scoala19avramiancu-tm.ro/"
+      }
+    },
+    {
+      "id": "way/100394626",
+      "osm_id": 100394626,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7615543,
+      "lon": 21.2106535,
+      "tags": {
+        "addr:housenumber": "38",
+        "addr:street": "Bulevardul Cetății",
+        "building": "school",
+        "building:levels": "2"
+      }
+    },
+    {
+      "id": "way/100710964",
+      "osm_id": 100710964,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.758677,
+      "lon": 21.2073521,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "32 A",
+        "addr:postcode": "300389",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Calea Bogdăneștilor",
+        "building": "school",
+        "building:levels": "3",
+        "operator": "Liceul Tehnologic de Industrie Alimentară"
+      }
+    },
+    {
+      "id": "way/100710982",
+      "osm_id": 100710982,
+      "osm_type": "way",
+      "name": "Colegiul Tehnic Henri Coandă",
+      "category": "education",
+      "lat": 45.756115,
+      "lon": 21.2179716,
+      "tags": {
+        "addr:housenumber": "37",
+        "addr:street": "Strada Coriolan Brediceanu",
+        "building": "school",
+        "name": "Colegiul Tehnic Henri Coandă"
+      }
+    },
+    {
+      "id": "way/100711052",
+      "osm_id": 100711052,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7590686,
+      "lon": 21.2040507,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "32 B",
+        "addr:postcode": "300389",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Calea Bogdăneștilor",
+        "building": "school",
+        "building:levels": "3",
+        "operator": "Liceul Tehnologic UCECOM Spiru Haret",
+        "website": "https://www.spiruharettimisoara.ro/"
+      }
+    },
+    {
+      "id": "way/100711075",
+      "osm_id": 100711075,
+      "osm_type": "way",
+      "name": "Liceul Teoretic Socrates",
+      "category": "education",
+      "lat": 45.7589048,
+      "lon": 21.2054506,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "32 B",
+        "addr:postcode": "300389",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Calea Bogdăneștilor",
+        "building": "school",
+        "building:levels": "4",
+        "description": "Insitituție de invățământ liceal în regim cu taxă cu profil matematică-informatică.",
+        "name": "Liceul Teoretic Socrates",
+        "website": "http://www.liceulsocrates.ro/"
+      }
+    },
+    {
+      "id": "way/101929105",
+      "osm_id": 101929105,
+      "osm_type": "way",
+      "name": "Școala Gimnazială nr. 2",
+      "category": "education",
+      "lat": 45.7292778,
+      "lon": 21.2127337,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "8",
+        "addr:postcode": "300418",
+        "addr:street": "Strada Mureș",
+        "building": "school",
+        "building:levels": "3",
+        "name": "Școala Gimnazială nr. 2",
+        "website": "https://www.scoala2timisoara.ro/"
+      }
+    },
+    {
+      "id": "way/101929112",
+      "osm_id": 101929112,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7287706,
+      "lon": 21.2082564,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "9",
+        "addr:street": "Strada Gavril Musicescu",
+        "building": "kindergarten",
+        "building:levels": "2"
+      }
+    },
+    {
+      "id": "way/101929113",
+      "osm_id": 101929113,
+      "osm_type": "way",
+      "name": "Grădinița cu program prelungit nr. 29",
+      "category": "education",
+      "lat": 45.7292769,
+      "lon": 21.2118762,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "6",
+        "addr:postcode": "300418",
+        "addr:street": "Strada Mureș",
+        "building": "kindergarten",
+        "building:levels": "2",
+        "name": "Grădinița cu program prelungit nr. 29",
+        "note": "http://gradinita29timisoara.xhost.ro/",
+        "website": "https://www.scoala2timisoara.ro/"
+      }
+    },
+    {
+      "id": "way/101929672",
+      "osm_id": 101929672,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7268687,
+      "lon": 21.2102673,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "14",
+        "addr:street": "Strada Gavril Musicescu",
+        "building": "school",
+        "building:levels": "3"
+      }
+    },
+    {
+      "id": "way/101946118",
+      "osm_id": 101946118,
+      "osm_type": "way",
+      "name": "Grădinița nr. 24",
+      "category": "education",
+      "lat": 45.7541059,
+      "lon": 21.2006492,
+      "tags": {
+        "building": "kindergarten",
+        "name": "Grădinița nr. 24"
+      }
+    },
+    {
+      "id": "way/103910705",
+      "osm_id": 103910705,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7742384,
+      "lon": 21.2337475,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "53",
+        "addr:postcode": "300252",
+        "addr:street": "Strada Martir Silviu Motohon",
+        "building": "kindergarten",
+        "building:levels": "2"
+      }
+    },
+    {
+      "id": "way/104356324",
+      "osm_id": 104356324,
+      "osm_type": "way",
+      "name": "Școala Gimnazială nr. 21 Vicențiu Babeș",
+      "category": "education",
+      "lat": 45.7636125,
+      "lon": 21.2485576,
+      "tags": {
+        "amenity": "school",
+        "name": "Școala Gimnazială nr. 21 Vicențiu Babeș",
+        "operator": "Școala Gimnazială nr. 21 Vicențiu Babeș"
+      }
+    },
+    {
+      "id": "way/104356326",
+      "osm_id": 104356326,
+      "osm_type": "way",
+      "name": "Clădire Vest",
+      "category": "education",
+      "lat": 45.7635795,
+      "lon": 21.2480035,
+      "tags": {
+        "building": "school",
+        "building:levels": "2",
+        "name": "Clădire Vest"
+      }
+    },
+    {
+      "id": "way/104357252",
+      "osm_id": 104357252,
+      "osm_type": "way",
+      "name": "Universitatea Politehnica Timișoara",
+      "category": "education",
+      "lat": 45.746089,
+      "lon": 21.2276057,
+      "tags": {
+        "amenity": "university",
+        "name": "Universitatea Politehnica Timișoara",
+        "name:de": "Polytechnische Universität Temeswar",
+        "name:en": "Politehnica University of Timișoara",
+        "name:fr": "Université Politehnica Timișoara",
+        "name:ro": "Universitatea Politehnica Timișoara",
+        "short_name": "UPT",
+        "website": "http://www.upt.ro/",
+        "wikidata": "Q1475126"
+      }
+    },
+    {
+      "id": "way/106295657",
+      "osm_id": 106295657,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7834516,
+      "lon": 21.2157818,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:street": "Calea Aradului",
+        "amenity": "university",
+        "building": "yes",
+        "layer": "1",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "id": "way/106295673",
+      "osm_id": 106295673,
+      "osm_type": "way",
+      "name": "Universitatea de Științele Vieții “Regele Mihai I” din Timișoara",
+      "category": "education",
+      "lat": 45.7830319,
+      "lon": 21.2163788,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "119",
+        "addr:postcode": "300645",
+        "addr:street": "Calea Aradului",
+        "amenity": "university",
+        "building": "yes",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "name": "Universitatea de Științele Vieții “Regele Mihai I” din Timișoara",
+        "operator": "Universitatea de Științele Vieții “Regele Mihai I” din Timișoara",
+        "operator:type": "university",
+        "website": "https://www.usab-tm.ro/ro",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "id": "way/106296525",
+      "osm_id": 106296525,
+      "osm_type": "way",
+      "name": "Grădinița cu program prelungit nr. 37",
+      "category": "education",
+      "lat": 45.7827738,
+      "lon": 21.2206702,
+      "tags": {
+        "building": "kindergarten",
+        "name": "Grădinița cu program prelungit nr. 37"
+      }
+    },
+    {
+      "id": "way/106296530",
+      "osm_id": 106296530,
+      "osm_type": "way",
+      "name": "Fundația Româno-Germană",
+      "category": "education",
+      "lat": 45.7818599,
+      "lon": 21.2203879,
+      "tags": {
+        "building": "school",
+        "name": "Fundația Româno-Germană"
+      }
+    },
+    {
+      "id": "way/106300173",
+      "osm_id": 106300173,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7795423,
+      "lon": 21.2359821,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/106530378",
+      "osm_id": 106530378,
+      "osm_type": "way",
+      "name": "Grădinița cu program prelungit nr. 26",
+      "category": "education",
+      "lat": 45.762479,
+      "lon": 21.2167775,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "3",
+        "addr:street": "Strada Teiului",
+        "amenity": "kindergarten",
+        "check_date": "2023-12-27",
+        "email": "gradinitapp26timisoara@yahoo.com",
+        "name": "Grădinița cu program prelungit nr. 26",
+        "phone": "0256226307",
+        "website": "https://www.gradinitapp26timisoara.ro/"
+      }
+    },
+    {
+      "id": "way/106530379",
+      "osm_id": 106530379,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7623469,
+      "lon": 21.2168821,
+      "tags": {
+        "addr:housenumber": "3",
+        "addr:street": "Strada Teiului",
+        "building": "kindergarten",
+        "building:levels": "3",
+        "roof:shape": "hipped"
+      }
+    },
+    {
+      "id": "way/106992486",
+      "osm_id": 106992486,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7422306,
+      "lon": 21.2453956,
+      "tags": {
+        "addr:city": "Timișoara",
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/106992487",
+      "osm_id": 106992487,
+      "osm_type": "way",
+      "name": "Liceul cu program sportiv Banatul",
+      "category": "education",
+      "lat": 45.742238,
+      "lon": 21.2461871,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "29",
+        "addr:postcode": "300584",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Aleea F.C. Ripensia",
+        "amenity": "school",
+        "name": "Liceul cu program sportiv Banatul"
+      }
+    },
+    {
+      "id": "way/109556434",
+      "osm_id": 109556434,
+      "osm_type": "way",
+      "name": "Grădinița nr. 11",
+      "category": "education",
+      "lat": 45.73504,
+      "lon": 21.2407118,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "2",
+        "addr:postcode": "300741",
+        "addr:street": "Strada Versului",
+        "building": "kindergarten",
+        "building:levels": "2",
+        "name": "Grădinița nr. 11"
+      }
+    },
+    {
+      "id": "way/110259310",
+      "osm_id": 110259310,
+      "osm_type": "way",
+      "name": "Facultatea de Drept",
+      "category": "education",
+      "lat": 45.7469538,
+      "lon": 21.2388925,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "4",
+        "addr:street": "Bulevardul Vasile Pârvan",
+        "amenity": "university",
+        "building": "yes",
+        "education": "university",
+        "name": "Facultatea de Drept",
+        "website": "https://drept.uvt.ro/",
+        "wikidata": "Q18540072",
+        "wikipedia": "ro:Facultatea de Drept a Universitații de Vest din Timișoara"
+      }
+    },
+    {
+      "id": "way/110259342",
+      "osm_id": 110259342,
+      "osm_type": "way",
+      "name": "Liceul de Artă Ion Vidu",
+      "category": "education",
+      "lat": 45.7467569,
+      "lon": 21.2346747,
+      "tags": {
+        "addr:housenumber": "12",
+        "addr:street": "Strada Cluj",
+        "building": "school",
+        "name": "Liceul de Artă Ion Vidu",
+        "website": "https://liceulionvidu.ro/"
+      }
+    },
+    {
+      "id": "way/110778371",
+      "osm_id": 110778371,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7589543,
+      "lon": 21.2590442,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "1",
+        "addr:postcode": "300314",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Iosif Vulcan",
+        "building": "kindergarten",
+        "building:levels": "1"
+      }
+    },
+    {
+      "id": "way/110778398",
+      "osm_id": 110778398,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7577061,
+      "lon": 21.2573465,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:postcode": "300314",
+        "addr:street": "Strada Moise Nicoară",
+        "building": "school",
+        "building:levels": "3"
+      }
+    },
+    {
+      "id": "way/110971387",
+      "osm_id": 110971387,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7540109,
+      "lon": 21.2431967,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "14",
+        "addr:street": "Strada Johann Heinrich Pestalozzi",
+        "building": "school",
+        "building:levels": "4"
+      }
+    },
+    {
+      "id": "way/110971396",
+      "osm_id": 110971396,
+      "osm_type": "way",
+      "name": "Facultatea de Chimie-Biologie-Geografie",
+      "category": "education",
+      "lat": 45.754111,
+      "lon": 21.244892,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "16",
+        "addr:street": "Strada Johann Heinrich Pestalozzi",
+        "alt_name": "CBG",
+        "amenity": "university",
+        "building": "university",
+        "education": "university",
+        "name": "Facultatea de Chimie-Biologie-Geografie"
+      }
+    },
+    {
+      "id": "way/110971408",
+      "osm_id": 110971408,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7538189,
+      "lon": 21.2432517,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/110971423",
+      "osm_id": 110971423,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7550527,
+      "lon": 21.2379722,
+      "tags": {
+        "addr:housenumber": "4",
+        "addr:street": "Strada Martir Leontina Bînciu",
+        "building": "kindergarten",
+        "building:levels": "2",
+        "roof:levels": "1"
+      }
+    },
+    {
+      "id": "way/110971425",
+      "osm_id": 110971425,
+      "osm_type": "way",
+      "name": "Facultatea de Economie și de Administrarea a Afacerilor",
+      "category": "education",
+      "lat": 45.7538703,
+      "lon": 21.2449322,
+      "tags": {
+        "addr:housenumber": "16",
+        "addr:street": "Strada Johann Heinrich Pestalozzi",
+        "alt_name": "FEAA",
+        "amenity": "university",
+        "building": "university",
+        "education": "university",
+        "name": "Facultatea de Economie și de Administrarea a Afacerilor"
+      }
+    },
+    {
+      "id": "way/111288462",
+      "osm_id": 111288462,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7443035,
+      "lon": 21.2436351,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:street": "Strada Bucegi",
+        "building": "school",
+        "building:levels": "2"
+      }
+    },
+    {
+      "id": "way/111288504",
+      "osm_id": 111288504,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7440583,
+      "lon": 21.2408371,
+      "tags": {
+        "building": "kindergarten"
+      }
+    },
+    {
+      "id": "way/111456928",
+      "osm_id": 111456928,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7357001,
+      "lon": 21.2357697,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "2",
+        "addr:postcode": "300722",
+        "addr:street": "Strada Constantin Brăiloiu",
+        "building": "kindergarten",
+        "building:levels": "2"
+      }
+    },
+    {
+      "id": "way/111459859",
+      "osm_id": 111459859,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7340494,
+      "lon": 21.2338752,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "40",
+        "addr:postcode": "300720",
+        "addr:street": "Strada Cosminului",
+        "building": "school",
+        "building:levels": "3"
+      }
+    },
+    {
+      "id": "way/111529710",
+      "osm_id": 111529710,
+      "osm_type": "way",
+      "name": "Grup Școlar Tudor Tănăsescu",
+      "category": "education",
+      "lat": 45.7673564,
+      "lon": 21.2577429,
+      "tags": {
+        "building": "school",
+        "name": "Grup Școlar Tudor Tănăsescu"
+      }
+    },
+    {
+      "id": "way/113456836",
+      "osm_id": 113456836,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7330906,
+      "lon": 21.2335389,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "42",
+        "addr:postcode": "300720",
+        "addr:street": "Strada Cosminului",
+        "building": "school",
+        "building:levels": "3"
+      }
+    },
+    {
+      "id": "way/114579386",
+      "osm_id": 114579386,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7327329,
+      "lon": 21.2036102,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "3",
+        "addr:postcode": "300455",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Aleea Gorniștilor",
+        "building": "school",
+        "building:levels": "4",
+        "building:material": "concrete",
+        "contact:phone": "+40 256 452948",
+        "fixme": "website broken",
+        "height": "16 m",
+        "roof:colour": "red",
+        "roof:height": "2",
+        "roof:material": "roof_tiles",
+        "roof:shape": "equal_hipped",
+        "website": "https://scoala27timisoara.weebly.com/"
+      }
+    },
+    {
+      "id": "way/115672754",
+      "osm_id": 115672754,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7310976,
+      "lon": 21.2055844,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "13",
+        "addr:postcode": "300493",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Nicolae Leonard",
+        "building": "kindergarten",
+        "building:levels": "2"
+      }
+    },
+    {
+      "id": "way/117228764",
+      "osm_id": 117228764,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7524023,
+      "lon": 21.2281914,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "3",
+        "addr:street": "Piața Iancu Huniade",
+        "building": "school",
+        "roof:shape": "hipped"
+      }
+    },
+    {
+      "id": "way/117228766",
+      "osm_id": 117228766,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7519536,
+      "lon": 21.2285625,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "3",
+        "addr:street": "Piața Iancu Huniade",
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/117228767",
+      "osm_id": 117228767,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7520807,
+      "lon": 21.2277771,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "3",
+        "addr:street": "Piața Iancu Huniade",
+        "building": "school",
+        "roof:shape": "hipped"
+      }
+    },
+    {
+      "id": "way/117230316",
+      "osm_id": 117230316,
+      "osm_type": "way",
+      "name": "Facultatea de Hidrotehnică",
+      "category": "education",
+      "lat": 45.7489298,
+      "lon": 21.2287312,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "1a",
+        "addr:street": "Strada George Enescu",
+        "alt_name": "Corp H",
+        "amenity": "university",
+        "building": "yes",
+        "check_date": "2025-09-26",
+        "name": "Facultatea de Hidrotehnică",
+        "operator": "Universitatea Politehnica Timișoara",
+        "operator:type": "public"
+      }
+    },
+    {
+      "id": "way/121848985",
+      "osm_id": 121848985,
+      "osm_type": "way",
+      "name": "Grădinița cu program normal nr. 5",
+      "category": "education",
+      "lat": 45.7556879,
+      "lon": 21.2520106,
+      "tags": {
+        "amenity": "kindergarten",
+        "building": "kindergarten",
+        "name": "Grădinița cu program normal nr. 5"
+      }
+    },
+    {
+      "id": "way/152205183",
+      "osm_id": 152205183,
+      "osm_type": "way",
+      "name": "Școala Gimnazială nr. 5",
+      "category": "education",
+      "lat": 45.7581352,
+      "lon": 21.2579162,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "17",
+        "addr:postcode": "300314",
+        "addr:street": "Strada Moise Nicoară",
+        "building": "school",
+        "building:levels": "1",
+        "name": "Școala Gimnazială nr. 5"
+      }
+    },
+    {
+      "id": "way/152440317",
+      "osm_id": 152440317,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7590743,
+      "lon": 21.2222239,
+      "tags": {
+        "addr:housenumber": "20",
+        "addr:street": "Strada Gheorghe Lazăr",
+        "building": "school",
+        "building:colour": "#fec2d1",
+        "building:levels": "3",
+        "height": "11",
+        "roof:colour": "#575665",
+        "roof:shape": "flat"
+      }
+    },
+    {
+      "id": "way/152474220",
+      "osm_id": 152474220,
+      "osm_type": "way",
+      "name": "Corp Gimnaziu",
+      "category": "education",
+      "lat": 45.7417456,
+      "lon": 21.226568,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "3",
+        "addr:postcode": "300229",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Piața Nicolae Bălcescu",
+        "building": "school",
+        "name": "Corp Gimnaziu"
+      }
+    },
+    {
+      "id": "way/152474225",
+      "osm_id": 152474225,
+      "osm_type": "way",
+      "name": "Grădinița nr. 8",
+      "category": "education",
+      "lat": 45.7417917,
+      "lon": 21.2274301,
+      "tags": {
+        "addr:housenumber": "2",
+        "addr:street": "Strada Ghirlandei",
+        "building": "kindergarten",
+        "name": "Grădinița nr. 8"
+      }
+    },
+    {
+      "id": "way/152474230",
+      "osm_id": 152474230,
+      "osm_type": "way",
+      "name": "Corp Liceu",
+      "category": "education",
+      "lat": 45.741448,
+      "lon": 21.2272971,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "4",
+        "addr:postcode": "300231",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Ghirlandei",
+        "building": "school",
+        "building:levels": "3",
+        "name": "Corp Liceu"
+      }
+    },
+    {
+      "id": "way/154483395",
+      "osm_id": 154483395,
+      "osm_type": "way",
+      "name": "Universitatea Ioan Slavici",
+      "category": "education",
+      "lat": 45.7446665,
+      "lon": 21.2522501,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "144",
+        "addr:street": "Strada Profesor Doctor Aurel Păunescu Podeanu",
+        "amenity": "university",
+        "building": "university",
+        "building:levels": "3",
+        "name": "Universitatea Ioan Slavici",
+        "website": "https://islavici.ro/"
+      }
+    },
+    {
+      "id": "way/154520024",
+      "osm_id": 154520024,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7800331,
+      "lon": 21.2710916,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/155061355",
+      "osm_id": 155061355,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7336762,
+      "lon": 21.2515555,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "13",
+        "addr:postcode": "300707",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Aștrilor",
+        "building": "school",
+        "building:levels": "3",
+        "website": "http://scoala30tm.weebly.com/"
+      }
+    },
+    {
+      "id": "way/155226648",
+      "osm_id": 155226648,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7249319,
+      "lon": 21.2098161,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "1",
+        "addr:street": "Strada Chișodei",
+        "building": "school",
+        "building:levels": "2",
+        "website": "https://scoala15.wordpress.com/"
+      }
+    },
+    {
+      "id": "way/155426183",
+      "osm_id": 155426183,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7596737,
+      "lon": 21.2227869,
+      "tags": {
+        "building": "school",
+        "building:colour": "#fdd995",
+        "height": "5",
+        "roof:colour": "#575665",
+        "roof:shape": "flat"
+      }
+    },
+    {
+      "id": "way/155478044",
+      "osm_id": 155478044,
+      "osm_type": "way",
+      "name": "Liceul Baptist",
+      "category": "education",
+      "lat": 45.7485309,
+      "lon": 21.2156451,
+      "tags": {
+        "building": "school",
+        "name": "Liceul Baptist"
+      }
+    },
+    {
+      "id": "way/156192166",
+      "osm_id": 156192166,
+      "osm_type": "way",
+      "name": "Școala Gimnazială nr. 7 Sfânta Maria",
+      "category": "education",
+      "lat": 45.7792385,
+      "lon": 21.2363227,
+      "tags": {
+        "amenity": "school",
+        "name": "Școala Gimnazială nr. 7 Sfânta Maria"
+      }
+    },
+    {
+      "id": "way/160428025",
+      "osm_id": 160428025,
+      "osm_type": "way",
+      "name": "Colegiul Tehnic Electrotimiș",
+      "category": "education",
+      "lat": 45.7297964,
+      "lon": 21.2643323,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "2A",
+        "addr:postcode": "300696",
+        "addr:street": "Strada Matei Millo",
+        "building": "school",
+        "building:levels": "3",
+        "name": "Colegiul Tehnic Electrotimiș"
+      }
+    },
+    {
+      "id": "way/160428842",
+      "osm_id": 160428842,
+      "osm_type": "way",
+      "name": "Campus școlar Colegiul Tehnic Electrotimiș",
+      "category": "education",
+      "lat": 45.7296228,
+      "lon": 21.2634369,
+      "tags": {
+        "amenity": "school",
+        "name": "Campus școlar Colegiul Tehnic Electrotimiș"
+      }
+    },
+    {
+      "id": "way/164976816",
+      "osm_id": 164976816,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7507461,
+      "lon": 21.1921303,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/164976818",
+      "osm_id": 164976818,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7507814,
+      "lon": 21.191585,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/169841539",
+      "osm_id": 169841539,
+      "osm_type": "way",
+      "name": "Liceul Teoretic Vlad Țepeș",
+      "category": "education",
+      "lat": 45.7450689,
+      "lon": 21.2469509,
+      "tags": {
+        "amenity": "school",
+        "name": "Liceul Teoretic Vlad Țepeș",
+        "operator": "Liceul Teoretic Vlad Țepeș"
+      }
+    },
+    {
+      "id": "way/169841544",
+      "osm_id": 169841544,
+      "osm_type": "way",
+      "name": "Liceul Teoretic Vlad Țepeș",
+      "category": "education",
+      "lat": 45.7450401,
+      "lon": 21.2469265,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "47",
+        "addr:postcode": "300568",
+        "addr:street": "Strada Surorile Martir Caceu",
+        "building": "school",
+        "building:levels": "2",
+        "name": "Liceul Teoretic Vlad Țepeș",
+        "website": "http://www.vladtepes.tm.ro/"
+      }
+    },
+    {
+      "id": "way/179460400",
+      "osm_id": 179460400,
+      "osm_type": "way",
+      "name": "Liceul Tehnologic Energetic Regele Ferdinand I",
+      "category": "education",
+      "lat": 45.7669458,
+      "lon": 21.255187,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "24/A",
+        "addr:street": "Strada Renașterii",
+        "building": "school",
+        "name": "Liceul Tehnologic Energetic Regele Ferdinand I",
+        "website": "https://liceulenergetic.ro/"
+      }
+    },
+    {
+      "id": "way/180696853",
+      "osm_id": 180696853,
+      "osm_type": "way",
+      "name": "Centrul de Zi pentru Copii cu Dizabilități Podul Lung",
+      "category": "education",
+      "lat": 45.753379,
+      "lon": 21.2448773,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "17",
+        "addr:postcode": "300561",
+        "addr:street": "Strada Cornelia Sălceanu",
+        "building": "school",
+        "name": "Centrul de Zi pentru Copii cu Dizabilități Podul Lung"
+      }
+    },
+    {
+      "id": "way/190269443",
+      "osm_id": 190269443,
+      "osm_type": "way",
+      "name": "Colegiul Național Pedagogic Carmen Sylva",
+      "category": "education",
+      "lat": 45.7542245,
+      "lon": 21.2355539,
+      "tags": {
+        "amenity": "school",
+        "check_date": "2025-03-22",
+        "education": "school",
+        "name": "Colegiul Național Pedagogic Carmen Sylva",
+        "wikidata": "Q12732152",
+        "wikipedia": "ro:Colegiul Național Pedagogic „Carmen Sylva” din Timișoara"
+      }
+    },
+    {
+      "id": "way/190316464",
+      "osm_id": 190316464,
+      "osm_type": "way",
+      "name": "Liceul Waldorf",
+      "category": "education",
+      "lat": 45.7342084,
+      "lon": 21.2450987,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "10",
+        "addr:postcode": "300687",
+        "addr:street": "Strada Uranus",
+        "building": "school",
+        "building:levels": "1;2",
+        "name": "Liceul Waldorf"
+      }
+    },
+    {
+      "id": "way/190316465",
+      "osm_id": 190316465,
+      "osm_type": "way",
+      "name": "Liceul Waldorf",
+      "category": "education",
+      "lat": 45.734545,
+      "lon": 21.2445949,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:street": "Strada Uranus",
+        "amenity": "school",
+        "education": "school",
+        "name": "Liceul Waldorf",
+        "phone": "0256482448",
+        "website": "https://waldorftm.ro/"
+      }
+    },
+    {
+      "id": "way/190316468",
+      "osm_id": 190316468,
+      "osm_type": "way",
+      "name": "Liceul Waldorf - atelier practic",
+      "category": "education",
+      "lat": 45.7339384,
+      "lon": 21.2452646,
+      "tags": {
+        "building": "school",
+        "name": "Liceul Waldorf - atelier practic"
+      }
+    },
+    {
+      "id": "way/190321794",
+      "osm_id": 190321794,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Dimitrie Leonida",
+      "category": "education",
+      "lat": 45.7548942,
+      "lon": 21.1889172,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "23",
+        "addr:street": "Strada Tacit",
+        "building": "school",
+        "name": "Școala Gimnazială Dimitrie Leonida"
+      }
+    },
+    {
+      "id": "way/193308533",
+      "osm_id": 193308533,
+      "osm_type": "way",
+      "name": "Colegiul Național Ana Aslan",
+      "category": "education",
+      "lat": 45.7447677,
+      "lon": 21.2119188,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "8",
+        "addr:street": "Bulevardul General Ion Dragalina",
+        "building": "school",
+        "building:levels": "2",
+        "name": "Colegiul Național Ana Aslan",
+        "roof:levels": "1"
+      }
+    },
+    {
+      "id": "way/193308545",
+      "osm_id": 193308545,
+      "osm_type": "way",
+      "name": "Liceul Tehnologic de Vest",
+      "category": "education",
+      "lat": 45.7450527,
+      "lon": 21.2123148,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "11",
+        "addr:street": "Bulevardul Regele Carol I",
+        "building": "school",
+        "building:levels": "3",
+        "name": "Liceul Tehnologic de Vest"
+      }
+    },
+    {
+      "id": "way/194109962",
+      "osm_id": 194109962,
+      "osm_type": "way",
+      "name": "Școala Gimnazială nr. 28",
+      "category": "education",
+      "lat": 45.753124,
+      "lon": 21.2426416,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "11",
+        "addr:street": "Strada Cornelia Sălceanu",
+        "building": "school",
+        "name": "Școala Gimnazială nr. 28"
+      }
+    },
+    {
+      "id": "way/194109969",
+      "osm_id": 194109969,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7530502,
+      "lon": 21.2422677,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/194109970",
+      "osm_id": 194109970,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7530059,
+      "lon": 21.2420348,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "9",
+        "addr:postcode": "300561",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Ofcea",
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/194401984",
+      "osm_id": 194401984,
+      "osm_type": "way",
+      "name": "Colegiul Tehnic I.C. Brătianu",
+      "category": "education",
+      "lat": 45.7537121,
+      "lon": 21.2282634,
+      "tags": {
+        "addr:housenumber": "2",
+        "addr:street": "Piața Iancu Huniade",
+        "building": "school",
+        "height": "24",
+        "name": "Colegiul Tehnic I.C. Brătianu",
+        "roof:colour": "#e04b0c",
+        "roof:shape": "hipped"
+      }
+    },
+    {
+      "id": "way/195031380",
+      "osm_id": 195031380,
+      "osm_type": "way",
+      "name": "Liceul Teoretic Nikolaus Lenau",
+      "category": "education",
+      "lat": 45.7593597,
+      "lon": 21.2226638,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "20",
+        "addr:street": "Strada Gheorghe Lazăr",
+        "amenity": "school",
+        "check_date": "2025-10-12",
+        "name": "Liceul Teoretic Nikolaus Lenau"
+      }
+    },
+    {
+      "id": "way/195276808",
+      "osm_id": 195276808,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7529028,
+      "lon": 21.2343727,
+      "tags": {
+        "addr:housenumber": "37",
+        "addr:street": "Bulevardul Constantin Diaconovici Loga",
+        "architect": "Ignatz Alpar",
+        "building": "school",
+        "heritage": "2",
+        "heritage:operator": "lmi",
+        "ref:RO:lmi": "TM-II-m-B-06146",
+        "start_date": "1902-1903"
+      }
+    },
+    {
+      "id": "way/195276809",
+      "osm_id": 195276809,
+      "osm_type": "way",
+      "name": "Colegiul Național Constantin Diaconovici Loga",
+      "category": "education",
+      "lat": 45.7529893,
+      "lon": 21.2342997,
+      "tags": {
+        "addr:city": "Timișoara",
+        "amenity": "school",
+        "check_date": "2025-03-22",
+        "education": "school",
+        "is_in:city": "Timișoara",
+        "is_in:country": "România",
+        "is_in:county": "Timiș",
+        "name": "Colegiul Național Constantin Diaconovici Loga",
+        "wikidata": "Q1108065",
+        "wikipedia": "ro:Colegiul Național „Constantin Diaconovici Loga” din Timișoara"
+      }
+    },
+    {
+      "id": "way/195341770",
+      "osm_id": 195341770,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7542387,
+      "lon": 21.2354754,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "45",
+        "addr:street": "Bulevardul Constantin Diaconovici Loga",
+        "architect": "Lechner Ödön",
+        "building": "school",
+        "building:material": "brick",
+        "heritage": "2",
+        "heritage:operator": "lmi",
+        "ref:RO:lmi": "TM-II-m-B-06148",
+        "roof:shape": "hipped",
+        "start_date": "1903-1904"
+      }
+    },
+    {
+      "id": "way/195605948",
+      "osm_id": 195605948,
+      "osm_type": "way",
+      "name": "Grădinița cu program prelungit nr. 19",
+      "category": "education",
+      "lat": 45.7548567,
+      "lon": 21.2378111,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "5",
+        "addr:street": "Strada Martir Leontina Bînciu",
+        "building": "kindergarten",
+        "building:levels": "5",
+        "name": "Grădinița cu program prelungit nr. 19"
+      }
+    },
+    {
+      "id": "way/199208399",
+      "osm_id": 199208399,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7610837,
+      "lon": 21.236797,
+      "tags": {
+        "addr:housenumber": "11",
+        "addr:street": "Strada București",
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/199211708",
+      "osm_id": 199211708,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7610184,
+      "lon": 21.2374668,
+      "tags": {
+        "addr:housenumber": "13",
+        "addr:street": "Strada București",
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/199211711",
+      "osm_id": 199211711,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7616821,
+      "lon": 21.2375538,
+      "tags": {
+        "addr:housenumber": "17",
+        "addr:street": "Strada București",
+        "amenity": "school",
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/199257502",
+      "osm_id": 199257502,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7614016,
+      "lon": 21.238081,
+      "tags": {
+        "addr:housenumber": "19",
+        "addr:street": "Strada București",
+        "amenity": "school",
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/199260965",
+      "osm_id": 199260965,
+      "osm_type": "way",
+      "name": "Școala Gimnazială nr. 16",
+      "category": "education",
+      "lat": 45.7612086,
+      "lon": 21.2366564,
+      "tags": {
+        "amenity": "school",
+        "name": "Școala Gimnazială nr. 16"
+      }
+    },
+    {
+      "id": "way/199402305",
+      "osm_id": 199402305,
+      "osm_type": "way",
+      "name": "Universitatea de Medicină și Farmacie Victor Babeș",
+      "category": "education",
+      "lat": 45.7573062,
+      "lon": 21.2367178,
+      "tags": {
+        "amenity": "university",
+        "name": "Universitatea de Medicină și Farmacie Victor Babeș",
+        "wikidata": "Q851648"
+      }
+    },
+    {
+      "id": "way/202421709",
+      "osm_id": 202421709,
+      "osm_type": "way",
+      "name": "Colegiul Tehnic Emanuil Ungureanu",
+      "category": "education",
+      "lat": 45.7521069,
+      "lon": 21.2281397,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "3",
+        "addr:postcode": "300029",
+        "addr:street": "Piața Iancu Huniade",
+        "amenity": "school",
+        "check_date": "2025-10-11",
+        "education": "school",
+        "email": "emanuil.ungureanu@yahoo.com",
+        "name": "Colegiul Tehnic Emanuil Ungureanu",
+        "phone": "0356411540",
+        "website": "https://www.eungureanu.ro/"
+      }
+    },
+    {
+      "id": "way/203225526",
+      "osm_id": 203225526,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7634236,
+      "lon": 21.249323,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "9",
+        "addr:street": "Strada Simion Bărnuțiu",
+        "building": "school",
+        "building:levels": "2"
+      }
+    },
+    {
+      "id": "way/224500659",
+      "osm_id": 224500659,
+      "osm_type": "way",
+      "name": "Colegiul Național de Artă Ion Vidu",
+      "category": "education",
+      "lat": 45.746718,
+      "lon": 21.2345011,
+      "tags": {
+        "amenity": "school",
+        "name": "Colegiul Național de Artă Ion Vidu"
+      }
+    },
+    {
+      "id": "way/230768538",
+      "osm_id": 230768538,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7496454,
+      "lon": 21.2793329,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/361023003",
+      "osm_id": 361023003,
+      "osm_type": "way",
+      "name": "Grădinița nr. 38",
+      "category": "education",
+      "lat": 45.7304454,
+      "lon": 21.259754,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "4",
+        "addr:postcode": "300713",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Intrarea Neptun",
+        "building": "kindergarten",
+        "building:levels": "2",
+        "name": "Grădinița nr. 38"
+      }
+    },
+    {
+      "id": "way/416256599",
+      "osm_id": 416256599,
+      "osm_type": "way",
+      "name": "Grădinița cu program prelungit nr. 8",
+      "category": "education",
+      "lat": 45.7262329,
+      "lon": 21.2682506,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "23",
+        "addr:postcode": "300702",
+        "addr:street": "Strada Martir Constantin Radu",
+        "building": "kindergarten",
+        "building:levels": "1",
+        "name": "Grădinița cu program prelungit nr. 8",
+        "operator": "Ministerul Educatiei Nationale"
+      }
+    },
+    {
+      "id": "way/416256677",
+      "osm_id": 416256677,
+      "osm_type": "way",
+      "name": "Școala Gimnazială nr. 20",
+      "category": "education",
+      "lat": 45.7263949,
+      "lon": 21.2686154,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "23",
+        "addr:postcode": "300702",
+        "addr:street": "Strada Martir Constantin Radu",
+        "building": "school",
+        "building:levels": "2",
+        "name": "Școala Gimnazială nr. 20"
+      }
+    },
+    {
+      "id": "way/416256912",
+      "osm_id": 416256912,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7262935,
+      "lon": 21.2685722,
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "way/418804598",
+      "osm_id": 418804598,
+      "osm_type": "way",
+      "name": "Școala Gimnazială nr. 13",
+      "category": "education",
+      "lat": 45.7268181,
+      "lon": 21.2101032,
+      "tags": {
+        "amenity": "school",
+        "name": "Școala Gimnazială nr. 13",
+        "operator": "Școala Gimnazială nr. 13"
+      }
+    },
+    {
+      "id": "way/418806164",
+      "osm_id": 418806164,
+      "osm_type": "way",
+      "name": "Grădinița nr. 23",
+      "category": "education",
+      "lat": 45.72889,
+      "lon": 21.2082028,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "9",
+        "addr:street": "Strada Gavril Musicescu",
+        "amenity": "kindergarten",
+        "name": "Grădinița nr. 23"
+      }
+    },
+    {
+      "id": "way/418820706",
+      "osm_id": 418820706,
+      "osm_type": "way",
+      "name": "Liceul Teoretic Grigore Moisil",
+      "category": "education",
+      "lat": 45.7415962,
+      "lon": 21.2269447,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Liceul Teoretic Grigore Moisil",
+        "start_date": "1971",
+        "wikidata": "Q18541331",
+        "wikipedia": "ro:Liceul „Grigore Moisil” din Timișoara"
+      }
+    },
+    {
+      "id": "way/418897748",
+      "osm_id": 418897748,
+      "osm_type": "way",
+      "name": "Școala Gimnazială nr. 25",
+      "category": "education",
+      "lat": 45.7331061,
+      "lon": 21.2332757,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "42",
+        "addr:postcode": "300720",
+        "addr:street": "Strada Cosminului",
+        "amenity": "school",
+        "education": "school",
+        "name": "Școala Gimnazială nr. 25"
+      }
+    },
+    {
+      "id": "way/418898688",
+      "osm_id": 418898688,
+      "osm_type": "way",
+      "name": "Liceul Teoretic Special Iris",
+      "category": "education",
+      "lat": 45.733998,
+      "lon": 21.2333121,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "40",
+        "addr:postcode": "300720",
+        "addr:street": "Strada Cosminului",
+        "amenity": "school",
+        "education": "school",
+        "name": "Liceul Teoretic Special Iris",
+        "operator": "Liceul Teoretic Special Iris",
+        "operator:type": "public"
+      }
+    },
+    {
+      "id": "way/419404582",
+      "osm_id": 419404582,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7303667,
+      "lon": 21.2597776,
+      "tags": {
+        "amenity": "kindergarten",
+        "barrier": "fence",
+        "operator": "Grădinița nr. 38"
+      }
+    },
+    {
+      "id": "way/419657970",
+      "osm_id": 419657970,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7343075,
+      "lon": 21.2330788,
+      "tags": {
+        "addr:city": "Timișoara",
+        "building": "school",
+        "building:levels": "2"
+      }
+    },
+    {
+      "id": "way/419662474",
+      "osm_id": 419662474,
+      "osm_type": "way",
+      "name": "Grădinița nr. 32 / Creșa nr. 18",
+      "category": "education",
+      "lat": 45.7355649,
+      "lon": 21.2357606,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "2",
+        "addr:postcode": "300722",
+        "addr:street": "Strada Constantin Brăiloiu",
+        "amenity": "kindergarten",
+        "name": "Grădinița nr. 32 / Creșa nr. 18",
+        "operator": "Grădinița nr. 32 / Creșa nr. 18"
+      }
+    },
+    {
+      "id": "way/419666108",
+      "osm_id": 419666108,
+      "osm_type": "way",
+      "name": "Colegiul Tehnic Azur",
+      "category": "education",
+      "lat": 45.7332214,
+      "lon": 21.2362988,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "64",
+        "addr:postcode": "300727",
+        "addr:street": "Calea Martirilor 1989",
+        "building": "school",
+        "building:levels": "3",
+        "name": "Colegiul Tehnic Azur",
+        "website": "https://www.liceulazur.ro/"
+      }
+    },
+    {
+      "id": "way/419666430",
+      "osm_id": 419666430,
+      "osm_type": "way",
+      "name": "Campus școlar Colegiul Tehnic Azur",
+      "category": "education",
+      "lat": 45.7335704,
+      "lon": 21.2362858,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "64",
+        "addr:postcode": "300727",
+        "addr:street": "Calea Martirilor 1989",
+        "amenity": "school",
+        "education": "school",
+        "name": "Campus școlar Colegiul Tehnic Azur",
+        "operator": "Colegiul Tehnic Azur"
+      }
+    },
+    {
+      "id": "way/419669940",
+      "osm_id": 419669940,
+      "osm_type": "way",
+      "name": "Palatul Copiilor",
+      "category": "education",
+      "lat": 45.7340347,
+      "lon": 21.2357208,
+      "tags": {
+        "building": "school",
+        "name": "Palatul Copiilor"
+      }
+    },
+    {
+      "id": "way/419673907",
+      "osm_id": 419673907,
+      "osm_type": "way",
+      "name": "Grădinița nr. 11",
+      "category": "education",
+      "lat": 45.7351091,
+      "lon": 21.2405362,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "2",
+        "addr:street": "Strada Versului",
+        "amenity": "kindergarten",
+        "education": "kindergarten",
+        "email": "gradinita11tm@gmail.com",
+        "name": "Grădinița nr. 11",
+        "operator": "Grădinița nr. 11",
+        "preschool": "yes",
+        "website": "https://gradinitapp11timisoara.ro/"
+      }
+    },
+    {
+      "id": "way/419694776",
+      "osm_id": 419694776,
+      "osm_type": "way",
+      "name": "Grădinița Waldorf",
+      "category": "education",
+      "lat": 45.734116,
+      "lon": 21.2436579,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "10",
+        "addr:postcode": "300687",
+        "addr:street": "Strada Uranus",
+        "building": "kindergarten",
+        "building:levels": "1",
+        "name": "Grădinița Waldorf"
+      }
+    },
+    {
+      "id": "way/420548128",
+      "osm_id": 420548128,
+      "osm_type": "way",
+      "name": "Grădinița nr. 12",
+      "category": "education",
+      "lat": 45.7392179,
+      "lon": 21.2304565,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Grădinița nr. 12",
+        "operator": "Grădinița nr. 12"
+      }
+    },
+    {
+      "id": "way/420571597",
+      "osm_id": 420571597,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7586025,
+      "lon": 21.2394973,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:street": "Strada Dimitrie Paciurea",
+        "building": "kindergarten",
+        "building:levels": "2",
+        "website": "http://gradinita-paciurea.ro/"
+      }
+    },
+    {
+      "id": "way/420572497",
+      "osm_id": 420572497,
+      "osm_type": "way",
+      "name": "Grădinița nr. 22 / Creșa nr. 7",
+      "category": "education",
+      "lat": 45.7587185,
+      "lon": 21.2398545,
+      "tags": {
+        "amenity": "kindergarten",
+        "education": "kindergarten",
+        "name": "Grădinița nr. 22 / Creșa nr. 7",
+        "operator": "Grădinița nr. 22 / Creșa nr. 7"
+      }
+    },
+    {
+      "id": "way/420574845",
+      "osm_id": 420574845,
+      "osm_type": "way",
+      "name": "Grădinița nr. 31",
+      "category": "education",
+      "lat": 45.7419953,
+      "lon": 21.2059485,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Grădinița nr. 31",
+        "operator": "Gradinița nr. 31"
+      }
+    },
+    {
+      "id": "way/420574846",
+      "osm_id": 420574846,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7420199,
+      "lon": 21.2060223,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "2",
+        "addr:postcode": "300186",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Platanilor",
+        "building": "kindergarten",
+        "building:levels": "2"
+      }
+    },
+    {
+      "id": "way/420794605",
+      "osm_id": 420794605,
+      "osm_type": "way",
+      "name": "Grădinița cu program prelungit nr. 3",
+      "category": "education",
+      "lat": 45.7312211,
+      "lon": 21.2056133,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Grădinița cu program prelungit nr. 3",
+        "operator": "Grădinița cu program prelungit nr. 3"
+      }
+    },
+    {
+      "id": "way/420799932",
+      "osm_id": 420799932,
+      "osm_type": "way",
+      "name": "Școala Gimnazială nr. 27",
+      "category": "education",
+      "lat": 45.7327291,
+      "lon": 21.2035342,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Școala Gimnazială nr. 27",
+        "operator": "Școala Gimnazială nr. 27"
+      }
+    },
+    {
+      "id": "way/420814235",
+      "osm_id": 420814235,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7292902,
+      "lon": 21.2119254,
+      "tags": {
+        "amenity": "kindergarten",
+        "education": "kindergarten",
+        "operator": "Grădinița cu program prelungit nr. 29"
+      }
+    },
+    {
+      "id": "way/420816730",
+      "osm_id": 420816730,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7292469,
+      "lon": 21.2128186,
+      "tags": {
+        "amenity": "school",
+        "operator": "Școala Gimnazială nr. 2"
+      }
+    },
+    {
+      "id": "way/421116195",
+      "osm_id": 421116195,
+      "osm_type": "way",
+      "name": "Școala Gimnazială nr. 15",
+      "category": "education",
+      "lat": 45.7250471,
+      "lon": 21.209928,
+      "tags": {
+        "amenity": "school",
+        "name": "Școala Gimnazială nr. 15",
+        "operator": "Școala Gimnazială nr. 15"
+      }
+    },
+    {
+      "id": "way/425530492",
+      "osm_id": 425530492,
+      "osm_type": "way",
+      "name": "Grădinița cu program prelungit nr. 44",
+      "category": "education",
+      "lat": 45.7590125,
+      "lon": 21.2590068,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Grădinița cu program prelungit nr. 44"
+      }
+    },
+    {
+      "id": "way/427839106",
+      "osm_id": 427839106,
+      "osm_type": "way",
+      "name": "Grădinița cu program prelungit nr. 20",
+      "category": "education",
+      "lat": 45.7742698,
+      "lon": 21.2338513,
+      "tags": {
+        "amenity": "kindergarten",
+        "check_date": "2026-04-14",
+        "name": "Grădinița cu program prelungit nr. 20",
+        "operator": "Grădinița cu program prelungit nr. 20"
+      }
+    },
+    {
+      "id": "way/429168358",
+      "osm_id": 429168358,
+      "osm_type": "way",
+      "name": "Grădinița Club Formidabilii",
+      "category": "education",
+      "lat": 45.7296316,
+      "lon": 21.2560567,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "39",
+        "addr:postcode": "300713",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Atomului",
+        "amenity": "kindergarten",
+        "name": "Grădinița Club Formidabilii",
+        "operator": "Creșa și Grădinița Club Formidabilii",
+        "operator:type": "private",
+        "phone": "0040770960387",
+        "preschool": "yes"
+      }
+    },
+    {
+      "id": "way/429168359",
+      "osm_id": 429168359,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7296905,
+      "lon": 21.2560483,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "39",
+        "addr:postcode": "300713",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Atomului",
+        "building": "kindergarten",
+        "building:levels": "1"
+      }
+    },
+    {
+      "id": "way/429441694",
+      "osm_id": 429441694,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7579563,
+      "lon": 21.2575718,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "17",
+        "addr:postcode": "300314",
+        "addr:street": "Strada Moise Nicoară",
+        "amenity": "school",
+        "education": "school",
+        "operator": "Școala Generală nr. 5"
+      }
+    },
+    {
+      "id": "way/443143988",
+      "osm_id": 443143988,
+      "osm_type": "way",
+      "name": "Liceul Teoretic Bartók Béla",
+      "category": "education",
+      "lat": 45.7440154,
+      "lon": 21.2107041,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "11A",
+        "addr:postcode": "300181",
+        "addr:street": "Bulevardul General Ion Dragalina",
+        "amenity": "school",
+        "name": "Liceul Teoretic Bartók Béla",
+        "name:hu": "Bartók Béla Elméleti Líceum",
+        "website": "http://www.bartok.ro/",
+        "wikidata": "Q12732160"
+      }
+    },
+    {
+      "id": "way/444801764",
+      "osm_id": 444801764,
+      "osm_type": "way",
+      "name": "Sala de sport",
+      "category": "education",
+      "lat": 45.7416497,
+      "lon": 21.2268123,
+      "tags": {
+        "building": "school",
+        "name": "Sala de sport"
+      }
+    },
+    {
+      "id": "way/445983933",
+      "osm_id": 445983933,
+      "osm_type": "way",
+      "name": "Liceul Tehnologic Transporturi Auto",
+      "category": "education",
+      "lat": 45.7280475,
+      "lon": 21.1795949,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "1",
+        "addr:street": "Strada Ardealului",
+        "amenity": "school",
+        "email": "contact@liceul-auto.ro",
+        "name": "Liceul Tehnologic Transporturi Auto",
+        "phone": "0256 221 671",
+        "website": "https://liceul-auto.ro/"
+      }
+    },
+    {
+      "id": "way/445984651",
+      "osm_id": 445984651,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7675608,
+      "lon": 21.2563775,
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "way/448191731",
+      "osm_id": 448191731,
+      "osm_type": "way",
+      "name": "Liceul Teoretic Grigore Moisil",
+      "category": "education",
+      "lat": 45.7426397,
+      "lon": 21.22442,
+      "tags": {
+        "addr:housenumber": "27",
+        "addr:street": "Strada Gheorghe Doja",
+        "amenity": "school",
+        "building": "school",
+        "building:levels": "1",
+        "name": "Liceul Teoretic Grigore Moisil"
+      }
+    },
+    {
+      "id": "way/451881735",
+      "osm_id": 451881735,
+      "osm_type": "way",
+      "name": "Liceul Tehnologic Special Gheorghe Atanasiu",
+      "category": "education",
+      "lat": 45.7457901,
+      "lon": 21.2200213,
+      "tags": {
+        "amenity": "school",
+        "name": "Liceul Tehnologic Special Gheorghe Atanasiu",
+        "operator": "Liceul Tehnologic Special Gheorghe Atanasiu",
+        "operator:type": "public"
+      }
+    },
+    {
+      "id": "way/451881736",
+      "osm_id": 451881736,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7459911,
+      "lon": 21.2202484,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "16",
+        "addr:street": "Strada Gheorghe Doja",
+        "building": "school",
+        "building:levels": "2"
+      }
+    },
+    {
+      "id": "way/451949147",
+      "osm_id": 451949147,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7337589,
+      "lon": 21.233193,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/451949148",
+      "osm_id": 451949148,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7336285,
+      "lon": 21.2331085,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/463560422",
+      "osm_id": 463560422,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7856343,
+      "lon": 21.2267719,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "6",
+        "addr:postcode": "300291",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Aurora",
+        "building": "kindergarten",
+        "building:levels": "2"
+      }
+    },
+    {
+      "id": "way/463560423",
+      "osm_id": 463560423,
+      "osm_type": "way",
+      "name": "Grădinița Children Care",
+      "category": "education",
+      "lat": 45.7857036,
+      "lon": 21.2266669,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "6",
+        "addr:street": "Strada Aurora",
+        "amenity": "kindergarten",
+        "email": "office@children-care.ro",
+        "name": "Grădinița Children Care",
+        "website": "https://children-care.ro/"
+      }
+    },
+    {
+      "id": "way/463567567",
+      "osm_id": 463567567,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7863686,
+      "lon": 21.2253359,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "8",
+        "addr:street": "Strada Aurora",
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/463593720",
+      "osm_id": 463593720,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.744673,
+      "lon": 21.2129373,
+      "tags": {
+        "amenity": "school",
+        "education": "school"
+      }
+    },
+    {
+      "id": "way/463593721",
+      "osm_id": 463593721,
+      "osm_type": "way",
+      "name": "Liceul Teoretic Dositei Obradovici",
+      "category": "education",
+      "lat": 45.7444608,
+      "lon": 21.2124868,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "6",
+        "addr:street": "Bulevardul General Ion Dragalina",
+        "building": "school",
+        "building:levels": "2",
+        "name": "Liceul Teoretic Dositei Obradovici"
+      }
+    },
+    {
+      "id": "way/463593722",
+      "osm_id": 463593722,
+      "osm_type": "way",
+      "name": "Colegiul Național Bănățean",
+      "category": "education",
+      "lat": 45.7446495,
+      "lon": 21.2134804,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "26",
+        "addr:postcode": "300425",
+        "addr:street": "Bulevardul 16 Decembrie 1989",
+        "building": "school",
+        "building:levels": "3",
+        "name": "Colegiul Național Bănățean",
+        "wikidata": "Q12724332"
+      }
+    },
+    {
+      "id": "way/463593847",
+      "osm_id": 463593847,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7440056,
+      "lon": 21.2106629,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/464301286",
+      "osm_id": 464301286,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7409652,
+      "lon": 21.2195591,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/464301287",
+      "osm_id": 464301287,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7411714,
+      "lon": 21.2202507,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/464301288",
+      "osm_id": 464301288,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7415572,
+      "lon": 21.2199349,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/464301289",
+      "osm_id": 464301289,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.740602,
+      "lon": 21.2202442,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/464301290",
+      "osm_id": 464301290,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7406575,
+      "lon": 21.2205761,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/464303947",
+      "osm_id": 464303947,
+      "osm_type": "way",
+      "name": "Facultatea de Management în Producție și Transporturi",
+      "category": "education",
+      "lat": 45.7455845,
+      "lon": 21.2225893,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "14",
+        "addr:street": "Strada Remus",
+        "alt_name": "MPT",
+        "amenity": "university",
+        "name": "Facultatea de Management în Producție și Transporturi",
+        "website": "https://www.mpt.upt.ro/"
+      }
+    },
+    {
+      "id": "way/464306653",
+      "osm_id": 464306653,
+      "osm_type": "way",
+      "name": "Casa Faenza",
+      "category": "education",
+      "lat": 45.7355496,
+      "lon": 21.2431013,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "15",
+        "addr:street": "Aleea Sănătății",
+        "amenity": "school",
+        "education": "school",
+        "name": "Casa Faenza",
+        "website": "https://casafaenza.ro/"
+      }
+    },
+    {
+      "id": "way/464501491",
+      "osm_id": 464501491,
+      "osm_type": "way",
+      "name": "Liceul Teoretic Jean-Louis Calderon",
+      "category": "education",
+      "lat": 45.7537705,
+      "lon": 21.2430195,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "14",
+        "addr:postcode": "300561",
+        "addr:street": "Strada Johann Heinrich Pestalozzi",
+        "amenity": "school",
+        "education": "school",
+        "name": "Liceul Teoretic Jean-Louis Calderon"
+      }
+    },
+    {
+      "id": "way/465253802",
+      "osm_id": 465253802,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7339729,
+      "lon": 21.222301,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/465253803",
+      "osm_id": 465253803,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7341191,
+      "lon": 21.2218774,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/465253804",
+      "osm_id": 465253804,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7341862,
+      "lon": 21.2224507,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/465253807",
+      "osm_id": 465253807,
+      "osm_type": "way",
+      "name": "Școala Sfântul Antim Ivireanul",
+      "category": "education",
+      "lat": 45.7340352,
+      "lon": 21.222194,
+      "tags": {
+        "amenity": "school",
+        "name": "Școala Sfântul Antim Ivireanul"
+      }
+    },
+    {
+      "id": "way/467398497",
+      "osm_id": 467398497,
+      "osm_type": "way",
+      "name": "Liceul Tehnologic UCECOM Spiru Haret",
+      "category": "education",
+      "lat": 45.7595575,
+      "lon": 21.2046777,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "32B",
+        "addr:street": "Calea Bogdăneștilor",
+        "amenity": "school",
+        "name": "Liceul Tehnologic UCECOM Spiru Haret",
+        "website": "https://www.spiruharettimisoara.ro/"
+      }
+    },
+    {
+      "id": "way/467398499",
+      "osm_id": 467398499,
+      "osm_type": "way",
+      "name": "Liceul Tehnologic de Industrie Alimentară",
+      "category": "education",
+      "lat": 45.759154,
+      "lon": 21.2066117,
+      "tags": {
+        "amenity": "school",
+        "name": "Liceul Tehnologic de Industrie Alimentară",
+        "website": "http://www.liceulalimentartimisoara.ro/"
+      }
+    },
+    {
+      "id": "way/469906756",
+      "osm_id": 469906756,
+      "osm_type": "way",
+      "name": "Școala din Bârna (jud. Timiș)",
+      "category": "education",
+      "lat": 45.7779273,
+      "lon": 21.2651274,
+      "tags": {
+        "building": "school",
+        "building:levels": "1",
+        "name": "Școala din Bârna (jud. Timiș)",
+        "website": "https://muzeulsatuluibanatean.ro/scoala-din-barna-jud-timis/"
+      }
+    },
+    {
+      "id": "way/469908890",
+      "osm_id": 469908890,
+      "osm_type": "way",
+      "name": "Școala Gimnazială nr. 6",
+      "category": "education",
+      "lat": 45.7393634,
+      "lon": 21.1977916,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "89",
+        "addr:postcode": "300151",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Vulturilor",
+        "amenity": "school",
+        "education": "school",
+        "name": "Școala Gimnazială nr. 6"
+      }
+    },
+    {
+      "id": "way/469908891",
+      "osm_id": 469908891,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7394464,
+      "lon": 21.1976731,
+      "tags": {
+        "addr:city": "Timișoara",
+        "building": "school",
+        "building:levels": "1"
+      }
+    },
+    {
+      "id": "way/469908892",
+      "osm_id": 469908892,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7393765,
+      "lon": 21.1980658,
+      "tags": {
+        "addr:city": "Timișoara",
+        "building": "school",
+        "building:levels": "3"
+      }
+    },
+    {
+      "id": "way/472732381",
+      "osm_id": 472732381,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7540837,
+      "lon": 21.2511848,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/472732382",
+      "osm_id": 472732382,
+      "osm_type": "way",
+      "name": "Școala Gimnazială nr. 1",
+      "category": "education",
+      "lat": 45.754119,
+      "lon": 21.2513025,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "3",
+        "addr:street": "Strada Comănești",
+        "amenity": "school",
+        "education": "school",
+        "name": "Școala Gimnazială nr. 1",
+        "phone": "0256224454"
+      }
+    },
+    {
+      "id": "way/473379489",
+      "osm_id": 473379489,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Plopi",
+      "category": "education",
+      "lat": 45.7496196,
+      "lon": 21.2793798,
+      "tags": {
+        "amenity": "school",
+        "name": "Școala Gimnazială Plopi"
+      }
+    },
+    {
+      "id": "way/476686371",
+      "osm_id": 476686371,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7440235,
+      "lon": 21.2124627,
+      "tags": {
+        "addr:city": "Timișoara",
+        "building": "school",
+        "building:levels": "3"
+      }
+    },
+    {
+      "id": "way/477531186",
+      "osm_id": 477531186,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7444385,
+      "lon": 21.2133858,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/478915302",
+      "osm_id": 478915302,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7362862,
+      "lon": 21.2024245,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/497199243",
+      "osm_id": 497199243,
+      "osm_type": "way",
+      "name": "Grădinița Minimundus",
+      "category": "education",
+      "lat": 45.7307507,
+      "lon": 21.2431503,
+      "tags": {
+        "building": "kindergarten",
+        "name": "Grădinița Minimundus"
+      }
+    },
+    {
+      "id": "way/504420320",
+      "osm_id": 504420320,
+      "osm_type": "way",
+      "name": "Gradinița particulară Giminni",
+      "category": "education",
+      "lat": 45.77283,
+      "lon": 21.2414129,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "43A",
+        "addr:postcode": "300245",
+        "addr:street": "Strada Carol Davilla",
+        "amenity": "kindergarten",
+        "building": "kindergarten",
+        "building:levels": "3",
+        "name": "Gradinița particulară Giminni",
+        "website": "https://gradinitagiminni.ro/"
+      }
+    },
+    {
+      "id": "way/520500249",
+      "osm_id": 520500249,
+      "osm_type": "way",
+      "name": "Liceul Tehnologic de Silvicultură şi Agricultură Casa Verde",
+      "category": "education",
+      "lat": 45.7795401,
+      "lon": 21.2717503,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Liceul Tehnologic de Silvicultură şi Agricultură Casa Verde",
+        "website": "https://lcasaverde.ro/"
+      }
+    },
+    {
+      "id": "way/536772254",
+      "osm_id": 536772254,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7429888,
+      "lon": 21.2216917,
+      "tags": {
+        "building": "kindergarten"
+      }
+    },
+    {
+      "id": "way/536773852",
+      "osm_id": 536773852,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7413789,
+      "lon": 21.221153,
+      "tags": {
+        "addr:city": "Timișoara",
+        "building": "kindergarten",
+        "building:levels": "2"
+      }
+    },
+    {
+      "id": "way/536775687",
+      "osm_id": 536775687,
+      "osm_type": "way",
+      "name": "Grădinița cu program prelungit nr. 14",
+      "category": "education",
+      "lat": 45.7415655,
+      "lon": 21.2211149,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "54",
+        "addr:street": "Strada Alexandru Odobescu",
+        "amenity": "kindergarten",
+        "name": "Grădinița cu program prelungit nr. 14"
+      }
+    },
+    {
+      "id": "way/536775868",
+      "osm_id": 536775868,
+      "osm_type": "way",
+      "name": "Grădinița cu program săptămânal nr. 1",
+      "category": "education",
+      "lat": 45.7429678,
+      "lon": 21.2215413,
+      "tags": {
+        "addr:city": "Timișoara",
+        "amenity": "kindergarten",
+        "name": "Grădinița cu program săptămânal nr. 1"
+      }
+    },
+    {
+      "id": "way/541181007",
+      "osm_id": 541181007,
+      "osm_type": "way",
+      "name": "Grădinița cu program prelungit nr. 25",
+      "category": "education",
+      "lat": 45.7583532,
+      "lon": 21.2108237,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "13 A",
+        "addr:street": "Strada Suceava",
+        "building": "kindergarten",
+        "building:levels": "2",
+        "name": "Grădinița cu program prelungit nr. 25"
+      }
+    },
+    {
+      "id": "way/542666651",
+      "osm_id": 542666651,
+      "osm_type": "way",
+      "name": "Academia Steluțelor",
+      "category": "education",
+      "lat": 45.7368601,
+      "lon": 21.2309264,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "7",
+        "addr:postcode": "300206",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Feldioara",
+        "amenity": "kindergarten",
+        "building": "kindergarten",
+        "building:levels": "2",
+        "name": "Academia Steluțelor",
+        "website": "http://www.academia-stelutelor.ro/"
+      }
+    },
+    {
+      "id": "way/556956291",
+      "osm_id": 556956291,
+      "osm_type": "way",
+      "name": "Grădinița lui Goghiță",
+      "category": "education",
+      "lat": 45.7288025,
+      "lon": 21.2424217,
+      "tags": {
+        "building": "kindergarten",
+        "name": "Grădinița lui Goghiță"
+      }
+    },
+    {
+      "id": "way/570439710",
+      "osm_id": 570439710,
+      "osm_type": "way",
+      "name": "Grădinița nr. 53 și Grădinița nr. 16",
+      "category": "education",
+      "lat": 45.7587733,
+      "lon": 21.2464945,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "19",
+        "addr:postcode": "300093",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Abrud",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "name": "Grădinița nr. 53 și Grădinița nr. 16"
+      }
+    },
+    {
+      "id": "way/635899578",
+      "osm_id": 635899578,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7444119,
+      "lon": 21.2072202,
+      "tags": {
+        "building": "kindergarten"
+      }
+    },
+    {
+      "id": "way/635899581",
+      "osm_id": 635899581,
+      "osm_type": "way",
+      "name": "Grădinița nr. 10",
+      "category": "education",
+      "lat": 45.7442247,
+      "lon": 21.2066909,
+      "tags": {
+        "addr:housenumber": "42",
+        "building": "kindergarten",
+        "name": "Grădinița nr. 10",
+        "name:hu": "10. számú (Bartók Béla) óvoda"
+      }
+    },
+    {
+      "id": "way/685396020",
+      "osm_id": 685396020,
+      "osm_type": "way",
+      "name": "Universitatea de Vest din Timișoara - Zona Oituz",
+      "category": "education",
+      "lat": 45.7607158,
+      "lon": 21.2304769,
+      "tags": {
+        "amenity": "university",
+        "education": "university",
+        "name": "Universitatea de Vest din Timișoara - Zona Oituz",
+        "operator": "Universitatea de Vest"
+      }
+    },
+    {
+      "id": "way/699033981",
+      "osm_id": 699033981,
+      "osm_type": "way",
+      "name": "Grădinița Notre Dame",
+      "category": "education",
+      "lat": 45.7443663,
+      "lon": 21.2106716,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "13",
+        "addr:street": "Bulevardul Regele Carol I",
+        "amenity": "kindergarten",
+        "building": "school",
+        "name": "Grădinița Notre Dame",
+        "name:en": "Notre Dame Kindergarten",
+        "name:hu": "Notre Dame napköziotthonos óvoda",
+        "name:ro": "Grădinița Notre Dame",
+        "opening_hours": "Mo-Fr 07:00-17:00",
+        "preschool": "yes"
+      }
+    },
+    {
+      "id": "way/733874489",
+      "osm_id": 733874489,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7237228,
+      "lon": 21.1757802,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/733874490",
+      "osm_id": 733874490,
+      "osm_type": "way",
+      "name": "Școala Gimnazială nr. 29",
+      "category": "education",
+      "lat": 45.723639,
+      "lon": 21.1758388,
+      "tags": {
+        "amenity": "school",
+        "name": "Școala Gimnazială nr. 29"
+      }
+    },
+    {
+      "id": "way/736780998",
+      "osm_id": 736780998,
+      "osm_type": "way",
+      "name": "Grădinița nr. 10",
+      "category": "education",
+      "lat": 45.7444119,
+      "lon": 21.20725,
+      "tags": {
+        "amenity": "kindergarten",
+        "education": "kindergarten",
+        "name": "Grădinița nr. 10"
+      }
+    },
+    {
+      "id": "way/743297418",
+      "osm_id": 743297418,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7335939,
+      "lon": 21.2335279,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/771259819",
+      "osm_id": 771259819,
+      "osm_type": "way",
+      "name": "Școala postliceală Henri Coandă",
+      "category": "education",
+      "lat": 45.7530527,
+      "lon": 21.2421821,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Școala postliceală Henri Coandă"
+      }
+    },
+    {
+      "id": "way/801912870",
+      "osm_id": 801912870,
+      "osm_type": "way",
+      "name": "Colegiul Tehnic Henri Coandă",
+      "category": "education",
+      "lat": 45.755645,
+      "lon": 21.2178521,
+      "tags": {
+        "addr:city": "Timișoara",
+        "amenity": "school",
+        "name": "Colegiul Tehnic Henri Coandă"
+      }
+    },
+    {
+      "id": "way/832179005",
+      "osm_id": 832179005,
+      "osm_type": "way",
+      "name": "Grădinița Kinderwelt",
+      "category": "education",
+      "lat": 45.7644329,
+      "lon": 21.1868775,
+      "tags": {
+        "addr:housenumber": "43",
+        "addr:street": "Strada Locotenent Ovidiu Balea",
+        "building": "kindergarten",
+        "name": "Grădinița Kinderwelt"
+      }
+    },
+    {
+      "id": "way/943810681",
+      "osm_id": 943810681,
+      "osm_type": "way",
+      "name": "Giraffe Kids klub",
+      "category": "education",
+      "lat": 45.733074,
+      "lon": 21.2176199,
+      "tags": {
+        "amenity": "kindergarten",
+        "building": "yes",
+        "name": "Giraffe Kids klub"
+      }
+    },
+    {
+      "id": "way/944131023",
+      "osm_id": 944131023,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7653986,
+      "lon": 21.2048589,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:street": "Strada Crișan",
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/944524840",
+      "osm_id": 944524840,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.755022,
+      "lon": 21.1875448,
+      "tags": {
+        "addr:city": "Timisoara",
+        "addr:housenumber": "6",
+        "addr:street": "Strada Constantin A. Rosetti",
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/944714716",
+      "osm_id": 944714716,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7690219,
+      "lon": 21.2412352,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "19",
+        "addr:street": "Strada Doctor Robert K. Koch",
+        "building": "kindergarten",
+        "building:levels": "2",
+        "roof:shape": "hipped"
+      }
+    },
+    {
+      "id": "way/944810471",
+      "osm_id": 944810471,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7601701,
+      "lon": 21.2783806,
+      "tags": {
+        "building": "kindergarten",
+        "building:levels": "2"
+      }
+    },
+    {
+      "id": "way/955389945",
+      "osm_id": 955389945,
+      "osm_type": "way",
+      "name": "British International School of Timișoara",
+      "category": "education",
+      "lat": 45.7864064,
+      "lon": 21.2258789,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "8",
+        "addr:postcode": "300254",
+        "addr:street": "Strada Aurora",
+        "amenity": "school",
+        "email": "contact@britishschool-timisoara.ro",
+        "facebook": "https://www.facebook.com/BritishSchoolTimisoara/",
+        "grades": "0-12",
+        "name": "British International School of Timișoara",
+        "phone": "0726 241 438",
+        "website": "https://britishschool-timisoara.ro/en/"
+      }
+    },
+    {
+      "id": "way/1087492948",
+      "osm_id": 1087492948,
+      "osm_type": "way",
+      "name": "Grădinița cu program prelungit nr. 9 \"Carla Pelz\"",
+      "category": "education",
+      "lat": 45.7652594,
+      "lon": 21.2049151,
+      "tags": {
+        "amenity": "kindergarten",
+        "education": "kindergarten",
+        "name": "Grădinița cu program prelungit nr. 9 \"Carla Pelz\"",
+        "operator": "Grădinița cu program prelungit nr. 20"
+      }
+    },
+    {
+      "id": "way/1103320329",
+      "osm_id": 1103320329,
+      "osm_type": "way",
+      "name": "Colegiul Economic Francesco Saverio Nitti",
+      "category": "education",
+      "lat": 45.7413629,
+      "lon": 21.2202186,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "7C",
+        "addr:street": "Strada Corbului",
+        "amenity": "school",
+        "name": "Colegiul Economic Francesco Saverio Nitti"
+      }
+    },
+    {
+      "id": "way/1112270396",
+      "osm_id": 1112270396,
+      "osm_type": "way",
+      "name": "Institutul de Cercetări pentru Energii Regenerabile",
+      "category": "education",
+      "lat": 45.7241683,
+      "lon": 21.2344473,
+      "tags": {
+        "amenity": "university",
+        "name": "Institutul de Cercetări pentru Energii Regenerabile"
+      }
+    },
+    {
+      "id": "way/1147017468",
+      "osm_id": 1147017468,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7349734,
+      "lon": 21.2445739,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/1226240294",
+      "osm_id": 1226240294,
+      "osm_type": "way",
+      "name": "Fosta Facultate de Hidrotehnică",
+      "category": "education",
+      "lat": 45.7631862,
+      "lon": 21.2726621,
+      "tags": {
+        "amenity": "university",
+        "name": "Fosta Facultate de Hidrotehnică",
+        "operator": "Universitatea Politehnica Timișoara"
+      }
+    },
+    {
+      "id": "way/1232432939",
+      "osm_id": 1232432939,
+      "osm_type": "way",
+      "name": "Facultatea de Teologie",
+      "category": "education",
+      "lat": 45.7588287,
+      "lon": 21.2059577,
+      "tags": {
+        "amenity": "university",
+        "barrier": "fence",
+        "name": "Facultatea de Teologie",
+        "operator": "Universitatea de Vest"
+      }
+    },
+    {
+      "id": "way/1239689514",
+      "osm_id": 1239689514,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7861435,
+      "lon": 21.2267697,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/1263338291",
+      "osm_id": 1263338291,
+      "osm_type": "way",
+      "name": "Wendy School",
+      "category": "education",
+      "lat": 45.7731677,
+      "lon": 21.2496924,
+      "tags": {
+        "amenity": "school",
+        "name": "Wendy School"
+      }
+    },
+    {
+      "id": "way/1263338293",
+      "osm_id": 1263338293,
+      "osm_type": "way",
+      "name": "Wendy School",
+      "category": "education",
+      "lat": 45.7729934,
+      "lon": 21.2507686,
+      "tags": {
+        "amenity": "school",
+        "name": "Wendy School"
+      }
+    },
+    {
+      "id": "way/1274509691",
+      "osm_id": 1274509691,
+      "osm_type": "way",
+      "name": "Centrul Școlar pentru Educație Incluzivă Constantin Pufan",
+      "category": "education",
+      "lat": 45.744259,
+      "lon": 21.243574,
+      "tags": {
+        "amenity": "school",
+        "name": "Centrul Școlar pentru Educație Incluzivă Constantin Pufan"
+      }
+    },
+    {
+      "id": "way/1274595146",
+      "osm_id": 1274595146,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7498327,
+      "lon": 21.2187234,
+      "tags": {
+        "amenity": "university"
+      }
+    },
+    {
+      "id": "way/1274670705",
+      "osm_id": 1274670705,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7856003,
+      "lon": 21.2301622,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/1274670706",
+      "osm_id": 1274670706,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7852565,
+      "lon": 21.2299324,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/1274670707",
+      "osm_id": 1274670707,
+      "osm_type": "way",
+      "name": "Școala Babel",
+      "category": "education",
+      "lat": 45.7855391,
+      "lon": 21.2300952,
+      "tags": {
+        "addr:housenumber": "42",
+        "addr:street": "Strada Phoenix",
+        "amenity": "school",
+        "name": "Școala Babel"
+      }
+    },
+    {
+      "id": "way/1297185336",
+      "osm_id": 1297185336,
+      "osm_type": "way",
+      "name": "Gradinița cu program prelungit nr. 28",
+      "category": "education",
+      "lat": 45.7439968,
+      "lon": 21.2408001,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Gradinița cu program prelungit nr. 28"
+      }
+    },
+    {
+      "id": "way/1321598925",
+      "osm_id": 1321598925,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7611026,
+      "lon": 21.2299341,
+      "tags": {
+        "amenity": "university",
+        "education": "university"
+      }
+    },
+    {
+      "id": "way/1328924543",
+      "osm_id": 1328924543,
+      "osm_type": "way",
+      "name": "Centrul Școlar pentru Educație Incluzivă „Paul Popescu Neveanu”",
+      "category": "education",
+      "lat": 45.755319,
+      "lon": 21.2524012,
+      "tags": {
+        "amenity": "school",
+        "name": "Centrul Școlar pentru Educație Incluzivă „Paul Popescu Neveanu”"
+      }
+    },
+    {
+      "id": "way/1376845679",
+      "osm_id": 1376845679,
+      "osm_type": "way",
+      "name": "Liceul Teologic Penticostal Logos",
+      "category": "education",
+      "lat": 45.7362577,
+      "lon": 21.202478,
+      "tags": {
+        "amenity": "school",
+        "name": "Liceul Teologic Penticostal Logos"
+      }
+    },
+    {
+      "id": "way/1442574702",
+      "osm_id": 1442574702,
+      "osm_type": "way",
+      "name": "Școala Gimnazială „William Shakespeare”",
+      "category": "education",
+      "lat": 45.7567966,
+      "lon": 21.2471058,
+      "tags": {
+        "amenity": "school",
+        "name": "Școala Gimnazială „William Shakespeare”",
+        "operator": "Liceul Teoretic „William Shakespeare”"
+      }
+    },
+    {
+      "id": "way/1442577524",
+      "osm_id": 1442577524,
+      "osm_type": "way",
+      "name": "Liceul Teoretic „William Shakespeare”",
+      "category": "education",
+      "lat": 45.7561838,
+      "lon": 21.2469863,
+      "tags": {
+        "amenity": "school",
+        "name": "Liceul Teoretic „William Shakespeare”",
+        "operator": "Liceul Teoretic „William Shakespeare”"
+      }
+    },
+    {
+      "id": "way/1446965653",
+      "osm_id": 1446965653,
+      "osm_type": "way",
+      "name": "Grădinița cu Program Prelungit nr. 7",
+      "category": "education",
+      "lat": 45.7239203,
+      "lon": 21.1744502,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Grădinița cu Program Prelungit nr. 7"
+      }
+    },
+    {
+      "id": "way/1456071296",
+      "osm_id": 1456071296,
+      "osm_type": "way",
+      "name": "Creșa zona Bucovina",
+      "category": "education",
+      "lat": 45.7702689,
+      "lon": 21.2162552,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Creșa zona Bucovina"
+      }
+    },
+    {
+      "id": "way/1456071298",
+      "osm_id": 1456071298,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7702722,
+      "lon": 21.2162912,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "2",
+        "addr:postcode": "300666",
+        "addr:street": "Strada Învățătorului",
+        "building": "kindergarten"
+      }
+    },
+    {
+      "id": "way/1458513264",
+      "osm_id": 1458513264,
+      "osm_type": "way",
+      "name": "Școala gimnazială Nr. 19 Avram Iancu",
+      "category": "education",
+      "lat": 45.7515597,
+      "lon": 21.1890932,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "2",
+        "addr:street": "Strada Războieni",
+        "amenity": "school",
+        "fixme": "Nu cred ca este nr19! nr19 este pe dacia nr 40, asta era nr 11 acum cativa ani dar nu sunt sigur daca s-a mutat",
+        "name": "Școala gimnazială Nr. 19 Avram Iancu",
+        "website": "https://www.scoala19avramiancu-tm.ro/"
+      }
+    },
+    {
+      "id": "way/1483889562",
+      "osm_id": 1483889562,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7444921,
+      "lon": 21.2130265,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/1483889563",
+      "osm_id": 1483889563,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7447764,
+      "lon": 21.2128243,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/1483889573",
+      "osm_id": 1483889573,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7436783,
+      "lon": 21.2130718,
+      "tags": {
+        "amenity": "school",
+        "education": "school"
+      }
+    },
+    {
+      "id": "way/1488399227",
+      "osm_id": 1488399227,
+      "osm_type": "way",
+      "name": "Grădinița cu program prelungit 6",
+      "category": "education",
+      "lat": 45.7602524,
+      "lon": 21.2783933,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Grădinița cu program prelungit 6"
+      }
+    },
+    {
+      "id": "relation/2558915",
+      "osm_id": 2558915,
+      "osm_type": "relation",
+      "name": "Liceul Teoretic Nikolaus Lenau - clasele I-IV",
+      "category": "education",
+      "lat": 45.7586362,
+      "lon": 21.2288615,
+      "tags": {
+        "addr:housenumber": "7",
+        "addr:street": "Piața Unirii",
+        "building": "school",
+        "building:colour": "#fc9969",
+        "building:levels": "2",
+        "building:material": "brick",
+        "name": "Liceul Teoretic Nikolaus Lenau - clasele I-IV",
+        "roof:shape": "hipped",
+        "type": "multipolygon"
+      }
+    },
+    {
+      "id": "relation/2607379",
+      "osm_id": 2607379,
+      "osm_type": "relation",
+      "name": "Liceul Teoretic Nikolaus Lenau",
+      "category": "education",
+      "lat": 45.7578848,
+      "lon": 21.2268785,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:country": "RO",
+        "addr:housenumber": "2",
+        "addr:postcode": "300078",
+        "addr:street": "Strada Gheorghe Lazăr",
+        "building": "school",
+        "name": "Liceul Teoretic Nikolaus Lenau",
+        "name:de": "Nikolaus-Lenau-Lyzeum",
+        "name:en": "Nikolaus Lenau High School",
+        "name:ro": "Liceul Teoretic Nikolaus Lenau",
+        "roof:colour": "#e04b0c",
+        "type": "multipolygon",
+        "website": "https://nlenau.ro/",
+        "wikidata": "Q1991332"
+      }
+    },
+    {
+      "id": "relation/2607382",
+      "osm_id": 2607382,
+      "osm_type": "relation",
+      "name": "Grădinița Nikolaus Lenau",
+      "category": "education",
+      "lat": 45.7583417,
+      "lon": 21.2266092,
+      "tags": {
+        "addr:housenumber": "3",
+        "addr:street": "Strada Eremia Grigorescu",
+        "building": "kindergarten",
+        "name": "Grădinița Nikolaus Lenau",
+        "roof:colour": "#e97136",
+        "type": "multipolygon"
+      }
+    },
+    {
+      "id": "relation/2617861",
+      "osm_id": 2617861,
+      "osm_type": "relation",
+      "name": "Rectoratul Universității Politehnica Timișoara",
+      "category": "education",
+      "lat": 45.7535399,
+      "lon": 21.2249632,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "2",
+        "addr:street": "Piața Victoriei",
+        "alt_name": "Palatul Lloyd",
+        "alt_name:de": "Palais Lloyd",
+        "amenity": "university",
+        "building": "yes",
+        "building:facade:colour": "#f7f7f7",
+        "building:material": "brick",
+        "education": "university",
+        "height": "25",
+        "name": "Rectoratul Universității Politehnica Timișoara",
+        "roof:colour": "#cacdd2",
+        "roof:shape": "hipped",
+        "type": "multipolygon",
+        "wikidata": "Q1247933",
+        "wikipedia": "ro:Palatul Lloyd"
+      }
+    },
+    {
+      "id": "relation/6774652",
+      "osm_id": 6774652,
+      "osm_type": "relation",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.73912,
+      "lon": 21.2305208,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "10",
+        "addr:postcode": "300587",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Piața Axente Sever",
+        "building": "kindergarten",
+        "building:levels": "1",
+        "type": "multipolygon"
+      }
+    },
+    {
+      "id": "node/498845897",
+      "osm_id": 498845897,
+      "osm_type": "node",
+      "name": "Maranata",
+      "category": "place_of_worship",
+      "lat": 45.7661293,
+      "lon": 21.2820593,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "pentecostal",
+        "name": "Maranata",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/2312944420",
+      "osm_id": 2312944420,
+      "osm_type": "node",
+      "name": "Maranatha",
+      "category": "place_of_worship",
+      "lat": 45.746839,
+      "lon": 21.2154411,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "seventh_day_adventist",
+        "name": "Maranatha",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/2634652901",
+      "osm_id": 2634652901,
+      "osm_type": "node",
+      "name": "Muzeul Episcopiei Romano-Catolice",
+      "category": "place_of_worship",
+      "lat": 45.7564001,
+      "lon": 21.2298608,
+      "tags": {
+        "SIRUTA:code": "155252",
+        "addr:city": "Timișoara",
+        "addr:housenumber": "4",
+        "addr:postcode": "300055",
+        "addr:street": "Strada Episcop Augustin Pacha",
+        "codul_entității_muzeale": "5.162000015E10",
+        "denomination": "roman_catholic",
+        "email": "ep_rc_tm@lasting.ro",
+        "fax": "0256/490.201",
+        "heritage": "2",
+        "heritage:operator": "lmi",
+        "name": "Muzeul Episcopiei Romano-Catolice",
+        "name:en": "Roman-Catholic Episcopal Museum",
+        "name:hu": "Római Katolikus Egyházmegyei Múzeum",
+        "phone": "0256/490.081",
+        "ref:RO:lmi": "TM-II-m-A-06154",
+        "religion": "christian",
+        "source": "INP",
+        "source:link": "http://date.gov.ro/dataset/ghidul-muzeelor-din-romania",
+        "start_date": "1995",
+        "tourism": "museum",
+        "tourism_survey": "2012-10-21 16:23:15"
+      }
+    },
+    {
+      "id": "node/6529787176",
+      "osm_id": 6529787176,
+      "osm_type": "node",
+      "name": "Biserica Impact Timișoara",
+      "category": "place_of_worship",
+      "lat": 45.7709604,
+      "lon": 21.2214327,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "2A",
+        "addr:postcode": "300635",
+        "addr:street": "Strada Călan",
+        "amenity": "place_of_worship",
+        "denomination": "pentecostal",
+        "name": "Biserica Impact Timișoara",
+        "religion": "christian",
+        "service_times": "Su 17:00-20:00"
+      }
+    },
+    {
+      "id": "node/7056447142",
+      "osm_id": 7056447142,
+      "osm_type": "node",
+      "name": "Biserica Eclesia",
+      "category": "place_of_worship",
+      "lat": 45.730335,
+      "lon": 21.2098515,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "baptist",
+        "name": "Biserica Eclesia",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/10166435117",
+      "osm_id": 10166435117,
+      "osm_type": "node",
+      "name": "Biserica lui Isus Hristos a Sfintilor din Zilele din Urma",
+      "category": "place_of_worship",
+      "lat": 45.7471407,
+      "lon": 21.2231773,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "4",
+        "addr:postcode": "300194",
+        "addr:street": "Strada Filaret Barbu",
+        "amenity": "place_of_worship",
+        "denomination": "mormon",
+        "name": "Biserica lui Isus Hristos a Sfintilor din Zilele din Urma",
+        "name:en": "Church of Jesus Christ of Latter-day Saints",
+        "religion": "christian",
+        "service_times": "Sundays 10:00am"
+      }
+    },
+    {
+      "id": "node/12737095576",
+      "osm_id": 12737095576,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.753087,
+      "lon": 21.2615557,
+      "tags": {
+        "historic": "wayside_cross",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/12824292842",
+      "osm_id": 12824292842,
+      "osm_type": "node",
+      "name": "Biserica Nouapostolică România",
+      "category": "place_of_worship",
+      "lat": 45.7623103,
+      "lon": 21.2046343,
+      "tags": {
+        "amenity": "place_of_worship",
+        "name": "Biserica Nouapostolică România",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/13276092566",
+      "osm_id": 13276092566,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.7258081,
+      "lon": 21.1783655,
+      "tags": {
+        "denomination": "catholic",
+        "historic": "wayside_cross",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/13388464807",
+      "osm_id": 13388464807,
+      "osm_type": "node",
+      "name": "Casa Funerară Rostyl",
+      "category": "place_of_worship",
+      "lat": 45.7598596,
+      "lon": 21.2541878,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "16",
+        "addr:street": "Strada Ion Creangă",
+        "name": "Casa Funerară Rostyl",
+        "religion": "christian",
+        "shop": "funeral_directors",
+        "website": "https://casafunerara-rostyl.ro/"
+      }
+    },
+    {
+      "id": "way/4976094",
+      "osm_id": 4976094,
+      "osm_type": "way",
+      "name": "Cimitirul Calea Șagului",
+      "category": "place_of_worship",
+      "lat": 45.7361817,
+      "lon": 21.2073805,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitirul Calea Șagului",
+        "religion": "christian",
+        "source": "local_knowledge"
+      }
+    },
+    {
+      "id": "way/24042603",
+      "osm_id": 24042603,
+      "osm_type": "way",
+      "name": "Cimitirul Eroilor",
+      "category": "place_of_worship",
+      "lat": 45.7691537,
+      "lon": 21.2267727,
+      "tags": {
+        "landuse": "cemetery",
+        "name": "Cimitirul Eroilor",
+        "official_name": "Cimitirul nr. 1 Calea Lipovei",
+        "religion": "christian",
+        "wikidata": "Q137829595"
+      }
+    },
+    {
+      "id": "way/97719568",
+      "osm_id": 97719568,
+      "osm_type": "way",
+      "name": "Biserica Pogorârea Sfântului Duh",
+      "category": "place_of_worship",
+      "lat": 45.764433,
+      "lon": 21.217281,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "10A",
+        "addr:street": "Strada Timiș",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "check_date": "2023-12-27",
+        "denomination": "orthodox",
+        "loc_name": "Biserica Dacia",
+        "name": "Biserica Pogorârea Sfântului Duh",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/97815504",
+      "osm_id": 97815504,
+      "osm_type": "way",
+      "name": "Cimitirul Viilor Catolic",
+      "category": "place_of_worship",
+      "lat": 45.7728738,
+      "lon": 21.2048113,
+      "tags": {
+        "denomination": "catholic",
+        "landuse": "cemetery",
+        "name": "Cimitirul Viilor Catolic",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/97815505",
+      "osm_id": 97815505,
+      "osm_type": "way",
+      "name": "Cimitirul Viilor Ortodox",
+      "category": "place_of_worship",
+      "lat": 45.7732816,
+      "lon": 21.2011904,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitirul Viilor Ortodox",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/98109201",
+      "osm_id": 98109201,
+      "osm_type": "way",
+      "name": "Liceul Teologic Romano-Catolic Gerhardinum",
+      "category": "place_of_worship",
+      "lat": 45.7526666,
+      "lon": 21.2223205,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "1",
+        "addr:street": "Bulevardul Regele Ferdinand I",
+        "building": "school",
+        "building:colour": "#c0c0c0",
+        "building:levels": "4",
+        "denomination": "roman_catholic",
+        "name": "Liceul Teologic Romano-Catolic Gerhardinum",
+        "name:hu": "Gerhardinum Római Katolikus Teológiai Líceum",
+        "religion": "christian",
+        "roof:shape": "hipped",
+        "wikidata": "Q1413977",
+        "wikipedia": "ro:Liceul Piarist din Timișoara"
+      }
+    },
+    {
+      "id": "way/98109224",
+      "osm_id": 98109224,
+      "osm_type": "way",
+      "name": "Biserica Înălțarea Sfintei Cruci",
+      "category": "place_of_worship",
+      "lat": 45.752293,
+      "lon": 21.2229188,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "3",
+        "addr:postcode": "300006",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Bulevardul Regele Ferdinand I",
+        "alt_name": "Biserica piaștrilor",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "building:facade:colour": "#e8c868",
+        "check_date": "2023-08-28",
+        "denomination": "catholic",
+        "name": "Biserica Înălțarea Sfintei Cruci",
+        "name:hu": "Szent Kereszt felmagasztalása templom",
+        "photo": "Piarist Church, Timișoara (2023) - img 12.jpg",
+        "religion": "christian",
+        "roof:shape": "hipped",
+        "wikidata": "Q129244056"
+      }
+    },
+    {
+      "id": "way/98185133",
+      "osm_id": 98185133,
+      "osm_type": "way",
+      "name": "Cimitirul Mătăsarilor",
+      "category": "place_of_worship",
+      "lat": 45.7643579,
+      "lon": 21.2650214,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitirul Mătăsarilor",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/98250746",
+      "osm_id": 98250746,
+      "osm_type": "way",
+      "name": "Biserica Agape",
+      "category": "place_of_worship",
+      "lat": 45.7659534,
+      "lon": 21.2245561,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "15A",
+        "addr:street": "Calea Aradului",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "pentecostal",
+        "email": "contact@bisericaagape.ro",
+        "name": "Biserica Agape",
+        "religion": "christian",
+        "website": "https://www.bisericaagape.ro/"
+      }
+    },
+    {
+      "id": "way/102946727",
+      "osm_id": 102946727,
+      "osm_type": "way",
+      "name": "Biserica Adormirea Maicii Domnului",
+      "category": "place_of_worship",
+      "lat": 45.7726332,
+      "lon": 21.2200363,
+      "tags": {
+        "addr:city": "Timișoara",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "check_date": "2025-10-26",
+        "denomination": "orthodox",
+        "name": "Biserica Adormirea Maicii Domnului",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/103910678",
+      "osm_id": 103910678,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă Sfinții Apostoli Petru și Pavel",
+      "category": "place_of_worship",
+      "lat": 45.7766872,
+      "lon": 21.2349311,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "1",
+        "addr:postcode": "300256",
+        "addr:street": "Strada Sfinții Apostoli Petru și Pavel",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă Sfinții Apostoli Petru și Pavel",
+        "note": "Hram: Sfinții Apostoli Petru și Pavel (Biserica),  Sfinții Arhangheli Mihail și Gavril (Capela).",
+        "religion": "christian",
+        "website": "http://www.parohiaviilefabric.ro/"
+      }
+    },
+    {
+      "id": "way/110778413",
+      "osm_id": 110778413,
+      "osm_type": "way",
+      "name": "Biserica greco-catolică Nașterea Maicii Domnului",
+      "category": "place_of_worship",
+      "lat": 45.7545338,
+      "lon": 21.2505948,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "1",
+        "addr:street": "Piața Mitropolit Alexandru Sterca-Suluțiu",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "greek_catholic",
+        "name": "Biserica greco-catolică Nașterea Maicii Domnului",
+        "religion": "christian",
+        "wikidata": "Q18537990"
+      }
+    },
+    {
+      "id": "way/110778417",
+      "osm_id": 110778417,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă Fabric \"Sf. Prooroc Ilie Testviteanul“",
+      "category": "place_of_worship",
+      "lat": 45.758318,
+      "lon": 21.2574374,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "10",
+        "addr:postcode": "300119",
+        "addr:street": "Strada Andrei Șaguna",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "check_date": "2023-08-31",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă Fabric \"Sf. Prooroc Ilie Testviteanul“",
+        "note": "Hram \"Sf. Prooroc Ilie Testviteanul“",
+        "religion": "christian",
+        "website": "http://www.parohiatimisoarafabricsfilie.ro/"
+      }
+    },
+    {
+      "id": "way/110780354",
+      "osm_id": 110780354,
+      "osm_type": "way",
+      "name": "Biserica Baptistă nr. 2",
+      "category": "place_of_worship",
+      "lat": 45.758849,
+      "lon": 21.2511826,
+      "tags": {
+        "addr:city": "Timișoara",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "baptist",
+        "name": "Biserica Baptistă nr. 2",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/110780360",
+      "osm_id": 110780360,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă Sârbă",
+      "category": "place_of_worship",
+      "lat": 45.7576843,
+      "lon": 21.2510368,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "check_date": "2023-08-19",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă Sârbă",
+        "religion": "christian",
+        "wikidata": "Q18538056",
+        "wikipedia": "ro:Biserica sârbească „Sf. Gheorghe” din Timișoara"
+      }
+    },
+    {
+      "id": "way/110780362",
+      "osm_id": 110780362,
+      "osm_type": "way",
+      "name": "Biserica Nașterea Maicii Domnului",
+      "category": "place_of_worship",
+      "lat": 45.7623703,
+      "lon": 21.2481042,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "8",
+        "addr:postcode": "300124",
+        "addr:street": "Piața Badea Cârțan",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "description": "Hramul „Nașterea Maicii Domnului“ și „Duminica Tuturor Sfinților”",
+        "name": "Biserica Nașterea Maicii Domnului",
+        "religion": "christian",
+        "website": "http://www.bisericabadeacartan.ro/"
+      }
+    },
+    {
+      "id": "way/111288514",
+      "osm_id": 111288514,
+      "osm_type": "way",
+      "name": "Biserica Studenților",
+      "category": "place_of_worship",
+      "lat": 45.7472267,
+      "lon": 21.2341043,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Studenților",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/111529703",
+      "osm_id": 111529703,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă Română",
+      "category": "place_of_worship",
+      "lat": 45.767977,
+      "lon": 21.2599192,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "description": "Hramul \"Sfântul Mare Mucenic Mina\"",
+        "name": "Biserica Ortodoxă Română",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/112492746",
+      "osm_id": 112492746,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă Sfântul Ierarh Nicolae",
+      "category": "place_of_worship",
+      "lat": 45.7364603,
+      "lon": 21.2520676,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "170",
+        "addr:postcode": "300736",
+        "addr:street": "Bulevardul Liviu Rebreanu",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica Ortodoxă Sfântul Ierarh Nicolae",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/132127748",
+      "osm_id": 132127748,
+      "osm_type": "way",
+      "name": "Cimitirul Cosminului",
+      "category": "place_of_worship",
+      "lat": 45.7380863,
+      "lon": 21.2343161,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitirul Cosminului",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/142773295",
+      "osm_id": 142773295,
+      "osm_type": "way",
+      "name": "Biserica Baptistă Emanuel",
+      "category": "place_of_worship",
+      "lat": 45.7561183,
+      "lon": 21.2089245,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "12",
+        "addr:postcode": "300398",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Frații Buzești",
+        "alt_name": "Biserica Baptistă Nr. 3",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "check_date": "2025-10-17",
+        "denomination": "baptist",
+        "name": "Biserica Baptistă Emanuel",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/151663852",
+      "osm_id": 151663852,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă Română Fabric Vest \"Pogorârea Sf. Duh“",
+      "category": "place_of_worship",
+      "lat": 45.7519652,
+      "lon": 21.2504554,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "1",
+        "addr:postcode": "300562",
+        "addr:street": "Strada Gloriei",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "check_date": "2023-08-31",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă Română Fabric Vest \"Pogorârea Sf. Duh“",
+        "note": "Hram \"Pogorârea Sf. Duh“",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/152199036",
+      "osm_id": 152199036,
+      "osm_type": "way",
+      "name": "Biserica Sinaia",
+      "category": "place_of_worship",
+      "lat": 45.7461252,
+      "lon": 21.2165133,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "9",
+        "addr:street": "Piața Alexandru Mocioni",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "check_date": "2023-09-01",
+        "denomination": "orthodox",
+        "name": "Biserica Sinaia",
+        "religion": "christian",
+        "wikidata": "Q1742793",
+        "wikipedia": "ro:Biserica ortodoxă din Iosefin, Timișoara"
+      }
+    },
+    {
+      "id": "way/152472772",
+      "osm_id": 152472772,
+      "osm_type": "way",
+      "name": "Biserica Sfânta Maria Regina Păcii și a Unității",
+      "category": "place_of_worship",
+      "lat": 45.7431525,
+      "lon": 21.2239593,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "25A",
+        "addr:street": "Strada Gheorghe Doja",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "check_date": "2024-10-30",
+        "denomination": "catholic",
+        "name": "Biserica Sfânta Maria Regina Păcii și a Unității",
+        "religion": "christian",
+        "start_date": "2008",
+        "website": "https://www.reginapacis.ro/",
+        "wikidata": "Q1514524",
+        "wikipedia": "ro:Biserica greco-catolică din Elisabetin, Timișoara"
+      }
+    },
+    {
+      "id": "way/152474227",
+      "osm_id": 152474227,
+      "osm_type": "way",
+      "name": "Biserica Romano-Catolică din Elisabetin",
+      "category": "place_of_worship",
+      "lat": 45.7413072,
+      "lon": 21.2264372,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "check_date": "2024-10-28",
+        "denomination": "catholic",
+        "name": "Biserica Romano-Catolică din Elisabetin",
+        "name:hu": "Erzsébetvárosi Római-Katolikus Plébánia",
+        "religion": "christian",
+        "website": "http://www.parohiaelisabetin.ro/",
+        "wikidata": "Q1742556"
+      }
+    },
+    {
+      "id": "way/152609804",
+      "osm_id": 152609804,
+      "osm_type": "way",
+      "name": "Biserica Martirilor",
+      "category": "place_of_worship",
+      "lat": 45.7304604,
+      "lon": 21.2318542,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "10A",
+        "addr:street": "Strada Martir Dumitru Jugănaru",
+        "air_conditioning": "yes",
+        "alt_name": "Biserica Sfântul Arhidiacon Ștefan",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Martirilor",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/154924890",
+      "osm_id": 154924890,
+      "osm_type": "way",
+      "name": "Biserica romano-catolică \"Sfântul Josif\" Timișoara VI.- Fratelia",
+      "category": "place_of_worship",
+      "lat": 45.7259784,
+      "lon": 21.2092417,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "48",
+        "addr:postcode": "300426",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Ana Ipătescu",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "roman_catholic",
+        "name": "Biserica romano-catolică \"Sfântul Josif\" Timișoara VI.- Fratelia",
+        "religion": "christian",
+        "wikidata": "Q1742805",
+        "wikipedia": "ro:Biserica romano-catolică din Fratelia, Timișoara"
+      }
+    },
+    {
+      "id": "way/154927318",
+      "osm_id": 154927318,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă Română Timișoara Fratelia",
+      "category": "place_of_worship",
+      "lat": 45.7253227,
+      "lon": 21.2096559,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "3",
+        "addr:postcode": "300430",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Chișodei",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "description": "Hram: Sf. Ap. Petru și Pavel",
+        "name": "Biserica Ortodoxă Română Timișoara Fratelia",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/155226493",
+      "osm_id": 155226493,
+      "osm_type": "way",
+      "name": "Biserica Reformată Fratelia",
+      "category": "place_of_worship",
+      "lat": 45.7222783,
+      "lon": 21.2154128,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "81",
+        "addr:postcode": "300434",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Herculane",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "reformed",
+        "name": "Biserica Reformată Fratelia",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/155227207",
+      "osm_id": 155227207,
+      "osm_type": "way",
+      "name": "Biserica Nașterea Sfintei Fecioare Maria",
+      "category": "place_of_worship",
+      "lat": 45.7446503,
+      "lon": 21.2110931,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "11",
+        "addr:postcode": "300181",
+        "addr:street": "Bulevardul General Ion Dragalina",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "check_date": "2023-09-01",
+        "denomination": "catholic",
+        "name": "Biserica Nașterea Sfintei Fecioare Maria",
+        "religion": "christian",
+        "website": "https://sanctamariaiosefin.ro",
+        "wikidata": "Q2082804",
+        "wikipedia": "ro:Biserica romano-catolică din Iosefin"
+      }
+    },
+    {
+      "id": "way/158079551",
+      "osm_id": 158079551,
+      "osm_type": "way",
+      "name": "Biserica Înălțarea Domnului",
+      "category": "place_of_worship",
+      "lat": 45.7647391,
+      "lon": 21.2062107,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "15",
+        "addr:street": "Piața Avram Iancu",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica Înălțarea Domnului",
+        "religion": "christian",
+        "wikidata": "Q759630",
+        "wikipedia": "en:Mehala Orthodox Church"
+      }
+    },
+    {
+      "id": "way/158080079",
+      "osm_id": 158080079,
+      "osm_type": "way",
+      "name": "Biserica Sfântul Nume al Sfintei Fecioare Maria",
+      "category": "place_of_worship",
+      "lat": 45.7647849,
+      "lon": 21.2049247,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "check_date": "2025-05-16",
+        "denomination": "catholic",
+        "name": "Biserica Sfântul Nume al Sfintei Fecioare Maria",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/158080477",
+      "osm_id": 158080477,
+      "osm_type": "way",
+      "name": "Biserica Sârbească Sfântul Nicolae",
+      "category": "place_of_worship",
+      "lat": 45.7654192,
+      "lon": 21.2073943,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "serbian_orthodox",
+        "name": "Biserica Sârbească Sfântul Nicolae",
+        "religion": "christian",
+        "wikidata": "Q1986321"
+      }
+    },
+    {
+      "id": "way/183867092",
+      "osm_id": 183867092,
+      "osm_type": "way",
+      "name": "Cimitirul Ronaț",
+      "category": "place_of_worship",
+      "lat": 45.7645621,
+      "lon": 21.1792575,
+      "tags": {
+        "landuse": "cemetery",
+        "name": "Cimitirul Ronaț",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/191153651",
+      "osm_id": 191153651,
+      "osm_type": "way",
+      "name": "Biserica Romano-Catolică Millenium",
+      "category": "place_of_worship",
+      "lat": 45.7567073,
+      "lon": 21.2477747,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:street": "Piața Romanilor",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "roman_catholic",
+        "name": "Biserica Romano-Catolică Millenium",
+        "name:hu": "Milleniumi templom",
+        "religion": "christian",
+        "website": "http://www.ro.biserica-millennium.ro/",
+        "wikidata": "Q1935450",
+        "wikipedia": "ro:Biserica Millennium din Timișoara"
+      }
+    },
+    {
+      "id": "way/191194846",
+      "osm_id": 191194846,
+      "osm_type": "way",
+      "name": "Domul Sfântul Gheorghe - Catedrala romano-catolică",
+      "category": "place_of_worship",
+      "lat": 45.7581257,
+      "lon": 21.2303972,
+      "tags": {
+        "alt_name": "Domul Catolic",
+        "alt_name:de": "Dom zum Heiligen Georg",
+        "amenity": "place_of_worship",
+        "building": "cathedral",
+        "building:facade:colour": "beige",
+        "building:material": "brick",
+        "check_date": "2023-08-30",
+        "denomination": "roman_catholic",
+        "is_in:city": "Timișoara",
+        "name": "Domul Sfântul Gheorghe - Catedrala romano-catolică",
+        "name:de": "Temeswarer Dom",
+        "name:en": "St. George's Cathedral",
+        "name:hu": "Szent György székesegyház",
+        "name:ro": "Domul Sfântul Gheorghe - Catedrala romano-catolică",
+        "religion": "christian",
+        "tourism": "attraction",
+        "wikidata": "Q1062101",
+        "wikipedia": "en:St. George's Cathedral, Timișoara"
+      }
+    },
+    {
+      "id": "way/193590680",
+      "osm_id": 193590680,
+      "osm_type": "way",
+      "name": "Catedrala Ortodoxă Sârbă",
+      "category": "place_of_worship",
+      "lat": 45.7580011,
+      "lon": 21.2277509,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "14",
+        "addr:postcode": "300079",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Emanuil Ungureanu",
+        "amenity": "place_of_worship",
+        "building": "cathedral",
+        "building:facade:colour": "beige",
+        "building:material": "brick",
+        "denomination": "serbian_orthodox",
+        "name": "Catedrala Ortodoxă Sârbă",
+        "name:de": "Christi-Himmelfahrts-Kathedrale",
+        "name:en": "Serbian Orthodox Cathedral",
+        "name:hu": "Urunk mennybemenetele szerb ortodox székesegyház",
+        "name:ro": "Catedrala Ortodoxă Sârbă",
+        "name:sr": "Српска православна саборна црква",
+        "religion": "christian",
+        "tourism": "attraction",
+        "wikidata": "Q1078584",
+        "wikipedia": "ro:Catedrala Ortodoxă Sârbă din Timișoara"
+      }
+    },
+    {
+      "id": "way/193602657",
+      "osm_id": 193602657,
+      "osm_type": "way",
+      "name": "Sinagoga din Cetate",
+      "category": "place_of_worship",
+      "lat": 45.7564617,
+      "lon": 21.2261267,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "6",
+        "addr:postcode": "300080",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Mărășești",
+        "amenity": "place_of_worship",
+        "building": "synagogue",
+        "heritage": "2",
+        "heritage:operator": "lmi",
+        "historic": "yes",
+        "is_in:city": "Timișoara",
+        "name": "Sinagoga din Cetate",
+        "name:pl": "Synagoga w Timiszoarze",
+        "ref:RO:lmi": "TM-II-m-A-06150",
+        "religion": "jewish",
+        "toilets:wheelchair": "no",
+        "tourism": "attraction",
+        "wheelchair": "no",
+        "wikidata": "Q535287",
+        "wikipedia": "ro:Sinagoga din Cetate, Timișoara"
+      }
+    },
+    {
+      "id": "way/194401979",
+      "osm_id": 194401979,
+      "osm_type": "way",
+      "name": "Biserica Sfânta Ecaterina",
+      "category": "place_of_worship",
+      "lat": 45.754141,
+      "lon": 21.2284196,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "4",
+        "addr:street": "Strada Bolyai János",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "check_date": "2023-09-01",
+        "denomination": "roman_catholic",
+        "name": "Biserica Sfânta Ecaterina",
+        "name:hu": "Alexandriai Szent Katalin-templom",
+        "religion": "christian",
+        "roof:shape": "gabled",
+        "wikidata": "Q1736092",
+        "wikipedia": "ro:Biserica Sfânta Ecaterina din Timișoara"
+      }
+    },
+    {
+      "id": "way/194450516",
+      "osm_id": 194450516,
+      "osm_type": "way",
+      "name": "Catedrala Mitropolitană Ortodoxă",
+      "category": "place_of_worship",
+      "lat": 45.7507012,
+      "lon": 21.2242278,
+      "tags": {
+        "addr:city": "Timișoara",
+        "alt_name": "Catedrala Mitropolitană din Timișoara",
+        "amenity": "place_of_worship",
+        "architect": "Ion Traianescu",
+        "building": "church",
+        "check_date": "2024-01-29",
+        "denomination": "romanian_orthodox",
+        "height": "90.5",
+        "heritage": "2",
+        "heritage:operator": "lmi",
+        "material": "brick",
+        "name": "Catedrala Mitropolitană Ortodoxă",
+        "name:el": "Ορθόδοξος Μητροπολιτικός Καθεδρικός",
+        "name:en": "Mitropolitan Orthodox Cathedral",
+        "name:ro": "Catedrala Mitropolitană Ortodoxă",
+        "ref:RO:lmi": "TM-II-m-A-06138",
+        "religion": "christian",
+        "start_date": "1936-1946",
+        "wheelchair": "no",
+        "wikidata": "Q1261597",
+        "wikipedia": "en:Timișoara Orthodox Cathedral"
+      }
+    },
+    {
+      "id": "way/194655131",
+      "osm_id": 194655131,
+      "osm_type": "way",
+      "name": "Biserica Mizercordienilor",
+      "category": "place_of_worship",
+      "lat": 45.7557301,
+      "lon": 21.2246816,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "5",
+        "addr:postcode": "300010",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Scuarul Martir Radian Belici",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "building:facade:colour": "#fde2bb",
+        "denomination": "greek_catholic",
+        "name": "Biserica Mizercordienilor",
+        "religion": "christian",
+        "roof:shape": "gabled",
+        "wikidata": "Q1231243",
+        "wikipedia": "ro:Biserica mizericordienilor din Timișoara"
+      }
+    },
+    {
+      "id": "way/195276807",
+      "osm_id": 195276807,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă Sfântul Ioan și Sfântul Luca",
+      "category": "place_of_worship",
+      "lat": 45.7529478,
+      "lon": 21.2337464,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:street": "Strada Camil Petrescu",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "check_date": "2025-03-22",
+        "denomination": "romanian_orthodox",
+        "is_in:city": "Timișoara",
+        "is_in:country": "România",
+        "is_in:county": "Timiș",
+        "name": "Biserica Ortodoxă Sfântul Ioan și Sfântul Luca",
+        "name:hu": "Szent János és Szent Lukács templom",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/218207939",
+      "osm_id": 218207939,
+      "osm_type": "way",
+      "name": "Biserica Baptistă Maghiară",
+      "category": "place_of_worship",
+      "lat": 45.7376099,
+      "lon": 21.2249123,
+      "tags": {
+        "addr:housenumber": "6",
+        "addr:street": "Strada Drubeta",
+        "building": "church",
+        "name": "Biserica Baptistă Maghiară",
+        "name:hu": "TEMESVÁRI MAGYAR BAPTISTA GYÜLEKEZET"
+      }
+    },
+    {
+      "id": "way/224248196",
+      "osm_id": 224248196,
+      "osm_type": "way",
+      "name": "Biserica Adventistă de Ziua a Șaptea Betania",
+      "category": "place_of_worship",
+      "lat": 45.7391445,
+      "lon": 21.2258313,
+      "tags": {
+        "addr:housenumber": "19",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "seventh_day_adventist",
+        "name": "Biserica Adventistă de Ziua a Șaptea Betania",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/224390098",
+      "osm_id": 224390098,
+      "osm_type": "way",
+      "name": "Biserica Militară",
+      "category": "place_of_worship",
+      "lat": 45.7570461,
+      "lon": 21.2239719,
+      "tags": {
+        "addr:city": "Timișoara",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "check_date": "2023-08-27",
+        "denomination": "orthodox",
+        "description": "Hramul “Sfântul Mare Mucenic Dimitrie, Izvorâtorul de Mir” ",
+        "name": "Biserica Militară",
+        "name:hu": "Katonai templom",
+        "religion": "christian",
+        "website": "http://www.parohiacetate.ro/"
+      }
+    },
+    {
+      "id": "way/231369706",
+      "osm_id": 231369706,
+      "osm_type": "way",
+      "name": "Cimitir Aleea Nicorești",
+      "category": "place_of_worship",
+      "lat": 45.7147326,
+      "lon": 21.2060122,
+      "tags": {
+        "landuse": "cemetery",
+        "name": "Cimitir Aleea Nicorești",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/274648109",
+      "osm_id": 274648109,
+      "osm_type": "way",
+      "name": "Sinagoga din Fabric",
+      "category": "place_of_worship",
+      "lat": 45.7562981,
+      "lon": 21.2454922,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "2",
+        "addr:street": "Strada Ion Luca Caragiale",
+        "amenity": "place_of_worship",
+        "building": "synagogue",
+        "historic": "yes",
+        "name": "Sinagoga din Fabric",
+        "name:pl": "Nowa synagoga w Timiszoarze",
+        "religion": "jewish",
+        "tourism": "attraction",
+        "wikidata": "Q2095687",
+        "wikipedia": "ro:Sinagoga din Fabric, Timișoara"
+      }
+    },
+    {
+      "id": "way/274649918",
+      "osm_id": 274649918,
+      "osm_type": "way",
+      "name": "Biserica Baptistă Betel",
+      "category": "place_of_worship",
+      "lat": 45.7484606,
+      "lon": 21.2154885,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "check_date": "2025-09-19",
+        "denomination": "baptist",
+        "name": "Biserica Baptistă Betel",
+        "religion": "christian",
+        "website": "https://www.betel.ro/"
+      }
+    },
+    {
+      "id": "way/274651663",
+      "osm_id": 274651663,
+      "osm_type": "way",
+      "name": "Biserica Baptistă Stânca",
+      "category": "place_of_worship",
+      "lat": 45.7713594,
+      "lon": 21.2201151,
+      "tags": {
+        "addr:city": "Timișoara",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "baptist",
+        "name": "Biserica Baptistă Stânca",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/274652570",
+      "osm_id": 274652570,
+      "osm_type": "way",
+      "name": "Biserica Baptistă Golgota",
+      "category": "place_of_worship",
+      "lat": 45.7711341,
+      "lon": 21.2410853,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "1",
+        "addr:postcode": "300262",
+        "addr:street": "Piața Atena",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "baptist",
+        "name": "Biserica Baptistă Golgota",
+        "religion": "christian",
+        "website": "https://www.bisericagolgota.ro/"
+      }
+    },
+    {
+      "id": "way/277203209",
+      "osm_id": 277203209,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.7762534,
+      "lon": 21.2456971,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "26",
+        "addr:street": "Strada Verde",
+        "denomination": "greek_catholic",
+        "landuse": "religious",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/318867804",
+      "osm_id": 318867804,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă Română \"Sfintii Imparati Constantin si Elena\"",
+      "category": "place_of_worship",
+      "lat": 45.7666439,
+      "lon": 21.2654996,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "10",
+        "addr:postcode": "300309",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Alpiniștilor",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă Română \"Sfintii Imparati Constantin si Elena\"",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/361601798",
+      "osm_id": 361601798,
+      "osm_type": "way",
+      "name": "Biserica Creștină Baptistă Ghetsimani",
+      "category": "place_of_worship",
+      "lat": 45.7281653,
+      "lon": 21.2366829,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "baptist",
+        "name": "Biserica Creștină Baptistă Ghetsimani",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/416259134",
+      "osm_id": 416259134,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă Română Ciarda Roșie",
+      "category": "place_of_worship",
+      "lat": 45.7265554,
+      "lon": 21.2670841,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "description": "Hramurile \"Adormirea Maicii Domnului\" și \"Sfinții 40 de Mucenici\".",
+        "name": "Biserica Ortodoxă Română Ciarda Roșie",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/416259857",
+      "osm_id": 416259857,
+      "osm_type": "way",
+      "name": "Cimitirul Ciarda Roșie",
+      "category": "place_of_worship",
+      "lat": 45.7235638,
+      "lon": 21.2699615,
+      "tags": {
+        "landuse": "cemetery",
+        "name": "Cimitirul Ciarda Roșie",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/418808583",
+      "osm_id": 418808583,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă Română Zona Steaua",
+      "category": "place_of_worship",
+      "lat": 45.7259356,
+      "lon": 21.2039543,
+      "tags": {
+        "addr:city": "Timișoara",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă Română Zona Steaua",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/418810181",
+      "osm_id": 418810181,
+      "osm_type": "way",
+      "name": "Capela Ortodoxă Română Zona Steaua",
+      "category": "place_of_worship",
+      "lat": 45.726259,
+      "lon": 21.2041087,
+      "tags": {
+        "addr:city": "Timișoara",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Capela Ortodoxă Română Zona Steaua",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/418821198",
+      "osm_id": 418821198,
+      "osm_type": "way",
+      "name": "Biserica Adormirea Maicii Domnului",
+      "category": "place_of_worship",
+      "lat": 45.7419454,
+      "lon": 21.2299907,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Adormirea Maicii Domnului",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/418831014",
+      "osm_id": 418831014,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.7419732,
+      "lon": 21.2300446,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "religious",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/418969057",
+      "osm_id": 418969057,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă Română, Timișoara, Zona Soarelui Sud, \"Sf. Ierarh Nicolae\"",
+      "category": "place_of_worship",
+      "lat": 45.7249481,
+      "lon": 21.2506019,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "29",
+        "addr:postcode": "300732",
+        "addr:street": "Strada Tosca",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă Română, Timișoara, Zona Soarelui Sud, \"Sf. Ierarh Nicolae\"",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/418970069",
+      "osm_id": 418970069,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.7249303,
+      "lon": 21.2508791,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "29",
+        "addr:postcode": "300732",
+        "addr:street": "Strada Tosca",
+        "building": "church",
+        "building:levels": "1",
+        "description": "Dependințe biserică"
+      }
+    },
+    {
+      "id": "way/419473065",
+      "osm_id": 419473065,
+      "osm_type": "way",
+      "name": "Capela Ortodoxă Română Ciarda Roșie",
+      "category": "place_of_worship",
+      "lat": 45.7282931,
+      "lon": 21.2693977,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:street": "Strada Martir Constantin Radu",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Capela Ortodoxă Română Ciarda Roșie",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/421119648",
+      "osm_id": 421119648,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.725914,
+      "lon": 21.2092901,
+      "tags": {
+        "denomination": "roman_catholic",
+        "landuse": "religious",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/421121688",
+      "osm_id": 421121688,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.7253254,
+      "lon": 21.2096809,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "religious",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/421122454",
+      "osm_id": 421122454,
+      "osm_type": "way",
+      "name": "Biserica romano-catolică Fratelia B „Adormirea Maicii Domnului”",
+      "category": "place_of_worship",
+      "lat": 45.7233928,
+      "lon": 21.2268142,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "28",
+        "addr:street": "Strada Ivan Petrovici Pavlov",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "roman_catholic",
+        "name": "Biserica romano-catolică Fratelia B „Adormirea Maicii Domnului”",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/421122455",
+      "osm_id": 421122455,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.7234646,
+      "lon": 21.2269554,
+      "tags": {
+        "denomination": "roman_catholic",
+        "landuse": "religious",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/421157381",
+      "osm_id": 421157381,
+      "osm_type": "way",
+      "name": "Cimitirul Militar Sf. Ilie Tesviteanul",
+      "category": "place_of_worship",
+      "lat": 45.7649786,
+      "lon": 21.180985,
+      "tags": {
+        "landuse": "cemetery",
+        "name": "Cimitirul Militar Sf. Ilie Tesviteanul",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/421306106",
+      "osm_id": 421306106,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.726051,
+      "lon": 21.2040752,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "religious",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/421612032",
+      "osm_id": 421612032,
+      "osm_type": "way",
+      "name": "Biserica de lemn din Hodoș",
+      "category": "place_of_worship",
+      "lat": 45.7511573,
+      "lon": 21.2297138,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:street": "Bulevardul Constantin Diaconovici Loga",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Biserica de lemn din Hodoș",
+        "religion": "christian",
+        "wikidata": "Q12722310",
+        "wikipedia": "ro:Biserica de lemn din Hodoș"
+      }
+    },
+    {
+      "id": "way/424767583",
+      "osm_id": 424767583,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă Română",
+      "category": "place_of_worship",
+      "lat": 45.7693985,
+      "lon": 21.2599015,
+      "tags": {
+        "addr:city": "Timișoara",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă Română",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/426576335",
+      "osm_id": 426576335,
+      "osm_type": "way",
+      "name": "Biserica Creștină Baptistă Maranata",
+      "category": "place_of_worship",
+      "lat": 45.7335663,
+      "lon": 21.2414495,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "5",
+        "addr:postcode": "300472",
+        "addr:street": "Strada Versului",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "baptist",
+        "name": "Biserica Creștină Baptistă Maranata",
+        "religion": "christian",
+        "website": "https://www.maranatatm.ro/"
+      }
+    },
+    {
+      "id": "way/427566411",
+      "osm_id": 427566411,
+      "osm_type": "way",
+      "name": "Biserica Baptistă Betania",
+      "category": "place_of_worship",
+      "lat": 45.7405409,
+      "lon": 21.1962637,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "22",
+        "addr:street": "Strada Ion Barac",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "baptist",
+        "name": "Biserica Baptistă Betania",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/428036077",
+      "osm_id": 428036077,
+      "osm_type": "way",
+      "name": "Centrul Creștin Aletheia",
+      "category": "place_of_worship",
+      "lat": 45.7377674,
+      "lon": 21.2516186,
+      "tags": {
+        "denomination": "evangelical",
+        "landuse": "religious",
+        "name": "Centrul Creștin Aletheia",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/428036243",
+      "osm_id": 428036243,
+      "osm_type": "way",
+      "name": "Centrul Creștin Aletheia",
+      "category": "place_of_worship",
+      "lat": 45.7374407,
+      "lon": 21.2511868,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "15",
+        "addr:postcode": "300736",
+        "addr:street": "Bulevardul Iosif Bulbuca",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "evangelical",
+        "name": "Centrul Creștin Aletheia",
+        "religion": "christian",
+        "website": "https://www.aletheia.ro/"
+      }
+    },
+    {
+      "id": "way/428044840",
+      "osm_id": 428044840,
+      "osm_type": "way",
+      "name": "Capela Spitalului Județean",
+      "category": "place_of_worship",
+      "lat": 45.7372352,
+      "lon": 21.2426874,
+      "tags": {
+        "addr:city": "Timișoara",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "description": "Hramul “Sfinții Doctori fără de arginți Cosma și Damian”.",
+        "name": "Capela Spitalului Județean",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/442996980",
+      "osm_id": 442996980,
+      "osm_type": "way",
+      "name": "Biserica Reformată Timișoara Cetate",
+      "category": "place_of_worship",
+      "lat": 45.74807,
+      "lon": 21.2185792,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "1",
+        "addr:postcode": "300200",
+        "addr:street": "Strada Timotei Cipariu",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "building:levels": "3",
+        "denomination": "reformed",
+        "name": "Biserica Reformată Timișoara Cetate",
+        "name:hu": "Belvárosi Református Egyház",
+        "religion": "christian",
+        "website": "https://www.facebook.com/TemesvarBelvarosiReformatusGyulekezet/",
+        "wikidata": "Q1123000",
+        "wikipedia": "en:Elisabetin Reformed Church"
+      }
+    },
+    {
+      "id": "way/451946651",
+      "osm_id": 451946651,
+      "osm_type": "way",
+      "name": "Mănăstirea Ordinului Salvatorian",
+      "category": "place_of_worship",
+      "lat": 45.7410356,
+      "lon": 21.2270314,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "1",
+        "addr:street": "Strada 1 Decembrie 1918",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "catholic",
+        "name": "Mănăstirea Ordinului Salvatorian",
+        "religion": "christian",
+        "start_date": "1926"
+      }
+    },
+    {
+      "id": "way/463593719",
+      "osm_id": 463593719,
+      "osm_type": "way",
+      "name": "Biserica Notre Dame",
+      "category": "place_of_worship",
+      "lat": 45.743808,
+      "lon": 21.2126835,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "4",
+        "addr:street": "Bulevardul General Ion Dragalina",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "catholic",
+        "name": "Biserica Notre Dame",
+        "religion": "christian",
+        "wikidata": "Q1306243",
+        "wikipedia": "ro:Biserica Notre Dame din Timișoara"
+      }
+    },
+    {
+      "id": "way/465253808",
+      "osm_id": 465253808,
+      "osm_type": "way",
+      "name": "Biserica Ucraineană",
+      "category": "place_of_worship",
+      "lat": 45.732549,
+      "lon": 21.2221342,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Biserica Ucraineană",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/469906758",
+      "osm_id": 469906758,
+      "osm_type": "way",
+      "name": "Biserica din Topla (jud. Timiș)",
+      "category": "place_of_worship",
+      "lat": 45.7782412,
+      "lon": 21.2653674,
+      "tags": {
+        "building": "church",
+        "name": "Biserica din Topla (jud. Timiș)",
+        "website": "https://muzeulsatuluibanatean.ro/biserica-din-topla-jud-timis/"
+      }
+    },
+    {
+      "id": "way/474623652",
+      "osm_id": 474623652,
+      "osm_type": "way",
+      "name": "Biserica Evanghelică Luterană",
+      "category": "place_of_worship",
+      "lat": 45.7579001,
+      "lon": 21.2316867,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:street": "Piața Ionel I.C. Brătianu",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "check_date": "2025-05-10",
+        "denomination": "lutheran",
+        "name": "Biserica Evanghelică Luterană",
+        "name:hu": "Evangélikus templom",
+        "religion": "christian",
+        "wikidata": "Q1253385",
+        "wikipedia": "en:Lutheran Church, Timișoara"
+      }
+    },
+    {
+      "id": "way/475935461",
+      "osm_id": 475935461,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.7262682,
+      "lon": 21.2198782,
+      "tags": {
+        "building": "church",
+        "building:levels": "1"
+      }
+    },
+    {
+      "id": "way/478650249",
+      "osm_id": 478650249,
+      "osm_type": "way",
+      "name": "Biserica Sfântul Ierarh Nicolae",
+      "category": "place_of_worship",
+      "lat": 45.783819,
+      "lon": 21.2179874,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:street": "Calea Aradului",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "check_date": "2025-05-07",
+        "denomination": "orthodox",
+        "name": "Biserica Sfântul Ierarh Nicolae",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/481199261",
+      "osm_id": 481199261,
+      "osm_type": "way",
+      "name": "Biserica Sfânta Parascheva",
+      "category": "place_of_worship",
+      "lat": 45.7628899,
+      "lon": 21.2446717,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "check_date": "2025-05-04",
+        "name": "Biserica Sfânta Parascheva",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/500267591",
+      "osm_id": 500267591,
+      "osm_type": "way",
+      "name": "Biserica Penticostală Carmel",
+      "category": "place_of_worship",
+      "lat": 45.7557051,
+      "lon": 21.1911155,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:street": "Strada Madona",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "pentecostal",
+        "name": "Biserica Penticostală Carmel",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/519535575",
+      "osm_id": 519535575,
+      "osm_type": "way",
+      "name": "Biserica Vox Domini",
+      "category": "place_of_worship",
+      "lat": 45.7369764,
+      "lon": 21.233865,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "baptist",
+        "name": "Biserica Vox Domini",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/536214226",
+      "osm_id": 536214226,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.7726057,
+      "lon": 21.2201305,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "religious",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/547437926",
+      "osm_id": 547437926,
+      "osm_type": "way",
+      "name": "Biserica Apele Vii",
+      "category": "place_of_worship",
+      "lat": 45.7384858,
+      "lon": 21.2121845,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Biserica Apele Vii",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/560545397",
+      "osm_id": 560545397,
+      "osm_type": "way",
+      "name": "Parcul Bisericii Martirilor",
+      "category": "place_of_worship",
+      "lat": 45.7304668,
+      "lon": 21.2318527,
+      "tags": {
+        "leisure": "park",
+        "name": "Parcul Bisericii Martirilor",
+        "natural": "heath",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/635640609",
+      "osm_id": 635640609,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.7600995,
+      "lon": 21.2607091,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes"
+      }
+    },
+    {
+      "id": "way/669709225",
+      "osm_id": 669709225,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.7337472,
+      "lon": 21.2416969,
+      "tags": {
+        "denomination": "baptist",
+        "landuse": "religious",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/671027800",
+      "osm_id": 671027800,
+      "osm_type": "way",
+      "name": "Biserica Penticostala SMIRNA",
+      "category": "place_of_worship",
+      "lat": 45.7714615,
+      "lon": 21.2420592,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "7",
+        "addr:postcode": "300262",
+        "addr:street": "Strada Molidului",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "pentecostal",
+        "name": "Biserica Penticostala SMIRNA",
+        "religion": "christian",
+        "service_times": "Zilnic: 09:00 - 10:00 RUGACIUNE Miercuri: 18:00 - 20:00 SEARA DE RUGACIUNE Joi: 18:00 - 20:00 SERVICIU DIVIN Duminica: 09:00 - 12:00 SERVICIU DIVIN 18:00 - 20:00 SERVICIU DE EVANGHELIZARE"
+      }
+    },
+    {
+      "id": "way/708761114",
+      "osm_id": 708761114,
+      "osm_type": "way",
+      "name": "Biserica Sfântul Rochus",
+      "category": "place_of_worship",
+      "lat": 45.7243627,
+      "lon": 21.1759174,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Biserica Sfântul Rochus",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/744292311",
+      "osm_id": 744292311,
+      "osm_type": "way",
+      "name": "Biserica Baptistă Locală",
+      "category": "place_of_worship",
+      "lat": 45.7356779,
+      "lon": 21.2296746,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "74",
+        "addr:street": "Bulevardul Liviu Rebreanu",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "baptist",
+        "name": "Biserica Baptistă Locală",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/751565609",
+      "osm_id": 751565609,
+      "osm_type": "way",
+      "name": "Styx Funerare Martirilor",
+      "category": "place_of_worship",
+      "lat": 45.7356673,
+      "lon": 21.2382724,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "25",
+        "addr:street": "Calea Martirilor 1989",
+        "building": "yes",
+        "name": "Styx Funerare Martirilor",
+        "opening_hours": "24/7",
+        "outdoor_seating": "yes",
+        "phone": "0762965134",
+        "religion": "christian",
+        "shop": "funeral_directors",
+        "website": "https://styxfunerare.ro/"
+      }
+    },
+    {
+      "id": "way/756177076",
+      "osm_id": 756177076,
+      "osm_type": "way",
+      "name": "Biserica Centrului Reformat",
+      "category": "place_of_worship",
+      "lat": 45.7596714,
+      "lon": 21.2581263,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "1B",
+        "addr:street": "Splaiul Morarilor",
+        "amenity": "place_of_worship",
+        "architect": "Imre Makovecz",
+        "building": "yes",
+        "denomination": "reformed",
+        "name": "Biserica Centrului Reformat",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/775542241",
+      "osm_id": 775542241,
+      "osm_type": "way",
+      "name": "Biserica Metanoia",
+      "category": "place_of_worship",
+      "lat": 45.7730241,
+      "lon": 21.215333,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "61",
+        "addr:street": "Calea Torontalului",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "check_date": "2025-10-24",
+        "name": "Biserica Metanoia",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/781325388",
+      "osm_id": 781325388,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă \"Sfantul Ioan Iacob Hozevitul\"",
+      "category": "place_of_worship",
+      "lat": 45.7499343,
+      "lon": 21.2699717,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "check_date": "2025-10-01",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă \"Sfantul Ioan Iacob Hozevitul\"",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/828243466",
+      "osm_id": 828243466,
+      "osm_type": "way",
+      "name": "Moscheea din Timișoara",
+      "category": "place_of_worship",
+      "lat": 45.7344193,
+      "lon": 21.2291195,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "15",
+        "addr:street": "Strada Doctor Ioan Mureșan",
+        "amenity": "place_of_worship",
+        "building": "mosque",
+        "name": "Moscheea din Timișoara",
+        "religion": "muslim"
+      }
+    },
+    {
+      "id": "way/881225806",
+      "osm_id": 881225806,
+      "osm_type": "way",
+      "name": "Biserica Greco-Catolică Buna Vestire",
+      "category": "place_of_worship",
+      "lat": 45.7761622,
+      "lon": 21.245664,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "26",
+        "addr:street": "Strada Verde",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "check_date": "2022-05-13",
+        "denomination": "greek_catholic",
+        "name": "Biserica Greco-Catolică Buna Vestire",
+        "note": "Paroh: Pr. Mihai Razvan Oprisa",
+        "religion": "christian",
+        "website": "https://timisoara6.ro/"
+      }
+    },
+    {
+      "id": "way/881225981",
+      "osm_id": 881225981,
+      "osm_type": "way",
+      "name": "Biserica Penticostală Gosen",
+      "category": "place_of_worship",
+      "lat": 45.7510523,
+      "lon": 21.2815334,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "pentecostal",
+        "name": "Biserica Penticostală Gosen",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/881227660",
+      "osm_id": 881227660,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.7500998,
+      "lon": 21.2818972,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "35",
+        "addr:street": "Strada Jókai Mór",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "romanian_orthodox",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/881230130",
+      "osm_id": 881230130,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă „Adormirea Maicii Domnului” Ghiroda Nouă",
+      "category": "place_of_worship",
+      "lat": 45.7584052,
+      "lon": 21.2782973,
+      "tags": {
+        "addr:housenumber": "44",
+        "addr:street": "Strada Flacăra",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica Ortodoxă „Adormirea Maicii Domnului” Ghiroda Nouă",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/943854737",
+      "osm_id": 943854737,
+      "osm_type": "way",
+      "name": "Casa de Rugăciune",
+      "category": "place_of_worship",
+      "lat": 45.7385611,
+      "lon": 21.2356517,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Casa de Rugăciune",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/944324670",
+      "osm_id": 944324670,
+      "osm_type": "way",
+      "name": "Sinagoga din Iosefin",
+      "category": "place_of_worship",
+      "lat": 45.7443111,
+      "lon": 21.205793,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "55",
+        "addr:street": "Bulevardul Iuliu Maniu",
+        "amenity": "place_of_worship",
+        "building": "synagogue",
+        "name": "Sinagoga din Iosefin",
+        "religion": "jewish",
+        "wikidata": "Q1572150",
+        "wikipedia": "ro:Sinagoga din Iosefin, Timișoara"
+      }
+    },
+    {
+      "id": "way/1067903072",
+      "osm_id": 1067903072,
+      "osm_type": "way",
+      "name": "Parohia Ortodoxă Română Timişoara Blaşcovici",
+      "category": "place_of_worship",
+      "lat": 45.7532336,
+      "lon": 21.1978674,
+      "tags": {
+        "addr:housenumber": "3A",
+        "addr:street": "Strada Taborului",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "name": "Parohia Ortodoxă Română Timişoara Blaşcovici",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1074247728",
+      "osm_id": 1074247728,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.764611,
+      "lon": 21.2168713,
+      "tags": {
+        "building": "church"
+      }
+    },
+    {
+      "id": "way/1076590558",
+      "osm_id": 1076590558,
+      "osm_type": "way",
+      "name": "Biserica Filadelfia",
+      "category": "place_of_worship",
+      "lat": 45.7515477,
+      "lon": 21.2511429,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:housenumber": "50",
+        "addr:street": "Strada Ștefan cel Mare",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "pentecostal",
+        "name": "Biserica Filadelfia",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1076821270",
+      "osm_id": 1076821270,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.7500628,
+      "lon": 21.2699123,
+      "tags": {
+        "barrier": "fence",
+        "denomination": "orthodox",
+        "landuse": "religious",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1078047943",
+      "osm_id": 1078047943,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.7378241,
+      "lon": 21.2085349,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "chapel",
+        "denomination": "roman_catholic",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1078058282",
+      "osm_id": 1078058282,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.7711507,
+      "lon": 21.2306741,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "religion": "jewish"
+      }
+    },
+    {
+      "id": "way/1183435873",
+      "osm_id": 1183435873,
+      "osm_type": "way",
+      "name": "Capela Mare",
+      "category": "place_of_worship",
+      "lat": 45.7687948,
+      "lon": 21.2285134,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "chapel",
+        "name": "Capela Mare",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1232442347",
+      "osm_id": 1232442347,
+      "osm_type": "way",
+      "name": "Parohia Ortodoxă Română Ronaț",
+      "category": "place_of_worship",
+      "lat": 45.7524267,
+      "lon": 21.190761,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Parohia Ortodoxă Română Ronaț",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1320171661",
+      "osm_id": 1320171661,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.7958086,
+      "lon": 21.3253548,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1332950153",
+      "osm_id": 1332950153,
+      "osm_type": "way",
+      "name": "Biserica Catolică Ronaț",
+      "category": "place_of_worship",
+      "lat": 45.754347,
+      "lon": 21.1871723,
+      "tags": {
+        "addr:city": "Timișoara",
+        "addr:street": "Strada Cireșului",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "roman_catholic",
+        "name": "Biserica Catolică Ronaț",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1377392016",
+      "osm_id": 1377392016,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.7491073,
+      "lon": 21.1796025,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1458064291",
+      "osm_id": 1458064291,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.7545023,
+      "lon": 21.2823695,
+      "tags": {
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1501792841",
+      "osm_id": 1501792841,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.778188,
+      "lon": 21.267092,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "chapel",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "relation/18201459",
+      "osm_id": 18201459,
+      "osm_type": "relation",
+      "name": "Dieceza de Timișoara",
+      "category": "place_of_worship",
+      "lat": 45.5756239,
+      "lon": 21.5053579,
+      "tags": {
+        "admin_level": "6",
+        "boundary": "religious_administration",
+        "contact:website": "https://gerhardus.ro/",
+        "denomination": "roman_catholic",
+        "name": "Dieceza de Timișoara",
+        "name:de": "Bistum Timișoara",
+        "name:en": "Diocese of Timișoara",
+        "name:hu": "Temesvári egyházmegye",
+        "religion": "christian",
+        "type": "boundary",
+        "wikidata": "Q877330",
+        "wikipedia": "hu:Temesvári egyházmegye"
+      }
+    }
+  ]
+}

@@ -1,0 +1,422 @@
+{
+  "city": "Calafat",
+  "generated_at": "2026-04-23T09:35:18.807Z",
+  "counts": {
+    "total": 25,
+    "schools": 14,
+    "churches": 11
+  },
+  "pois": [
+    {
+      "id": "way/309806248",
+      "osm_id": 309806248,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 43.9844284,
+      "lon": 22.9308533,
+      "tags": {
+        "amenity": "kindergarten"
+      }
+    },
+    {
+      "id": "way/311639324",
+      "osm_id": 311639324,
+      "osm_type": "way",
+      "name": "Liceul Independența - Chimie",
+      "category": "education",
+      "lat": 43.9906881,
+      "lon": 22.9404637,
+      "tags": {
+        "addr:city": "Calafat",
+        "addr:postcode": "205200",
+        "addr:street": "Bulevardul Horea Cloșca și Crișan",
+        "building": "school",
+        "grades": "1-12",
+        "name": "Liceul Independența - Chimie"
+      }
+    },
+    {
+      "id": "way/311700225",
+      "osm_id": 311700225,
+      "osm_type": "way",
+      "name": "Grădinița Numărul 3",
+      "category": "education",
+      "lat": 43.993312,
+      "lon": 22.939734,
+      "tags": {
+        "addr:city": "Calafat",
+        "addr:postcode": "205200",
+        "addr:street": "Strada Alexandru Ioan Cuza",
+        "amenity": "kindergarten",
+        "name": "Grădinița Numărul 3"
+      }
+    },
+    {
+      "id": "way/311700226",
+      "osm_id": 311700226,
+      "osm_type": "way",
+      "name": "Grădinița Nr. 3",
+      "category": "education",
+      "lat": 43.9932986,
+      "lon": 22.9397774,
+      "tags": {
+        "addr:city": "Calafat",
+        "addr:housenumber": "2A",
+        "addr:postcode": "205200",
+        "addr:street": "Strada Alexandru Ioan Cuza",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "building:levels": "3",
+        "level": "2",
+        "name": "Grădinița Nr. 3"
+      }
+    },
+    {
+      "id": "way/311706908",
+      "osm_id": 311706908,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 43.9909643,
+      "lon": 22.9337879,
+      "tags": {
+        "addr:city": "Calafat",
+        "addr:housenumber": "47",
+        "addr:postcode": "205200",
+        "addr:street": "Bulevardul Tudor Vladimirescu",
+        "building": "school",
+        "grades": "1-8"
+      }
+    },
+    {
+      "id": "way/311747673",
+      "osm_id": 311747673,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 43.9902062,
+      "lon": 22.9327193,
+      "tags": {
+        "addr:city": "Calafat",
+        "addr:housenumber": "52",
+        "addr:postcode": "205200",
+        "addr:street": "Bulevardul Tudor Vladimirescu",
+        "building": "school",
+        "building:levels": "3",
+        "grades": "1-8"
+      }
+    },
+    {
+      "id": "way/452259543",
+      "osm_id": 452259543,
+      "osm_type": "way",
+      "name": "Școala Generală Nr. 2",
+      "category": "education",
+      "lat": 43.9957444,
+      "lon": 22.9358959,
+      "tags": {
+        "addr:city": "Calafat",
+        "addr:street": "Strada Traian",
+        "amenity": "school",
+        "name": "Școala Generală Nr. 2"
+      }
+    },
+    {
+      "id": "way/629207551",
+      "osm_id": 629207551,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 43.9911127,
+      "lon": 22.9403247,
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "way/636370179",
+      "osm_id": 636370179,
+      "osm_type": "way",
+      "name": "Colegiul Tehnic Ștefan Milcu",
+      "category": "education",
+      "lat": 43.9966117,
+      "lon": 22.9428717,
+      "tags": {
+        "addr:city": "Calafat",
+        "addr:postcode": "205200",
+        "addr:street": "Strada Traian",
+        "amenity": "college",
+        "name": "Colegiul Tehnic Ștefan Milcu"
+      }
+    },
+    {
+      "id": "way/666426788",
+      "osm_id": 666426788,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 43.9957858,
+      "lon": 22.9408019,
+      "tags": {
+        "addr:city": "Calafat",
+        "addr:postcode": "205200",
+        "addr:street": "Strada Traian",
+        "building": "school",
+        "building:levels": "1"
+      }
+    },
+    {
+      "id": "way/666426809",
+      "osm_id": 666426809,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 43.9957033,
+      "lon": 22.9424858,
+      "tags": {
+        "addr:city": "Calafat",
+        "addr:postcode": "205200",
+        "addr:street": "Strada Traian",
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/682440132",
+      "osm_id": 682440132,
+      "osm_type": "way",
+      "name": "Școala Gimnazială nr. 2 Constantin Gerotă",
+      "category": "education",
+      "lat": 43.9900138,
+      "lon": 22.9324621,
+      "tags": {
+        "addr:city": "Calafat",
+        "addr:street": "Bulevardul Tudor Vladimirescu",
+        "amenity": "school",
+        "name": "Școala Gimnazială nr. 2 Constantin Gerotă"
+      }
+    },
+    {
+      "id": "way/975958404",
+      "osm_id": 975958404,
+      "osm_type": "way",
+      "name": "Școala cu clasele I-VIII",
+      "category": "education",
+      "lat": 43.9440986,
+      "lon": 22.8954479,
+      "tags": {
+        "addr:city": "Ciupercenii Vechi",
+        "addr:street": "Strada Regiment 1 Dorobanți",
+        "amenity": "school",
+        "grades": "1-8",
+        "name": "Școala cu clasele I-VIII"
+      }
+    },
+    {
+      "id": "way/1015480158",
+      "osm_id": 1015480158,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 43.9957123,
+      "lon": 22.9357853,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "node/4567005382",
+      "osm_id": 4567005382,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.0069065,
+      "lon": 23.0091163,
+      "tags": {
+        "addr:city": "Calafat",
+        "addr:postcode": "205201",
+        "addr:street": "Strada Nucilor",
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/4567005415",
+      "osm_id": 4567005415,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.0131934,
+      "lon": 23.0512314,
+      "tags": {
+        "addr:city": "Golenți",
+        "addr:postcode": "205203",
+        "addr:street": "Strada Trandafirilor",
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/440717542",
+      "osm_id": 440717542,
+      "osm_type": "way",
+      "name": "Biserica Adormirea Maicii Domnului",
+      "category": "place_of_worship",
+      "lat": 43.9901014,
+      "lon": 22.9336586,
+      "tags": {
+        "addr:city": "Calafat",
+        "addr:housenumber": "50",
+        "addr:postcode": "205200",
+        "addr:street": "Bulevardul Tudor Vladimirescu",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica Adormirea Maicii Domnului",
+        "religion": "christian",
+        "wikidata": "Q70721148",
+        "wikipedia": "ro:Biserica „Adormirea Maicii Domnului” din Calafat"
+      }
+    },
+    {
+      "id": "way/461112951",
+      "osm_id": 461112951,
+      "osm_type": "way",
+      "name": "Biserica Izvorul Tămăduirii",
+      "category": "place_of_worship",
+      "lat": 43.9970397,
+      "lon": 22.9372455,
+      "tags": {
+        "addr:city": "Calafat",
+        "addr:postcode": "205200",
+        "addr:street": "Strada Constantin Stere",
+        "building": "church",
+        "description": "Fosta biserica greceasca.",
+        "name": "Biserica Izvorul Tămăduirii",
+        "wikidata": "Q42897171",
+        "wikipedia": "ro:Biserica „Izvorul Tămăduirii” din Calafat"
+      }
+    },
+    {
+      "id": "way/666425329",
+      "osm_id": 666425329,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 43.9959476,
+      "lon": 22.9309878,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "religious",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/666426581",
+      "osm_id": 666426581,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 43.9954601,
+      "lon": 22.937426,
+      "tags": {
+        "addr:city": "Calafat",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "baptist",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/682437412",
+      "osm_id": 682437412,
+      "osm_type": "way",
+      "name": "Biserica Adormirea Maicii Domnului",
+      "category": "place_of_worship",
+      "lat": 43.9902276,
+      "lon": 22.9337006,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "churchyard",
+        "name": "Biserica Adormirea Maicii Domnului",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/854216638",
+      "osm_id": 854216638,
+      "osm_type": "way",
+      "name": "Biserica Sfântul Ierarh Nicolae și Izvorul Tămăduirii",
+      "category": "place_of_worship",
+      "lat": 44.0133106,
+      "lon": 23.0511341,
+      "tags": {
+        "addr:city": "Golenți",
+        "addr:postcode": "205203",
+        "addr:street": "Strada Trandafirilor",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Sfântul Ierarh Nicolae și Izvorul Tămăduirii",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/975958189",
+      "osm_id": 975958189,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 43.9444367,
+      "lon": 22.8943849,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1015481325",
+      "osm_id": 1015481325,
+      "osm_type": "way",
+      "name": "Biserica Sfântul Nicolae",
+      "category": "place_of_worship",
+      "lat": 43.9960133,
+      "lon": 22.9312709,
+      "tags": {
+        "addr:city": "Calafat",
+        "addr:housenumber": "25",
+        "addr:postcode": "205200",
+        "addr:street": "Strada Traian",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica Sfântul Nicolae",
+        "religion": "christian",
+        "wikidata": "Q67441278",
+        "wikipedia": "ro:Biserica „Sf. Nicolae” din Calafat"
+      }
+    },
+    {
+      "id": "way/1089072771",
+      "osm_id": 1089072771,
+      "osm_type": "way",
+      "name": "Biserica Sfintii Imparati Constantin si Elena",
+      "category": "place_of_worship",
+      "lat": 43.99356,
+      "lon": 22.9451173,
+      "tags": {
+        "addr:city": "Calafat",
+        "addr:postcode": "205200",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Sfintii Imparati Constantin si Elena",
+        "religion": "christian"
+      }
+    }
+  ]
+}

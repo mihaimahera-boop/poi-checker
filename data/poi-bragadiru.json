@@ -1,0 +1,316 @@
+{
+  "city": "Bragadiru",
+  "generated_at": "2026-04-23T09:34:00.689Z",
+  "counts": {
+    "total": 16,
+    "schools": 6,
+    "churches": 10
+  },
+  "pois": [
+    {
+      "id": "node/9266303267",
+      "osm_id": 9266303267,
+      "osm_type": "node",
+      "name": "Gradinita nr. 3",
+      "category": "education",
+      "lat": 44.3917722,
+      "lon": 26.0064829,
+      "tags": {
+        "addr:housenumber": "8",
+        "addr:street": "Coralului",
+        "amenity": "kindergarten",
+        "email": "gradinita.bragadiru@yahoo.ro",
+        "name": "Gradinita nr. 3",
+        "phone": "0214480386"
+      }
+    },
+    {
+      "id": "way/293950386",
+      "osm_id": 293950386,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.3877382,
+      "lon": 26.0065995,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/887353945",
+      "osm_id": 887353945,
+      "osm_type": "way",
+      "name": "Școala generală nr. 1",
+      "category": "education",
+      "lat": 44.3700149,
+      "lon": 25.9766848,
+      "tags": {
+        "addr:city": "Bragadiru",
+        "addr:housenumber": "243A",
+        "addr:postcode": "077025",
+        "addr:street": "Strada Anemonelor",
+        "amenity": "school",
+        "building": "yes",
+        "email": "scbragadiru@yahoo.com",
+        "height": "13",
+        "name": "Școala generală nr. 1",
+        "phone": "075 126 2985",
+        "religion": "christian",
+        "roof:colour": "#2f4f4f",
+        "roof:height": "3",
+        "roof:shape": "gabled",
+        "website": "https://scoalagimnazialanr1bragadiru.ro/wp/"
+      }
+    },
+    {
+      "id": "way/1420845062",
+      "osm_id": 1420845062,
+      "osm_type": "way",
+      "name": "Școala Gimnazială „Sfinții Voievozi”",
+      "category": "education",
+      "lat": 43.7588167,
+      "lon": 25.5207706,
+      "tags": {
+        "addr:city": "Bragadiru",
+        "addr:housenumber": "11",
+        "addr:postcode": "147030",
+        "addr:street": "Strada Școlii",
+        "amenity": "school",
+        "email": "sc_bragadiru_tr@yahoo.com",
+        "fax": "+40 247 335 021",
+        "isced:level": "1;2",
+        "name": "Școala Gimnazială „Sfinții Voievozi”",
+        "operator:type": "public",
+        "website": "https://scoalasfintiivoievozi.ro",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "id": "way/1432239373",
+      "osm_id": 1432239373,
+      "osm_type": "way",
+      "name": "Grădinița cu program normal Bragadiru",
+      "category": "education",
+      "lat": 43.7590657,
+      "lon": 25.5210148,
+      "tags": {
+        "amenity": "kindergarten",
+        "building:part": "yes",
+        "isced:level": "0",
+        "name": "Grădinița cu program normal Bragadiru",
+        "operator": "Școala Gimnazială „Sfinții Voievozi”",
+        "operator:type": "public",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "id": "way/1471104900",
+      "osm_id": 1471104900,
+      "osm_type": "way",
+      "name": "Școala Micul Lord Bragadiru",
+      "category": "education",
+      "lat": 44.3876274,
+      "lon": 26.0065634,
+      "tags": {
+        "addr:city": "Bragadiru",
+        "addr:housenumber": "144",
+        "addr:street": "Șoseaua Alexandriei",
+        "amenity": "school",
+        "barrier": "fence",
+        "education": "school",
+        "name": "Școala Micul Lord Bragadiru",
+        "website": "https://www.micul-lord.ro/"
+      }
+    },
+    {
+      "id": "way/251488447",
+      "osm_id": 251488447,
+      "osm_type": "way",
+      "name": "Cimitirul Vechi",
+      "category": "place_of_worship",
+      "lat": 43.7733248,
+      "lon": 25.507247,
+      "tags": {
+        "denomination": "greek_orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitirul Vechi",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/265008395",
+      "osm_id": 265008395,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă „Sfântul Dimitrie” Bragadiru",
+      "category": "place_of_worship",
+      "lat": 44.3720536,
+      "lon": 25.978584,
+      "tags": {
+        "addr:city": "Bragadiru",
+        "addr:housenumber": "231",
+        "addr:street": "Șoseaua Alexandriei",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "romanian_orthodox",
+        "height": "9",
+        "name": "Biserica Ortodoxă „Sfântul Dimitrie” Bragadiru",
+        "religion": "christian",
+        "website": "http://www.parohiabragadiru.ro/"
+      }
+    },
+    {
+      "id": "way/414113417",
+      "osm_id": 414113417,
+      "osm_type": "way",
+      "name": "Cimitirul Odihna Veșnică",
+      "category": "place_of_worship",
+      "lat": 44.3895186,
+      "lon": 25.999084,
+      "tags": {
+        "addr:city": "Bragadiru",
+        "addr:housenumber": "192",
+        "addr:street": "Șoseaua Alexandriei",
+        "landuse": "cemetery",
+        "name": "Cimitirul Odihna Veșnică",
+        "religion": "christian",
+        "website": "https://cimitirodihnavesnica.ro"
+      }
+    },
+    {
+      "id": "way/887353945",
+      "osm_id": 887353945,
+      "osm_type": "way",
+      "name": "Școala generală nr. 1",
+      "category": "place_of_worship",
+      "lat": 44.3700149,
+      "lon": 25.9766848,
+      "tags": {
+        "addr:city": "Bragadiru",
+        "addr:housenumber": "243A",
+        "addr:postcode": "077025",
+        "addr:street": "Strada Anemonelor",
+        "amenity": "school",
+        "building": "yes",
+        "email": "scbragadiru@yahoo.com",
+        "height": "13",
+        "name": "Școala generală nr. 1",
+        "phone": "075 126 2985",
+        "religion": "christian",
+        "roof:colour": "#2f4f4f",
+        "roof:height": "3",
+        "roof:shape": "gabled",
+        "website": "https://scoalagimnazialanr1bragadiru.ro/wp/"
+      }
+    },
+    {
+      "id": "way/1341081256",
+      "osm_id": 1341081256,
+      "osm_type": "way",
+      "name": "Cimitir",
+      "category": "place_of_worship",
+      "lat": 43.7647575,
+      "lon": 25.5229551,
+      "tags": {
+        "denomination": "greek_orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitir",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1428322413",
+      "osm_id": 1428322413,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 43.7587429,
+      "lon": 25.5172316,
+      "tags": {
+        "denomination": "jehovahs_witness",
+        "landuse": "religious",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1428322418",
+      "osm_id": 1428322418,
+      "osm_type": "way",
+      "name": "Sala Regatului a Martorilor lui Iehova",
+      "category": "place_of_worship",
+      "lat": 43.7587427,
+      "lon": 25.5172199,
+      "tags": {
+        "addr:city": "Bragadiru",
+        "addr:housenumber": "188",
+        "addr:postcode": "147030",
+        "addr:street": "Strada Dunării",
+        "amenity": "place_of_worship",
+        "building": "kingdom_hall",
+        "denomination": "jehovahs_witness",
+        "name": "Sala Regatului a Martorilor lui Iehova",
+        "name:en": "Kingdom Hall of Jehovah's Witnesses",
+        "name:ro": "Sala Regatului a Martorilor lui Iehova",
+        "opening_hours": "Fr 19:00-21:00; Su 10:30-12:30",
+        "religion": "christian",
+        "start_date": "2010",
+        "website": "https://www.jw.org/ro/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "id": "way/1431922497",
+      "osm_id": 1431922497,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 43.7656742,
+      "lon": 25.5104934,
+      "tags": {
+        "denomination": "romanian_orthodox",
+        "landuse": "religious",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1431922579",
+      "osm_id": 1431922579,
+      "osm_type": "way",
+      "name": "Biserica Sfinții Voievozi Mihail și Gavril",
+      "category": "place_of_worship",
+      "lat": 43.7656712,
+      "lon": 25.5105352,
+      "tags": {
+        "addr:city": "Bragadiru",
+        "addr:housenumber": "96",
+        "addr:postcode": "147030",
+        "addr:street": "Strada Dunării",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica Sfinții Voievozi Mihail și Gavril",
+        "religion": "christian",
+        "start_date": "1899"
+      }
+    },
+    {
+      "id": "way/1434022271",
+      "osm_id": 1434022271,
+      "osm_type": "way",
+      "name": "Biserica Adventistă de Ziua a Șaptea",
+      "category": "place_of_worship",
+      "lat": 43.7619367,
+      "lon": 25.5161179,
+      "tags": {
+        "addr:city": "Bragadiru",
+        "addr:housenumber": "13",
+        "addr:postcode": "147030",
+        "addr:street": "Strada Cimitirul Nou",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "seventh_day_adventist",
+        "name": "Biserica Adventistă de Ziua a Șaptea",
+        "religion": "christian"
+      }
+    }
+  ]
+}

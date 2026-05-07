@@ -1,0 +1,1020 @@
+{
+  "city": "Pașcani",
+  "generated_at": "2026-04-23T09:13:40.393Z",
+  "counts": {
+    "total": 72,
+    "schools": 40,
+    "churches": 32
+  },
+  "pois": [
+    {
+      "id": "way/123546419",
+      "osm_id": 123546419,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.1493624,
+      "lon": 28.8358051,
+      "tags": {
+        "amenity": "kindergarten"
+      }
+    },
+    {
+      "id": "way/182914248",
+      "osm_id": 182914248,
+      "osm_type": "way",
+      "name": "Grădinița Ingeras",
+      "category": "education",
+      "lat": 47.1700135,
+      "lon": 28.8290888,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Grădinița Ingeras"
+      }
+    },
+    {
+      "id": "way/665281108",
+      "osm_id": 665281108,
+      "osm_type": "way",
+      "name": "Liceul Tehnologic Economic ''Nicolae Iorga\" Pașcani",
+      "category": "education",
+      "lat": 47.2452361,
+      "lon": 26.7204315,
+      "tags": {
+        "building": "school",
+        "name": "Liceul Tehnologic Economic ''Nicolae Iorga\" Pașcani"
+      }
+    },
+    {
+      "id": "way/690540378",
+      "osm_id": 690540378,
+      "osm_type": "way",
+      "name": "Scoala Gimnaziala 'Iordache Cantacuzino'",
+      "category": "education",
+      "lat": 47.2457341,
+      "lon": 26.7259245,
+      "tags": {
+        "building": "school",
+        "name": "Scoala Gimnaziala 'Iordache Cantacuzino'"
+      }
+    },
+    {
+      "id": "way/693748280",
+      "osm_id": 693748280,
+      "osm_type": "way",
+      "name": "Colegiul Tehnic \"Unirea\" Pascani",
+      "category": "education",
+      "lat": 47.2555137,
+      "lon": 26.720702,
+      "tags": {
+        "building": "school",
+        "name": "Colegiul Tehnic \"Unirea\" Pascani"
+      }
+    },
+    {
+      "id": "way/763055923",
+      "osm_id": 763055923,
+      "osm_type": "way",
+      "name": "Gimnaziul Pașcani",
+      "category": "education",
+      "lat": 46.9698951,
+      "lon": 28.3710577,
+      "tags": {
+        "addr:city": "Pășcani",
+        "addr:postcode": "MD-3442",
+        "amenity": "school",
+        "name": "Gimnaziul Pașcani"
+      }
+    },
+    {
+      "id": "way/772847819",
+      "osm_id": 772847819,
+      "osm_type": "way",
+      "name": "Școala primară (veche)",
+      "category": "education",
+      "lat": 46.9696628,
+      "lon": 28.3693658,
+      "tags": {
+        "addr:city": "Pășcani",
+        "amenity": "school",
+        "name": "Școala primară (veche)"
+      }
+    },
+    {
+      "id": "way/783357682",
+      "osm_id": 783357682,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.9698597,
+      "lon": 28.3707479,
+      "tags": {
+        "addr:city": "Pășcani",
+        "addr:country": "MD",
+        "addr:housenumber": "38",
+        "addr:street": "Strada Mihalcea Hîncu",
+        "building": "school",
+        "building:levels": "3"
+      }
+    },
+    {
+      "id": "way/790742970",
+      "osm_id": 790742970,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.0035498,
+      "lon": 28.3723532,
+      "tags": {
+        "addr:city": "Pereni",
+        "addr:country": "MD",
+        "addr:housenumber": "17",
+        "addr:street": "Strada Mihalcea Hîncu",
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/790742995",
+      "osm_id": 790742995,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.9996571,
+      "lon": 28.3787674,
+      "tags": {
+        "addr:city": "Pereni",
+        "addr:country": "MD",
+        "addr:housenumber": "39",
+        "addr:street": "Strada Mihalcea Hîncu",
+        "building": "kindergarten"
+      }
+    },
+    {
+      "id": "way/1031334362",
+      "osm_id": 1031334362,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.2590576,
+      "lon": 26.7215768,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/1106376863",
+      "osm_id": 1106376863,
+      "osm_type": "way",
+      "name": "Gradinita nr 2, Cresa nr 1",
+      "category": "education",
+      "lat": 47.2453935,
+      "lon": 26.7172681,
+      "tags": {
+        "building": "kindergarten",
+        "building:levels": "2",
+        "name": "Gradinita nr 2, Cresa nr 1"
+      }
+    },
+    {
+      "id": "way/1106388897",
+      "osm_id": 1106388897,
+      "osm_type": "way",
+      "name": "Colegiul național \"Mihail Sadoveanu\"",
+      "category": "education",
+      "lat": 47.2470123,
+      "lon": 26.7185215,
+      "tags": {
+        "building": "school",
+        "building:levels": "3",
+        "name": "Colegiul național \"Mihail Sadoveanu\""
+      }
+    },
+    {
+      "id": "way/1106402551",
+      "osm_id": 1106402551,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.2548831,
+      "lon": 26.7199344,
+      "tags": {
+        "building": "school",
+        "building:levels": "5"
+      }
+    },
+    {
+      "id": "way/1106406167",
+      "osm_id": 1106406167,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.2529861,
+      "lon": 26.7240534,
+      "tags": {
+        "building": "school",
+        "building:levels": "4"
+      }
+    },
+    {
+      "id": "way/1199390077",
+      "osm_id": 1199390077,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.9695694,
+      "lon": 28.3690243,
+      "tags": {
+        "addr:city": "Pașcani",
+        "addr:country": "MD",
+        "addr:housenumber": "79",
+        "addr:street": "Strada Mihalcea Hîncu",
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/1199390082",
+      "osm_id": 1199390082,
+      "osm_type": "way",
+      "name": "Gimnaziul „Pereni”",
+      "category": "education",
+      "lat": 47.0033681,
+      "lon": 28.3729991,
+      "tags": {
+        "addr:city": "Pereni",
+        "amenity": "school",
+        "name": "Gimnaziul „Pereni”"
+      }
+    },
+    {
+      "id": "way/1199390090",
+      "osm_id": 1199390090,
+      "osm_type": "way",
+      "name": "Grădinița „Pereni”",
+      "category": "education",
+      "lat": 46.9997163,
+      "lon": 28.3785571,
+      "tags": {
+        "addr:city": "Pereni",
+        "addr:country": "MD",
+        "addr:housenumber": "39",
+        "addr:street": "Strada Mihalcea Hîncu",
+        "amenity": "kindergarten",
+        "name": "Grădinița „Pereni”"
+      }
+    },
+    {
+      "id": "way/1346698358",
+      "osm_id": 1346698358,
+      "osm_type": "way",
+      "name": "Liceul Teoretic 'Miron Costin'",
+      "category": "education",
+      "lat": 47.2558388,
+      "lon": 26.7216538,
+      "tags": {
+        "building": "school",
+        "name": "Liceul Teoretic 'Miron Costin'"
+      }
+    },
+    {
+      "id": "way/1346698359",
+      "osm_id": 1346698359,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.2558312,
+      "lon": 26.7209947,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/1346698360",
+      "osm_id": 1346698360,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.2557931,
+      "lon": 26.7213008,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/1346698362",
+      "osm_id": 1346698362,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.2552649,
+      "lon": 26.7202879,
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "way/1346698363",
+      "osm_id": 1346698363,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.2556262,
+      "lon": 26.7215328,
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "way/1346698366",
+      "osm_id": 1346698366,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.2470804,
+      "lon": 26.7186321,
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "way/1346698367",
+      "osm_id": 1346698367,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.2453895,
+      "lon": 26.720249,
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "way/1346698368",
+      "osm_id": 1346698368,
+      "osm_type": "way",
+      "name": "Liceul Tehnic \"Mihai Busuioc\"",
+      "category": "education",
+      "lat": 47.2530406,
+      "lon": 26.7241456,
+      "tags": {
+        "amenity": "school",
+        "name": "Liceul Tehnic \"Mihai Busuioc\""
+      }
+    },
+    {
+      "id": "way/1346871427",
+      "osm_id": 1346871427,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.2457941,
+      "lon": 26.7261234,
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "way/1346871428",
+      "osm_id": 1346871428,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.2463645,
+      "lon": 26.7256719,
+      "tags": {
+        "amenity": "kindergarten"
+      }
+    },
+    {
+      "id": "way/1346871435",
+      "osm_id": 1346871435,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.2453576,
+      "lon": 26.7173315,
+      "tags": {
+        "amenity": "kindergarten"
+      }
+    },
+    {
+      "id": "way/1349190820",
+      "osm_id": 1349190820,
+      "osm_type": "way",
+      "name": "Gradinita Nr. 3",
+      "category": "education",
+      "lat": 47.2542615,
+      "lon": 26.7216005,
+      "tags": {
+        "building": "kindergarten",
+        "name": "Gradinita Nr. 3"
+      }
+    },
+    {
+      "id": "way/1349190821",
+      "osm_id": 1349190821,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.2542349,
+      "lon": 26.7215202,
+      "tags": {
+        "amenity": "kindergarten"
+      }
+    },
+    {
+      "id": "way/1349190865",
+      "osm_id": 1349190865,
+      "osm_type": "way",
+      "name": "Gradinita Nr. 1",
+      "category": "education",
+      "lat": 47.2415666,
+      "lon": 26.725429,
+      "tags": {
+        "building": "kindergarten",
+        "name": "Gradinita Nr. 1"
+      }
+    },
+    {
+      "id": "way/1349190870",
+      "osm_id": 1349190870,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.2487312,
+      "lon": 26.7188368,
+      "tags": {
+        "building": "kindergarten"
+      }
+    },
+    {
+      "id": "way/1349190871",
+      "osm_id": 1349190871,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.2485677,
+      "lon": 26.719093,
+      "tags": {
+        "building": "kindergarten"
+      }
+    },
+    {
+      "id": "way/1349190872",
+      "osm_id": 1349190872,
+      "osm_type": "way",
+      "name": "Gradinita Nr. 4",
+      "category": "education",
+      "lat": 47.2485749,
+      "lon": 26.719002,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Gradinita Nr. 4"
+      }
+    },
+    {
+      "id": "way/1349201415",
+      "osm_id": 1349201415,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.2507161,
+      "lon": 26.7133593,
+      "tags": {
+        "building": "kindergarten"
+      }
+    },
+    {
+      "id": "way/1349201416",
+      "osm_id": 1349201416,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.2507925,
+      "lon": 26.7133789,
+      "tags": {
+        "amenity": "kindergarten"
+      }
+    },
+    {
+      "id": "way/1349264595",
+      "osm_id": 1349264595,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.2528756,
+      "lon": 26.7085123,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/1349264596",
+      "osm_id": 1349264596,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.2529615,
+      "lon": 26.7086727,
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "way/1392365463",
+      "osm_id": 1392365463,
+      "osm_type": "way",
+      "name": "Scoala Speciala",
+      "category": "education",
+      "lat": 47.2590994,
+      "lon": 26.7215127,
+      "tags": {
+        "amenity": "school",
+        "name": "Scoala Speciala"
+      }
+    },
+    {
+      "id": "node/7272871401",
+      "osm_id": 7272871401,
+      "osm_type": "node",
+      "name": "Biserica \"Sfîntul Mare Mucenic Dimitrie\"",
+      "category": "place_of_worship",
+      "lat": 47.1679995,
+      "lon": 28.8319326,
+      "tags": {
+        "amenity": "place_of_worship",
+        "name": "Biserica \"Sfîntul Mare Mucenic Dimitrie\"",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/13432788760",
+      "osm_id": 13432788760,
+      "osm_type": "node",
+      "name": "Biserica Crestina dupa Evanghelie Pascani",
+      "category": "place_of_worship",
+      "lat": 47.2427937,
+      "lon": 26.7176664,
+      "tags": {
+        "addr:street": "Calea Romanului 1",
+        "amenity": "place_of_worship",
+        "denomination": "evangelical",
+        "name": "Biserica Crestina dupa Evanghelie Pascani",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/123462796",
+      "osm_id": 123462796,
+      "osm_type": "way",
+      "name": "Cimitirul Porumbeni",
+      "category": "place_of_worship",
+      "lat": 47.1539121,
+      "lon": 28.8367068,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitirul Porumbeni",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/181728203",
+      "osm_id": 181728203,
+      "osm_type": "way",
+      "name": "Cimitirul Nou Pereni",
+      "category": "place_of_worship",
+      "lat": 46.9968207,
+      "lon": 28.3692042,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitirul Nou Pereni",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/393951071",
+      "osm_id": 393951071,
+      "osm_type": "way",
+      "name": "Cimitirul municipal",
+      "category": "place_of_worship",
+      "lat": 47.2433822,
+      "lon": 26.7229167,
+      "tags": {
+        "amenity": "grave_yard",
+        "name": "Cimitirul municipal",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/665281104",
+      "osm_id": 665281104,
+      "osm_type": "way",
+      "name": "Biserica Inălțarea Domnului",
+      "category": "place_of_worship",
+      "lat": 47.2439691,
+      "lon": 26.7212744,
+      "tags": {
+        "addr:city": "Pașcani",
+        "addr:housenumber": "1",
+        "addr:postcode": "705200",
+        "addr:street": "Strada Grădiniței",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Inălțarea Domnului",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/691250811",
+      "osm_id": 691250811,
+      "osm_type": "way",
+      "name": "Sala Regatului",
+      "category": "place_of_worship",
+      "lat": 47.2489148,
+      "lon": 26.7254114,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "jehovahs_witness",
+        "name": "Sala Regatului",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/691250834",
+      "osm_id": 691250834,
+      "osm_type": "way",
+      "name": "Biserica Creștină după Evanghelie",
+      "category": "place_of_worship",
+      "lat": 47.2568349,
+      "lon": 26.7056764,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "evangelical",
+        "name": "Biserica Creștină după Evanghelie",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/691254323",
+      "osm_id": 691254323,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 47.242807,
+      "lon": 26.7178539,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "house"
+      }
+    },
+    {
+      "id": "way/691256354",
+      "osm_id": 691256354,
+      "osm_type": "way",
+      "name": "Mănăstirea Cavanis",
+      "category": "place_of_worship",
+      "lat": 47.243898,
+      "lon": 26.7243604,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "roman_catholic",
+        "name": "Mănăstirea Cavanis",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/691713060",
+      "osm_id": 691713060,
+      "osm_type": "way",
+      "name": "Biserica Sfânta Vineri",
+      "category": "place_of_worship",
+      "lat": 47.2556935,
+      "lon": 26.7186101,
+      "tags": {
+        "addr:city": "Pașcani",
+        "addr:housenumber": "10",
+        "addr:postcode": "705200",
+        "addr:street": "Strada Gării",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Sfânta Vineri",
+        "religion": "christian",
+        "service_times": "unknow"
+      }
+    },
+    {
+      "id": "way/693548709",
+      "osm_id": 693548709,
+      "osm_type": "way",
+      "name": "Biserica Adormirea Maicii Domnului",
+      "category": "place_of_worship",
+      "lat": 47.2449744,
+      "lon": 26.7268914,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Adormirea Maicii Domnului",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/705154218",
+      "osm_id": 705154218,
+      "osm_type": "way",
+      "name": "Biserica",
+      "category": "place_of_worship",
+      "lat": 47.1679884,
+      "lon": 28.8319126,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Biserica",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/777281919",
+      "osm_id": 777281919,
+      "osm_type": "way",
+      "name": "Biserica",
+      "category": "place_of_worship",
+      "lat": 47.1505688,
+      "lon": 28.8374666,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Biserica",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/783357680",
+      "osm_id": 783357680,
+      "osm_type": "way",
+      "name": "Biserica Sfîntul Prooroc Ilie",
+      "category": "place_of_worship",
+      "lat": 46.9725215,
+      "lon": 28.3725821,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Biserica Sfîntul Prooroc Ilie",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/790742967",
+      "osm_id": 790742967,
+      "osm_type": "way",
+      "name": "Biserica Pereni",
+      "category": "place_of_worship",
+      "lat": 47.0032398,
+      "lon": 28.3719496,
+      "tags": {
+        "addr:city": "Pereni",
+        "addr:country": "MD",
+        "addr:housenumber": "19",
+        "addr:street": "Strada Mihalcea Hîncu",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Biserica Pereni",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1021528085",
+      "osm_id": 1021528085,
+      "osm_type": "way",
+      "name": "Cimitirul Vechi Pereni",
+      "category": "place_of_worship",
+      "lat": 47.0003005,
+      "lon": 28.3727355,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitirul Vechi Pereni",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1036212344",
+      "osm_id": 1036212344,
+      "osm_type": "way",
+      "name": "Catedrala Pogorârea Sfântului Duh",
+      "category": "place_of_worship",
+      "lat": 47.2459076,
+      "lon": 26.7244791,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Catedrala Pogorârea Sfântului Duh",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1346692770",
+      "osm_id": 1346692770,
+      "osm_type": "way",
+      "name": "Biserica Topile",
+      "category": "place_of_worship",
+      "lat": 47.2551354,
+      "lon": 26.6642335,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica Topile",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1346699536",
+      "osm_id": 1346699536,
+      "osm_type": "way",
+      "name": "Biserica Sfântul Nectarie",
+      "category": "place_of_worship",
+      "lat": 47.2463901,
+      "lon": 26.7033065,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "name": "Biserica Sfântul Nectarie",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1349190829",
+      "osm_id": 1349190829,
+      "osm_type": "way",
+      "name": "Biserica Adormirea Maicii Domnului",
+      "category": "place_of_worship",
+      "lat": 47.2512338,
+      "lon": 26.7223809,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Adormirea Maicii Domnului",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1349190830",
+      "osm_id": 1349190830,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 47.2510555,
+      "lon": 26.7224588,
+      "tags": {
+        "building": "church"
+      }
+    },
+    {
+      "id": "way/1349190866",
+      "osm_id": 1349190866,
+      "osm_type": "way",
+      "name": "Biserica Lipoveneasca",
+      "category": "place_of_worship",
+      "lat": 47.2414658,
+      "lon": 26.7246061,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "russian_orthodox",
+        "name": "Biserica Lipoveneasca",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1349201430",
+      "osm_id": 1349201430,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 47.2426544,
+      "lon": 26.7196527,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1349201431",
+      "osm_id": 1349201431,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 47.2425769,
+      "lon": 26.7191761,
+      "tags": {
+        "building": "church"
+      }
+    },
+    {
+      "id": "way/1349201432",
+      "osm_id": 1349201432,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 47.2437675,
+      "lon": 26.7212273,
+      "tags": {
+        "building": "church"
+      }
+    },
+    {
+      "id": "way/1349201433",
+      "osm_id": 1349201433,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 47.2446405,
+      "lon": 26.7201282,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes"
+      }
+    },
+    {
+      "id": "way/1349264577",
+      "osm_id": 1349264577,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 47.24678,
+      "lon": 26.7277535,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "catholic",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1349264594",
+      "osm_id": 1349264594,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 47.2524846,
+      "lon": 26.7110421,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1349264667",
+      "osm_id": 1349264667,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 47.2539786,
+      "lon": 26.6643791,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1349264668",
+      "osm_id": 1349264668,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 47.2552579,
+      "lon": 26.6639699,
+      "tags": {
+        "building": "church"
+      }
+    },
+    {
+      "id": "way/1354181182",
+      "osm_id": 1354181182,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 47.24768,
+      "lon": 26.7141855,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church"
+      }
+    }
+  ]
+}

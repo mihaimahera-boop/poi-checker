@@ -1,0 +1,561 @@
+{
+  "city": "Bocșa",
+  "generated_at": "2026-04-23T09:31:14.270Z",
+  "counts": {
+    "total": 32,
+    "schools": 10,
+    "churches": 22
+  },
+  "pois": [
+    {
+      "id": "node/8602773509",
+      "osm_id": 8602773509,
+      "osm_type": "node",
+      "name": "Școala cu clasele I-VIII Simion Bărnuțiu",
+      "category": "education",
+      "lat": 47.2980596,
+      "lon": 22.9187035,
+      "tags": {
+        "addr:city": "Bocșa",
+        "addr:housenumber": "74",
+        "addr:postcode": "457045",
+        "amenity": "school",
+        "grades": "1-8",
+        "name": "Școala cu clasele I-VIII Simion Bărnuțiu",
+        "name:ro": "Școala cu clasele I-VIII Simion Bărnuțiu",
+        "phone": "+40260623518",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/12133317155",
+      "osm_id": 12133317155,
+      "osm_type": "node",
+      "name": "Școala Gimnazială Nr. 1 Borla",
+      "category": "education",
+      "lat": 47.2799266,
+      "lon": 22.9373844,
+      "tags": {
+        "addr:city": "Borla",
+        "addr:housenumber": "239",
+        "addr:postcode": "457046",
+        "addr:street": "Strada Bujorilor",
+        "amenity": "school",
+        "email": "scoalaborla@yahoo.com",
+        "grades": "1-8",
+        "name": "Școala Gimnazială Nr. 1 Borla",
+        "name:hu": "Szilágyballai Általános Iskola",
+        "name:ro": "Școala Gimnazială Nr. 1 Borla",
+        "phone": "+40260623523",
+        "website": "https://www.scoalaborla.ro/?page_id=21"
+      }
+    },
+    {
+      "id": "way/98699035",
+      "osm_id": 98699035,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.2802736,
+      "lon": 22.9373554,
+      "tags": {
+        "addr:city": "Borla",
+        "addr:floor": "G",
+        "addr:housenumber": "3",
+        "addr:postcode": "457046",
+        "addr:street": "Strada Bujorilor",
+        "amenity": "school",
+        "check_date": "2024-08-22",
+        "level": "0",
+        "old_addr:housenumber": "237"
+      }
+    },
+    {
+      "id": "way/98699044",
+      "osm_id": 98699044,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.2799123,
+      "lon": 22.9373436,
+      "tags": {
+        "addr:city": "Borla",
+        "addr:floor": "G",
+        "addr:housenumber": "3",
+        "addr:postcode": "457046",
+        "addr:street": "Strada Bujorilor",
+        "amenity": "school",
+        "building": "school",
+        "check_date": "2024-08-22",
+        "fee": "no",
+        "level": "0",
+        "old_addr:housenumber": "239",
+        "religion": "none",
+        "source": "local knowledge"
+      }
+    },
+    {
+      "id": "way/122237879",
+      "osm_id": 122237879,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.3783374,
+      "lon": 21.7699445,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/122237889",
+      "osm_id": 122237889,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.378624,
+      "lon": 21.7695723,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/144689379",
+      "osm_id": 144689379,
+      "osm_type": "way",
+      "name": "Grup Școlar Industrial",
+      "category": "education",
+      "lat": 45.3784904,
+      "lon": 21.7285713,
+      "tags": {
+        "addr:housename": "Grup Școlar ,,sorbona''",
+        "addr:housenumber": "1",
+        "addr:postcode": "325300",
+        "addr:street": "Strada Tineretului",
+        "building": "school",
+        "name": "Grup Școlar Industrial",
+        "source": "Spydi"
+      }
+    },
+    {
+      "id": "way/587250972",
+      "osm_id": 587250972,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.3761395,
+      "lon": 21.724417,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/1226918825",
+      "osm_id": 1226918825,
+      "osm_type": "way",
+      "name": "Grădinița cu Program Prelungit Tinker Bell",
+      "category": "education",
+      "lat": 45.3805162,
+      "lon": 21.7839488,
+      "tags": {
+        "amenity": "kindergarten",
+        "building": "yes",
+        "name": "Grădinița cu Program Prelungit Tinker Bell"
+      }
+    },
+    {
+      "id": "way/1472820634",
+      "osm_id": 1472820634,
+      "osm_type": "way",
+      "name": "Liceul Teoretic Tata Oancea",
+      "category": "education",
+      "lat": 45.3783734,
+      "lon": 21.7697765,
+      "tags": {
+        "addr:housenumber": "4",
+        "addr:postcode": "325300",
+        "addr:street": "Strada Tata Oancea",
+        "amenity": "college",
+        "name": "Liceul Teoretic Tata Oancea"
+      }
+    },
+    {
+      "id": "node/8602773489",
+      "osm_id": 8602773489,
+      "osm_type": "node",
+      "name": "Biserica Baptistă Maghiară Borla",
+      "category": "place_of_worship",
+      "lat": 47.2802646,
+      "lon": 22.9383862,
+      "tags": {
+        "addr:city": "Borla",
+        "addr:floor": "G",
+        "addr:housenumber": "4",
+        "addr:postcode": "457046",
+        "addr:street": "Strada Trandafirilor",
+        "amenity": "place_of_worship",
+        "check_date": "2025-03-22",
+        "denomination": "baptist",
+        "level": "0",
+        "name": "Biserica Baptistă Maghiară Borla",
+        "name:hu": "SzilágyBallai Magyar Baptista Imaház",
+        "name:ro": "Biserica Baptistă Maghiară Borla",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/8602773490",
+      "osm_id": 8602773490,
+      "osm_type": "node",
+      "name": "Biserica Reformată Borla",
+      "category": "place_of_worship",
+      "lat": 47.2806659,
+      "lon": 22.9421793,
+      "tags": {
+        "addr:city": "Borla",
+        "addr:floor": "G",
+        "addr:housenumber": "114",
+        "addr:postcode": "457046",
+        "amenity": "place_of_worship",
+        "check_date": "2023-11-28",
+        "denomination": "reformed",
+        "internet_access": "no",
+        "level": "0",
+        "name": "Biserica Reformată Borla",
+        "name:hu": "SzilágyBallai Református Templom",
+        "name:ro": "Biserica Reformată Borla",
+        "payment:cards": "no",
+        "payment:cash": "yes",
+        "payment:credit_cards": "no",
+        "payment:debit_cards": "no",
+        "phone": "+40745306599",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/8602773509",
+      "osm_id": 8602773509,
+      "osm_type": "node",
+      "name": "Școala cu clasele I-VIII Simion Bărnuțiu",
+      "category": "place_of_worship",
+      "lat": 47.2980596,
+      "lon": 22.9187035,
+      "tags": {
+        "addr:city": "Bocșa",
+        "addr:housenumber": "74",
+        "addr:postcode": "457045",
+        "amenity": "school",
+        "grades": "1-8",
+        "name": "Școala cu clasele I-VIII Simion Bărnuțiu",
+        "name:ro": "Școala cu clasele I-VIII Simion Bărnuțiu",
+        "phone": "+40260623518",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/8602773510",
+      "osm_id": 8602773510,
+      "osm_type": "node",
+      "name": "Biserica Penticostala Bocsa",
+      "category": "place_of_worship",
+      "lat": 47.2954135,
+      "lon": 22.9194903,
+      "tags": {
+        "addr:city": "Bocșa",
+        "addr:postcode": "457045",
+        "amenity": "place_of_worship",
+        "denomination": "pentecostal",
+        "name": "Biserica Penticostala Bocsa",
+        "name:ro": "Biserica Penticostala Bocsa",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/8602773511",
+      "osm_id": 8602773511,
+      "osm_type": "node",
+      "name": "Biserica Baptista Bocsa",
+      "category": "place_of_worship",
+      "lat": 47.2931892,
+      "lon": 22.9167348,
+      "tags": {
+        "addr:city": "Bocșa",
+        "addr:postcode": "457045",
+        "amenity": "place_of_worship",
+        "denomination": "baptist",
+        "name": "Biserica Baptista Bocsa",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/9694573063",
+      "osm_id": 9694573063,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 47.3145948,
+      "lon": 22.8866812,
+      "tags": {
+        "addr:city": "Câmpia",
+        "amenity": "place_of_worship",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/9694573064",
+      "osm_id": 9694573064,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 47.3144006,
+      "lon": 22.8871211,
+      "tags": {
+        "addr:city": "Câmpia",
+        "amenity": "place_of_worship",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/98699046",
+      "osm_id": 98699046,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 47.2802752,
+      "lon": 22.9384593,
+      "tags": {
+        "addr:city": "Borla",
+        "addr:housenumber": "4",
+        "addr:postcode": "457046",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "baptist",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/122237876",
+      "osm_id": 122237876,
+      "osm_type": "way",
+      "name": "Biserica",
+      "category": "place_of_worship",
+      "lat": 45.3789272,
+      "lon": 21.7697519,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica",
+        "religion": "christian",
+        "source": "Bing"
+      }
+    },
+    {
+      "id": "way/122242687",
+      "osm_id": 122242687,
+      "osm_type": "way",
+      "name": "Mănăstirea Sfântul Ilie",
+      "category": "place_of_worship",
+      "lat": 45.3707606,
+      "lon": 21.7540238,
+      "tags": {
+        "alt_name": "Mănăstirea Vasiova;Mănăstirea Godinova",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Mănăstirea Sfântul Ilie",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/423952017",
+      "osm_id": 423952017,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă",
+      "category": "place_of_worship",
+      "lat": 45.3744814,
+      "lon": 21.7103776,
+      "tags": {
+        "addr:city": "Bocșa",
+        "addr:postcode": "325300",
+        "addr:street": "Strada Republicii",
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/927192475",
+      "osm_id": 927192475,
+      "osm_type": "way",
+      "name": "Biserica Baptistă Bocșa",
+      "category": "place_of_worship",
+      "lat": 47.2931954,
+      "lon": 22.9167608,
+      "tags": {
+        "addr:city": "Bocșa",
+        "addr:postcode": "457045",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "baptist",
+        "name": "Biserica Baptistă Bocșa",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/927192476",
+      "osm_id": 927192476,
+      "osm_type": "way",
+      "name": "Biserica Penticostală Bocșa",
+      "category": "place_of_worship",
+      "lat": 47.2953971,
+      "lon": 22.9195188,
+      "tags": {
+        "addr:city": "Bocșa",
+        "addr:postcode": "457045",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "pentecostal",
+        "name": "Biserica Penticostală Bocșa",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/974952051",
+      "osm_id": 974952051,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 47.320566,
+      "lon": 22.9050148,
+      "tags": {
+        "addr:city": "Sălăjeni",
+        "air_conditioning": "no",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/975262050",
+      "osm_id": 975262050,
+      "osm_type": "way",
+      "name": "Cimitir din Bocșa",
+      "category": "place_of_worship",
+      "lat": 47.2987786,
+      "lon": 22.9134783,
+      "tags": {
+        "addr:city": "Bocșa",
+        "landuse": "cemetery",
+        "name": "Cimitir din Bocșa",
+        "name:ro": "Cimitir din Bocșa",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/975262058",
+      "osm_id": 975262058,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 47.3007058,
+      "lon": 22.9154432,
+      "tags": {
+        "addr:city": "Bocșa",
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/990651091",
+      "osm_id": 990651091,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 47.3254144,
+      "lon": 22.9000979,
+      "tags": {
+        "addr:city": "Sălăjeni",
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/990651370",
+      "osm_id": 990651370,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 47.312743,
+      "lon": 22.8810942,
+      "tags": {
+        "addr:city": "Câmpia",
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1042565623",
+      "osm_id": 1042565623,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 47.2805838,
+      "lon": 22.9421873,
+      "tags": {
+        "addr:city": "Borla",
+        "addr:postcode": "457046",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "reformed",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1042565625",
+      "osm_id": 1042565625,
+      "osm_type": "way",
+      "name": "Cimitir Borla #1",
+      "category": "place_of_worship",
+      "lat": 47.2833766,
+      "lon": 22.9434841,
+      "tags": {
+        "addr:city": "Borla",
+        "landuse": "cemetery",
+        "name": "Cimitir Borla #1",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1042565626",
+      "osm_id": 1042565626,
+      "osm_type": "way",
+      "name": "Cimitir Borla #2",
+      "category": "place_of_worship",
+      "lat": 47.2850603,
+      "lon": 22.9420499,
+      "tags": {
+        "addr:city": "Borla",
+        "landuse": "cemetery",
+        "name": "Cimitir Borla #2",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1462909054",
+      "osm_id": 1462909054,
+      "osm_type": "way",
+      "name": "Biserica „Sfântul Ioan Nepomuk” Bocșa-Neuwerk",
+      "category": "place_of_worship",
+      "lat": 45.3798406,
+      "lon": 21.7506805,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "roman_catholic",
+        "name": "Biserica „Sfântul Ioan Nepomuk” Bocșa-Neuwerk",
+        "religion": "christian"
+      }
+    }
+  ]
+}

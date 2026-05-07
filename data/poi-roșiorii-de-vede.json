@@ -1,0 +1,157 @@
+{
+  "city": "Roșiorii de Vede",
+  "generated_at": "2026-04-23T10:05:03.358Z",
+  "counts": {
+    "total": 10,
+    "schools": 2,
+    "churches": 8
+  },
+  "pois": [
+    {
+      "id": "way/45162712",
+      "osm_id": 45162712,
+      "osm_type": "way",
+      "name": "Colegiul Național Anastasescu",
+      "category": "education",
+      "lat": 44.1139062,
+      "lon": 24.9845296,
+      "tags": {
+        "addr:city": "Roșiorii de Vede",
+        "addr:housenumber": "11",
+        "addr:street": "Strada Republicii",
+        "amenity": "college",
+        "education": "college",
+        "name": "Colegiul Național Anastasescu"
+      }
+    },
+    {
+      "id": "way/465937575",
+      "osm_id": 465937575,
+      "osm_type": "way",
+      "name": "Liceul Economic Administrativ",
+      "category": "education",
+      "lat": 44.1147014,
+      "lon": 24.9842991,
+      "tags": {
+        "addr:housenumber": "11",
+        "addr:street": "Strada Republicii",
+        "amenity": "college",
+        "building": "yes",
+        "education": "college",
+        "name": "Liceul Economic Administrativ"
+      }
+    },
+    {
+      "id": "node/2675254537",
+      "osm_id": 2675254537,
+      "osm_type": "node",
+      "name": "Biserica Ortodoxă",
+      "category": "place_of_worship",
+      "lat": 44.0954285,
+      "lon": 24.9943941,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/4421746055",
+      "osm_id": 4421746055,
+      "osm_type": "node",
+      "name": "Biserică",
+      "category": "place_of_worship",
+      "lat": 44.1081037,
+      "lon": 24.9939384,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserică",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/4421747219",
+      "osm_id": 4421747219,
+      "osm_type": "node",
+      "name": "Biserică",
+      "category": "place_of_worship",
+      "lat": 44.1128258,
+      "lon": 24.9863317,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserică",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/10204383451",
+      "osm_id": 10204383451,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.1148814,
+      "lon": 24.9924664,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/10274835188",
+      "osm_id": 10274835188,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.1007991,
+      "lon": 25.0021971,
+      "tags": {
+        "amenity": "place_of_worship",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/231618135",
+      "osm_id": 231618135,
+      "osm_type": "way",
+      "name": "Cimitir",
+      "category": "place_of_worship",
+      "lat": 44.1094188,
+      "lon": 24.9811683,
+      "tags": {
+        "landuse": "cemetery",
+        "name": "Cimitir",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/256592143",
+      "osm_id": 256592143,
+      "osm_type": "way",
+      "name": "Cimitir",
+      "category": "place_of_worship",
+      "lat": 44.0976508,
+      "lon": 24.9938218,
+      "tags": {
+        "landuse": "cemetery",
+        "name": "Cimitir",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/261892960",
+      "osm_id": 261892960,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.0954228,
+      "lon": 24.9943716,
+      "tags": {
+        "building": "church"
+      }
+    }
+  ]
+}

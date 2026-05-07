@@ -1,0 +1,565 @@
+{
+  "city": "Beclean",
+  "generated_at": "2026-04-23T09:28:24.228Z",
+  "counts": {
+    "total": 36,
+    "schools": 13,
+    "churches": 23
+  },
+  "pois": [
+    {
+      "id": "node/11580092970",
+      "osm_id": 11580092970,
+      "osm_type": "node",
+      "name": "Școala Gimnazială Beclean",
+      "category": "education",
+      "lat": 45.8324395,
+      "lon": 24.9219804,
+      "tags": {
+        "addr:city": "Beclean",
+        "addr:housenumber": "106",
+        "addr:postcode": "507010",
+        "addr:street": "Strada Principală",
+        "amenity": "school",
+        "name": "Școala Gimnazială Beclean"
+      }
+    },
+    {
+      "id": "way/123344351",
+      "osm_id": 123344351,
+      "osm_type": "way",
+      "name": "Grădiniță",
+      "category": "education",
+      "lat": 45.8307482,
+      "lon": 24.9234596,
+      "tags": {
+        "addr:city": "Beclean",
+        "addr:housenumber": "198",
+        "addr:postcode": "507010",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "name": "Grădiniță"
+      }
+    },
+    {
+      "id": "way/226607865",
+      "osm_id": 226607865,
+      "osm_type": "way",
+      "name": "Grădinița Nr. 7",
+      "category": "education",
+      "lat": 47.1793244,
+      "lon": 24.174867,
+      "tags": {
+        "amenity": "kindergarten",
+        "building": "yes",
+        "name": "Grădinița Nr. 7"
+      }
+    },
+    {
+      "id": "way/226689648",
+      "osm_id": 226689648,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.1834787,
+      "lon": 24.1811905,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/226693451",
+      "osm_id": 226693451,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.1785493,
+      "lon": 24.1759818,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/226693452",
+      "osm_id": 226693452,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.1787578,
+      "lon": 24.1767405,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/226693453",
+      "osm_id": 226693453,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.1785126,
+      "lon": 24.1764314,
+      "tags": {
+        "addr:housenumber": "19",
+        "addr:street": "Piața Libertății",
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/767342486",
+      "osm_id": 767342486,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Beclean",
+      "category": "education",
+      "lat": 45.8324296,
+      "lon": 24.9218403,
+      "tags": {
+        "addr:city": "Beclean",
+        "addr:housenumber": "106",
+        "addr:postcode": "507010",
+        "addr:street": "Strada Principală",
+        "amenity": "school",
+        "building": "yes",
+        "name": "Școala Gimnazială Beclean"
+      }
+    },
+    {
+      "id": "way/1113374603",
+      "osm_id": 1113374603,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Grigore Silași",
+      "category": "education",
+      "lat": 47.1783257,
+      "lon": 24.1764724,
+      "tags": {
+        "amenity": "school",
+        "name": "Școala Gimnazială Grigore Silași"
+      }
+    },
+    {
+      "id": "way/1113374604",
+      "osm_id": 1113374604,
+      "osm_type": "way",
+      "name": "Colegiul Național Petru Rareș",
+      "category": "education",
+      "lat": 47.1768526,
+      "lon": 24.1762065,
+      "tags": {
+        "amenity": "college",
+        "name": "Colegiul Național Petru Rareș"
+      }
+    },
+    {
+      "id": "way/1113374878",
+      "osm_id": 1113374878,
+      "osm_type": "way",
+      "name": "Școala Generală Liviu Rebreanu",
+      "category": "education",
+      "lat": 47.1832138,
+      "lon": 24.180702,
+      "tags": {
+        "amenity": "school",
+        "name": "Școala Generală Liviu Rebreanu"
+      }
+    },
+    {
+      "id": "way/1113375253",
+      "osm_id": 1113375253,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.1810821,
+      "lon": 24.1833473,
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "relation/3010231",
+      "osm_id": 3010231,
+      "osm_type": "relation",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.1810679,
+      "lon": 24.1832972,
+      "tags": {
+        "building": "school",
+        "type": "multipolygon"
+      }
+    },
+    {
+      "id": "node/1316062980",
+      "osm_id": 1316062980,
+      "osm_type": "node",
+      "name": "Mănăstirea Făget",
+      "category": "place_of_worship",
+      "lat": 45.8797501,
+      "lon": 24.9693612,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Mănăstirea Făget",
+        "religion": "christian",
+        "source": "jonutzu@gpszone.ro"
+      }
+    },
+    {
+      "id": "node/1925487331",
+      "osm_id": 1925487331,
+      "osm_type": "node",
+      "name": "Biserica Hurez",
+      "category": "place_of_worship",
+      "lat": 45.8006908,
+      "lon": 24.9532761,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Hurez",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/2347986563",
+      "osm_id": 2347986563,
+      "osm_type": "node",
+      "name": "Biserica Coldău",
+      "category": "place_of_worship",
+      "lat": 47.1801111,
+      "lon": 24.1328508,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Coldău",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/2347986774",
+      "osm_id": 2347986774,
+      "osm_type": "node",
+      "name": "Biserica ungurească",
+      "category": "place_of_worship",
+      "lat": 47.1808567,
+      "lon": 24.1316294,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "reformed",
+        "name": "Biserica ungurească",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/2351508789",
+      "osm_id": 2351508789,
+      "osm_type": "node",
+      "name": "Biserica Rusu de Jos",
+      "category": "place_of_worship",
+      "lat": 47.1440095,
+      "lon": 24.1706055,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Rusu de Jos",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/2353796746",
+      "osm_id": 2353796746,
+      "osm_type": "node",
+      "name": "Biserica Reformată",
+      "category": "place_of_worship",
+      "lat": 47.1795511,
+      "lon": 24.1772306,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "reformed",
+        "name": "Biserica Reformată",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/2353796842",
+      "osm_id": 2353796842,
+      "osm_type": "node",
+      "name": "Biserica Bunavestire",
+      "category": "place_of_worship",
+      "lat": 47.1795055,
+      "lon": 24.1739963,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Bunavestire",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/2354549418",
+      "osm_id": 2354549418,
+      "osm_type": "node",
+      "name": "Biserica Sf Arhangheli",
+      "category": "place_of_worship",
+      "lat": 47.1822772,
+      "lon": 24.1842633,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Sf Arhangheli",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/3898859495",
+      "osm_id": 3898859495,
+      "osm_type": "node",
+      "name": "Biserica Greco-Catolică",
+      "category": "place_of_worship",
+      "lat": 47.1775789,
+      "lon": 24.1734437,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "greek_catholic",
+        "name": "Biserica Greco-Catolică",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/11579979566",
+      "osm_id": 11579979566,
+      "osm_type": "node",
+      "name": "Biserica Adormirea Maicii Domnului",
+      "category": "place_of_worship",
+      "lat": 45.8296555,
+      "lon": 24.9233184,
+      "tags": {
+        "addr:city": "Beclean",
+        "addr:postcode": "507010",
+        "amenity": "place_of_worship",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica Adormirea Maicii Domnului",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/11750229356",
+      "osm_id": 11750229356,
+      "osm_type": "node",
+      "name": "Biserica Sfântul Gheorghe",
+      "category": "place_of_worship",
+      "lat": 45.8872147,
+      "lon": 24.920028,
+      "tags": {
+        "addr:city": "Boholț",
+        "addr:postcode": "507011",
+        "addr:street": "Strada Bisericilor",
+        "amenity": "place_of_worship",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica Sfântul Gheorghe",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/11750229357",
+      "osm_id": 11750229357,
+      "osm_type": "node",
+      "name": "Biserica Sfântul Ioan Botezătorul",
+      "category": "place_of_worship",
+      "lat": 45.8885533,
+      "lon": 24.9184538,
+      "tags": {
+        "addr:city": "Boholț",
+        "addr:postcode": "507011",
+        "addr:street": "Strada Școlii",
+        "amenity": "place_of_worship",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica Sfântul Ioan Botezătorul",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/123344010",
+      "osm_id": 123344010,
+      "osm_type": "way",
+      "name": "Biserica Adormirea Maicii Domnului",
+      "category": "place_of_worship",
+      "lat": 45.8296919,
+      "lon": 24.9233938,
+      "tags": {
+        "addr:city": "Beclean",
+        "addr:postcode": "507010",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "height": "9",
+        "name": "Biserica Adormirea Maicii Domnului",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/123456645",
+      "osm_id": 123456645,
+      "osm_type": "way",
+      "name": "Biserica Sfântul Ierarh Nicolae",
+      "category": "place_of_worship",
+      "lat": 45.8688004,
+      "lon": 24.9011995,
+      "tags": {
+        "addr:city": "Calbor",
+        "addr:postcode": "507012",
+        "addr:street": "Strada Viilor",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica Sfântul Ierarh Nicolae",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/123456648",
+      "osm_id": 123456648,
+      "osm_type": "way",
+      "name": "Biserica Sfinții Arhangheli Mihail și Gavriil",
+      "category": "place_of_worship",
+      "lat": 45.8720209,
+      "lon": 24.8995082,
+      "tags": {
+        "addr:city": "Calbor",
+        "addr:housenumber": "11",
+        "addr:postcode": "507012",
+        "addr:street": "Strada Principala",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica Sfinții Arhangheli Mihail și Gavriil",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/123456650",
+      "osm_id": 123456650,
+      "osm_type": "way",
+      "name": "Biserica Sfântul Ioan Botezătorul",
+      "category": "place_of_worship",
+      "lat": 45.8885602,
+      "lon": 24.9186057,
+      "tags": {
+        "addr:city": "Boholț",
+        "addr:postcode": "507011",
+        "addr:street": "Strada Școlii",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "height": "9",
+        "name": "Biserica Sfântul Ioan Botezătorul",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/512317712",
+      "osm_id": 512317712,
+      "osm_type": "way",
+      "name": "Biserică",
+      "category": "place_of_worship",
+      "lat": 45.8797194,
+      "lon": 24.970139,
+      "tags": {
+        "building": "church",
+        "name": "Biserică"
+      }
+    },
+    {
+      "id": "way/512317721",
+      "osm_id": 512317721,
+      "osm_type": "way",
+      "name": "Mănăstirea Făget",
+      "category": "place_of_worship",
+      "lat": 45.8797498,
+      "lon": 24.9693927,
+      "tags": {
+        "building": "church",
+        "designation": "Ortodox",
+        "name": "Mănăstirea Făget"
+      }
+    },
+    {
+      "id": "way/525435797",
+      "osm_id": 525435797,
+      "osm_type": "way",
+      "name": "Biserica Sfântul Andrei",
+      "category": "place_of_worship",
+      "lat": 47.179846,
+      "lon": 24.1782139,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "check_date": "2023-10-09",
+        "denomination": "orthodox",
+        "name": "Biserica Sfântul Andrei",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1264783521",
+      "osm_id": 1264783521,
+      "osm_type": "way",
+      "name": "Biserica Sfântul Gheorghe",
+      "category": "place_of_worship",
+      "lat": 45.88725,
+      "lon": 24.9201396,
+      "tags": {
+        "addr:city": "Boholț",
+        "addr:postcode": "507011",
+        "addr:street": "Strada Bisericilor",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "height": "9",
+        "name": "Biserica Sfântul Gheorghe",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1328642949",
+      "osm_id": 1328642949,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 47.1795547,
+      "lon": 24.1772433,
+      "tags": {
+        "building": "church"
+      }
+    },
+    {
+      "id": "way/1423669536",
+      "osm_id": 1423669536,
+      "osm_type": "way",
+      "name": "Biserica Catolică",
+      "category": "place_of_worship",
+      "lat": 47.1808698,
+      "lon": 24.1817943,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "catholic",
+        "name": "Biserica Catolică",
+        "religion": "christian",
+        "url:miserend": "https://miserend.hu/templom/3413"
+      }
+    },
+    {
+      "id": "relation/9570294",
+      "osm_id": 9570294,
+      "osm_type": "relation",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.8797502,
+      "lon": 24.9693208,
+      "tags": {
+        "building": "church",
+        "type": "multipolygon"
+      }
+    }
+  ]
+}

@@ -1,0 +1,6594 @@
+{
+  "city": "Covasna",
+  "generated_at": "2026-04-23T09:16:19.667Z",
+  "counts": {
+    "total": 420,
+    "schools": 125,
+    "churches": 295
+  },
+  "pois": [
+    {
+      "id": "node/304602596",
+      "osm_id": 304602596,
+      "osm_type": "node",
+      "name": "Grădiniță Arcuș",
+      "category": "education",
+      "lat": 45.9008553,
+      "lon": 25.7772002,
+      "tags": {
+        "addr:city": "Arcuș",
+        "addr:housenumber": "74",
+        "addr:postcode": "527166",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Gelje-Gelei József",
+        "amenity": "kindergarten",
+        "name": "Grădiniță Arcuș"
+      }
+    },
+    {
+      "id": "node/506523261",
+      "osm_id": 506523261,
+      "osm_type": "node",
+      "name": "Colegiul \"Székely Mikó\"",
+      "category": "education",
+      "lat": 45.8650709,
+      "lon": 25.7878312,
+      "tags": {
+        "amenity": "school",
+        "name": "Colegiul \"Székely Mikó\"",
+        "name:hu": "\"Székely Mikó\" Kollégium"
+      }
+    },
+    {
+      "id": "node/2104208268",
+      "osm_id": 2104208268,
+      "osm_type": "node",
+      "name": "Școala Generală Mihail Sadoveanu",
+      "category": "education",
+      "lat": 45.6752358,
+      "lon": 26.0341003,
+      "tags": {
+        "amenity": "school",
+        "designation": "scoala generala",
+        "education": "school",
+        "name": "Școala Generală Mihail Sadoveanu",
+        "name:en": "Mihail Sadoveanu General School"
+      }
+    },
+    {
+      "id": "node/2104215674",
+      "osm_id": 2104215674,
+      "osm_type": "node",
+      "name": "Liceul Mircea Eliade",
+      "category": "education",
+      "lat": 45.6740089,
+      "lon": 26.0296617,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Liceul Mircea Eliade"
+      }
+    },
+    {
+      "id": "node/2172174179",
+      "osm_id": 2172174179,
+      "osm_type": "node",
+      "name": "Grupul Școlar Baróti Szabó Dávid",
+      "category": "education",
+      "lat": 46.074535,
+      "lon": 25.5949972,
+      "tags": {
+        "amenity": "school",
+        "name": "Grupul Școlar Baróti Szabó Dávid"
+      }
+    },
+    {
+      "id": "node/3318238873",
+      "osm_id": 3318238873,
+      "osm_type": "node",
+      "name": "Școala Poian",
+      "category": "education",
+      "lat": 46.0697895,
+      "lon": 26.1607459,
+      "tags": {
+        "amenity": "school",
+        "name": "Școala Poian"
+      }
+    },
+    {
+      "id": "node/4358944079",
+      "osm_id": 4358944079,
+      "osm_type": "node",
+      "name": "Grădiniță cu progam prelungit nr.2",
+      "category": "education",
+      "lat": 45.850773,
+      "lon": 26.1810517,
+      "tags": {
+        "amenity": "school",
+        "name": "Grădiniță cu progam prelungit nr.2"
+      }
+    },
+    {
+      "id": "node/4358944155",
+      "osm_id": 4358944155,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.8465207,
+      "lon": 26.1749846,
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "node/4510130089",
+      "osm_id": 4510130089,
+      "osm_type": "node",
+      "name": "Școala Gimnazială Gábor Áron Általános Iskola",
+      "category": "education",
+      "lat": 45.7765567,
+      "lon": 25.803204,
+      "tags": {
+        "amenity": "school",
+        "name": "Școala Gimnazială Gábor Áron Általános Iskola"
+      }
+    },
+    {
+      "id": "node/4749009122",
+      "osm_id": 4749009122,
+      "osm_type": "node",
+      "name": "Școală generală",
+      "category": "education",
+      "lat": 45.852702,
+      "lon": 26.1881025,
+      "tags": {
+        "addr:postcode": "525200",
+        "addr:street": "Strada Andrei Șaguna",
+        "amenity": "school",
+        "name": "Școală generală",
+        "name:ro": "Școală generală",
+        "opening_hours": "Mo-Fr 08:00-14:00"
+      }
+    },
+    {
+      "id": "node/5260413323",
+      "osm_id": 5260413323,
+      "osm_type": "node",
+      "name": "Școala gimnaziu Pachia",
+      "category": "education",
+      "lat": 45.826492,
+      "lon": 26.1155101,
+      "tags": {
+        "addr:street": "Principală",
+        "amenity": "school",
+        "name": "Școala gimnaziu Pachia",
+        "opening_hours": "Mo-Fr 08:00-14:00"
+      }
+    },
+    {
+      "id": "node/5356835109",
+      "osm_id": 5356835109,
+      "osm_type": "node",
+      "name": "Grup Școlar Zagon",
+      "category": "education",
+      "lat": 45.7667694,
+      "lon": 26.1118921,
+      "tags": {
+        "amenity": "college",
+        "name": "Grup Școlar Zagon"
+      }
+    },
+    {
+      "id": "node/5356866496",
+      "osm_id": 5356866496,
+      "osm_type": "node",
+      "name": "Școala Gimnazială Camil Petrescu",
+      "category": "education",
+      "lat": 45.770123,
+      "lon": 26.1310639,
+      "tags": {
+        "amenity": "school",
+        "name": "Școala Gimnazială Camil Petrescu"
+      }
+    },
+    {
+      "id": "node/6189816604",
+      "osm_id": 6189816604,
+      "osm_type": "node",
+      "name": "Grup Școlar \"Doctor Gámán János\"",
+      "category": "education",
+      "lat": 45.8700565,
+      "lon": 25.7941717,
+      "tags": {
+        "amenity": "school",
+        "disused": "yes",
+        "name": "Grup Școlar \"Doctor Gámán János\"",
+        "name:hu": "Dr. Gámán János Szakközépiskola"
+      }
+    },
+    {
+      "id": "node/7297535485",
+      "osm_id": 7297535485,
+      "osm_type": "node",
+      "name": "Scoala gimnazială",
+      "category": "education",
+      "lat": 45.8429503,
+      "lon": 26.1638383,
+      "tags": {
+        "addr:postcode": "525200",
+        "addr:street": "Strada Gábor Áron",
+        "amenity": "school",
+        "name": "Scoala gimnazială",
+        "opening_hours": "Mo-Fr 08:00-14:00"
+      }
+    },
+    {
+      "id": "node/10039718880",
+      "osm_id": 10039718880,
+      "osm_type": "node",
+      "name": "Școala  Gimnazială",
+      "category": "education",
+      "lat": 45.6445812,
+      "lon": 26.0896927,
+      "tags": {
+        "amenity": "school",
+        "name": "Școala  Gimnazială"
+      }
+    },
+    {
+      "id": "node/10538566663",
+      "osm_id": 10538566663,
+      "osm_type": "node",
+      "name": "Școala primară Bodoc",
+      "category": "education",
+      "lat": 45.9548296,
+      "lon": 25.854306,
+      "tags": {
+        "addr:city": "Bodoc",
+        "amenity": "school",
+        "name": "Școala primară Bodoc"
+      }
+    },
+    {
+      "id": "way/142893866",
+      "osm_id": 142893866,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.8652725,
+      "lon": 25.7875819,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/142896791",
+      "osm_id": 142896791,
+      "osm_type": "way",
+      "name": "Grup Școlar Constantin Brâncuși",
+      "category": "education",
+      "lat": 45.863711,
+      "lon": 25.7868185,
+      "tags": {
+        "amenity": "school",
+        "building": "yes",
+        "check_date": "2025-10-24",
+        "name": "Grup Școlar Constantin Brâncuși"
+      }
+    },
+    {
+      "id": "way/142896792",
+      "osm_id": 142896792,
+      "osm_type": "way",
+      "name": "Liceul Teoretic \" Mikes Kelemen\"",
+      "category": "education",
+      "lat": 45.8621337,
+      "lon": 25.7869726,
+      "tags": {
+        "amenity": "school",
+        "building": "yes",
+        "name": "Liceul Teoretic \" Mikes Kelemen\"",
+        "name:hu": "Mikes Kelemen Elméleti Líceum"
+      }
+    },
+    {
+      "id": "way/142905639",
+      "osm_id": 142905639,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.8649475,
+      "lon": 25.7880858,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/143200142",
+      "osm_id": 143200142,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.8659657,
+      "lon": 25.8067567,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/143200152",
+      "osm_id": 143200152,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.8653762,
+      "lon": 25.8063746,
+      "tags": {
+        "building": "kindergarten"
+      }
+    },
+    {
+      "id": "way/143231845",
+      "osm_id": 143231845,
+      "osm_type": "way",
+      "name": "Școala Generală \"Nicolae Colan\"",
+      "category": "education",
+      "lat": 45.8587146,
+      "lon": 25.8006184,
+      "tags": {
+        "addr:city": "Sfântu Gheorghe",
+        "addr:housenumber": "1-3",
+        "addr:postcode": "520086",
+        "addr:street": "Strada Lalelei",
+        "building": "school",
+        "name": "Școala Generală \"Nicolae Colan\"",
+        "name:hu": "Nicolae Colan iskola",
+        "website": "https://colan.ro/"
+      }
+    },
+    {
+      "id": "way/143232689",
+      "osm_id": 143232689,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.8592386,
+      "lon": 25.7958311,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/143232690",
+      "osm_id": 143232690,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.8594241,
+      "lon": 25.7941605,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/143232691",
+      "osm_id": 143232691,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.8592034,
+      "lon": 25.7948265,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/143232915",
+      "osm_id": 143232915,
+      "osm_type": "way",
+      "name": "Colegiul Național \"Mihai Viteazul\"",
+      "category": "education",
+      "lat": 45.8608998,
+      "lon": 25.784007,
+      "tags": {
+        "amenity": "school",
+        "building": "yes",
+        "name": "Colegiul Național \"Mihai Viteazul\""
+      }
+    },
+    {
+      "id": "way/143232917",
+      "osm_id": 143232917,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.8602994,
+      "lon": 25.7840522,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/143234672",
+      "osm_id": 143234672,
+      "osm_type": "way",
+      "name": "Albă ca Zăpada",
+      "category": "education",
+      "lat": 45.8620882,
+      "lon": 25.7809757,
+      "tags": {
+        "addr:city": "Sfântu Gheorghe",
+        "addr:housenumber": "24A",
+        "addr:postcode": "520100",
+        "addr:street": "Aleea Tineretului",
+        "building": "kindergarten",
+        "name": "Albă ca Zăpada",
+        "name:hu": "Hófehérke"
+      }
+    },
+    {
+      "id": "way/144130978",
+      "osm_id": 144130978,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.8712027,
+      "lon": 25.7878004,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/144131450",
+      "osm_id": 144131450,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.8721723,
+      "lon": 25.7944968,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/144132377",
+      "osm_id": 144132377,
+      "osm_type": "way",
+      "name": "Liceul de Artă \"Plugor Sándor\"",
+      "category": "education",
+      "lat": 45.8691915,
+      "lon": 25.7861242,
+      "tags": {
+        "building": "school",
+        "name": "Liceul de Artă \"Plugor Sándor\"",
+        "name:hu": "Plugor Sándor Művészeti Líceum"
+      }
+    },
+    {
+      "id": "way/144211314",
+      "osm_id": 144211314,
+      "osm_type": "way",
+      "name": "Liceul de Artă \"Plugor Sándor\"",
+      "category": "education",
+      "lat": 45.8682606,
+      "lon": 25.7862352,
+      "tags": {
+        "addr:street": "Strada Kossuth Lajos",
+        "building": "school",
+        "name": "Liceul de Artă \"Plugor Sándor\"",
+        "name:hu": "Plugor Sándor Művészeti Líceum"
+      }
+    },
+    {
+      "id": "way/144215235",
+      "osm_id": 144215235,
+      "osm_type": "way",
+      "name": "Grup Școlar \"Kós Károly\"",
+      "category": "education",
+      "lat": 45.8650536,
+      "lon": 25.7847766,
+      "tags": {
+        "amenity": "school",
+        "building": "yes",
+        "name": "Grup Școlar \"Kós Károly\"",
+        "name:hu": "Kós Károly Iskolaközpont"
+      }
+    },
+    {
+      "id": "way/144215652",
+      "osm_id": 144215652,
+      "osm_type": "way",
+      "name": "Școala de Artă și de Meserii",
+      "category": "education",
+      "lat": 45.8639865,
+      "lon": 25.7868821,
+      "tags": {
+        "amenity": "school",
+        "building": "yes",
+        "check_date": "2025-10-24",
+        "name": "Școala de Artă și de Meserii",
+        "name:hu": "Művészeti Népiskola"
+      }
+    },
+    {
+      "id": "way/144215946",
+      "osm_id": 144215946,
+      "osm_type": "way",
+      "name": "Csipike",
+      "category": "education",
+      "lat": 45.8626186,
+      "lon": 25.7870551,
+      "tags": {
+        "amenity": "kindergarten",
+        "building": "yes",
+        "name": "Csipike"
+      }
+    },
+    {
+      "id": "way/144217188",
+      "osm_id": 144217188,
+      "osm_type": "way",
+      "name": "Școala Generală \"Váradi József\"",
+      "category": "education",
+      "lat": 45.862053,
+      "lon": 25.7776244,
+      "tags": {
+        "amenity": "school",
+        "building": "school",
+        "name": "Școala Generală \"Váradi József\"",
+        "name:hu": "Váradi József Általános Iskola"
+      }
+    },
+    {
+      "id": "way/144328264",
+      "osm_id": 144328264,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.8750501,
+      "lon": 25.7908007,
+      "tags": {
+        "building": "kindergarten"
+      }
+    },
+    {
+      "id": "way/144547756",
+      "osm_id": 144547756,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.9435213,
+      "lon": 26.2314611,
+      "tags": {
+        "amenity": "school",
+        "name:hu": "Jancsó Benedek általános iskola"
+      }
+    },
+    {
+      "id": "way/144718842",
+      "osm_id": 144718842,
+      "osm_type": "way",
+      "name": "Liceul Economic",
+      "category": "education",
+      "lat": 45.8564351,
+      "lon": 25.7928092,
+      "tags": {
+        "building": "school",
+        "name": "Liceul Economic"
+      }
+    },
+    {
+      "id": "way/144934136",
+      "osm_id": 144934136,
+      "osm_type": "way",
+      "name": "Grădinița \"Benedek Elek\"",
+      "category": "education",
+      "lat": 45.8653861,
+      "lon": 25.7949918,
+      "tags": {
+        "building": "kindergarten",
+        "name": "Grădinița \"Benedek Elek\"",
+        "name:hu": "Benedek Elek Napköziotthonos Óvoda",
+        "phone": "0267–313251",
+        "source": "http://www.sfantugheorgheinfo.ro/index.php?page=4"
+      }
+    },
+    {
+      "id": "way/145027138",
+      "osm_id": 145027138,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.8610513,
+      "lon": 25.783034,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/145484279",
+      "osm_id": 145484279,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.8428512,
+      "lon": 26.1639119,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/146404279",
+      "osm_id": 146404279,
+      "osm_type": "way",
+      "name": "Școala Gimnazială „Nicolae Russu”",
+      "category": "education",
+      "lat": 45.6591394,
+      "lon": 26.0670369,
+      "tags": {
+        "addr:city": "Sita Buzăului",
+        "addr:postcode": "527155",
+        "addr:street": "Strada Principală",
+        "building": "school",
+        "building:levels": "2",
+        "grades": "1-8",
+        "name": "Școala Gimnazială „Nicolae Russu”"
+      }
+    },
+    {
+      "id": "way/150353402",
+      "osm_id": 150353402,
+      "osm_type": "way",
+      "name": "Școala Generală Avram Iancu",
+      "category": "education",
+      "lat": 45.8526575,
+      "lon": 26.1881276,
+      "tags": {
+        "building": "school",
+        "name": "Școala Generală Avram Iancu"
+      }
+    },
+    {
+      "id": "way/171503437",
+      "osm_id": 171503437,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.8411914,
+      "lon": 25.9329448,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/174445226",
+      "osm_id": 174445226,
+      "osm_type": "way",
+      "name": "Liceul Teologic Reformat",
+      "category": "education",
+      "lat": 46.0005855,
+      "lon": 26.1312051,
+      "tags": {
+        "amenity": "school",
+        "name": "Liceul Teologic Reformat",
+        "name:hu": "Református Kollégium",
+        "name:ro": "Liceul Teologic Reformat"
+      }
+    },
+    {
+      "id": "way/174456385",
+      "osm_id": 174456385,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.9956624,
+      "lon": 26.1246286,
+      "tags": {
+        "addr:city": "Târgu Secuiesc",
+        "addr:housenumber": "3",
+        "addr:postcode": "525400",
+        "addr:street": "Strada Nouă",
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/174456387",
+      "osm_id": 174456387,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.9951443,
+      "lon": 26.1270412,
+      "tags": {
+        "addr:city": "Târgu Secuiesc",
+        "addr:housenumber": "1A",
+        "addr:postcode": "525400",
+        "addr:street": "Strada Grădiniței",
+        "building": "kindergarten"
+      }
+    },
+    {
+      "id": "way/174457621",
+      "osm_id": 174457621,
+      "osm_type": "way",
+      "name": "Grupul Școlar \"Gábor Áron\"",
+      "category": "education",
+      "lat": 45.9937213,
+      "lon": 26.1318446,
+      "tags": {
+        "building": "school",
+        "name": "Grupul Școlar \"Gábor Áron\"",
+        "name:hu": "Gábor Áron Műszaki Oktatási Központ",
+        "name:ro": "Grupul Școlar \"Gábor Áron\""
+      }
+    },
+    {
+      "id": "way/174458855",
+      "osm_id": 174458855,
+      "osm_type": "way",
+      "name": "Tanulók Háza",
+      "category": "education",
+      "lat": 45.9986631,
+      "lon": 26.1261062,
+      "tags": {
+        "amenity": "school",
+        "building": "school",
+        "name": "Tanulók Háza"
+      }
+    },
+    {
+      "id": "way/174459317",
+      "osm_id": 174459317,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.9937082,
+      "lon": 26.132719,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/174462420",
+      "osm_id": 174462420,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.9982835,
+      "lon": 26.1391973,
+      "tags": {
+        "addr:city": "Târgu Secuiesc",
+        "addr:housenumber": "2",
+        "addr:postcode": "525400",
+        "addr:street": "Strada Nemira",
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/174533368",
+      "osm_id": 174533368,
+      "osm_type": "way",
+      "name": "Universitatea \"Babeș-Bolyai\"",
+      "category": "education",
+      "lat": 45.860809,
+      "lon": 25.7753933,
+      "tags": {
+        "amenity": "university",
+        "building": "yes",
+        "name": "Universitatea \"Babeș-Bolyai\"",
+        "name:hu": "Babeș-Bolyai Tudományegyetem"
+      }
+    },
+    {
+      "id": "way/200425557",
+      "osm_id": 200425557,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.6742403,
+      "lon": 26.0298533,
+      "tags": {
+        "amenity": "school",
+        "education": "school"
+      }
+    },
+    {
+      "id": "way/200856268",
+      "osm_id": 200856268,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.6741032,
+      "lon": 26.0296993,
+      "tags": {
+        "amenity": "college",
+        "building": "yes",
+        "education": "college"
+      }
+    },
+    {
+      "id": "way/200944341",
+      "osm_id": 200944341,
+      "osm_type": "way",
+      "name": "Școala generală Nicolae Bălcescu",
+      "category": "education",
+      "lat": 45.6753388,
+      "lon": 26.0361196,
+      "tags": {
+        "amenity": "school",
+        "building": "yes",
+        "name": "Școala generală Nicolae Bălcescu"
+      }
+    },
+    {
+      "id": "way/237507465",
+      "osm_id": 237507465,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.006722,
+      "lon": 26.1380773,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/237507971",
+      "osm_id": 237507971,
+      "osm_type": "way",
+      "name": "Liceul Pedagogic Bod Péter Tanítóképző",
+      "category": "education",
+      "lat": 46.0027534,
+      "lon": 26.1326406,
+      "tags": {
+        "addr:city": "Târgu Secuiesc",
+        "addr:housenumber": "20",
+        "addr:postcode": "525400",
+        "addr:street": "Strada Ady Endre",
+        "amenity": "college",
+        "building": "yes",
+        "name": "Liceul Pedagogic Bod Péter Tanítóképző"
+      }
+    },
+    {
+      "id": "way/238046555",
+      "osm_id": 238046555,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.002383,
+      "lon": 26.1347343,
+      "tags": {
+        "addr:city": "Târgu Secuiesc",
+        "addr:housenumber": "11",
+        "addr:postcode": "525400",
+        "addr:street": "Strada Școlii",
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/253017969",
+      "osm_id": 253017969,
+      "osm_type": "way",
+      "name": "Școala Generală Bibo Jozsef",
+      "category": "education",
+      "lat": 45.8370283,
+      "lon": 26.0694443,
+      "tags": {
+        "building": "school",
+        "building:levels": "1",
+        "name": "Școala Generală Bibo Jozsef",
+        "name:hu": "Bibó József Általános Iskola",
+        "name:ro": "Scoala Generala Bibo Jozsef",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "id": "way/253018087",
+      "osm_id": 253018087,
+      "osm_type": "way",
+      "name": "Scoala Generala Bibó József",
+      "category": "education",
+      "lat": 45.8375394,
+      "lon": 26.0695561,
+      "tags": {
+        "building": "school",
+        "building:levels": "1",
+        "name:hu": "Bibó József Általános Iskola",
+        "name:ro": "Scoala Generala Bibó József",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "id": "way/264586323",
+      "osm_id": 264586323,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.8585501,
+      "lon": 25.7758269,
+      "tags": {
+        "amenity": "kindergarten",
+        "education": "kindergarten"
+      }
+    },
+    {
+      "id": "way/264587529",
+      "osm_id": 264587529,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.861593,
+      "lon": 25.7759601,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/301207794",
+      "osm_id": 301207794,
+      "osm_type": "way",
+      "name": "Borbáth Károly",
+      "category": "education",
+      "lat": 46.1282207,
+      "lon": 25.5563894,
+      "tags": {
+        "building": "school",
+        "name": "Borbáth Károly"
+      }
+    },
+    {
+      "id": "way/306879152",
+      "osm_id": 306879152,
+      "osm_type": "way",
+      "name": "Școala Generală Mikes Ármin",
+      "category": "education",
+      "lat": 46.1025474,
+      "lon": 25.8561191,
+      "tags": {
+        "building": "school",
+        "building:levels": "1",
+        "name": "Școala Generală Mikes Ármin",
+        "name:hu": "Mikes Ármin Általános Iskola",
+        "roof:shape": "hipped"
+      }
+    },
+    {
+      "id": "way/391727480",
+      "osm_id": 391727480,
+      "osm_type": "way",
+      "name": "Școala generală",
+      "category": "education",
+      "lat": 45.8519213,
+      "lon": 26.1905138,
+      "tags": {
+        "addr:postcode": "525200",
+        "addr:street": "Strada Mihai Eminescu",
+        "amenity": "school",
+        "name": "Școala generală",
+        "name:ro": "Școala generală",
+        "opening_hours": "Mo-Fr 08:00-14:00"
+      }
+    },
+    {
+      "id": "way/391727667",
+      "osm_id": 391727667,
+      "osm_type": "way",
+      "name": "Liceul Teoretic Kőrösi Csoma Sándor",
+      "category": "education",
+      "lat": 45.8475375,
+      "lon": 26.1699697,
+      "tags": {
+        "amenity": "school",
+        "building:levels": "2",
+        "name": "Liceul Teoretic Kőrösi Csoma Sándor",
+        "name:hu": "Kőrösi Csoma Sándor Elméleti Líceum"
+      }
+    },
+    {
+      "id": "way/429055709",
+      "osm_id": 429055709,
+      "osm_type": "way",
+      "name": "Gradinita cu program prelungit nr.2",
+      "category": "education",
+      "lat": 45.8506211,
+      "lon": 26.1810909,
+      "tags": {
+        "addr:city": "Covasna",
+        "addr:housenumber": "101",
+        "addr:postcode": "525200",
+        "addr:street": "Strada Ștefan cel Mare",
+        "building": "kindergarten",
+        "building:levels": "2",
+        "name": "Gradinita cu program prelungit nr.2",
+        "phone": "+40267340191"
+      }
+    },
+    {
+      "id": "way/487523650",
+      "osm_id": 487523650,
+      "osm_type": "way",
+      "name": "Școala Ady Endre",
+      "category": "education",
+      "lat": 45.8659887,
+      "lon": 25.8065956,
+      "tags": {
+        "addr:city": "Sfântu Gheorghe",
+        "addr:housenumber": "25",
+        "addr:postcode": "520072",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Armata Română",
+        "amenity": "school",
+        "name": "Școala Ady Endre",
+        "name:hu": "Ady Endre Általános Iskola",
+        "name:ro": "Școala Gimnazială ,,Ady Endre’’",
+        "phone": "+40 (267) 351 770",
+        "school": "primary"
+      }
+    },
+    {
+      "id": "way/561432481",
+      "osm_id": 561432481,
+      "osm_type": "way",
+      "name": "Școala Generală Kriza Janos",
+      "category": "education",
+      "lat": 45.9858535,
+      "lon": 26.2601231,
+      "tags": {
+        "building": "school",
+        "inscription": "KUN KOCSÁRD ÁLTALÁNOS ISKOLA",
+        "name": "Școala Generală Kriza Janos"
+      }
+    },
+    {
+      "id": "way/654468150",
+      "osm_id": 654468150,
+      "osm_type": "way",
+      "name": "Școala Comenius",
+      "category": "education",
+      "lat": 46.0423482,
+      "lon": 26.3016229,
+      "tags": {
+        "amenity": "school",
+        "building": "school",
+        "education": "school",
+        "name": "Școala Comenius",
+        "name:hu": "Comenius Iskola"
+      }
+    },
+    {
+      "id": "way/656385037",
+      "osm_id": 656385037,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.8613404,
+      "lon": 25.7834075,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/656385039",
+      "osm_id": 656385039,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.8612714,
+      "lon": 25.7836649,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/656385040",
+      "osm_id": 656385040,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.8613667,
+      "lon": 25.7839235,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/656385042",
+      "osm_id": 656385042,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.8612326,
+      "lon": 25.7841417,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/656385044",
+      "osm_id": 656385044,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.8608016,
+      "lon": 25.7847677,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/660783880",
+      "osm_id": 660783880,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.8598822,
+      "lon": 25.7948673,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/660783882",
+      "osm_id": 660783882,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.8596488,
+      "lon": 25.7954703,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/660783884",
+      "osm_id": 660783884,
+      "osm_type": "way",
+      "name": "Grup Școlar \"Puskás Tivadar\"",
+      "category": "education",
+      "lat": 45.8594743,
+      "lon": 25.7949767,
+      "tags": {
+        "addr:city": "Sfântu Gheorghe",
+        "addr:housenumber": "41",
+        "addr:postcode": "520081",
+        "addr:street": "Strada Pescarilor",
+        "amenity": "school",
+        "name": "Grup Școlar \"Puskás Tivadar\"",
+        "name:hu": "Puskás Tivadar Szakközépiskola",
+        "phone": "0267 313 771",
+        "website": "www.puskas.educv.ro"
+      }
+    },
+    {
+      "id": "way/660791685",
+      "osm_id": 660791685,
+      "osm_type": "way",
+      "name": "Grădinița Pinocchio",
+      "category": "education",
+      "lat": 45.8580447,
+      "lon": 25.800796,
+      "tags": {
+        "building": "kindergarten",
+        "name": "Grădinița Pinocchio"
+      }
+    },
+    {
+      "id": "way/660791688",
+      "osm_id": 660791688,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.85895,
+      "lon": 25.7954309,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/660825464",
+      "osm_id": 660825464,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.8650506,
+      "lon": 25.806557,
+      "tags": {
+        "building": "kindergarten"
+      }
+    },
+    {
+      "id": "way/660825465",
+      "osm_id": 660825465,
+      "osm_type": "way",
+      "name": "Grădinița Rază de Soare",
+      "category": "education",
+      "lat": 45.8652524,
+      "lon": 25.8064436,
+      "tags": {
+        "addr:city": "Sfântu Gheorghe",
+        "addr:housenumber": "13-15",
+        "addr:postcode": "520072",
+        "addr:street": "Strada Armata Română",
+        "amenity": "kindergarten",
+        "email": "napsugarnapkozi@yahoo.com",
+        "name": "Grădinița Rază de Soare",
+        "name:hu": "Napsugár Napköziotthon",
+        "phone": "0267 324 808"
+      }
+    },
+    {
+      "id": "way/660825468",
+      "osm_id": 660825468,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.8567248,
+      "lon": 25.7924776,
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "way/661288899",
+      "osm_id": 661288899,
+      "osm_type": "way",
+      "name": "Școala Generală \"Váradi József\"",
+      "category": "education",
+      "lat": 45.8616339,
+      "lon": 25.7757763,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Școala Generală \"Váradi József\""
+      }
+    },
+    {
+      "id": "way/661719252",
+      "osm_id": 661719252,
+      "osm_type": "way",
+      "name": "Școala Specială Sfântu Gheorghe",
+      "category": "education",
+      "lat": 45.8711859,
+      "lon": 25.7878931,
+      "tags": {
+        "addr:city": "Sfântu Gheorghe",
+        "addr:housenumber": "3",
+        "addr:postcode": "520014",
+        "addr:street": "Piața Kálvin",
+        "amenity": "school",
+        "fax": "+40 267 351 448",
+        "name": "Școala Specială Sfântu Gheorghe",
+        "name:hu": "Kisegítő Iskola",
+        "name:ro": "Școala Specială Sfântu Gheorghe",
+        "phone": "+40 267 351 448;+40 367 804 683"
+      }
+    },
+    {
+      "id": "way/661719256",
+      "osm_id": 661719256,
+      "osm_type": "way",
+      "name": "Școala Generală Gödri Ferenc",
+      "category": "education",
+      "lat": 45.872297,
+      "lon": 25.7946839,
+      "tags": {
+        "addr:city": "Sfântu Gheorghe",
+        "addr:housenumber": "1",
+        "addr:postcode": "520038",
+        "addr:street": "Aleea Elevilor",
+        "amenity": "school",
+        "email": "godriferenc@yahoo.com",
+        "name": "Școala Generală Gödri Ferenc",
+        "name:hu": "Gödri Ferenc Általános Iskola",
+        "phone": "0367 407 421",
+        "phone_1": "0267 313 301"
+      }
+    },
+    {
+      "id": "way/661719257",
+      "osm_id": 661719257,
+      "osm_type": "way",
+      "name": "Gradinita Arvacska",
+      "category": "education",
+      "lat": 45.8749543,
+      "lon": 25.7907673,
+      "tags": {
+        "addr:city": "Sfântu Gheorghe",
+        "addr:housenumber": "14",
+        "addr:postcode": "520020",
+        "addr:street": "Strada Romulus Cioflec",
+        "amenity": "kindergarten",
+        "check_date": "2025-10-27",
+        "name": "Gradinita Arvacska",
+        "phone": "0267 351 008",
+        "phone_1": "0367 408 246"
+      }
+    },
+    {
+      "id": "way/661780810",
+      "osm_id": 661780810,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.8654025,
+      "lon": 25.795048,
+      "tags": {
+        "amenity": "kindergarten"
+      }
+    },
+    {
+      "id": "way/766635505",
+      "osm_id": 766635505,
+      "osm_type": "way",
+      "name": "Școala cu clasele I-VIII Végh Antal",
+      "category": "education",
+      "lat": 45.9633554,
+      "lon": 26.0257002,
+      "tags": {
+        "addr:city": "Cernat",
+        "addr:housenumber": "455",
+        "addr:postcode": "527070",
+        "amenity": "school",
+        "education": "school",
+        "name": "Școala cu clasele I-VIII Végh Antal",
+        "name:hu": "Végh Antal Általános Iskola",
+        "name:ro": "Școala cu clasele I-VIII Végh Antal",
+        "phone": "+40 267 367 549",
+        "school": "primary"
+      }
+    },
+    {
+      "id": "way/766635506",
+      "osm_id": 766635506,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.9632663,
+      "lon": 26.0259634,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/770405925",
+      "osm_id": 770405925,
+      "osm_type": "way",
+      "name": "Școala Gimnazială \"Molnár Józsiás\"",
+      "category": "education",
+      "lat": 45.9982123,
+      "lon": 26.1392876,
+      "tags": {
+        "addr:city": "Târgu Secuiesc",
+        "addr:housenumber": "2",
+        "addr:postcode": "525400",
+        "addr:street": "Strada Nemira",
+        "amenity": "school",
+        "fax": "+40 267 362 691",
+        "name": "Școala Gimnazială \"Molnár Józsiás\"",
+        "name:hu": "Molnár Józsiás Iskola",
+        "name:ro": "Școala Gimnazială \"Molnár Józsiás\"",
+        "phone": "+40 267 362 691",
+        "website": "https://molnarjozsias.ro/"
+      }
+    },
+    {
+      "id": "way/770645497",
+      "osm_id": 770645497,
+      "osm_type": "way",
+      "name": "Școala Clasele I-VIII \"Petőfi Sándor\"",
+      "category": "education",
+      "lat": 46.0000587,
+      "lon": 26.1259667,
+      "tags": {
+        "addr:city": "Târgu Secuiesc",
+        "addr:postcode": "525400",
+        "addr:street": "Strada Stadionului",
+        "amenity": "school",
+        "education": "school",
+        "fax": "+40 267 361 250",
+        "name": "Școala Clasele I-VIII \"Petőfi Sándor\"",
+        "name:hu": "Petőfi Sándor I.-VIII. osztályos iskola",
+        "name:ro": "Școala Clasele I-VIII \"Petőfi Sándor\"",
+        "phone": "+40 267 361 250;+40 267 367 549",
+        "school": "primary",
+        "website": "https://petofisuli.ro/"
+      }
+    },
+    {
+      "id": "way/770889047",
+      "osm_id": 770889047,
+      "osm_type": "way",
+      "name": "Școala Gimnazială \"Turóczi Mózes\"",
+      "category": "education",
+      "lat": 45.9957682,
+      "lon": 26.1249566,
+      "tags": {
+        "addr:city": "Târgu Secuiesc",
+        "addr:housenumber": "3",
+        "addr:postcode": "525400",
+        "addr:street": "Strada Nouă",
+        "amenity": "school",
+        "education": "school",
+        "name": "Școala Gimnazială \"Turóczi Mózes\"",
+        "name:hu": "Turóczi Mózes Általános Iskola",
+        "name:ro": "Școala Gimnazială \"Turóczi Mózes\"",
+        "phone": "+40 267 361 922",
+        "school": "primary",
+        "website": "https://www.turoczimozes.ro/"
+      }
+    },
+    {
+      "id": "way/770889050",
+      "osm_id": 770889050,
+      "osm_type": "way",
+      "name": "Grădinița Manócska",
+      "category": "education",
+      "lat": 45.9951467,
+      "lon": 26.1270106,
+      "tags": {
+        "addr:city": "Târgu Secuiesc",
+        "addr:housenumber": "1A",
+        "addr:postcode": "525400",
+        "addr:street": "Strada Grădiniței",
+        "amenity": "kindergarten",
+        "education": "kindergarten",
+        "name": "Grădinița Manócska",
+        "name:hu": "Manócska Óvoda",
+        "name:ro": "Grădinița Manócska",
+        "phone": "+40 267 361 631",
+        "website": "https://manocska.ro/"
+      }
+    },
+    {
+      "id": "way/771408925",
+      "osm_id": 771408925,
+      "osm_type": "way",
+      "name": "Liceul Pedagogic \"Bod Péter\"",
+      "category": "education",
+      "lat": 46.0026826,
+      "lon": 26.1330587,
+      "tags": {
+        "addr:city": "Târgu Secuiesc",
+        "addr:housenumber": "20",
+        "addr:postcode": "525400",
+        "addr:street": "Strada Ady Endre",
+        "amenity": "college",
+        "name": "Liceul Pedagogic \"Bod Péter\"",
+        "name:hu": "Bod Péter Tanítóképző",
+        "name:ro": "Liceul Pedagogic \"Bod Péter\""
+      }
+    },
+    {
+      "id": "way/771408927",
+      "osm_id": 771408927,
+      "osm_type": "way",
+      "name": "Liceul Tehnologic \"Apor Péter\"",
+      "category": "education",
+      "lat": 46.0024758,
+      "lon": 26.1344615,
+      "tags": {
+        "addr:city": "Târgu Secuiesc",
+        "addr:housenumber": "11",
+        "addr:postcode": "525400",
+        "addr:street": "Strada Școlii",
+        "amenity": "school",
+        "name": "Liceul Tehnologic \"Apor Péter\"",
+        "name:hu": "Apor Péter Szakközépiskola",
+        "name:ro": "Liceul Tehnologic \"Apor Péter\"",
+        "phone": "+40 267 361 332",
+        "school": "secondary",
+        "website": "http://www.aporpeter.ro/"
+      }
+    },
+    {
+      "id": "way/785884758",
+      "osm_id": 785884758,
+      "osm_type": "way",
+      "name": "Școala Clasele I-VIII ,,Tatrangi Sándor''",
+      "category": "education",
+      "lat": 45.7992617,
+      "lon": 25.8481704,
+      "tags": {
+        "building": "school",
+        "name": "Școala Clasele I-VIII ,,Tatrangi Sándor''"
+      }
+    },
+    {
+      "id": "way/785884759",
+      "osm_id": 785884759,
+      "osm_type": "way",
+      "name": "Școala Clasele I-VIII ,,Tatrangi Sándor''",
+      "category": "education",
+      "lat": 45.7990289,
+      "lon": 25.8479547,
+      "tags": {
+        "building": "school",
+        "name": "Școala Clasele I-VIII ,,Tatrangi Sándor''"
+      }
+    },
+    {
+      "id": "way/785884760",
+      "osm_id": 785884760,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7988457,
+      "lon": 25.8475659,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/785884762",
+      "osm_id": 785884762,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7986258,
+      "lon": 25.8482463,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/904908880",
+      "osm_id": 904908880,
+      "osm_type": "way",
+      "name": "Liceul Tehnologic \"Gábor Áron\"",
+      "category": "education",
+      "lat": 45.9939693,
+      "lon": 26.1320985,
+      "tags": {
+        "addr:city": "Târgu Secuiesc",
+        "addr:housenumber": "8",
+        "addr:postcode": "525400",
+        "addr:street": "Strada Fabricii",
+        "amenity": "school",
+        "check_date": "2026-01-09",
+        "fax": "+40 267 365 055",
+        "name": "Liceul Tehnologic \"Gábor Áron\"",
+        "name:hu": "Gábor Áron Szakképző Líceum",
+        "name:ro": "Liceul Tehnologic \"Gábor Áron\"",
+        "phone": "+40 267 363 215",
+        "website": "http://www.gaboraron.ro/"
+      }
+    },
+    {
+      "id": "way/1069526123",
+      "osm_id": 1069526123,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.8534991,
+      "lon": 25.6823902,
+      "tags": {
+        "addr:city": "Vâlcele",
+        "addr:housenumber": "484",
+        "addr:postcode": "527175",
+        "amenity": "school",
+        "building": "yes",
+        "building:levels": "2"
+      }
+    },
+    {
+      "id": "way/1078826215",
+      "osm_id": 1078826215,
+      "osm_type": "way",
+      "name": "Școala gimnazială Antos Janos",
+      "category": "education",
+      "lat": 45.8413278,
+      "lon": 25.9328522,
+      "tags": {
+        "amenity": "school",
+        "name": "Școala gimnazială Antos Janos"
+      }
+    },
+    {
+      "id": "way/1094505830",
+      "osm_id": 1094505830,
+      "osm_type": "way",
+      "name": "iskola (óvoda)",
+      "category": "education",
+      "lat": 45.8229522,
+      "lon": 25.7609377,
+      "tags": {
+        "addr:city": "Sâncraiu",
+        "building": "school",
+        "name": "iskola (óvoda)"
+      }
+    },
+    {
+      "id": "way/1103136986",
+      "osm_id": 1103136986,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.9474692,
+      "lon": 25.7169659,
+      "tags": {
+        "amenity": "school",
+        "name:hu": "VADAS Cserkészpark és erdei iskola",
+        "source": "https://www.3szek.ro/load/cikk/52177/erdei-iskola-a-vadas-teton",
+        "start_date": "2011-11"
+      }
+    },
+    {
+      "id": "way/1107788695",
+      "osm_id": 1107788695,
+      "osm_type": "way",
+      "name": "Gulliver óvoda",
+      "category": "education",
+      "lat": 45.8585358,
+      "lon": 25.7757137,
+      "tags": {
+        "addr:city": "Sfântu Gheorghe",
+        "addr:housenumber": "24",
+        "addr:postcode": "520060",
+        "addr:street": "Strada Dealului",
+        "building": "kindergarten",
+        "building:levels": "1",
+        "name": "Gulliver óvoda"
+      }
+    },
+    {
+      "id": "way/1148570111",
+      "osm_id": 1148570111,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.1335769,
+      "lon": 25.7087458,
+      "tags": {
+        "building": "school",
+        "building:levels": "2"
+      }
+    },
+    {
+      "id": "way/1193530478",
+      "osm_id": 1193530478,
+      "osm_type": "way",
+      "name": "Școala Generală Dávid József",
+      "category": "education",
+      "lat": 45.9590795,
+      "lon": 25.8167549,
+      "tags": {
+        "building": "school",
+        "building:levels": "1",
+        "name": "Școala Generală Dávid József",
+        "name:hu": "Dávid József Általános Iskola",
+        "roof:height": "5",
+        "roof:shape": "hipped"
+      }
+    },
+    {
+      "id": "way/1237797468",
+      "osm_id": 1237797468,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.055712,
+      "lon": 25.8345142,
+      "tags": {
+        "building": "school",
+        "source": "microsoft/BuildingFootprints"
+      }
+    },
+    {
+      "id": "way/1260660451",
+      "osm_id": 1260660451,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.8841373,
+      "lon": 25.9317595,
+      "tags": {
+        "addr:city": "Pădureni",
+        "addr:housenumber": "15",
+        "addr:postcode": "527122",
+        "addr:street": "Strada Lungă",
+        "building": "school",
+        "name:hu": "Sepsibesenyői óvoda és iskola",
+        "source": "microsoft/BuildingFootprints"
+      }
+    },
+    {
+      "id": "way/1263069316",
+      "osm_id": 1263069316,
+      "osm_type": "way",
+      "name": "Școala Primară Arcuș",
+      "category": "education",
+      "lat": 45.900493,
+      "lon": 25.7755904,
+      "tags": {
+        "addr:city": "Arcuș",
+        "building": "school",
+        "name": "Școala Primară Arcuș",
+        "name:hu": "Általános iskola",
+        "name:ro": "Școala Primară Arcuș"
+      }
+    },
+    {
+      "id": "way/1279968730",
+      "osm_id": 1279968730,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.8222195,
+      "lon": 26.1520165,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/1301045446",
+      "osm_id": 1301045446,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.1337549,
+      "lon": 25.7087129,
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "way/1301326681",
+      "osm_id": 1301326681,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.837127,
+      "lon": 25.588971,
+      "tags": {
+        "building": "school",
+        "building:levels": "1",
+        "source": "microsoft/BuildingFootprints"
+      }
+    },
+    {
+      "id": "way/1301326715",
+      "osm_id": 1301326715,
+      "osm_type": "way",
+      "name": "Școala Gimnazială",
+      "category": "education",
+      "lat": 45.835012,
+      "lon": 25.590628,
+      "tags": {
+        "amenity": "school",
+        "name": "Școala Gimnazială"
+      }
+    },
+    {
+      "id": "way/1396183604",
+      "osm_id": 1396183604,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7774609,
+      "lon": 25.8812551,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/1396183605",
+      "osm_id": 1396183605,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7770725,
+      "lon": 25.8808578,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/1396504755",
+      "osm_id": 1396504755,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.7385732,
+      "lon": 25.882923,
+      "tags": {
+        "building": "kindergarten",
+        "source": "microsoft/BuildingFootprints"
+      }
+    },
+    {
+      "id": "way/1396504758",
+      "osm_id": 1396504758,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Dobârlău",
+      "category": "education",
+      "lat": 45.7377774,
+      "lon": 25.8820747,
+      "tags": {
+        "building": "school",
+        "name": "Școala Gimnazială Dobârlău",
+        "source": "microsoft/BuildingFootprints"
+      }
+    },
+    {
+      "id": "relation/10686407",
+      "osm_id": 10686407,
+      "osm_type": "relation",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.0000945,
+      "lon": 26.1259195,
+      "tags": {
+        "building": "school",
+        "type": "multipolygon"
+      }
+    },
+    {
+      "id": "relation/10931562",
+      "osm_id": 10931562,
+      "osm_type": "relation",
+      "name": "Școala Clasele I-VIII ,,Tatrangi Sándor''",
+      "category": "education",
+      "lat": 45.7989501,
+      "lon": 25.8477396,
+      "tags": {
+        "amenity": "school",
+        "name": "Școala Clasele I-VIII ,,Tatrangi Sándor''",
+        "type": "multipolygon"
+      }
+    },
+    {
+      "id": "relation/10983906",
+      "osm_id": 10983906,
+      "osm_type": "relation",
+      "name": "Liceul Teoretic \"Nagy Mózes\"",
+      "category": "education",
+      "lat": 46.0071584,
+      "lon": 26.1373176,
+      "tags": {
+        "addr:city": "Târgu Secuiesc",
+        "addr:housenumber": "23",
+        "addr:postcode": "525400",
+        "addr:street": "Strada Kanta",
+        "amenity": "school",
+        "name": "Liceul Teoretic \"Nagy Mózes\"",
+        "name:hu": "Nagy Mózes Elméleti Líceum",
+        "name:ro": "Liceul Teoretic \"Nagy Mózes\"",
+        "phone": "+40 267 361 957",
+        "school": "secondary",
+        "type": "multipolygon",
+        "website": "http://nmg.ro/"
+      }
+    },
+    {
+      "id": "node/1248722774",
+      "osm_id": 1248722774,
+      "osm_type": "node",
+      "name": "Biserica Catolică",
+      "category": "place_of_worship",
+      "lat": 45.8644807,
+      "lon": 25.8098051,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "roman_catholic",
+        "name": "Biserica Catolică",
+        "name:hu": "Szent Benedek templom",
+        "religion": "christian",
+        "url:miserend": "https://miserend.hu/templom/3294"
+      }
+    },
+    {
+      "id": "node/1316062656",
+      "osm_id": 1316062656,
+      "osm_type": "node",
+      "name": "Mănăstirea Marcus",
+      "category": "place_of_worship",
+      "lat": 45.728161,
+      "lon": 25.8695896,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Mănăstirea Marcus",
+        "religion": "christian",
+        "source": "jonutzu@gpszone.ro",
+        "start_date": "1991"
+      }
+    },
+    {
+      "id": "node/1316063103",
+      "osm_id": 1316063103,
+      "osm_type": "node",
+      "name": "Mănăstirea Sita Buzăului",
+      "category": "place_of_worship",
+      "lat": 45.66475,
+      "lon": 26.07947,
+      "tags": {
+        "addr:housenumber": "220a",
+        "addr:street": "Strada Sita Buzăului",
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Mănăstirea Sita Buzăului",
+        "religion": "christian",
+        "source": "jonutzu@gpszone.ro",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "id": "node/1561633020",
+      "osm_id": 1561633020,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.8612,
+      "lon": 25.8015142,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "reformed",
+        "name:hu": "Református templom",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/1588748966",
+      "osm_id": 1588748966,
+      "osm_type": "node",
+      "name": "Biserica stilistă Covasna",
+      "category": "place_of_worship",
+      "lat": 45.8483031,
+      "lon": 26.207167,
+      "tags": {
+        "addr:city": "Covasna",
+        "addr:housenumber": "6",
+        "addr:postcode": "525200",
+        "addr:street": "Strada Baia de Piatră",
+        "amenity": "place_of_worship",
+        "denomination": "old_calendar_romanian_orthodox",
+        "is_in:city": "Covasna",
+        "is_in:country": "România",
+        "is_in:county": "Covasna",
+        "name": "Biserica stilistă Covasna",
+        "religion": "christian",
+        "source": "http://www.biserici.org/index.php?menu=BI&code=7190",
+        "start_date": "1992"
+      }
+    },
+    {
+      "id": "node/2104193366",
+      "osm_id": 2104193366,
+      "osm_type": "node",
+      "name": "Biserica Veche Întorsura Buzăului (1937)",
+      "category": "place_of_worship",
+      "lat": 45.6701971,
+      "lon": 26.0284674,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Veche Întorsura Buzăului (1937)",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/2172174202",
+      "osm_id": 2172174202,
+      "osm_type": "node",
+      "name": "Biserica reformată",
+      "category": "place_of_worship",
+      "lat": 46.0756122,
+      "lon": 25.5977147,
+      "tags": {
+        "addr:city": "Baraolt",
+        "amenity": "place_of_worship",
+        "denomination": "reformed",
+        "name": "Biserica reformată",
+        "name:hu": "Református Templom",
+        "name:ro": "Biserica reformată",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/2518790510",
+      "osm_id": 2518790510,
+      "osm_type": "node",
+      "name": "Biserica Fortificată",
+      "category": "place_of_worship",
+      "lat": 46.0473716,
+      "lon": 26.1377926,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "roman_catholic",
+        "name": "Biserica Fortificată",
+        "name:hu": "Szentlélek templom",
+        "religion": "christian",
+        "url:miserend": "https://miserend.hu/templom/3371",
+        "wikidata": "Q425556",
+        "wikipedia": "hu:Kézdiszentléleki római katolikus templom"
+      }
+    },
+    {
+      "id": "node/2634448767",
+      "osm_id": 2634448767,
+      "osm_type": "node",
+      "name": "Biserica Lisnău",
+      "category": "place_of_worship",
+      "lat": 45.7767283,
+      "lon": 25.8922022,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "greek_catholic",
+        "name": "Biserica Lisnău",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/2708539670",
+      "osm_id": 2708539670,
+      "osm_type": "node",
+      "name": "Casa preoteasca reformata",
+      "category": "place_of_worship",
+      "lat": 45.8567657,
+      "lon": 25.7768191,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "reformed",
+        "name": "Casa preoteasca reformata",
+        "name:hu": "Református papilak",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/2981592584",
+      "osm_id": 2981592584,
+      "osm_type": "node",
+      "name": "Szent István kápolna - Perkő",
+      "category": "place_of_worship",
+      "lat": 46.0513837,
+      "lon": 26.134891,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "roman_catholic",
+        "name": "Szent István kápolna - Perkő",
+        "name:hu": "Perkői kápolna",
+        "religion": "christian",
+        "wikidata": "Q1232859",
+        "wikipedia": "hu:Perkő"
+      }
+    },
+    {
+      "id": "node/2981641513",
+      "osm_id": 2981641513,
+      "osm_type": "node",
+      "name": "Biserica Romano-Catolică",
+      "category": "place_of_worship",
+      "lat": 46.0195808,
+      "lon": 26.2891969,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "roman_catholic",
+        "name": "Biserica Romano-Catolică",
+        "name:hu": "Szent Anna templom",
+        "religion": "christian",
+        "url:miserend": "https://miserend.hu/templom/3367"
+      }
+    },
+    {
+      "id": "node/2981648022",
+      "osm_id": 2981648022,
+      "osm_type": "node",
+      "name": "Biserica romano-catolică",
+      "category": "place_of_worship",
+      "lat": 46.0232845,
+      "lon": 26.2207474,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "roman_catholic",
+        "name": "Biserica romano-catolică",
+        "name:hu": "Szent László király templom",
+        "religion": "christian",
+        "url:miserend": "https://miserend.hu/templom/3377"
+      }
+    },
+    {
+      "id": "node/2985736117",
+      "osm_id": 2985736117,
+      "osm_type": "node",
+      "name": "Biserica Romano-Catolică Sfânta Fecioară Maria",
+      "category": "place_of_worship",
+      "lat": 45.986051,
+      "lon": 26.2613989,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "roman_catholic",
+        "name": "Biserica Romano-Catolică Sfânta Fecioară Maria",
+        "name:hu": "Szent Mária Magdolna-templom",
+        "religion": "christian",
+        "url:miserend": "https://miserend.hu/templom/3379"
+      }
+    },
+    {
+      "id": "node/3519574019",
+      "osm_id": 3519574019,
+      "osm_type": "node",
+      "name": "Biserica Reformată",
+      "category": "place_of_worship",
+      "lat": 45.9217489,
+      "lon": 26.0978117,
+      "tags": {
+        "addr:city": "Mărtineni",
+        "amenity": "place_of_worship",
+        "denomination": "reformed",
+        "name": "Biserica Reformată",
+        "name:hu": "Református templom",
+        "name:ro": "Biserica Reformată",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/3617492359",
+      "osm_id": 3617492359,
+      "osm_type": "node",
+      "name": "Biserica Ordodoxă Sfântul Ioan Botezătorul",
+      "category": "place_of_worship",
+      "lat": 46.0395468,
+      "lon": 26.3000063,
+      "tags": {
+        "addr:city": "Brețcu",
+        "amenity": "place_of_worship",
+        "building": "cathedral",
+        "denomination": "orthodox",
+        "name": "Biserica Ordodoxă Sfântul Ioan Botezătorul",
+        "name:hu": "Keresztelő Szent János Ortodox templom",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/3725978546",
+      "osm_id": 3725978546,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.936015,
+      "lon": 25.5722366,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "romanian_orthodox",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/3910633976",
+      "osm_id": 3910633976,
+      "osm_type": "node",
+      "name": "Biserica Ortodoxă „Sfântul Nicolae” Covasna",
+      "category": "place_of_worship",
+      "lat": 45.8517991,
+      "lon": 26.1911026,
+      "tags": {
+        "addr:city": "Covasna",
+        "addr:housenumber": "17",
+        "addr:postcode": "525200",
+        "addr:street": "Strada Mihai Eminescu",
+        "amenity": "place_of_worship",
+        "denomination": "romanian_orthodox",
+        "description": "http://www.crestinortodox.ro/carti-ortodoxe/romanii-covasna-harghita/covasna-82264.html",
+        "is_in:country": "România",
+        "is_in:county": "Covasna",
+        "name": "Biserica Ortodoxă „Sfântul Nicolae” Covasna",
+        "ref:RO:lmi": "CV-II-m-B-13198",
+        "religion": "christian",
+        "source": "http://www.bisericiromania.org/index.php?menu=BI&code=7189",
+        "start_date": "1793",
+        "website": "http://protopopiatul-sfantugheorghe.ro/parohii/20-parohia-covasna-voinesti",
+        "wikidata": "Q42889596"
+      }
+    },
+    {
+      "id": "node/3982318385",
+      "osm_id": 3982318385,
+      "osm_type": "node",
+      "name": "Biserica Reformată",
+      "category": "place_of_worship",
+      "lat": 45.8259935,
+      "lon": 26.1159158,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "reformed",
+        "name": "Biserica Reformată",
+        "name:hu": "Református templom",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/3982326881",
+      "osm_id": 3982326881,
+      "osm_type": "node",
+      "name": "Biserica Reformată",
+      "category": "place_of_worship",
+      "lat": 45.8227223,
+      "lon": 26.1492439,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "protestant",
+        "name": "Biserica Reformată",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/4073350827",
+      "osm_id": 4073350827,
+      "osm_type": "node",
+      "name": "Biserica Reformată",
+      "category": "place_of_worship",
+      "lat": 46.0435587,
+      "lon": 25.5755221,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "reformed",
+        "name": "Biserica Reformată",
+        "name:hu": "Református templom",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/4073350836",
+      "osm_id": 4073350836,
+      "osm_type": "node",
+      "name": "Unitárius kettős templomvár",
+      "category": "place_of_worship",
+      "lat": 45.9362737,
+      "lon": 25.5694827,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "romanian_unitarian",
+        "name": "Unitárius kettős templomvár",
+        "name:hu": "Unitárius kettős templomvár",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/4166000789",
+      "osm_id": 4166000789,
+      "osm_type": "node",
+      "name": "Szűz Mária-oltár",
+      "category": "place_of_worship",
+      "lat": 46.1186784,
+      "lon": 25.9472087,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "roman_catholic",
+        "name": "Szűz Mária-oltár",
+        "religion": "christian",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "id": "node/6362877855",
+      "osm_id": 6362877855,
+      "osm_type": "node",
+      "name": "Biserica Reformată-Calvină",
+      "category": "place_of_worship",
+      "lat": 46.1186259,
+      "lon": 25.5646697,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "reformed",
+        "name": "Biserica Reformată-Calvină",
+        "name:hu": "Vargyasi Makovecz templom",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/7013434484",
+      "osm_id": 7013434484,
+      "osm_type": "node",
+      "name": "Biserica Reformată",
+      "category": "place_of_worship",
+      "lat": 45.8779466,
+      "lon": 25.8833498,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "reformed",
+        "name": "Biserica Reformată",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/8516233887",
+      "osm_id": 8516233887,
+      "osm_type": "node",
+      "name": "Biserica Romano-Catolică",
+      "category": "place_of_worship",
+      "lat": 45.8369314,
+      "lon": 25.7994562,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "roman_catholic",
+        "name": "Biserica Romano-Catolică",
+        "name:hu": "Jézus Szent Szíve templom",
+        "religion": "christian",
+        "url:miserend": "https://miserend.hu/templom/3330"
+      }
+    },
+    {
+      "id": "node/8536081003",
+      "osm_id": 8536081003,
+      "osm_type": "node",
+      "name": "Fájdalmas Szűzanya-templom",
+      "category": "place_of_worship",
+      "lat": 46.0433596,
+      "lon": 25.5755811,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "roman_catholic",
+        "name": "Fájdalmas Szűzanya-templom",
+        "name:hu": "Fájdalmas Szűzanya-templom",
+        "religion": "christian",
+        "url": "https://www.aloeus.com/biserica-catolica-căpeni-căpeni/",
+        "url:miserend": "https://miserend.hu/templom/3259"
+      }
+    },
+    {
+      "id": "node/8585365127",
+      "osm_id": 8585365127,
+      "osm_type": "node",
+      "name": "Capela Romano-Catolică",
+      "category": "place_of_worship",
+      "lat": 45.8120984,
+      "lon": 25.7967051,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "roman_catholic",
+        "fixme": "Kápolnává átalakított ház",
+        "name": "Capela Romano-Catolică",
+        "name:hu": "Szent Imre-kápolna",
+        "religion": "christian",
+        "url:miserend": "https://miserend.hu/templom/3263"
+      }
+    },
+    {
+      "id": "node/8614366070",
+      "osm_id": 8614366070,
+      "osm_type": "node",
+      "name": "Biserica romano-catolică",
+      "category": "place_of_worship",
+      "lat": 45.880451,
+      "lon": 26.079835,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "roman_catholic",
+        "name": "Biserica romano-catolică",
+        "name:hu": "Szent István király templom",
+        "religion": "christian",
+        "url:miserend": "https://miserend.hu/templom/3363"
+      }
+    },
+    {
+      "id": "node/10016545952",
+      "osm_id": 10016545952,
+      "osm_type": "node",
+      "name": "Capela Ortodoxă Întorsura Buzăului (1950)",
+      "category": "place_of_worship",
+      "lat": 45.6675588,
+      "lon": 26.0229071,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Capela Ortodoxă Întorsura Buzăului (1950)",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/10058686943",
+      "osm_id": 10058686943,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.8473988,
+      "lon": 26.1786105,
+      "tags": {
+        "amenity": "place_of_worship",
+        "name:hu": "Vajnafalvi Református Parókia"
+      }
+    },
+    {
+      "id": "node/10972035185",
+      "osm_id": 10972035185,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.694077,
+      "lon": 26.0153699,
+      "tags": {
+        "amenity": "place_of_worship",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/11881151426",
+      "osm_id": 11881151426,
+      "osm_type": "node",
+      "name": "Erdei kápolna",
+      "category": "place_of_worship",
+      "lat": 45.9082328,
+      "lon": 25.6975727,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "chapel",
+        "inscription": "A kápolna legyen számunkra az, amire adatott, az imádság helye. Nem szabad más célra használni.",
+        "name": "Erdei kápolna",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/27739502",
+      "osm_id": 27739502,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.8979768,
+      "lon": 25.7890355,
+      "tags": {
+        "denomination": "protestant",
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/34698839",
+      "osm_id": 34698839,
+      "osm_type": "way",
+      "name": "Biserica Romano-Catolică \"Sfântul Iosif\"",
+      "category": "place_of_worship",
+      "lat": 45.8637655,
+      "lon": 25.785883,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "check_date": "2025-10-24",
+        "contact:facebook": "szentjozsefpb",
+        "contact:website": "https://szentjozsef.katolikussepsi.ro/",
+        "denomination": "roman_catholic",
+        "name": "Biserica Romano-Catolică \"Sfântul Iosif\"",
+        "name:hu": "Szent József római katolikus templom",
+        "religion": "christian",
+        "url:miserend": "https://miserend.hu/templom/3297",
+        "wikidata": "Q137163476"
+      }
+    },
+    {
+      "id": "way/59422897",
+      "osm_id": 59422897,
+      "osm_type": "way",
+      "name": "Biserica Fortificată Ghelința",
+      "category": "place_of_worship",
+      "lat": 45.9432967,
+      "lon": 26.2478577,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "contact:phone": "+40 752 137 587",
+        "denomination": "roman_catholic",
+        "historic": "building",
+        "name": "Biserica Fortificată Ghelința",
+        "name:en": "Szt. Imre Catholic Church XIII. c. UNESCO",
+        "name:hu": "római katolikus Szent Imre-templom",
+        "religion": "christian",
+        "tourism": "attraction",
+        "url:miserend": "https://miserend.hu/templom/3357"
+      }
+    },
+    {
+      "id": "way/142896795",
+      "osm_id": 142896795,
+      "osm_type": "way",
+      "name": "Biserica unitariană",
+      "category": "place_of_worship",
+      "lat": 45.8629415,
+      "lon": 25.7859984,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "protestant",
+        "name": "Biserica unitariană",
+        "name:hu": "Unitárius templom",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/142898169",
+      "osm_id": 142898169,
+      "osm_type": "way",
+      "name": "Catedrala Ortodoxă",
+      "category": "place_of_worship",
+      "lat": 45.8644815,
+      "lon": 25.787425,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Catedrala Ortodoxă",
+        "religion": "christian",
+        "wikidata": "Q137163591",
+        "wikipedia": "ro:Catedrala Ortodoxă din Sfântu Gheorghe"
+      }
+    },
+    {
+      "id": "way/143059483",
+      "osm_id": 143059483,
+      "osm_type": "way",
+      "name": "Vártemplom",
+      "category": "place_of_worship",
+      "lat": 45.8731274,
+      "lon": 25.7859646,
+      "tags": {
+        "addr:city": "Sfântu Gheorghe",
+        "addr:housenumber": "1",
+        "addr:street": "Strada Cetății",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "reformed",
+        "name": "Vártemplom",
+        "name:ro": "Cetatea Biserica Reformată",
+        "religion": "christian",
+        "tourism": "attraction",
+        "wikidata": "Q1287153",
+        "wikipedia": "ro:Biserica reformată din Sfântu Gheorghe"
+      }
+    },
+    {
+      "id": "way/143200143",
+      "osm_id": 143200143,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.8644704,
+      "lon": 25.8096866,
+      "tags": {
+        "building": "church"
+      }
+    },
+    {
+      "id": "way/143231847",
+      "osm_id": 143231847,
+      "osm_type": "way",
+      "name": "Biserica reformată din centru",
+      "category": "place_of_worship",
+      "lat": 45.8637139,
+      "lon": 25.7925804,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "check_date": "2025-10-24",
+        "denomination": "protestant",
+        "name": "Biserica reformată din centru",
+        "name:hu": "Belvárosi református templom",
+        "religion": "christian",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "id": "way/143979572",
+      "osm_id": 143979572,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.8605488,
+      "lon": 25.7712747,
+      "tags": {
+        "denomination": "protestant",
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/143982025",
+      "osm_id": 143982025,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.8570382,
+      "lon": 25.7751466,
+      "tags": {
+        "amenity": "grave_yard",
+        "denomination": "protestant",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/144129691",
+      "osm_id": 144129691,
+      "osm_type": "way",
+      "name": "Cimitirul Reformat",
+      "category": "place_of_worship",
+      "lat": 45.8734489,
+      "lon": 25.7834144,
+      "tags": {
+        "denomination": "protestant",
+        "landuse": "cemetery",
+        "name": "Cimitirul Reformat",
+        "name:hu": "Református temető",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/144297001",
+      "osm_id": 144297001,
+      "osm_type": "way",
+      "name": "Biserica evanghelică",
+      "category": "place_of_worship",
+      "lat": 45.8619194,
+      "lon": 25.7920143,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "check_date": "2025-10-24",
+        "denomination": "lutheran",
+        "name": "Biserica evanghelică",
+        "name:hu": "Evangélikus templom",
+        "religion": "christian",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "id": "way/144668367",
+      "osm_id": 144668367,
+      "osm_type": "way",
+      "name": "Biserica reformată",
+      "category": "place_of_worship",
+      "lat": 45.8571982,
+      "lon": 25.7753721,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "check_date": "2025-10-24",
+        "denomination": "protestant",
+        "name": "Biserica reformată",
+        "name:hu": "Szemerjai református templom",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/144668547",
+      "osm_id": 144668547,
+      "osm_type": "way",
+      "name": "Biserica Reformată",
+      "category": "place_of_worship",
+      "lat": 45.8920885,
+      "lon": 26.1874739,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "reformed",
+        "name": "Biserica Reformată",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/144718843",
+      "osm_id": 144718843,
+      "osm_type": "way",
+      "name": "Biserica Romano-Catolică \"Regele Cristos\"",
+      "category": "place_of_worship",
+      "lat": 45.8553867,
+      "lon": 25.7923831,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "check_date": "2025-10-24",
+        "denomination": "catholic",
+        "name": "Biserica Romano-Catolică \"Regele Cristos\"",
+        "name:hu": "Krisztus Király Római Katolokus Templom",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/144934134",
+      "osm_id": 144934134,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă \"Sfântul Gheorghe\"",
+      "category": "place_of_worship",
+      "lat": 45.869519,
+      "lon": 25.7822313,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă \"Sfântul Gheorghe\"",
+        "religion": "christian",
+        "wikidata": "Q18538039",
+        "wikipedia": "ro:Biserica Sfântul Gheorghe din Sfântu Gheorghe"
+      }
+    },
+    {
+      "id": "way/144936315",
+      "osm_id": 144936315,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.8697952,
+      "lon": 25.7820851,
+      "tags": {
+        "amenity": "grave_yard",
+        "denomination": "orthodox",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/144937719",
+      "osm_id": 144937719,
+      "osm_type": "way",
+      "name": "Biserica Catolică",
+      "category": "place_of_worship",
+      "lat": 45.8743674,
+      "lon": 25.7970067,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "check_date": "2025-10-27",
+        "denomination": "roman_catholic",
+        "name": "Biserica Catolică",
+        "name:hu": "Szent Gellért püspök templom",
+        "religion": "christian",
+        "url:miserend": "https://miserend.hu/templom/3291"
+      }
+    },
+    {
+      "id": "way/145444125",
+      "osm_id": 145444125,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.8484054,
+      "lon": 26.1656447,
+      "tags": {
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/145738105",
+      "osm_id": 145738105,
+      "osm_type": "way",
+      "name": "Biserica Barcani (1920)",
+      "category": "place_of_worship",
+      "lat": 45.6914967,
+      "lon": 26.0818015,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Barcani (1920)",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/145818826",
+      "osm_id": 145818826,
+      "osm_type": "way",
+      "name": "Biserica Lădăuți (1937)",
+      "category": "place_of_worship",
+      "lat": 45.7171288,
+      "lon": 26.0653245,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Lădăuți (1937)",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/146384631",
+      "osm_id": 146384631,
+      "osm_type": "way",
+      "name": "Catedrala Sfânta Treime Întorsura Buzăului (2008)",
+      "category": "place_of_worship",
+      "lat": 45.6712176,
+      "lon": 26.02842,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Catedrala Sfânta Treime Întorsura Buzăului (2008)",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/146386386",
+      "osm_id": 146386386,
+      "osm_type": "way",
+      "name": "Biserica de lemn",
+      "category": "place_of_worship",
+      "lat": 45.7379883,
+      "lon": 26.0358889,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica de lemn",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/146386407",
+      "osm_id": 146386407,
+      "osm_type": "way",
+      "name": "Mănăstirea Valea Mare",
+      "category": "place_of_worship",
+      "lat": 45.7376869,
+      "lon": 26.0356391,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Mănăstirea Valea Mare",
+        "religion": "christian",
+        "start_date": "1998"
+      }
+    },
+    {
+      "id": "way/146404245",
+      "osm_id": 146404245,
+      "osm_type": "way",
+      "name": "Biserica Nouă",
+      "category": "place_of_worship",
+      "lat": 45.6642643,
+      "lon": 26.0794575,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Nouă",
+        "religion": "christian",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "id": "way/146404264",
+      "osm_id": 146404264,
+      "osm_type": "way",
+      "name": "Biserica Sita Buzăului (1935)",
+      "category": "place_of_worship",
+      "lat": 45.6597044,
+      "lon": 26.0670886,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Sita Buzăului (1935)",
+        "religion": "christian",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "id": "way/150353392",
+      "osm_id": 150353392,
+      "osm_type": "way",
+      "name": "Biserica Reformată II Covasna",
+      "category": "place_of_worship",
+      "lat": 45.8519001,
+      "lon": 26.1833913,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "protestant",
+        "name": "Biserica Reformată II Covasna",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/150353394",
+      "osm_id": 150353394,
+      "osm_type": "way",
+      "name": "Biserica reformată I Covasna",
+      "category": "place_of_worship",
+      "lat": 45.844745,
+      "lon": 26.1656381,
+      "tags": {
+        "addr:city": "Covasna",
+        "addr:housenumber": "9",
+        "addr:postcode": "525200",
+        "addr:street": "Strada 1 Decembrie 1918",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "protestant",
+        "name": "Biserica reformată I Covasna",
+        "religion": "christian",
+        "source": "http://www.biserici.org/index.php?menu=BI&code=775",
+        "start_date": "1813"
+      }
+    },
+    {
+      "id": "way/150353395",
+      "osm_id": 150353395,
+      "osm_type": "way",
+      "name": "Biserica Sfântul Ștefan",
+      "category": "place_of_worship",
+      "lat": 45.8472733,
+      "lon": 26.1667755,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "catholic",
+        "name": "Biserica Sfântul Ștefan",
+        "name:hu": "Szent István király templom",
+        "religion": "christian",
+        "url:miserend": "https://miserend.hu/templom/3375"
+      }
+    },
+    {
+      "id": "way/150353396",
+      "osm_id": 150353396,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă „Înălțarea Domnului” Covasna",
+      "category": "place_of_worship",
+      "lat": 45.8523361,
+      "lon": 26.1885125,
+      "tags": {
+        "addr:city": "Covasna",
+        "addr:housenumber": "1",
+        "addr:postcode": "525200",
+        "addr:street": "Strada Mihai Eminescu",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "romanian_orthodox",
+        "description": "http://www.crestinortodox.ro/carti-ortodoxe/romanii-covasna-harghita/covasna-82264.html",
+        "is_in:country": "România",
+        "is_in:county": "Covasna",
+        "name": "Biserica Ortodoxă „Înălțarea Domnului” Covasna",
+        "religion": "christian",
+        "source": "http://www.biserici.org/index.php?menu=BI&code=7186",
+        "start_date": "1994",
+        "website": "http://protopopiatul-sfantugheorghe.ro/parohii/20-parohia-covasna-voinesti"
+      }
+    },
+    {
+      "id": "way/158316592",
+      "osm_id": 158316592,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.9994942,
+      "lon": 26.143778,
+      "tags": {
+        "denomination": "reformed",
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/171505985",
+      "osm_id": 171505985,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.8421806,
+      "lon": 25.9414372,
+      "tags": {
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/171505989",
+      "osm_id": 171505989,
+      "osm_type": "way",
+      "name": "Biserica Protestanta",
+      "category": "place_of_worship",
+      "lat": 45.8420604,
+      "lon": 25.940734,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "protestant",
+        "name": "Biserica Protestanta",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/172675086",
+      "osm_id": 172675086,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.8426192,
+      "lon": 25.9081275,
+      "tags": {
+        "amenity": "grave_yard",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/172675087",
+      "osm_id": 172675087,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.8423258,
+      "lon": 25.9079489,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "reformed",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/173066777",
+      "osm_id": 173066777,
+      "osm_type": "way",
+      "name": "Biserica Protestantă",
+      "category": "place_of_worship",
+      "lat": 45.9293128,
+      "lon": 25.7965464,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "protestant",
+        "name": "Biserica Protestantă",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/174461554",
+      "osm_id": 174461554,
+      "osm_type": "way",
+      "name": "Biserica Reformată",
+      "category": "place_of_worship",
+      "lat": 46.0010005,
+      "lon": 26.1369527,
+      "tags": {
+        "addr:city": "Târgu Secuiesc",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "reformed",
+        "name": "Biserica Reformată",
+        "name:hu": "Református templom",
+        "name:ro": "Biserica Reformată",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/174463437",
+      "osm_id": 174463437,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.9288535,
+      "lon": 25.7892891,
+      "tags": {
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/174463438",
+      "osm_id": 174463438,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.9292224,
+      "lon": 25.7965249,
+      "tags": {
+        "amenity": "grave_yard",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/174504935",
+      "osm_id": 174504935,
+      "osm_type": "way",
+      "name": "Biserica Adormirea Maicii Domnului",
+      "category": "place_of_worship",
+      "lat": 45.9038555,
+      "lon": 25.7703183,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica Adormirea Maicii Domnului",
+        "name:hu": "Istenszülő mennybevétele ortodox templom",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/174504936",
+      "osm_id": 174504936,
+      "osm_type": "way",
+      "name": "Biserica Unitariană Arcuș",
+      "category": "place_of_worship",
+      "lat": 45.900644,
+      "lon": 25.774932,
+      "tags": {
+        "addr:city": "Arcuș",
+        "addr:postcode": "527166",
+        "addr:street": "Benedek Elek",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "unitarian",
+        "name": "Biserica Unitariană Arcuș",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/174523252",
+      "osm_id": 174523252,
+      "osm_type": "way",
+      "name": "Biserica Reformată Arcuș",
+      "category": "place_of_worship",
+      "lat": 45.901178,
+      "lon": 25.7728468,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "protestant",
+        "name": "Biserica Reformată Arcuș",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/174748927",
+      "osm_id": 174748927,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă",
+      "category": "place_of_worship",
+      "lat": 45.9950849,
+      "lon": 26.1352659,
+      "tags": {
+        "addr:city": "Târgu Secuiesc",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/174775136",
+      "osm_id": 174775136,
+      "osm_type": "way",
+      "name": "Biserica reformată Zoltan",
+      "category": "place_of_worship",
+      "lat": 45.9219658,
+      "lon": 25.8528442,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "protestant",
+        "name": "Biserica reformată Zoltan",
+        "name:hu": "Étfalvazoltáni Református templom",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/174789119",
+      "osm_id": 174789119,
+      "osm_type": "way",
+      "name": "Biserica Protestantă",
+      "category": "place_of_worship",
+      "lat": 45.9294965,
+      "lon": 25.8458919,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "protestant",
+        "name": "Biserica Protestantă",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/174789127",
+      "osm_id": 174789127,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.9296348,
+      "lon": 25.8457713,
+      "tags": {
+        "amenity": "grave_yard",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/174789866",
+      "osm_id": 174789866,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.9201286,
+      "lon": 25.8535831,
+      "tags": {
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/174791870",
+      "osm_id": 174791870,
+      "osm_type": "way",
+      "name": "Biserica Reformată Ghidfălău",
+      "category": "place_of_worship",
+      "lat": 45.9017311,
+      "lon": 25.8399728,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "protestant",
+        "name": "Biserica Reformată Ghidfălău",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/174791874",
+      "osm_id": 174791874,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.9018646,
+      "lon": 25.8396848,
+      "tags": {
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/174792109",
+      "osm_id": 174792109,
+      "osm_type": "way",
+      "name": "Parohia Romano-Catolică Boldog Ozseb",
+      "category": "place_of_worship",
+      "lat": 45.9990245,
+      "lon": 26.1319778,
+      "tags": {
+        "addr:city": "Târgu Secuiesc",
+        "addr:postcode": "525400",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "roman_catholic",
+        "name": "Parohia Romano-Catolică Boldog Ozseb",
+        "name:hu": "Boldog Özséb Római Katolikus Plébánia",
+        "name:ro": "Parohia Romano-Catolică Boldog Ozseb",
+        "religion": "christian",
+        "url:miserend": "https://miserend.hu/templom/3374"
+      }
+    },
+    {
+      "id": "way/175909782",
+      "osm_id": 175909782,
+      "osm_type": "way",
+      "name": "Biserica Protestantă",
+      "category": "place_of_worship",
+      "lat": 45.9590475,
+      "lon": 25.8177815,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "protestant",
+        "name": "Biserica Protestantă",
+        "religion": "christian",
+        "roof:shape": "hipped"
+      }
+    },
+    {
+      "id": "way/175909802",
+      "osm_id": 175909802,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.9592344,
+      "lon": 25.8176204,
+      "tags": {
+        "amenity": "grave_yard",
+        "barrier": "wall",
+        "religion": "christian",
+        "wall:material": "stones"
+      }
+    },
+    {
+      "id": "way/177139234",
+      "osm_id": 177139234,
+      "osm_type": "way",
+      "name": "Biserica Gloria",
+      "category": "place_of_worship",
+      "lat": 45.997974,
+      "lon": 26.130636,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "unitarianism",
+        "name": "Biserica Gloria",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/178826227",
+      "osm_id": 178826227,
+      "osm_type": "way",
+      "name": "Biserica Reformată",
+      "category": "place_of_worship",
+      "lat": 45.7777557,
+      "lon": 25.8807774,
+      "tags": {
+        "addr:city": "Lisnău",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica Reformată",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/205833448",
+      "osm_id": 205833448,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.6675696,
+      "lon": 26.0229114,
+      "tags": {
+        "building": "church"
+      }
+    },
+    {
+      "id": "way/205833661",
+      "osm_id": 205833661,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.670287,
+      "lon": 26.0283009,
+      "tags": {
+        "building": "church"
+      }
+    },
+    {
+      "id": "way/237090824",
+      "osm_id": 237090824,
+      "osm_type": "way",
+      "name": "Biserica reformată",
+      "category": "place_of_worship",
+      "lat": 45.9774844,
+      "lon": 25.6097696,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "protestant",
+        "name": "Biserica reformată",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/264428749",
+      "osm_id": 264428749,
+      "osm_type": "way",
+      "name": "Szent József plébánia",
+      "category": "place_of_worship",
+      "lat": 45.862421,
+      "lon": 25.7856272,
+      "tags": {
+        "contact:facebook": "szentjozsefpb",
+        "contact:website": "https://szentjozsef.katolikussepsi.ro/",
+        "denomination": "catholic",
+        "landuse": "religious",
+        "name": "Szent József plébánia",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/301207941",
+      "osm_id": 301207941,
+      "osm_type": "way",
+      "name": "Biserica Protestantă din Vârghiș",
+      "category": "place_of_worship",
+      "lat": 46.1287303,
+      "lon": 25.5559725,
+      "tags": {
+        "amenity": "place_of_worship",
+        "architect": "Makovecz Imre, Kossuth- és Ybl Miklós-díjas építész, a Magyar Művészeti Akadémia alapítója, örökös tiszteletbeli elnöke",
+        "building": "yes",
+        "denomination": "protestant",
+        "name": "Biserica Protestantă din Vârghiș",
+        "name:hu": "Vargyas, evangélikus templom, Makovecz",
+        "religion": "christian",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "id": "way/334367101",
+      "osm_id": 334367101,
+      "osm_type": "way",
+      "name": "Református Presbiteriánus Gyülekezet / Károlyi Gáspár Alapítvány",
+      "category": "place_of_worship",
+      "lat": 45.863249,
+      "lon": 25.7982088,
+      "tags": {
+        "addr:city": "Sepsiszentgyörgy",
+        "addr:housenumber": "6",
+        "addr:street": "Strada Málik József",
+        "amenity": "place_of_worship",
+        "building": "house",
+        "denomination": "reformed",
+        "description": "Tiszta, Krisztus központú igehirdetések, az istentisztelet vasárnaponként 10-től református liturgiával folyik, a kötetlenebb bibliatanulmányozás pedig szerdánként 18 órától.  A Református Presbiteriánus Egyház (reformatus.net) gyülekezete tartja itt az a",
+        "name": "Református Presbiteriánus Gyülekezet / Károlyi Gáspár Alapítvány",
+        "name:en": "Reformed Presbyterian Church",
+        "name:hu": "Református Presbiteriánus Gyülekezet",
+        "name:ro": "Adunare Reformat Presbiterian",
+        "religion": "christian",
+        "service_times": "Vasárnap 10:00",
+        "url": "https://reformatus.net"
+      }
+    },
+    {
+      "id": "way/344752664",
+      "osm_id": 344752664,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.8938131,
+      "lon": 26.1943219,
+      "tags": {
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/344752665",
+      "osm_id": 344752665,
+      "osm_type": "way",
+      "name": "Biserica Romano-Catolică",
+      "category": "place_of_worship",
+      "lat": 45.8917038,
+      "lon": 26.1906477,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "roman_catholic",
+        "name": "Biserica Romano-Catolică",
+        "name:hu": "Szent Kereszt felmagasztalása templom",
+        "religion": "christian",
+        "url:miserend": "http://miserend.hu/?templom=3381"
+      }
+    },
+    {
+      "id": "way/344752666",
+      "osm_id": 344752666,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă",
+      "category": "place_of_worship",
+      "lat": 45.8900565,
+      "lon": 26.1955613,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/356295146",
+      "osm_id": 356295146,
+      "osm_type": "way",
+      "name": "Cimitir",
+      "category": "place_of_worship",
+      "lat": 46.0394775,
+      "lon": 26.2979519,
+      "tags": {
+        "landuse": "cemetery",
+        "name": "Cimitir",
+        "name:hu": "Temető",
+        "name:ro": "Cimitir",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/356295148",
+      "osm_id": 356295148,
+      "osm_type": "way",
+      "name": "Cimitir",
+      "category": "place_of_worship",
+      "lat": 46.0456646,
+      "lon": 26.3009926,
+      "tags": {
+        "landuse": "cemetery",
+        "name": "Cimitir",
+        "name:hu": "Temető",
+        "name:ro": "Cimitir",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/356295149",
+      "osm_id": 356295149,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 46.0179526,
+      "lon": 26.2948658,
+      "tags": {
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/362737850",
+      "osm_id": 362737850,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă „Izvorul Tămăduirii” Covasna",
+      "category": "place_of_worship",
+      "lat": 45.8433133,
+      "lon": 26.1806286,
+      "tags": {
+        "addr:city": "Covasna",
+        "addr:postcode": "525200",
+        "addr:street": "Strada Tóth",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "romanian_orthodox",
+        "is_in:country": "România",
+        "is_in:county": "Covasna",
+        "name": "Biserica Ortodoxă „Izvorul Tămăduirii” Covasna",
+        "religion": "christian",
+        "start_date": "2008",
+        "website": "http://protopopiatul-sfantugheorghe.ro/parohii/19-parohia-covasna-statiune"
+      }
+    },
+    {
+      "id": "way/379543892",
+      "osm_id": 379543892,
+      "osm_type": "way",
+      "name": "Biserica Romano-Catolică",
+      "category": "place_of_worship",
+      "lat": 46.0773636,
+      "lon": 26.2357718,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "roman_catholic",
+        "name": "Biserica Romano-Catolică",
+        "name:hu": "Urunk mennybemenetele templom",
+        "religion": "christian",
+        "url:miserend": "http://miserend.hu/?templom=3364"
+      }
+    },
+    {
+      "id": "way/379556404",
+      "osm_id": 379556404,
+      "osm_type": "way",
+      "name": "Urunk mennybemenetele templom",
+      "category": "place_of_worship",
+      "lat": 45.8000801,
+      "lon": 25.847353,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "roman_catholic",
+        "name": "Urunk mennybemenetele templom",
+        "name:hu": "Urunk mennybemenetele templom",
+        "religion": "christian",
+        "url:miserend": "http://miserend.hu/?templom=3338"
+      }
+    },
+    {
+      "id": "way/379749106",
+      "osm_id": 379749106,
+      "osm_type": "way",
+      "name": "Capela Sfinții Apostoli Petru și Pavel",
+      "category": "place_of_worship",
+      "lat": 46.1035897,
+      "lon": 26.2014197,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "chapel",
+        "denomination": "roman_catholic",
+        "name": "Capela Sfinții Apostoli Petru și Pavel",
+        "name:hu": "Szent Péter és Pál apostolok kápolna",
+        "religion": "christian",
+        "url:miserend": "http://miserend.hu/?templom=3352"
+      }
+    },
+    {
+      "id": "way/380143512",
+      "osm_id": 380143512,
+      "osm_type": "way",
+      "name": "Biserica Sfântul Ioan Nepomuk",
+      "category": "place_of_worship",
+      "lat": 45.9299539,
+      "lon": 26.2039292,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "roman_catholic",
+        "name": "Biserica Sfântul Ioan Nepomuk",
+        "name:hu": "Nepomuki Szent János templom",
+        "religion": "christian",
+        "url:miserend": "http://miserend.hu/?templom=3358"
+      }
+    },
+    {
+      "id": "way/381785925",
+      "osm_id": 381785925,
+      "osm_type": "way",
+      "name": "Biserica Sfântul Mihail",
+      "category": "place_of_worship",
+      "lat": 46.0664745,
+      "lon": 26.247963,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "roman_catholic",
+        "name": "Biserica Sfântul Mihail",
+        "name:hu": "Szent Mihály arkangyal templom",
+        "religion": "christian",
+        "url:miserend": "http://miserend.hu/?templom=3376"
+      }
+    },
+    {
+      "id": "way/381826153",
+      "osm_id": 381826153,
+      "osm_type": "way",
+      "name": "Biserica Sfântul Nicolae",
+      "category": "place_of_worship",
+      "lat": 46.0440546,
+      "lon": 26.3017523,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "roman_catholic",
+        "name": "Biserica Sfântul Nicolae",
+        "name:hu": "Szent Miklós püspök templom",
+        "religion": "christian",
+        "url:miserend": "http://miserend.hu/?templom=3350"
+      }
+    },
+    {
+      "id": "way/381826155",
+      "osm_id": 381826155,
+      "osm_type": "way",
+      "name": "Biserica Sfântul Nicolae",
+      "category": "place_of_worship",
+      "lat": 46.0080966,
+      "lon": 25.5807686,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "roman_catholic",
+        "name": "Biserica Sfântul Nicolae",
+        "name:hu": "Szent Miklós templom",
+        "religion": "christian",
+        "url:miserend": "http://miserend.hu/?templom=3274"
+      }
+    },
+    {
+      "id": "way/381826156",
+      "osm_id": 381826156,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 46.0239502,
+      "lon": 26.0705781,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "roman_catholic",
+        "name:hu": "Szent Miklós-templom",
+        "religion": "christian",
+        "url:miserend": "http://miserend.hu/?templom=3348"
+      }
+    },
+    {
+      "id": "way/384192441",
+      "osm_id": 384192441,
+      "osm_type": "way",
+      "name": "Biserica Sfinții Simon și Iuda",
+      "category": "place_of_worship",
+      "lat": 46.0899811,
+      "lon": 26.2096438,
+      "tags": {
+        "addr:city": "Estelnic",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "roman_catholic",
+        "name": "Biserica Sfinții Simon și Iuda",
+        "name:hu": "Szent Simon és Júdás apostolok-templom",
+        "name:ro": "Biserica Sfinții Simon și Iuda",
+        "religion": "christian",
+        "url:miserend": "http://miserend.hu/?templom=3351",
+        "wikidata": "Q991744",
+        "wikipedia": "hu:Esztelneki római katolikus templom"
+      }
+    },
+    {
+      "id": "way/387596054",
+      "osm_id": 387596054,
+      "osm_type": "way",
+      "name": "Biserica Sfânta Elisabeta",
+      "category": "place_of_worship",
+      "lat": 46.0933567,
+      "lon": 26.2317123,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "chapel",
+        "denomination": "catholic",
+        "name": "Biserica Sfânta Elisabeta",
+        "name:hu": "Árpádházi Szent Erzsébet kápolna",
+        "religion": "christian",
+        "url:miserend": "http://miserend.hu/?templom=3365"
+      }
+    },
+    {
+      "id": "way/405310229",
+      "osm_id": 405310229,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 46.0666124,
+      "lon": 26.2480813,
+      "tags": {
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/409070346",
+      "osm_id": 409070346,
+      "osm_type": "way",
+      "name": "Biserica Romano-Catolică Bixad",
+      "category": "place_of_worship",
+      "lat": 46.1023471,
+      "lon": 25.8595775,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "roman_catholic",
+        "name": "Biserica Romano-Catolică Bixad",
+        "name:hu": "Nagyboldogasszony templom",
+        "religion": "christian",
+        "roof:height": "5",
+        "roof:shape": "hipped",
+        "start_date": "1757",
+        "url:miserend": "https://miserend.hu/templom/3276"
+      }
+    },
+    {
+      "id": "way/414335518",
+      "osm_id": 414335518,
+      "osm_type": "way",
+      "name": "Biserica Romano-Catolică",
+      "category": "place_of_worship",
+      "lat": 45.9415009,
+      "lon": 26.2308639,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "catholic",
+        "name": "Biserica Romano-Catolică",
+        "name:hu": "Romai Katolikus Templom",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/415553705",
+      "osm_id": 415553705,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 46.1078857,
+      "lon": 25.9607897,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "chapel",
+        "denomination": "roman_catholic",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/420551981",
+      "osm_id": 420551981,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă Nouă",
+      "category": "place_of_worship",
+      "lat": 46.0995781,
+      "lon": 25.8685483,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă Nouă",
+        "name:hu": "Új ortodox templom",
+        "religion": "christian",
+        "start_date": "1933"
+      }
+    },
+    {
+      "id": "way/420551982",
+      "osm_id": 420551982,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă Veche",
+      "category": "place_of_worship",
+      "lat": 46.1019725,
+      "lon": 25.8688925,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica Ortodoxă Veche",
+        "name:hu": "Régi ortodox templom",
+        "religion": "christian",
+        "start_date": "1900"
+      }
+    },
+    {
+      "id": "way/436203273",
+      "osm_id": 436203273,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.7604671,
+      "lon": 25.8764229,
+      "tags": {
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/436334786",
+      "osm_id": 436334786,
+      "osm_type": "way",
+      "name": "Cimitir",
+      "category": "place_of_worship",
+      "lat": 45.7637791,
+      "lon": 26.2804242,
+      "tags": {
+        "landuse": "cemetery",
+        "name": "Cimitir",
+        "name:hu": "Temető",
+        "name:ro": "Cimitir",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/459285535",
+      "osm_id": 459285535,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă",
+      "category": "place_of_worship",
+      "lat": 45.7595386,
+      "lon": 25.873743,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/459285536",
+      "osm_id": 459285536,
+      "osm_type": "way",
+      "name": "Biserica Ungurească",
+      "category": "place_of_worship",
+      "lat": 45.7606766,
+      "lon": 25.8765574,
+      "tags": {
+        "addr:city": "Bicfalău",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "reformed",
+        "name": "Biserica Ungurească",
+        "name:hu": "Reformatus Templom",
+        "name:ro": "Biserica Reformată",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/555187370",
+      "osm_id": 555187370,
+      "osm_type": "way",
+      "name": "Biserica Reformată Zagon",
+      "category": "place_of_worship",
+      "lat": 45.7673997,
+      "lon": 26.1120453,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "reformed",
+        "name": "Biserica Reformată Zagon",
+        "name:hu": "Zágon Református Templom",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/555187371",
+      "osm_id": 555187371,
+      "osm_type": "way",
+      "name": "Biserica Romano-Catolică",
+      "category": "place_of_worship",
+      "lat": 45.7667847,
+      "lon": 26.1097077,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "roman_catholic",
+        "name": "Biserica Romano-Catolică",
+        "name:hu": "Kisboldogasszony-templom",
+        "religion": "christian",
+        "service_times": "Su 11:00",
+        "url:miserend": "https://miserend.hu/templom/3382"
+      }
+    },
+    {
+      "id": "way/555187374",
+      "osm_id": 555187374,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă Sfântul Nicolae",
+      "category": "place_of_worship",
+      "lat": 45.7704432,
+      "lon": 26.1295473,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă Sfântul Nicolae",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/555187375",
+      "osm_id": 555187375,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă Sfânta Paraschiva",
+      "category": "place_of_worship",
+      "lat": 45.770006,
+      "lon": 26.1289771,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă Sfânta Paraschiva",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/555187387",
+      "osm_id": 555187387,
+      "osm_type": "way",
+      "name": "Cimitirul Ortodox",
+      "category": "place_of_worship",
+      "lat": 45.7752951,
+      "lon": 26.1301198,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitirul Ortodox",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/555198925",
+      "osm_id": 555198925,
+      "osm_type": "way",
+      "name": "Cimitirul Catolic",
+      "category": "place_of_worship",
+      "lat": 45.7730428,
+      "lon": 26.0986686,
+      "tags": {
+        "denomination": "catholic",
+        "landuse": "cemetery",
+        "name": "Cimitirul Catolic",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/555198927",
+      "osm_id": 555198927,
+      "osm_type": "way",
+      "name": "Cimitirul Romano-Catolic",
+      "category": "place_of_worship",
+      "lat": 45.7772865,
+      "lon": 26.0949866,
+      "tags": {
+        "denomination": "roman_catholic",
+        "landuse": "cemetery",
+        "name": "Cimitirul Romano-Catolic",
+        "name:hu": "Római katolikus temető",
+        "name:ro": "Cimitirul Romano-Catolic",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/555198930",
+      "osm_id": 555198930,
+      "osm_type": "way",
+      "name": "Cimitirul Reformat",
+      "category": "place_of_worship",
+      "lat": 45.7770299,
+      "lon": 26.0954907,
+      "tags": {
+        "denomination": "reformed",
+        "landuse": "cemetery",
+        "name": "Cimitirul Reformat",
+        "name:hu": "Református temető",
+        "name:ro": "Cimitirul Reformat",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/561432463",
+      "osm_id": 561432463,
+      "osm_type": "way",
+      "name": "Biserica Romano-Catolică",
+      "category": "place_of_worship",
+      "lat": 45.9716714,
+      "lon": 26.2339103,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "roman_catholic",
+        "name": "Biserica Romano-Catolică",
+        "name:hu": "Keresztelő Szent János-templom",
+        "religion": "christian",
+        "url:miserend": "https://miserend.hu/templom/3359"
+      }
+    },
+    {
+      "id": "way/561432477",
+      "osm_id": 561432477,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă Ojdula",
+      "category": "place_of_worship",
+      "lat": 45.9803283,
+      "lon": 26.2653473,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă Ojdula",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/561432480",
+      "osm_id": 561432480,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.9860746,
+      "lon": 26.2614662,
+      "tags": {
+        "building": "church"
+      }
+    },
+    {
+      "id": "way/565093650",
+      "osm_id": 565093650,
+      "osm_type": "way",
+      "name": "Biserica Reformată Păpăuți",
+      "category": "place_of_worship",
+      "lat": 45.7885225,
+      "lon": 26.1322512,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "reformed",
+        "name": "Biserica Reformată Păpăuți",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/565093672",
+      "osm_id": 565093672,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă Păpăuți",
+      "category": "place_of_worship",
+      "lat": 45.7904316,
+      "lon": 26.1443834,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă Păpăuți",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/565093674",
+      "osm_id": 565093674,
+      "osm_type": "way",
+      "name": "Biserica de lemn Păpăuți (construită din vara anului 1750)",
+      "category": "place_of_worship",
+      "lat": 45.7870861,
+      "lon": 26.1468723,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica de lemn Păpăuți (construită din vara anului 1750)",
+        "name:hu": "Szent Paraszkiva ortodox fatemplom",
+        "religion": "christian",
+        "wikipedia": "hu:Szent Paraszkiva-fatemplom (Papolc)"
+      }
+    },
+    {
+      "id": "way/565093679",
+      "osm_id": 565093679,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.7879733,
+      "lon": 26.1375169,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "chapel",
+        "denomination": "roman_catholic",
+        "fixme": "verify",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/606172797",
+      "osm_id": 606172797,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.8368855,
+      "lon": 26.0285831,
+      "tags": {
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/606488173",
+      "osm_id": 606488173,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.7527987,
+      "lon": 26.2794074,
+      "tags": {
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/606500660",
+      "osm_id": 606500660,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.8859734,
+      "lon": 26.2004621,
+      "tags": {
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/606508681",
+      "osm_id": 606508681,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.8921388,
+      "lon": 26.110597,
+      "tags": {
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/606508685",
+      "osm_id": 606508685,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.9187972,
+      "lon": 26.1442381,
+      "tags": {
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/606508686",
+      "osm_id": 606508686,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.9188934,
+      "lon": 26.1438603,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "roman_catholic",
+        "name:hu": "Assisi Szent Ferenc-templom",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/607784400",
+      "osm_id": 607784400,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.8173721,
+      "lon": 26.0058025,
+      "tags": {
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/607784428",
+      "osm_id": 607784428,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.8398999,
+      "lon": 26.0705532,
+      "tags": {
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/625141460",
+      "osm_id": 625141460,
+      "osm_type": "way",
+      "name": "Biserica Reformată-Calvină",
+      "category": "place_of_worship",
+      "lat": 45.8633231,
+      "lon": 25.9569849,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "reformed",
+        "name": "Biserica Reformată-Calvină",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/638614489",
+      "osm_id": 638614489,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 46.0145435,
+      "lon": 26.1332358,
+      "tags": {
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/654452227",
+      "osm_id": 654452227,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă Brețcu",
+      "category": "place_of_worship",
+      "lat": 46.0395587,
+      "lon": 26.2998945,
+      "tags": {
+        "addr:city": "Brețcu",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă Brețcu",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/662009393",
+      "osm_id": 662009393,
+      "osm_type": "way",
+      "name": "Biserica Sfântul Adalbert",
+      "category": "place_of_worship",
+      "lat": 46.0754745,
+      "lon": 25.5989145,
+      "tags": {
+        "addr:city": "Baraolt",
+        "addr:housenumber": "142",
+        "addr:postcode": "525100",
+        "addr:street": "Strada Kossuth Lajos",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "building:colour": "grey",
+        "building:colour_1": "light_blue",
+        "building:levels": "2",
+        "denomination": "roman_catholic",
+        "description:hu": "Erődtemplom",
+        "name": "Biserica Sfântul Adalbert",
+        "name:hu": "Szent Adalbert-templom (erődtemplom)",
+        "phone": "+40 267 377751",
+        "religion": "christian",
+        "roof:colour": "red",
+        "roof:shape": "hipped",
+        "url:miserend": "https://miserend.hu/templom/3170"
+      }
+    },
+    {
+      "id": "way/676660852",
+      "osm_id": 676660852,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 46.050147,
+      "lon": 25.8328851,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "romanian_orthodox",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/680084972",
+      "osm_id": 680084972,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 46.0062739,
+      "lon": 25.8388927,
+      "tags": {
+        "building": "church",
+        "building:levels": "1",
+        "roof:height": "5",
+        "roof:shape": "hipped"
+      }
+    },
+    {
+      "id": "way/763488780",
+      "osm_id": 763488780,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.9063205,
+      "lon": 25.8685242,
+      "tags": {
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/764280293",
+      "osm_id": 764280293,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.8580308,
+      "lon": 26.046124,
+      "tags": {
+        "cemetery": "grave_yard",
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/764280294",
+      "osm_id": 764280294,
+      "osm_type": "way",
+      "name": "Biserica Protestantă",
+      "category": "place_of_worship",
+      "lat": 45.8579883,
+      "lon": 26.0456931,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "protestant",
+        "name": "Biserica Protestantă",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/765269809",
+      "osm_id": 765269809,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.8959499,
+      "lon": 25.8702272,
+      "tags": {
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/765269811",
+      "osm_id": 765269811,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.8580834,
+      "lon": 26.0225056,
+      "tags": {
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/765936392",
+      "osm_id": 765936392,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.8245907,
+      "lon": 26.1108956,
+      "tags": {
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/766443356",
+      "osm_id": 766443356,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.8786737,
+      "lon": 26.1879837,
+      "tags": {
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/766598218",
+      "osm_id": 766598218,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 46.0826357,
+      "lon": 26.1147045,
+      "tags": {
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/766603793",
+      "osm_id": 766603793,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 46.0228602,
+      "lon": 26.0721907,
+      "tags": {
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/766603795",
+      "osm_id": 766603795,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 46.0236028,
+      "lon": 26.070779,
+      "tags": {
+        "cemetery": "grave_yard",
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/766622806",
+      "osm_id": 766622806,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 46.0163694,
+      "lon": 26.0229327,
+      "tags": {
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/766622807",
+      "osm_id": 766622807,
+      "osm_type": "way",
+      "name": "Szent András-templom",
+      "category": "place_of_worship",
+      "lat": 46.01679,
+      "lon": 26.0248432,
+      "tags": {
+        "addr:city": "Alungeni",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "roman_catholic",
+        "name": "Szent András-templom",
+        "name:hu": "Szent András-templom",
+        "religion": "christian",
+        "url:miserend": "https://miserend.hu/templom/3355"
+      }
+    },
+    {
+      "id": "way/766622820",
+      "osm_id": 766622820,
+      "osm_type": "way",
+      "name": "Biserica reformată",
+      "category": "place_of_worship",
+      "lat": 45.9785733,
+      "lon": 26.0107121,
+      "tags": {
+        "addr:city": "Cernat",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "reformed",
+        "name": "Biserica reformată",
+        "name:hu": "Református templom",
+        "name:ro": "Biserica reformată",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/766622823",
+      "osm_id": 766622823,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.9779057,
+      "lon": 26.0222031,
+      "tags": {
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/766622831",
+      "osm_id": 766622831,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.9701107,
+      "lon": 26.023988,
+      "tags": {
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/766622834",
+      "osm_id": 766622834,
+      "osm_type": "way",
+      "name": "Biserica reformată fortificată",
+      "category": "place_of_worship",
+      "lat": 45.9630912,
+      "lon": 26.0246257,
+      "tags": {
+        "addr:city": "Cernat",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "reformed",
+        "name": "Biserica reformată fortificată",
+        "name:hu": "Református erődtemplom",
+        "name:ro": "Biserica reformată fortificată",
+        "religion": "christian",
+        "wikidata": "Q663835",
+        "wikipedia": "hu:Alsócsernátoni református templom"
+      }
+    },
+    {
+      "id": "way/766635504",
+      "osm_id": 766635504,
+      "osm_type": "way",
+      "name": "Biserica Romano-Catolică",
+      "category": "place_of_worship",
+      "lat": 45.9638394,
+      "lon": 26.0261566,
+      "tags": {
+        "addr:city": "Cernat",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "roman_catholic",
+        "name": "Biserica Romano-Catolică",
+        "name:hu": "Urunk színeváltozása-templom",
+        "religion": "christian",
+        "url:miserend": "https://miserend.hu/templom/3344"
+      }
+    },
+    {
+      "id": "way/766804848",
+      "osm_id": 766804848,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.9415384,
+      "lon": 26.0049532,
+      "tags": {
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/766804870",
+      "osm_id": 766804870,
+      "osm_type": "way",
+      "name": "Biserica Protestantă",
+      "category": "place_of_worship",
+      "lat": 45.9349435,
+      "lon": 26.0057805,
+      "tags": {
+        "addr:city": "Albiș",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "protestant",
+        "name": "Biserica Protestantă",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/767428875",
+      "osm_id": 767428875,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.9303937,
+      "lon": 26.203728,
+      "tags": {
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/767441285",
+      "osm_id": 767441285,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.9342233,
+      "lon": 26.2270606,
+      "tags": {
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/767461865",
+      "osm_id": 767461865,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.9721468,
+      "lon": 26.2392161,
+      "tags": {
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/767461868",
+      "osm_id": 767461868,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.9714557,
+      "lon": 26.2386819,
+      "tags": {
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/767765157",
+      "osm_id": 767765157,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 46.0903404,
+      "lon": 26.2099209,
+      "tags": {
+        "cemetery": "grave_yard",
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/767765191",
+      "osm_id": 767765191,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 46.094411,
+      "lon": 26.2301735,
+      "tags": {
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/767793527",
+      "osm_id": 767793527,
+      "osm_type": "way",
+      "name": "Biserica Franciscană",
+      "category": "place_of_worship",
+      "lat": 46.1045768,
+      "lon": 26.2077392,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "roman_catholic",
+        "name": "Biserica Franciscană",
+        "name:hu": "Szent György vértanú-templom",
+        "religion": "christian",
+        "url:miserend": "https://miserend.hu/?templom=3353"
+      }
+    },
+    {
+      "id": "way/768129628",
+      "osm_id": 768129628,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 46.024555,
+      "lon": 26.2190727,
+      "tags": {
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/768129633",
+      "osm_id": 768129633,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.9988407,
+      "lon": 26.1642498,
+      "tags": {
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/768155880",
+      "osm_id": 768155880,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.9957212,
+      "lon": 26.140236,
+      "tags": {
+        "denomination": "reformed",
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/768426492",
+      "osm_id": 768426492,
+      "osm_type": "way",
+      "name": "Biserica Reformată-Calvină",
+      "category": "place_of_worship",
+      "lat": 45.9956762,
+      "lon": 26.1583003,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "reformed",
+        "name": "Biserica Reformată-Calvină",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/768739548",
+      "osm_id": 768739548,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.8371877,
+      "lon": 25.9756524,
+      "tags": {
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/768739563",
+      "osm_id": 768739563,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.8718046,
+      "lon": 25.9661491,
+      "tags": {
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/768845625",
+      "osm_id": 768845625,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 46.0694406,
+      "lon": 26.1638402,
+      "tags": {
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/768845626",
+      "osm_id": 768845626,
+      "osm_type": "way",
+      "name": "Biserica Romano-Catolică",
+      "category": "place_of_worship",
+      "lat": 46.0703805,
+      "lon": 26.1616062,
+      "tags": {
+        "addr:city": "Poian",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "roman_catholic",
+        "name": "Biserica Romano-Catolică",
+        "name:hu": "Szent Kereszt megtalálása-templo",
+        "religion": "christian",
+        "url:miserend": "https://miserend.hu/templom/3370"
+      }
+    },
+    {
+      "id": "way/768845628",
+      "osm_id": 768845628,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 46.0705917,
+      "lon": 26.161634,
+      "tags": {
+        "cemetery": "grave_yard",
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/768845629",
+      "osm_id": 768845629,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 46.0704426,
+      "lon": 26.1620105,
+      "tags": {
+        "cemetery": "grave_yard",
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/768845630",
+      "osm_id": 768845630,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 46.0702199,
+      "lon": 26.1615502,
+      "tags": {
+        "cemetery": "grave_yard",
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/769137750",
+      "osm_id": 769137750,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.7372034,
+      "lon": 25.8751673,
+      "tags": {
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/769606239",
+      "osm_id": 769606239,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.8042503,
+      "lon": 25.8546605,
+      "tags": {
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/769907311",
+      "osm_id": 769907311,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.7920408,
+      "lon": 26.1330878,
+      "tags": {
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/770706284",
+      "osm_id": 770706284,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.8145912,
+      "lon": 25.9688287,
+      "tags": {
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/772015597",
+      "osm_id": 772015597,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă Băcel",
+      "category": "place_of_worship",
+      "lat": 45.7581068,
+      "lon": 25.8234924,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă Băcel",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/781622665",
+      "osm_id": 781622665,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.8633937,
+      "lon": 25.9571178,
+      "tags": {
+        "amenity": "grave_yard",
+        "denomination": "reformed",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/781655964",
+      "osm_id": 781655964,
+      "osm_type": "way",
+      "name": "Biserica Reformată",
+      "category": "place_of_worship",
+      "lat": 45.8351969,
+      "lon": 25.9753132,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "reformed",
+        "name": "Biserica Reformată",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/782272609",
+      "osm_id": 782272609,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.8250288,
+      "lon": 25.8718674,
+      "tags": {
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/785888645",
+      "osm_id": 785888645,
+      "osm_type": "way",
+      "name": "Biserica Reformata",
+      "category": "place_of_worship",
+      "lat": 45.7992975,
+      "lon": 25.8474299,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "reformed",
+        "name": "Biserica Reformata",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/785888647",
+      "osm_id": 785888647,
+      "osm_type": "way",
+      "name": "Biserica Nașterea Maicii Domnului",
+      "category": "place_of_worship",
+      "lat": 45.8019687,
+      "lon": 25.85422,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica Nașterea Maicii Domnului",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/789721541",
+      "osm_id": 789721541,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 46.1038384,
+      "lon": 26.2018031,
+      "tags": {
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/790569501",
+      "osm_id": 790569501,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 46.0835648,
+      "lon": 26.1827098,
+      "tags": {
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/790569503",
+      "osm_id": 790569503,
+      "osm_type": "way",
+      "name": "Biserica Catolică",
+      "category": "place_of_worship",
+      "lat": 46.0831072,
+      "lon": 26.1824423,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "roman_catholic",
+        "name": "Biserica Catolică",
+        "name:hu": "Szent Adalbert pülpök és vértanú templom",
+        "religion": "christian",
+        "url:miserend": "https://miserend.hu/templom/3349"
+      }
+    },
+    {
+      "id": "way/790618973",
+      "osm_id": 790618973,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.9855417,
+      "lon": 26.263172,
+      "tags": {
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/793252791",
+      "osm_id": 793252791,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.9371294,
+      "lon": 25.790228,
+      "tags": {
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/793252798",
+      "osm_id": 793252798,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.9296549,
+      "lon": 25.7966963,
+      "tags": {
+        "amenity": "grave_yard",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/793423076",
+      "osm_id": 793423076,
+      "osm_type": "way",
+      "name": "Biserica Reformată",
+      "category": "place_of_worship",
+      "lat": 46.1048406,
+      "lon": 25.5880541,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "reformed",
+        "name": "Biserica Reformată",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/816609056",
+      "osm_id": 816609056,
+      "osm_type": "way",
+      "name": "Vártemplom",
+      "category": "place_of_worship",
+      "lat": 45.7977864,
+      "lon": 25.7688704,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "reformed",
+        "name": "Vártemplom",
+        "name:ro": "biserică fortificată",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/816609057",
+      "osm_id": 816609057,
+      "osm_type": "way",
+      "name": "Fundatia Diaconica KIDA",
+      "category": "place_of_worship",
+      "lat": 45.7971584,
+      "lon": 25.7685218,
+      "tags": {
+        "addr:city": "Ilieni",
+        "addr:housenumber": "403",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "christian",
+        "name": "Fundatia Diaconica KIDA",
+        "name:en": "Christian Foundation for Youth and Deacony",
+        "name:hu": "Keresztény Ifjúsági és Diakóniai Alapítvány -KIDA",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/875408798",
+      "osm_id": 875408798,
+      "osm_type": "way",
+      "name": "Biserica Fortificată",
+      "category": "place_of_worship",
+      "lat": 45.9650343,
+      "lon": 25.5647638,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "unitarian",
+        "name": "Biserica Fortificată",
+        "name:hu": "Unitárius vártemplom",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/875408799",
+      "osm_id": 875408799,
+      "osm_type": "way",
+      "name": "Biserica Reformată",
+      "category": "place_of_worship",
+      "lat": 45.9677111,
+      "lon": 25.5629906,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "reformed",
+        "name": "Biserica Reformată",
+        "name:hu": "Református templom",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/905043493",
+      "osm_id": 905043493,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 46.1261473,
+      "lon": 25.6132775,
+      "tags": {
+        "denomination": "lutheran",
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/905047581",
+      "osm_id": 905047581,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 46.1461145,
+      "lon": 25.6196438,
+      "tags": {
+        "denomination": "lutheran",
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/909586323",
+      "osm_id": 909586323,
+      "osm_type": "way",
+      "name": "Biserica Catolică",
+      "category": "place_of_worship",
+      "lat": 45.8539286,
+      "lon": 25.6847366,
+      "tags": {
+        "addr:city": "Vâlcele",
+        "addr:housenumber": "154",
+        "addr:postcode": "527175",
+        "amenity": "place_of_worship",
+        "denomination": "roman_catholic",
+        "name": "Biserica Catolică",
+        "name:hu": "Szent Kereszt felmagasztalása templom",
+        "religion": "christian",
+        "url:miserend": "https://miserend.hu/templom/3298"
+      }
+    },
+    {
+      "id": "way/910350789",
+      "osm_id": 910350789,
+      "osm_type": "way",
+      "name": "Biserica Romano-Catolică",
+      "category": "place_of_worship",
+      "lat": 46.012006,
+      "lon": 25.7528956,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "roman_catholic",
+        "name": "Biserica Romano-Catolică",
+        "name:hu": "Kisboldogasszony-templom",
+        "religion": "christian",
+        "url:miserend": "https://miserend.hu/?templom=3269"
+      }
+    },
+    {
+      "id": "way/910448235",
+      "osm_id": 910448235,
+      "osm_type": "way",
+      "name": "Biserica Reformată",
+      "category": "place_of_worship",
+      "lat": 46.0922198,
+      "lon": 25.6923484,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "reformed",
+        "name": "Biserica Reformată",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/910448236",
+      "osm_id": 910448236,
+      "osm_type": "way",
+      "name": "Biserica Romano-Catolică",
+      "category": "place_of_worship",
+      "lat": 46.0898376,
+      "lon": 25.6933001,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "roman_catholic",
+        "name": "Biserica Romano-Catolică",
+        "name:hu": "Jézus Szent Szíve templom",
+        "religion": "christian",
+        "url:miserend": "https://miserend.hu/templom/3257"
+      }
+    },
+    {
+      "id": "way/910595318",
+      "osm_id": 910595318,
+      "osm_type": "way",
+      "name": "Biserica Romano-Catolică",
+      "category": "place_of_worship",
+      "lat": 45.9398367,
+      "lon": 26.166097,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "roman_catholic",
+        "name": "Biserica Romano-Catolică",
+        "name:hu": "Kisboldogasszony templom",
+        "religion": "christian",
+        "url:miserend": "https://miserend.hu/templom/3360"
+      }
+    },
+    {
+      "id": "way/913992755",
+      "osm_id": 913992755,
+      "osm_type": "way",
+      "name": "Biserica Romano-Catolică",
+      "category": "place_of_worship",
+      "lat": 46.1238273,
+      "lon": 25.5596052,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "chapel",
+        "denomination": "roman_catholic",
+        "name": "Biserica Romano-Catolică",
+        "name:hu": "Páduai Szent Antal templom",
+        "religion": "christian",
+        "url:miserend": "https://miserend.hu/templom/3258"
+      }
+    },
+    {
+      "id": "way/914311951",
+      "osm_id": 914311951,
+      "osm_type": "way",
+      "name": "Biserica Romano-Catolică",
+      "category": "place_of_worship",
+      "lat": 46.0541901,
+      "lon": 25.8343033,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "roman_catholic",
+        "name": "Biserica Romano-Catolică",
+        "name:hu": "Szent István király templom",
+        "religion": "christian",
+        "url:miserend": "https://miserend.hu/templom/3275"
+      }
+    },
+    {
+      "id": "way/915101726",
+      "osm_id": 915101726,
+      "osm_type": "way",
+      "name": "Biserica Reformată",
+      "category": "place_of_worship",
+      "lat": 45.914718,
+      "lon": 26.0613416,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "reformed",
+        "name": "Biserica Reformată",
+        "name:hu": "Református templom",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/915136146",
+      "osm_id": 915136146,
+      "osm_type": "way",
+      "name": "Biserica Romano-Catolică",
+      "category": "place_of_worship",
+      "lat": 45.9307128,
+      "lon": 26.0533469,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "roman_catholic",
+        "name": "Biserica Romano-Catolică",
+        "name:hu": "Szent Márk evangélista templom",
+        "religion": "christian",
+        "url:miserend": "https://miserend.hu/templom/3346"
+      }
+    },
+    {
+      "id": "way/915222701",
+      "osm_id": 915222701,
+      "osm_type": "way",
+      "name": "Biserica Romano-Catolică",
+      "category": "place_of_worship",
+      "lat": 46.0841037,
+      "lon": 26.1176063,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "roman_catholic",
+        "name": "Biserica Romano-Catolică",
+        "name:hu": "Szent Bertalan apostol-templom",
+        "religion": "christian",
+        "url:miserend": "https://miserend.hu/templom/3369"
+      }
+    },
+    {
+      "id": "way/916013768",
+      "osm_id": 916013768,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă",
+      "category": "place_of_worship",
+      "lat": 45.7731617,
+      "lon": 25.8948893,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/916148551",
+      "osm_id": 916148551,
+      "osm_type": "way",
+      "name": "Biserica Romano-Catolică",
+      "category": "place_of_worship",
+      "lat": 46.0315543,
+      "lon": 25.8246049,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "roman_catholic",
+        "name": "Biserica Romano-Catolică",
+        "name:hu": "Jézus Szíve templom",
+        "religion": "christian",
+        "url:miserend": "https://miserend.hu/templom/3273"
+      }
+    },
+    {
+      "id": "way/916911474",
+      "osm_id": 916911474,
+      "osm_type": "way",
+      "name": "Biserica Reformată",
+      "category": "place_of_worship",
+      "lat": 45.8414935,
+      "lon": 25.8028819,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "reformed",
+        "name": "Biserica Reformată",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/916911475",
+      "osm_id": 916911475,
+      "osm_type": "way",
+      "name": "Biserica Unitariană",
+      "category": "place_of_worship",
+      "lat": 45.838068,
+      "lon": 25.801698,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "unitarian",
+        "name": "Biserica Unitariană",
+        "name:hu": "Unitárius templom",
+        "name:ro": "Biserica Unitariană",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/918935505",
+      "osm_id": 918935505,
+      "osm_type": "way",
+      "name": "Capela Adormirea Maicii Domnului",
+      "category": "place_of_worship",
+      "lat": 45.9984238,
+      "lon": 26.1857737,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "roman_catholic",
+        "name": "Capela Adormirea Maicii Domnului",
+        "name:hu": "Nagyboldogasszony templom",
+        "religion": "christian",
+        "url:miserend": "https://miserend.hu/templom/3368"
+      }
+    },
+    {
+      "id": "way/919636750",
+      "osm_id": 919636750,
+      "osm_type": "way",
+      "name": "Biserica reformată",
+      "category": "place_of_worship",
+      "lat": 45.8097128,
+      "lon": 25.6551892,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "reformed",
+        "name": "Biserica reformată",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/922851277",
+      "osm_id": 922851277,
+      "osm_type": "way",
+      "name": "BIserica Romano-Catolică",
+      "category": "place_of_worship",
+      "lat": 45.8694728,
+      "lon": 25.7745907,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "roman_catholic",
+        "name": "BIserica Romano-Catolică",
+        "name:hu": "Mária, Világ királynője templom",
+        "religion": "christian",
+        "url:miserend": "https://miserend.hu/templom/3332"
+      }
+    },
+    {
+      "id": "way/924426599",
+      "osm_id": 924426599,
+      "osm_type": "way",
+      "name": "Biserica Romano-Catolică",
+      "category": "place_of_worship",
+      "lat": 46.0712376,
+      "lon": 26.0880563,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "roman_catholic",
+        "name": "Biserica Romano-Catolică",
+        "name:hu": "Szent Lőrinc vértanú-templom",
+        "religion": "christian",
+        "url:miserend": "https://miserend.hu/templom/3366"
+      }
+    },
+    {
+      "id": "way/925046620",
+      "osm_id": 925046620,
+      "osm_type": "way",
+      "name": "Biserica Baptistă",
+      "category": "place_of_worship",
+      "lat": 45.8794766,
+      "lon": 26.0770714,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "baptist",
+        "name": "Biserica Baptistă",
+        "name:hu": "Baptista imaház",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/925061191",
+      "osm_id": 925061191,
+      "osm_type": "way",
+      "name": "Biserica Reformată",
+      "category": "place_of_worship",
+      "lat": 45.8806504,
+      "lon": 26.0847747,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "reformed",
+        "name": "Biserica Reformată",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/925071369",
+      "osm_id": 925071369,
+      "osm_type": "way",
+      "name": "Biserica Reformată",
+      "category": "place_of_worship",
+      "lat": 45.8131593,
+      "lon": 25.7996728,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "reformed",
+        "name": "Biserica Reformată",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/925512294",
+      "osm_id": 925512294,
+      "osm_type": "way",
+      "name": "Biserica Reformată",
+      "category": "place_of_worship",
+      "lat": 45.8847368,
+      "lon": 26.1137405,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "reformed",
+        "name": "Biserica Reformată",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/925596517",
+      "osm_id": 925596517,
+      "osm_type": "way",
+      "name": "Biserica Reformată",
+      "category": "place_of_worship",
+      "lat": 45.9181648,
+      "lon": 25.7764506,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "protestant",
+        "name": "Biserica Reformată",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/925596518",
+      "osm_id": 925596518,
+      "osm_type": "way",
+      "name": "Biserica Romano-Catolică",
+      "category": "place_of_worship",
+      "lat": 45.9185418,
+      "lon": 25.7764779,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "roman_catholic",
+        "name": "Biserica Romano-Catolică",
+        "name:hu": "Szentháromság templom",
+        "religion": "christian",
+        "url:miserend": "https://miserend.hu/templom/3277"
+      }
+    },
+    {
+      "id": "way/925598221",
+      "osm_id": 925598221,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.8244864,
+      "lon": 25.7598878,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "reformed",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/925606251",
+      "osm_id": 925606251,
+      "osm_type": "way",
+      "name": "Biserica Sfânta Ecaterina",
+      "category": "place_of_worship",
+      "lat": 45.9650009,
+      "lon": 26.1540241,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "roman_catholic",
+        "name": "Biserica Sfânta Ecaterina",
+        "name:hu": "Szent Katalin szűz és vértanú templom",
+        "religion": "christian",
+        "url:miserend": "https://miserend.hu/templom/3380"
+      }
+    },
+    {
+      "id": "way/925913381",
+      "osm_id": 925913381,
+      "osm_type": "way",
+      "name": "Biserica Romano-Catolică",
+      "category": "place_of_worship",
+      "lat": 45.8234576,
+      "lon": 25.8740139,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "roman_catholic",
+        "name": "Biserica Romano-Catolică",
+        "name:hu": "Keresztelő Szent János templom",
+        "religion": "christian",
+        "url:miserend": "https://miserend.hu/templom/3333"
+      }
+    },
+    {
+      "id": "way/926154115",
+      "osm_id": 926154115,
+      "osm_type": "way",
+      "name": "Biserica Reformată",
+      "category": "place_of_worship",
+      "lat": 45.9566745,
+      "lon": 25.8565778,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "reformed",
+        "name": "Biserica Reformată",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/927235383",
+      "osm_id": 927235383,
+      "osm_type": "way",
+      "name": "Biserica reformată",
+      "category": "place_of_worship",
+      "lat": 46.0491217,
+      "lon": 26.0414951,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "reformed",
+        "name": "Biserica reformată",
+        "religion": "christian",
+        "wikidata": "Q18537429"
+      }
+    },
+    {
+      "id": "way/927866495",
+      "osm_id": 927866495,
+      "osm_type": "way",
+      "name": "Biserica romano-catolică",
+      "category": "place_of_worship",
+      "lat": 45.791264,
+      "lon": 25.7656197,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "roman_catholic",
+        "name": "Biserica romano-catolică",
+        "name:hu": "Keresztelő Szent János, Fájdalmas Szűzanya templom",
+        "religion": "christian",
+        "url:miserend": "https://miserend.hu/templom/3181"
+      }
+    },
+    {
+      "id": "way/992390210",
+      "osm_id": 992390210,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 46.0474049,
+      "lon": 26.1377541,
+      "tags": {
+        "building": "church"
+      }
+    },
+    {
+      "id": "way/1000583298",
+      "osm_id": 1000583298,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 46.0396712,
+      "lon": 25.5810214,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "romanian_orthodox",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1064436450",
+      "osm_id": 1064436450,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 46.0420223,
+      "lon": 26.0436727,
+      "tags": {
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1064463999",
+      "osm_id": 1064463999,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 46.0401322,
+      "lon": 26.0627358,
+      "tags": {
+        "addr:city": "Turia",
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1064464003",
+      "osm_id": 1064464003,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 46.0402493,
+      "lon": 26.0630027,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1065331456",
+      "osm_id": 1065331456,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 46.0567941,
+      "lon": 26.0369129,
+      "tags": {
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1066540489",
+      "osm_id": 1066540489,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.9646106,
+      "lon": 26.1537081,
+      "tags": {
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1066540511",
+      "osm_id": 1066540511,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.9417754,
+      "lon": 26.1283631,
+      "tags": {
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1066540512",
+      "osm_id": 1066540512,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.9419019,
+      "lon": 26.1272595,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1066540537",
+      "osm_id": 1066540537,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.926524,
+      "lon": 26.0986575,
+      "tags": {
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1069543186",
+      "osm_id": 1069543186,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 46.1033123,
+      "lon": 25.6960243,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1074768301",
+      "osm_id": 1074768301,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 46.1835482,
+      "lon": 25.6136433,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name:hu": "dobói Kápolna romjai",
+        "religion": "christian",
+        "source": "http://wikimapia.org/14485260/hu/A-dob%C3%B3i-K%C3%A1polna-romjai"
+      }
+    },
+    {
+      "id": "way/1094530572",
+      "osm_id": 1094530572,
+      "osm_type": "way",
+      "name": "Biserica fortificata unitariana",
+      "category": "place_of_worship",
+      "lat": 45.8227256,
+      "lon": 25.7540236,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "unitarian",
+        "name": "Biserica fortificata unitariana",
+        "name:hu": "Unitárius erődtemplom",
+        "religion": "christian",
+        "source": "https://www.hereditatum.ro/muemlekek/adatok.html?muemlek=194#prettyPhoto"
+      }
+    },
+    {
+      "id": "way/1127442230",
+      "osm_id": 1127442230,
+      "osm_type": "way",
+      "name": "Biserica Sf. Teodor Stratilat",
+      "category": "place_of_worship",
+      "lat": 45.8477705,
+      "lon": 25.6785631,
+      "tags": {
+        "addr:city": "Vâlcele",
+        "addr:housenumber": "545",
+        "addr:postcode": "527175",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica Sf. Teodor Stratilat",
+        "name:hu": "Szent Tivadar hadvezér ortodox templom",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1163869141",
+      "osm_id": 1163869141,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.9339471,
+      "lon": 25.5757318,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1181359077",
+      "osm_id": 1181359077,
+      "osm_type": "way",
+      "name": "Biserica Romano-Catolică Oituz",
+      "category": "place_of_worship",
+      "lat": 46.0707324,
+      "lon": 26.387927,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "roman_catholic",
+        "name": "Biserica Romano-Catolică Oituz",
+        "name:hu": "Szent Fábián és Sebestyén-templom",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1190691016",
+      "osm_id": 1190691016,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.8385782,
+      "lon": 25.8030261,
+      "tags": {
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1228622115",
+      "osm_id": 1228622115,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.768155,
+      "lon": 26.0193586,
+      "tags": {
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1228622116",
+      "osm_id": 1228622116,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.7685802,
+      "lon": 26.0174234,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1228799220",
+      "osm_id": 1228799220,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.9704247,
+      "lon": 25.8456295,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1237728474",
+      "osm_id": 1237728474,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 46.0080701,
+      "lon": 25.8399282,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "religion": "christian",
+        "roof:height": "5",
+        "roof:shape": "hipped",
+        "source": "microsoft/BuildingFootprints"
+      }
+    },
+    {
+      "id": "way/1256696565",
+      "osm_id": 1256696565,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.9024374,
+      "lon": 25.8681687,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "religion": "christian",
+        "source": "microsoft/BuildingFootprints"
+      }
+    },
+    {
+      "id": "way/1257149336",
+      "osm_id": 1257149336,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.9018881,
+      "lon": 25.8424669,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "religion": "christian",
+        "source": "microsoft/BuildingFootprints"
+      }
+    },
+    {
+      "id": "way/1257172623",
+      "osm_id": 1257172623,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă",
+      "category": "place_of_worship",
+      "lat": 45.8552137,
+      "lon": 25.7944926,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1259353738",
+      "osm_id": 1259353738,
+      "osm_type": "way",
+      "name": "Biserica Unitariană",
+      "category": "place_of_worship",
+      "lat": 45.7773758,
+      "lon": 25.8078169,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "unitarian",
+        "name": "Biserica Unitariană",
+        "name:en": "Unitarian Church",
+        "name:hu": "Unitárius templom",
+        "name:ro": "Biserica Unitariana",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1260661058",
+      "osm_id": 1260661058,
+      "osm_type": "way",
+      "name": "Biserica reformata Padureni",
+      "category": "place_of_worship",
+      "lat": 45.8822239,
+      "lon": 25.9325316,
+      "tags": {
+        "addr:city": "Pădureni",
+        "addr:housenumber": "1",
+        "addr:postcode": "527122",
+        "addr:street": "Strada Argilei",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "reformed",
+        "inscription": "ANNO",
+        "name": "Biserica reformata Padureni",
+        "name:hu": "Sepsibesenyői református templom",
+        "religion": "christian",
+        "source": "microsoft/BuildingFootprints",
+        "year_of_construction": "1827"
+      }
+    },
+    {
+      "id": "way/1263479895",
+      "osm_id": 1263479895,
+      "osm_type": "way",
+      "name": "Biserica Reformată",
+      "category": "place_of_worship",
+      "lat": 45.7763263,
+      "lon": 25.8007275,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "protestant",
+        "name": "Biserica Reformată",
+        "name:en": "Reformed church",
+        "name:hu": "Református templom",
+        "name:ro": "Biserica Reformată",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1263508234",
+      "osm_id": 1263508234,
+      "osm_type": "way",
+      "name": "Parohia Ortodoxă „Sfânta Treime”",
+      "category": "place_of_worship",
+      "lat": 45.7749235,
+      "lon": 25.7965152,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Parohia Ortodoxă „Sfânta Treime”",
+        "name:en": "Orthodox church",
+        "name:ro": "Parohia Ortodoxă „Sfânta Treime”",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1263511827",
+      "osm_id": 1263511827,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.7726957,
+      "lon": 25.7945504,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1263537036",
+      "osm_id": 1263537036,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.7809272,
+      "lon": 25.7540702,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1263537063",
+      "osm_id": 1263537063,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.7800232,
+      "lon": 25.7563918,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "protestant",
+        "name:hu": "Aldobolyi református templom",
+        "religion": "christian",
+        "source": "microsoft/BuildingFootprints"
+      }
+    },
+    {
+      "id": "way/1263883094",
+      "osm_id": 1263883094,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.9132558,
+      "lon": 25.776407,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "religion": "christian",
+        "source": "microsoft/BuildingFootprints"
+      }
+    },
+    {
+      "id": "way/1286194969",
+      "osm_id": 1286194969,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.8418736,
+      "lon": 25.5891671,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1297190598",
+      "osm_id": 1297190598,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.8395285,
+      "lon": 25.802794,
+      "tags": {
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1298032479",
+      "osm_id": 1298032479,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 46.0684939,
+      "lon": 26.384176,
+      "tags": {
+        "amenity": "grave_yard",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1299863935",
+      "osm_id": 1299863935,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 46.1451627,
+      "lon": 25.6192141,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "religion": "christian",
+        "source": "microsoft/BuildingFootprints"
+      }
+    },
+    {
+      "id": "way/1299864885",
+      "osm_id": 1299864885,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 46.1308374,
+      "lon": 25.6075077,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "religion": "christian",
+        "source": "microsoft/BuildingFootprints"
+      }
+    },
+    {
+      "id": "way/1300972669",
+      "osm_id": 1300972669,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 46.0384119,
+      "lon": 25.6923454,
+      "tags": {
+        "building": "church",
+        "source": "microsoft/BuildingFootprints"
+      }
+    },
+    {
+      "id": "way/1301061957",
+      "osm_id": 1301061957,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă Baraolt",
+      "category": "place_of_worship",
+      "lat": 46.0762231,
+      "lon": 25.5979614,
+      "tags": {
+        "addr:city": "Baraolt",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica Ortodoxă Baraolt",
+        "name:hu": "Ortodox templom",
+        "name:ro": "Biserica Ortodoxă Baraolt",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1301061958",
+      "osm_id": 1301061958,
+      "osm_type": "way",
+      "name": "Biserica Sfinții Trei Ierarhi",
+      "category": "place_of_worship",
+      "lat": 46.0741541,
+      "lon": 25.5940996,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica Sfinții Trei Ierarhi",
+        "name:hu": "Három szent főpap ortodox templom",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1301063819",
+      "osm_id": 1301063819,
+      "osm_type": "way",
+      "name": "Buserica reformată",
+      "category": "place_of_worship",
+      "lat": 46.0750246,
+      "lon": 25.6607238,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "reformed",
+        "name": "Buserica reformată",
+        "name:hu": "Református templom",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1301070600",
+      "osm_id": 1301070600,
+      "osm_type": "way",
+      "name": "Buserica reformată",
+      "category": "place_of_worship",
+      "lat": 46.0946954,
+      "lon": 25.6554797,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "reformed",
+        "name": "Buserica reformată",
+        "name:hu": "Református templom",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1301249562",
+      "osm_id": 1301249562,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.965889,
+      "lon": 25.5629843,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1301262489",
+      "osm_id": 1301262489,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.9775917,
+      "lon": 25.6162286,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1301280015",
+      "osm_id": 1301280015,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 46.078731,
+      "lon": 25.545318,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1301326683",
+      "osm_id": 1301326683,
+      "osm_type": "way",
+      "name": "Biserica Reformată",
+      "category": "place_of_worship",
+      "lat": 45.8375256,
+      "lon": 25.5936963,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "protestant",
+        "name": "Biserica Reformată",
+        "name:hu": "Református templom",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1301326699",
+      "osm_id": 1301326699,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.8340117,
+      "lon": 25.5891738,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1308024530",
+      "osm_id": 1308024530,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 46.13512,
+      "lon": 25.7071864,
+      "tags": {
+        "building": "church"
+      }
+    },
+    {
+      "id": "way/1320404577",
+      "osm_id": 1320404577,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 46.0053812,
+      "lon": 26.1903901,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1320404579",
+      "osm_id": 1320404579,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 46.0232924,
+      "lon": 26.2207406,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1323815662",
+      "osm_id": 1323815662,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.7746934,
+      "lon": 26.2911354,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1323815663",
+      "osm_id": 1323815663,
+      "osm_type": "way",
+      "name": "Mănăstirea Prodromita",
+      "category": "place_of_worship",
+      "lat": 45.774751,
+      "lon": 26.2909719,
+      "tags": {
+        "amenity": "monastery",
+        "denomination": "romanian_orthodox",
+        "landuse": "religious",
+        "name": "Mănăstirea Prodromita",
+        "religion": "christian",
+        "tourism": "attraction",
+        "website": "https://episcopiacvhr.ro/manastiri-si-schituri/manastirea-comandau/"
+      }
+    },
+    {
+      "id": "way/1323835926",
+      "osm_id": 1323835926,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.7628972,
+      "lon": 26.2709318,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "reformed",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1396001054",
+      "osm_id": 1396001054,
+      "osm_type": "way",
+      "name": "Biserica Reformată",
+      "category": "place_of_worship",
+      "lat": 45.7899325,
+      "lon": 25.9225808,
+      "tags": {
+        "building": "church",
+        "name": "Biserica Reformată"
+      }
+    },
+    {
+      "id": "way/1417200603",
+      "osm_id": 1417200603,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.8703798,
+      "lon": 25.5981139,
+      "tags": {
+        "building": "church"
+      }
+    },
+    {
+      "id": "relation/10695368",
+      "osm_id": 10695368,
+      "osm_type": "relation",
+      "name": "Biserica Franciscană",
+      "category": "place_of_worship",
+      "lat": 46.0060046,
+      "lon": 26.1386363,
+      "tags": {
+        "addr:city": "Târgu Secuiesc",
+        "addr:postcode": "525400",
+        "addr:street": "Strada Kanta",
+        "alt_name": "minorita templom, kézdivásárhelyi minorita kolostor temploma",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "roman_catholic",
+        "name": "Biserica Franciscană",
+        "name:hu": "Szentháromság-templom",
+        "name:ro": "Biserica Franciscană",
+        "religion": "christian",
+        "type": "multipolygon",
+        "url:miserend": "https://miserend.hu/templom/3373",
+        "wikidata": "Q18542333",
+        "wikipedia": "hu:Kézdivásárhelyi minorita kolostor"
+      }
+    }
+  ]
+}

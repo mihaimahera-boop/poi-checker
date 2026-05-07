@@ -1,0 +1,394 @@
+{
+  "city": "Beiuș",
+  "generated_at": "2026-04-23T09:28:37.598Z",
+  "counts": {
+    "total": 25,
+    "schools": 8,
+    "churches": 17
+  },
+  "pois": [
+    {
+      "id": "way/108707401",
+      "osm_id": 108707401,
+      "osm_type": "way",
+      "name": "Sala de sport",
+      "category": "education",
+      "lat": 46.6668313,
+      "lon": 22.3504627,
+      "tags": {
+        "amenity": "college",
+        "building": "yes",
+        "leisure": "sports_centre",
+        "name": "Sala de sport",
+        "sport": "soccer"
+      }
+    },
+    {
+      "id": "way/108707404",
+      "osm_id": 108707404,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.6673581,
+      "lon": 22.3505112,
+      "tags": {
+        "amenity": "college",
+        "building": "yes"
+      }
+    },
+    {
+      "id": "way/108707405",
+      "osm_id": 108707405,
+      "osm_type": "way",
+      "name": "Colegiul Național Samuil Vulcan",
+      "category": "education",
+      "lat": 46.6674901,
+      "lon": 22.3505569,
+      "tags": {
+        "amenity": "college",
+        "building": "yes",
+        "education": "college",
+        "name": "Colegiul Național Samuil Vulcan"
+      }
+    },
+    {
+      "id": "way/108707406",
+      "osm_id": 108707406,
+      "osm_type": "way",
+      "name": "Colegiul Tehnic Ioan Ciordaș Beiuș",
+      "category": "education",
+      "lat": 46.6655351,
+      "lon": 22.3478105,
+      "tags": {
+        "amenity": "college",
+        "building": "yes",
+        "name": "Colegiul Tehnic Ioan Ciordaș Beiuș"
+      }
+    },
+    {
+      "id": "way/109190594",
+      "osm_id": 109190594,
+      "osm_type": "way",
+      "name": "Școala Generală Nicoale Popoviciu",
+      "category": "education",
+      "lat": 46.6671361,
+      "lon": 22.3550556,
+      "tags": {
+        "amenity": "school",
+        "building": "yes",
+        "name": "Școala Generală Nicoale Popoviciu"
+      }
+    },
+    {
+      "id": "way/109190644",
+      "osm_id": 109190644,
+      "osm_type": "way",
+      "name": "Liceul Pedagogic Nicolae Bolcaș",
+      "category": "education",
+      "lat": 46.6706178,
+      "lon": 22.3459858,
+      "tags": {
+        "amenity": "school",
+        "building": "yes",
+        "name": "Liceul Pedagogic Nicolae Bolcaș"
+      }
+    },
+    {
+      "id": "way/184897027",
+      "osm_id": 184897027,
+      "osm_type": "way",
+      "name": "Universitatea Oradea Filiala Beiuș",
+      "category": "education",
+      "lat": 46.6662728,
+      "lon": 22.3549613,
+      "tags": {
+        "amenity": "university",
+        "building": "yes",
+        "name": "Universitatea Oradea Filiala Beiuș"
+      }
+    },
+    {
+      "id": "way/185039589",
+      "osm_id": 185039589,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 46.6675175,
+      "lon": 22.3553956,
+      "tags": {
+        "amenity": "school",
+        "building": "yes"
+      }
+    },
+    {
+      "id": "node/2931247662",
+      "osm_id": 2931247662,
+      "osm_type": "node",
+      "name": "Biserica Nouă",
+      "category": "place_of_worship",
+      "lat": 46.6621579,
+      "lon": 22.3677888,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica Nouă",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/109190568",
+      "osm_id": 109190568,
+      "osm_type": "way",
+      "name": "Cimitirul Baptist",
+      "category": "place_of_worship",
+      "lat": 46.6749968,
+      "lon": 22.3527864,
+      "tags": {
+        "denomination": "baptist",
+        "landuse": "cemetery",
+        "name": "Cimitirul Baptist",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/109190584",
+      "osm_id": 109190584,
+      "osm_type": "way",
+      "name": "Cimitirul Municipal",
+      "category": "place_of_worship",
+      "lat": 46.6732431,
+      "lon": 22.3498598,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitirul Municipal",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/109190587",
+      "osm_id": 109190587,
+      "osm_type": "way",
+      "name": "Adunarea Baptistă Independență",
+      "category": "place_of_worship",
+      "lat": 46.6634515,
+      "lon": 22.356912,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "pentecostal",
+        "name": "Adunarea Baptistă Independență",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/109190590",
+      "osm_id": 109190590,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă",
+      "category": "place_of_worship",
+      "lat": 46.6679848,
+      "lon": 22.3495981,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "image": "https://photos.app.goo.gl/CUMY6D45ZzbALnp7A",
+        "name": "Biserica Ortodoxă",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/109190591",
+      "osm_id": 109190591,
+      "osm_type": "way",
+      "name": "Biserica Catolică",
+      "category": "place_of_worship",
+      "lat": 46.667574,
+      "lon": 22.3478082,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "catholic",
+        "name": "Biserica Catolică",
+        "religion": "christian",
+        "url:miserend": "https://miserend.hu/templom/4796"
+      }
+    },
+    {
+      "id": "way/109190595",
+      "osm_id": 109190595,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă din Deal",
+      "category": "place_of_worship",
+      "lat": 46.6725199,
+      "lon": 22.3500478,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă din Deal",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/109190598",
+      "osm_id": 109190598,
+      "osm_type": "way",
+      "name": "Cimitirul Reformat și Romano-Catolic",
+      "category": "place_of_worship",
+      "lat": 46.6727231,
+      "lon": 22.3520013,
+      "tags": {
+        "denomination": "catholic",
+        "landuse": "cemetery",
+        "name": "Cimitirul Reformat și Romano-Catolic",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/109190612",
+      "osm_id": 109190612,
+      "osm_type": "way",
+      "name": "Biserica Reformată Maghiară",
+      "category": "place_of_worship",
+      "lat": 46.6649518,
+      "lon": 22.3456231,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "reformed",
+        "name": "Biserica Reformată Maghiară",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/109190664",
+      "osm_id": 109190664,
+      "osm_type": "way",
+      "name": "Biserica Baptistă Maghiară",
+      "category": "place_of_worship",
+      "lat": 46.6652973,
+      "lon": 22.3508858,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "baptist",
+        "name": "Biserica Baptistă Maghiară",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/109190673",
+      "osm_id": 109190673,
+      "osm_type": "way",
+      "name": "Biserica Greco-Catolică",
+      "category": "place_of_worship",
+      "lat": 46.665149,
+      "lon": 22.3583466,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "catholic",
+        "name": "Biserica Greco-Catolică",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/184897017",
+      "osm_id": 184897017,
+      "osm_type": "way",
+      "name": "Biserica de Lemn",
+      "category": "place_of_worship",
+      "lat": 46.6695999,
+      "lon": 22.3492083,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica de Lemn",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/185039588",
+      "osm_id": 185039588,
+      "osm_type": "way",
+      "name": "Sala Ciresarii",
+      "category": "place_of_worship",
+      "lat": 46.6740666,
+      "lon": 22.3517368,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "independent",
+        "name": "Sala Ciresarii",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/189141450",
+      "osm_id": 189141450,
+      "osm_type": "way",
+      "name": "Biserica Catolică",
+      "category": "place_of_worship",
+      "lat": 46.692971,
+      "lon": 22.3379313,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "catholic",
+        "name": "Biserica Catolică",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/189141451",
+      "osm_id": 189141451,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă",
+      "category": "place_of_worship",
+      "lat": 46.6934057,
+      "lon": 22.3387738,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/189141452",
+      "osm_id": 189141452,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă",
+      "category": "place_of_worship",
+      "lat": 46.6932984,
+      "lon": 22.3388513,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/189223327",
+      "osm_id": 189223327,
+      "osm_type": "way",
+      "name": "Cimitirul Delani",
+      "category": "place_of_worship",
+      "lat": 46.6961378,
+      "lon": 22.3297406,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitirul Delani",
+        "religion": "christian"
+      }
+    }
+  ]
+}

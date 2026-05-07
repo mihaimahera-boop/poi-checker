@@ -1,0 +1,415 @@
+{
+  "city": "Cisnădie",
+  "generated_at": "2026-04-23T09:39:21.345Z",
+  "counts": {
+    "total": 24,
+    "schools": 8,
+    "churches": 16
+  },
+  "pois": [
+    {
+      "id": "node/297889587",
+      "osm_id": 297889587,
+      "osm_type": "node",
+      "name": "Școala primară Cisnădioara",
+      "category": "education",
+      "lat": 45.70438,
+      "lon": 24.1105686,
+      "tags": {
+        "amenity": "school",
+        "name": "Școala primară Cisnădioara"
+      }
+    },
+    {
+      "id": "node/1221343530",
+      "osm_id": 1221343530,
+      "osm_type": "node",
+      "name": "Scoala Generala nr. 3",
+      "category": "education",
+      "lat": 45.7092287,
+      "lon": 24.1436942,
+      "tags": {
+        "amenity": "school",
+        "name": "Scoala Generala nr. 3"
+      }
+    },
+    {
+      "id": "node/1221344264",
+      "osm_id": 1221344264,
+      "osm_type": "node",
+      "name": "Liceul Gustav Gundisch",
+      "category": "education",
+      "lat": 45.7121555,
+      "lon": 24.1502196,
+      "tags": {
+        "addr:city": "Cisnădie",
+        "addr:street": "Strada Măgurii",
+        "amenity": "school",
+        "name": "Liceul Gustav Gundisch"
+      }
+    },
+    {
+      "id": "node/1221345252",
+      "osm_id": 1221345252,
+      "osm_type": "node",
+      "name": "Școala nr. 1",
+      "category": "education",
+      "lat": 45.7180763,
+      "lon": 24.1560487,
+      "tags": {
+        "amenity": "school",
+        "name": "Școala nr. 1"
+      }
+    },
+    {
+      "id": "node/12061693752",
+      "osm_id": 12061693752,
+      "osm_type": "node",
+      "name": "Gradinita Eri",
+      "category": "education",
+      "lat": 45.7542136,
+      "lon": 24.1463608,
+      "tags": {
+        "addr:city": "Cisnădie",
+        "addr:housenumber": "6",
+        "addr:street": "Strada Haralamb Georgescu",
+        "amenity": "kindergarten",
+        "email": "gradinita@erischool.ro",
+        "name": "Gradinita Eri",
+        "operator": "Etos Academy",
+        "operator:type": "private",
+        "phone": "+40738963393",
+        "preschool": "yes"
+      }
+    },
+    {
+      "id": "way/98868120",
+      "osm_id": 98868120,
+      "osm_type": "way",
+      "name": "Şcoala Generală nr. 2",
+      "category": "education",
+      "lat": 45.7147607,
+      "lon": 24.1456036,
+      "tags": {
+        "addr:city": "Cisnădie",
+        "addr:housenumber": "45",
+        "addr:postcode": "555300",
+        "addr:street": "Strada Țesătorilor",
+        "amenity": "school",
+        "building": "yes",
+        "building:colour": "#FAFAD2",
+        "email": "sc2cisnadie@clicknet.ro",
+        "height": "12",
+        "name": "Şcoala Generală nr. 2",
+        "roof:height": "3",
+        "roof:material": "roof_tiles",
+        "roof:shape": "hipped",
+        "website": "https://sc2cisnadie.ro/"
+      }
+    },
+    {
+      "id": "way/1289413558",
+      "osm_id": 1289413558,
+      "osm_type": "way",
+      "name": "Scoala Gimnazială nr. 3 Cisnadie",
+      "category": "education",
+      "lat": 45.70919,
+      "lon": 24.1437197,
+      "tags": {
+        "addr:city": "Cisnădie",
+        "addr:housenumber": "63",
+        "addr:postcode": "555300",
+        "addr:street": "Strada Măgurii",
+        "amenity": "school",
+        "building": "yes",
+        "building:colour": "#FFE4C4",
+        "email": "sc3cisnadie@gmail.com",
+        "height": "12",
+        "name": "Scoala Gimnazială nr. 3 Cisnadie",
+        "roof:height": "3",
+        "roof:material": "roof_tiles",
+        "roof:shape": "hipped",
+        "website": "https://scoala3cisnadie.ro/"
+      }
+    },
+    {
+      "id": "way/1290004080",
+      "osm_id": 1290004080,
+      "osm_type": "way",
+      "name": "Liceul Gustav Gundisch",
+      "category": "education",
+      "lat": 45.7120655,
+      "lon": 24.1501642,
+      "tags": {
+        "addr:city": "Cisnădie",
+        "amenity": "college",
+        "building": "yes",
+        "name": "Liceul Gustav Gundisch"
+      }
+    },
+    {
+      "id": "node/1221361659",
+      "osm_id": 1221361659,
+      "osm_type": "node",
+      "name": "Biserica Ortodoxă Țesătorilor",
+      "category": "place_of_worship",
+      "lat": 45.7181784,
+      "lon": 24.1542305,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă Țesătorilor",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/1221362127",
+      "osm_id": 1221362127,
+      "osm_type": "node",
+      "name": "Biserica Ortodoxă Sfânta Treime",
+      "category": "place_of_worship",
+      "lat": 45.7099205,
+      "lon": 24.1420579,
+      "tags": {
+        "amenity": "place_of_worship",
+        "check_date": "2023-12-27",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă Sfânta Treime",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/1221362136",
+      "osm_id": 1221362136,
+      "osm_type": "node",
+      "name": "Biserica Greco-catolică",
+      "category": "place_of_worship",
+      "lat": 45.7093303,
+      "lon": 24.1414314,
+      "tags": {
+        "amenity": "place_of_worship",
+        "check_date": "2023-12-27",
+        "denomination": "greek_catholic",
+        "name": "Biserica Greco-catolică",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/1221447124",
+      "osm_id": 1221447124,
+      "osm_type": "node",
+      "name": "Biserica Betel",
+      "category": "place_of_worship",
+      "lat": 45.7104556,
+      "lon": 24.1433456,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "independent_baptist",
+        "name": "Biserica Betel",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/98868109",
+      "osm_id": 98868109,
+      "osm_type": "way",
+      "name": "Cimitirul Ortodox",
+      "category": "place_of_worship",
+      "lat": 45.7083285,
+      "lon": 24.1554067,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitirul Ortodox",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/98881144",
+      "osm_id": 98881144,
+      "osm_type": "way",
+      "name": "Biserica Evanghelică",
+      "category": "place_of_worship",
+      "lat": 45.7131892,
+      "lon": 24.151397,
+      "tags": {
+        "addr:city": "Cisnădie",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "protestant",
+        "historic": "castle",
+        "name": "Biserica Evanghelică",
+        "religion": "christian",
+        "wikidata": "Q18539023"
+      }
+    },
+    {
+      "id": "way/98881308",
+      "osm_id": 98881308,
+      "osm_type": "way",
+      "name": "Cimitirul Săsesc",
+      "category": "place_of_worship",
+      "lat": 45.7083245,
+      "lon": 24.1513317,
+      "tags": {
+        "denomination": "lutheran",
+        "landuse": "cemetery",
+        "name": "Cimitirul Săsesc",
+        "name:de": "Evangelischer Friedhof Heltau",
+        "opening_hours": "Mo-Su 08:00-21:00",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/98881421",
+      "osm_id": 98881421,
+      "osm_type": "way",
+      "name": "Capela Evanghelică",
+      "category": "place_of_worship",
+      "lat": 45.7073033,
+      "lon": 24.1511312,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "check_date": "2023-12-27",
+        "denomination": "lutheran",
+        "name": "Capela Evanghelică",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/134983323",
+      "osm_id": 134983323,
+      "osm_type": "way",
+      "name": "Biserica Cisnădie",
+      "category": "place_of_worship",
+      "lat": 45.7182017,
+      "lon": 24.1543217,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Cisnădie",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/532178078",
+      "osm_id": 532178078,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă",
+      "category": "place_of_worship",
+      "lat": 45.7048628,
+      "lon": 24.1105836,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "check_date": "2023-12-27",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/532178079",
+      "osm_id": 532178079,
+      "osm_type": "way",
+      "name": "Biserica Luterană",
+      "category": "place_of_worship",
+      "lat": 45.7042728,
+      "lon": 24.1099205,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "check_date": "2023-12-27",
+        "denomination": "lutheran",
+        "name": "Biserica Luterană",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/614030433",
+      "osm_id": 614030433,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.7053224,
+      "lon": 24.1058166,
+      "tags": {
+        "denomination": "evangelical",
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/713961099",
+      "osm_id": 713961099,
+      "osm_type": "way",
+      "name": "Bazilica Sfântul Mihail",
+      "category": "place_of_worship",
+      "lat": 45.7030926,
+      "lon": 24.1121347,
+      "tags": {
+        "alt_name": "Biserica Sfântul Mihail",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "protestant",
+        "historic": "church",
+        "name": "Bazilica Sfântul Mihail",
+        "opening_hours": "Mo-Su 10:00-18:00",
+        "religion": "christian",
+        "wheelchair": "no",
+        "wikidata": "Q18539024",
+        "wikipedia": "de:Kirchenburg_Michelsberg"
+      }
+    },
+    {
+      "id": "way/1173054001",
+      "osm_id": 1173054001,
+      "osm_type": "way",
+      "name": "Biserica",
+      "category": "place_of_worship",
+      "lat": 45.7626119,
+      "lon": 24.1446153,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "name": "Biserica",
+        "religion": "crestin_ortodoxa"
+      }
+    },
+    {
+      "id": "way/1200759685",
+      "osm_id": 1200759685,
+      "osm_type": "way",
+      "name": "Sala Regatului a Martorilor lui Iehova",
+      "category": "place_of_worship",
+      "lat": 45.7076234,
+      "lon": 24.136082,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Sala Regatului a Martorilor lui Iehova"
+      }
+    },
+    {
+      "id": "way/1289833281",
+      "osm_id": 1289833281,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă Sfânta Treime",
+      "category": "place_of_worship",
+      "lat": 45.7099675,
+      "lon": 24.1420891,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "height": "10",
+        "name": "Biserica Ortodoxă Sfânta Treime",
+        "religion": "christian",
+        "roof:height": "3",
+        "roof:shape": "hipped"
+      }
+    }
+  ]
+}

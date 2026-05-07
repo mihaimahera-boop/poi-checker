@@ -1,0 +1,1135 @@
+{
+  "city": "Zalău",
+  "generated_at": "2026-04-23T10:25:23.051Z",
+  "counts": {
+    "total": 70,
+    "schools": 33,
+    "churches": 37
+  },
+  "pois": [
+    {
+      "id": "node/914507010",
+      "osm_id": 914507010,
+      "osm_type": "node",
+      "name": "Școala Mihai Eminescu",
+      "category": "education",
+      "lat": 47.186925,
+      "lon": 23.0545813,
+      "tags": {
+        "addr:city": "Zalău",
+        "amenity": "school",
+        "name": "Școala Mihai Eminescu",
+        "name:ro": "Școala Mihai Eminescu"
+      }
+    },
+    {
+      "id": "node/4281460989",
+      "osm_id": 4281460989,
+      "osm_type": "node",
+      "name": "Sc Auto Nova Srl",
+      "category": "education",
+      "lat": 47.169336,
+      "lon": 23.0737789,
+      "tags": {
+        "addr:city": "Zalău",
+        "addr:housenumber": "129",
+        "addr:street": "Strada C.Coposu",
+        "amenity": "school",
+        "name": "Sc Auto Nova Srl",
+        "name:ro": "Sc Auto Nova Srl",
+        "opening_hours": "Mo-Fr 08:00-22:00",
+        "phone": "0260632904"
+      }
+    },
+    {
+      "id": "node/7226573037",
+      "osm_id": 7226573037,
+      "osm_type": "node",
+      "name": "Liceul Reformat \"Wesselényi\"",
+      "category": "education",
+      "lat": 47.1889927,
+      "lon": 23.0582585,
+      "tags": {
+        "addr:city": "Zalău",
+        "addr:housenumber": "56A",
+        "addr:postcode": "450090",
+        "addr:street": "Bulevardul Mihai Viteazul",
+        "amenity": "school",
+        "education": "school",
+        "name": "Liceul Reformat \"Wesselényi\"",
+        "name:ro": "Liceul Reformat \"Wesselényi\"",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/11909557265",
+      "osm_id": 11909557265,
+      "osm_type": "node",
+      "name": "Școala gimnazială „Simion Bărnuțiu” Zalău",
+      "category": "education",
+      "lat": 47.1803583,
+      "lon": 23.0551495,
+      "tags": {
+        "addr:city": "Zalău",
+        "amenity": "school",
+        "name": "Școala gimnazială „Simion Bărnuțiu” Zalău",
+        "name:ro": "Școala gimnazială „Simion Bărnuțiu” Zalău",
+        "phone": "+40260616959",
+        "website": "https://www.scsbarnutiuzalau.ro/"
+      }
+    },
+    {
+      "id": "way/218280340",
+      "osm_id": 218280340,
+      "osm_type": "way",
+      "name": "Școala Gimnazială \"Gheorghe Lazăr\"",
+      "category": "education",
+      "lat": 47.1850949,
+      "lon": 23.0581893,
+      "tags": {
+        "addr:city": "Zalău",
+        "addr:housenumber": "59A",
+        "amenity": "school",
+        "email": "scoalaghlazar@yahoo.com",
+        "name": "Școala Gimnazială \"Gheorghe Lazăr\"",
+        "name:ro": "Școala Gimnazială \"Gheorghe Lazăr\"",
+        "phone": "0040260615469",
+        "religion": "christian",
+        "website": "https://scoalaghlazar.ro/"
+      }
+    },
+    {
+      "id": "way/254137839",
+      "osm_id": 254137839,
+      "osm_type": "way",
+      "name": "Școala Gimnazială \"Corneliu Coposu\"",
+      "category": "education",
+      "lat": 47.2001063,
+      "lon": 23.0436142,
+      "tags": {
+        "addr:city": "Zalău",
+        "amenity": "school",
+        "building": "school",
+        "name": "Școala Gimnazială \"Corneliu Coposu\"",
+        "name:hu": "8-as sz. Általános Iskola",
+        "name:ro": "Școala Gimnazială \"Corneliu Coposu\""
+      }
+    },
+    {
+      "id": "way/277607613",
+      "osm_id": 277607613,
+      "osm_type": "way",
+      "name": "Liceul Sportiv \"Avram Iancu\"",
+      "category": "education",
+      "lat": 47.173425,
+      "lon": 23.0683136,
+      "tags": {
+        "addr:city": "Zalău",
+        "building": "school",
+        "name": "Liceul Sportiv \"Avram Iancu\"",
+        "name:hu": "\"Avram Iancu\" Sport Iskola",
+        "name:ro": "Liceul Sportiv \"Avram Iancu\""
+      }
+    },
+    {
+      "id": "way/301209163",
+      "osm_id": 301209163,
+      "osm_type": "way",
+      "name": "Óvoda",
+      "category": "education",
+      "lat": 47.1961128,
+      "lon": 23.0461978,
+      "tags": {
+        "building": "school",
+        "name": "Óvoda"
+      }
+    },
+    {
+      "id": "way/301210694",
+      "osm_id": 301210694,
+      "osm_type": "way",
+      "name": "Liceul Tehnologic \"Voievodul Gelu\"",
+      "category": "education",
+      "lat": 47.1966968,
+      "lon": 23.0479109,
+      "tags": {
+        "addr:city": "Zalău",
+        "building": "school",
+        "name": "Liceul Tehnologic \"Voievodul Gelu\"",
+        "name:ro": "Liceul Tehnologic \"Voievodul Gelu\""
+      }
+    },
+    {
+      "id": "way/334209179",
+      "osm_id": 334209179,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.1896571,
+      "lon": 23.0632824,
+      "tags": {
+        "addr:city": "Zalău",
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/334209182",
+      "osm_id": 334209182,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.1898816,
+      "lon": 23.0636068,
+      "tags": {
+        "addr:city": "Zalău",
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/334209184",
+      "osm_id": 334209184,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.1900128,
+      "lon": 23.0630283,
+      "tags": {
+        "addr:city": "Zalău",
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/334371767",
+      "osm_id": 334371767,
+      "osm_type": "way",
+      "name": "Școala Generală Nr. 1",
+      "category": "education",
+      "lat": 47.1905926,
+      "lon": 23.0587761,
+      "tags": {
+        "addr:city": "Zalău",
+        "addr:street": "Strada Mihai Viteazu",
+        "building": "school",
+        "name": "Școala Generală Nr. 1"
+      }
+    },
+    {
+      "id": "way/335366810",
+      "osm_id": 335366810,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.1949179,
+      "lon": 23.0507378,
+      "tags": {
+        "addr:city": "Zalău",
+        "building": "kindergarten"
+      }
+    },
+    {
+      "id": "way/335372847",
+      "osm_id": 335372847,
+      "osm_type": "way",
+      "name": "Liceul de Artă \"Ioan Sima\"(Școala Nr. 7)",
+      "category": "education",
+      "lat": 47.1911515,
+      "lon": 23.0483622,
+      "tags": {
+        "addr:city": "Zalău",
+        "addr:street": "Strada Torentului",
+        "amenity": "school",
+        "building": "yes",
+        "name": "Liceul de Artă \"Ioan Sima\"(Școala Nr. 7)",
+        "name:hu": "Ioan Sima Művészeti iskola (7-es iskola)",
+        "name:ro": "Liceul de Artă \"Ioan Sima\"(Școala Nr. 7)"
+      }
+    },
+    {
+      "id": "way/335384897",
+      "osm_id": 335384897,
+      "osm_type": "way",
+      "name": "Óvoda",
+      "category": "education",
+      "lat": 47.1945951,
+      "lon": 23.0547767,
+      "tags": {
+        "addr:city": "Zalău",
+        "building": "kindergarten",
+        "name": "Óvoda",
+        "name:hu": "Óvoda",
+        "name:ro": "Grădiniță"
+      }
+    },
+    {
+      "id": "way/335392593",
+      "osm_id": 335392593,
+      "osm_type": "way",
+      "name": "Sala de Sport",
+      "category": "education",
+      "lat": 47.1897058,
+      "lon": 23.0566302,
+      "tags": {
+        "building": "school",
+        "name": "Sala de Sport"
+      }
+    },
+    {
+      "id": "way/335395831",
+      "osm_id": 335395831,
+      "osm_type": "way",
+      "name": "Grădiniță",
+      "category": "education",
+      "lat": 47.1931815,
+      "lon": 23.0577944,
+      "tags": {
+        "addr:city": "Zalău",
+        "building": "kindergarten",
+        "name": "Grădiniță",
+        "name:hu": "Óvoda",
+        "name:ro": "Grădiniță"
+      }
+    },
+    {
+      "id": "way/360009893",
+      "osm_id": 360009893,
+      "osm_type": "way",
+      "name": "Școala Mihai Eminescu",
+      "category": "education",
+      "lat": 47.1872284,
+      "lon": 23.0547785,
+      "tags": {
+        "addr:city": "Zalău",
+        "addr:street": "Strada Crișan",
+        "building": "school",
+        "name": "Școala Mihai Eminescu",
+        "name:ro": "Școala Mihai Eminescu",
+        "name_1": "Corp A"
+      }
+    },
+    {
+      "id": "way/360009894",
+      "osm_id": 360009894,
+      "osm_type": "way",
+      "name": "Mihai Eminescu",
+      "category": "education",
+      "lat": 47.1872893,
+      "lon": 23.0538168,
+      "tags": {
+        "addr:city": "Zalău",
+        "addr:street": "Strada Crișan",
+        "building": "school",
+        "name": "Mihai Eminescu",
+        "name_1": "Corp B"
+      }
+    },
+    {
+      "id": "way/379713390",
+      "osm_id": 379713390,
+      "osm_type": "way",
+      "name": "Liceul Reformat \"Wesselényi\" Zalău",
+      "category": "education",
+      "lat": 47.1889841,
+      "lon": 23.0582028,
+      "tags": {
+        "addr:city": "Zalău",
+        "addr:street": "Bulevardul Mihai Viteazul",
+        "amenity": "school",
+        "denomination": "reformed",
+        "grades": "1-12",
+        "name": "Liceul Reformat \"Wesselényi\" Zalău",
+        "name:hu": "Zilahi Református \"Wesselényi\" Kollégium",
+        "name:ro": "Liceul Reformat \"Wesselényi\" Zalău",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/425788249",
+      "osm_id": 425788249,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.1784744,
+      "lon": 23.0528337,
+      "tags": {
+        "addr:city": "Zalău",
+        "building": "school",
+        "layer": "1"
+      }
+    },
+    {
+      "id": "way/425788250",
+      "osm_id": 425788250,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.1787463,
+      "lon": 23.0528713,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/438498058",
+      "osm_id": 438498058,
+      "osm_type": "way",
+      "name": "Liceul pedagogic ”Gheorghe Șincai”",
+      "category": "education",
+      "lat": 47.1853675,
+      "lon": 23.0537856,
+      "tags": {
+        "addr:city": "Zalău",
+        "amenity": "college",
+        "building": "school",
+        "name": "Liceul pedagogic ”Gheorghe Șincai”",
+        "name:ro": "Liceul pedagogic ”Gheorghe Șincai”",
+        "website": "https://pedagogiczalau.ro"
+      }
+    },
+    {
+      "id": "way/438498061",
+      "osm_id": 438498061,
+      "osm_type": "way",
+      "name": "Liceul teologic ”Sfântul Nicolae” Zalău",
+      "category": "education",
+      "lat": 47.1863553,
+      "lon": 23.0542747,
+      "tags": {
+        "building": "school",
+        "name": "Liceul teologic ”Sfântul Nicolae” Zalău"
+      }
+    },
+    {
+      "id": "way/438498066",
+      "osm_id": 438498066,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.1855475,
+      "lon": 23.0519045,
+      "tags": {
+        "addr:city": "Zalău",
+        "amenity": "kindergarten"
+      }
+    },
+    {
+      "id": "way/438498067",
+      "osm_id": 438498067,
+      "osm_type": "way",
+      "name": "Gradinița ”Ion Creangă”",
+      "category": "education",
+      "lat": 47.1856087,
+      "lon": 23.0519379,
+      "tags": {
+        "addr:city": "Zalău",
+        "addr:housenumber": "37",
+        "addr:street": "Strada Cloșca",
+        "building": "kindergarten",
+        "name": "Gradinița ”Ion Creangă”",
+        "name:ro": "Gradinița ”Ion Creangă”"
+      }
+    },
+    {
+      "id": "way/438498071",
+      "osm_id": 438498071,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Amon Gus",
+      "category": "education",
+      "lat": 47.1788206,
+      "lon": 23.0534226,
+      "tags": {
+        "building": "school",
+        "name": "Școala Gimnazială Amon Gus"
+      }
+    },
+    {
+      "id": "way/452876873",
+      "osm_id": 452876873,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.1803277,
+      "lon": 23.0549716,
+      "tags": {
+        "addr:city": "Zalău",
+        "addr:housenumber": "3",
+        "addr:street": "Bulevardul Mihai Viteazul",
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/452879277",
+      "osm_id": 452879277,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.1869199,
+      "lon": 23.0588906,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/755837357",
+      "osm_id": 755837357,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Porolissum",
+      "category": "education",
+      "lat": 47.1898436,
+      "lon": 23.0632666,
+      "tags": {
+        "addr:city": "Zalău",
+        "amenity": "school",
+        "name": "Școala Gimnazială Porolissum",
+        "name:ro": "Școala Gimnazială Porolissum",
+        "website": "http://www.scoalaporolissum.ro"
+      }
+    },
+    {
+      "id": "way/1088362363",
+      "osm_id": 1088362363,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.1784697,
+      "lon": 23.0537619,
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "way/1423659547",
+      "osm_id": 1423659547,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.1804674,
+      "lon": 23.0544187,
+      "tags": {
+        "addr:city": "Zalău",
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "node/1674591668",
+      "osm_id": 1674591668,
+      "osm_type": "node",
+      "name": "Biserica Stâna",
+      "category": "place_of_worship",
+      "lat": 47.1531502,
+      "lon": 23.1368074,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Stâna",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/1833459009",
+      "osm_id": 1833459009,
+      "osm_type": "node",
+      "name": "Biserica ortodoxă Sfinții Arhangheli",
+      "category": "place_of_worship",
+      "lat": 47.2117477,
+      "lon": 23.1020487,
+      "tags": {
+        "addr:city": "Zalău",
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica ortodoxă Sfinții Arhangheli",
+        "name:ro": "Biserica ortodoxă Sfinții Arhangheli",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/1833492476",
+      "osm_id": 1833492476,
+      "osm_type": "node",
+      "name": "Biserica Ortodoxă Nouă Ortelec",
+      "category": "place_of_worship",
+      "lat": 47.2037322,
+      "lon": 23.0882811,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă Nouă Ortelec",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/1835631487",
+      "osm_id": 1835631487,
+      "osm_type": "node",
+      "name": "Biserica Ortodoxă Pogorârea Sfântului Duh",
+      "category": "place_of_worship",
+      "lat": 47.1883041,
+      "lon": 23.064332,
+      "tags": {
+        "addr:city": "Zalău",
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă Pogorârea Sfântului Duh",
+        "name:ro": "Biserica Ortodoxă Pogorârea Sfântului Duh",
+        "religion": "christian",
+        "source": "Bing"
+      }
+    },
+    {
+      "id": "node/1838060794",
+      "osm_id": 1838060794,
+      "osm_type": "node",
+      "name": "Biserica Sfânta Treime",
+      "category": "place_of_worship",
+      "lat": 47.1793872,
+      "lon": 23.0582422,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Sfânta Treime",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/1838060883",
+      "osm_id": 1838060883,
+      "osm_type": "node",
+      "name": "Catedrala \"Adormirea Maicii Domnului\"",
+      "category": "place_of_worship",
+      "lat": 47.1816161,
+      "lon": 23.0514388,
+      "tags": {
+        "addr:city": "Zalău",
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Catedrala \"Adormirea Maicii Domnului\"",
+        "name:ro": "Catedrala \"Adormirea Maicii Domnului\"",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/1840383169",
+      "osm_id": 1840383169,
+      "osm_type": "node",
+      "name": "Biserica Ortodoxă Sfântul Ioan Botezătorul",
+      "category": "place_of_worship",
+      "lat": 47.1951066,
+      "lon": 23.051447,
+      "tags": {
+        "addr:city": "Zalău",
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă Sfântul Ioan Botezătorul",
+        "name:ro": "Biserica Ortodoxă Sfântul Ioan Botezătorul",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/1840383882",
+      "osm_id": 1840383882,
+      "osm_type": "node",
+      "name": "Catedrala Episcopală „Înălţarea Domnului”",
+      "category": "place_of_worship",
+      "lat": 47.1946181,
+      "lon": 23.0555774,
+      "tags": {
+        "addr:city": "Zalău",
+        "addr:housenumber": "8",
+        "addr:street": "Strada Sfânta Vineri",
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Catedrala Episcopală „Înălţarea Domnului”",
+        "name:ro": "Catedrala Episcopală „Înălţarea Domnului”",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/1840384159",
+      "osm_id": 1840384159,
+      "osm_type": "node",
+      "name": "Biserica Ortodoxă Nașterea Maicii Domnului",
+      "category": "place_of_worship",
+      "lat": 47.2022989,
+      "lon": 23.0518667,
+      "tags": {
+        "addr:city": "Zalău",
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă Nașterea Maicii Domnului",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/4391415471",
+      "osm_id": 4391415471,
+      "osm_type": "node",
+      "name": "Biserica Ortodoxă Sfântul Arhidiacon Ștefan",
+      "category": "place_of_worship",
+      "lat": 47.1706995,
+      "lon": 23.0674106,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă Sfântul Arhidiacon Ștefan",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/5164272322",
+      "osm_id": 5164272322,
+      "osm_type": "node",
+      "name": "Harul",
+      "category": "place_of_worship",
+      "lat": 47.1886925,
+      "lon": 23.0694158,
+      "tags": {
+        "addr:city": "Zalău",
+        "addr:street": "Strada Sărmaș",
+        "amenity": "place_of_worship",
+        "name": "Harul",
+        "name:ro": "Harul",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/6071781556",
+      "osm_id": 6071781556,
+      "osm_type": "node",
+      "name": "Biserica Reformată-Calvină Zalău",
+      "category": "place_of_worship",
+      "lat": 47.1800996,
+      "lon": 23.0572994,
+      "tags": {
+        "addr:city": "Zalău",
+        "addr:postcode": "450006",
+        "addr:street": "Strada Andrei Șaguna",
+        "amenity": "place_of_worship",
+        "baby_feeding": "no",
+        "church": "monastery",
+        "denomination": "reformed",
+        "name": "Biserica Reformată-Calvină Zalău",
+        "name:hu": "Zilah- Belvárosi Református Templom",
+        "name:ro": "Biserica Reformată-Calvină Zalău",
+        "religion": "christian",
+        "wikidata": "Q7307477",
+        "wikipedia": "en:Reformed Church, Zalău"
+      }
+    },
+    {
+      "id": "node/7226573037",
+      "osm_id": 7226573037,
+      "osm_type": "node",
+      "name": "Liceul Reformat \"Wesselényi\"",
+      "category": "place_of_worship",
+      "lat": 47.1889927,
+      "lon": 23.0582585,
+      "tags": {
+        "addr:city": "Zalău",
+        "addr:housenumber": "56A",
+        "addr:postcode": "450090",
+        "addr:street": "Bulevardul Mihai Viteazul",
+        "amenity": "school",
+        "education": "school",
+        "name": "Liceul Reformat \"Wesselényi\"",
+        "name:ro": "Liceul Reformat \"Wesselényi\"",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/8709552619",
+      "osm_id": 8709552619,
+      "osm_type": "node",
+      "name": "Biserica Ortodoxă Sfântul Nicolae",
+      "category": "place_of_worship",
+      "lat": 47.1668611,
+      "lon": 23.0539643,
+      "tags": {
+        "addr:city": "Zalău",
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă Sfântul Nicolae",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/13077473265",
+      "osm_id": 13077473265,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 47.1860511,
+      "lon": 23.0801681,
+      "tags": {
+        "addr:city": "Zalău",
+        "addr:street": "Strada Sărmaș",
+        "amenity": "place_of_worship",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/172682397",
+      "osm_id": 172682397,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 47.1841058,
+      "lon": 23.0632681,
+      "tags": {
+        "addr:city": "Zalău",
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/172698749",
+      "osm_id": 172698749,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 47.1819773,
+      "lon": 23.0599725,
+      "tags": {
+        "addr:city": "Zalău",
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/218280340",
+      "osm_id": 218280340,
+      "osm_type": "way",
+      "name": "Școala Gimnazială \"Gheorghe Lazăr\"",
+      "category": "place_of_worship",
+      "lat": 47.1850949,
+      "lon": 23.0581893,
+      "tags": {
+        "addr:city": "Zalău",
+        "addr:housenumber": "59A",
+        "amenity": "school",
+        "email": "scoalaghlazar@yahoo.com",
+        "name": "Școala Gimnazială \"Gheorghe Lazăr\"",
+        "name:ro": "Școala Gimnazială \"Gheorghe Lazăr\"",
+        "phone": "0040260615469",
+        "religion": "christian",
+        "website": "https://scoalaghlazar.ro/"
+      }
+    },
+    {
+      "id": "way/253650141",
+      "osm_id": 253650141,
+      "osm_type": "way",
+      "name": "Biserica Nașterea Maicii Domnului",
+      "category": "place_of_worship",
+      "lat": 47.2023066,
+      "lon": 23.0518857,
+      "tags": {
+        "addr:city": "Zalău",
+        "building": "church",
+        "name": "Biserica Nașterea Maicii Domnului",
+        "name:ro": "Biserica Nașterea Maicii Domnului"
+      }
+    },
+    {
+      "id": "way/253657077",
+      "osm_id": 253657077,
+      "osm_type": "way",
+      "name": "Biserica reformată",
+      "category": "place_of_worship",
+      "lat": 47.199602,
+      "lon": 23.0456189,
+      "tags": {
+        "addr:city": "Zalău",
+        "building": "church",
+        "name": "Biserica reformată",
+        "name:hu": "Református templom",
+        "name:ro": "Biserica reformată"
+      }
+    },
+    {
+      "id": "way/253695791",
+      "osm_id": 253695791,
+      "osm_type": "way",
+      "name": "Biserica Baptistă",
+      "category": "place_of_worship",
+      "lat": 47.1992232,
+      "lon": 23.0492795,
+      "tags": {
+        "addr:street": "Strada General Dragalina",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "baptist",
+        "name": "Biserica Baptistă",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/297313693",
+      "osm_id": 297313693,
+      "osm_type": "way",
+      "name": "Biserica greco-catolică Dumbrava",
+      "category": "place_of_worship",
+      "lat": 47.1998495,
+      "lon": 23.0482027,
+      "tags": {
+        "addr:city": "Zalău",
+        "addr:housenumber": "1",
+        "addr:postcode": "450128",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Ioan Nechita",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "greek_catholic",
+        "name": "Biserica greco-catolică Dumbrava",
+        "name:ro": "Biserica greco-catolică Dumbrava",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/301224806",
+      "osm_id": 301224806,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 47.1951007,
+      "lon": 23.0514388,
+      "tags": {
+        "addr:city": "Zalău",
+        "building": "church"
+      }
+    },
+    {
+      "id": "way/332912422",
+      "osm_id": 332912422,
+      "osm_type": "way",
+      "name": "Jehova Tanúi Királyság-terme",
+      "category": "place_of_worship",
+      "lat": 47.1853856,
+      "lon": 23.0607575,
+      "tags": {
+        "building": "church",
+        "name": "Jehova Tanúi Királyság-terme"
+      }
+    },
+    {
+      "id": "way/335384895",
+      "osm_id": 335384895,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 47.1947122,
+      "lon": 23.0556683,
+      "tags": {
+        "addr:city": "Zalău",
+        "addr:postcode": "450086",
+        "building": "church"
+      }
+    },
+    {
+      "id": "way/379713390",
+      "osm_id": 379713390,
+      "osm_type": "way",
+      "name": "Liceul Reformat \"Wesselényi\" Zalău",
+      "category": "place_of_worship",
+      "lat": 47.1889841,
+      "lon": 23.0582028,
+      "tags": {
+        "addr:city": "Zalău",
+        "addr:street": "Bulevardul Mihai Viteazul",
+        "amenity": "school",
+        "denomination": "reformed",
+        "grades": "1-12",
+        "name": "Liceul Reformat \"Wesselényi\" Zalău",
+        "name:hu": "Zilahi Református \"Wesselényi\" Kollégium",
+        "name:ro": "Liceul Reformat \"Wesselényi\" Zalău",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/448975375",
+      "osm_id": 448975375,
+      "osm_type": "way",
+      "name": "Biserica Baptistă",
+      "category": "place_of_worship",
+      "lat": 47.1771043,
+      "lon": 23.0563522,
+      "tags": {
+        "addr:city": "Zalău",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "baptist",
+        "name": "Biserica Baptistă",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/761944771",
+      "osm_id": 761944771,
+      "osm_type": "way",
+      "name": "Biserica Baptistă Maghiară din Zalău",
+      "category": "place_of_worship",
+      "lat": 47.1755571,
+      "lon": 23.0549671,
+      "tags": {
+        "addr:city": "Zalău",
+        "addr:housenumber": "2",
+        "addr:postcode": "450040",
+        "addr:street": "Strada Nicolae Bălcescu",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "baptist",
+        "name": "Biserica Baptistă Maghiară din Zalău",
+        "name:en": "Hungarian Baptist Church in Zalău",
+        "name:hu": "Zilahi Magyar Baptista Gyülekezet",
+        "name:ro": "Biserica Baptistă Maghiară din Zalău",
+        "phone": "0360 103 534",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/908885469",
+      "osm_id": 908885469,
+      "osm_type": "way",
+      "name": "Biserica Romano-Catolică Preasfânta Treime",
+      "category": "place_of_worship",
+      "lat": 47.1798502,
+      "lon": 23.0558831,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "roman_catholic",
+        "name": "Biserica Romano-Catolică Preasfânta Treime",
+        "name:hu": "Szentháromság-templom",
+        "name:ro": "Biserica Romano-Catolică Preasfânta Treime",
+        "religion": "christian",
+        "url:miserend": "https://miserend.hu/templom/4834"
+      }
+    },
+    {
+      "id": "way/977653745",
+      "osm_id": 977653745,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 47.1801079,
+      "lon": 23.0571663,
+      "tags": {
+        "addr:city": "Zalău",
+        "building": "church"
+      }
+    },
+    {
+      "id": "way/995563791",
+      "osm_id": 995563791,
+      "osm_type": "way",
+      "name": "Cimitirul Reformat Zalau",
+      "category": "place_of_worship",
+      "lat": 47.1746038,
+      "lon": 23.0484652,
+      "tags": {
+        "addr:city": "Zalău",
+        "addr:postcode": "457246",
+        "addr:street": "Strada Brădetului",
+        "denomination": "reformed",
+        "landuse": "cemetery",
+        "name": "Cimitirul Reformat Zalau",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/999346976",
+      "osm_id": 999346976,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 47.1883216,
+      "lon": 23.0643585,
+      "tags": {
+        "addr:city": "Zalău",
+        "building": "church"
+      }
+    },
+    {
+      "id": "way/1001009932",
+      "osm_id": 1001009932,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 47.1734634,
+      "lon": 23.0498449,
+      "tags": {
+        "addr:city": "Zalău",
+        "addr:postcode": "457246",
+        "addr:street": "Strada Brădetului",
+        "landuse": "cemetery",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1013704817",
+      "osm_id": 1013704817,
+      "osm_type": "way",
+      "name": "Biserica Greco-Catolică",
+      "category": "place_of_worship",
+      "lat": 47.177348,
+      "lon": 23.0556842,
+      "tags": {
+        "addr:city": "Zalău",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "greek_catholic",
+        "name": "Biserica Greco-Catolică",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1077759928",
+      "osm_id": 1077759928,
+      "osm_type": "way",
+      "name": "Biserica Baptista Golgota",
+      "category": "place_of_worship",
+      "lat": 47.1843952,
+      "lon": 23.0527939,
+      "tags": {
+        "addr:city": "Zalău",
+        "addr:postcode": "457246",
+        "addr:street": "Strada Cloșca",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "baptist",
+        "name": "Biserica Baptista Golgota",
+        "name:ro": "Biserica Baptista Golgota",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1109204068",
+      "osm_id": 1109204068,
+      "osm_type": "way",
+      "name": "Cimitir - Ortelec",
+      "category": "place_of_worship",
+      "lat": 47.2048006,
+      "lon": 23.10032,
+      "tags": {
+        "addr:city": "Ortelec",
+        "landuse": "cemetery",
+        "name": "Cimitir - Ortelec",
+        "name:hu": "Őrteleki Temetőkert",
+        "name:ro": "Cimitir - Ortelec",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1423674477",
+      "osm_id": 1423674477,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 47.1886525,
+      "lon": 23.0694139,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "religion": "christian"
+      }
+    }
+  ]
+}

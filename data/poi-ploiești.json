@@ -1,0 +1,4607 @@
+{
+  "city": "Ploiești",
+  "generated_at": "2026-04-23T09:10:42.217Z",
+  "counts": {
+    "total": 276,
+    "schools": 187,
+    "churches": 89
+  },
+  "pois": [
+    {
+      "id": "node/475868402",
+      "osm_id": 475868402,
+      "osm_type": "node",
+      "name": "Spiru Haret",
+      "category": "education",
+      "lat": 44.9363793,
+      "lon": 26.0281176,
+      "tags": {
+        "addr:city": "Ploiești",
+        "amenity": "college",
+        "name": "Spiru Haret"
+      }
+    },
+    {
+      "id": "node/5476253821",
+      "osm_id": 5476253821,
+      "osm_type": "node",
+      "name": "E&G Company Translation centre & foreign languages",
+      "category": "education",
+      "lat": 44.9401017,
+      "lon": 26.0202417,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "21",
+        "addr:postcode": "100010",
+        "addr:street": "Strada Gheorghe Grigore Cantacuzino",
+        "amenity": "school",
+        "name": "E&G Company Translation centre & foreign languages",
+        "operator": "Emanuel Stoleru",
+        "phone": "0040728296617"
+      }
+    },
+    {
+      "id": "node/6249917514",
+      "osm_id": 6249917514,
+      "osm_type": "node",
+      "name": "Gradinita si After School Umbreluta Norocoasa",
+      "category": "education",
+      "lat": 44.937061,
+      "lon": 26.0391198,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "22",
+        "addr:street": "Strada Rareș Vodă",
+        "amenity": "kindergarten",
+        "name": "Gradinita si After School Umbreluta Norocoasa"
+      }
+    },
+    {
+      "id": "node/8507189848",
+      "osm_id": 8507189848,
+      "osm_type": "node",
+      "name": "Şcoala Postliceală Sanitară \"Regina Maria De România\"",
+      "category": "education",
+      "lat": 44.9407227,
+      "lon": 25.9920598,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "22",
+        "addr:postcode": "100461",
+        "addr:street": "Șoseaua Vestului",
+        "amenity": "school",
+        "name": "Şcoala Postliceală Sanitară \"Regina Maria De România\"",
+        "website": "http://www.scoala-sanitara-regina-maria-ploiesti.ro/"
+      }
+    },
+    {
+      "id": "way/40490474",
+      "osm_id": 40490474,
+      "osm_type": "way",
+      "name": "Liceul Tehnologic 1 Mai",
+      "category": "education",
+      "lat": 44.9173629,
+      "lon": 26.035927,
+      "tags": {
+        "building": "school",
+        "name": "Liceul Tehnologic 1 Mai"
+      }
+    },
+    {
+      "id": "way/40490483",
+      "osm_id": 40490483,
+      "osm_type": "way",
+      "name": "Atelier",
+      "category": "education",
+      "lat": 44.9167528,
+      "lon": 26.0357268,
+      "tags": {
+        "building": "school",
+        "name": "Atelier"
+      }
+    },
+    {
+      "id": "way/40549205",
+      "osm_id": 40549205,
+      "osm_type": "way",
+      "name": "Liceul de Chimie",
+      "category": "education",
+      "lat": 44.9161031,
+      "lon": 26.0333739,
+      "tags": {
+        "building": "school",
+        "name": "Liceul de Chimie"
+      }
+    },
+    {
+      "id": "way/40549206",
+      "osm_id": 40549206,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.9152943,
+      "lon": 26.0333417,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/40549207",
+      "osm_id": 40549207,
+      "osm_type": "way",
+      "name": "Liceul de Chimie",
+      "category": "education",
+      "lat": 44.9156776,
+      "lon": 26.0330559,
+      "tags": {
+        "building": "school",
+        "name": "Liceul de Chimie"
+      }
+    },
+    {
+      "id": "way/40590110",
+      "osm_id": 40590110,
+      "osm_type": "way",
+      "name": "Colegiul Național \"Spiru Haret\"",
+      "category": "education",
+      "lat": 44.9270661,
+      "lon": 26.0223651,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "8",
+        "addr:street": "Intrarea Constructorilor",
+        "building": "school",
+        "name": "Colegiul Național \"Spiru Haret\"",
+        "old_name": "Liceul Spiru Haret",
+        "website": "http://www.spiruh.ro/"
+      }
+    },
+    {
+      "id": "way/40590128",
+      "osm_id": 40590128,
+      "osm_type": "way",
+      "name": "Colegiul Național \"Spiru Haret\"",
+      "category": "education",
+      "lat": 44.9267301,
+      "lon": 26.0223393,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "8",
+        "addr:street": "Intrarea Constructorilor",
+        "amenity": "school",
+        "barrier": "fence",
+        "is_in:city": "Ploiești",
+        "leisure": "sports_centre",
+        "name": "Colegiul Național \"Spiru Haret\"",
+        "website": "http://www.spiruh.ro/"
+      }
+    },
+    {
+      "id": "way/40590855",
+      "osm_id": 40590855,
+      "osm_type": "way",
+      "name": "Școala Generală nr. 15 \"Mihai Eminescu\"",
+      "category": "education",
+      "lat": 44.9193958,
+      "lon": 26.0354168,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "25A",
+        "addr:street": "Bulevardul București",
+        "building": "school",
+        "name": "Școala Generală nr. 15 \"Mihai Eminescu\""
+      }
+    },
+    {
+      "id": "way/40590914",
+      "osm_id": 40590914,
+      "osm_type": "way",
+      "name": "Școala Gimnazială nr. 15 \"Mihai Eminescu\"",
+      "category": "education",
+      "lat": 44.9195934,
+      "lon": 26.0356325,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "25A",
+        "addr:street": "Bulevardul București",
+        "amenity": "school",
+        "landuse": "recreation_ground",
+        "name": "Școala Gimnazială nr. 15 \"Mihai Eminescu\"",
+        "website": "http://scmihaieminescupl.blogspot.ro/"
+      }
+    },
+    {
+      "id": "way/74661884",
+      "osm_id": 74661884,
+      "osm_type": "way",
+      "name": "Grădinița cu Program Prelungit Numărul 30",
+      "category": "education",
+      "lat": 44.9190401,
+      "lon": 26.0356053,
+      "tags": {
+        "addr:street": "Strada Bărcănești",
+        "building": "kindergarten",
+        "name": "Grădinița cu Program Prelungit Numărul 30"
+      }
+    },
+    {
+      "id": "way/82494223",
+      "osm_id": 82494223,
+      "osm_type": "way",
+      "name": "Liceul Tehnologic 1 Mai",
+      "category": "education",
+      "lat": 44.9168859,
+      "lon": 26.0363234,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "16",
+        "addr:street": "Strada Petrolului",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Liceul Tehnologic 1 Mai",
+        "start_date": "1980",
+        "website": "http://www.liceul1maiploiesti.ro/"
+      }
+    },
+    {
+      "id": "way/82494310",
+      "osm_id": 82494310,
+      "osm_type": "way",
+      "name": "Liceul Tehnologic \"Lazăr Edeleanu\"",
+      "category": "education",
+      "lat": 44.9154982,
+      "lon": 26.0335263,
+      "tags": {
+        "amenity": "school",
+        "barrier": "fence",
+        "is_in:city": "Ploiești",
+        "name": "Liceul Tehnologic \"Lazăr Edeleanu\"",
+        "website": "http://edeleanu.ro/"
+      }
+    },
+    {
+      "id": "way/82496367",
+      "osm_id": 82496367,
+      "osm_type": "way",
+      "name": "Școala nr.32 Victor Slăvescu",
+      "category": "education",
+      "lat": 44.9283545,
+      "lon": 26.0314753,
+      "tags": {
+        "addr:street": "Strada Milcov",
+        "building": "school",
+        "name": "Școala nr.32 Victor Slăvescu",
+        "old_name": "Școala nr.32"
+      }
+    },
+    {
+      "id": "way/82496459",
+      "osm_id": 82496459,
+      "osm_type": "way",
+      "name": "Liceul Tehnologic Administrativ și de Servicii Victor Slăvescu",
+      "category": "education",
+      "lat": 44.9287255,
+      "lon": 26.0313119,
+      "tags": {
+        "addr:street": "Strada Milcov",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Liceul Tehnologic Administrativ și de Servicii Victor Slăvescu",
+        "old_name": "Școala nr.32"
+      }
+    },
+    {
+      "id": "way/82503651",
+      "osm_id": 82503651,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Internațională Spectrum Ploiești",
+      "category": "education",
+      "lat": 44.9360643,
+      "lon": 25.9846535,
+      "tags": {
+        "amenity": "school",
+        "email": "info@ploiesti.spectrum.ro",
+        "name": "Școala Gimnazială Internațională Spectrum Ploiești",
+        "name:en": "International School Spectrum Ploieşti"
+      }
+    },
+    {
+      "id": "way/82503654",
+      "osm_id": 82503654,
+      "osm_type": "way",
+      "name": "Școala Gimnazială nr. 31, \"Nicolae Iorga\"",
+      "category": "education",
+      "lat": 44.9348889,
+      "lon": 25.9843629,
+      "tags": {
+        "addr:housenumber": "4",
+        "addr:street": "Strada Minerva",
+        "amenity": "school",
+        "email": "scoala_nicolaeiorga@yahoo.com",
+        "name": "Școala Gimnazială nr. 31, \"Nicolae Iorga\"",
+        "start_date": "1973"
+      }
+    },
+    {
+      "id": "way/82503686",
+      "osm_id": 82503686,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Toma Caragiu Ploiești",
+      "category": "education",
+      "lat": 44.9337599,
+      "lon": 25.9841865,
+      "tags": {
+        "addr:housenumber": "4",
+        "addr:street": "Strada Minerva",
+        "amenity": "school",
+        "email": "tomacaragiutop@yahoo.com",
+        "name": "Școala Gimnazială Toma Caragiu Ploiești"
+      }
+    },
+    {
+      "id": "way/84805704",
+      "osm_id": 84805704,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Nicolae Bălcescu",
+      "category": "education",
+      "lat": 44.9434714,
+      "lon": 25.9984467,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "2",
+        "addr:street": "Aleea Școlii",
+        "amenity": "school",
+        "name": "Școala Gimnazială Nicolae Bălcescu"
+      }
+    },
+    {
+      "id": "way/84805748",
+      "osm_id": 84805748,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Nicolae Bălcescu (nr. 28)",
+      "category": "education",
+      "lat": 44.943375,
+      "lon": 25.9983922,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "2",
+        "addr:street": "Aleea Școlii",
+        "building": "school",
+        "name": "Școala Gimnazială Nicolae Bălcescu (nr. 28)"
+      }
+    },
+    {
+      "id": "way/84807753",
+      "osm_id": 84807753,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Profesor Nicolae Simache",
+      "category": "education",
+      "lat": 44.9422509,
+      "lon": 26.0002807,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "102",
+        "addr:street": "Strada Malu Roșu",
+        "amenity": "school",
+        "name": "Școala Gimnazială Profesor Nicolae Simache"
+      }
+    },
+    {
+      "id": "way/84807813",
+      "osm_id": 84807813,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Profesor Nicolae Simache",
+      "category": "education",
+      "lat": 44.9420956,
+      "lon": 26.0003216,
+      "tags": {
+        "building": "school",
+        "name": "Școala Gimnazială Profesor Nicolae Simache"
+      }
+    },
+    {
+      "id": "way/84809368",
+      "osm_id": 84809368,
+      "osm_type": "way",
+      "name": "Colegiul Național „Mihai Viteazul”",
+      "category": "education",
+      "lat": 44.9362609,
+      "lon": 26.0247088,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "8",
+        "addr:street": "Bulevardul Independenței",
+        "amenity": "school",
+        "name": "Colegiul Național „Mihai Viteazul”",
+        "website": "http://cnmv.ploiesti.roedu.net",
+        "wikidata": "Q61086534",
+        "wikipedia": "ro:Colegiul Național „Mihai Viteazul” din Ploiești"
+      }
+    },
+    {
+      "id": "way/84811323",
+      "osm_id": 84811323,
+      "osm_type": "way",
+      "name": "Grădinița cu Program Prelungit Numărul 30",
+      "category": "education",
+      "lat": 44.9189851,
+      "lon": 26.0357495,
+      "tags": {
+        "addr:street": "Strada Bărcănești",
+        "amenity": "kindergarten",
+        "name": "Grădinița cu Program Prelungit Numărul 30"
+      }
+    },
+    {
+      "id": "way/85388441",
+      "osm_id": 85388441,
+      "osm_type": "way",
+      "name": "Școala Nr. 20",
+      "category": "education",
+      "lat": 44.9307558,
+      "lon": 26.0005218,
+      "tags": {
+        "amenity": "school",
+        "name": "Școala Nr. 20"
+      }
+    },
+    {
+      "id": "way/85388504",
+      "osm_id": 85388504,
+      "osm_type": "way",
+      "name": "Palatul Copiilor, Municipiul Ploiești",
+      "category": "education",
+      "lat": 44.9306989,
+      "lon": 26.0002598,
+      "tags": {
+        "building": "school",
+        "name": "Palatul Copiilor, Municipiul Ploiești",
+        "old_name": "Casa Pionierilor Ploiești",
+        "start_date": "1950",
+        "website": "http://palatulcopiilorploiesti.ro/"
+      }
+    },
+    {
+      "id": "way/85388835",
+      "osm_id": 85388835,
+      "osm_type": "way",
+      "name": "Școala Gimnazială \"George Emil Palade\", nr. 29",
+      "category": "education",
+      "lat": 44.9324378,
+      "lon": 25.9930806,
+      "tags": {
+        "amenity": "school",
+        "name": "Școala Gimnazială \"George Emil Palade\", nr. 29",
+        "start_date": "1980"
+      }
+    },
+    {
+      "id": "way/85388842",
+      "osm_id": 85388842,
+      "osm_type": "way",
+      "name": "Grădinița cu program prelungit nr. 47",
+      "category": "education",
+      "lat": 44.9323907,
+      "lon": 25.9947035,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "5-7",
+        "addr:street": "Aleea Iezerului",
+        "amenity": "kindergarten",
+        "name": "Grădinița cu program prelungit nr. 47",
+        "name:en": "Kindergarten number 47"
+      }
+    },
+    {
+      "id": "way/85693768",
+      "osm_id": 85693768,
+      "osm_type": "way",
+      "name": "Grădiniţa Sfinţii Arhangheli Mihail şi Gavriil",
+      "category": "education",
+      "lat": 44.9293407,
+      "lon": 26.0346666,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "2",
+        "addr:street": "Strada Lăcrămioarei",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Grădiniţa Sfinţii Arhangheli Mihail şi Gavriil",
+        "old_name": "Creşa Upetrom"
+      }
+    },
+    {
+      "id": "way/85693779",
+      "osm_id": 85693779,
+      "osm_type": "way",
+      "name": "Grădiniţa Sfinţii Arhangheli Mihail şi Gavriil",
+      "category": "education",
+      "lat": 44.9293732,
+      "lon": 26.0347159,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "2",
+        "addr:street": "Strada Lăcrămioarei",
+        "building": "kindergarten",
+        "name": "Grădiniţa Sfinţii Arhangheli Mihail şi Gavriil",
+        "old_name": "Creşa Upetrom"
+      }
+    },
+    {
+      "id": "way/89566032",
+      "osm_id": 89566032,
+      "osm_type": "way",
+      "name": "Colegiul Național Nichita Stănescu",
+      "category": "education",
+      "lat": 44.9581807,
+      "lon": 26.0030975,
+      "tags": {
+        "addr:city": "Ploiesti",
+        "addr:housenumber": "3",
+        "addr:street": "Aleea Nalbei",
+        "amenity": "school",
+        "is_in:city": "Ploiești",
+        "name": "Colegiul Național Nichita Stănescu"
+      }
+    },
+    {
+      "id": "way/89566075",
+      "osm_id": 89566075,
+      "osm_type": "way",
+      "name": "Liceul Constantin Dobrogeanu Gherea",
+      "category": "education",
+      "lat": 44.9579396,
+      "lon": 26.0033977,
+      "tags": {
+        "addr:city": "Ploiesti",
+        "addr:housenumber": "3",
+        "addr:street": "Aleea Nalbei",
+        "building": "school",
+        "name": "Liceul Constantin Dobrogeanu Gherea"
+      }
+    },
+    {
+      "id": "way/89643971",
+      "osm_id": 89643971,
+      "osm_type": "way",
+      "name": "Școala Gimnazială „Andrei Mureșanu” (nr. 23)",
+      "category": "education",
+      "lat": 44.9523488,
+      "lon": 26.0079508,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "4",
+        "addr:street": "Strada Trotuș",
+        "building": "school",
+        "name": "Școala Gimnazială „Andrei Mureșanu” (nr. 23)"
+      }
+    },
+    {
+      "id": "way/89644329",
+      "osm_id": 89644329,
+      "osm_type": "way",
+      "name": "Grădinița cu Program Prelungit nr. 33",
+      "category": "education",
+      "lat": 44.9515507,
+      "lon": 26.0082699,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "5",
+        "addr:street": "Intrarea Grindului",
+        "building": "kindergarten",
+        "name": "Grădinița cu Program Prelungit nr. 33"
+      }
+    },
+    {
+      "id": "way/89644330",
+      "osm_id": 89644330,
+      "osm_type": "way",
+      "name": "Școala Postliceală Sanitară Thoma Ionescu",
+      "category": "education",
+      "lat": 44.9517697,
+      "lon": 26.0074453,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:street": "Strada Predeal",
+        "building": "school",
+        "name": "Școala Postliceală Sanitară Thoma Ionescu"
+      }
+    },
+    {
+      "id": "way/89646841",
+      "osm_id": 89646841,
+      "osm_type": "way",
+      "name": "Școala Gimnazială \"Sfântul Vasile\" (nr. 14)",
+      "category": "education",
+      "lat": 44.9460682,
+      "lon": 26.0120807,
+      "tags": {
+        "building": "school",
+        "name": "Școala Gimnazială \"Sfântul Vasile\" (nr. 14)"
+      }
+    },
+    {
+      "id": "way/89647092",
+      "osm_id": 89647092,
+      "osm_type": "way",
+      "name": "Școala Gimnazială \"Sfântul Vasile\"",
+      "category": "education",
+      "lat": 44.9460032,
+      "lon": 26.0119878,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:street": "Bulevardul Republicii",
+        "amenity": "school",
+        "name": "Școala Gimnazială \"Sfântul Vasile\""
+      }
+    },
+    {
+      "id": "way/95595751",
+      "osm_id": 95595751,
+      "osm_type": "way",
+      "name": "Grădinița Muzicanți",
+      "category": "education",
+      "lat": 44.9308923,
+      "lon": 26.0354282,
+      "tags": {
+        "building": "kindergarten",
+        "name": "Grădinița Muzicanți"
+      }
+    },
+    {
+      "id": "way/95595773",
+      "osm_id": 95595773,
+      "osm_type": "way",
+      "name": "Şcoala Gimnazială George Coşbuc (nr. 10 Muzicanți)",
+      "category": "education",
+      "lat": 44.9313897,
+      "lon": 26.035015,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "17",
+        "addr:street": "Strada Alexandru Lăpușneanu",
+        "building": "school",
+        "name": "Şcoala Gimnazială George Coşbuc (nr. 10 Muzicanți)",
+        "website": "http://www.scoala10georgecosbuc.ro/contact.html"
+      }
+    },
+    {
+      "id": "way/95809352",
+      "osm_id": 95809352,
+      "osm_type": "way",
+      "name": "Colegiul Național \"Alexandru Ioan Cuza\" Ploiești",
+      "category": "education",
+      "lat": 44.9408051,
+      "lon": 26.0167847,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "10",
+        "addr:street": "Strada Trei Ierarhi",
+        "building": "school",
+        "name": "Colegiul Național \"Alexandru Ioan Cuza\" Ploiești"
+      }
+    },
+    {
+      "id": "way/95809368",
+      "osm_id": 95809368,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Elena Doamna",
+      "category": "education",
+      "lat": 44.9420219,
+      "lon": 26.0158496,
+      "tags": {
+        "amenity": "school",
+        "name": "Școala Gimnazială Elena Doamna"
+      }
+    },
+    {
+      "id": "way/95809377",
+      "osm_id": 95809377,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.9408076,
+      "lon": 26.0173009,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "10",
+        "addr:street": "Strada Trei Ierarhi",
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/95809388",
+      "osm_id": 95809388,
+      "osm_type": "way",
+      "name": "Colegiul Național \"Alexandru Ioan Cuza\" Ploiești",
+      "category": "education",
+      "lat": 44.9409814,
+      "lon": 26.0171173,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "10",
+        "addr:street": "Strada Trei Ierarhi",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Colegiul Național \"Alexandru Ioan Cuza\" Ploiești",
+        "website": "http://www.liccuza.ro/"
+      }
+    },
+    {
+      "id": "way/95809394",
+      "osm_id": 95809394,
+      "osm_type": "way",
+      "name": "Colegiul Național „Mihai Viteazul” (LMV)",
+      "category": "education",
+      "lat": 44.9365521,
+      "lon": 26.0252247,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "8",
+        "addr:street": "Bulevardul Independenței",
+        "building": "school",
+        "building:levels": "3",
+        "name": "Colegiul Național „Mihai Viteazul” (LMV)",
+        "roof:shape": "flat",
+        "website": "http://cnmv.ploiesti.roedu.net",
+        "wikipedia": "ro:Colegiul Național „Mihai Viteazul” din Ploiești"
+      }
+    },
+    {
+      "id": "way/98141908",
+      "osm_id": 98141908,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.9423137,
+      "lon": 26.0002815,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/98141910",
+      "osm_id": 98141910,
+      "osm_type": "way",
+      "name": "Școala Gimnazială \"Ion Creangă\"",
+      "category": "education",
+      "lat": 44.9489977,
+      "lon": 26.0041654,
+      "tags": {
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Școala Gimnazială \"Ion Creangă\""
+      }
+    },
+    {
+      "id": "way/98141928",
+      "osm_id": 98141928,
+      "osm_type": "way",
+      "name": "Școala Gimnazială \"Ion Creangă\" (nr. 5)",
+      "category": "education",
+      "lat": 44.9489715,
+      "lon": 26.0041393,
+      "tags": {
+        "building": "school",
+        "name": "Școala Gimnazială \"Ion Creangă\" (nr. 5)"
+      }
+    },
+    {
+      "id": "way/100288952",
+      "osm_id": 100288952,
+      "osm_type": "way",
+      "name": "Colegiul de Artă „Carmen Sylva”",
+      "category": "education",
+      "lat": 44.9299273,
+      "lon": 26.0228254,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "44",
+        "addr:street": "Strada Bobâlna",
+        "building": "school",
+        "name": "Colegiul de Artă „Carmen Sylva”",
+        "website": "https://colegiul-carmensylva.ro/"
+      }
+    },
+    {
+      "id": "way/100288973",
+      "osm_id": 100288973,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.9303977,
+      "lon": 26.0222907,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/100290157",
+      "osm_id": 100290157,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.9324936,
+      "lon": 26.0289639,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/100307470",
+      "osm_id": 100307470,
+      "osm_type": "way",
+      "name": "Liceul I.L. Caragiale",
+      "category": "education",
+      "lat": 44.9450026,
+      "lon": 26.0262318,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "98",
+        "addr:postcode": "100164",
+        "addr:street": "Strada Gheorghe Doja",
+        "alt_name": "Palatului Școalelor Comerciale",
+        "architect": "Toma T. Socolescu",
+        "architect:wikipedia": "ro:Toma T. Socolescu",
+        "building": "school",
+        "heritage": "2",
+        "heritage:operator": "lmi",
+        "historic": "building",
+        "name": "Liceul I.L. Caragiale",
+        "old_name": "Şcoala Superioară de Comerţ",
+        "ref:RO:lmi": "PH-II-m-A-16260",
+        "start_date": "1929",
+        "website": "http://www.cn-caragiale.ro",
+        "wikidata": "Q43091942"
+      }
+    },
+    {
+      "id": "way/111291569",
+      "osm_id": 111291569,
+      "osm_type": "way",
+      "name": "Grădinița Program Prelungit Nr. 23",
+      "category": "education",
+      "lat": 44.9441496,
+      "lon": 25.9998667,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "46",
+        "addr:street": "Aleea Profesorilor",
+        "building": "kindergarten",
+        "name": "Grădinița Program Prelungit Nr. 23"
+      }
+    },
+    {
+      "id": "way/111293349",
+      "osm_id": 111293349,
+      "osm_type": "way",
+      "name": "Grădinița Step by Step Licurici (nr. 53 Brazi)",
+      "category": "education",
+      "lat": 44.9552915,
+      "lon": 25.9984418,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "2",
+        "addr:street": "Strada Arinului",
+        "building": "kindergarten",
+        "name": "Grădinița Step by Step Licurici (nr. 53 Brazi)"
+      }
+    },
+    {
+      "id": "way/111869594",
+      "osm_id": 111869594,
+      "osm_type": "way",
+      "name": "Liceul Energetic",
+      "category": "education",
+      "lat": 44.9407108,
+      "lon": 25.9925054,
+      "tags": {
+        "building": "school",
+        "name": "Liceul Energetic"
+      }
+    },
+    {
+      "id": "way/111869603",
+      "osm_id": 111869603,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Specială Nr. 2",
+      "category": "education",
+      "lat": 44.9402579,
+      "lon": 25.9916055,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "328",
+        "addr:street": "Strada Gheorghe Grigore Cantacuzino",
+        "amenity": "school",
+        "building": "school",
+        "name": "Școala Gimnazială Specială Nr. 2",
+        "website": "http://www.isj.ph.edu.ro/afisare?scoala=1761&categorie=233"
+      }
+    },
+    {
+      "id": "way/111870163",
+      "osm_id": 111870163,
+      "osm_type": "way",
+      "name": "Liceul de Construcții",
+      "category": "education",
+      "lat": 44.9386237,
+      "lon": 25.9916113,
+      "tags": {
+        "building": "school",
+        "name": "Liceul de Construcții"
+      }
+    },
+    {
+      "id": "way/111873412",
+      "osm_id": 111873412,
+      "osm_type": "way",
+      "name": "Grădinița program prelungit Sf. Mucenic Mina (nr. 36)",
+      "category": "education",
+      "lat": 44.9358413,
+      "lon": 25.9878957,
+      "tags": {
+        "building": "kindergarten",
+        "name": "Grădinița program prelungit Sf. Mucenic Mina (nr. 36)"
+      }
+    },
+    {
+      "id": "way/111873820",
+      "osm_id": 111873820,
+      "osm_type": "way",
+      "name": "Grădinița cu Program Normal nr. 39",
+      "category": "education",
+      "lat": 44.9343691,
+      "lon": 25.9831777,
+      "tags": {
+        "building": "kindergarten",
+        "name": "Grădinița cu Program Normal nr. 39"
+      }
+    },
+    {
+      "id": "way/111875353",
+      "osm_id": 111875353,
+      "osm_type": "way",
+      "name": "Grădinița cu Program Prelungit Nr. 40",
+      "category": "education",
+      "lat": 44.9309597,
+      "lon": 25.9870631,
+      "tags": {
+        "building": "kindergarten",
+        "name": "Grădinița cu Program Prelungit Nr. 40"
+      }
+    },
+    {
+      "id": "way/112163066",
+      "osm_id": 112163066,
+      "osm_type": "way",
+      "name": "Școala Postliceală Sanitară",
+      "category": "education",
+      "lat": 44.9591979,
+      "lon": 26.007247,
+      "tags": {
+        "addr:housenumber": "1",
+        "addr:street": "Intrarea Petuniei",
+        "building": "school",
+        "name": "Școala Postliceală Sanitară"
+      }
+    },
+    {
+      "id": "way/112163067",
+      "osm_id": 112163067,
+      "osm_type": "way",
+      "name": "Liceul Tehnologic de Servicii Sfântul Apostol Andrei (nr. 24)",
+      "category": "education",
+      "lat": 44.9598857,
+      "lon": 26.0065611,
+      "tags": {
+        "addr:housenumber": "4",
+        "addr:street": "Aleea Dedițel",
+        "building": "school",
+        "name": "Liceul Tehnologic de Servicii Sfântul Apostol Andrei (nr. 24)"
+      }
+    },
+    {
+      "id": "way/112163068",
+      "osm_id": 112163068,
+      "osm_type": "way",
+      "name": "Grădinița cu Program Prelungit Raza De Soare",
+      "category": "education",
+      "lat": 44.9603939,
+      "lon": 26.0059746,
+      "tags": {
+        "addr:housenumber": "2",
+        "addr:street": "Aleea Dedițel",
+        "building": "kindergarten",
+        "name": "Grădinița cu Program Prelungit Raza De Soare"
+      }
+    },
+    {
+      "id": "way/112163069",
+      "osm_id": 112163069,
+      "osm_type": "way",
+      "name": "Centrul de servicii sociale Sf. Andrei",
+      "category": "education",
+      "lat": 44.9585354,
+      "lon": 26.0064764,
+      "tags": {
+        "building": "kindergarten",
+        "name": "Centrul de servicii sociale Sf. Andrei"
+      }
+    },
+    {
+      "id": "way/112168308",
+      "osm_id": 112168308,
+      "osm_type": "way",
+      "name": "Școala Gimnazială \"Grigore Moisil\" (nr. 8)",
+      "category": "education",
+      "lat": 44.9558317,
+      "lon": 25.999872,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "2A",
+        "addr:street": "Aleea Laurilor",
+        "building": "school",
+        "name": "Școala Gimnazială \"Grigore Moisil\" (nr. 8)"
+      }
+    },
+    {
+      "id": "way/112640488",
+      "osm_id": 112640488,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Ioan Alexandru Bassarabescu",
+      "category": "education",
+      "lat": 44.9275851,
+      "lon": 25.9956078,
+      "tags": {
+        "building": "school",
+        "name": "Școala Gimnazială Ioan Alexandru Bassarabescu"
+      }
+    },
+    {
+      "id": "way/112962738",
+      "osm_id": 112962738,
+      "osm_type": "way",
+      "name": "Grădinița cu Program Prelungit Crai Nou (nr. 44)",
+      "category": "education",
+      "lat": 44.9294835,
+      "lon": 26.0232881,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "44",
+        "addr:street": "Strada Bobâlna",
+        "building": "kindergarten",
+        "name": "Grădinița cu Program Prelungit Crai Nou (nr. 44)",
+        "website": "http://www.gradinitacrainouploiesti.ro"
+      }
+    },
+    {
+      "id": "way/113155684",
+      "osm_id": 113155684,
+      "osm_type": "way",
+      "name": "Școala Gimnazială \"Radu Stanian\" (nr. 1)",
+      "category": "education",
+      "lat": 44.9277888,
+      "lon": 26.024053,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "76",
+        "addr:street": "Strada Bobâlna",
+        "building": "school",
+        "name": "Școala Gimnazială \"Radu Stanian\" (nr. 1)"
+      }
+    },
+    {
+      "id": "way/113798433",
+      "osm_id": 113798433,
+      "osm_type": "way",
+      "name": "Grădinița cu Program Prelungit Dumbrava Minunată",
+      "category": "education",
+      "lat": 44.9544394,
+      "lon": 26.0001232,
+      "tags": {
+        "building": "kindergarten",
+        "name": "Grădinița cu Program Prelungit Dumbrava Minunată"
+      }
+    },
+    {
+      "id": "way/114044811",
+      "osm_id": 114044811,
+      "osm_type": "way",
+      "name": "Școala nr. 13 Gheorghe Șincai",
+      "category": "education",
+      "lat": 44.9502375,
+      "lon": 26.0164026,
+      "tags": {
+        "amenity": "school",
+        "name": "Școala nr. 13 Gheorghe Șincai"
+      }
+    },
+    {
+      "id": "way/114045939",
+      "osm_id": 114045939,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Nicolae Titulescu",
+      "category": "education",
+      "lat": 44.9362646,
+      "lon": 26.0105365,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "23",
+        "addr:street": "Strada Popa Farcaș",
+        "amenity": "school",
+        "name": "Școala Gimnazială Nicolae Titulescu"
+      }
+    },
+    {
+      "id": "way/114046581",
+      "osm_id": 114046581,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Nicolae Titulescu (nr. 12)",
+      "category": "education",
+      "lat": 44.9364157,
+      "lon": 26.0104473,
+      "tags": {
+        "building": "school",
+        "name": "Școala Gimnazială Nicolae Titulescu (nr. 12)"
+      }
+    },
+    {
+      "id": "way/114358473",
+      "osm_id": 114358473,
+      "osm_type": "way",
+      "name": "Școala Gimnazială „Rareș Vodă”",
+      "category": "education",
+      "lat": 44.936394,
+      "lon": 26.0333335,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "3",
+        "addr:street": "Strada Vornicul Boldur",
+        "amenity": "school",
+        "name": "Școala Gimnazială „Rareș Vodă”",
+        "start_date": "1866"
+      }
+    },
+    {
+      "id": "way/114455768",
+      "osm_id": 114455768,
+      "osm_type": "way",
+      "name": "Şcoala Gimnazială \"George Coşbuc\"",
+      "category": "education",
+      "lat": 44.9313452,
+      "lon": 26.0350762,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "17",
+        "addr:street": "Strada Alexandru Lăpușneanu",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Şcoala Gimnazială \"George Coşbuc\"",
+        "website": "http://www.scoala10georgecosbuc.ro/contact.html"
+      }
+    },
+    {
+      "id": "way/114834528",
+      "osm_id": 114834528,
+      "osm_type": "way",
+      "name": "Colegiul Economic \"Virgil Madgearu\"",
+      "category": "education",
+      "lat": 44.9362476,
+      "lon": 26.0199571,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "24",
+        "addr:street": "Strada Rudului",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Colegiul Economic \"Virgil Madgearu\"",
+        "website": "http://cevmpl.ro/"
+      }
+    },
+    {
+      "id": "way/114835877",
+      "osm_id": 114835877,
+      "osm_type": "way",
+      "name": "Colegiul de Artă „Carmen Sylva” din Ploiești",
+      "category": "education",
+      "lat": 44.9301732,
+      "lon": 26.0231294,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "44",
+        "addr:street": "Strada Bobâlna",
+        "amenity": "school",
+        "name": "Colegiul de Artă „Carmen Sylva” din Ploiești",
+        "website": "https://colegiul-carmensylva.ro/"
+      }
+    },
+    {
+      "id": "way/242247799",
+      "osm_id": 242247799,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Ienăchiță Văcărescu",
+      "category": "education",
+      "lat": 44.9399147,
+      "lon": 25.9990226,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "22",
+        "addr:postcode": "100489",
+        "addr:street": "Strada Spătar Milescu",
+        "amenity": "school",
+        "barrier": "fence",
+        "email": "scoala2@ploiesti.iiruc.ro",
+        "name": "Școala Gimnazială Ienăchiță Văcărescu",
+        "old_name": "Școala cu clasele I-VIII nr. 2,",
+        "start_date": "1916",
+        "website": "http://www.isj.ph.edu.ro/afisare?scoala=1761&categorie=233"
+      }
+    },
+    {
+      "id": "way/242247800",
+      "osm_id": 242247800,
+      "osm_type": "way",
+      "name": "Școala Ienăchiță Văcărescu (nr. 2)",
+      "category": "education",
+      "lat": 44.940071,
+      "lon": 25.9993597,
+      "tags": {
+        "building": "school",
+        "name": "Școala Ienăchiță Văcărescu (nr. 2)",
+        "start_date": "1908"
+      }
+    },
+    {
+      "id": "way/262103246",
+      "osm_id": 262103246,
+      "osm_type": "way",
+      "name": "Liceul Tehnologic „Ludovic Mrazek”",
+      "category": "education",
+      "lat": 44.9435411,
+      "lon": 26.0923994,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "241",
+        "addr:street": "Strada Mihai Bravu",
+        "building": "school",
+        "name": "Liceul Tehnologic „Ludovic Mrazek”",
+        "old_name": "Grupul Școlar Petrol Teleajen"
+      }
+    },
+    {
+      "id": "way/373232445",
+      "osm_id": 373232445,
+      "osm_type": "way",
+      "name": "Liceul Tehnologic De Transporturi",
+      "category": "education",
+      "lat": 44.9563124,
+      "lon": 26.0223774,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "144G",
+        "addr:postcode": "100125",
+        "addr:street": "Strada Văleni",
+        "building": "school",
+        "building:levels": "3",
+        "name": "Liceul Tehnologic De Transporturi",
+        "website": "https://lttransporturi.ro/"
+      }
+    },
+    {
+      "id": "way/423413606",
+      "osm_id": 423413606,
+      "osm_type": "way",
+      "name": "Liceul Tehnologic Toma N. Socolescu",
+      "category": "education",
+      "lat": 44.9390195,
+      "lon": 25.9914108,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "328",
+        "addr:postcode": "100537",
+        "addr:street": "Strada Gheorghe Grigore Cantacuzino",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Liceul Tehnologic Toma N. Socolescu",
+        "old_name": "Liceul de Construcții",
+        "start_date": "1972",
+        "website": "https://tnsoc.ro/"
+      }
+    },
+    {
+      "id": "way/423954832",
+      "osm_id": 423954832,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.9315981,
+      "lon": 26.0041463,
+      "tags": {
+        "building": "kindergarten"
+      }
+    },
+    {
+      "id": "way/429796076",
+      "osm_id": 429796076,
+      "osm_type": "way",
+      "name": "Școala Gimnazială „Rareș Vodă” (nr. 9)",
+      "category": "education",
+      "lat": 44.9364016,
+      "lon": 26.0334707,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "3",
+        "addr:street": "Strada Vornicul Boldur",
+        "building": "school",
+        "name": "Școala Gimnazială „Rareș Vodă” (nr. 9)"
+      }
+    },
+    {
+      "id": "way/552382852",
+      "osm_id": 552382852,
+      "osm_type": "way",
+      "name": "Școala Gimnazială \"Unirea\" Ploiești",
+      "category": "education",
+      "lat": 44.9285713,
+      "lon": 26.0496761,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "1",
+        "addr:street": "Strada Făgăraș",
+        "building": "school",
+        "name": "Școala Gimnazială \"Unirea\" Ploiești"
+      }
+    },
+    {
+      "id": "way/552382856",
+      "osm_id": 552382856,
+      "osm_type": "way",
+      "name": "Școala Gimnazială \"Unirea\" Ploiești",
+      "category": "education",
+      "lat": 44.9286358,
+      "lon": 26.0495984,
+      "tags": {
+        "amenity": "school",
+        "name": "Școala Gimnazială \"Unirea\" Ploiești"
+      }
+    },
+    {
+      "id": "way/576181029",
+      "osm_id": 576181029,
+      "osm_type": "way",
+      "name": "Școala Gimnazială ,,Sfânta Vineri” (nr. 21)",
+      "category": "education",
+      "lat": 44.9437913,
+      "lon": 26.0302497,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "19",
+        "addr:street": "Strada Poștei",
+        "building": "school",
+        "name": "Școala Gimnazială ,,Sfânta Vineri” (nr. 21)",
+        "website": "www.scoalasfvineri.ro"
+      }
+    },
+    {
+      "id": "way/617157490",
+      "osm_id": 617157490,
+      "osm_type": "way",
+      "name": "Școala Gimnazială \"Henri Mathias Berthelot\" (nr. 25)",
+      "category": "education",
+      "lat": 44.9548572,
+      "lon": 25.9991656,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:street": "Strada Arinului",
+        "building": "school",
+        "name": "Școala Gimnazială \"Henri Mathias Berthelot\" (nr. 25)"
+      }
+    },
+    {
+      "id": "way/643068523",
+      "osm_id": 643068523,
+      "osm_type": "way",
+      "name": "Școala Gimnazială \"Ioan Grigorescu\"",
+      "category": "education",
+      "lat": 44.9331931,
+      "lon": 26.0475482,
+      "tags": {
+        "amenity": "school",
+        "name": "Școala Gimnazială \"Ioan Grigorescu\""
+      }
+    },
+    {
+      "id": "way/643290323",
+      "osm_id": 643290323,
+      "osm_type": "way",
+      "name": "Centrul Familia Ta",
+      "category": "education",
+      "lat": 44.9293026,
+      "lon": 26.0242678,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "52",
+        "addr:street": "Strada Bobâlna",
+        "amenity": "school",
+        "building": "school",
+        "name": "Centrul Familia Ta",
+        "website": "http://www.centrulfamiliata.ro"
+      }
+    },
+    {
+      "id": "way/661838521",
+      "osm_id": 661838521,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Toma Caragiu (nr. 3)",
+      "category": "education",
+      "lat": 44.933656,
+      "lon": 25.9841927,
+      "tags": {
+        "building": "school",
+        "name": "Școala Gimnazială Toma Caragiu (nr. 3)"
+      }
+    },
+    {
+      "id": "way/786399277",
+      "osm_id": 786399277,
+      "osm_type": "way",
+      "name": "Liceul Tehnologic Energetic \"Elie Radu\"",
+      "category": "education",
+      "lat": 44.9402413,
+      "lon": 25.9919694,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "66",
+        "addr:street": "Șoseaua Vestului",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Liceul Tehnologic Energetic \"Elie Radu\"",
+        "old_name": "Liceul Energetic",
+        "website": "http://www.ltelieradu.eu/"
+      }
+    },
+    {
+      "id": "way/790221240",
+      "osm_id": 790221240,
+      "osm_type": "way",
+      "name": "Școala Gimnazială \"Candiano Popescu\"",
+      "category": "education",
+      "lat": 44.9505519,
+      "lon": 26.0214632,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "39",
+        "addr:street": "Strada Nucilor",
+        "building": "school",
+        "name": "Școala Gimnazială \"Candiano Popescu\""
+      }
+    },
+    {
+      "id": "way/790226829",
+      "osm_id": 790226829,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.9468249,
+      "lon": 26.0242341,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/790226830",
+      "osm_id": 790226830,
+      "osm_type": "way",
+      "name": "Școala Mică a Colegiului Național „Ion Luca Caragiale”",
+      "category": "education",
+      "lat": 44.9465601,
+      "lon": 26.0239401,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "57",
+        "addr:street": "Strada Romană",
+        "building": "school",
+        "name": "Școala Mică a Colegiului Național „Ion Luca Caragiale”"
+      }
+    },
+    {
+      "id": "way/854467477",
+      "osm_id": 854467477,
+      "osm_type": "way",
+      "name": "Grădinița Căsuța cu Povești",
+      "category": "education",
+      "lat": 44.9317881,
+      "lon": 26.0238757,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "14",
+        "addr:street": "Strada Petre Negulescu",
+        "building": "kindergarten",
+        "name": "Grădinița Căsuța cu Povești"
+      }
+    },
+    {
+      "id": "way/878352839",
+      "osm_id": 878352839,
+      "osm_type": "way",
+      "name": "Școala Generală Matei Basarab (nr. 6)",
+      "category": "education",
+      "lat": 44.9360516,
+      "lon": 25.9846271,
+      "tags": {
+        "building": "school",
+        "name": "Școala Generală Matei Basarab (nr. 6)"
+      }
+    },
+    {
+      "id": "way/878352842",
+      "osm_id": 878352842,
+      "osm_type": "way",
+      "name": "Grădinița program prelungit Sf. Mucenic Mina",
+      "category": "education",
+      "lat": 44.9358397,
+      "lon": 25.9879868,
+      "tags": {
+        "addr:street": "Strada Erou Moldoveanu Marian",
+        "amenity": "kindergarten",
+        "email": "gradinitasfmina@yahoo.com",
+        "name": "Grădinița program prelungit Sf. Mucenic Mina",
+        "phone": "0244/555604",
+        "start_date": "1972",
+        "website": "http://www.isj.ph.edu.ro/afisare?scoala=1135&categorie=259"
+      }
+    },
+    {
+      "id": "way/878352850",
+      "osm_id": 878352850,
+      "osm_type": "way",
+      "name": "Grădinița cu Program Normal nr. 39",
+      "category": "education",
+      "lat": 44.9343609,
+      "lon": 25.9831114,
+      "tags": {
+        "amenity": "kindergarten",
+        "barrier": "fence",
+        "name": "Grădinița cu Program Normal nr. 39",
+        "website": "http://www.isj.ph.edu.ro/afisare?scoala=1141&categorie=217"
+      }
+    },
+    {
+      "id": "way/878352851",
+      "osm_id": 878352851,
+      "osm_type": "way",
+      "name": "Grădinița cu Program Prelungit Nr. 40",
+      "category": "education",
+      "lat": 44.9309065,
+      "lon": 25.9871165,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Grădinița cu Program Prelungit Nr. 40"
+      }
+    },
+    {
+      "id": "way/878352852",
+      "osm_id": 878352852,
+      "osm_type": "way",
+      "name": "Școala Gimnazială \"Nicolae Iorga\" (nr. 31)",
+      "category": "education",
+      "lat": 44.9349196,
+      "lon": 25.9843296,
+      "tags": {
+        "building": "school",
+        "name": "Școala Gimnazială \"Nicolae Iorga\" (nr. 31)"
+      }
+    },
+    {
+      "id": "way/878357437",
+      "osm_id": 878357437,
+      "osm_type": "way",
+      "name": "Grădinița cu program prelungit nr. 47",
+      "category": "education",
+      "lat": 44.932456,
+      "lon": 25.9946233,
+      "tags": {
+        "building": "kindergarten",
+        "name": "Grădinița cu program prelungit nr. 47"
+      }
+    },
+    {
+      "id": "way/878357439",
+      "osm_id": 878357439,
+      "osm_type": "way",
+      "name": "Grădinița cu Program Normal Nr. 50",
+      "category": "education",
+      "lat": 44.9328306,
+      "lon": 25.9931475,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "4",
+        "addr:street": "Aleea Godeanu",
+        "amenity": "school",
+        "name": "Grădinița cu Program Normal Nr. 50",
+        "start_date": "1981",
+        "website": "http://www.isj.ph.edu.ro/afisare?scoala=1811&categorie=217"
+      }
+    },
+    {
+      "id": "way/878357440",
+      "osm_id": 878357440,
+      "osm_type": "way",
+      "name": "Școala Gimnazială \"George Emil Palade\" (nr. 29)",
+      "category": "education",
+      "lat": 44.9325238,
+      "lon": 25.9928551,
+      "tags": {
+        "building": "school",
+        "name": "Școala Gimnazială \"George Emil Palade\" (nr. 29)"
+      }
+    },
+    {
+      "id": "way/878357441",
+      "osm_id": 878357441,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.932609,
+      "lon": 25.9931775,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/878357442",
+      "osm_id": 878357442,
+      "osm_type": "way",
+      "name": "Grădinița cu Program Normal Nr. 50",
+      "category": "education",
+      "lat": 44.9328037,
+      "lon": 25.993059,
+      "tags": {
+        "building": "kindergarten",
+        "name": "Grădinița cu Program Normal Nr. 50"
+      }
+    },
+    {
+      "id": "way/879372558",
+      "osm_id": 879372558,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Ioan Alexandru Bassarabescu",
+      "category": "education",
+      "lat": 44.9276874,
+      "lon": 25.9956178,
+      "tags": {
+        "amenity": "school",
+        "name": "Școala Gimnazială Ioan Alexandru Bassarabescu"
+      }
+    },
+    {
+      "id": "way/879458300",
+      "osm_id": 879458300,
+      "osm_type": "way",
+      "name": "Grădinița Program Normal Căsuța Cu Povești",
+      "category": "education",
+      "lat": 44.9287415,
+      "lon": 26.0064841,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "6",
+        "addr:postcode": "107592",
+        "addr:street": "Strada Arhimede",
+        "amenity": "kindergarten",
+        "building": "kindergarten",
+        "name": "Grădinița Program Normal Căsuța Cu Povești"
+      }
+    },
+    {
+      "id": "way/879779654",
+      "osm_id": 879779654,
+      "osm_type": "way",
+      "name": "Gradinița Hello Kids",
+      "category": "education",
+      "lat": 44.9315699,
+      "lon": 26.0041719,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "2A",
+        "addr:postcode": "100278",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Frăsinet",
+        "amenity": "kindergarten",
+        "email": "contact@hello-kids.ro",
+        "name": "Gradinița Hello Kids",
+        "opening_hours": "24/7",
+        "phone": "0723616533",
+        "website": "https://hello-kids.ro/"
+      }
+    },
+    {
+      "id": "way/879779655",
+      "osm_id": 879779655,
+      "osm_type": "way",
+      "name": "Grădinița Pișcoțel",
+      "category": "education",
+      "lat": 44.9316589,
+      "lon": 26.0051616,
+      "tags": {
+        "amenity": "kindergarten",
+        "building": "kindergarten",
+        "name": "Grădinița Pișcoțel"
+      }
+    },
+    {
+      "id": "way/879894317",
+      "osm_id": 879894317,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Elena Doamna",
+      "category": "education",
+      "lat": 44.941759,
+      "lon": 26.0160659,
+      "tags": {
+        "building": "school",
+        "name": "Școala Gimnazială Elena Doamna"
+      }
+    },
+    {
+      "id": "way/879894319",
+      "osm_id": 879894319,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Elena Doamna",
+      "category": "education",
+      "lat": 44.942317,
+      "lon": 26.0155433,
+      "tags": {
+        "building": "school",
+        "name": "Școala Gimnazială Elena Doamna"
+      }
+    },
+    {
+      "id": "way/879894320",
+      "osm_id": 879894320,
+      "osm_type": "way",
+      "name": "Grădinița cu Program Prelungit nr. 28 Ploiești",
+      "category": "education",
+      "lat": 44.9365606,
+      "lon": 26.0177137,
+      "tags": {
+        "building": "kindergarten",
+        "name": "Grădinița cu Program Prelungit nr. 28 Ploiești"
+      }
+    },
+    {
+      "id": "way/879894321",
+      "osm_id": 879894321,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.9368811,
+      "lon": 26.0177034,
+      "tags": {
+        "building": "kindergarten"
+      }
+    },
+    {
+      "id": "way/879894322",
+      "osm_id": 879894322,
+      "osm_type": "way",
+      "name": "Grădinița cu Program Prelungit nr. 28 din Ploiești",
+      "category": "education",
+      "lat": 44.9367465,
+      "lon": 26.0177104,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "58",
+        "addr:street": "Strada Mărășești",
+        "amenity": "kindergarten",
+        "name": "Grădinița cu Program Prelungit nr. 28 din Ploiești",
+        "old_name": "Gădinița de copii a Fundației Maria și Hendel Predingher",
+        "website": "https://gradinita28ploiesti.ro/"
+      }
+    },
+    {
+      "id": "way/880296365",
+      "osm_id": 880296365,
+      "osm_type": "way",
+      "name": "Grădinița Program Prelungit Nr. 21",
+      "category": "education",
+      "lat": 44.9443361,
+      "lon": 25.9966671,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Grădinița Program Prelungit Nr. 21",
+        "website": "http://gradinitanr21ploiesti.ro/"
+      }
+    },
+    {
+      "id": "way/880296367",
+      "osm_id": 880296367,
+      "osm_type": "way",
+      "name": "Grădinița Program Prelungit Nr. 23",
+      "category": "education",
+      "lat": 44.9441808,
+      "lon": 25.9997818,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "46",
+        "addr:street": "Aleea Profesorilor",
+        "amenity": "kindergarten",
+        "name": "Grădinița Program Prelungit Nr. 23"
+      }
+    },
+    {
+      "id": "way/881138582",
+      "osm_id": 881138582,
+      "osm_type": "way",
+      "name": "Grădinița Dorobanțul (nr. 17)",
+      "category": "education",
+      "lat": 44.9346439,
+      "lon": 26.0492915,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "91",
+        "addr:street": "Strada Mircea cel Bătrân",
+        "building": "kindergarten",
+        "name": "Grădinița Dorobanțul (nr. 17)",
+        "start_date": "1976"
+      }
+    },
+    {
+      "id": "way/881138583",
+      "osm_id": 881138583,
+      "osm_type": "way",
+      "name": "Grădinița cu Program Normal și Prelungit nr. 17 (Scufița Roșie)",
+      "category": "education",
+      "lat": 44.9344079,
+      "lon": 26.0492507,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "91",
+        "addr:street": "Strada Mircea cel Bătrân",
+        "amenity": "kindergarten",
+        "name": "Grădinița cu Program Normal și Prelungit nr. 17 (Scufița Roșie)",
+        "start_date": "1976"
+      }
+    },
+    {
+      "id": "way/881662805",
+      "osm_id": 881662805,
+      "osm_type": "way",
+      "name": "Grădinița cu Program Normal Nr. 4",
+      "category": "education",
+      "lat": 44.9380648,
+      "lon": 26.0384021,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "28",
+        "addr:street": "Strada Roșiori",
+        "building": "kindergarten",
+        "name": "Grădinița cu Program Normal Nr. 4"
+      }
+    },
+    {
+      "id": "way/881662806",
+      "osm_id": 881662806,
+      "osm_type": "way",
+      "name": "Grădinița cu Program Normal Nr. 4",
+      "category": "education",
+      "lat": 44.9380184,
+      "lon": 26.0384228,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "28",
+        "addr:street": "Strada Roșiori",
+        "amenity": "kindergarten",
+        "name": "Grădinița cu Program Normal Nr. 4"
+      }
+    },
+    {
+      "id": "way/881675967",
+      "osm_id": 881675967,
+      "osm_type": "way",
+      "name": "Grădinița Program Prelungit NR. 38",
+      "category": "education",
+      "lat": 44.9368017,
+      "lon": 26.0365386,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "2",
+        "addr:street": "Strada Rareș Vodă",
+        "building": "kindergarten",
+        "name": "Grădinița Program Prelungit NR. 38",
+        "website": "https://scoalararesvoda.wordpress.com/"
+      }
+    },
+    {
+      "id": "way/881675968",
+      "osm_id": 881675968,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.9369907,
+      "lon": 26.0370593,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/881675969",
+      "osm_id": 881675969,
+      "osm_type": "way",
+      "name": "Grădinița cu Program Prelungit Nr. 38",
+      "category": "education",
+      "lat": 44.9367957,
+      "lon": 26.0365552,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "2",
+        "addr:street": "Strada Rareș Vodă",
+        "amenity": "kindergarten",
+        "name": "Grădinița cu Program Prelungit Nr. 38",
+        "website": "https://scoalararesvoda.wordpress.com/"
+      }
+    },
+    {
+      "id": "way/882077366",
+      "osm_id": 882077366,
+      "osm_type": "way",
+      "name": "Liceul Tehnologic UCECOM Spiru Haret",
+      "category": "education",
+      "lat": 44.9435016,
+      "lon": 26.0385943,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "27",
+        "addr:street": "Strada Doctor Toma Ionescu",
+        "amenity": "school",
+        "education": "school",
+        "name": "Liceul Tehnologic UCECOM Spiru Haret",
+        "old_name": "Grupul Școlar de Arte și Meserii al Cooperației Meșteșugărești „Spiru Haret”",
+        "website": "https://liceul-ucecom.ro/"
+      }
+    },
+    {
+      "id": "way/882077368",
+      "osm_id": 882077368,
+      "osm_type": "way",
+      "name": "Liceul Tehnologic UCECOM Spiru Haret",
+      "category": "education",
+      "lat": 44.9429888,
+      "lon": 26.0383041,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "27",
+        "addr:street": "Strada Doctor Toma Ionescu",
+        "building": "school",
+        "name": "Liceul Tehnologic UCECOM Spiru Haret",
+        "old_name": "Grupul Școlar de Arte și Meserii al Cooperației Meșteșugărești „Spiru Haret\"",
+        "website": "https://liceul-ucecom.ro/"
+      }
+    },
+    {
+      "id": "way/882127363",
+      "osm_id": 882127363,
+      "osm_type": "way",
+      "name": "Școala Gimnazială \"Anton Pann\"",
+      "category": "education",
+      "lat": 44.9515953,
+      "lon": 26.0450543,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "8",
+        "addr:street": "Strada Luminișului",
+        "building": "school",
+        "name": "Școala Gimnazială \"Anton Pann\""
+      }
+    },
+    {
+      "id": "way/882127364",
+      "osm_id": 882127364,
+      "osm_type": "way",
+      "name": "Școala Gimnazială \"Anton Pann\"",
+      "category": "education",
+      "lat": 44.9515576,
+      "lon": 26.0451163,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "8",
+        "addr:street": "Strada Luminișului",
+        "amenity": "school",
+        "name": "Școala Gimnazială \"Anton Pann\""
+      }
+    },
+    {
+      "id": "way/882445751",
+      "osm_id": 882445751,
+      "osm_type": "way",
+      "name": "Grădinița cu Program Prelungit Dumbrava Minunată",
+      "category": "education",
+      "lat": 44.9545574,
+      "lon": 26.0002334,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Grădinița cu Program Prelungit Dumbrava Minunată"
+      }
+    },
+    {
+      "id": "way/882445752",
+      "osm_id": 882445752,
+      "osm_type": "way",
+      "name": "Grădinița Program Normal Și Prelungit Step by Step Licurici",
+      "category": "education",
+      "lat": 44.9553859,
+      "lon": 25.9983273,
+      "tags": {
+        "addr:housenumber": "2",
+        "addr:street": "Strada Arinului",
+        "amenity": "kindergarten",
+        "name": "Grădinița Program Normal Și Prelungit Step by Step Licurici"
+      }
+    },
+    {
+      "id": "way/882445753",
+      "osm_id": 882445753,
+      "osm_type": "way",
+      "name": "Școala Gimnazială \"Henri Mathias Berthelot\"",
+      "category": "education",
+      "lat": 44.954897,
+      "lon": 25.9992251,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "2",
+        "addr:postcode": "420081",
+        "addr:street": "Strada Arinului",
+        "amenity": "school",
+        "name": "Școala Gimnazială \"Henri Mathias Berthelot\""
+      }
+    },
+    {
+      "id": "way/882445754",
+      "osm_id": 882445754,
+      "osm_type": "way",
+      "name": "Școala Gimnazială \"Grigore Moisil\"",
+      "category": "education",
+      "lat": 44.9556472,
+      "lon": 25.9999756,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "2A",
+        "addr:postcode": "420081",
+        "addr:street": "Strada Laurilor",
+        "amenity": "school",
+        "name": "Școala Gimnazială \"Grigore Moisil\""
+      }
+    },
+    {
+      "id": "way/882445759",
+      "osm_id": 882445759,
+      "osm_type": "way",
+      "name": "Grădinița cu Program Prelungit Raza de Soare",
+      "category": "education",
+      "lat": 44.9604279,
+      "lon": 26.0060458,
+      "tags": {
+        "addr:housenumber": "2",
+        "addr:postcode": "100121",
+        "addr:street": "Aleea Dedițel",
+        "amenity": "kindergarten",
+        "barrier": "fence",
+        "name": "Grădinița cu Program Prelungit Raza de Soare",
+        "opening_hours": "Mo-Fr 07:00-22:00"
+      }
+    },
+    {
+      "id": "way/882445761",
+      "osm_id": 882445761,
+      "osm_type": "way",
+      "name": "Liceul Tehnologic de Servicii Sfântul Apostol Andrei",
+      "category": "education",
+      "lat": 44.9597037,
+      "lon": 26.0064403,
+      "tags": {
+        "amenity": "school",
+        "name": "Liceul Tehnologic de Servicii Sfântul Apostol Andrei"
+      }
+    },
+    {
+      "id": "way/882445764",
+      "osm_id": 882445764,
+      "osm_type": "way",
+      "name": "Școala Postliceală Sanitară",
+      "category": "education",
+      "lat": 44.9590059,
+      "lon": 26.0072412,
+      "tags": {
+        "addr:city": "Ploiesti",
+        "addr:housenumber": "1",
+        "addr:street": "Intrarea Petuniei",
+        "amenity": "school",
+        "name": "Școala Postliceală Sanitară"
+      }
+    },
+    {
+      "id": "way/882445765",
+      "osm_id": 882445765,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.9583333,
+      "lon": 26.006544,
+      "tags": {
+        "amenity": "kindergarten"
+      }
+    },
+    {
+      "id": "way/882466071",
+      "osm_id": 882466071,
+      "osm_type": "way",
+      "name": "Școala gimnazială nr.19",
+      "category": "education",
+      "lat": 44.9133659,
+      "lon": 26.0192657,
+      "tags": {
+        "addr:housenumber": "7",
+        "addr:street": "Bulevardul Petrolului",
+        "building": "school",
+        "name": "Școala gimnazială nr.19"
+      }
+    },
+    {
+      "id": "way/882466072",
+      "osm_id": 882466072,
+      "osm_type": "way",
+      "name": "Școala gimnazială nr.19",
+      "category": "education",
+      "lat": 44.9133842,
+      "lon": 26.0191887,
+      "tags": {
+        "addr:housenumber": "7",
+        "addr:street": "Bulevardul Petrolului",
+        "amenity": "school",
+        "name": "Școala gimnazială nr.19"
+      }
+    },
+    {
+      "id": "way/882467398",
+      "osm_id": 882467398,
+      "osm_type": "way",
+      "name": "Grădinița cu Program Normal nr. 8",
+      "category": "education",
+      "lat": 44.9437583,
+      "lon": 26.0069812,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "83",
+        "addr:street": "Strada Traian",
+        "building": "kindergarten",
+        "name": "Grădinița cu Program Normal nr. 8"
+      }
+    },
+    {
+      "id": "way/882467399",
+      "osm_id": 882467399,
+      "osm_type": "way",
+      "name": "Grădinița cu Program Normal nr. 8",
+      "category": "education",
+      "lat": 44.9437622,
+      "lon": 26.0070185,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "83",
+        "addr:street": "Strada Traian",
+        "amenity": "kindergarten",
+        "name": "Grădinița cu Program Normal nr. 8"
+      }
+    },
+    {
+      "id": "way/882591582",
+      "osm_id": 882591582,
+      "osm_type": "way",
+      "name": "Școala Gimnazială „Andrei Mureșanu”",
+      "category": "education",
+      "lat": 44.9522054,
+      "lon": 26.0080734,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "4",
+        "addr:street": "Strada Trotuș",
+        "amenity": "school",
+        "name": "Școala Gimnazială „Andrei Mureșanu”"
+      }
+    },
+    {
+      "id": "way/882591586",
+      "osm_id": 882591586,
+      "osm_type": "way",
+      "name": "Grădinița cu Program Prelungit nr. 33",
+      "category": "education",
+      "lat": 44.9515357,
+      "lon": 26.0082258,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "5",
+        "addr:street": "Intrarea Grindului",
+        "amenity": "kindergarten",
+        "name": "Grădinița cu Program Prelungit nr. 33"
+      }
+    },
+    {
+      "id": "way/882591587",
+      "osm_id": 882591587,
+      "osm_type": "way",
+      "name": "Școala Postliceală Sanitară Thoma Ionescu",
+      "category": "education",
+      "lat": 44.9516915,
+      "lon": 26.0076078,
+      "tags": {
+        "addr:street": "Strada Predeal",
+        "amenity": "school",
+        "name": "Școala Postliceală Sanitară Thoma Ionescu"
+      }
+    },
+    {
+      "id": "way/882963930",
+      "osm_id": 882963930,
+      "osm_type": "way",
+      "name": "Școala nr. 13 Gheorghe Șincai",
+      "category": "education",
+      "lat": 44.950092,
+      "lon": 26.0165528,
+      "tags": {
+        "building": "school",
+        "name": "Școala nr. 13 Gheorghe Șincai"
+      }
+    },
+    {
+      "id": "way/882963931",
+      "osm_id": 882963931,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.9501765,
+      "lon": 26.0160828,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/882963932",
+      "osm_id": 882963932,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.9504597,
+      "lon": 26.0160931,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/882963933",
+      "osm_id": 882963933,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.9503814,
+      "lon": 26.0166992,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/882981192",
+      "osm_id": 882981192,
+      "osm_type": "way",
+      "name": "Anexa Colegiului Național „Ion Luca Caragiale”",
+      "category": "education",
+      "lat": 44.9465979,
+      "lon": 26.0240506,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "57",
+        "addr:street": "Strada Romană",
+        "amenity": "school",
+        "name": "Anexa Colegiului Național „Ion Luca Caragiale”"
+      }
+    },
+    {
+      "id": "way/883118943",
+      "osm_id": 883118943,
+      "osm_type": "way",
+      "name": "Școala Gimnazială \"Candiano Popescu\"",
+      "category": "education",
+      "lat": 44.9505135,
+      "lon": 26.021313,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "39",
+        "addr:street": "Strada Nucilor",
+        "amenity": "school",
+        "name": "Școala Gimnazială \"Candiano Popescu\""
+      }
+    },
+    {
+      "id": "way/883141921",
+      "osm_id": 883141921,
+      "osm_type": "way",
+      "name": "Grădinița nr. 5",
+      "category": "education",
+      "lat": 44.9458527,
+      "lon": 26.0258582,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "3",
+        "addr:street": "Strada Patriei",
+        "building": "kindergarten",
+        "name": "Grădinița nr. 5"
+      }
+    },
+    {
+      "id": "way/883141922",
+      "osm_id": 883141922,
+      "osm_type": "way",
+      "name": "Grădinița nr. 5",
+      "category": "education",
+      "lat": 44.945885,
+      "lon": 26.025774,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "3",
+        "addr:street": "Strada Patriei",
+        "amenity": "kindergarten",
+        "name": "Grădinița nr. 5"
+      }
+    },
+    {
+      "id": "way/883247930",
+      "osm_id": 883247930,
+      "osm_type": "way",
+      "name": "Grădinița cu Program Normal Nichita Stănescu",
+      "category": "education",
+      "lat": 44.9416004,
+      "lon": 26.0317339,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "9",
+        "addr:street": "Strada Stadionului",
+        "building": "kindergarten",
+        "name": "Grădinița cu Program Normal Nichita Stănescu",
+        "start_date": "1955"
+      }
+    },
+    {
+      "id": "way/883247931",
+      "osm_id": 883247931,
+      "osm_type": "way",
+      "name": "Grădinița cu Program Normal Nichita Stănescu",
+      "category": "education",
+      "lat": 44.9416045,
+      "lon": 26.0317767,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "9",
+        "addr:street": "Strada Stadionului",
+        "amenity": "kindergarten",
+        "barrier": "fence",
+        "name": "Grădinița cu Program Normal Nichita Stănescu",
+        "start_date": "1955"
+      }
+    },
+    {
+      "id": "way/883247932",
+      "osm_id": 883247932,
+      "osm_type": "way",
+      "name": "Școala Scorțeanu",
+      "category": "education",
+      "lat": 44.941801,
+      "lon": 26.0320026,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "9",
+        "addr:street": "Strada Stadionului",
+        "architect": "Cristofi Cerchez",
+        "building": "school",
+        "description": "Clădirea a fost construită în 1905 de Zoe Scorțeanu în amintirea fiul său, Alexandru Scorțeanu, fiind ridicată după planurile arhitectului Cristofi Cerchez.",
+        "heritage:website": "https://republicaploiesti.net/2020/08/vedere-panoramica-din-1941-a-unei-parti-din-ploiesti.html",
+        "historic": "building",
+        "name": "Școala Scorțeanu",
+        "old_name": "Anexa școlii nr. 21",
+        "start_date": "1905"
+      }
+    },
+    {
+      "id": "way/883247933",
+      "osm_id": 883247933,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.94203,
+      "lon": 26.0318755,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/883247934",
+      "osm_id": 883247934,
+      "osm_type": "way",
+      "name": "Anexa școlii Sfânta Vineri",
+      "category": "education",
+      "lat": 44.9418479,
+      "lon": 26.0319583,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "9",
+        "addr:street": "Strada Stadionului",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Anexa școlii Sfânta Vineri",
+        "old_name": "Anexa școlii nr. 21"
+      }
+    },
+    {
+      "id": "way/883293655",
+      "osm_id": 883293655,
+      "osm_type": "way",
+      "name": "Școala Gimnazială ,,Sfânta Vineri”",
+      "category": "education",
+      "lat": 44.943819,
+      "lon": 26.030433,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "19",
+        "addr:street": "Strada Poștei",
+        "alt_name": "Școala 21",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Școala Gimnazială ,,Sfânta Vineri”",
+        "old_name": "Școala nr. 21",
+        "website": "www.scoalasfvineri.ro"
+      }
+    },
+    {
+      "id": "way/883293668",
+      "osm_id": 883293668,
+      "osm_type": "way",
+      "name": "Grădinița cu Program Prelungit nr. 38",
+      "category": "education",
+      "lat": 44.9436699,
+      "lon": 26.0308449,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "23",
+        "addr:street": "Strada Poștei",
+        "building": "kindergarten",
+        "name": "Grădinița cu Program Prelungit nr. 38"
+      }
+    },
+    {
+      "id": "way/883293672",
+      "osm_id": 883293672,
+      "osm_type": "way",
+      "name": "Grădinița cu Program Prelungit nr. 38",
+      "category": "education",
+      "lat": 44.9437473,
+      "lon": 26.0309607,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "23",
+        "addr:street": "Strada Poștei",
+        "amenity": "kindergarten",
+        "name": "Grădinița cu Program Prelungit nr. 38"
+      }
+    },
+    {
+      "id": "way/883454204",
+      "osm_id": 883454204,
+      "osm_type": "way",
+      "name": "Colegiul Național \"Ion Luca Caragiale\"",
+      "category": "education",
+      "lat": 44.9449613,
+      "lon": 26.0268483,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "98",
+        "addr:postcode": "100164",
+        "addr:street": "Strada Gheorghe Doja",
+        "amenity": "school",
+        "grades": "5-12",
+        "name": "Colegiul Național \"Ion Luca Caragiale\"",
+        "start_date": "1864",
+        "website": "http://www.cn-caragiale.ro",
+        "wikidata": "Q18537034",
+        "wikipedia": "ro:Colegiul Național „Ion Luca Caragiale” din Ploiești"
+      }
+    },
+    {
+      "id": "way/883454213",
+      "osm_id": 883454213,
+      "osm_type": "way",
+      "name": "Clubul Sportiv Școlar",
+      "category": "education",
+      "lat": 44.9387379,
+      "lon": 26.0278913,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "5",
+        "addr:street": "Strada Ștefan cel Mare",
+        "amenity": "school",
+        "name": "Clubul Sportiv Școlar",
+        "operator": "Ministerul Educației și Cercetării",
+        "operator:type": "government",
+        "start_date": "1952",
+        "website": "https://www.cssploiesti.ro/"
+      }
+    },
+    {
+      "id": "way/883833059",
+      "osm_id": 883833059,
+      "osm_type": "way",
+      "name": "Liceul Tehnologic „Ludovic Mrazek”",
+      "category": "education",
+      "lat": 44.9431632,
+      "lon": 26.0924006,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "241",
+        "addr:street": "Strada Mihai Bravu",
+        "building": "school",
+        "name": "Liceul Tehnologic „Ludovic Mrazek”",
+        "old_name": "Grupul Școlar Petrol Teleajen"
+      }
+    },
+    {
+      "id": "way/883833063",
+      "osm_id": 883833063,
+      "osm_type": "way",
+      "name": "Liceul Tehnologic Anghel Saligny",
+      "category": "education",
+      "lat": 44.9429519,
+      "lon": 26.0958229,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "249",
+        "addr:street": "Strada Mihai Bravu",
+        "amenity": "school",
+        "name": "Liceul Tehnologic Anghel Saligny",
+        "old_name": "Grupul Școlar Industrie Ușoară Ploiești",
+        "website": "https://sites.google.com/site/liceulanghelsalignyploiesti/"
+      }
+    },
+    {
+      "id": "way/883833066",
+      "osm_id": 883833066,
+      "osm_type": "way",
+      "name": "Grupul Școlar Industrie Ușoară Ploiești",
+      "category": "education",
+      "lat": 44.9425837,
+      "lon": 26.0960746,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "249",
+        "addr:street": "Strada Mihai Bravu",
+        "building": "school",
+        "name": "Grupul Școlar Industrie Ușoară Ploiești",
+        "website": "https://sites.google.com/site/liceulanghelsalignyploiesti/"
+      }
+    },
+    {
+      "id": "way/883833067",
+      "osm_id": 883833067,
+      "osm_type": "way",
+      "name": "Liceul Tehnologic „Ludovic Mrazek”",
+      "category": "education",
+      "lat": 44.9433891,
+      "lon": 26.092981,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "241",
+        "addr:street": "Strada Mihai Bravu",
+        "amenity": "school",
+        "contact:facebook": "https://www.facebook.com/mrazekludovic/",
+        "name": "Liceul Tehnologic „Ludovic Mrazek”",
+        "old_name": "Grupul Școlar Petrol Teleajen",
+        "operator": "Clubul Sportiv Municipal",
+        "operator:type": "government",
+        "website": "https://www.csmploiesti.ro/liceul-ludovic-mrazek/"
+      }
+    },
+    {
+      "id": "way/883881026",
+      "osm_id": 883881026,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Florin Comișel",
+      "category": "education",
+      "lat": 44.9285924,
+      "lon": 26.016177,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "6",
+        "addr:street": "Strada Jupiter",
+        "building": "school",
+        "name": "Școala Gimnazială Florin Comișel"
+      }
+    },
+    {
+      "id": "way/883881027",
+      "osm_id": 883881027,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Florin Comișel",
+      "category": "education",
+      "lat": 44.9287173,
+      "lon": 26.0158493,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "6",
+        "addr:street": "Strada Jupiter",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Școala Gimnazială Florin Comișel"
+      }
+    },
+    {
+      "id": "way/884123792",
+      "osm_id": 884123792,
+      "osm_type": "way",
+      "name": "Grădinița cu Program Normal nr. 44",
+      "category": "education",
+      "lat": 44.9314682,
+      "lon": 26.024528,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "26",
+        "addr:street": "Strada Bobâlna",
+        "building": "kindergarten",
+        "name": "Grădinița cu Program Normal nr. 44",
+        "website": "http://www.gradinitacrainouploiesti.ro/despre-noi/"
+      }
+    },
+    {
+      "id": "way/884123794",
+      "osm_id": 884123794,
+      "osm_type": "way",
+      "name": "Grădinița cu Program Normal Crai Nou",
+      "category": "education",
+      "lat": 44.9314897,
+      "lon": 26.0246525,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "26",
+        "addr:street": "Strada Bobâlna",
+        "amenity": "kindergarten",
+        "barrier": "fence",
+        "name": "Grădinița cu Program Normal Crai Nou",
+        "website": "http://www.gradinitacrainouploiesti.ro/despre-noi/"
+      }
+    },
+    {
+      "id": "way/884123802",
+      "osm_id": 884123802,
+      "osm_type": "way",
+      "name": "Grădinița cu Program Prelungit Crai Nou",
+      "category": "education",
+      "lat": 44.9295158,
+      "lon": 26.0231713,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "44",
+        "addr:street": "Strada Bobâlna",
+        "amenity": "kindergarten",
+        "name": "Grădinița cu Program Prelungit Crai Nou",
+        "website": "http://www.gradinitacrainouploiesti.ro/"
+      }
+    },
+    {
+      "id": "way/884123805",
+      "osm_id": 884123805,
+      "osm_type": "way",
+      "name": "Școala Gimnazială \"Radu Stanian\"",
+      "category": "education",
+      "lat": 44.9278025,
+      "lon": 26.0236967,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "76",
+        "addr:street": "Strada Bobâlna",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Școala Gimnazială \"Radu Stanian\""
+      }
+    },
+    {
+      "id": "way/884124450",
+      "osm_id": 884124450,
+      "osm_type": "way",
+      "name": "Grădinița Căsuța cu Povești",
+      "category": "education",
+      "lat": 44.9318438,
+      "lon": 26.0238807,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "14",
+        "addr:street": "Strada Petre Negulescu",
+        "amenity": "kindergarten",
+        "name": "Grădinița Căsuța cu Povești"
+      }
+    },
+    {
+      "id": "way/884550418",
+      "osm_id": 884550418,
+      "osm_type": "way",
+      "name": "Grupul Școlar de Transporturi",
+      "category": "education",
+      "lat": 44.9561433,
+      "lon": 26.0226557,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "144G",
+        "addr:street": "Strada Văleni",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Grupul Școlar de Transporturi",
+        "website": "https://lttransporturi.ro/"
+      }
+    },
+    {
+      "id": "way/884583768",
+      "osm_id": 884583768,
+      "osm_type": "way",
+      "name": "Grădiniţa cu Program Normal Cheiţa De Aur",
+      "category": "education",
+      "lat": 44.931121,
+      "lon": 26.0189801,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "94",
+        "addr:street": "Strada Rudului",
+        "amenity": "kindergarten",
+        "name": "Grădiniţa cu Program Normal Cheiţa De Aur"
+      }
+    },
+    {
+      "id": "way/884583769",
+      "osm_id": 884583769,
+      "osm_type": "way",
+      "name": "Grădiniţa cu Program Normal Cheiţa De Aur",
+      "category": "education",
+      "lat": 44.9311678,
+      "lon": 26.0190347,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "94",
+        "addr:street": "Strada Rudului",
+        "building": "kindergarten",
+        "name": "Grădiniţa cu Program Normal Cheiţa De Aur"
+      }
+    },
+    {
+      "id": "way/884583784",
+      "osm_id": 884583784,
+      "osm_type": "way",
+      "name": "Liceul Economic",
+      "category": "education",
+      "lat": 44.9362551,
+      "lon": 26.019992,
+      "tags": {
+        "building": "school",
+        "name": "Liceul Economic"
+      }
+    },
+    {
+      "id": "way/884583790",
+      "osm_id": 884583790,
+      "osm_type": "way",
+      "name": "Prichindelul Poliglot",
+      "category": "education",
+      "lat": 44.9360159,
+      "lon": 26.0213512,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "23",
+        "addr:street": "Strada Rudului",
+        "building": "school",
+        "name": "Prichindelul Poliglot"
+      }
+    },
+    {
+      "id": "way/884923724",
+      "osm_id": 884923724,
+      "osm_type": "way",
+      "name": "Grădiniţa cu Program Prelungit nr. 35",
+      "category": "education",
+      "lat": 44.9354082,
+      "lon": 26.0216774,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "27",
+        "addr:street": "Strada Maramureș",
+        "building": "kindergarten",
+        "name": "Grădiniţa cu Program Prelungit nr. 35"
+      }
+    },
+    {
+      "id": "way/884923725",
+      "osm_id": 884923725,
+      "osm_type": "way",
+      "name": "Grădiniţa cu Program Prelungit nr. 35",
+      "category": "education",
+      "lat": 44.935389,
+      "lon": 26.0218505,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "27",
+        "addr:street": "Strada Maramureș",
+        "amenity": "kindergarten",
+        "name": "Grădiniţa cu Program Prelungit nr. 35"
+      }
+    },
+    {
+      "id": "way/885271147",
+      "osm_id": 885271147,
+      "osm_type": "way",
+      "name": "Grădinița Muzicanți",
+      "category": "education",
+      "lat": 44.9307976,
+      "lon": 26.0354053,
+      "tags": {
+        "amenity": "kindergarten",
+        "barrier": "fence",
+        "name": "Grădinița Muzicanți"
+      }
+    },
+    {
+      "id": "way/885271148",
+      "osm_id": 885271148,
+      "osm_type": "way",
+      "name": "Colegiul Național Pedagogic \"Regina Maria\"",
+      "category": "education",
+      "lat": 44.9325026,
+      "lon": 26.0294462,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "7",
+        "addr:street": "Strada Nicolae Iorga",
+        "amenity": "school",
+        "barrier": "wall",
+        "name": "Colegiul Național Pedagogic \"Regina Maria\"",
+        "website": "https://www.pedagogic.ro/"
+      }
+    },
+    {
+      "id": "way/917136094",
+      "osm_id": 917136094,
+      "osm_type": "way",
+      "name": "Liceul „Sf. Petru și Pavel” (aripa de nord)",
+      "category": "education",
+      "lat": 44.9368432,
+      "lon": 26.0249819,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "8",
+        "addr:street": "Bulevardul Independenței",
+        "architect": "Toma Dobrescu",
+        "building": "school",
+        "description": "Numai aripa de nord a impunatorului palat al Liceului Sfintii Petru si Pavel a scapat de bombadamentul din 1944 si este inscrisa pe lista monumentelor istorice.",
+        "heritage": "2",
+        "heritage:operator": "lmi",
+        "heritage:website": "https://republicaploiesti.net/2014/10/care-este-cel-mai-vechi-liceu-ploiestean.html",
+        "historic": "building",
+        "name": "Liceul „Sf. Petru și Pavel” (aripa de nord)",
+        "ref:RO:lmi": "PH-II-m-B-16271",
+        "start_date": "1898"
+      }
+    },
+    {
+      "id": "way/918044401",
+      "osm_id": 918044401,
+      "osm_type": "way",
+      "name": "Grădinița cu program normal Sf. Stelian",
+      "category": "education",
+      "lat": 44.9401778,
+      "lon": 26.0210485,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "4",
+        "addr:street": "Strada Ion Luca Caragiale",
+        "amenity": "kindergarten",
+        "facebook": "https://www.facebook.com/GradinitaSfStelianPloiesti",
+        "name": "Grădinița cu program normal Sf. Stelian"
+      }
+    },
+    {
+      "id": "way/1007499971",
+      "osm_id": 1007499971,
+      "osm_type": "way",
+      "name": "UPG Corp H",
+      "category": "education",
+      "lat": 44.9136893,
+      "lon": 26.0370286,
+      "tags": {
+        "building": "school",
+        "name": "UPG Corp H"
+      }
+    },
+    {
+      "id": "way/1044359744",
+      "osm_id": 1044359744,
+      "osm_type": "way",
+      "name": "Afterschool Regina Maria Ploiești",
+      "category": "education",
+      "lat": 44.9418726,
+      "lon": 26.0268252,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "10",
+        "addr:street": "Strada Basarabilor",
+        "amenity": "school",
+        "grades": "0-4",
+        "name": "Afterschool Regina Maria Ploiești",
+        "old_name:1931-1948": "Școala de Copii Mici Luca Moise/ Grădinița de copii a Fondației Maria și Hendel Predingher",
+        "old_name:1948-1982": "Grădinița Partidului Comunist Român",
+        "old_name:1982-2009": "Grădinița cu Program Prelungit Nr. 28 Ploiești",
+        "website": "https://afterschool-reginamaria.ro"
+      }
+    },
+    {
+      "id": "relation/13493771",
+      "osm_id": 13493771,
+      "osm_type": "relation",
+      "name": "Universitatea de Petrol și Gaze (UPG)",
+      "category": "education",
+      "lat": 44.9142628,
+      "lon": 26.0365757,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "39",
+        "addr:postcode": "100680",
+        "addr:street": "Bulevardul București",
+        "amenity": "university",
+        "barrier": "fence",
+        "name": "Universitatea de Petrol și Gaze (UPG)",
+        "source": "http://idfr.upg-ploiesti.ro/index.php/ro/harta",
+        "type": "multipolygon",
+        "website": "https://www.upg-ploiesti.ro",
+        "wikidata": "Q296709",
+        "wikipedia": "en:Petroleum-Gas University of Ploiești"
+      }
+    },
+    {
+      "id": "node/8214334548",
+      "osm_id": 8214334548,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.9432451,
+      "lon": 26.0289942,
+      "tags": {
+        "denomination": "orthodox",
+        "historic": "wayside_shrine",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/8218899180",
+      "osm_id": 8218899180,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.93787,
+      "lon": 25.9897639,
+      "tags": {
+        "historic": "wayside_shrine",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/8218899181",
+      "osm_id": 8218899181,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.9378475,
+      "lon": 25.9897607,
+      "tags": {
+        "historic": "wayside_shrine",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/8218899183",
+      "osm_id": 8218899183,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.9381736,
+      "lon": 25.9891955,
+      "tags": {
+        "historic": "wayside_shrine",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/8218935293",
+      "osm_id": 8218935293,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.9409503,
+      "lon": 26.0459145,
+      "tags": {
+        "historic": "wayside_shrine",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/8222308365",
+      "osm_id": 8222308365,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.9308105,
+      "lon": 26.019265,
+      "tags": {
+        "historic": "wayside_shrine",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/8232621778",
+      "osm_id": 8232621778,
+      "osm_type": "node",
+      "name": "Centrul Creștin Speranța",
+      "category": "place_of_worship",
+      "lat": 44.9234711,
+      "lon": 26.0272462,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "2",
+        "addr:street": "Strada Rezervoarelor",
+        "amenity": "place_of_worship",
+        "name": "Centrul Creștin Speranța",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/10657398994",
+      "osm_id": 10657398994,
+      "osm_type": "node",
+      "name": "Ploiești Central Mosque",
+      "category": "place_of_worship",
+      "lat": 44.9347306,
+      "lon": 26.0468984,
+      "tags": {
+        "amenity": "place_of_worship",
+        "name": "Ploiești Central Mosque",
+        "religion": "muslim"
+      }
+    },
+    {
+      "id": "node/12841436088",
+      "osm_id": 12841436088,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.9620098,
+      "lon": 26.0089671,
+      "tags": {
+        "amenity": "place_of_worship",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/15115752",
+      "osm_id": 15115752,
+      "osm_type": "way",
+      "name": "Cimitirul Mihai Bravu",
+      "category": "place_of_worship",
+      "lat": 44.9381793,
+      "lon": 26.0555105,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitirul Mihai Bravu",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/40549294",
+      "osm_id": 40549294,
+      "osm_type": "way",
+      "name": "Cimitirul Eternitatea",
+      "category": "place_of_worship",
+      "lat": 44.9210834,
+      "lon": 26.0406962,
+      "tags": {
+        "barrier": "fence",
+        "denomination": "orthodox",
+        "is_in:city": "Ploiești",
+        "landuse": "cemetery",
+        "name": "Cimitirul Eternitatea",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/40589895",
+      "osm_id": 40589895,
+      "osm_type": "way",
+      "name": "Cimitirul Viișoara",
+      "category": "place_of_worship",
+      "lat": 44.9538449,
+      "lon": 26.0042062,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "14",
+        "addr:street": "Strada Constantin Brezeanu",
+        "barrier": "fence",
+        "denomination": "orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitirul Viișoara",
+        "religion": "christian",
+        "wikidata": "Q131727540"
+      }
+    },
+    {
+      "id": "way/85388400",
+      "osm_id": 85388400,
+      "osm_type": "way",
+      "name": "Cimitirul Bolovani Nou",
+      "category": "place_of_worship",
+      "lat": 44.9274121,
+      "lon": 26.0053854,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitirul Bolovani Nou",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/89249570",
+      "osm_id": 89249570,
+      "osm_type": "way",
+      "name": "Catedrala Sfântul Ioan Botezătorul",
+      "category": "place_of_worship",
+      "lat": 44.9432539,
+      "lon": 26.0193152,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "12",
+        "addr:street": "Bulevardul Republicii",
+        "amenity": "place_of_worship",
+        "architect": "Călin Hoinărescu",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Catedrala Sfântul Ioan Botezătorul",
+        "religion": "christian",
+        "start_date": "1842/2006",
+        "wikidata": "Q18538762",
+        "wikipedia": "ro:Catedrala Sfântul Ioan Botezătorul din Ploiești"
+      }
+    },
+    {
+      "id": "way/89249572",
+      "osm_id": 89249572,
+      "osm_type": "way",
+      "name": "Biserica \"Sfinții Împărați Constantin și Elena\"",
+      "category": "place_of_worship",
+      "lat": 44.9390078,
+      "lon": 26.0215465,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:street": "Strada Ion Luca Caragiale",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica \"Sfinții Împărați Constantin și Elena\"",
+        "religion": "christian",
+        "wikidata": "Q135916482"
+      }
+    },
+    {
+      "id": "way/95595762",
+      "osm_id": 95595762,
+      "osm_type": "way",
+      "name": "Biserica Sfântul Pantelimon",
+      "category": "place_of_worship",
+      "lat": 44.9316893,
+      "lon": 26.0320337,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "71",
+        "addr:street": "Strada Democrației",
+        "amenity": "place_of_worship",
+        "architect": "Toma T. Socolescu",
+        "building": "church",
+        "denomination": "orthodox",
+        "historic": "church",
+        "name": "Biserica Sfântul Pantelimon",
+        "religion": "christian",
+        "start_date": "1819/1936",
+        "wikidata": "Q12721977",
+        "wikipedia": "ro:Biserica Sfântul Pantelimon din Ploiești"
+      }
+    },
+    {
+      "id": "way/100304316",
+      "osm_id": 100304316,
+      "osm_type": "way",
+      "name": "Biserica „Sfântul Gheorghe” - Vechi",
+      "category": "place_of_worship",
+      "lat": 44.9370939,
+      "lon": 26.0253223,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "4",
+        "addr:street": "Bulevardul Independenței",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica „Sfântul Gheorghe” - Vechi",
+        "religion": "christian",
+        "wikidata": "Q18538038",
+        "wikipedia": "ro:Biserica „Sfântul Gheorghe” - Vechi din Ploiești"
+      }
+    },
+    {
+      "id": "way/114251389",
+      "osm_id": 114251389,
+      "osm_type": "way",
+      "name": "Biserica Sfântul Andrei",
+      "category": "place_of_worship",
+      "lat": 44.9561787,
+      "lon": 26.0096014,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Sfântul Andrei",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/114252304",
+      "osm_id": 114252304,
+      "osm_type": "way",
+      "name": "Capela Cimitirului Viișoara",
+      "category": "place_of_worship",
+      "lat": 44.9521179,
+      "lon": 26.0034546,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Capela Cimitirului Viișoara",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/114359389",
+      "osm_id": 114359389,
+      "osm_type": "way",
+      "name": "Biserica \"Sf Gheorghe Nou\"",
+      "category": "place_of_worship",
+      "lat": 44.9495175,
+      "lon": 26.0258072,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "16",
+        "addr:street": "Strada Boldescu",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica \"Sf Gheorghe Nou\"",
+        "religion": "christian",
+        "website": "www.sfgheorghenou-ploiesti.ro"
+      }
+    },
+    {
+      "id": "way/114360417",
+      "osm_id": 114360417,
+      "osm_type": "way",
+      "name": "Biserica",
+      "category": "place_of_worship",
+      "lat": 44.9379328,
+      "lon": 26.052906,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/114456354",
+      "osm_id": 114456354,
+      "osm_type": "way",
+      "name": "Biserica Adventistă de Ziua a Șaptea",
+      "category": "place_of_worship",
+      "lat": 44.9334018,
+      "lon": 26.0301441,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "56",
+        "addr:street": "Strada Democrației",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "building:levels": "2",
+        "denomination": "seventh_day_adventist",
+        "name": "Biserica Adventistă de Ziua a Șaptea",
+        "name:en": "Seventh Day Adventist Church",
+        "old_name": "Cinema Muncitoresc",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/181751737",
+      "osm_id": 181751737,
+      "osm_type": "way",
+      "name": "Biserica Maica Precista",
+      "category": "place_of_worship",
+      "lat": 44.9400857,
+      "lon": 26.0300139,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "3",
+        "addr:street": "Strada Armoniei",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "description": "Denumită „Maica Domnului”, „Sfânta Născătoare” sau „Adormirea Precistei”. Are o icoană unică, Maica Domnului reprezentată cu trei mâini. icoana a fost donată de țarul Alexandru al II-lea al Rusiei, în timpul războiului ruso-româno-turc 1877",
+        "heritage": "2",
+        "heritage:operator": "lmi",
+        "name": "Biserica Maica Precista",
+        "ref:RO:lmi": "PH-II-m-A-16233",
+        "religion": "christian",
+        "start_date": "1820",
+        "wikidata": "Q12721836",
+        "wikipedia": "ro:Biserica Maica Precistă din Ploiești"
+      }
+    },
+    {
+      "id": "way/181752196",
+      "osm_id": 181752196,
+      "osm_type": "way",
+      "name": "Biserica Sfânta Vineri",
+      "category": "place_of_worship",
+      "lat": 44.9433611,
+      "lon": 26.0295178,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "12",
+        "addr:street": "Strada Neagoe Basarab",
+        "amenity": "place_of_worship",
+        "architect": "Toma N. Socolescu",
+        "building": "church",
+        "denomination": "orthodox",
+        "description": "În 1880, biserica a fost pictată de Gheorghe Tattarescu, care a realizat aici una dintre cele mai bune lucrări ale sale.",
+        "heritage": "2",
+        "heritage:operator": "lmi",
+        "name": "Biserica Sfânta Vineri",
+        "ref:RO:lmi": "PH-II-m-B-20992",
+        "religion": "christian",
+        "start_date": "1880",
+        "wikidata": "Q12721933",
+        "wikipedia": "ro:Biserica Sfânta Vineri din Ploiești"
+      }
+    },
+    {
+      "id": "way/186257505",
+      "osm_id": 186257505,
+      "osm_type": "way",
+      "name": "Cimitirul Bolovani",
+      "category": "place_of_worship",
+      "lat": 44.9252702,
+      "lon": 26.009101,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "2",
+        "addr:street": "Strada Eroilor",
+        "denomination": "orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitirul Bolovani",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/195830654",
+      "osm_id": 195830654,
+      "osm_type": "way",
+      "name": "Cimitirul Sf. Antonie cel Mare (Bereasca)",
+      "category": "place_of_worship",
+      "lat": 44.9569147,
+      "lon": 26.0413713,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitirul Sf. Antonie cel Mare (Bereasca)",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/244461503",
+      "osm_id": 244461503,
+      "osm_type": "way",
+      "name": "Biserica Creştină după Evanghelie Logos",
+      "category": "place_of_worship",
+      "lat": 44.9343259,
+      "lon": 26.0279443,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "6",
+        "addr:street": "Strada Ivan Vladimirovici Miciurin",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "contact:facebook": "https://www.facebook.com/bisericalogos.ploiesti.5/?ref=page_internal",
+        "denomination": "evangelical",
+        "name": "Biserica Creştină după Evanghelie Logos",
+        "religion": "christian",
+        "website": "http://www.logosploiesti.ro/contact.html"
+      }
+    },
+    {
+      "id": "way/244995753",
+      "osm_id": 244995753,
+      "osm_type": "way",
+      "name": "Sinagoga Beth Israel",
+      "category": "place_of_worship",
+      "lat": 44.9419487,
+      "lon": 26.0265388,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "12",
+        "addr:street": "Strada Basarabilor",
+        "amenity": "place_of_worship",
+        "architect": "Israel Goligher",
+        "building": "synagogue",
+        "denomination": "western_ashkenazi_(rit_occidental)",
+        "historic": "synagogue",
+        "name": "Sinagoga Beth Israel",
+        "religion": "jewish",
+        "start_date": "1912",
+        "wikidata": "Q61082395",
+        "wikipedia": "ro:Sinagoga Beth Israel din Ploiești"
+      }
+    },
+    {
+      "id": "way/363720315",
+      "osm_id": 363720315,
+      "osm_type": "way",
+      "name": "Biserica Acoperământul Maicii Domnului",
+      "category": "place_of_worship",
+      "lat": 44.9543767,
+      "lon": 25.9959543,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Acoperământul Maicii Domnului",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/480252267",
+      "osm_id": 480252267,
+      "osm_type": "way",
+      "name": "Biserica Baptistă ELIM",
+      "category": "place_of_worship",
+      "lat": 44.926345,
+      "lon": 25.9942328,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "10",
+        "addr:street": "Strada Libertății",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "baptist",
+        "name": "Biserica Baptistă ELIM",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/552116898",
+      "osm_id": 552116898,
+      "osm_type": "way",
+      "name": "Biserica Adormirii Maicii Domnului",
+      "category": "place_of_worship",
+      "lat": 44.9258774,
+      "lon": 26.048529,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "3B",
+        "addr:postcode": "100532",
+        "addr:street": "Strada Corlătești",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "building:levels": "3",
+        "denomination": "orthodox",
+        "name": "Biserica Adormirii Maicii Domnului",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/552116899",
+      "osm_id": 552116899,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.9257866,
+      "lon": 26.0484581,
+      "tags": {
+        "barrier": "fence",
+        "denomination": "orthodox",
+        "landuse": "religious",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/552665658",
+      "osm_id": 552665658,
+      "osm_type": "way",
+      "name": "Odoare sfinte II",
+      "category": "place_of_worship",
+      "lat": 44.9394156,
+      "lon": 26.0214631,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "9",
+        "addr:postcode": "100015",
+        "addr:street": "Strada Ion Luca Caragiale",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "email": "odoaresfinte2@colportaj.ro",
+        "name": "Odoare sfinte II",
+        "operator": "Arhiepiscopia Bucureștilor",
+        "phone": "(+40244).542.426",
+        "religion": "christian",
+        "shop": "religion",
+        "website": "https://colportaj.ro/reteaua-de-magazine/"
+      }
+    },
+    {
+      "id": "way/665916069",
+      "osm_id": 665916069,
+      "osm_type": "way",
+      "name": "Biserica Creștină Baptistă Metanoia",
+      "category": "place_of_worship",
+      "lat": 44.9429426,
+      "lon": 26.0224054,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "1",
+        "addr:street": "Strada Constanței",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "baptist",
+        "name": "Biserica Creștină Baptistă Metanoia",
+        "religion": "christian",
+        "website": "https://www.metanoiaploiesti.ro/"
+      }
+    },
+    {
+      "id": "way/667571263",
+      "osm_id": 667571263,
+      "osm_type": "way",
+      "name": "Biserica Adventistă de Ziua a Șaptea \"Betleem\"",
+      "category": "place_of_worship",
+      "lat": 44.9263954,
+      "lon": 26.0134292,
+      "tags": {
+        "addr:street": "Strada Cărămidari",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "seventh_day_adventist",
+        "name": "Biserica Adventistă de Ziua a Șaptea \"Betleem\"",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/667577813",
+      "osm_id": 667577813,
+      "osm_type": "way",
+      "name": "Biserica Sfinții Îngeri Păzitori",
+      "category": "place_of_worship",
+      "lat": 44.9279789,
+      "lon": 26.0116953,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "108",
+        "addr:street": "Strada Călimani",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "catholic",
+        "name": "Biserica Sfinții Îngeri Păzitori",
+        "religion": "christian",
+        "start_date": "1933"
+      }
+    },
+    {
+      "id": "way/695776884",
+      "osm_id": 695776884,
+      "osm_type": "way",
+      "name": "Biserica Penticostală Betania",
+      "category": "place_of_worship",
+      "lat": 44.9431984,
+      "lon": 26.0084369,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "44",
+        "addr:street": "Strada Arcului",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "pentecostal",
+        "name": "Biserica Penticostală Betania",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/696099764",
+      "osm_id": 696099764,
+      "osm_type": "way",
+      "name": "Biserica Evanghelică Română",
+      "category": "place_of_worship",
+      "lat": 44.9328164,
+      "lon": 26.0218932,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "51",
+        "addr:street": "Strada Anul 1907",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "evangelical",
+        "denomination:wikidata": "Q5415664",
+        "denomination:wikipedia": "ro:Biserica Evanghelică Română",
+        "name": "Biserica Evanghelică Română",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/696099797",
+      "osm_id": 696099797,
+      "osm_type": "way",
+      "name": "Biserica lui Isus Hristos a Sfinților din Zilele din Urmă",
+      "category": "place_of_worship",
+      "lat": 44.9364655,
+      "lon": 26.021779,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "19",
+        "addr:street": "Strada Rudului",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "latter-day_saints",
+        "name": "Biserica lui Isus Hristos a Sfinților din Zilele din Urmă",
+        "name:en": "Church of Jesus Christ of Latter-day Saints",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/736464106",
+      "osm_id": 736464106,
+      "osm_type": "way",
+      "name": "Capela Bereasca",
+      "category": "place_of_worship",
+      "lat": 44.9565157,
+      "lon": 26.0398669,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "24",
+        "addr:postcode": "100537",
+        "addr:street": "Strada Pomilor",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Capela Bereasca",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/786592830",
+      "osm_id": 786592830,
+      "osm_type": "way",
+      "name": "Biserica Sf. Împărați Constantin și Elena",
+      "category": "place_of_worship",
+      "lat": 44.9072228,
+      "lon": 25.9822499,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Sf. Împărați Constantin și Elena",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/786592831",
+      "osm_id": 786592831,
+      "osm_type": "way",
+      "name": "Biserica Sf. Împărați Constantin și Elena",
+      "category": "place_of_worship",
+      "lat": 44.9071272,
+      "lon": 25.982393,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Sf. Împărați Constantin și Elena",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/790221241",
+      "osm_id": 790221241,
+      "osm_type": "way",
+      "name": "Biserica Sf. Spiridon",
+      "category": "place_of_worship",
+      "lat": 44.950425,
+      "lon": 26.0204566,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "98",
+        "addr:street": "Strada Văleni",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "name": "Biserica Sf. Spiridon",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/790226828",
+      "osm_id": 790226828,
+      "osm_type": "way",
+      "name": "Biserica Sfântul Ștefan",
+      "category": "place_of_worship",
+      "lat": 44.9468622,
+      "lon": 26.0248244,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "94",
+        "addr:street": "Strada Romană",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Sfântul Ștefan",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/790226852",
+      "osm_id": 790226852,
+      "osm_type": "way",
+      "name": "Biserica Adventistă de ziua a șaptea \"Betel\"",
+      "category": "place_of_worship",
+      "lat": 44.9455814,
+      "lon": 26.0255721,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "125",
+        "addr:street": "Strada Gheorghe Doja",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "seventh_day_adventist",
+        "name": "Biserica Adventistă de ziua a șaptea \"Betel\"",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/865505983",
+      "osm_id": 865505983,
+      "osm_type": "way",
+      "name": "Biserica Domnească Sfinții Apostoli Petru și Pavel",
+      "category": "place_of_worship",
+      "lat": 44.94109,
+      "lon": 26.0463593,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "63",
+        "addr:street": "Strada Matei Basarab",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "description": "Este cel mai vechi monument istoric si de arhitectură, construit în întregime din zid, de pe raza Ploieştilor. A fost înălţată în anul 1639, de către Matei Basarab, Domnul Ţării Româneşti",
+        "heritage": "2",
+        "heritage:operator": "lmi",
+        "name": "Biserica Domnească Sfinții Apostoli Petru și Pavel",
+        "ref:RO:lmi": "PH-II-m-A-16288",
+        "religion": "christian",
+        "start_date": "1639",
+        "wikidata": "Q12721811",
+        "wikipedia": "ro:Biserica Domnească din Ploiești"
+      }
+    },
+    {
+      "id": "way/877657801",
+      "osm_id": 877657801,
+      "osm_type": "way",
+      "name": "Sfântul Nectarie",
+      "category": "place_of_worship",
+      "lat": 44.9264943,
+      "lon": 26.011882,
+      "tags": {
+        "addr:city": "Ploiești",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "building:levels": "1",
+        "building:levels:underground": "0",
+        "denomination": "orthodox",
+        "height": "15",
+        "name": "Sfântul Nectarie",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/878352832",
+      "osm_id": 878352832,
+      "osm_type": "way",
+      "name": "Biserica Sfinții Trei Ierarhi",
+      "category": "place_of_worship",
+      "lat": 44.932675,
+      "lon": 25.985777,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica Sfinții Trei Ierarhi",
+        "name:en": "Three Hierarchs Church",
+        "religion": "christian",
+        "source": "bing"
+      }
+    },
+    {
+      "id": "way/878352843",
+      "osm_id": 878352843,
+      "osm_type": "way",
+      "name": "Biserica Înălțarea Domnului (Eroilor Tineri)",
+      "category": "place_of_worship",
+      "lat": 44.9380175,
+      "lon": 25.989468,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "259",
+        "addr:postcode": "100537",
+        "addr:street": "Strada Gheorghe Grigore Cantacuzino",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "facebook": "https://www.facebook.com/Biserica-%C3%8En%C4%83l%C8%9Barea-Domnului-Eroilor-Ploie%C8%99ti-650574151741166/",
+        "name": "Biserica Înălțarea Domnului (Eroilor Tineri)",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/878394651",
+      "osm_id": 878394651,
+      "osm_type": "way",
+      "name": "Biserica Nașterea Maicii Domnului - rit vechi",
+      "category": "place_of_worship",
+      "lat": 44.9279535,
+      "lon": 25.9839147,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "434",
+        "addr:street": "Strada Mărășești",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "old_believers",
+        "name": "Biserica Nașterea Maicii Domnului - rit vechi",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/879455095",
+      "osm_id": 879455095,
+      "osm_type": "way",
+      "name": "Capela cimitirului Bolovani",
+      "category": "place_of_worship",
+      "lat": 44.9264443,
+      "lon": 26.0111097,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Capela cimitirului Bolovani",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/879475513",
+      "osm_id": 879475513,
+      "osm_type": "way",
+      "name": "Cimitirul Militar al Eroilor",
+      "category": "place_of_worship",
+      "lat": 44.9259413,
+      "lon": 26.0067329,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitirul Militar al Eroilor",
+        "operator": "Garnizoana Ploiești",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/879779648",
+      "osm_id": 879779648,
+      "osm_type": "way",
+      "name": "Cimitirul Catolic",
+      "category": "place_of_worship",
+      "lat": 44.9285735,
+      "lon": 26.0110922,
+      "tags": {
+        "addr:street": "Strada Călimani",
+        "barrier": "wall",
+        "denomination": "catholic",
+        "landuse": "cemetery",
+        "name": "Cimitirul Catolic",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/879779651",
+      "osm_id": 879779651,
+      "osm_type": "way",
+      "name": "Biserica Sfântul Atanasie",
+      "category": "place_of_worship",
+      "lat": 44.9318857,
+      "lon": 26.004225,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "193",
+        "addr:street": "Strada Mărășești",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica Sfântul Atanasie",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/879779663",
+      "osm_id": 879779663,
+      "osm_type": "way",
+      "name": "Biserica Sf. Haralambie",
+      "category": "place_of_worship",
+      "lat": 44.9352574,
+      "lon": 26.0163803,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica Sf. Haralambie",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/879853781",
+      "osm_id": 879853781,
+      "osm_type": "way",
+      "name": "Biserica Sfânta Treime",
+      "category": "place_of_worship",
+      "lat": 44.9400442,
+      "lon": 26.0093861,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica Sfânta Treime",
+        "name:en": "Holy Trinity Church",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/880296362",
+      "osm_id": 880296362,
+      "osm_type": "way",
+      "name": "Biserica Schimbarea La Față (Izvorului Tămăduirii)",
+      "category": "place_of_worship",
+      "lat": 44.944206,
+      "lon": 25.9976605,
+      "tags": {
+        "addr:street": "ale",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica Schimbarea La Față (Izvorului Tămăduirii)",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/880348162",
+      "osm_id": 880348162,
+      "osm_type": "way",
+      "name": "Biserica Sf. Vasile",
+      "category": "place_of_worship",
+      "lat": 44.9471859,
+      "lon": 26.0090273,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Sf. Vasile",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/880428418",
+      "osm_id": 880428418,
+      "osm_type": "way",
+      "name": "Biserica Sfânta Filofteia (Mimiu)",
+      "category": "place_of_worship",
+      "lat": 44.9155043,
+      "lon": 26.0206065,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica Sfânta Filofteia (Mimiu)",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/881050278",
+      "osm_id": 881050278,
+      "osm_type": "way",
+      "name": "Biserica Sf. Sava",
+      "category": "place_of_worship",
+      "lat": 44.9211155,
+      "lon": 26.0399276,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "description": "Hramuri: Sf. Sava si Sf. Gheorghe\na inlocuit Biserica Sf. Sava (din Calea Bucuresti) distrusa la bombardamentele din 1944",
+        "name": "Biserica Sf. Sava",
+        "religion": "christian",
+        "start_date": "1908/1953",
+        "website": "https://www.biserici.org/index.php?menu=BI&code=17305"
+      }
+    },
+    {
+      "id": "way/881138580",
+      "osm_id": 881138580,
+      "osm_type": "way",
+      "name": "Biserica Sfântul Dumitru",
+      "category": "place_of_worship",
+      "lat": 44.9358822,
+      "lon": 26.0444252,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica Sfântul Dumitru",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/881166302",
+      "osm_id": 881166302,
+      "osm_type": "way",
+      "name": "Biserica Creștină Baptistă Emanuel",
+      "category": "place_of_worship",
+      "lat": 44.9333139,
+      "lon": 26.0380897,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "2",
+        "addr:postcode": "100582",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Șoimului",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "baptist",
+        "name": "Biserica Creștină Baptistă Emanuel",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/881675959",
+      "osm_id": 881675959,
+      "osm_type": "way",
+      "name": "Biserica Sfântul Nicolae - Vechi",
+      "category": "place_of_worship",
+      "lat": 44.9398648,
+      "lon": 26.0424177,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "105",
+        "addr:street": "Strada Mihai Bravu",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "romanian_orthodox",
+        "heritage": "2",
+        "heritage:operator": "lmi",
+        "historic": "church",
+        "name": "Biserica Sfântul Nicolae - Vechi",
+        "ref:RO:lmi": "PH-II-a-B-16289",
+        "religion": "christian",
+        "start_date": "sf. sec. XVI",
+        "wikidata": "Q43097379"
+      }
+    },
+    {
+      "id": "way/881675960",
+      "osm_id": 881675960,
+      "osm_type": "way",
+      "name": "Biserica Sfântul Ilie (Tabaci)",
+      "category": "place_of_worship",
+      "lat": 44.9411565,
+      "lon": 26.0394294,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "19",
+        "addr:street": "Strada Carpenului",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "heritage:website": "https://republicaploiesti.net/2010/04/biserica-sfantul-ilie-tabaci.html",
+        "name": "Biserica Sfântul Ilie (Tabaci)",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/881678505",
+      "osm_id": 881678505,
+      "osm_type": "way",
+      "name": "Biserica Buna Vestire",
+      "category": "place_of_worship",
+      "lat": 44.9376415,
+      "lon": 26.0344174,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "2",
+        "addr:street": "Strada Plevnei",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica Buna Vestire",
+        "religion": "christian",
+        "start_date": "1833",
+        "wikidata": "Q12721797",
+        "wikipedia": "ro:Biserica Buna Vestire din Ploiești"
+      }
+    },
+    {
+      "id": "way/882130775",
+      "osm_id": 882130775,
+      "osm_type": "way",
+      "name": "Biserica Sf. Antonie Cel Mare",
+      "category": "place_of_worship",
+      "lat": 44.9522179,
+      "lon": 26.0458786,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "2",
+        "addr:street": "Strada Salcâmilor",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica Sf. Antonie Cel Mare",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/883236706",
+      "osm_id": 883236706,
+      "osm_type": "way",
+      "name": "Biserica Sfântul Nicolae Nou (Ispravnici)",
+      "category": "place_of_worship",
+      "lat": 44.9420181,
+      "lon": 26.034496,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "21",
+        "addr:street": "Strada Stadionului",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "heritage:website": "http://republicaploiesti.net/2010/03/biserica-sfantul-nicolae-ispravnici.html",
+        "name": "Biserica Sfântul Nicolae Nou (Ispravnici)",
+        "religion": "christian",
+        "start_date": "1869",
+        "website": "http://www.bisericasfantulnicolaenou.ro/",
+        "wikidata": "Q135916386"
+      }
+    },
+    {
+      "id": "way/884123787",
+      "osm_id": 884123787,
+      "osm_type": "way",
+      "name": "Sf. Ecaterina",
+      "category": "place_of_worship",
+      "lat": 44.9306852,
+      "lon": 26.0195475,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Sf. Ecaterina",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/884583773",
+      "osm_id": 884583773,
+      "osm_type": "way",
+      "name": "Biserica Adventistă de Ziua a Șaptea \"Sion\"",
+      "category": "place_of_worship",
+      "lat": 44.934257,
+      "lon": 26.0189465,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "9",
+        "addr:street": "Strada Mercurului",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "seventh_day_adventist",
+        "name": "Biserica Adventistă de Ziua a Șaptea \"Sion\"",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/884583783",
+      "osm_id": 884583783,
+      "osm_type": "way",
+      "name": "Biserica Baptistă Independentă Ploieşti",
+      "category": "place_of_worship",
+      "lat": 44.9346702,
+      "lon": 26.0222432,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "44",
+        "addr:street": "Strada Cerceluș",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "baptist",
+        "name": "Biserica Baptistă Independentă Ploieşti",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/884583791",
+      "osm_id": 884583791,
+      "osm_type": "way",
+      "name": "Biserica Adventistă Maranatha",
+      "category": "place_of_worship",
+      "lat": 44.9367852,
+      "lon": 26.0208855,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "1",
+        "addr:street": "Strada Săpunari",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "seventh_day_adventist",
+        "name": "Biserica Adventistă Maranatha",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/885271157",
+      "osm_id": 885271157,
+      "osm_type": "way",
+      "name": "Biserica Evanghelică Luterană",
+      "category": "place_of_worship",
+      "lat": 44.9356567,
+      "lon": 26.0299561,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "36",
+        "addr:street": "Strada Ștefan cel Mare",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "evangelical_lutheran",
+        "name": "Biserica Evanghelică Luterană",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/885271161",
+      "osm_id": 885271161,
+      "osm_type": "way",
+      "name": "Biserica Sfinţii Voievozi",
+      "category": "place_of_worship",
+      "lat": 44.9367836,
+      "lon": 26.0298623,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "23",
+        "addr:street": "Strada Ștefan cel Mare",
+        "alt_name": "Biserica Sfântul Antonie cel Mare",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "description": "Biserica „Sfinţii Voievozi”, cu hramurile Sfinţii Arhangheli Mihail şi Gavriil” şi „Sfântul Antonie cel Mare”",
+        "heritage": "2",
+        "heritage:operator": "lmi",
+        "historic": "church",
+        "name": "Biserica Sfinţii Voievozi",
+        "ref:RO:lmi": "PH-II-m-B-16302",
+        "religion": "christian",
+        "start_date": "1820-1827, ref. 1929-1931",
+        "website": "http://www.biserica-sf-voievozi.ploiesti-prahova.ro",
+        "wikidata": "Q12721918",
+        "wikipedia": "ro:Biserica Sfinții Voevozi din Ploiești"
+      }
+    },
+    {
+      "id": "way/885271162",
+      "osm_id": 885271162,
+      "osm_type": "way",
+      "name": "Biserica Romano Catolică \"Cristos Rege\"",
+      "category": "place_of_worship",
+      "lat": 44.9376346,
+      "lon": 26.0293243,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "13",
+        "addr:street": "Strada Ștefan cel Mare",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "roman_catholic",
+        "name": "Biserica Romano Catolică \"Cristos Rege\"",
+        "religion": "christian",
+        "start_date": "1939",
+        "website": "https://arcb.ro/website/arhidieceza/parohii-si-cler/parohii-diecezane/parohia-cristos-rege/",
+        "wikidata": "Q20432400",
+        "wikipedia": "ro:Biserica Cristos Rege din Ploiești"
+      }
+    },
+    {
+      "id": "way/885306632",
+      "osm_id": 885306632,
+      "osm_type": "way",
+      "name": "Biserica Crestină dupa Evanghelie Agape",
+      "category": "place_of_worship",
+      "lat": 44.9482436,
+      "lon": 26.0150788,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "5",
+        "addr:street": "Strada Negru Vodă",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "evangelical",
+        "name": "Biserica Crestină dupa Evanghelie Agape",
+        "religion": "christian",
+        "website": "https://biserica-agape.ro/"
+      }
+    },
+    {
+      "id": "way/885318548",
+      "osm_id": 885318548,
+      "osm_type": "way",
+      "name": "Biserica Penticostală Harul",
+      "category": "place_of_worship",
+      "lat": 44.9168743,
+      "lon": 26.0204735,
+      "tags": {
+        "addr:housenumber": "1",
+        "addr:street": "Strada Fabricilor",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "pentecostal",
+        "name": "Biserica Penticostală Harul",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/885320109",
+      "osm_id": 885320109,
+      "osm_type": "way",
+      "name": "Biserica Pâinea vieții",
+      "category": "place_of_worship",
+      "lat": 44.9482649,
+      "lon": 26.0170657,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "24",
+        "addr:street": "Strada Cezar Bolliac",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "evangelical",
+        "name": "Biserica Pâinea vieții",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/885632860",
+      "osm_id": 885632860,
+      "osm_type": "way",
+      "name": "Biserica Reformată",
+      "category": "place_of_worship",
+      "lat": 44.941912,
+      "lon": 26.0331518,
+      "tags": {
+        "addr:street": "Strada Stadionului",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "reformed",
+        "denomination:wikidata": "Q252250",
+        "denomination:wikipedia": "ro:Biserica Reformată din România",
+        "historic": "building",
+        "name": "Biserica Reformată",
+        "religion": "christian",
+        "start_date": "1863",
+        "website": "https://bisericareformata.ro/ro/ploiesti/"
+      }
+    },
+    {
+      "id": "way/885677645",
+      "osm_id": 885677645,
+      "osm_type": "way",
+      "name": "Lumini de Sărbători II",
+      "category": "place_of_worship",
+      "lat": 44.9398292,
+      "lon": 26.0420417,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "103",
+        "addr:street": "Strada Mihai Bravu",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "email": "dc2@colportaj.ro",
+        "name": "Lumini de Sărbători II",
+        "operator": "Arhiepiscopia Bucureştilor",
+        "phone": "+40-733.712.105",
+        "religion": "christian",
+        "shop": "religion"
+      }
+    },
+    {
+      "id": "way/885677647",
+      "osm_id": 885677647,
+      "osm_type": "way",
+      "name": "Capela Ortodoxă",
+      "category": "place_of_worship",
+      "lat": 44.9394862,
+      "lon": 26.041643,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Capela Ortodoxă",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/916413787",
+      "osm_id": 916413787,
+      "osm_type": "way",
+      "name": "Biserica „Sfânta Parascheva”",
+      "category": "place_of_worship",
+      "lat": 44.9332459,
+      "lon": 25.9997691,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "romanian_orthodox",
+        "fixme": "check if this is the correct location on the base",
+        "name": "Biserica „Sfânta Parascheva”",
+        "religion": "christian",
+        "start_date": "2018-10-14"
+      }
+    },
+    {
+      "id": "way/943887779",
+      "osm_id": 943887779,
+      "osm_type": "way",
+      "name": "Schitul \"Nașterea Maicii Domnului\" - rit vechi",
+      "category": "place_of_worship",
+      "lat": 44.928681,
+      "lon": 25.9828618,
+      "tags": {
+        "addr:city": "Ploiești",
+        "addr:housenumber": "434",
+        "addr:street": "Strada Mărășești",
+        "amenity": "monastery",
+        "barrier": "wall",
+        "denomination": "old_believers",
+        "landuse": "religious",
+        "name": "Schitul \"Nașterea Maicii Domnului\" - rit vechi",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/943887780",
+      "osm_id": 943887780,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.9278056,
+      "lon": 25.9840853,
+      "tags": {
+        "building": "church"
+      }
+    },
+    {
+      "id": "way/943887781",
+      "osm_id": 943887781,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.9281425,
+      "lon": 25.9837574,
+      "tags": {
+        "building": "church"
+      }
+    },
+    {
+      "id": "way/943887783",
+      "osm_id": 943887783,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.9281081,
+      "lon": 25.9835506,
+      "tags": {
+        "building": "church"
+      }
+    },
+    {
+      "id": "way/967100239",
+      "osm_id": 967100239,
+      "osm_type": "way",
+      "name": "Cimitirul Evanghelic",
+      "category": "place_of_worship",
+      "lat": 44.9294525,
+      "lon": 26.0104201,
+      "tags": {
+        "alt_name": "Cimitirul Bisericii Creştine după Evanghelie Ploieşti",
+        "barrier": "wall",
+        "denomination": "evangelical",
+        "landuse": "cemetery",
+        "name": "Cimitirul Evanghelic",
+        "religion": "christian",
+        "website": "https://biserica-agape.ro"
+      }
+    },
+    {
+      "id": "way/1059614417",
+      "osm_id": 1059614417,
+      "osm_type": "way",
+      "name": "Centrul Cultural „Sfântul Antim Ivireanul” al Protoieriei Ploieşti Nord",
+      "category": "place_of_worship",
+      "lat": 44.9374387,
+      "lon": 26.0260892,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "religious",
+        "name": "Centrul Cultural „Sfântul Antim Ivireanul” al Protoieriei Ploieşti Nord",
+        "office": "religion",
+        "operator": "Protoieria Ploieşti Nord",
+        "religion": "christian",
+        "start_date": "2020-09-24",
+        "website": "https://arhiepiscopiabucurestilor.ro/stiri/evenimente-bisericesti/o-bijuterie-arhitecturala-reinviata-la-ploiesti-centrul-cultural"
+      }
+    },
+    {
+      "id": "way/1235601698",
+      "osm_id": 1235601698,
+      "osm_type": "way",
+      "name": "Biserica Adventistă de Ziua a Șaptea",
+      "category": "place_of_worship",
+      "lat": 44.9069572,
+      "lon": 25.9875884,
+      "tags": {
+        "addr:city": "Ploiești",
+        "building": "church",
+        "name": "Biserica Adventistă de Ziua a Șaptea"
+      }
+    },
+    {
+      "id": "way/1393833200",
+      "osm_id": 1393833200,
+      "osm_type": "way",
+      "name": "Biserica Penticostală Emanuel",
+      "category": "place_of_worship",
+      "lat": 44.9326672,
+      "lon": 26.022946,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "pentecostal",
+        "name": "Biserica Penticostală Emanuel",
+        "religion": "christian"
+      }
+    }
+  ]
+}

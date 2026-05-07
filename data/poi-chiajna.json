@@ -1,0 +1,317 @@
+{
+  "city": "Chiajna",
+  "generated_at": "2026-04-23T09:38:45.190Z",
+  "counts": {
+    "total": 17,
+    "schools": 7,
+    "churches": 10
+  },
+  "pois": [
+    {
+      "id": "node/268246356",
+      "osm_id": 268246356,
+      "osm_type": "node",
+      "name": "Școala nr.158 Liceul Tehnologic \"Doamna Chiajna\"",
+      "category": "education",
+      "lat": 44.4511825,
+      "lon": 26.0123467,
+      "tags": {
+        "addr:city": "Roșu, Chiajna, Ilfov",
+        "addr:housenumber": "90",
+        "addr:postcode": "077042",
+        "addr:street": "Strada 1 Decembrie 1918",
+        "amenity": "school",
+        "int_name": "School no. 158",
+        "name": "Școala nr.158 Liceul Tehnologic \"Doamna Chiajna\""
+      }
+    },
+    {
+      "id": "way/238795449",
+      "osm_id": 238795449,
+      "osm_type": "way",
+      "name": "Kids Club",
+      "category": "education",
+      "lat": 44.4429247,
+      "lon": 25.9876676,
+      "tags": {
+        "addr:city": "Roșu",
+        "addr:country": "RO",
+        "addr:housenumber": "91A",
+        "addr:postcode": "077040",
+        "addr:street": "Strada Rezervelor",
+        "amenity": "kindergarten",
+        "building": "kindergarten",
+        "building:levels": "6",
+        "building:levels:underground": "1",
+        "name": "Kids Club",
+        "source": "survey",
+        "start_date": "2011"
+      }
+    },
+    {
+      "id": "way/282894767",
+      "osm_id": 282894767,
+      "osm_type": "way",
+      "name": "Școala Gimnazială \"Alexandru Odobescu\"",
+      "category": "education",
+      "lat": 44.4580701,
+      "lon": 25.9774713,
+      "tags": {
+        "addr:city": "Chiajna",
+        "addr:housenumber": "72",
+        "addr:postcode": "077040",
+        "addr:street": "Strada Păcii",
+        "amenity": "school",
+        "barrier": "fence",
+        "education": "school",
+        "name": "Școala Gimnazială \"Alexandru Odobescu\""
+      }
+    },
+    {
+      "id": "way/282894769",
+      "osm_id": 282894769,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.4578763,
+      "lon": 25.9775408,
+      "tags": {
+        "addr:city": "Chiajna",
+        "addr:housenumber": "72",
+        "addr:postcode": "077040",
+        "addr:street": "Strada Păcii",
+        "building": "school",
+        "building:levels": "2"
+      }
+    },
+    {
+      "id": "way/919398098",
+      "osm_id": 919398098,
+      "osm_type": "way",
+      "name": "Grădinița David Mihai",
+      "category": "education",
+      "lat": 44.4438718,
+      "lon": 26.0044193,
+      "tags": {
+        "addr:city": "Roșu",
+        "addr:housenumber": "46B",
+        "addr:postcode": "077042",
+        "addr:street": "Strada Drumul Bacriului",
+        "building": "kindergarten",
+        "building:levels": "4",
+        "name": "Grădinița David Mihai",
+        "start_date": "2012"
+      }
+    },
+    {
+      "id": "way/1056875394",
+      "osm_id": 1056875394,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.4506763,
+      "lon": 25.9847718,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/1460718788",
+      "osm_id": 1460718788,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.4503751,
+      "lon": 25.9851447,
+      "tags": {
+        "amenity": "school",
+        "education": "school"
+      }
+    },
+    {
+      "id": "node/5088157877",
+      "osm_id": 5088157877,
+      "osm_type": "node",
+      "name": "Capela Sfinții Arhangheli Mihail și Gavril",
+      "category": "place_of_worship",
+      "lat": 44.4382834,
+      "lon": 25.9531348,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "chapel",
+        "denomination": "orthodox",
+        "name": "Capela Sfinții Arhangheli Mihail și Gavril",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/9601380052",
+      "osm_id": 9601380052,
+      "osm_type": "node",
+      "name": "Funerare Ieftine",
+      "category": "place_of_worship",
+      "lat": 44.4458878,
+      "lon": 26.0081205,
+      "tags": {
+        "addr:city": "Roșu",
+        "addr:housenumber": "35",
+        "addr:street": "Strada Drumul Bacriului",
+        "denomination": "roman_catholic",
+        "name": "Funerare Ieftine",
+        "opening_hours": "24/7",
+        "operator": "ONE MARCK INTERNATIONAL SRL",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "phone": "0733863727",
+        "religion": "christian",
+        "shop": "funeral_directors",
+        "website": "https://www.funerare-ieftine.ro/"
+      }
+    },
+    {
+      "id": "way/26322312",
+      "osm_id": 26322312,
+      "osm_type": "way",
+      "name": "Cimitirul ortodox Sfinții Mihail și Gavril",
+      "category": "place_of_worship",
+      "lat": 44.4388223,
+      "lon": 25.95301,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitirul ortodox Sfinții Mihail și Gavril",
+        "religion": "christian",
+        "website": "https://www.cimitir.ro/"
+      }
+    },
+    {
+      "id": "way/230862098",
+      "osm_id": 230862098,
+      "osm_type": "way",
+      "name": "Cimitirul Chiajna",
+      "category": "place_of_worship",
+      "lat": 44.4623094,
+      "lon": 25.9835353,
+      "tags": {
+        "denomination": "romanian_orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitirul Chiajna",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/230870391",
+      "osm_id": 230870391,
+      "osm_type": "way",
+      "name": "Cimitirul Roșu",
+      "category": "place_of_worship",
+      "lat": 44.4554575,
+      "lon": 26.0080979,
+      "tags": {
+        "denomination": "greek_orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitirul Roșu",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/423689891",
+      "osm_id": 423689891,
+      "osm_type": "way",
+      "name": "Biserica „Sfântul Nicolae\"",
+      "category": "place_of_worship",
+      "lat": 44.4617658,
+      "lon": 25.9769126,
+      "tags": {
+        "addr:city": "Chiajna",
+        "addr:street": "Strada Sfântul Nicolae",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "romanian_orthodox",
+        "heritage": "2",
+        "heritage:operator": "lmi",
+        "name": "Biserica „Sfântul Nicolae\"",
+        "ref:RO:lmi": "IF-II-m-B-15269",
+        "religion": "christian",
+        "start_date": "1831",
+        "wikidata": "Q42957570",
+        "wikipedia": "ro:Biserica Sfântul Nicolae din Chiajna"
+      }
+    },
+    {
+      "id": "way/473347215",
+      "osm_id": 473347215,
+      "osm_type": "way",
+      "name": "Biserica Acoperământul Maicii Domnului",
+      "category": "place_of_worship",
+      "lat": 44.4434664,
+      "lon": 26.0040045,
+      "tags": {
+        "addr:city": "Roșu",
+        "addr:postcode": "077042",
+        "addr:street": "Drumul Bacriului",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Acoperământul Maicii Domnului",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/541651542",
+      "osm_id": 541651542,
+      "osm_type": "way",
+      "name": "Biserica Nasterea Maicii Domnului - Chiajna",
+      "category": "place_of_worship",
+      "lat": 44.4483611,
+      "lon": 25.988577,
+      "tags": {
+        "addr:city": "Roșu",
+        "addr:housenumber": "47",
+        "addr:street": "Strada Apeductului",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica Nasterea Maicii Domnului - Chiajna",
+        "religion": "christian",
+        "service_times": "08:00-20:00"
+      }
+    },
+    {
+      "id": "way/542819119",
+      "osm_id": 542819119,
+      "osm_type": "way",
+      "name": "Biserica „Sfântul Gheorghe”",
+      "category": "place_of_worship",
+      "lat": 44.455431,
+      "lon": 25.9893434,
+      "tags": {
+        "addr:street": "Strada Bisericii",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "heritage": "2",
+        "heritage:operator": "lmi",
+        "name": "Biserica „Sfântul Gheorghe”",
+        "ref:RO:lmi": "IF-II-m-B-15284",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1169398189",
+      "osm_id": 1169398189,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.4618924,
+      "lon": 25.9770502,
+      "tags": {
+        "addr:city": "Chiajna",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "religion": "christian"
+      }
+    }
+  ]
+}

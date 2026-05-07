@@ -1,0 +1,1379 @@
+{
+  "city": "Târgoviște",
+  "generated_at": "2026-04-23T10:19:45.005Z",
+  "counts": {
+    "total": 88,
+    "schools": 52,
+    "churches": 36
+  },
+  "pois": [
+    {
+      "id": "node/577042675",
+      "osm_id": 577042675,
+      "osm_type": "node",
+      "name": "Școala Generală 4",
+      "category": "education",
+      "lat": 44.935703,
+      "lon": 25.4520525,
+      "tags": {
+        "addr:city": "Târgoviște",
+        "addr:street": "Strada Radu Vârzaru Armașu",
+        "amenity": "school",
+        "name": "Școala Generală 4"
+      }
+    },
+    {
+      "id": "node/577046679",
+      "osm_id": 577046679,
+      "osm_type": "node",
+      "name": "Școala Generală 10",
+      "category": "education",
+      "lat": 44.9329503,
+      "lon": 25.4480684,
+      "tags": {
+        "amenity": "school",
+        "name": "Școala Generală 10"
+      }
+    },
+    {
+      "id": "node/1356400701",
+      "osm_id": 1356400701,
+      "osm_type": "node",
+      "name": "Școala Ioan Alexandru Brătescu-Voinești",
+      "category": "education",
+      "lat": 44.9262821,
+      "lon": 25.466985,
+      "tags": {
+        "amenity": "school",
+        "name": "Școala Ioan Alexandru Brătescu-Voinești"
+      }
+    },
+    {
+      "id": "node/4233180048",
+      "osm_id": 4233180048,
+      "osm_type": "node",
+      "name": "Grădinița nr. 13 Târgoviște",
+      "category": "education",
+      "lat": 44.9259406,
+      "lon": 25.4439024,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Grădinița nr. 13 Târgoviște"
+      }
+    },
+    {
+      "id": "node/4307008995",
+      "osm_id": 4307008995,
+      "osm_type": "node",
+      "name": "Universitatea Valahia din Târgoviște",
+      "category": "education",
+      "lat": 44.9436457,
+      "lon": 25.455592,
+      "tags": {
+        "addr:housenumber": "13",
+        "addr:postcode": "130064",
+        "addr:street": "Aleea Sinaia",
+        "amenity": "school",
+        "email": "rectorat@valahia.ro",
+        "name": "Universitatea Valahia din Târgoviște",
+        "name:en": "Valahia University of Targoviste",
+        "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-16:00",
+        "phone": "0040245206101",
+        "website": "https://www.valahia.ro/"
+      }
+    },
+    {
+      "id": "node/4720358993",
+      "osm_id": 4720358993,
+      "osm_type": "node",
+      "name": "Rectorat Universitatea Valahia",
+      "category": "education",
+      "lat": 44.92394,
+      "lon": 25.4575221,
+      "tags": {
+        "addr:street": "Bulevardul Regele Carol I",
+        "amenity": "school",
+        "name": "Rectorat Universitatea Valahia",
+        "name:ro": "Rectorat Universitatea Valahia"
+      }
+    },
+    {
+      "id": "node/4720377095",
+      "osm_id": 4720377095,
+      "osm_type": "node",
+      "name": "Liceul Tehnic de Transporturi Auto",
+      "category": "education",
+      "lat": 44.9310107,
+      "lon": 25.4569214,
+      "tags": {
+        "addr:housenumber": "12",
+        "addr:street": "Strada Locotenent Popescu Pârvan",
+        "amenity": "school",
+        "name": "Liceul Tehnic de Transporturi Auto",
+        "name:ro": "Liceul Tehnic de Transporturi Auto"
+      }
+    },
+    {
+      "id": "node/4892580728",
+      "osm_id": 4892580728,
+      "osm_type": "node",
+      "name": "Grădiniță",
+      "category": "education",
+      "lat": 44.933159,
+      "lon": 25.4469676,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Grădiniță"
+      }
+    },
+    {
+      "id": "node/5683435023",
+      "osm_id": 5683435023,
+      "osm_type": "node",
+      "name": "Malory-Ella Afterschool",
+      "category": "education",
+      "lat": 44.9403253,
+      "lon": 25.4656141,
+      "tags": {
+        "addr:city": "Târgoviște",
+        "addr:housenumber": "85H",
+        "addr:postcode": "130004",
+        "addr:street": "Strada Magrini",
+        "amenity": "kindergarten",
+        "name": "Malory-Ella Afterschool"
+      }
+    },
+    {
+      "id": "node/8146446317",
+      "osm_id": 8146446317,
+      "osm_type": "node",
+      "name": "Facultatea Valahia Corpul \"K\"",
+      "category": "education",
+      "lat": 44.9220913,
+      "lon": 25.4588953,
+      "tags": {
+        "addr:street": "Strada Maior Ion Alexandrescu",
+        "amenity": "school",
+        "name": "Facultatea Valahia Corpul \"K\""
+      }
+    },
+    {
+      "id": "node/9866920088",
+      "osm_id": 9866920088,
+      "osm_type": "node",
+      "name": "15",
+      "category": "education",
+      "lat": 44.9180025,
+      "lon": 25.476587,
+      "tags": {
+        "addr:city": "Târgoviște",
+        "amenity": "kindergarten",
+        "name": "15"
+      }
+    },
+    {
+      "id": "way/42679588",
+      "osm_id": 42679588,
+      "osm_type": "way",
+      "name": "Colegiul Ienăchiță Văcărescu",
+      "category": "education",
+      "lat": 44.9279293,
+      "lon": 25.4668203,
+      "tags": {
+        "amenity": "school",
+        "fixme": "Check the name",
+        "is_in:city": "Târgoviște",
+        "name": "Colegiul Ienăchiță Văcărescu"
+      }
+    },
+    {
+      "id": "way/42679589",
+      "osm_id": 42679589,
+      "osm_type": "way",
+      "name": "Școala I. Al. Brătescu-Voinești",
+      "category": "education",
+      "lat": 44.9262856,
+      "lon": 25.467176,
+      "tags": {
+        "addr:city": "Târgoviște",
+        "addr:street": "Strada Profesor Nicolae Radian",
+        "amenity": "school",
+        "denomination": "orthodox",
+        "fixme": "Check the name",
+        "is_in:city": "Târgoviște",
+        "name": "Școala I. Al. Brătescu-Voinești",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/217867488",
+      "osm_id": 217867488,
+      "osm_type": "way",
+      "name": "Liceul \"Voievodul Mircea\"",
+      "category": "education",
+      "lat": 44.9178737,
+      "lon": 25.4540214,
+      "tags": {
+        "addr:housenumber": "70",
+        "addr:postcode": "130024",
+        "addr:street": "Bulevardul Regele Carol I",
+        "amenity": "school",
+        "name": "Liceul \"Voievodul Mircea\""
+      }
+    },
+    {
+      "id": "way/258621405",
+      "osm_id": 258621405,
+      "osm_type": "way",
+      "name": "Colegiul Național Constantin Cantacuzino",
+      "category": "education",
+      "lat": 44.917131,
+      "lon": 25.4733146,
+      "tags": {
+        "addr:city": "Târgoviște",
+        "addr:housename": "CNCC",
+        "addr:housenumber": "3",
+        "addr:street": "Strada George Cair",
+        "amenity": "school",
+        "name": "Colegiul Național Constantin Cantacuzino"
+      }
+    },
+    {
+      "id": "way/279163096",
+      "osm_id": 279163096,
+      "osm_type": "way",
+      "name": "Școala Generală nr.1",
+      "category": "education",
+      "lat": 44.9323298,
+      "lon": 25.4564752,
+      "tags": {
+        "addr:city": "Târgoviște",
+        "addr:housenumber": "184",
+        "addr:postcode": "130008",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Calea Domnească",
+        "amenity": "school",
+        "building": "yes",
+        "name": "Școala Generală nr.1"
+      }
+    },
+    {
+      "id": "way/288439544",
+      "osm_id": 288439544,
+      "osm_type": "way",
+      "name": "Școala 11 Paul Banica",
+      "category": "education",
+      "lat": 44.9244028,
+      "lon": 25.4458104,
+      "tags": {
+        "amenity": "school",
+        "name": "Școala 11 Paul Banica"
+      }
+    },
+    {
+      "id": "way/295331770",
+      "osm_id": 295331770,
+      "osm_type": "way",
+      "name": "Colegiul Național “Constantin Carabella”",
+      "category": "education",
+      "lat": 44.9294793,
+      "lon": 25.4521045,
+      "tags": {
+        "addr:housenumber": "58",
+        "addr:postcode": "130078",
+        "addr:street": "Strada Locotenent Popescu Pârvan",
+        "amenity": "school",
+        "email": "secretariat@carabella.ro",
+        "name": "Colegiul Național “Constantin Carabella”",
+        "name:en": "National college “Constantin Carabella”",
+        "phone": "+40771091329",
+        "website": "http://carabella.ro"
+      }
+    },
+    {
+      "id": "way/324947356",
+      "osm_id": 324947356,
+      "osm_type": "way",
+      "name": "Școala Coresi, Târgoviște",
+      "category": "education",
+      "lat": 44.918654,
+      "lon": 25.4579042,
+      "tags": {
+        "amenity": "school",
+        "building": "yes",
+        "name": "Școala Coresi, Târgoviște"
+      }
+    },
+    {
+      "id": "way/338933361",
+      "osm_id": 338933361,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.9289359,
+      "lon": 25.4641012,
+      "tags": {
+        "addr:city": "Târgoviște",
+        "addr:housenumber": "223",
+        "addr:postcode": "130016",
+        "addr:street": "Calea Domnească",
+        "building": "school",
+        "building:levels": "2"
+      }
+    },
+    {
+      "id": "way/420552421",
+      "osm_id": 420552421,
+      "osm_type": "way",
+      "name": "Școala Generala Nr. 3 Smaranda Gheorghiu",
+      "category": "education",
+      "lat": 44.9173701,
+      "lon": 25.4799864,
+      "tags": {
+        "addr:city": "Târgoviște",
+        "amenity": "school",
+        "building": "yes",
+        "name": "Școala Generala Nr. 3 Smaranda Gheorghiu"
+      }
+    },
+    {
+      "id": "way/424495040",
+      "osm_id": 424495040,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.9172702,
+      "lon": 25.476196,
+      "tags": {
+        "addr:city": "Târgoviște",
+        "addr:housenumber": "10",
+        "addr:postcode": "130158",
+        "addr:street": "Strada Vasile Bendea",
+        "building": "school",
+        "building:levels": "3"
+      }
+    },
+    {
+      "id": "way/424709865",
+      "osm_id": 424709865,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.9169631,
+      "lon": 25.4734327,
+      "tags": {
+        "addr:city": "Târgoviște",
+        "addr:housenumber": "3",
+        "addr:street": "Strada George Cair",
+        "building": "school",
+        "building:levels": "4"
+      }
+    },
+    {
+      "id": "way/424717523",
+      "osm_id": 424717523,
+      "osm_type": "way",
+      "name": "Gradinita Nr 1",
+      "category": "education",
+      "lat": 44.925253,
+      "lon": 25.4685063,
+      "tags": {
+        "addr:postcode": "307008",
+        "addr:street": "Strada Căpitan Ion Constantinescu",
+        "amenity": "kindergarten",
+        "name": "Gradinita Nr 1",
+        "phone": "0372716570"
+      }
+    },
+    {
+      "id": "way/425288510",
+      "osm_id": 425288510,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.9212522,
+      "lon": 25.4714516,
+      "tags": {
+        "building": "kindergarten",
+        "building:levels": "2"
+      }
+    },
+    {
+      "id": "way/425288512",
+      "osm_id": 425288512,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.9206131,
+      "lon": 25.4713392,
+      "tags": {
+        "building": "kindergarten",
+        "building:levels": "2"
+      }
+    },
+    {
+      "id": "way/425301984",
+      "osm_id": 425301984,
+      "osm_type": "way",
+      "name": "Liceul nr. 5 Târgoviște",
+      "category": "education",
+      "lat": 44.9146744,
+      "lon": 25.4685751,
+      "tags": {
+        "addr:city": "Târgoviște",
+        "amenity": "college",
+        "building": "yes",
+        "name": "Liceul nr. 5 Târgoviște"
+      }
+    },
+    {
+      "id": "way/453559324",
+      "osm_id": 453559324,
+      "osm_type": "way",
+      "name": "Grădinița 3",
+      "category": "education",
+      "lat": 44.9182147,
+      "lon": 25.4600813,
+      "tags": {
+        "amenity": "kindergarten",
+        "building": "yes",
+        "name": "Grădinița 3"
+      }
+    },
+    {
+      "id": "way/460732350",
+      "osm_id": 460732350,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.9261645,
+      "lon": 25.4672092,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/460733175",
+      "osm_id": 460733175,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.9295029,
+      "lon": 25.4520627,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/460904136",
+      "osm_id": 460904136,
+      "osm_type": "way",
+      "name": "Camin 2 Bis Valahia",
+      "category": "education",
+      "lat": 44.9238887,
+      "lon": 25.4464697,
+      "tags": {
+        "addr:city": "Târgoviște",
+        "addr:postcode": "130077",
+        "addr:street": "Strada Moldovei",
+        "amenity": "school",
+        "building:levels": "4",
+        "name": "Camin 2 Bis Valahia"
+      }
+    },
+    {
+      "id": "way/717574103",
+      "osm_id": 717574103,
+      "osm_type": "way",
+      "name": "Liceul Tehnologic Constantin Brâncoveanu",
+      "category": "education",
+      "lat": 44.9217041,
+      "lon": 25.4460448,
+      "tags": {
+        "addr:city": "Târgoviște",
+        "addr:housenumber": "24",
+        "addr:street": "Bulevardul Unirii",
+        "amenity": "school",
+        "name": "Liceul Tehnologic Constantin Brâncoveanu"
+      }
+    },
+    {
+      "id": "way/813439201",
+      "osm_id": 813439201,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Matei Basarab",
+      "category": "education",
+      "lat": 44.9302516,
+      "lon": 25.4417262,
+      "tags": {
+        "addr:city": "Târgoviște",
+        "addr:housenumber": "5",
+        "addr:street": "Strada Maior Spirescu",
+        "amenity": "school",
+        "name": "Școala Gimnazială Matei Basarab"
+      }
+    },
+    {
+      "id": "way/813465555",
+      "osm_id": 813465555,
+      "osm_type": "way",
+      "name": "Liceul Teoretic Mircea Heliade Rădulescu",
+      "category": "education",
+      "lat": 44.9206413,
+      "lon": 25.4476001,
+      "tags": {
+        "addr:city": "Târgoviște",
+        "addr:housenumber": "28",
+        "addr:street": "Bulevardul Unirii",
+        "amenity": "school",
+        "name": "Liceul Teoretic Mircea Heliade Rădulescu"
+      }
+    },
+    {
+      "id": "way/891356289",
+      "osm_id": 891356289,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Grigore Alexandrescu",
+      "category": "education",
+      "lat": 44.9173509,
+      "lon": 25.4764069,
+      "tags": {
+        "addr:city": "Târgoviște",
+        "addr:housename": "CNCC",
+        "addr:housenumber": "10",
+        "addr:postcode": "130158",
+        "addr:street": "Strada Vasile Bendea",
+        "amenity": "school",
+        "name": "Școala Gimnazială Grigore Alexandrescu"
+      }
+    },
+    {
+      "id": "way/891356291",
+      "osm_id": 891356291,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.9169944,
+      "lon": 25.4729083,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/891368513",
+      "osm_id": 891368513,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Mihai Viteazul",
+      "category": "education",
+      "lat": 44.9198644,
+      "lon": 25.4703712,
+      "tags": {
+        "addr:city": "Târgoviște",
+        "addr:housename": "CNCC",
+        "addr:housenumber": "1",
+        "addr:street": "Strada Profesor Alexandru Vasilescu",
+        "amenity": "school",
+        "name": "Școala Gimnazială Mihai Viteazul"
+      }
+    },
+    {
+      "id": "way/891368514",
+      "osm_id": 891368514,
+      "osm_type": "way",
+      "name": "Grădiniţa nr. 8 Rază de Soare",
+      "category": "education",
+      "lat": 44.9208611,
+      "lon": 25.4713093,
+      "tags": {
+        "addr:city": "Târgoviște",
+        "addr:housename": "CNCC",
+        "addr:housenumber": "7",
+        "addr:street": "Strada Profesor Alexandru Vasilescu",
+        "amenity": "kindergarten",
+        "name": "Grădiniţa nr. 8 Rază de Soare"
+      }
+    },
+    {
+      "id": "way/891383272",
+      "osm_id": 891383272,
+      "osm_type": "way",
+      "name": "Colegiul Economic Ion Ghica",
+      "category": "education",
+      "lat": 44.929093,
+      "lon": 25.4640704,
+      "tags": {
+        "addr:city": "Târgoviște",
+        "addr:housenumber": "223",
+        "addr:postcode": "130016",
+        "addr:street": "Calea Domnească",
+        "amenity": "school",
+        "fixme": "Check the name",
+        "is_in:city": "Târgoviște",
+        "name": "Colegiul Economic Ion Ghica"
+      }
+    },
+    {
+      "id": "way/992614926",
+      "osm_id": 992614926,
+      "osm_type": "way",
+      "name": "Universitatea Valahia din Targoviste",
+      "category": "education",
+      "lat": 44.9432258,
+      "lon": 25.4539554,
+      "tags": {
+        "amenity": "university",
+        "email": "rectorat@valahia.ro",
+        "name": "Universitatea Valahia din Targoviste",
+        "name:en": "Valahia University of Targoviste",
+        "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-16:00",
+        "phone": "0040245206101",
+        "website": "https://www.valahia.ro/"
+      }
+    },
+    {
+      "id": "way/1064493632",
+      "osm_id": 1064493632,
+      "osm_type": "way",
+      "name": "Nicolae Cioranescu Nr 1",
+      "category": "education",
+      "lat": 44.9203895,
+      "lon": 25.4658139,
+      "tags": {
+        "addr:city": "Târgoviște",
+        "amenity": "school",
+        "name": "Nicolae Cioranescu Nr 1"
+      }
+    },
+    {
+      "id": "way/1064496137",
+      "osm_id": 1064496137,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.914463,
+      "lon": 25.468291,
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "way/1073678755",
+      "osm_id": 1073678755,
+      "osm_type": "way",
+      "name": "Teologie",
+      "category": "education",
+      "lat": 44.9211936,
+      "lon": 25.4477391,
+      "tags": {
+        "amenity": "school",
+        "name": "Teologie"
+      }
+    },
+    {
+      "id": "way/1073712889",
+      "osm_id": 1073712889,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.9212955,
+      "lon": 25.4460882,
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "way/1073714010",
+      "osm_id": 1073714010,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 44.9188042,
+      "lon": 25.458011,
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "way/1075897643",
+      "osm_id": 1075897643,
+      "osm_type": "way",
+      "name": "Liceul de arte “Bălașa Doamna”",
+      "category": "education",
+      "lat": 44.9290961,
+      "lon": 25.4514474,
+      "tags": {
+        "addr:housenumber": "60",
+        "addr:postcode": "130078",
+        "addr:street": "Strada Locotenent Popescu Pârvan",
+        "amenity": "school",
+        "email": "contact@balasadoamna.ro",
+        "name": "Liceul de arte “Bălașa Doamna”",
+        "name:en": "Art college “Bălașa Doamna”",
+        "phone": "+40245211166",
+        "website": "http://balasadoamna.ro"
+      }
+    },
+    {
+      "id": "way/1075899070",
+      "osm_id": 1075899070,
+      "osm_type": "way",
+      "name": "Liceul 6 Spiru Haret",
+      "category": "education",
+      "lat": 44.9288107,
+      "lon": 25.4480961,
+      "tags": {
+        "amenity": "school",
+        "name": "Liceul 6 Spiru Haret"
+      }
+    },
+    {
+      "id": "way/1075899072",
+      "osm_id": 1075899072,
+      "osm_type": "way",
+      "name": "Liceul Teoretic Petru Cercel",
+      "category": "education",
+      "lat": 44.9280324,
+      "lon": 25.4484935,
+      "tags": {
+        "amenity": "school",
+        "name": "Liceul Teoretic Petru Cercel"
+      }
+    },
+    {
+      "id": "way/1091970354",
+      "osm_id": 1091970354,
+      "osm_type": "way",
+      "name": "Gradinita 14",
+      "category": "education",
+      "lat": 44.9235707,
+      "lon": 25.4473385,
+      "tags": {
+        "addr:city": "Târgoviște",
+        "addr:street": "Strada Moldovei",
+        "amenity": "kindergarten",
+        "name": "Gradinita 14"
+      }
+    },
+    {
+      "id": "way/1091970442",
+      "osm_id": 1091970442,
+      "osm_type": "way",
+      "name": "Scoala Nr 6",
+      "category": "education",
+      "lat": 44.9256504,
+      "lon": 25.4426271,
+      "tags": {
+        "addr:city": "Târgoviște",
+        "addr:postcode": "130076",
+        "addr:street": "Strada Bucovinei",
+        "amenity": "school",
+        "name": "Scoala Nr 6"
+      }
+    },
+    {
+      "id": "way/1091970507",
+      "osm_id": 1091970507,
+      "osm_type": "way",
+      "name": "Radu Cel Mare",
+      "category": "education",
+      "lat": 44.9331326,
+      "lon": 25.4480677,
+      "tags": {
+        "addr:city": "Târgoviște",
+        "addr:street": "Strada Radu cel Mare",
+        "amenity": "school",
+        "name": "Radu Cel Mare"
+      }
+    },
+    {
+      "id": "way/1093422732",
+      "osm_id": 1093422732,
+      "osm_type": "way",
+      "name": "Scoala Nr1",
+      "category": "education",
+      "lat": 44.9320359,
+      "lon": 25.456206,
+      "tags": {
+        "addr:city": "Târgoviște",
+        "addr:street": "Calea Domnească",
+        "amenity": "school",
+        "name": "Scoala Nr1"
+      }
+    },
+    {
+      "id": "node/1316062644",
+      "osm_id": 1316062644,
+      "osm_type": "node",
+      "name": "Mănăstirea Stelea",
+      "category": "place_of_worship",
+      "lat": 44.92886,
+      "lon": 25.46227,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Mănăstirea Stelea",
+        "religion": "christian",
+        "source": "jonutzu@gpszone.ro"
+      }
+    },
+    {
+      "id": "node/2834068473",
+      "osm_id": 2834068473,
+      "osm_type": "node",
+      "name": "Biserica Buna Vestire, Târgoviște",
+      "category": "place_of_worship",
+      "lat": 44.9161727,
+      "lon": 25.4777783,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Buna Vestire, Târgoviște",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/2990574851",
+      "osm_id": 2990574851,
+      "osm_type": "node",
+      "name": "Biserica Târgului",
+      "category": "place_of_worship",
+      "lat": 44.9287727,
+      "lon": 25.4585141,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Târgului",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/3316247466",
+      "osm_id": 3316247466,
+      "osm_type": "node",
+      "name": "Biserica Stolnicului - Târgoviște",
+      "category": "place_of_worship",
+      "lat": 44.9285862,
+      "lon": 25.4654127,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Stolnicului - Târgoviște",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/3566011564",
+      "osm_id": 3566011564,
+      "osm_type": "node",
+      "name": "Catedrala Eroilor",
+      "category": "place_of_worship",
+      "lat": 44.9172647,
+      "lon": 25.471565,
+      "tags": {
+        "addr:city": "Târgoviște",
+        "addr:housenumber": "133",
+        "addr:street": "Bulevardul Ion C. Brătianu",
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Catedrala Eroilor",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/4204999964",
+      "osm_id": 4204999964,
+      "osm_type": "node",
+      "name": "Biserica ortodoxă Sf. Nifon",
+      "category": "place_of_worship",
+      "lat": 44.9179562,
+      "lon": 25.4806136,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica ortodoxă Sf. Nifon",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/4246115246",
+      "osm_id": 4246115246,
+      "osm_type": "node",
+      "name": "Biserica Evanghelică Târgoviște",
+      "category": "place_of_worship",
+      "lat": 44.9220224,
+      "lon": 25.4753448,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "protestant",
+        "name": "Biserica Evanghelică Târgoviște",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/42678661",
+      "osm_id": 42678661,
+      "osm_type": "way",
+      "name": "Biserica Spitalului",
+      "category": "place_of_worship",
+      "lat": 44.9222555,
+      "lon": 25.4518471,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "is_in:city": "Târgoviște",
+        "name": "Biserica Spitalului",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/42679589",
+      "osm_id": 42679589,
+      "osm_type": "way",
+      "name": "Școala I. Al. Brătescu-Voinești",
+      "category": "place_of_worship",
+      "lat": 44.9262856,
+      "lon": 25.467176,
+      "tags": {
+        "addr:city": "Târgoviște",
+        "addr:street": "Strada Profesor Nicolae Radian",
+        "amenity": "school",
+        "denomination": "orthodox",
+        "fixme": "Check the name",
+        "is_in:city": "Târgoviște",
+        "name": "Școala I. Al. Brătescu-Voinești",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/258915989",
+      "osm_id": 258915989,
+      "osm_type": "way",
+      "name": "Biserica Sfinții Arhangheli Mihail si Gavriil",
+      "category": "place_of_worship",
+      "lat": 44.9281768,
+      "lon": 25.440643,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Sfinții Arhangheli Mihail si Gavriil",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/267363953",
+      "osm_id": 267363953,
+      "osm_type": "way",
+      "name": "Biserica Domnească Mare",
+      "category": "place_of_worship",
+      "lat": 44.9317513,
+      "lon": 25.4589011,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "check_date": "2025-08-05",
+        "denomination": "orthodox",
+        "name": "Biserica Domnească Mare",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/289578533",
+      "osm_id": 289578533,
+      "osm_type": "way",
+      "name": "Biserica Sfînta Vineri",
+      "category": "place_of_worship",
+      "lat": 44.931677,
+      "lon": 25.4605955,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica Sfînta Vineri",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/323782716",
+      "osm_id": 323782716,
+      "osm_type": "way",
+      "name": "Sfântul Atanasie și Chiril",
+      "category": "place_of_worship",
+      "lat": 44.9242881,
+      "lon": 25.4569453,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "romanian_orthodox",
+        "name": "Sfântul Atanasie și Chiril",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/323951045",
+      "osm_id": 323951045,
+      "osm_type": "way",
+      "name": "Cimitirul Simuleasa",
+      "category": "place_of_worship",
+      "lat": 44.9151998,
+      "lon": 25.4716663,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitirul Simuleasa",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/424073003",
+      "osm_id": 424073003,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.9287114,
+      "lon": 25.4441717,
+      "tags": {
+        "building": "church",
+        "denomination": "protestant",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/440310215",
+      "osm_id": 440310215,
+      "osm_type": "way",
+      "name": "biserica evangelica",
+      "category": "place_of_worship",
+      "lat": 44.9219977,
+      "lon": 25.4753648,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "evangelical",
+        "name": "biserica evangelica",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/441574802",
+      "osm_id": 441574802,
+      "osm_type": "way",
+      "name": "Biserica Sfântul Dumitru",
+      "category": "place_of_worship",
+      "lat": 44.9345983,
+      "lon": 25.452073,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica Sfântul Dumitru",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/460740566",
+      "osm_id": 460740566,
+      "osm_type": "way",
+      "name": "Biserica Geartoglu",
+      "category": "place_of_worship",
+      "lat": 44.9293602,
+      "lon": 25.4613354,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica Geartoglu",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/460740590",
+      "osm_id": 460740590,
+      "osm_type": "way",
+      "name": "Biserică Lemnului",
+      "category": "place_of_worship",
+      "lat": 44.9271924,
+      "lon": 25.4558694,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserică Lemnului",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/460740845",
+      "osm_id": 460740845,
+      "osm_type": "way",
+      "name": "Biserică Albă",
+      "category": "place_of_worship",
+      "lat": 44.9250025,
+      "lon": 25.4704821,
+      "tags": {
+        "addr:street": "Calea Domnească",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserică Albă",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/492282682",
+      "osm_id": 492282682,
+      "osm_type": "way",
+      "name": "Biserica Sfinții Voievozi",
+      "category": "place_of_worship",
+      "lat": 44.9301105,
+      "lon": 25.457968,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica Sfinții Voievozi",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/492282776",
+      "osm_id": 492282776,
+      "osm_type": "way",
+      "name": "Biserica Sfântul Nicolae Andronești",
+      "category": "place_of_worship",
+      "lat": 44.9303743,
+      "lon": 25.4564126,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica Sfântul Nicolae Andronești",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/492494627",
+      "osm_id": 492494627,
+      "osm_type": "way",
+      "name": "Biserica Catolică Sfântul Francisc de Asissi",
+      "category": "place_of_worship",
+      "lat": 44.9335652,
+      "lon": 25.4527446,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "catholic",
+        "name": "Biserica Catolică Sfântul Francisc de Asissi",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/495367596",
+      "osm_id": 495367596,
+      "osm_type": "way",
+      "name": "Catedrala Mitropolitană Înălțarea Domnului",
+      "category": "place_of_worship",
+      "lat": 44.9255677,
+      "lon": 25.4603163,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Catedrala Mitropolitană Înălțarea Domnului",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/495370684",
+      "osm_id": 495370684,
+      "osm_type": "way",
+      "name": "Biserica Adventistă de Ziua a Șaptea",
+      "category": "place_of_worship",
+      "lat": 44.9339035,
+      "lon": 25.4548024,
+      "tags": {
+        "addr:housenumber": "1",
+        "addr:street": "Strada Mihai Bravu",
+        "building": "church",
+        "name": "Biserica Adventistă de Ziua a Șaptea"
+      }
+    },
+    {
+      "id": "way/669215665",
+      "osm_id": 669215665,
+      "osm_type": "way",
+      "name": "Biserică Crețulescu",
+      "category": "place_of_worship",
+      "lat": 44.9364395,
+      "lon": 25.4545804,
+      "tags": {
+        "addr:city": "Târgoviște",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserică Crețulescu",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/715901265",
+      "osm_id": 715901265,
+      "osm_type": "way",
+      "name": "Biserica Buna Vestire",
+      "category": "place_of_worship",
+      "lat": 44.9161705,
+      "lon": 25.4777597,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Buna Vestire",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/716875690",
+      "osm_id": 716875690,
+      "osm_type": "way",
+      "name": "Biserica Sfinții Împărați Constantin și Elena",
+      "category": "place_of_worship",
+      "lat": 44.9316597,
+      "lon": 25.4546635,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica Sfinții Împărați Constantin și Elena",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/717258685",
+      "osm_id": 717258685,
+      "osm_type": "way",
+      "name": "Biserica Înălțarea Domnului",
+      "category": "place_of_worship",
+      "lat": 44.9172557,
+      "lon": 25.4715944,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Înălțarea Domnului",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/717294080",
+      "osm_id": 717294080,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 44.9141867,
+      "lon": 25.4526244,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/717333656",
+      "osm_id": 717333656,
+      "osm_type": "way",
+      "name": "Biserica Sfântul Gheorghe",
+      "category": "place_of_worship",
+      "lat": 44.9369061,
+      "lon": 25.4497274,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica Sfântul Gheorghe",
+        "name:en": "St. George Church",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1082122484",
+      "osm_id": 1082122484,
+      "osm_type": "way",
+      "name": "Biserica Sagricom",
+      "category": "place_of_worship",
+      "lat": 44.900766,
+      "lon": 25.5053713,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Biserica Sagricom",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1089718135",
+      "osm_id": 1089718135,
+      "osm_type": "way",
+      "name": "Izvoru Tamaduiri",
+      "category": "place_of_worship",
+      "lat": 44.9271944,
+      "lon": 25.446666,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "religious",
+        "name": "Izvoru Tamaduiri",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1274017253",
+      "osm_id": 1274017253,
+      "osm_type": "way",
+      "name": "Biserică Sfântul Nicolae Simuleasa",
+      "category": "place_of_worship",
+      "lat": 44.9229791,
+      "lon": 25.471996,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserică Sfântul Nicolae Simuleasa",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1274018032",
+      "osm_id": 1274018032,
+      "osm_type": "way",
+      "name": "Biserica Izvorul Tămăduirii",
+      "category": "place_of_worship",
+      "lat": 44.9271302,
+      "lon": 25.4467484,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica Izvorul Tămăduirii",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/1499821102",
+      "osm_id": 1499821102,
+      "osm_type": "way",
+      "name": "Sf . Ioan Gura De Aur",
+      "category": "place_of_worship",
+      "lat": 44.9214486,
+      "lon": 25.4485887,
+      "tags": {
+        "addr:city": "Târgoviște",
+        "addr:street": "Bulevardul Unirii",
+        "building": "church",
+        "building:levels": "1",
+        "height": "20",
+        "name": "Sf . Ioan Gura De Aur"
+      }
+    }
+  ]
+}

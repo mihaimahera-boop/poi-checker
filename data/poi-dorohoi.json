@@ -1,0 +1,513 @@
+{
+  "city": "Dorohoi",
+  "generated_at": "2026-04-23T09:42:43.781Z",
+  "counts": {
+    "total": 31,
+    "schools": 17,
+    "churches": 14
+  },
+  "pois": [
+    {
+      "id": "node/7934457610",
+      "osm_id": 7934457610,
+      "osm_type": "node",
+      "name": "Scoala Speciala nr. 1",
+      "category": "education",
+      "lat": 47.9472619,
+      "lon": 26.3828616,
+      "tags": {
+        "addr:city": "Dorohoi",
+        "addr:street": "Strada 1 Decembrie",
+        "amenity": "school",
+        "name": "Scoala Speciala nr. 1"
+      }
+    },
+    {
+      "id": "node/7942162058",
+      "osm_id": 7942162058,
+      "osm_type": "node",
+      "name": "Grădinița Nr. 9",
+      "category": "education",
+      "lat": 47.9535325,
+      "lon": 26.4014259,
+      "tags": {
+        "addr:city": "Dorohoi",
+        "addr:postcode": "715200",
+        "addr:street": "Strada Ștefan cel Mare",
+        "amenity": "kindergarten",
+        "name": "Grădinița Nr. 9"
+      }
+    },
+    {
+      "id": "way/478297831",
+      "osm_id": 478297831,
+      "osm_type": "way",
+      "name": "Liceul Regina Maria",
+      "category": "education",
+      "lat": 47.940219,
+      "lon": 26.4066697,
+      "tags": {
+        "amenity": "school",
+        "isced:level": "3",
+        "name": "Liceul Regina Maria",
+        "operator:type": "public",
+        "railway": "yard",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "id": "way/850490441",
+      "osm_id": 850490441,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.9474046,
+      "lon": 26.3822792,
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "way/850490442",
+      "osm_id": 850490442,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.9473005,
+      "lon": 26.383062,
+      "tags": {
+        "addr:city": "Dorohoi",
+        "addr:street": "Strada 1 Decembrie",
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "way/850490443",
+      "osm_id": 850490443,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.9470093,
+      "lon": 26.3826414,
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "way/850490444",
+      "osm_id": 850490444,
+      "osm_type": "way",
+      "name": "Colegiul Național Grigore Ghica Dorohoi - Corpul 2",
+      "category": "education",
+      "lat": 47.9466822,
+      "lon": 26.3836709,
+      "tags": {
+        "addr:city": "Dorohoi",
+        "addr:postcode": "715200",
+        "addr:street": "Strada 1 Decembrie",
+        "amenity": "school",
+        "grades": "9-12",
+        "name": "Colegiul Național Grigore Ghica Dorohoi - Corpul 2"
+      }
+    },
+    {
+      "id": "way/850500695",
+      "osm_id": 850500695,
+      "osm_type": "way",
+      "name": "Colegiul Național \"Grigore Ghica\" Dorohoi",
+      "category": "education",
+      "lat": 47.9534378,
+      "lon": 26.3941122,
+      "tags": {
+        "addr:city": "Dorohoi",
+        "addr:housenumber": "41",
+        "addr:postcode": "715200",
+        "addr:street": "Strada Grigore Ghica",
+        "amenity": "school",
+        "grades": "9-12",
+        "name": "Colegiul Național \"Grigore Ghica\" Dorohoi"
+      }
+    },
+    {
+      "id": "way/850500845",
+      "osm_id": 850500845,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.9532494,
+      "lon": 26.393519,
+      "tags": {
+        "addr:city": "Dorohoi",
+        "addr:street": "Strada Grigore Ghica",
+        "amenity": "school",
+        "grades": "9-12"
+      }
+    },
+    {
+      "id": "way/850501358",
+      "osm_id": 850501358,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.9533006,
+      "lon": 26.3940031,
+      "tags": {
+        "addr:city": "Dorohoi",
+        "addr:street": "Strada Grigore Ghica",
+        "amenity": "school",
+        "grades": "9-12"
+      }
+    },
+    {
+      "id": "way/850775187",
+      "osm_id": 850775187,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Nr.5 \"Spiru Haret\"",
+      "category": "education",
+      "lat": 47.9514523,
+      "lon": 26.3921642,
+      "tags": {
+        "addr:city": "Dorohoi",
+        "addr:housenumber": "2",
+        "addr:postcode": "715200",
+        "addr:street": "Strada Locotenent Olinescu",
+        "amenity": "school",
+        "grades": "1-8",
+        "name": "Școala Gimnazială Nr.5 \"Spiru Haret\""
+      }
+    },
+    {
+      "id": "way/850776408",
+      "osm_id": 850776408,
+      "osm_type": "way",
+      "name": "Seminarul Teologic \"Sf. Ioan Iacob\"",
+      "category": "education",
+      "lat": 47.9512497,
+      "lon": 26.3935647,
+      "tags": {
+        "addr:city": "Dorohoi",
+        "addr:street": "Strada Poștei",
+        "amenity": "school",
+        "building:levels": "4",
+        "denomination": "orthodox",
+        "grades": "9-12",
+        "name": "Seminarul Teologic \"Sf. Ioan Iacob\"",
+        "religion": "christian",
+        "website": "https://www.seminaruldorohoi.ro/"
+      }
+    },
+    {
+      "id": "way/850788984",
+      "osm_id": 850788984,
+      "osm_type": "way",
+      "name": "Colegiul Național \"Grigore Ghica\" Dorohoi 2",
+      "category": "education",
+      "lat": 47.9516464,
+      "lon": 26.3965699,
+      "tags": {
+        "addr:city": "Dorohoi",
+        "addr:street": "Strada Alexandru Ioan Cuza",
+        "building": "school",
+        "name": "Colegiul Național \"Grigore Ghica\" Dorohoi 2"
+      }
+    },
+    {
+      "id": "way/868266006",
+      "osm_id": 868266006,
+      "osm_type": "way",
+      "name": "Școala Gimnazială “Alexandru Ioan Cuza” Nr. 7",
+      "category": "education",
+      "lat": 47.942893,
+      "lon": 26.4048623,
+      "tags": {
+        "addr:city": "Dorohoi",
+        "addr:housenumber": "108",
+        "addr:postcode": "715200",
+        "addr:street": "Bulevardul Victoriei",
+        "amenity": "school",
+        "grades": "1-8",
+        "isced:level": "2",
+        "name": "Școala Gimnazială “Alexandru Ioan Cuza” Nr. 7",
+        "operator:type": "public",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "id": "way/868280306",
+      "osm_id": 868280306,
+      "osm_type": "way",
+      "name": "Școala Gimnazială „Mihail Kogălniceanu” Nr. 8",
+      "category": "education",
+      "lat": 47.9443717,
+      "lon": 26.4061154,
+      "tags": {
+        "addr:city": "Dorohoi",
+        "addr:housenumber": "2",
+        "addr:postcode": "715200",
+        "addr:street": "Aleea Dumbrava",
+        "amenity": "school",
+        "grades": "1-8",
+        "name": "Școala Gimnazială „Mihail Kogălniceanu” Nr. 8"
+      }
+    },
+    {
+      "id": "way/868280870",
+      "osm_id": 868280870,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.9444246,
+      "lon": 26.4063265,
+      "tags": {
+        "building": "school",
+        "layer": "1"
+      }
+    },
+    {
+      "id": "way/1493110880",
+      "osm_id": 1493110880,
+      "osm_type": "way",
+      "name": "Alexandru Vlahuță",
+      "category": "education",
+      "lat": 47.9397879,
+      "lon": 26.4089898,
+      "tags": {
+        "amenity": "school",
+        "building": "yes",
+        "isced:level": "3",
+        "name": "Alexandru Vlahuță",
+        "operator:type": "public",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "id": "node/7934468056",
+      "osm_id": 7934468056,
+      "osm_type": "node",
+      "name": "Biserica Înălțarea Domnului",
+      "category": "place_of_worship",
+      "lat": 47.9449644,
+      "lon": 26.3845701,
+      "tags": {
+        "addr:city": "Dorohoi",
+        "addr:street": "Strada 1 Decembrie",
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Înălțarea Domnului",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/7934573839",
+      "osm_id": 7934573839,
+      "osm_type": "node",
+      "name": "Biserica Vârgolici",
+      "category": "place_of_worship",
+      "lat": 47.9535516,
+      "lon": 26.3933484,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Vârgolici",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/7934592446",
+      "osm_id": 7934592446,
+      "osm_type": "node",
+      "name": "Biserica Adormirea Maicii Domnului si Sf.Mare Mucenic Gheorghe",
+      "category": "place_of_worship",
+      "lat": 47.9529835,
+      "lon": 26.3947394,
+      "tags": {
+        "addr:city": "Dorohoi",
+        "addr:street": "Strada Alexandru Ioan Cuza",
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Adormirea Maicii Domnului si Sf.Mare Mucenic Gheorghe",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/258296168",
+      "osm_id": 258296168,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 47.9762423,
+      "lon": 26.4334681,
+      "tags": {
+        "amenity": "grave_yard",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/258296170",
+      "osm_id": 258296170,
+      "osm_type": "way",
+      "name": "Biserica Sfinții Arhangheli",
+      "category": "place_of_worship",
+      "lat": 47.975964,
+      "lon": 26.4329692,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Sfinții Arhangheli",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/304341273",
+      "osm_id": 304341273,
+      "osm_type": "way",
+      "name": "Cimitirul Eternitatea",
+      "category": "place_of_worship",
+      "lat": 47.9452876,
+      "lon": 26.3847701,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitirul Eternitatea",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/850502102",
+      "osm_id": 850502102,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 47.9529674,
+      "lon": 26.3949272,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "religious",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/850502103",
+      "osm_id": 850502103,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 47.9529979,
+      "lon": 26.3950746,
+      "tags": {
+        "addr:city": "Dorohoi",
+        "addr:street": "Strada Alexandru Ioan Cuza",
+        "alt_name": "Biserica parohială “Grigore Ghica”",
+        "building": "church"
+      }
+    },
+    {
+      "id": "way/850502907",
+      "osm_id": 850502907,
+      "osm_type": "way",
+      "name": "Biserica Vârgolici",
+      "category": "place_of_worship",
+      "lat": 47.9535512,
+      "lon": 26.39335,
+      "tags": {
+        "addr:city": "Dorohoi",
+        "addr:street": "Strada Grigore Ghica",
+        "building": "church",
+        "name": "Biserica Vârgolici"
+      }
+    },
+    {
+      "id": "way/850776408",
+      "osm_id": 850776408,
+      "osm_type": "way",
+      "name": "Seminarul Teologic \"Sf. Ioan Iacob\"",
+      "category": "place_of_worship",
+      "lat": 47.9512497,
+      "lon": 26.3935647,
+      "tags": {
+        "addr:city": "Dorohoi",
+        "addr:street": "Strada Poștei",
+        "amenity": "school",
+        "building:levels": "4",
+        "denomination": "orthodox",
+        "grades": "9-12",
+        "name": "Seminarul Teologic \"Sf. Ioan Iacob\"",
+        "religion": "christian",
+        "website": "https://www.seminaruldorohoi.ro/"
+      }
+    },
+    {
+      "id": "way/851515291",
+      "osm_id": 851515291,
+      "osm_type": "way",
+      "name": "Biserica Pentecostală",
+      "category": "place_of_worship",
+      "lat": 47.954108,
+      "lon": 26.4025421,
+      "tags": {
+        "addr:city": "Dorohoi",
+        "addr:housenumber": "5",
+        "addr:postcode": "715200",
+        "addr:street": "Strada Sașa Pană",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "pentecostal",
+        "name": "Biserica Pentecostală",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/851521015",
+      "osm_id": 851521015,
+      "osm_type": "way",
+      "name": "Biserica Evanghelică Română",
+      "category": "place_of_worship",
+      "lat": 47.9494161,
+      "lon": 26.4007917,
+      "tags": {
+        "addr:city": "Dorohoi",
+        "addr:postcode": "715200",
+        "addr:street": "Bulevardul Victoriei",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "evangelical",
+        "name": "Biserica Evanghelică Română",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/868279779",
+      "osm_id": 868279779,
+      "osm_type": "way",
+      "name": "Biserica Sfinții Împărați Constantin și Elena",
+      "category": "place_of_worship",
+      "lat": 47.9438413,
+      "lon": 26.4065292,
+      "tags": {
+        "addr:city": "Dorohoi",
+        "addr:housenumber": "2",
+        "addr:postcode": "715200",
+        "addr:street": "Aleea Dumbrava",
+        "building": "church",
+        "building:levels": "5",
+        "name": "Biserica Sfinții Împărați Constantin și Elena"
+      }
+    },
+    {
+      "id": "way/1374956582",
+      "osm_id": 1374956582,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă Sfântul Nicolae",
+      "category": "place_of_worship",
+      "lat": 47.9522598,
+      "lon": 26.4098632,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "name": "Biserica Ortodoxă Sfântul Nicolae",
+        "religion": "christian"
+      }
+    }
+  ]
+}

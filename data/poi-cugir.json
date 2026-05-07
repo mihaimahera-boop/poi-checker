@@ -1,0 +1,422 @@
+{
+  "city": "Cugir",
+  "generated_at": "2026-04-23T09:40:56.346Z",
+  "counts": {
+    "total": 28,
+    "schools": 17,
+    "churches": 11
+  },
+  "pois": [
+    {
+      "id": "node/6579694791",
+      "osm_id": 6579694791,
+      "osm_type": "node",
+      "name": "Școala Gimnazială Singidava",
+      "category": "education",
+      "lat": 45.840531,
+      "lon": 23.3624166,
+      "tags": {
+        "addr:city": "Cugir",
+        "addr:housenumber": "16",
+        "addr:street": "Strada Alexandru Sahia",
+        "amenity": "school",
+        "email": "gen4cugir@yahoo.com",
+        "fax": "(+40) 258751727",
+        "name": "Școala Gimnazială Singidava",
+        "phone": "(+40) 258751727",
+        "reviewed": "no",
+        "school_type": "Unitate de învăţământ"
+      }
+    },
+    {
+      "id": "way/331262557",
+      "osm_id": 331262557,
+      "osm_type": "way",
+      "name": "Școala Generală nr. 3",
+      "category": "education",
+      "lat": 45.8436503,
+      "lon": 23.3608606,
+      "tags": {
+        "building": "school",
+        "name": "Școala Generală nr. 3"
+      }
+    },
+    {
+      "id": "way/331262559",
+      "osm_id": 331262559,
+      "osm_type": "way",
+      "name": "Școala Primară nr. 3",
+      "category": "education",
+      "lat": 45.8441935,
+      "lon": 23.3583755,
+      "tags": {
+        "building": "school",
+        "name": "Școala Primară nr. 3"
+      }
+    },
+    {
+      "id": "way/331264669",
+      "osm_id": 331264669,
+      "osm_type": "way",
+      "name": "Colegiul Național \"David Prodan\"",
+      "category": "education",
+      "lat": 45.8425631,
+      "lon": 23.3630186,
+      "tags": {
+        "building": "school",
+        "name": "Colegiul Național \"David Prodan\""
+      }
+    },
+    {
+      "id": "way/331264687",
+      "osm_id": 331264687,
+      "osm_type": "way",
+      "name": "Grădiniță",
+      "category": "education",
+      "lat": 45.8372247,
+      "lon": 23.3612622,
+      "tags": {
+        "building": "kindergarten",
+        "name": "Grădiniță"
+      }
+    },
+    {
+      "id": "way/331264775",
+      "osm_id": 331264775,
+      "osm_type": "way",
+      "name": "Colegiul Tehnic\"I.D. Lăzărescu\"",
+      "category": "education",
+      "lat": 45.8405648,
+      "lon": 23.3642768,
+      "tags": {
+        "addr:city": "Cugir",
+        "building": "school",
+        "name": "Colegiul Tehnic\"I.D. Lăzărescu\""
+      }
+    },
+    {
+      "id": "way/331265825",
+      "osm_id": 331265825,
+      "osm_type": "way",
+      "name": "Școala cu clasele I-VIII \"Iosif Pervain\"",
+      "category": "education",
+      "lat": 45.833924,
+      "lon": 23.3708266,
+      "tags": {
+        "amenity": "school",
+        "building": "school",
+        "name": "Școala cu clasele I-VIII \"Iosif Pervain\"",
+        "operator:type": "public"
+      }
+    },
+    {
+      "id": "way/331265993",
+      "osm_id": 331265993,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.8405705,
+      "lon": 23.3623951,
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "way/331266277",
+      "osm_id": 331266277,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.8398692,
+      "lon": 23.3628022,
+      "tags": {
+        "building": "kindergarten"
+      }
+    },
+    {
+      "id": "way/331266284",
+      "osm_id": 331266284,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.8396913,
+      "lon": 23.3647351,
+      "tags": {
+        "addr:city": "Cugir",
+        "addr:postcode": "515600",
+        "addr:street": "Strada Victoriei",
+        "building": "school",
+        "building:levels": "2",
+        "height": "10"
+      }
+    },
+    {
+      "id": "way/331266396",
+      "osm_id": 331266396,
+      "osm_type": "way",
+      "name": "Colegiul I.D. Lăzărescu Cugir",
+      "category": "education",
+      "lat": 45.8401066,
+      "lon": 23.3644692,
+      "tags": {
+        "addr:city": "Cugir",
+        "addr:postcode": "515600",
+        "addr:street": "Strada Victoriei",
+        "building": "school",
+        "building:levels": "2",
+        "height": "10",
+        "name": "Colegiul I.D. Lăzărescu Cugir"
+      }
+    },
+    {
+      "id": "way/331266399",
+      "osm_id": 331266399,
+      "osm_type": "way",
+      "name": "Școala Generală nr. 4",
+      "category": "education",
+      "lat": 45.8404663,
+      "lon": 23.3624616,
+      "tags": {
+        "building": "school",
+        "name": "Școala Generală nr. 4"
+      }
+    },
+    {
+      "id": "way/453944241",
+      "osm_id": 453944241,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.8443877,
+      "lon": 23.3583221,
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "way/484160157",
+      "osm_id": 484160157,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.8399174,
+      "lon": 23.3638631,
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "way/484160158",
+      "osm_id": 484160158,
+      "osm_type": "way",
+      "name": "Singdava",
+      "category": "education",
+      "lat": 45.8399163,
+      "lon": 23.3628749,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Singdava"
+      }
+    },
+    {
+      "id": "way/484161306",
+      "osm_id": 484161306,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.8438043,
+      "lon": 23.3609482,
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "way/486585331",
+      "osm_id": 486585331,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 45.8426503,
+      "lon": 23.3627087,
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "node/10039141411",
+      "osm_id": 10039141411,
+      "osm_type": "node",
+      "name": "Crucea Romoșelului",
+      "category": "place_of_worship",
+      "lat": 45.820577,
+      "lon": 23.336581,
+      "tags": {
+        "historic": "wayside_cross",
+        "name": "Crucea Romoșelului",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/330954952",
+      "osm_id": 330954952,
+      "osm_type": "way",
+      "name": "Biserica Sfântul Nicolae",
+      "category": "place_of_worship",
+      "lat": 45.8864174,
+      "lon": 23.3517147,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica Sfântul Nicolae",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/331262533",
+      "osm_id": 331262533,
+      "osm_type": "way",
+      "name": "Biserica \"Sf. Trei Ierarhi\"",
+      "category": "place_of_worship",
+      "lat": 45.8438694,
+      "lon": 23.3551878,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica \"Sf. Trei Ierarhi\"",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/331264678",
+      "osm_id": 331264678,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 45.8376553,
+      "lon": 23.3639179,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/331264685",
+      "osm_id": 331264685,
+      "osm_type": "way",
+      "name": "Biserica \"Sfânta Treime\"",
+      "category": "place_of_worship",
+      "lat": 45.8346887,
+      "lon": 23.3692794,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica \"Sfânta Treime\"",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/331264686",
+      "osm_id": 331264686,
+      "osm_type": "way",
+      "name": "Biserica \"Sf. Mare Mucenic Gheorghe\"",
+      "category": "place_of_worship",
+      "lat": 45.8335845,
+      "lon": 23.3693757,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica \"Sf. Mare Mucenic Gheorghe\"",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/331264688",
+      "osm_id": 331264688,
+      "osm_type": "way",
+      "name": "Catedrala \"Adormirea Maicii Domnului\"",
+      "category": "place_of_worship",
+      "lat": 45.8413345,
+      "lon": 23.3605491,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Catedrala \"Adormirea Maicii Domnului\"",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/331265605",
+      "osm_id": 331265605,
+      "osm_type": "way",
+      "name": "Biserica Creștină Baptistă",
+      "category": "place_of_worship",
+      "lat": 45.8416053,
+      "lon": 23.3577622,
+      "tags": {
+        "addr:city": "Cugir",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "baptist",
+        "name": "Biserica Creștină Baptistă",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/331265938",
+      "osm_id": 331265938,
+      "osm_type": "way",
+      "name": "Biserica \"Sf. Ierarh Nicolae\"",
+      "category": "place_of_worship",
+      "lat": 45.8353288,
+      "lon": 23.3718369,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica \"Sf. Ierarh Nicolae\"",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/331847717",
+      "osm_id": 331847717,
+      "osm_type": "way",
+      "name": "Mănăstirea Călene",
+      "category": "place_of_worship",
+      "lat": 45.8334857,
+      "lon": 23.4122219,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Mănăstirea Călene",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/331848547",
+      "osm_id": 331848547,
+      "osm_type": "way",
+      "name": "Biserica Romano-Catolică",
+      "category": "place_of_worship",
+      "lat": 45.8220527,
+      "lon": 23.3764663,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "chapel",
+        "denomination": "roman_catholic",
+        "name": "Biserica Romano-Catolică",
+        "name:hu": "Jézus Szent Vére-templom",
+        "name:ro": "Biserica Romano-Catolică",
+        "religion": "christian",
+        "url:miserend": "https://miserend.hu/templom/3119"
+      }
+    }
+  ]
+}

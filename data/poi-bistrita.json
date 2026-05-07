@@ -1,0 +1,1119 @@
+{
+  "city": "Bistrița",
+  "generated_at": "2026-04-23T09:29:41.786Z",
+  "counts": {
+    "total": 74,
+    "schools": 47,
+    "churches": 27
+  },
+  "pois": [
+    {
+      "id": "node/265540151",
+      "osm_id": 265540151,
+      "osm_type": "node",
+      "name": "Școala Generală nr 5",
+      "category": "education",
+      "lat": 47.1227312,
+      "lon": 24.4826693,
+      "tags": {
+        "amenity": "school",
+        "name": "Școala Generală nr 5"
+      }
+    },
+    {
+      "id": "node/265899876",
+      "osm_id": 265899876,
+      "osm_type": "node",
+      "name": "Liceul Liviu Rebreanu",
+      "category": "education",
+      "lat": 47.1357344,
+      "lon": 24.495396,
+      "tags": {
+        "amenity": "college",
+        "name": "Liceul Liviu Rebreanu"
+      }
+    },
+    {
+      "id": "node/265966577",
+      "osm_id": 265966577,
+      "osm_type": "node",
+      "name": "Liceul Andrei Mureșanu",
+      "category": "education",
+      "lat": 47.1323075,
+      "lon": 24.4912841,
+      "tags": {
+        "amenity": "college",
+        "name": "Liceul Andrei Mureșanu"
+      }
+    },
+    {
+      "id": "node/265966598",
+      "osm_id": 265966598,
+      "osm_type": "node",
+      "name": "Liceul Sanitar",
+      "category": "education",
+      "lat": 47.1332947,
+      "lon": 24.4925584,
+      "tags": {
+        "amenity": "college",
+        "name": "Liceul Sanitar"
+      }
+    },
+    {
+      "id": "node/265966653",
+      "osm_id": 265966653,
+      "osm_type": "node",
+      "name": "Grup Școlar Grigore Moisil",
+      "category": "education",
+      "lat": 47.128795,
+      "lon": 24.480141,
+      "tags": {
+        "amenity": "college",
+        "name": "Grup Școlar Grigore Moisil"
+      }
+    },
+    {
+      "id": "node/324742979",
+      "osm_id": 324742979,
+      "osm_type": "node",
+      "name": "Școala Gimnazială Nr. 1 Bistrița",
+      "category": "education",
+      "lat": 47.1284529,
+      "lon": 24.4837443,
+      "tags": {
+        "amenity": "school",
+        "name": "Școala Gimnazială Nr. 1 Bistrița"
+      }
+    },
+    {
+      "id": "node/491212431",
+      "osm_id": 491212431,
+      "osm_type": "node",
+      "name": "Colegiul Național Liviu Rebreanu",
+      "category": "education",
+      "lat": 47.1347581,
+      "lon": 24.4952297,
+      "tags": {
+        "addr:city": "Bistrița",
+        "addr:housenumber": "8",
+        "addr:postcode": "420057",
+        "addr:street": "Bulevardul Republicii",
+        "amenity": "school",
+        "grades": "0-12",
+        "name": "Colegiul Național Liviu Rebreanu",
+        "website": "https://www.cnlr.ro"
+      }
+    },
+    {
+      "id": "node/1474247353",
+      "osm_id": 1474247353,
+      "osm_type": "node",
+      "name": "CSEI Nr. 1",
+      "category": "education",
+      "lat": 47.1263248,
+      "lon": 24.4926003,
+      "tags": {
+        "addr:housename": "CSEI Nr.1",
+        "addr:housenumber": "20 bis",
+        "addr:postcode": "420178",
+        "addr:street": "Strada Alba Iulia",
+        "amenity": "school",
+        "designation": "Centrul Scolar pentru Educatie Incluziva Nr. 1",
+        "int_name": "Scool Centre for Inclusive Education No.1",
+        "name": "CSEI Nr. 1"
+      }
+    },
+    {
+      "id": "node/1491441326",
+      "osm_id": 1491441326,
+      "osm_type": "node",
+      "name": "SMILE Kindergarten",
+      "category": "education",
+      "lat": 47.1290515,
+      "lon": 24.4917491,
+      "tags": {
+        "addr:housenumber": "8",
+        "addr:postcode": "420081",
+        "addr:street": "Strada Alexandru Odobescu",
+        "alt_name": "Grădinița Smile",
+        "amenity": "kindergarten",
+        "name": "SMILE Kindergarten",
+        "website": "www.gradinitasmile.ro"
+      }
+    },
+    {
+      "id": "node/1880771883",
+      "osm_id": 1880771883,
+      "osm_type": "node",
+      "name": "Universitatea Babeș-Bolyai Cluj-Napoca, Extensia Universitară Bistrița",
+      "category": "education",
+      "lat": 47.139408,
+      "lon": 24.4968935,
+      "tags": {
+        "addr:city": "Bistrița",
+        "addr:housenumber": "3-5",
+        "addr:postcode": "420117",
+        "addr:street": "Strada Andrei Mureșanu",
+        "amenity": "university",
+        "designation": "University",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "name": "Universitatea Babeș-Bolyai Cluj-Napoca, Extensia Universitară Bistrița",
+        "name:de": "Babeș-Bolyai-Universität, Außenstelle Bistritz",
+        "name:en": "Babeș-Bolyai University, Bistrița Academic Extension",
+        "name:hu": "Babeş–Bolyai Tudományegyetem, Gyergyószentmiklósi Kihelyezett Tagozat",
+        "old_name": "Apollo",
+        "operator": "Universitatea Babeș-Bolyai Cluj-Napoca",
+        "operator:type": "public",
+        "source": "own",
+        "website": "http://extensii.ubbcluj.ro/bistrita/index.html"
+      }
+    },
+    {
+      "id": "node/2003446466",
+      "osm_id": 2003446466,
+      "osm_type": "node",
+      "name": "Școala Gimnazială Nr. 4 Bistrița",
+      "category": "education",
+      "lat": 47.1434273,
+      "lon": 24.5002864,
+      "tags": {
+        "addr:city": "Bistrița",
+        "addr:housenumber": "3-5",
+        "addr:street": "Strada Florilor",
+        "amenity": "school",
+        "grades": "0-8",
+        "name": "Școala Gimnazială Nr. 4 Bistrița",
+        "website": "http://www.scgim4bistrita.ro"
+      }
+    },
+    {
+      "id": "node/2006723799",
+      "osm_id": 2006723799,
+      "osm_type": "node",
+      "name": "Liceul de Arte Plastice Corneliu Baba",
+      "category": "education",
+      "lat": 47.1298435,
+      "lon": 24.4907538,
+      "tags": {
+        "addr:city": "Bistrița",
+        "addr:housenumber": "3-5",
+        "addr:street": "Bulevardul Independenței",
+        "amenity": "college",
+        "name": "Liceul de Arte Plastice Corneliu Baba"
+      }
+    },
+    {
+      "id": "node/4190576562",
+      "osm_id": 4190576562,
+      "osm_type": "node",
+      "name": "Liceul de Muzica \"Tudor Jarda\"",
+      "category": "education",
+      "lat": 47.1290705,
+      "lon": 24.4923722,
+      "tags": {
+        "addr:housenumber": "4",
+        "addr:street": "strada Alexandru Odobescu",
+        "amenity": "college",
+        "name": "Liceul de Muzica \"Tudor Jarda\""
+      }
+    },
+    {
+      "id": "node/5048500032",
+      "osm_id": 5048500032,
+      "osm_type": "node",
+      "name": "Școala Gimnazială Avram Iancu",
+      "category": "education",
+      "lat": 47.1402909,
+      "lon": 24.5031735,
+      "tags": {
+        "addr:city": "Bistrița",
+        "addr:street": "Strada 1 Decembrie",
+        "amenity": "school",
+        "grades": "0-8",
+        "name": "Școala Gimnazială Avram Iancu"
+      }
+    },
+    {
+      "id": "node/5050315698",
+      "osm_id": 5050315698,
+      "osm_type": "node",
+      "name": "Liceul Andrei Mureșanu",
+      "category": "education",
+      "lat": 47.1322837,
+      "lon": 24.4912251,
+      "tags": {
+        "amenity": "school",
+        "name": "Liceul Andrei Mureșanu"
+      }
+    },
+    {
+      "id": "node/11022842372",
+      "osm_id": 11022842372,
+      "osm_type": "node",
+      "name": "Universitatea Tehnica",
+      "category": "education",
+      "lat": 47.1327679,
+      "lon": 24.497147,
+      "tags": {
+        "amenity": "university",
+        "name": "Universitatea Tehnica"
+      }
+    },
+    {
+      "id": "node/13099986561",
+      "osm_id": 13099986561,
+      "osm_type": "node",
+      "name": "Generala 1",
+      "category": "education",
+      "lat": 47.1318593,
+      "lon": 24.4948119,
+      "tags": {
+        "amenity": "college",
+        "name": "Generala 1",
+        "operator": "Rdy",
+        "operator:type": "public"
+      }
+    },
+    {
+      "id": "node/13159806797",
+      "osm_id": 13159806797,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.160648,
+      "lon": 24.5281003,
+      "tags": {
+        "addr:city": "Unirea",
+        "addr:postcode": "420005",
+        "addr:street": "Calea Moldovei",
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "way/344518220",
+      "osm_id": 344518220,
+      "osm_type": "way",
+      "name": "Colegiul tehnic INFOEL",
+      "category": "education",
+      "lat": 47.1433832,
+      "lon": 24.5101934,
+      "tags": {
+        "addr:city": "Bistrița",
+        "addr:housenumber": "20",
+        "addr:postcode": "420096",
+        "addr:street": "Calea Moldovei",
+        "building": "school",
+        "building:levels": "3",
+        "name": "Colegiul tehnic INFOEL"
+      }
+    },
+    {
+      "id": "way/344518221",
+      "osm_id": 344518221,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.1430886,
+      "lon": 24.5107872,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/344518222",
+      "osm_id": 344518222,
+      "osm_type": "way",
+      "name": "Liceul cu Program Sportiv",
+      "category": "education",
+      "lat": 47.1432566,
+      "lon": 24.5097357,
+      "tags": {
+        "addr:city": "Bistrița",
+        "addr:postcode": "420096",
+        "addr:street": "Calea Moldovei",
+        "building": "school",
+        "name": "Liceul cu Program Sportiv"
+      }
+    },
+    {
+      "id": "way/344518223",
+      "osm_id": 344518223,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.1428429,
+      "lon": 24.5091819,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/344518224",
+      "osm_id": 344518224,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.1427156,
+      "lon": 24.5098141,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/345048247",
+      "osm_id": 345048247,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.1366127,
+      "lon": 24.5062558,
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "way/345048248",
+      "osm_id": 345048248,
+      "osm_type": "way",
+      "name": "Școala Gimnazială Ștefan cel Mare",
+      "category": "education",
+      "lat": 47.1365939,
+      "lon": 24.5062934,
+      "tags": {
+        "addr:city": "Bistrița",
+        "addr:housenumber": "36A",
+        "addr:street": "Strada General Grigore Bălan",
+        "building": "school",
+        "building:levels": "3",
+        "name": "Școala Gimnazială Ștefan cel Mare",
+        "website": "http://www.scoala6bistrita.ro"
+      }
+    },
+    {
+      "id": "way/345048250",
+      "osm_id": 345048250,
+      "osm_type": "way",
+      "name": "Creșa nr. 3",
+      "category": "education",
+      "lat": 47.1370081,
+      "lon": 24.5065884,
+      "tags": {
+        "building": "kindergarten",
+        "name": "Creșa nr. 3"
+      }
+    },
+    {
+      "id": "way/348500318",
+      "osm_id": 348500318,
+      "osm_type": "way",
+      "name": "Liceul de Muzica \"Tudor Jarda\"",
+      "category": "education",
+      "lat": 47.1289156,
+      "lon": 24.4922481,
+      "tags": {
+        "addr:city": "Bistrița",
+        "addr:housenumber": "4",
+        "addr:postcode": "420043",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Alexandru Odobescu",
+        "building": "school",
+        "building:levels": "3",
+        "name": "Liceul de Muzica \"Tudor Jarda\""
+      }
+    },
+    {
+      "id": "way/517257196",
+      "osm_id": 517257196,
+      "osm_type": "way",
+      "name": "Grup Școlar I",
+      "category": "education",
+      "lat": 47.1284854,
+      "lon": 24.4804211,
+      "tags": {
+        "building": "school",
+        "name": "Grup Școlar I"
+      }
+    },
+    {
+      "id": "way/517257197",
+      "osm_id": 517257197,
+      "osm_type": "way",
+      "name": "Școala Generală nr 1",
+      "category": "education",
+      "lat": 47.1286862,
+      "lon": 24.4837218,
+      "tags": {
+        "building": "school",
+        "name": "Școala Generală nr 1"
+      }
+    },
+    {
+      "id": "way/517257212",
+      "osm_id": 517257212,
+      "osm_type": "way",
+      "name": "Școala Generală nr 4",
+      "category": "education",
+      "lat": 47.1284327,
+      "lon": 24.4833397,
+      "tags": {
+        "building": "school",
+        "name": "Școala Generală nr 4"
+      }
+    },
+    {
+      "id": "way/517257222",
+      "osm_id": 517257222,
+      "osm_type": "way",
+      "name": "Școala Generală nr 4",
+      "category": "education",
+      "lat": 47.1281132,
+      "lon": 24.4840259,
+      "tags": {
+        "building": "school",
+        "name": "Școala Generală nr 4"
+      }
+    },
+    {
+      "id": "way/517257236",
+      "osm_id": 517257236,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.1288469,
+      "lon": 24.4843297,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/517552932",
+      "osm_id": 517552932,
+      "osm_type": "way",
+      "name": "Colegiul Național Liviu Rebreanu",
+      "category": "education",
+      "lat": 47.1364271,
+      "lon": 24.4945576,
+      "tags": {
+        "building": "school",
+        "name": "Colegiul Național Liviu Rebreanu"
+      }
+    },
+    {
+      "id": "way/517552938",
+      "osm_id": 517552938,
+      "osm_type": "way",
+      "name": "Colegiul Național Liviu Rebreanu",
+      "category": "education",
+      "lat": 47.1347432,
+      "lon": 24.4940024,
+      "tags": {
+        "building": "school",
+        "name": "Colegiul Național Liviu Rebreanu"
+      }
+    },
+    {
+      "id": "way/517552939",
+      "osm_id": 517552939,
+      "osm_type": "way",
+      "name": "Colegiul Național Liviu Rebreanu",
+      "category": "education",
+      "lat": 47.1347957,
+      "lon": 24.4951216,
+      "tags": {
+        "building": "school",
+        "name": "Colegiul Național Liviu Rebreanu"
+      }
+    },
+    {
+      "id": "way/517552948",
+      "osm_id": 517552948,
+      "osm_type": "way",
+      "name": "Colegiul Național Liviu Rebreanu",
+      "category": "education",
+      "lat": 47.1355602,
+      "lon": 24.4925925,
+      "tags": {
+        "building": "school",
+        "name": "Colegiul Național Liviu Rebreanu"
+      }
+    },
+    {
+      "id": "way/517552956",
+      "osm_id": 517552956,
+      "osm_type": "way",
+      "name": "Colegiul Național Liviu Rebreanu",
+      "category": "education",
+      "lat": 47.1358184,
+      "lon": 24.4951691,
+      "tags": {
+        "building": "school",
+        "name": "Colegiul Național Liviu Rebreanu"
+      }
+    },
+    {
+      "id": "way/517562823",
+      "osm_id": 517562823,
+      "osm_type": "way",
+      "name": "Școala Generală nr 4",
+      "category": "education",
+      "lat": 47.1434805,
+      "lon": 24.5003993,
+      "tags": {
+        "building": "school",
+        "name": "Școala Generală nr 4"
+      }
+    },
+    {
+      "id": "way/517587706",
+      "osm_id": 517587706,
+      "osm_type": "way",
+      "name": "Școala Generală nr 5",
+      "category": "education",
+      "lat": 47.1223603,
+      "lon": 24.4825163,
+      "tags": {
+        "building": "school",
+        "name": "Școala Generală nr 5",
+        "source:imagery": "Bing"
+      }
+    },
+    {
+      "id": "way/518234874",
+      "osm_id": 518234874,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.1369781,
+      "lon": 24.5066021,
+      "tags": {
+        "amenity": "kindergarten"
+      }
+    },
+    {
+      "id": "way/829990616",
+      "osm_id": 829990616,
+      "osm_type": "way",
+      "name": "Palatul Copiilor",
+      "category": "education",
+      "lat": 47.1278353,
+      "lon": 24.4946093,
+      "tags": {
+        "addr:city": "Bistrița",
+        "addr:housenumber": "17",
+        "addr:street": "Strada Alexandru Odobescu",
+        "building": "school",
+        "name": "Palatul Copiilor"
+      }
+    },
+    {
+      "id": "way/838615511",
+      "osm_id": 838615511,
+      "osm_type": "way",
+      "name": "Universitatea Babeș-Bolyai Bistrița",
+      "category": "education",
+      "lat": 47.1397778,
+      "lon": 24.4968286,
+      "tags": {
+        "amenity": "university",
+        "name": "Universitatea Babeș-Bolyai Bistrița"
+      }
+    },
+    {
+      "id": "way/975801705",
+      "osm_id": 975801705,
+      "osm_type": "way",
+      "name": "Liceul de Arte Corneliu Baba",
+      "category": "education",
+      "lat": 47.1335373,
+      "lon": 24.4963401,
+      "tags": {
+        "addr:street": "Strada Dornei",
+        "building": "school",
+        "name": "Liceul de Arte Corneliu Baba"
+      }
+    },
+    {
+      "id": "way/975956677",
+      "osm_id": 975956677,
+      "osm_type": "way",
+      "name": "Liviu Rebreanu",
+      "category": "education",
+      "lat": 47.1351548,
+      "lon": 24.4933907,
+      "tags": {
+        "building": "school",
+        "name": "Liviu Rebreanu"
+      }
+    },
+    {
+      "id": "way/975956678",
+      "osm_id": 975956678,
+      "osm_type": "way",
+      "name": "Colegiul Național Liviu Rebreanu",
+      "category": "education",
+      "lat": 47.1363997,
+      "lon": 24.4940065,
+      "tags": {
+        "building": "school",
+        "name": "Colegiul Național Liviu Rebreanu"
+      }
+    },
+    {
+      "id": "way/1175144859",
+      "osm_id": 1175144859,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.1335524,
+      "lon": 24.4943439,
+      "tags": {
+        "building": "school"
+      }
+    },
+    {
+      "id": "way/1175144860",
+      "osm_id": 1175144860,
+      "osm_type": "way",
+      "name": "Fără nume",
+      "category": "education",
+      "lat": 47.1334506,
+      "lon": 24.4944978,
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "id": "node/265889507",
+      "osm_id": 265889507,
+      "osm_type": "node",
+      "name": "Biserica Sf Ioan Botezătorul",
+      "category": "place_of_worship",
+      "lat": 47.0728571,
+      "lon": 24.4352777,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Sf Ioan Botezătorul",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/703106028",
+      "osm_id": 703106028,
+      "osm_type": "node",
+      "name": "Biserica de lemn din Sărata",
+      "category": "place_of_worship",
+      "lat": 47.070964,
+      "lon": 24.4371149,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica de lemn din Sărata",
+        "name:en": "The Wooden Church of Sărata",
+        "religion": "christian",
+        "tourism": "attraction",
+        "wikidata": "Q18537922",
+        "wikipedia": "ro:Biserica de lemn din Sărata"
+      }
+    },
+    {
+      "id": "node/1880814811",
+      "osm_id": 1880814811,
+      "osm_type": "node",
+      "name": "Biserica Romano-Catolică „Sf. Treime”",
+      "category": "place_of_worship",
+      "lat": 47.1313565,
+      "lon": 24.4926522,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "catholic",
+        "name": "Biserica Romano-Catolică „Sf. Treime”",
+        "religion": "christian",
+        "url:miserend": "https://miserend.hu/templom/3412"
+      }
+    },
+    {
+      "id": "node/2003446415",
+      "osm_id": 2003446415,
+      "osm_type": "node",
+      "name": "Biserica Sfânta Treime Bistrița",
+      "category": "place_of_worship",
+      "lat": 47.13793,
+      "lon": 24.5109627,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Sfânta Treime Bistrița",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/5047890303",
+      "osm_id": 5047890303,
+      "osm_type": "node",
+      "name": "Biserica Subcetate",
+      "category": "place_of_worship",
+      "lat": 47.1497453,
+      "lon": 24.486727,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Subcetate",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/5054687341",
+      "osm_id": 5054687341,
+      "osm_type": "node",
+      "name": "Biserica Evanghelică-Luterană (azi Ortodoxă)",
+      "category": "place_of_worship",
+      "lat": 47.2039,
+      "lon": 24.5259132,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Evanghelică-Luterană (azi Ortodoxă)",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/5056966569",
+      "osm_id": 5056966569,
+      "osm_type": "node",
+      "name": "Biserica Ortodoxă Sigmir",
+      "category": "place_of_worship",
+      "lat": 47.1335552,
+      "lon": 24.4249011,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă Sigmir",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/5094702960",
+      "osm_id": 5094702960,
+      "osm_type": "node",
+      "name": "Catedrala Ortodoxă Bistrița",
+      "category": "place_of_worship",
+      "lat": 47.1293751,
+      "lon": 24.4929219,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Catedrala Ortodoxă Bistrița",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/5221663342",
+      "osm_id": 5221663342,
+      "osm_type": "node",
+      "name": "Biserica Reformata",
+      "category": "place_of_worship",
+      "lat": 47.0722836,
+      "lon": 24.435153,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "reformed",
+        "name": "Biserica Reformata",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "node/13159718329",
+      "osm_id": 13159718329,
+      "osm_type": "node",
+      "name": "Fără nume",
+      "category": "place_of_worship",
+      "lat": 47.1608138,
+      "lon": 24.527661,
+      "tags": {
+        "addr:city": "Unirea",
+        "addr:postcode": "420005",
+        "addr:street": "strada scolii",
+        "amenity": "place_of_worship",
+        "religion": "ortodox"
+      }
+    },
+    {
+      "id": "way/344407710",
+      "osm_id": 344407710,
+      "osm_type": "way",
+      "name": "Biserica Evanghelică",
+      "category": "place_of_worship",
+      "lat": 47.1323039,
+      "lon": 24.4960737,
+      "tags": {
+        "addr:city": "Bistrița",
+        "addr:street": "Piața Centrală",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "evangelical",
+        "name": "Biserica Evanghelică",
+        "religion": "christian",
+        "wikidata": "Q61086573"
+      }
+    },
+    {
+      "id": "way/344413314",
+      "osm_id": 344413314,
+      "osm_type": "way",
+      "name": "Biserica Sfântul Dumitru",
+      "category": "place_of_worship",
+      "lat": 47.1391377,
+      "lon": 24.5066485,
+      "tags": {
+        "addr:city": "Bistrița",
+        "addr:street": "Aleea Greuceanu",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Sfântul Dumitru",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/344445027",
+      "osm_id": 344445027,
+      "osm_type": "way",
+      "name": "Sinagoga și Galeria de Artă „Lina”",
+      "category": "place_of_worship",
+      "lat": 47.1351908,
+      "lon": 24.5034956,
+      "tags": {
+        "addr:city": "Bistrița",
+        "addr:housenumber": "10",
+        "addr:street": "Strada General Grigore Bălan",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "check_date": "2024-05-24",
+        "name": "Sinagoga și Galeria de Artă „Lina”",
+        "religion": "jewish"
+      }
+    },
+    {
+      "id": "way/345027295",
+      "osm_id": 345027295,
+      "osm_type": "way",
+      "name": "Biserica Intrarea în Biserică a Maicii Domnului",
+      "category": "place_of_worship",
+      "lat": 47.1354456,
+      "lon": 24.5003925,
+      "tags": {
+        "addr:city": "Bistrița",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "description": "oldest monument in town",
+        "name": "Biserica Intrarea în Biserică a Maicii Domnului",
+        "religion": "christian",
+        "start_date": "1268"
+      }
+    },
+    {
+      "id": "way/345027303",
+      "osm_id": 345027303,
+      "osm_type": "way",
+      "name": "Curtea Bisericii Ortodoxe",
+      "category": "place_of_worship",
+      "lat": 47.1352696,
+      "lon": 24.5004272,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "religious",
+        "name": "Curtea Bisericii Ortodoxe",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/348503145",
+      "osm_id": 348503145,
+      "osm_type": "way",
+      "name": "Biserica Reformată",
+      "category": "place_of_worship",
+      "lat": 47.1303841,
+      "lon": 24.4903849,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "reformed",
+        "name": "Biserica Reformată",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/348507221",
+      "osm_id": 348507221,
+      "osm_type": "way",
+      "name": "Biserica Greco-Catolică Buna Vestire",
+      "category": "place_of_worship",
+      "lat": 47.1320009,
+      "lon": 24.4875178,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "greek_catholic",
+        "name": "Biserica Greco-Catolică Buna Vestire",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/517240681",
+      "osm_id": 517240681,
+      "osm_type": "way",
+      "name": "Biserica",
+      "category": "place_of_worship",
+      "lat": 47.1497107,
+      "lon": 24.4867552,
+      "tags": {
+        "building": "church",
+        "name": "Biserica"
+      }
+    },
+    {
+      "id": "way/517257186",
+      "osm_id": 517257186,
+      "osm_type": "way",
+      "name": "Biserica Sfânta Ana",
+      "category": "place_of_worship",
+      "lat": 47.1274653,
+      "lon": 24.4848455,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica Sfânta Ana",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/517288175",
+      "osm_id": 517288175,
+      "osm_type": "way",
+      "name": "Biserica Sfântul Ioan",
+      "category": "place_of_worship",
+      "lat": 47.1246467,
+      "lon": 24.4842796,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica Sfântul Ioan",
+        "religion": "christian",
+        "source:imagery": "Bing"
+      }
+    },
+    {
+      "id": "way/517353975",
+      "osm_id": 517353975,
+      "osm_type": "way",
+      "name": "Biserica Ortodoxă Sfinții Apostoli Petru și Pavel",
+      "category": "place_of_worship",
+      "lat": 47.1390678,
+      "lon": 24.4975157,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Biserica Ortodoxă Sfinții Apostoli Petru și Pavel",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/518236181",
+      "osm_id": 518236181,
+      "osm_type": "way",
+      "name": "Cimitirul central",
+      "category": "place_of_worship",
+      "lat": 47.134568,
+      "lon": 24.5042353,
+      "tags": {
+        "denomination": "catholic",
+        "landuse": "cemetery",
+        "name": "Cimitirul central",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/523278765",
+      "osm_id": 523278765,
+      "osm_type": "way",
+      "name": "Catedrala",
+      "category": "place_of_worship",
+      "lat": 47.1294354,
+      "lon": 24.4929488,
+      "tags": {
+        "building": "church",
+        "designation": "Ortodox",
+        "name": "Catedrala"
+      }
+    },
+    {
+      "id": "way/812378371",
+      "osm_id": 812378371,
+      "osm_type": "way",
+      "name": "Cimitirul Catedralei",
+      "category": "place_of_worship",
+      "lat": 47.1296483,
+      "lon": 24.4933037,
+      "tags": {
+        "denomination": "orthodox",
+        "landuse": "cemetery",
+        "name": "Cimitirul Catedralei",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/975801713",
+      "osm_id": 975801713,
+      "osm_type": "way",
+      "name": "Biserica Penticostală EMANUEL Bistrița",
+      "category": "place_of_worship",
+      "lat": 47.1250644,
+      "lon": 24.4956523,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "pentecostal",
+        "name": "Biserica Penticostală EMANUEL Bistrița",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/975801715",
+      "osm_id": 975801715,
+      "osm_type": "way",
+      "name": "Biserica Sfântul Ilie",
+      "category": "place_of_worship",
+      "lat": 47.1243652,
+      "lon": 24.4945537,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Biserica Sfântul Ilie",
+        "religion": "christian"
+      }
+    },
+    {
+      "id": "way/975801716",
+      "osm_id": 975801716,
+      "osm_type": "way",
+      "name": "Biserica Greco-Catolică Sfinții Arhangheli Mihail și Gavril",
+      "category": "place_of_worship",
+      "lat": 47.1255637,
+      "lon": 24.4954252,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "greek_catholic",
+        "name": "Biserica Greco-Catolică Sfinții Arhangheli Mihail și Gavril",
+        "religion": "christian"
+      }
+    }
+  ]
+}
