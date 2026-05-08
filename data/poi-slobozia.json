@@ -1,836 +1,662 @@
-{
-  "city": "Slobozia",
-  "generated_at": "2026-04-23T10:17:55.286Z",
-  "counts": {
-    "total": 53,
-    "schools": 33,
-    "churches": 20
+[
+  {
+    "id": "node-6119872235",
+    "name": "Medicină de familie",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 44.5644028,
+    "lng": 27.3634894,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
   },
-  "pois": [
-    {
-      "id": "node/8568524022",
-      "osm_id": 8568524022,
-      "osm_type": "node",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 43.8589924,
-      "lon": 25.9088558,
-      "tags": {
-        "addr:street": "Str. Morii",
-        "amenity": "school"
-      }
-    },
-    {
-      "id": "way/243809864",
-      "osm_id": 243809864,
-      "osm_type": "way",
-      "name": "Grădinița cu Program Prelungit „Junior“",
-      "category": "education",
-      "lat": 44.5637215,
-      "lon": 27.3565677,
-      "tags": {
-        "addr:city": "Slobozia",
-        "addr:housenumber": "8",
-        "addr:postcode": "920022",
-        "addr:street": "Strada Alexandru Odobescu",
-        "amenity": "kindergarten",
-        "building": "yes",
-        "name": "Grădinița cu Program Prelungit „Junior“",
-        "phone": "+0040 243 231 044"
-      }
-    },
-    {
-      "id": "way/243809880",
-      "osm_id": 243809880,
-      "osm_type": "way",
-      "name": "Școala nr.7",
-      "category": "education",
-      "lat": 44.5633262,
-      "lon": 27.3539844,
-      "tags": {
-        "amenity": "school",
-        "building": "yes",
-        "name": "Școala nr.7"
-      }
-    },
-    {
-      "id": "way/253294186",
-      "osm_id": 253294186,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 44.5677006,
-      "lon": 27.3655937,
-      "tags": {
-        "amenity": "school",
-        "building": "yes"
-      }
-    },
-    {
-      "id": "way/253335554",
-      "osm_id": 253335554,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 44.5635758,
-      "lon": 27.359114,
-      "tags": {
-        "amenity": "school",
-        "building": "yes"
-      }
-    },
-    {
-      "id": "way/253934987",
-      "osm_id": 253934987,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 44.5684464,
-      "lon": 27.3663527,
-      "tags": {
-        "amenity": "school",
-        "building": "yes"
-      }
-    },
-    {
-      "id": "way/254117486",
-      "osm_id": 254117486,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 44.563891,
-      "lon": 27.3780966,
-      "tags": {
-        "building": "kindergarten"
-      }
-    },
-    {
-      "id": "way/254124197",
-      "osm_id": 254124197,
-      "osm_type": "way",
-      "name": "Centrul de Educație Non-formală Slobozia",
-      "category": "education",
-      "lat": 44.5608785,
-      "lon": 27.3580061,
-      "tags": {
-        "amenity": "kindergarten",
-        "building": "yes",
-        "name": "Centrul de Educație Non-formală Slobozia",
-        "operator": "Direcția Educație, Cultură și Tineret Slobozia",
-        "operator:type": "government"
-      }
-    },
-    {
-      "id": "way/254126819",
-      "osm_id": 254126819,
-      "osm_type": "way",
-      "name": "Grădinița nr.1 Pinochio",
-      "category": "education",
-      "lat": 44.569179,
-      "lon": 27.3595813,
-      "tags": {
-        "amenity": "kindergarten",
-        "building": "no",
-        "name": "Grădinița nr.1 Pinochio"
-      }
-    },
-    {
-      "id": "way/254151060",
-      "osm_id": 254151060,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 44.5649598,
-      "lon": 27.3645874,
-      "tags": {
-        "amenity": "kindergarten",
-        "building": "yes"
-      }
-    },
-    {
-      "id": "way/254207761",
-      "osm_id": 254207761,
-      "osm_type": "way",
-      "name": "Colegiul Național \"Mihai Viteazul\"",
-      "category": "education",
-      "lat": 44.5639358,
-      "lon": 27.3541002,
-      "tags": {
-        "amenity": "college",
-        "name": "Colegiul Național \"Mihai Viteazul\""
-      }
-    },
-    {
-      "id": "way/254207762",
-      "osm_id": 254207762,
-      "osm_type": "way",
-      "name": "Liceul Pedagogic \"M. Basarab\"",
-      "category": "education",
-      "lat": 44.5629945,
-      "lon": 27.3540748,
-      "tags": {
-        "amenity": "college",
-        "name": "Liceul Pedagogic \"M. Basarab\""
-      }
-    },
-    {
-      "id": "way/254210903",
-      "osm_id": 254210903,
-      "osm_type": "way",
-      "name": "Liceul Tehnologic \"A.I.Cuza\" Slobozia",
-      "category": "education",
-      "lat": 44.570068,
-      "lon": 27.3596444,
-      "tags": {
-        "amenity": "college",
-        "email": "gs_cuza_slobozia@yahoo.com",
-        "name": "Liceul Tehnologic \"A.I.Cuza\" Slobozia",
-        "phone": "+40 243 232 823",
-        "website": "https://cuzail.ro/"
-      }
-    },
-    {
-      "id": "way/254217295",
-      "osm_id": 254217295,
-      "osm_type": "way",
-      "name": "Școala nr.3",
-      "category": "education",
-      "lat": 44.5651429,
-      "lon": 27.3552508,
-      "tags": {
-        "amenity": "school",
-        "name": "Școala nr.3"
-      }
-    },
-    {
-      "id": "way/254218079",
-      "osm_id": 254218079,
-      "osm_type": "way",
-      "name": "Școala nr.6",
-      "category": "education",
-      "lat": 44.5587272,
-      "lon": 27.3560179,
-      "tags": {
-        "amenity": "school",
-        "name": "Școala nr.6"
-      }
-    },
-    {
-      "id": "way/254233035",
-      "osm_id": 254233035,
-      "osm_type": "way",
-      "name": "Grup Școlar \"M.Eminescu\"",
-      "category": "education",
-      "lat": 44.569021,
-      "lon": 27.3619487,
-      "tags": {
-        "amenity": "college",
-        "name": "Grup Școlar \"M.Eminescu\""
-      }
-    },
-    {
-      "id": "way/254233036",
-      "osm_id": 254233036,
-      "osm_type": "way",
-      "name": "Școala nr.4",
-      "category": "education",
-      "lat": 44.5677856,
-      "lon": 27.3654278,
-      "tags": {
-        "amenity": "school",
-        "name": "Școala nr.4"
-      }
-    },
-    {
-      "id": "way/254233038",
-      "osm_id": 254233038,
-      "osm_type": "way",
-      "name": "Școala nr.13",
-      "category": "education",
-      "lat": 44.5681793,
-      "lon": 27.3665148,
-      "tags": {
-        "amenity": "school",
-        "name": "Școala nr.13"
-      }
-    },
-    {
-      "id": "way/254236975",
-      "osm_id": 254236975,
-      "osm_type": "way",
-      "name": "Universitatea Bioterra",
-      "category": "education",
-      "lat": 44.5672076,
-      "lon": 27.3847789,
-      "tags": {
-        "amenity": "university",
-        "name": "Universitatea Bioterra"
-      }
-    },
-    {
-      "id": "way/254240347",
-      "osm_id": 254240347,
-      "osm_type": "way",
-      "name": "Școala Gimnazială „Sfântul Andrei” Slobozia",
-      "category": "education",
-      "lat": 44.5627564,
-      "lon": 27.3659811,
-      "tags": {
-        "addr:city": "Slobozia",
-        "addr:housenumber": "35",
-        "addr:postcode": "920055",
-        "addr:street": "Bulevardul Matei Basarab",
-        "amenity": "school",
-        "ele": "2",
-        "email": "sc_nr2_slobozia@yahoo.com",
-        "fax": "+40243233903",
-        "name": "Școala Gimnazială „Sfântul Andrei” Slobozia",
-        "religion": "christian",
-        "website": "https://www.scoalagimnazialasfandreislobozia.ro",
-        "wheelchair": "limited"
-      }
-    },
-    {
-      "id": "way/254250111",
-      "osm_id": 254250111,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 44.5637429,
-      "lon": 27.3566335,
-      "tags": {
-        "amenity": "kindergarten"
-      }
-    },
-    {
-      "id": "way/254259807",
-      "osm_id": 254259807,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 44.5691105,
-      "lon": 27.3593507,
-      "tags": {
-        "amenity": "kindergarten",
-        "building": "yes"
-      }
-    },
-    {
-      "id": "way/254259809",
-      "osm_id": 254259809,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 44.5692003,
-      "lon": 27.3597148,
-      "tags": {
-        "amenity": "kindergarten",
-        "building": "yes"
-      }
-    },
-    {
-      "id": "way/254263884",
-      "osm_id": 254263884,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 44.5638374,
-      "lon": 27.3780735,
-      "tags": {
-        "amenity": "kindergarten"
-      }
-    },
-    {
-      "id": "way/254263887",
-      "osm_id": 254263887,
-      "osm_type": "way",
-      "name": "Liceul de Artă „Ionel Perlea” Slobozia",
-      "category": "education",
-      "lat": 44.5641372,
-      "lon": 27.3765345,
-      "tags": {
-        "addr:city": "Slobozia",
-        "addr:housenumber": "3",
-        "addr:postcode": "920093",
-        "addr:street": "Strada Mihai Eminescu",
-        "amenity": "college",
-        "name": "Liceul de Artă „Ionel Perlea” Slobozia"
-      }
-    },
-    {
-      "id": "way/254265993",
-      "osm_id": 254265993,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 44.5650287,
-      "lon": 27.3644568,
-      "tags": {
-        "amenity": "kindergarten"
-      }
-    },
-    {
-      "id": "way/254266380",
-      "osm_id": 254266380,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 44.560896,
-      "lon": 27.3581899,
-      "tags": {
-        "amenity": "kindergarten",
-        "building": "no"
-      }
-    },
-    {
-      "id": "way/255230790",
-      "osm_id": 255230790,
-      "osm_type": "way",
-      "name": "Asistența Socială",
-      "category": "education",
-      "lat": 44.5596339,
-      "lon": 27.3579541,
-      "tags": {
-        "amenity": "kindergarten",
-        "barrier": "fence",
-        "name": "Asistența Socială"
-      }
-    },
-    {
-      "id": "way/255691071",
-      "osm_id": 255691071,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 44.5584895,
-      "lon": 27.3595741,
-      "tags": {
-        "amenity": "kindergarten",
-        "barrier": "fence",
-        "education": "kindergarten"
-      }
-    },
-    {
-      "id": "way/256545388",
-      "osm_id": 256545388,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 44.5635311,
-      "lon": 27.3591632,
-      "tags": {
-        "amenity": "school",
-        "building": "no"
-      }
-    },
-    {
-      "id": "way/807742516",
-      "osm_id": 807742516,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 46.509641,
-      "lon": 29.7377056,
-      "tags": {
-        "amenity": "school",
-        "building": "yes"
-      }
-    },
-    {
-      "id": "way/1383333994",
-      "osm_id": 1383333994,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 44.5209499,
-      "lon": 25.2404887,
-      "tags": {
-        "amenity": "school"
-      }
-    },
-    {
-      "id": "relation/10829291",
-      "osm_id": 10829291,
-      "osm_type": "relation",
-      "name": "Liceul Teoretic „Alexandru cel Bun”",
-      "category": "education",
-      "lat": 46.5094634,
-      "lon": 29.7374631,
-      "tags": {
-        "amenity": "school",
-        "language:ro": "main",
-        "name": "Liceul Teoretic „Alexandru cel Bun”",
-        "name:en": "Theoretical Lyceum \"Alexandru cel Bun\"",
-        "name:ru": "Теоретический лицей «Александру чел бун»",
-        "name:uk": "Теоретичний ліцей «Олександру чол бун»",
-        "type": "multipolygon"
-      }
-    },
-    {
-      "id": "node/5128369321",
-      "osm_id": 5128369321,
-      "osm_type": "node",
-      "name": "Mănăstirea \" Sf. Ioan Rusu\"",
-      "category": "place_of_worship",
-      "lat": 43.8724774,
-      "lon": 25.9007025,
-      "tags": {
-        "addr:street": "Drumul Mănăstirii",
-        "amenity": "place_of_worship",
-        "name": "Mănăstirea \" Sf. Ioan Rusu\""
-      }
-    },
-    {
-      "id": "node/13351034733",
-      "osm_id": 13351034733,
-      "osm_type": "node",
-      "name": "Fără nume",
-      "category": "place_of_worship",
-      "lat": 44.5695237,
-      "lon": 27.3768836,
-      "tags": {
-        "amenity": "place_of_worship",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/243814100",
-      "osm_id": 243814100,
-      "osm_type": "way",
-      "name": "Catedrala Episcopală Ortodoxă a Sloboziei și Călărașilor",
-      "category": "place_of_worship",
-      "lat": 44.5573304,
-      "lon": 27.3599661,
-      "tags": {
-        "addr:city": "Slobozia",
-        "amenity": "place_of_worship",
-        "building": "church",
-        "denomination": "romanian_orthodox",
-        "designation": "Catedrala Episcopală - Sloboziei si Călărașilor",
-        "is_in:city": "Slobozia",
-        "is_in:country": "România",
-        "is_in:county": "Ialomița",
-        "name": "Catedrala Episcopală Ortodoxă a Sloboziei și Călărașilor",
-        "religion": "christian",
-        "wikidata": "Q130309079",
-        "wikipedia": "ro:Catedrala episcopală Înălțarea Domnului din Slobozia"
-      }
-    },
-    {
-      "id": "way/253267876",
-      "osm_id": 253267876,
-      "osm_type": "way",
-      "name": "Cimitirul Eroilor",
-      "category": "place_of_worship",
-      "lat": 44.5655774,
-      "lon": 27.358418,
-      "tags": {
-        "denomination": "orthodox",
-        "heritage": "2",
-        "heritage:operator": "lmi",
-        "landuse": "cemetery",
-        "name": "Cimitirul Eroilor",
-        "ref:RO:lmi": "IL-IV-s-B-14173",
-        "religion": "christian",
-        "start_date": "1932",
-        "wikidata": "Q42965595"
-      }
-    },
-    {
-      "id": "way/254240347",
-      "osm_id": 254240347,
-      "osm_type": "way",
-      "name": "Școala Gimnazială „Sfântul Andrei” Slobozia",
-      "category": "place_of_worship",
-      "lat": 44.5627564,
-      "lon": 27.3659811,
-      "tags": {
-        "addr:city": "Slobozia",
-        "addr:housenumber": "35",
-        "addr:postcode": "920055",
-        "addr:street": "Bulevardul Matei Basarab",
-        "amenity": "school",
-        "ele": "2",
-        "email": "sc_nr2_slobozia@yahoo.com",
-        "fax": "+40243233903",
-        "name": "Școala Gimnazială „Sfântul Andrei” Slobozia",
-        "religion": "christian",
-        "website": "https://www.scoalagimnazialasfandreislobozia.ro",
-        "wheelchair": "limited"
-      }
-    },
-    {
-      "id": "way/288781964",
-      "osm_id": 288781964,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "place_of_worship",
-      "lat": 44.5604019,
-      "lon": 27.3618096,
-      "tags": {
-        "amenity": "place_of_worship",
-        "building": "yes"
-      }
-    },
-    {
-      "id": "way/290492824",
-      "osm_id": 290492824,
-      "osm_type": "way",
-      "name": "Cimitir",
-      "category": "place_of_worship",
-      "lat": 44.5219101,
-      "lon": 25.2263148,
-      "tags": {
-        "denomination": "greek_orthodox",
-        "landuse": "cemetery",
-        "name": "Cimitir",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/302870923",
-      "osm_id": 302870923,
-      "osm_type": "way",
-      "name": "Cimitir",
-      "category": "place_of_worship",
-      "lat": 43.8600973,
-      "lon": 25.9100886,
-      "tags": {
-        "denomination": "greek_orthodox",
-        "landuse": "cemetery",
-        "name": "Cimitir",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/336404126",
-      "osm_id": 336404126,
-      "osm_type": "way",
-      "name": "Biserica de lemn „Sfântul Nicolae”",
-      "category": "place_of_worship",
-      "lat": 44.5620749,
-      "lon": 27.3522748,
-      "tags": {
-        "addr:city": "Slobozia",
-        "amenity": "place_of_worship",
-        "building": "yes",
-        "building:material": "wood",
-        "denomination": "romanian_orthodox",
-        "heritage": "2",
-        "heritage:operator": "lmi",
-        "is_in:city": "Slobozia",
-        "is_in:country": "România",
-        "is_in:county": "Ilfov",
-        "name": "Biserica de lemn „Sfântul Nicolae”",
-        "ref:RO:lmi": "IL-II-m-A-14075",
-        "ref:RO:ran": "RAN: 92667.03",
-        "religion": "christian",
-        "start_date": "1748",
-        "wikidata": "Q18549643",
-        "wikipedia": "ro:Biserica de lemn din Poiana, Ialomița"
-      }
-    },
-    {
-      "id": "way/357477360",
-      "osm_id": 357477360,
-      "osm_type": "way",
-      "name": "Cimitirul Municipal Slobozia",
-      "category": "place_of_worship",
-      "lat": 44.5592694,
-      "lon": 27.3832125,
-      "tags": {
-        "denomination": "romanian_orthodox",
-        "landuse": "cemetery",
-        "name": "Cimitirul Municipal Slobozia",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/1081246859",
-      "osm_id": 1081246859,
-      "osm_type": "way",
-      "name": "Biserica Ortodoxă „Sfântul Mare Mucenic Gheorghe”",
-      "category": "place_of_worship",
-      "lat": 44.5600053,
-      "lon": 27.3682441,
-      "tags": {
-        "addr:city": "Slobozia",
-        "amenity": "place_of_worship",
-        "building": "yes",
-        "denomination": "romanian_orthodox",
-        "name": "Biserica Ortodoxă „Sfântul Mare Mucenic Gheorghe”",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/1163748664",
-      "osm_id": 1163748664,
-      "osm_type": "way",
-      "name": "Biserica „Adormirea Maicii Domnului\"",
-      "category": "place_of_worship",
-      "lat": 44.5623552,
-      "lon": 27.3829198,
-      "tags": {
-        "addr:city": "Slobozia",
-        "addr:housenumber": "22",
-        "addr:street": "Strada General Magheru",
-        "amenity": "place_of_worship",
-        "building": "yes",
-        "denomination": "romanian_orthodox",
-        "name": "Biserica „Adormirea Maicii Domnului\"",
-        "religion": "christian",
-        "start_date": "1864"
-      }
-    },
-    {
-      "id": "way/1163748666",
-      "osm_id": 1163748666,
-      "osm_type": "way",
-      "name": "Biserica „Sfinții Voievozi”",
-      "category": "place_of_worship",
-      "lat": 44.5618035,
-      "lon": 27.3766381,
-      "tags": {
-        "addr:city": "Slobozia",
-        "addr:street": "Strada Mânăstirii",
-        "amenity": "place_of_worship",
-        "building": "yes",
-        "denomination": "romanian_orthodox",
-        "heritage": "2",
-        "heritage:operator": "lmi",
-        "name": "Biserica „Sfinții Voievozi”",
-        "ref:RO:lmi": "IL-II-m-A-14074.01",
-        "religion": "christian",
-        "start_date": "1848",
-        "wikidata": "Q42962610"
-      }
-    },
-    {
-      "id": "way/1163748667",
-      "osm_id": 1163748667,
-      "osm_type": "way",
-      "name": "Mănăstirea „Sfinții Voievozi Mihail și Gavril\"",
-      "category": "place_of_worship",
-      "lat": 44.5617357,
-      "lon": 27.3766069,
-      "tags": {
-        "addr:city": "Slobozia",
-        "addr:street": "Strada Mânăstirii",
-        "amenity": "monastery",
-        "denomination": "romanian_orthodox",
-        "heritage": "2",
-        "heritage:operator": "lmi",
-        "landuse": "religious",
-        "name": "Mănăstirea „Sfinții Voievozi Mihail și Gavril\"",
-        "ref:RO:lmi": "IL-II-a-A-14074",
-        "religion": "christian",
-        "tourism": "attraction",
-        "wikidata": "Q12736281",
-        "wikipedia": "ro:Mănăstirea Sfinții Voievozi din Slobozia"
-      }
-    },
-    {
-      "id": "way/1163748668",
-      "osm_id": 1163748668,
-      "osm_type": "way",
-      "name": "Biserica „Sfântul Matei\"",
-      "category": "place_of_worship",
-      "lat": 44.565737,
-      "lon": 27.3577583,
-      "tags": {
-        "amenity": "place_of_worship",
-        "building": "yes",
-        "denomination": "romanian_orthodox",
-        "name": "Biserica „Sfântul Matei\"",
-        "religion": "christian",
-        "start_date": "1933"
-      }
-    },
-    {
-      "id": "way/1167357573",
-      "osm_id": 1167357573,
-      "osm_type": "way",
-      "name": "Biserica „Sfântul Nicolae\"",
-      "category": "place_of_worship",
-      "lat": 44.6019802,
-      "lon": 27.3873392,
-      "tags": {
-        "amenity": "place_of_worship",
-        "building": "yes",
-        "denomination": "romanian_orthodox",
-        "name": "Biserica „Sfântul Nicolae\"",
-        "religion": "christian",
-        "start_date": "1898"
-      }
-    },
-    {
-      "id": "way/1167357577",
-      "osm_id": 1167357577,
-      "osm_type": "way",
-      "name": "Biserica „Nașterea Maicii Domnului\"",
-      "category": "place_of_worship",
-      "lat": 44.5656378,
-      "lon": 27.3669548,
-      "tags": {
-        "addr:city": "Slobozia",
-        "amenity": "place_of_worship",
-        "building": "yes",
-        "denomination": "romanian_orthodox",
-        "name": "Biserica „Nașterea Maicii Domnului\"",
-        "religion": "christian",
-        "start_date": "2007"
-      }
-    },
-    {
-      "id": "way/1331369217",
-      "osm_id": 1331369217,
-      "osm_type": "way",
-      "name": "Biserica \"Sf. Dumitru\"",
-      "category": "place_of_worship",
-      "lat": 44.5702827,
-      "lon": 27.3639737,
-      "tags": {
-        "addr:city": "Slobozia",
-        "addr:street": "Șoseaua Nordului",
-        "amenity": "place_of_worship",
-        "building": "yes",
-        "denomination": "orthodox",
-        "name": "Biserica \"Sf. Dumitru\"",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/1383333990",
-      "osm_id": 1383333990,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "place_of_worship",
-      "lat": 44.5205496,
-      "lon": 25.2370528,
-      "tags": {
-        "amenity": "place_of_worship",
-        "building": "yes",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "relation/10823571",
-      "osm_id": 10823571,
-      "osm_type": "relation",
-      "name": "Cimitir",
-      "category": "place_of_worship",
-      "lat": 46.5131576,
-      "lon": 29.7379928,
-      "tags": {
-        "denomination": "orthodox",
-        "landuse": "cemetery",
-        "name": "Cimitir",
-        "name:en": "Cemetery",
-        "name:ru": "Кладбище",
-        "name:uk": "Кладовище",
-        "religion": "christian",
-        "type": "multipolygon"
-      }
-    }
-  ]
-}
+  {
+    "id": "node-6922985120",
+    "name": "C.M.I. Dr. Stanescu Frusina",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 44.5653,
+    "lng": 27.3601494,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-8628417694",
+    "name": "Superbet",
+    "type": "superbet",
+    "subcategory": "betting",
+    "lat": 44.5617166,
+    "lng": 27.3656264,
+    "osmType": "node",
+    "brand": "Superbet",
+    "operator": "Superbet Betting & Gaming SA"
+  },
+  {
+    "id": "node-8628417728",
+    "name": "Superbet",
+    "type": "superbet",
+    "subcategory": "betting",
+    "lat": 44.564381,
+    "lng": 27.352669,
+    "osmType": "node",
+    "brand": "Superbet",
+    "operator": "Superbet Betting & Gaming SA"
+  },
+  {
+    "id": "node-8628417729",
+    "name": "Superbet",
+    "type": "superbet",
+    "subcategory": "betting",
+    "lat": 44.564094,
+    "lng": 27.3653501,
+    "osmType": "node",
+    "brand": "Superbet",
+    "operator": "Superbet Betting & Gaming SA"
+  },
+  {
+    "id": "node-8628417864",
+    "name": "Superbet",
+    "type": "superbet",
+    "subcategory": "betting",
+    "lat": 44.56117,
+    "lng": 27.355206,
+    "osmType": "node",
+    "brand": "Superbet",
+    "operator": "Superbet Betting & Gaming SA"
+  },
+  {
+    "id": "node-8628417908",
+    "name": "Superbet",
+    "type": "superbet",
+    "subcategory": "betting",
+    "lat": 44.565627,
+    "lng": 27.381669,
+    "osmType": "node",
+    "brand": "Superbet",
+    "operator": "Superbet Betting & Gaming SA"
+  },
+  {
+    "id": "node-9047355727",
+    "name": "Superbet",
+    "type": "superbet",
+    "subcategory": "betting",
+    "lat": 44.5617413,
+    "lng": 27.36785,
+    "osmType": "node",
+    "brand": "Superbet",
+    "operator": "Superbet Betting & Gaming SA"
+  },
+  {
+    "id": "node-9424549164",
+    "name": "Superbet",
+    "type": "superbet",
+    "subcategory": "betting",
+    "lat": 44.5629282,
+    "lng": 27.3661843,
+    "osmType": "node",
+    "brand": "Superbet",
+    "operator": "Superbet Betting & Gaming SA"
+  },
+  {
+    "id": "node-12920869054",
+    "name": "S.C. Almarom 2001 S.R.L.",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 44.5594718,
+    "lng": 27.365433,
+    "osmType": "node",
+    "brand": null,
+    "operator": "Serviciu privat de ambulanță"
+  },
+  {
+    "id": "node-13351034733",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.5695237,
+    "lng": 27.3768836,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-13660723080",
+    "name": "Fără nume",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 44.5369753,
+    "lng": 27.3484222,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-243809864",
+    "name": "Grădinița cu Program Prelungit „Junior“",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 44.5637215,
+    "lng": 27.3565677,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-243809880",
+    "name": "Școala nr.7",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.5633262,
+    "lng": 27.3539844,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-243814100",
+    "name": "Catedrala Episcopală Ortodoxă a Sloboziei și Călărașilor",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.5573304,
+    "lng": 27.3599661,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-253294186",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.5677006,
+    "lng": 27.3655937,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-253335554",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.5635758,
+    "lng": 27.359114,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-253934987",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.5684464,
+    "lng": 27.3663527,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-254124197",
+    "name": "Centrul de Educație Non-formală Slobozia",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 44.5608785,
+    "lng": 27.3580061,
+    "osmType": "way",
+    "brand": null,
+    "operator": "Direcția Educație, Cultură și Tineret Slobozia"
+  },
+  {
+    "id": "way-254126819",
+    "name": "Grădinița nr.1 Pinochio",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 44.569179,
+    "lng": 27.3595813,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-254151060",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 44.5649598,
+    "lng": 27.3645874,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-254207761",
+    "name": "Colegiul Național \"Mihai Viteazul\"",
+    "type": "school",
+    "subcategory": "college",
+    "lat": 44.5639358,
+    "lng": 27.3541002,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-254207762",
+    "name": "Liceul Pedagogic \"M. Basarab\"",
+    "type": "school",
+    "subcategory": "college",
+    "lat": 44.5629945,
+    "lng": 27.3540748,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-254210903",
+    "name": "Liceul Tehnologic \"A.I.Cuza\" Slobozia",
+    "type": "school",
+    "subcategory": "college",
+    "lat": 44.570068,
+    "lng": 27.3596444,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-254217295",
+    "name": "Școala nr.3",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.5651429,
+    "lng": 27.3552508,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-254218079",
+    "name": "Școala nr.6",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.5587399,
+    "lng": 27.3560113,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-254233035",
+    "name": "Grup Școlar \"M.Eminescu\"",
+    "type": "school",
+    "subcategory": "college",
+    "lat": 44.569021,
+    "lng": 27.3619487,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-254233036",
+    "name": "Școala nr.4",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.5677856,
+    "lng": 27.3654278,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-254233038",
+    "name": "Școala nr.13",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.5681793,
+    "lng": 27.3665148,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-254236975",
+    "name": "Universitatea Bioterra",
+    "type": "school",
+    "subcategory": "university",
+    "lat": 44.5672076,
+    "lng": 27.3847789,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-254240347",
+    "name": "Școala Gimnazială „Sfântul Andrei” Slobozia",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.5627564,
+    "lng": 27.3659811,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-254250111",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 44.5637429,
+    "lng": 27.3566335,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-254252818",
+    "name": "Spitalul Județean Ialomița",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 44.5675294,
+    "lng": 27.3610861,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-254259807",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 44.5691105,
+    "lng": 27.3593507,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-254259809",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 44.5692003,
+    "lng": 27.3597148,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-254263884",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 44.5638374,
+    "lng": 27.3780735,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-254263887",
+    "name": "Liceul de Artă „Ionel Perlea” Slobozia",
+    "type": "school",
+    "subcategory": "college",
+    "lat": 44.5641372,
+    "lng": 27.3765345,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-254265993",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 44.5650287,
+    "lng": 27.3644568,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-254266380",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 44.560896,
+    "lng": 27.3581899,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-255230790",
+    "name": "Asistența Socială",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 44.5596339,
+    "lng": 27.3579541,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-255688502",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "childcare",
+    "lat": 44.5584853,
+    "lng": 27.3595721,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-255691071",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 44.5584895,
+    "lng": 27.3595741,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-256545388",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.5635311,
+    "lng": 27.3591632,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-288781964",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "place_of_worship",
+    "lat": 44.5604019,
+    "lng": 27.3618096,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-322213795",
+    "name": "BioMed",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 44.5620152,
+    "lng": 27.353655,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-336404126",
+    "name": "Biserica de lemn „Sfântul Nicolae”",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.5620749,
+    "lng": 27.3522748,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-645439572",
+    "name": "Biserica „Schimbarea la Față”",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.6143941,
+    "lng": 27.3348402,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-1081246858",
+    "name": "Grădinița Voinicelul (anexă Pepinieră)",
+    "type": "school",
+    "subcategory": "childcare",
+    "lat": 44.558155,
+    "lng": 27.3651809,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-1081246859",
+    "name": "Biserica Ortodoxă „Sfântul Mare Mucenic Gheorghe”",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.5600053,
+    "lng": 27.3682441,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-1163648640",
+    "name": "Biserica „Sfântul Nicolae\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.6216259,
+    "lng": 27.3144697,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-1163748664",
+    "name": "Biserica „Adormirea Maicii Domnului\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.5623552,
+    "lng": 27.3829198,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-1163748666",
+    "name": "Biserica „Sfinții Voievozi”",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.5618035,
+    "lng": 27.3766381,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-1163748668",
+    "name": "Biserica „Sfântul Matei\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.565737,
+    "lng": 27.3577583,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-1164154143",
+    "name": "Biserica „Sfântul Nicolae\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.5360024,
+    "lng": 27.3434771,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-1164154146",
+    "name": "Biserica „Sfinții Arhangheli Mihail și Gavriil\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.5305308,
+    "lng": 27.3115292,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-1164246529",
+    "name": "Biserica „Sfântul Nicolae”",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.5593423,
+    "lng": 27.4320003,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-1167357573",
+    "name": "Biserica „Sfântul Nicolae\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.6019802,
+    "lng": 27.3873392,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-1167357577",
+    "name": "Biserica „Nașterea Maicii Domnului\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.5656378,
+    "lng": 27.3669548,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-1331369217",
+    "name": "Biserica \"Sf. Dumitru\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.5702827,
+    "lng": 27.3639737,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-1489615923",
+    "name": "Școala Gimnazială \"George Vâlsan\"",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.62257,
+    "lng": 27.314506,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  }
+]

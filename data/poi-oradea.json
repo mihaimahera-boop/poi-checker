@@ -6,16 +6,9 @@
     "subcategory": "christian",
     "lat": 47.0595695,
     "lng": 22.0026115,
-    "osmType": "node"
-  },
-  {
-    "id": "node-505689231",
-    "name": "Biserica Greco-Catolică",
-    "type": "church",
-    "subcategory": "christian",
-    "lat": 46.9967468,
-    "lng": 21.9967072,
-    "osmType": "node"
+    "osmType": "node",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "node-506504802",
@@ -24,7 +17,9 @@
     "subcategory": "christian",
     "lat": 47.0600859,
     "lng": 21.9315468,
-    "osmType": "node"
+    "osmType": "node",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "node-516102303",
@@ -33,7 +28,9 @@
     "subcategory": "school",
     "lat": 47.050467,
     "lng": 21.9199967,
-    "osmType": "node"
+    "osmType": "node",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "node-703825870",
@@ -42,7 +39,9 @@
     "subcategory": "university",
     "lat": 47.0570222,
     "lng": 21.922709,
-    "osmType": "node"
+    "osmType": "node",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "node-703829100",
@@ -51,7 +50,9 @@
     "subcategory": "christian",
     "lat": 47.0577192,
     "lng": 21.9323101,
-    "osmType": "node"
+    "osmType": "node",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "node-1316063317",
@@ -60,79 +61,9 @@
     "subcategory": "christian",
     "lat": 47.1033301,
     "lng": 21.8876023,
-    "osmType": "node"
-  },
-  {
-    "id": "node-1492545118",
-    "name": "Betesda",
-    "type": "church",
-    "subcategory": "christian",
-    "lat": 46.9866367,
-    "lng": 21.9819711,
-    "osmType": "node"
-  },
-  {
-    "id": "node-1492545124",
-    "name": "Bethesda",
-    "type": "church",
-    "subcategory": "christian",
-    "lat": 46.9876769,
-    "lng": 21.9850575,
-    "osmType": "node"
-  },
-  {
-    "id": "node-1493556655",
-    "name": "Biserica ortodoxă română Băile Felix",
-    "type": "church",
-    "subcategory": "christian",
-    "lat": 46.9903641,
-    "lng": 21.9778587,
-    "osmType": "node"
-  },
-  {
-    "id": "node-1493556657",
-    "name": "Pogorârea Sfântului Spirit",
-    "type": "church",
-    "subcategory": "christian",
-    "lat": 46.9903652,
-    "lng": 21.979303,
-    "osmType": "node"
-  },
-  {
-    "id": "node-1493556658",
-    "name": "Policlinica Băile Felix",
-    "type": "medical",
-    "subcategory": "clinic",
-    "lat": 46.9901319,
-    "lng": 21.9776925,
-    "osmType": "node"
-  },
-  {
-    "id": "node-1493556722",
-    "name": "Biserica Ortodoxă (fostă catolică)",
-    "type": "church",
-    "subcategory": "christian",
-    "lat": 46.9918649,
-    "lng": 21.9788136,
-    "osmType": "node"
-  },
-  {
-    "id": "node-1734265241",
-    "name": "Biserica Sf Arhangheli",
-    "type": "church",
-    "subcategory": "christian",
-    "lat": 46.9944491,
-    "lng": 21.9965478,
-    "osmType": "node"
-  },
-  {
-    "id": "node-1734273081",
-    "name": "Centrul de Recuperare",
-    "type": "medical",
-    "subcategory": "doctors",
-    "lat": 46.9962315,
-    "lng": 22.0005,
-    "osmType": "node"
+    "osmType": "node",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "node-1737744565",
@@ -141,34 +72,9 @@
     "subcategory": "christian",
     "lat": 47.1033231,
     "lng": 21.8832676,
-    "osmType": "node"
-  },
-  {
-    "id": "node-1997615084",
-    "name": "Fără nume",
-    "type": "church",
-    "subcategory": "christian",
-    "lat": 47.1438575,
-    "lng": 21.9986736,
-    "osmType": "node"
-  },
-  {
-    "id": "node-1997705392",
-    "name": "Biserica Romano-Catolică",
-    "type": "church",
-    "subcategory": "christian",
-    "lat": 47.1570693,
-    "lng": 22.0326299,
-    "osmType": "node"
-  },
-  {
-    "id": "node-1997705425",
-    "name": "Fără nume",
-    "type": "church",
-    "subcategory": "christian",
-    "lat": 47.1564163,
-    "lng": 22.0712803,
-    "osmType": "node"
+    "osmType": "node",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "node-1999225317",
@@ -177,7 +83,9 @@
     "subcategory": "christian",
     "lat": 47.1145298,
     "lng": 21.9571351,
-    "osmType": "node"
+    "osmType": "node",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "node-2000492192",
@@ -186,7 +94,9 @@
     "subcategory": "christian",
     "lat": 47.0854481,
     "lng": 21.9276267,
-    "osmType": "node"
+    "osmType": "node",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "node-2000492353",
@@ -195,7 +105,9 @@
     "subcategory": "christian",
     "lat": 47.086175,
     "lng": 21.9250032,
-    "osmType": "node"
+    "osmType": "node",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "node-2001715472",
@@ -204,7 +116,9 @@
     "subcategory": "christian",
     "lat": 47.1034188,
     "lng": 21.9003973,
-    "osmType": "node"
+    "osmType": "node",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "node-2005216124",
@@ -213,34 +127,9 @@
     "subcategory": "christian",
     "lat": 47.090572,
     "lng": 21.9790099,
-    "osmType": "node"
-  },
-  {
-    "id": "node-2005299631",
-    "name": "Fără nume",
-    "type": "church",
-    "subcategory": "christian",
-    "lat": 47.0851597,
-    "lng": 22.0677078,
-    "osmType": "node"
-  },
-  {
-    "id": "node-2007100834",
-    "name": "Biserica",
-    "type": "church",
-    "subcategory": "christian",
-    "lat": 47.167631,
-    "lng": 21.836267,
-    "osmType": "node"
-  },
-  {
-    "id": "node-2007101618",
-    "name": "Biserica",
-    "type": "church",
-    "subcategory": "christian",
-    "lat": 47.169393,
-    "lng": 21.8390285,
-    "osmType": "node"
+    "osmType": "node",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "node-2011414125",
@@ -249,7 +138,9 @@
     "subcategory": "christian",
     "lat": 47.0744392,
     "lng": 21.9128272,
-    "osmType": "node"
+    "osmType": "node",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "node-2011414374",
@@ -258,7 +149,9 @@
     "subcategory": "christian",
     "lat": 47.0728056,
     "lng": 21.9221787,
-    "osmType": "node"
+    "osmType": "node",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "node-2015477558",
@@ -267,34 +160,9 @@
     "subcategory": "christian",
     "lat": 47.0530011,
     "lng": 21.9006057,
-    "osmType": "node"
-  },
-  {
-    "id": "node-2017968950",
-    "name": "Biserica Ortodoxă Sânmartin",
-    "type": "church",
-    "subcategory": "christian",
-    "lat": 47.0057296,
-    "lng": 21.9754934,
-    "osmType": "node"
-  },
-  {
-    "id": "node-2019494901",
-    "name": "Biserica Sf Arhangheli",
-    "type": "church",
-    "subcategory": "christian",
-    "lat": 46.9987389,
-    "lng": 21.9525349,
-    "osmType": "node"
-  },
-  {
-    "id": "node-2019571779",
-    "name": "Biserica Romano-Catolică",
-    "type": "church",
-    "subcategory": "christian",
-    "lat": 47.0040701,
-    "lng": 21.9770455,
-    "osmType": "node"
+    "osmType": "node",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "node-2019583040",
@@ -303,61 +171,9 @@
     "subcategory": "christian",
     "lat": 47.0127714,
     "lng": 22.0204921,
-    "osmType": "node"
-  },
-  {
-    "id": "node-2022013725",
-    "name": "Biserica Ortodoxă Înâlțarea Domnului",
-    "type": "church",
-    "subcategory": "christian",
-    "lat": 47.0766714,
-    "lng": 21.7778979,
-    "osmType": "node"
-  },
-  {
-    "id": "node-2022077131",
-    "name": "Fără nume",
-    "type": "church",
-    "subcategory": "christian",
-    "lat": 47.0097784,
-    "lng": 21.8059916,
-    "osmType": "node"
-  },
-  {
-    "id": "node-2023674009",
-    "name": "Biserica Ortodoxa \"Adormirea Maicii Domnului\"",
-    "type": "church",
-    "subcategory": "christian",
-    "lat": 46.9938164,
-    "lng": 21.8814573,
-    "osmType": "node"
-  },
-  {
-    "id": "node-2023674182",
-    "name": "Fără nume",
-    "type": "church",
-    "subcategory": "christian",
-    "lat": 46.9998351,
-    "lng": 21.8834077,
-    "osmType": "node"
-  },
-  {
-    "id": "node-2025281786",
-    "name": "Fără nume",
-    "type": "church",
-    "subcategory": "christian",
-    "lat": 46.9700844,
-    "lng": 22.0228074,
-    "osmType": "node"
-  },
-  {
-    "id": "node-2026937795",
-    "name": "Biserica Alparea",
-    "type": "church",
-    "subcategory": "christian",
-    "lat": 47.030307,
-    "lng": 22.0470917,
-    "osmType": "node"
+    "osmType": "node",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "node-2026937841",
@@ -366,7 +182,9 @@
     "subcategory": "christian",
     "lat": 47.0449927,
     "lng": 22.0303014,
-    "osmType": "node"
+    "osmType": "node",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "node-2026937985",
@@ -375,7 +193,9 @@
     "subcategory": "christian",
     "lat": 47.0451609,
     "lng": 22.0298883,
-    "osmType": "node"
+    "osmType": "node",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "node-2026937996",
@@ -384,34 +204,9 @@
     "subcategory": "christian",
     "lat": 47.0441933,
     "lng": 22.0285743,
-    "osmType": "node"
-  },
-  {
-    "id": "node-2026962663",
-    "name": "Fără nume",
-    "type": "church",
-    "subcategory": "christian",
-    "lat": 47.056667,
-    "lng": 22.0447209,
-    "osmType": "node"
-  },
-  {
-    "id": "node-2027781333",
-    "name": "Fără nume",
-    "type": "church",
-    "subcategory": "christian",
-    "lat": 46.995848,
-    "lng": 22.0773212,
-    "osmType": "node"
-  },
-  {
-    "id": "node-2032185675",
-    "name": "Fără nume",
-    "type": "church",
-    "subcategory": "christian",
-    "lat": 46.9499362,
-    "lng": 22.0520902,
-    "osmType": "node"
+    "osmType": "node",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "node-2034618952",
@@ -420,7 +215,9 @@
     "subcategory": "kindergarten",
     "lat": 47.0759866,
     "lng": 21.9105832,
-    "osmType": "node"
+    "osmType": "node",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "node-2034618953",
@@ -429,124 +226,9 @@
     "subcategory": "school",
     "lat": 47.0759939,
     "lng": 21.9119511,
-    "osmType": "node"
-  },
-  {
-    "id": "node-2117812836",
-    "name": "Fără nume",
-    "type": "church",
-    "subcategory": "christian",
-    "lat": 46.9078358,
-    "lng": 22.0789812,
-    "osmType": "node"
-  },
-  {
-    "id": "node-2118210727",
-    "name": "Fără nume",
-    "type": "church",
-    "subcategory": "christian",
-    "lat": 46.9092788,
-    "lng": 22.0663481,
-    "osmType": "node"
-  },
-  {
-    "id": "node-2118244841",
-    "name": "Fără nume",
-    "type": "church",
-    "subcategory": "christian",
-    "lat": 46.904302,
-    "lng": 22.0673518,
-    "osmType": "node"
-  },
-  {
-    "id": "node-2148853720",
-    "name": "Biserica Romano-Catolică",
-    "type": "church",
-    "subcategory": "christian",
-    "lat": 46.9054345,
-    "lng": 21.7877768,
-    "osmType": "node"
-  },
-  {
-    "id": "node-2148853773",
-    "name": "Fără nume",
-    "type": "church",
-    "subcategory": "christian",
-    "lat": 46.9019399,
-    "lng": 21.7906254,
-    "osmType": "node"
-  },
-  {
-    "id": "node-2156359102",
-    "name": "Fără nume",
-    "type": "church",
-    "subcategory": "christian",
-    "lat": 46.9260957,
-    "lng": 21.7803122,
-    "osmType": "node"
-  },
-  {
-    "id": "node-2177652122",
-    "name": "Fără nume",
-    "type": "church",
-    "subcategory": "christian",
-    "lat": 46.9479756,
-    "lng": 21.8673975,
-    "osmType": "node"
-  },
-  {
-    "id": "node-2177652124",
-    "name": "Fără nume",
-    "type": "church",
-    "subcategory": "christian",
-    "lat": 46.9466865,
-    "lng": 21.8695974,
-    "osmType": "node"
-  },
-  {
-    "id": "node-2178793944",
-    "name": "Biserica",
-    "type": "church",
-    "subcategory": "christian",
-    "lat": 46.9153742,
-    "lng": 22.0143754,
-    "osmType": "node"
-  },
-  {
-    "id": "node-2374550835",
-    "name": "Reformed Church",
-    "type": "church",
-    "subcategory": "christian",
-    "lat": 47.1528738,
-    "lng": 21.9211071,
-    "osmType": "node"
-  },
-  {
-    "id": "node-2374555901",
-    "name": "Catholic Church",
-    "type": "church",
-    "subcategory": "christian",
-    "lat": 47.1528045,
-    "lng": 21.920214,
-    "osmType": "node"
-  },
-  {
-    "id": "node-2374559749",
-    "name": "Orthodox Church",
-    "type": "church",
-    "subcategory": "christian",
-    "lat": 47.1518614,
-    "lng": 21.9191491,
-    "osmType": "node"
-  },
-  {
-    "id": "node-2374561937",
-    "name": "Fără nume",
-    "type": "medical",
-    "subcategory": "hospital",
-    "lat": 47.152146,
-    "lng": 21.9198089,
-    "osmType": "node"
+    "osmType": "node",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "node-3501759561",
@@ -555,7 +237,9 @@
     "subcategory": "christian",
     "lat": 47.0723182,
     "lng": 21.9330475,
-    "osmType": "node"
+    "osmType": "node",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "node-4347914531",
@@ -564,16 +248,9 @@
     "subcategory": "christian",
     "lat": 47.0693104,
     "lng": 21.8526957,
-    "osmType": "node"
-  },
-  {
-    "id": "node-4360452290",
-    "name": "Biserica Crestina Maghiara Biharia",
-    "type": "church",
-    "subcategory": "christian",
-    "lat": 47.1516769,
-    "lng": 21.9220737,
-    "osmType": "node"
+    "osmType": "node",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "node-4540081520",
@@ -582,7 +259,9 @@
     "subcategory": "kindergarten",
     "lat": 47.076659,
     "lng": 21.9188031,
-    "osmType": "node"
+    "osmType": "node",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "node-4564154290",
@@ -591,16 +270,9 @@
     "subcategory": "doctors",
     "lat": 47.0333909,
     "lng": 21.9459427,
-    "osmType": "node"
-  },
-  {
-    "id": "node-4932619946",
-    "name": "Biserica Sf Treime",
-    "type": "church",
-    "subcategory": "christian",
-    "lat": 46.9332719,
-    "lng": 22.048397,
-    "osmType": "node"
+    "osmType": "node",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "node-4938688434",
@@ -609,7 +281,9 @@
     "subcategory": "school",
     "lat": 47.0577828,
     "lng": 21.9223764,
-    "osmType": "node"
+    "osmType": "node",
+    "brand": null,
+    "operator": "Partiumi Keresztény Egyetem"
   },
   {
     "id": "node-5052961321",
@@ -618,25 +292,9 @@
     "subcategory": "school",
     "lat": 47.0622358,
     "lng": 21.9313387,
-    "osmType": "node"
-  },
-  {
-    "id": "node-5461989139",
-    "name": "Școala Generală Eugen Jianu",
-    "type": "school",
-    "subcategory": "school",
-    "lat": 47.0735038,
-    "lng": 21.7803751,
-    "osmType": "node"
-  },
-  {
-    "id": "node-5637238423",
-    "name": "Fără nume",
-    "type": "school",
-    "subcategory": "school",
-    "lat": 47.1553327,
-    "lng": 21.9210748,
-    "osmType": "node"
+    "osmType": "node",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "node-7981182385",
@@ -645,7 +303,9 @@
     "subcategory": "christian",
     "lat": 47.0433001,
     "lng": 21.9195374,
-    "osmType": "node"
+    "osmType": "node",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "node-7981215885",
@@ -654,7 +314,9 @@
     "subcategory": "place_of_worship",
     "lat": 47.0473425,
     "lng": 21.9233733,
-    "osmType": "node"
+    "osmType": "node",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "node-8516264332",
@@ -663,43 +325,163 @@
     "subcategory": "christian",
     "lat": 47.0602358,
     "lng": 21.9378721,
-    "osmType": "node"
+    "osmType": "node",
+    "brand": null,
+    "operator": null
   },
   {
-    "id": "node-8547094038",
-    "name": "Fără nume",
-    "type": "church",
-    "subcategory": "christian",
-    "lat": 46.9334207,
-    "lng": 22.0532262,
-    "osmType": "node"
+    "id": "node-8628401578",
+    "name": "Superbet",
+    "type": "superbet",
+    "subcategory": "betting",
+    "lat": 47.0747144,
+    "lng": 21.9016823,
+    "osmType": "node",
+    "brand": null,
+    "operator": "Superbet Betting & Gaming SA"
   },
   {
-    "id": "node-9900436067",
-    "name": "scoala",
-    "type": "school",
-    "subcategory": "school",
-    "lat": 46.928281,
-    "lng": 21.7856985,
-    "osmType": "node"
+    "id": "node-8628417614",
+    "name": "Superbet",
+    "type": "superbet",
+    "subcategory": "betting",
+    "lat": 47.06984,
+    "lng": 21.934639,
+    "osmType": "node",
+    "brand": null,
+    "operator": "Superbet Betting & Gaming SA"
   },
   {
-    "id": "node-9900436073",
-    "name": "gradinita",
-    "type": "school",
-    "subcategory": "kindergarten",
-    "lat": 46.928189,
-    "lng": 21.7833511,
-    "osmType": "node"
+    "id": "node-8628417822",
+    "name": "Superbet",
+    "type": "superbet",
+    "subcategory": "betting",
+    "lat": 47.032969,
+    "lng": 21.949385,
+    "osmType": "node",
+    "brand": "Superbet",
+    "operator": "Superbet Betting & Gaming SA"
   },
   {
-    "id": "node-9900436567",
-    "name": "scoala",
-    "type": "school",
-    "subcategory": "school",
-    "lat": 46.9019591,
-    "lng": 21.7864067,
-    "osmType": "node"
+    "id": "node-8628417855",
+    "name": "Superbet",
+    "type": "superbet",
+    "subcategory": "betting",
+    "lat": 47.0568901,
+    "lng": 21.917738,
+    "osmType": "node",
+    "brand": "Superbet",
+    "operator": "Superbet Betting & Gaming SA"
+  },
+  {
+    "id": "node-8628417880",
+    "name": "Superbet",
+    "type": "superbet",
+    "subcategory": "betting",
+    "lat": 47.056565,
+    "lng": 21.867943,
+    "osmType": "node",
+    "brand": null,
+    "operator": "Superbet Betting & Gaming SA"
+  },
+  {
+    "id": "node-8628417971",
+    "name": "Superbet",
+    "type": "superbet",
+    "subcategory": "betting",
+    "lat": 47.0367563,
+    "lng": 21.9435396,
+    "osmType": "node",
+    "brand": "Superbet",
+    "operator": "Superbet Betting & Gaming SA"
+  },
+  {
+    "id": "node-8628418039",
+    "name": "Superbet",
+    "type": "superbet",
+    "subcategory": "betting",
+    "lat": 47.072739,
+    "lng": 21.9172324,
+    "osmType": "node",
+    "brand": "Superbet",
+    "operator": "Superbet Betting & Gaming SA"
+  },
+  {
+    "id": "node-8628418056",
+    "name": "Superbet",
+    "type": "superbet",
+    "subcategory": "betting",
+    "lat": 47.0648547,
+    "lng": 21.9103673,
+    "osmType": "node",
+    "brand": "Superbet",
+    "operator": "Superbet Betting & Gaming SA"
+  },
+  {
+    "id": "node-8628418091",
+    "name": "Superbet",
+    "type": "superbet",
+    "subcategory": "betting",
+    "lat": 47.0484618,
+    "lng": 21.940282,
+    "osmType": "node",
+    "brand": "Superbet",
+    "operator": "Superbet Betting & Gaming SA"
+  },
+  {
+    "id": "node-8628418156",
+    "name": "Superbet",
+    "type": "superbet",
+    "subcategory": "betting",
+    "lat": 47.053425,
+    "lng": 21.92825,
+    "osmType": "node",
+    "brand": "Superbet",
+    "operator": "Superbet Betting & Gaming SA"
+  },
+  {
+    "id": "node-8628418204",
+    "name": "Superbet",
+    "type": "superbet",
+    "subcategory": "betting",
+    "lat": 47.0501042,
+    "lng": 21.9054,
+    "osmType": "node",
+    "brand": "Superbet",
+    "operator": "Superbet Betting & Gaming SA"
+  },
+  {
+    "id": "node-8628418358",
+    "name": "Superbet",
+    "type": "superbet",
+    "subcategory": "betting",
+    "lat": 47.0794928,
+    "lng": 21.9188833,
+    "osmType": "node",
+    "brand": null,
+    "operator": "Superbet Betting & Gaming SA"
+  },
+  {
+    "id": "node-8628418393",
+    "name": "Superbet",
+    "type": "superbet",
+    "subcategory": "betting",
+    "lat": 47.0323893,
+    "lng": 21.9495249,
+    "osmType": "node",
+    "brand": "Superbet",
+    "operator": "Superbet Betting & Gaming SA"
+  },
+  {
+    "id": "node-8628418400",
+    "name": "Superbet",
+    "type": "superbet",
+    "subcategory": "betting",
+    "lat": 47.069022,
+    "lng": 21.9240627,
+    "osmType": "node",
+    "brand": null,
+    "operator": "Superbet Betting & Gaming SA"
   },
   {
     "id": "node-9943134195",
@@ -708,7 +490,9 @@
     "subcategory": "clinic",
     "lat": 47.0563209,
     "lng": 21.9404042,
-    "osmType": "node"
+    "osmType": "node",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "node-9943173919",
@@ -717,7 +501,9 @@
     "subcategory": "doctors",
     "lat": 47.0583577,
     "lng": 21.9403182,
-    "osmType": "node"
+    "osmType": "node",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "node-9943204798",
@@ -726,7 +512,9 @@
     "subcategory": "doctors",
     "lat": 47.0570079,
     "lng": 21.9334962,
-    "osmType": "node"
+    "osmType": "node",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "node-9945497409",
@@ -735,7 +523,9 @@
     "subcategory": "doctors",
     "lat": 47.0547876,
     "lng": 21.9362826,
-    "osmType": "node"
+    "osmType": "node",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "node-10167110667",
@@ -744,7 +534,9 @@
     "subcategory": "christian",
     "lat": 47.0552584,
     "lng": 21.9244512,
-    "osmType": "node"
+    "osmType": "node",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "node-11254642058",
@@ -753,7 +545,9 @@
     "subcategory": "clinic",
     "lat": 47.0598868,
     "lng": 21.9385546,
-    "osmType": "node"
+    "osmType": "node",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "node-11510831327",
@@ -762,7 +556,9 @@
     "subcategory": "christian",
     "lat": 47.1172854,
     "lng": 21.9942575,
-    "osmType": "node"
+    "osmType": "node",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "node-11527411483",
@@ -771,16 +567,9 @@
     "subcategory": "clinic",
     "lat": 47.0502079,
     "lng": 21.9377932,
-    "osmType": "node"
-  },
-  {
-    "id": "node-11556195174",
-    "name": "Spitalul de Recuperare",
-    "type": "medical",
-    "subcategory": "hospital",
-    "lat": 46.9903961,
-    "lng": 21.9831887,
-    "osmType": "node"
+    "osmType": "node",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "node-11843037982",
@@ -789,7 +578,9 @@
     "subcategory": "doctors",
     "lat": 47.0399526,
     "lng": 21.927591,
-    "osmType": "node"
+    "osmType": "node",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "node-13476045110",
@@ -798,43 +589,9 @@
     "subcategory": "christian",
     "lat": 47.0458976,
     "lng": 21.93947,
-    "osmType": "node"
-  },
-  {
-    "id": "node-13524278209",
-    "name": "Școala Gimnazială ,, D. R. Popescu\" Nojorid",
-    "type": "school",
-    "subcategory": "school",
-    "lat": 46.9940859,
-    "lng": 21.8825031,
-    "osmType": "node"
-  },
-  {
-    "id": "node-13524278219",
-    "name": "Biserica Baptista \"Emanuel\" Oradea",
-    "type": "church",
-    "subcategory": "christian",
-    "lat": 46.9992151,
-    "lng": 21.8829707,
-    "osmType": "node"
-  },
-  {
-    "id": "node-13584860758",
-    "name": "Vitalogy",
-    "type": "medical",
-    "subcategory": "pharmacy",
-    "lat": 47.0047326,
-    "lng": 21.9756878,
-    "osmType": "node"
-  },
-  {
-    "id": "node-13584860765",
-    "name": "Farmacie",
-    "type": "medical",
-    "subcategory": "pharmacy",
-    "lat": 47.0046012,
-    "lng": 21.975503,
-    "osmType": "node"
+    "osmType": "node",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "node-13595604601",
@@ -843,7 +600,9 @@
     "subcategory": "doctors",
     "lat": 47.0598944,
     "lng": 21.9407255,
-    "osmType": "node"
+    "osmType": "node",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "node-13798934207",
@@ -852,7 +611,9 @@
     "subcategory": "clinic",
     "lat": 47.06187,
     "lng": 21.9191906,
-    "osmType": "node"
+    "osmType": "node",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-41293449",
@@ -861,7 +622,9 @@
     "subcategory": "school",
     "lat": 47.0657397,
     "lng": 21.9057217,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-41293455",
@@ -870,7 +633,9 @@
     "subcategory": "school",
     "lat": 47.0672006,
     "lng": 21.9018921,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-41309511",
@@ -879,7 +644,9 @@
     "subcategory": "school",
     "lat": 47.0492894,
     "lng": 21.9331958,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-41416611",
@@ -888,7 +655,9 @@
     "subcategory": "college",
     "lat": 47.0605659,
     "lng": 21.930562,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-190653989",
@@ -897,7 +666,9 @@
     "subcategory": "christian",
     "lat": 47.0516034,
     "lng": 21.9433941,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-199191245",
@@ -906,7 +677,9 @@
     "subcategory": "hospital",
     "lat": 47.0749167,
     "lng": 21.917108,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-199193080",
@@ -915,7 +688,9 @@
     "subcategory": "kindergarten",
     "lat": 47.0721563,
     "lng": 21.9151561,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-199194115",
@@ -924,61 +699,9 @@
     "subcategory": "hospital",
     "lat": 47.0638051,
     "lng": 21.9450195,
-    "osmType": "way"
-  },
-  {
-    "id": "way-207629627",
-    "name": "Școală",
-    "type": "school",
-    "subcategory": "school",
-    "lat": 46.9197291,
-    "lng": 22.0202159,
-    "osmType": "way"
-  },
-  {
-    "id": "way-243194085",
-    "name": "Fără nume",
-    "type": "church",
-    "subcategory": "christian",
-    "lat": 46.9651872,
-    "lng": 21.9753174,
-    "osmType": "way"
-  },
-  {
-    "id": "way-243196013",
-    "name": "Fără nume",
-    "type": "church",
-    "subcategory": "christian",
-    "lat": 46.9625205,
-    "lng": 21.834629,
-    "osmType": "way"
-  },
-  {
-    "id": "way-243199125",
-    "name": "Biserica",
-    "type": "church",
-    "subcategory": "christian",
-    "lat": 46.9689084,
-    "lng": 21.925892,
-    "osmType": "way"
-  },
-  {
-    "id": "way-243199126",
-    "name": "Fără nume",
-    "type": "church",
-    "subcategory": "christian",
-    "lat": 46.9653421,
-    "lng": 21.8389615,
-    "osmType": "way"
-  },
-  {
-    "id": "way-243201239",
-    "name": "Biserica Ortodoxă Chișirid",
-    "type": "church",
-    "subcategory": "christian",
-    "lat": 46.9692246,
-    "lng": 21.8904091,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-261607829",
@@ -987,7 +710,9 @@
     "subcategory": "christian",
     "lat": 47.0669165,
     "lng": 21.9251692,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-262027659",
@@ -996,7 +721,9 @@
     "subcategory": "school",
     "lat": 47.0501773,
     "lng": 21.9472812,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-262767448",
@@ -1005,7 +732,9 @@
     "subcategory": "school",
     "lat": 47.0671287,
     "lng": 21.9061645,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-262768555",
@@ -1014,7 +743,9 @@
     "subcategory": "christian",
     "lat": 47.0661082,
     "lng": 21.9095492,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-262788659",
@@ -1023,7 +754,9 @@
     "subcategory": "school",
     "lat": 47.0565524,
     "lng": 21.9159579,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-262832955",
@@ -1032,7 +765,9 @@
     "subcategory": "christian",
     "lat": 47.0690105,
     "lng": 21.9318817,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-264909502",
@@ -1041,7 +776,9 @@
     "subcategory": "school",
     "lat": 47.0672303,
     "lng": 21.906822,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-264910458",
@@ -1050,7 +787,9 @@
     "subcategory": "childcare",
     "lat": 47.0654244,
     "lng": 21.9094525,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-264917565",
@@ -1059,7 +798,9 @@
     "subcategory": "christian",
     "lat": 47.0555433,
     "lng": 21.9287875,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-272752548",
@@ -1068,7 +809,9 @@
     "subcategory": "kindergarten",
     "lat": 47.0576408,
     "lng": 21.9166981,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-286239555",
@@ -1077,7 +820,9 @@
     "subcategory": "christian",
     "lat": 47.049639,
     "lng": 21.9505968,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-286239556",
@@ -1086,7 +831,9 @@
     "subcategory": "christian",
     "lat": 47.0484868,
     "lng": 21.9526908,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-286239557",
@@ -1095,7 +842,9 @@
     "subcategory": "jewish",
     "lat": 47.0522346,
     "lng": 21.9325418,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-286245385",
@@ -1104,7 +853,9 @@
     "subcategory": "christian",
     "lat": 47.0541255,
     "lng": 21.9275188,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-286245387",
@@ -1113,7 +864,9 @@
     "subcategory": "christian",
     "lat": 47.0565841,
     "lng": 21.9234937,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-286245390",
@@ -1122,7 +875,9 @@
     "subcategory": "christian",
     "lat": 47.052216,
     "lng": 21.939582,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-286245391",
@@ -1131,7 +886,9 @@
     "subcategory": "christian",
     "lat": 47.0608918,
     "lng": 21.9371937,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-291005315",
@@ -1140,7 +897,9 @@
     "subcategory": "christian",
     "lat": 47.0711015,
     "lng": 21.9271676,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-312206820",
@@ -1149,34 +908,9 @@
     "subcategory": "christian",
     "lat": 47.0565822,
     "lng": 21.939481,
-    "osmType": "way"
-  },
-  {
-    "id": "way-379458205",
-    "name": "Fără nume",
-    "type": "church",
-    "subcategory": "christian",
-    "lat": 47.1428128,
-    "lng": 21.9986108,
-    "osmType": "way"
-  },
-  {
-    "id": "way-379469505",
-    "name": "Biserica Sfânta Fecioară Maria",
-    "type": "church",
-    "subcategory": "christian",
-    "lat": 47.0719325,
-    "lng": 21.7786252,
-    "osmType": "way"
-  },
-  {
-    "id": "way-380143514",
-    "name": "Biserica Sfântul Ioan Nepomuk",
-    "type": "church",
-    "subcategory": "christian",
-    "lat": 47.0446585,
-    "lng": 22.0346751,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-380143518",
@@ -1185,7 +919,9 @@
     "subcategory": "christian",
     "lat": 47.1177553,
     "lng": 21.9963757,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-385361492",
@@ -1194,7 +930,9 @@
     "subcategory": "christian",
     "lat": 47.0607546,
     "lng": 22.0050091,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-420844002",
@@ -1203,7 +941,9 @@
     "subcategory": "christian",
     "lat": 47.0690495,
     "lng": 21.9188684,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-420902626",
@@ -1212,7 +952,9 @@
     "subcategory": "clinic",
     "lat": 47.0654083,
     "lng": 21.9541795,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-421060544",
@@ -1221,7 +963,9 @@
     "subcategory": "hospital",
     "lat": 47.0640899,
     "lng": 21.9539593,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-421282171",
@@ -1230,7 +974,9 @@
     "subcategory": "christian",
     "lat": 47.0289784,
     "lng": 21.9533021,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-421285030",
@@ -1239,7 +985,9 @@
     "subcategory": "christian",
     "lat": 47.0296479,
     "lng": 21.9471099,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-421286567",
@@ -1248,7 +996,9 @@
     "subcategory": "university",
     "lat": 47.0270143,
     "lng": 21.9555837,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-421766749",
@@ -1257,7 +1007,9 @@
     "subcategory": "christian",
     "lat": 47.0331649,
     "lng": 21.9491404,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-421767355",
@@ -1266,7 +1018,9 @@
     "subcategory": "christian",
     "lat": 47.0338486,
     "lng": 21.951081,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-421779708",
@@ -1275,7 +1029,9 @@
     "subcategory": "christian",
     "lat": 47.0351157,
     "lng": 21.9572766,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-421961371",
@@ -1284,7 +1040,9 @@
     "subcategory": "christian",
     "lat": 47.0368756,
     "lng": 21.9448314,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-421967047",
@@ -1293,7 +1051,9 @@
     "subcategory": "christian",
     "lat": 47.0437279,
     "lng": 21.945465,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-422011201",
@@ -1302,7 +1062,9 @@
     "subcategory": "christian",
     "lat": 47.0430014,
     "lng": 21.955466,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-422175675",
@@ -1311,7 +1073,9 @@
     "subcategory": "christian",
     "lat": 47.037893,
     "lng": 21.9827421,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-422521523",
@@ -1320,7 +1084,9 @@
     "subcategory": "christian",
     "lat": 47.0409648,
     "lng": 21.977063,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-423118595",
@@ -1329,7 +1095,9 @@
     "subcategory": "university",
     "lat": 47.0587154,
     "lng": 21.9406282,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": ", Oradea"
   },
   {
     "id": "way-423122942",
@@ -1338,7 +1106,9 @@
     "subcategory": "christian",
     "lat": 47.0526581,
     "lng": 21.9313876,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-423122948",
@@ -1347,7 +1117,9 @@
     "subcategory": "jewish",
     "lat": 47.0549221,
     "lng": 21.9324012,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-423412051",
@@ -1356,70 +1128,9 @@
     "subcategory": "christian",
     "lat": 47.0523194,
     "lng": 21.967754,
-    "osmType": "way"
-  },
-  {
-    "id": "way-432438187",
-    "name": "Biserica Reformată Sântion",
-    "type": "church",
-    "subcategory": "christian",
-    "lat": 47.095899,
-    "lng": 21.834452,
-    "osmType": "way"
-  },
-  {
-    "id": "way-432465450",
-    "name": "Fără nume",
-    "type": "church",
-    "subcategory": "christian",
-    "lat": 47.1003953,
-    "lng": 21.835174,
-    "osmType": "way"
-  },
-  {
-    "id": "way-435011072",
-    "name": "Fără nume",
-    "type": "school",
-    "subcategory": "school",
-    "lat": 47.0975715,
-    "lng": 21.8367737,
-    "osmType": "way"
-  },
-  {
-    "id": "way-435226193",
-    "name": "Fără nume",
-    "type": "school",
-    "subcategory": "school",
-    "lat": 47.1135852,
-    "lng": 21.8128539,
-    "osmType": "way"
-  },
-  {
-    "id": "way-435338634",
-    "name": "Biserica Reformată",
-    "type": "church",
-    "subcategory": "christian",
-    "lat": 47.1165309,
-    "lng": 21.8145246,
-    "osmType": "way"
-  },
-  {
-    "id": "way-436091299",
-    "name": "Fără nume",
-    "type": "church",
-    "subcategory": "christian",
-    "lat": 47.169405,
-    "lng": 21.8390239,
-    "osmType": "way"
-  },
-  {
-    "id": "way-436095926",
-    "name": "Biserica Reformată",
-    "type": "church",
-    "subcategory": "christian",
-    "lat": 47.16763,
-    "lng": 21.8362874,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-436548036",
@@ -1428,7 +1139,9 @@
     "subcategory": "christian",
     "lat": 47.0710941,
     "lng": 21.8578052,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-436650618",
@@ -1437,7 +1150,9 @@
     "subcategory": "hospital",
     "lat": 47.0759891,
     "lng": 21.9162861,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-436834235",
@@ -1446,7 +1161,9 @@
     "subcategory": "christian",
     "lat": 47.078715,
     "lng": 21.9105434,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-436834261",
@@ -1455,7 +1172,9 @@
     "subcategory": "christian",
     "lat": 47.0777046,
     "lng": 21.9241137,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-437148076",
@@ -1464,7 +1183,9 @@
     "subcategory": "school",
     "lat": 47.0659902,
     "lng": 21.8564744,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-437149338",
@@ -1473,16 +1194,9 @@
     "subcategory": "christian",
     "lat": 47.069259,
     "lng": 21.8526951,
-    "osmType": "way"
-  },
-  {
-    "id": "way-454105826",
-    "name": "Fără nume",
-    "type": "church",
-    "subcategory": "christian",
-    "lat": 46.93743,
-    "lng": 21.912944,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-489535792",
@@ -1491,7 +1205,9 @@
     "subcategory": "christian",
     "lat": 47.0437809,
     "lng": 21.9360621,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-526787674",
@@ -1500,7 +1216,9 @@
     "subcategory": "school",
     "lat": 47.0798219,
     "lng": 21.914357,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-526790380",
@@ -1509,7 +1227,9 @@
     "subcategory": "school",
     "lat": 47.0762057,
     "lng": 21.9119341,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-526791484",
@@ -1518,7 +1238,9 @@
     "subcategory": "school",
     "lat": 47.0516494,
     "lng": 21.9276295,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-526935585",
@@ -1527,7 +1249,9 @@
     "subcategory": "school",
     "lat": 47.068509,
     "lng": 21.9282129,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-544489782",
@@ -1536,7 +1260,9 @@
     "subcategory": "christian",
     "lat": 47.0547069,
     "lng": 21.9126667,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-544503067",
@@ -1545,7 +1271,9 @@
     "subcategory": "christian",
     "lat": 47.0560705,
     "lng": 21.9415235,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-544505902",
@@ -1554,7 +1282,9 @@
     "subcategory": "christian",
     "lat": 47.0474185,
     "lng": 21.9580644,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-544645098",
@@ -1563,7 +1293,9 @@
     "subcategory": "christian",
     "lat": 47.0586289,
     "lng": 21.9016073,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-544741748",
@@ -1572,7 +1304,9 @@
     "subcategory": "christian",
     "lat": 47.040241,
     "lng": 21.9210774,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-544741749",
@@ -1581,16 +1315,9 @@
     "subcategory": "christian",
     "lat": 47.0413714,
     "lng": 21.9186737,
-    "osmType": "way"
-  },
-  {
-    "id": "way-624038692",
-    "name": "Fără nume",
-    "type": "church",
-    "subcategory": "christian",
-    "lat": 47.060176,
-    "lng": 21.8219536,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-624042128",
@@ -1599,7 +1326,9 @@
     "subcategory": "kindergarten",
     "lat": 47.0711982,
     "lng": 21.8592669,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-624265570",
@@ -1608,7 +1337,9 @@
     "subcategory": "christian",
     "lat": 47.0662613,
     "lng": 21.853622,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-651522972",
@@ -1617,7 +1348,9 @@
     "subcategory": "christian",
     "lat": 47.0536957,
     "lng": 21.9290046,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-674630005",
@@ -1626,7 +1359,9 @@
     "subcategory": "christian",
     "lat": 47.1150779,
     "lng": 21.9571398,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-708873958",
@@ -1635,7 +1370,9 @@
     "subcategory": "hospital",
     "lat": 47.0670588,
     "lng": 21.9356638,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-708876663",
@@ -1644,7 +1381,9 @@
     "subcategory": "hospital",
     "lat": 47.0615135,
     "lng": 21.9365972,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-710472254",
@@ -1653,7 +1392,9 @@
     "subcategory": "kindergarten",
     "lat": 47.0725363,
     "lng": 21.9112038,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-717090541",
@@ -1662,7 +1403,9 @@
     "subcategory": "christian",
     "lat": 47.0445553,
     "lng": 21.9216355,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-717090565",
@@ -1671,7 +1414,9 @@
     "subcategory": "clinic",
     "lat": 47.0404903,
     "lng": 21.9267446,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-835601377",
@@ -1680,7 +1425,9 @@
     "subcategory": "hospital",
     "lat": 47.0625381,
     "lng": 21.9400743,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-883258099",
@@ -1689,7 +1436,9 @@
     "subcategory": "christian",
     "lat": 47.0737185,
     "lng": 21.9180838,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-885321773",
@@ -1698,7 +1447,9 @@
     "subcategory": "school",
     "lat": 47.0620033,
     "lng": 21.9219003,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-885324657",
@@ -1707,16 +1458,9 @@
     "subcategory": "school",
     "lat": 47.0652312,
     "lng": 21.9266296,
-    "osmType": "way"
-  },
-  {
-    "id": "way-904648889",
-    "name": "Református templom",
-    "type": "church",
-    "subcategory": "christian",
-    "lat": 47.1863641,
-    "lng": 21.7968877,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-914060058",
@@ -1725,16 +1469,9 @@
     "subcategory": "christian",
     "lat": 47.0527353,
     "lng": 21.9680536,
-    "osmType": "way"
-  },
-  {
-    "id": "way-920568286",
-    "name": "Biserica Baptistă \"Betania\"",
-    "type": "church",
-    "subcategory": "christian",
-    "lat": 46.9477999,
-    "lng": 22.0206203,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-925805948",
@@ -1743,7 +1480,9 @@
     "subcategory": "christian",
     "lat": 47.0621119,
     "lng": 21.9309814,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-1003402475",
@@ -1752,7 +1491,9 @@
     "subcategory": "university",
     "lat": 47.0434959,
     "lng": 21.9221363,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-1085760795",
@@ -1761,16 +1502,9 @@
     "subcategory": "clinic",
     "lat": 47.064073,
     "lng": 21.9138434,
-    "osmType": "way"
-  },
-  {
-    "id": "way-1100792443",
-    "name": "Biserica Romano-Catolică",
-    "type": "church",
-    "subcategory": "christian",
-    "lat": 47.0040557,
-    "lng": 21.9770524,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-1210617912",
@@ -1779,16 +1513,9 @@
     "subcategory": "christian",
     "lat": 47.0705855,
     "lng": 21.9246033,
-    "osmType": "way"
-  },
-  {
-    "id": "way-1283554643",
-    "name": "Fără nume",
-    "type": "church",
-    "subcategory": "christian",
-    "lat": 46.9811196,
-    "lng": 21.9855966,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-1345006056",
@@ -1797,7 +1524,9 @@
     "subcategory": "university",
     "lat": 47.05861,
     "lng": 21.9407973,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-1349500949",
@@ -1806,7 +1535,9 @@
     "subcategory": "kindergarten",
     "lat": 47.0520627,
     "lng": 21.9056834,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-1374968255",
@@ -1815,7 +1546,9 @@
     "subcategory": "school",
     "lat": 47.0544336,
     "lng": 21.926719,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-1395145904",
@@ -1824,7 +1557,9 @@
     "subcategory": "kindergarten",
     "lat": 47.0805156,
     "lng": 21.9151525,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-1395145905",
@@ -1833,7 +1568,9 @@
     "subcategory": "kindergarten",
     "lat": 47.0805184,
     "lng": 21.9155111,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-1395146712",
@@ -1842,7 +1579,9 @@
     "subcategory": "kindergarten",
     "lat": 47.0790407,
     "lng": 21.9130543,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-1455869295",
@@ -1851,7 +1590,9 @@
     "subcategory": "christian",
     "lat": 47.0577846,
     "lng": 21.9247046,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "relation-3530253",
@@ -1860,7 +1601,9 @@
     "subcategory": "christian",
     "lat": 47.0569364,
     "lng": 21.9164511,
-    "osmType": "relation"
+    "osmType": "relation",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "relation-11842368",
@@ -1869,6 +1612,8 @@
     "subcategory": "university",
     "lat": 47.0445802,
     "lng": 21.9181619,
-    "osmType": "relation"
+    "osmType": "relation",
+    "brand": null,
+    "operator": null
   }
 ]

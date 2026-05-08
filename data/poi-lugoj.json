@@ -1,781 +1,871 @@
-{
-  "city": "Lugoj",
-  "generated_at": "2026-04-23T08:59:21.501Z",
-  "counts": {
-    "total": 50,
-    "schools": 25,
-    "churches": 25
+[
+  {
+    "id": "node-602089064",
+    "name": "Clubul Copiilor",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.6810445,
+    "lng": 21.899705,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
   },
-  "pois": [
-    {
-      "id": "node/602089064",
-      "osm_id": 602089064,
-      "osm_type": "node",
-      "name": "Clubul Copiilor",
-      "category": "education",
-      "lat": 45.6810445,
-      "lon": 21.899705,
-      "tags": {
-        "amenity": "school",
-        "name": "Clubul Copiilor"
-      }
-    },
-    {
-      "id": "way/46678722",
-      "osm_id": 46678722,
-      "osm_type": "way",
-      "name": "Colegiul Național \"Coriolan Brediceanu\"",
-      "category": "education",
-      "lat": 45.6841888,
-      "lon": 21.9025381,
-      "tags": {
-        "addr:housename": "Liceul \"Coriolan Brediceanu\"",
-        "addr:street": "Strada Coriolan Brediceanu",
-        "amenity": "school",
-        "building": "yes",
-        "is_in:city": "Lugoj",
-        "name": "Colegiul Național \"Coriolan Brediceanu\""
-      }
-    },
-    {
-      "id": "way/46679208",
-      "osm_id": 46679208,
-      "osm_type": "way",
-      "name": "Colegiul Național \"Iulia Hașdeu\"",
-      "category": "education",
-      "lat": 45.6870237,
-      "lon": 21.9071126,
-      "tags": {
-        "building": "school",
-        "building:levels": "3",
-        "is_in:city": "Lugoj",
-        "name": "Colegiul Național \"Iulia Hașdeu\"",
-        "roof:levels": "0"
-      }
-    },
-    {
-      "id": "way/467447297",
-      "osm_id": 467447297,
-      "osm_type": "way",
-      "name": "Școala de Arte Frumoase Filaret Barbu",
-      "category": "education",
-      "lat": 45.685889,
-      "lon": 21.9061973,
-      "tags": {
-        "addr:city": "Lugoj",
-        "addr:street": "Strada Mitropolit Andrei Șaguna",
-        "building": "school",
-        "name": "Școala de Arte Frumoase Filaret Barbu"
-      }
-    },
-    {
-      "id": "way/467447298",
-      "osm_id": 467447298,
-      "osm_type": "way",
-      "name": "Colegiul Național Iulia Hașdeu",
-      "category": "education",
-      "lat": 45.6871307,
-      "lon": 21.9073375,
-      "tags": {
-        "amenity": "school",
-        "education": "school",
-        "name": "Colegiul Național Iulia Hașdeu"
-      }
-    },
-    {
-      "id": "way/467447301",
-      "osm_id": 467447301,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 45.6874061,
-      "lon": 21.9072794,
-      "tags": {
-        "building": "school"
-      }
-    },
-    {
-      "id": "way/467447305",
-      "osm_id": 467447305,
-      "osm_type": "way",
-      "name": "Școala Gimnazială nr. 3",
-      "category": "education",
-      "lat": 45.6873743,
-      "lon": 21.9063365,
-      "tags": {
-        "amenity": "school",
-        "name": "Școala Gimnazială nr. 3"
-      }
-    },
-    {
-      "id": "way/467448132",
-      "osm_id": 467448132,
-      "osm_type": "way",
-      "name": "Universitatea Europeană Drăgan",
-      "category": "education",
-      "lat": 45.689051,
-      "lon": 21.9032945,
-      "tags": {
-        "amenity": "university",
-        "name": "Universitatea Europeană Drăgan"
-      }
-    },
-    {
-      "id": "way/467449650",
-      "osm_id": 467449650,
-      "osm_type": "way",
-      "name": "Liceul Tehnologic \"Valeriu Braniște\"",
-      "category": "education",
-      "lat": 45.6886631,
-      "lon": 21.8908558,
-      "tags": {
-        "addr:city": "Lugoj",
-        "addr:housenumber": "41",
-        "addr:street": "Strada Gheorghe Doja",
-        "amenity": "school",
-        "education": "school",
-        "email": "valeriu_braniste@yahoo.com",
-        "name": "Liceul Tehnologic \"Valeriu Braniște\"",
-        "website": "http://liceulvaleriubraniste.ro/"
-      }
-    },
-    {
-      "id": "way/467449651",
-      "osm_id": 467449651,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 45.6889094,
-      "lon": 21.8910448,
-      "tags": {
-        "building": "school"
-      }
-    },
-    {
-      "id": "way/467517914",
-      "osm_id": 467517914,
-      "osm_type": "way",
-      "name": "Școala Gimnazială nr. 6",
-      "category": "education",
-      "lat": 45.6834351,
-      "lon": 21.9003222,
-      "tags": {
-        "amenity": "school",
-        "name": "Școala Gimnazială nr. 6"
-      }
-    },
-    {
-      "id": "way/467517916",
-      "osm_id": 467517916,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 45.6835917,
-      "lon": 21.9005199,
-      "tags": {
-        "building": "school"
-      }
-    },
-    {
-      "id": "way/467517917",
-      "osm_id": 467517917,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 45.6835674,
-      "lon": 21.9008852,
-      "tags": {
-        "building": "school"
-      }
-    },
-    {
-      "id": "way/467517918",
-      "osm_id": 467517918,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 45.68339,
-      "lon": 21.900508,
-      "tags": {
-        "building": "school"
-      }
-    },
-    {
-      "id": "way/467517919",
-      "osm_id": 467517919,
-      "osm_type": "way",
-      "name": "Școala Gimnazială nr. 5",
-      "category": "education",
-      "lat": 45.6827919,
-      "lon": 21.9005732,
-      "tags": {
-        "building": "school",
-        "name": "Școala Gimnazială nr. 5"
-      }
-    },
-    {
-      "id": "way/964335093",
-      "osm_id": 964335093,
-      "osm_type": "way",
-      "name": "Școala Harul",
-      "category": "education",
-      "lat": 45.6812653,
-      "lon": 21.9019837,
-      "tags": {
-        "amenity": "school",
-        "name": "Școala Harul",
-        "religion": "christian",
-        "website": "https://scoalaharul.ro/"
-      }
-    },
-    {
-      "id": "way/1064295097",
-      "osm_id": 1064295097,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 45.6933241,
-      "lon": 21.8957957,
-      "tags": {
-        "building": "school",
-        "building:levels": "3"
-      }
-    },
-    {
-      "id": "way/1080126072",
-      "osm_id": 1080126072,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 45.6858404,
-      "lon": 21.9016564,
-      "tags": {
-        "addr:city": "Lugoj",
-        "addr:housenumber": "7",
-        "addr:street": "Strada Coriolan Brediceanu",
-        "building": "kindergarten"
-      }
-    },
-    {
-      "id": "way/1204904697",
-      "osm_id": 1204904697,
-      "osm_type": "way",
-      "name": "Şcoala Gimnazială Nr. 2",
-      "category": "education",
-      "lat": 45.6944175,
-      "lon": 21.9057876,
-      "tags": {
-        "amenity": "school",
-        "education": "school",
-        "name": "Şcoala Gimnazială Nr. 2"
-      }
-    },
-    {
-      "id": "way/1204904698",
-      "osm_id": 1204904698,
-      "osm_type": "way",
-      "name": "Grădiniţa nr. 5",
-      "category": "education",
-      "lat": 45.6937369,
-      "lon": 21.9061744,
-      "tags": {
-        "addr:city": "Lugoj",
-        "addr:housenumber": "19",
-        "addr:street": "Strada Ceahlăului",
-        "amenity": "kindergarten",
-        "education": "kindergarten",
-        "name": "Grădiniţa nr. 5"
-      }
-    },
-    {
-      "id": "way/1327776003",
-      "osm_id": 1327776003,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 45.6757868,
-      "lon": 21.8986042,
-      "tags": {
-        "building": "school"
-      }
-    },
-    {
-      "id": "way/1447915456",
-      "osm_id": 1447915456,
-      "osm_type": "way",
-      "name": "Şcoala Generală nr. 4",
-      "category": "education",
-      "lat": 45.6875988,
-      "lon": 21.9104953,
-      "tags": {
-        "building": "school",
-        "name": "Şcoala Generală nr. 4"
-      }
-    },
-    {
-      "id": "way/1447915463",
-      "osm_id": 1447915463,
-      "osm_type": "way",
-      "name": "Grădinița Micro I",
-      "category": "education",
-      "lat": 45.6912455,
-      "lon": 21.9100241,
-      "tags": {
-        "addr:city": "Lugoj",
-        "addr:housenumber": "4",
-        "addr:street": "Aleea Castanilor",
-        "amenity": "kindergarten",
-        "education": "kindergarten",
-        "name": "Grădinița Micro I",
-        "phone": "0256353542"
-      }
-    },
-    {
-      "id": "way/1454464604",
-      "osm_id": 1454464604,
-      "osm_type": "way",
-      "name": "Grădinița cu program prelungit nr. 4",
-      "category": "education",
-      "lat": 45.6926037,
-      "lon": 21.9229909,
-      "tags": {
-        "addr:city": "Lugoj",
-        "addr:housenumber": "20B",
-        "addr:postcode": "305500",
-        "addr:street": "Strada Dimitrie Cantemir",
-        "amenity": "childcare",
-        "building": "kindergarten",
-        "name": "Grădinița cu program prelungit nr. 4"
-      }
-    },
-    {
-      "id": "way/1477358267",
-      "osm_id": 1477358267,
-      "osm_type": "way",
-      "name": "Școala Generală nr. 1",
-      "category": "education",
-      "lat": 45.675851,
-      "lon": 21.8985217,
-      "tags": {
-        "addr:city": "Lugoj",
-        "addr:street": "Drumul Bocșei",
-        "amenity": "school",
-        "education": "school",
-        "name": "Școala Generală nr. 1"
-      }
-    },
-    {
-      "id": "node/1918755203",
-      "osm_id": 1918755203,
-      "osm_type": "node",
-      "name": "Biserica Penticostală \"Bethesda\"",
-      "category": "place_of_worship",
-      "lat": 45.693076,
-      "lon": 21.9222304,
-      "tags": {
-        "amenity": "place_of_worship",
-        "denomination": "pentecostal",
-        "name": "Biserica Penticostală \"Bethesda\"",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "node/1954798410",
-      "osm_id": 1954798410,
-      "osm_type": "node",
-      "name": "Biserica Baptistă Harul",
-      "category": "place_of_worship",
-      "lat": 45.6822772,
-      "lon": 21.9051556,
-      "tags": {
-        "addr:city": "Lugoj",
-        "addr:housenumber": "10",
-        "addr:postcode": "305500",
-        "addr:state": "Timiș",
-        "addr:street": "Plopilor",
-        "air_conditioning": "yes",
-        "amenity": "place_of_worship",
-        "baby_feeding": "room",
-        "check_date": "2023-08-30",
-        "denomination": "baptist",
-        "name": "Biserica Baptistă Harul",
-        "religion": "christian",
-        "website": "https://www.harul.ro"
-      }
-    },
-    {
-      "id": "node/9900567502",
-      "osm_id": 9900567502,
-      "osm_type": "node",
-      "name": "Fără nume",
-      "category": "place_of_worship",
-      "lat": 45.6865651,
-      "lon": 21.9063174,
-      "tags": {
-        "historic": "wayside_cross",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/46678674",
-      "osm_id": 46678674,
-      "osm_type": "way",
-      "name": "Catedrala Coborârea Sfântului Spirit",
-      "category": "place_of_worship",
-      "lat": 45.6849957,
-      "lon": 21.905657,
-      "tags": {
-        "addr:city": "Lugoj",
-        "addr:housenumber": "8",
-        "addr:street": "Piața Josif Constantin Drăgan",
-        "amenity": "place_of_worship",
-        "building": "yes",
-        "check_date": "2023-08-23",
-        "denomination": "greek_catholic",
-        "name": "Catedrala Coborârea Sfântului Spirit",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/46679070",
-      "osm_id": 46679070,
-      "osm_type": "way",
-      "name": "Biserica Adormirea Maicii Domnului",
-      "category": "place_of_worship",
-      "lat": 45.6870403,
-      "lon": 21.9063874,
-      "tags": {
-        "amenity": "place_of_worship",
-        "building": "yes",
-        "denomination": "orthodox",
-        "name": "Biserica Adormirea Maicii Domnului",
-        "religion": "christian",
-        "wikidata": "Q25466746"
-      }
-    },
-    {
-      "id": "way/46721208",
-      "osm_id": 46721208,
-      "osm_type": "way",
-      "name": "Cimitirul Romano-Catolic",
-      "category": "place_of_worship",
-      "lat": 45.688973,
-      "lon": 21.894294,
-      "tags": {
-        "denomination": "roman_catholic",
-        "landuse": "cemetery",
-        "name": "Cimitirul Romano-Catolic",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/255668215",
-      "osm_id": 255668215,
-      "osm_type": "way",
-      "name": "Biserica Reformată",
-      "category": "place_of_worship",
-      "lat": 45.686035,
-      "lon": 21.9015111,
-      "tags": {
-        "amenity": "place_of_worship",
-        "building": "yes",
-        "denomination": "reformed",
-        "name": "Biserica Reformată",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/255668381",
-      "osm_id": 255668381,
-      "osm_type": "way",
-      "name": "Biserica Catolică Sfânta Treime",
-      "category": "place_of_worship",
-      "lat": 45.6837179,
-      "lon": 21.9015422,
-      "tags": {
-        "addr:city": "Lugoj",
-        "addr:housenumber": "4",
-        "addr:street": "Strada Bucegi",
-        "amenity": "place_of_worship",
-        "building": "yes",
-        "denomination": "catholic",
-        "name": "Biserica Catolică Sfânta Treime",
-        "religion": "christian",
-        "website": "http://www.prclugoj.ro/"
-      }
-    },
-    {
-      "id": "way/255668689",
-      "osm_id": 255668689,
-      "osm_type": "way",
-      "name": "Catedrala Ortodoxă Schimbarea la Față",
-      "category": "place_of_worship",
-      "lat": 45.6797464,
-      "lon": 21.9053428,
-      "tags": {
-        "amenity": "place_of_worship",
-        "building": "yes",
-        "denomination": "orthodox",
-        "name": "Catedrala Ortodoxă Schimbarea la Față",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/255668834",
-      "osm_id": 255668834,
-      "osm_type": "way",
-      "name": "Biserica Ortodoxă Ucraineană",
-      "category": "place_of_worship",
-      "lat": 45.6821753,
-      "lon": 21.9067148,
-      "tags": {
-        "addr:street": "Splaiul Plopilor",
-        "amenity": "place_of_worship",
-        "building": "yes",
-        "check_date": "2023-08-23",
-        "denomination": "orthodox",
-        "name": "Biserica Ortodoxă Ucraineană",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/544645094",
-      "osm_id": 544645094,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "place_of_worship",
-      "lat": 45.6815184,
-      "lon": 21.9026349,
-      "tags": {
-        "addr:city": "Lugoj",
-        "addr:street": "Strada Cuza Vodă",
-        "amenity": "place_of_worship",
-        "building": "yes",
-        "religion": "jewish"
-      }
-    },
-    {
-      "id": "way/953266893",
-      "osm_id": 953266893,
-      "osm_type": "way",
-      "name": "Cimitirul Lugoj",
-      "category": "place_of_worship",
-      "lat": 45.6944357,
-      "lon": 21.9177582,
-      "tags": {
-        "addr:city": "Lugoj",
-        "addr:postcode": "305500",
-        "addr:state": "Timiș",
-        "addr:street": "Strada Făgetului",
-        "landuse": "cemetery",
-        "name": "Cimitirul Lugoj",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/964335093",
-      "osm_id": 964335093,
-      "osm_type": "way",
-      "name": "Școala Harul",
-      "category": "place_of_worship",
-      "lat": 45.6812653,
-      "lon": 21.9019837,
-      "tags": {
-        "amenity": "school",
-        "name": "Școala Harul",
-        "religion": "christian",
-        "website": "https://scoalaharul.ro/"
-      }
-    },
-    {
-      "id": "way/1064301839",
-      "osm_id": 1064301839,
-      "osm_type": "way",
-      "name": "Biserica Pogorârea Sfântului Duh",
-      "category": "place_of_worship",
-      "lat": 45.695908,
-      "lon": 21.9007888,
-      "tags": {
-        "amenity": "place_of_worship",
-        "building": "yes",
-        "denomination": "orthodox",
-        "name": "Biserica Pogorârea Sfântului Duh",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/1080558223",
-      "osm_id": 1080558223,
-      "osm_type": "way",
-      "name": "Capela Sfântul Ștefan",
-      "category": "place_of_worship",
-      "lat": 45.6815605,
-      "lon": 21.8980404,
-      "tags": {
-        "amenity": "place_of_worship",
-        "building": "chapel",
-        "denomination": "catholic",
-        "name": "Capela Sfântul Ștefan",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/1080558238",
-      "osm_id": 1080558238,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "place_of_worship",
-      "lat": 45.6891894,
-      "lon": 21.8952929,
-      "tags": {
-        "amenity": "place_of_worship",
-        "building": "chapel",
-        "denomination": "roman_catholic",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/1216052141",
-      "osm_id": 1216052141,
-      "osm_type": "way",
-      "name": "Biserica Sfântul Dumitru",
-      "category": "place_of_worship",
-      "lat": 45.6832593,
-      "lon": 21.9713676,
-      "tags": {
-        "amenity": "place_of_worship",
-        "building": "yes",
-        "height": "9",
-        "name": "Biserica Sfântul Dumitru",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/1217279283",
-      "osm_id": 1217279283,
-      "osm_type": "way",
-      "name": "Biserica Penticostală Betezda",
-      "category": "place_of_worship",
-      "lat": 45.6931142,
-      "lon": 21.9224851,
-      "tags": {
-        "amenity": "place_of_worship",
-        "building": "yes",
-        "denomination": "pentecostal",
-        "name": "Biserica Penticostală Betezda",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/1447915464",
-      "osm_id": 1447915464,
-      "osm_type": "way",
-      "name": "Sala Regatului Martorilor lui Iehova",
-      "category": "place_of_worship",
-      "lat": 45.6914206,
-      "lon": 21.9085321,
-      "tags": {
-        "addr:city": "Lugoj",
-        "addr:housenumber": "17",
-        "addr:street": "Strada Olari",
-        "amenity": "place_of_worship",
-        "building": "yes",
-        "denomination": "jehovahs_witness",
-        "name": "Sala Regatului Martorilor lui Iehova",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/1447950357",
-      "osm_id": 1447950357,
-      "osm_type": "way",
-      "name": "Biserica Ortodoxă \"Sfinții Constantin și Elena\"",
-      "category": "place_of_worship",
-      "lat": 45.6943244,
-      "lon": 21.9178023,
-      "tags": {
-        "amenity": "place_of_worship",
-        "building": "yes",
-        "denomination": "orthodox",
-        "name": "Biserica Ortodoxă \"Sfinții Constantin și Elena\"",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/1447950358",
-      "osm_id": 1447950358,
-      "osm_type": "way",
-      "name": "Biserica greco-catolică Sf. Ioan Botezătorul",
-      "category": "place_of_worship",
-      "lat": 45.6945752,
-      "lon": 21.9189457,
-      "tags": {
-        "amenity": "place_of_worship",
-        "building": "yes",
-        "denomination": "roman_catholic",
-        "name": "Biserica greco-catolică Sf. Ioan Botezătorul",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/1447950360",
-      "osm_id": 1447950360,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "place_of_worship",
-      "lat": 45.6947878,
-      "lon": 21.9263779,
-      "tags": {
-        "landuse": "cemetery",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/1452445275",
-      "osm_id": 1452445275,
-      "osm_type": "way",
-      "name": "Biserica Sfântul Ioan Botezătorul",
-      "category": "place_of_worship",
-      "lat": 45.6928561,
-      "lon": 21.891311,
-      "tags": {
-        "addr:city": "Lugoj",
-        "addr:street": "Strada Viorelelor",
-        "amenity": "place_of_worship",
-        "building": "yes",
-        "denomination": "orthodox",
-        "name": "Biserica Sfântul Ioan Botezătorul",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/1452445277",
-      "osm_id": 1452445277,
-      "osm_type": "way",
-      "name": "Cimitirul Reformat",
-      "category": "place_of_worship",
-      "lat": 45.6926308,
-      "lon": 21.8827524,
-      "tags": {
-        "denomination": "protestant",
-        "landuse": "cemetery",
-        "name": "Cimitirul Reformat",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/1459800574",
-      "osm_id": 1459800574,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "place_of_worship",
-      "lat": 45.6877195,
-      "lon": 21.8953964,
-      "tags": {
-        "amenity": "place_of_worship",
-        "building": "yes",
-        "religion": "jewish"
-      }
-    }
-  ]
-}
+  {
+    "id": "node-602089065",
+    "name": "Spitalul de copii",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 45.6821657,
+    "lng": 21.9018057,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-1918755203",
+    "name": "Biserica Penticostală \"Bethesda\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.693076,
+    "lng": 21.9222304,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-1954798410",
+    "name": "Biserica Baptistă Harul",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.6822772,
+    "lng": 21.9051556,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2303532566",
+    "name": "Biserica Romano-Catolică",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.7878353,
+    "lng": 21.9338207,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2414485746",
+    "name": "Biserica Leucușești",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.8351676,
+    "lng": 22.003839,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2414522951",
+    "name": "Biserica Ortodoxă Mănăștiur",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.8317327,
+    "lng": 22.062751,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2423300296",
+    "name": "Biserica",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.8369015,
+    "lng": 21.9599371,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2423300418",
+    "name": "Biserica",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.8372265,
+    "lng": 21.9599562,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2423349248",
+    "name": "Biserica",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.8299981,
+    "lng": 21.9305779,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2424263988",
+    "name": "Biserica",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.8155078,
+    "lng": 21.8847892,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2424275140",
+    "name": "Biserica",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.8147077,
+    "lng": 21.8566798,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2424330963",
+    "name": "Biserica",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.8158234,
+    "lng": 21.8255082,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2426353023",
+    "name": "Biserica",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.8088425,
+    "lng": 21.7889249,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2426900421",
+    "name": "Biserica de lemn din Hezeriș",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.727204,
+    "lng": 21.9250602,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2427030100",
+    "name": "Biserica",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.794251,
+    "lng": 22.0225072,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2427030195",
+    "name": "Biserica Jupani",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.7990945,
+    "lng": 22.0256373,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2427030221",
+    "name": "Biserica Sudriaș",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.7891922,
+    "lng": 22.028601,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2427040051",
+    "name": "Biserica",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.7201229,
+    "lng": 22.017134,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2428238362",
+    "name": "Biserica Sărăzani",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.7375881,
+    "lng": 22.0617217,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2428238599",
+    "name": "Biserica Bârna",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.7202597,
+    "lng": 22.0584548,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2562955773",
+    "name": "Cabinet Stomatologic TRIDENT",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 45.6830974,
+    "lng": 21.9005972,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2584920926",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.6647014,
+    "lng": 21.7970916,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-3488513707",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.5777713,
+    "lng": 21.9073853,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-3786175734",
+    "name": "Biserica de lemn din Dragomirești",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.5429266,
+    "lng": 21.9483424,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-5982647885",
+    "name": "sepsiszentgyorgy",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 45.6428201,
+    "lng": 21.931685,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-8628417594",
+    "name": "Superbet",
+    "type": "superbet",
+    "subcategory": "betting",
+    "lat": 45.681202,
+    "lng": 21.909442,
+    "osmType": "node",
+    "brand": "Superbet",
+    "operator": "Superbet Betting & Gaming SA"
+  },
+  {
+    "id": "node-8628417760",
+    "name": "Superbet",
+    "type": "superbet",
+    "subcategory": "betting",
+    "lat": 45.690675,
+    "lng": 21.903219,
+    "osmType": "node",
+    "brand": "Superbet",
+    "operator": "Superbet Betting & Gaming SA"
+  },
+  {
+    "id": "node-8628417762",
+    "name": "Superbet",
+    "type": "superbet",
+    "subcategory": "betting",
+    "lat": 45.6822932,
+    "lng": 21.9002168,
+    "osmType": "node",
+    "brand": "Superbet",
+    "operator": "Superbet Betting & Gaming SA"
+  },
+  {
+    "id": "node-8628417916",
+    "name": "Superbet",
+    "type": "superbet",
+    "subcategory": "betting",
+    "lat": 45.6828339,
+    "lng": 21.9021945,
+    "osmType": "node",
+    "brand": "Superbet",
+    "operator": "Superbet Betting & Gaming SA"
+  },
+  {
+    "id": "node-8628418083",
+    "name": "Superbet",
+    "type": "superbet",
+    "subcategory": "betting",
+    "lat": 45.690541,
+    "lng": 21.90331,
+    "osmType": "node",
+    "brand": "Superbet",
+    "operator": "Superbet Betting & Gaming SA"
+  },
+  {
+    "id": "node-8628418326",
+    "name": "Superbet",
+    "type": "superbet",
+    "subcategory": "betting",
+    "lat": 45.685785,
+    "lng": 21.89933,
+    "osmType": "node",
+    "brand": "Superbet",
+    "operator": "Superbet Betting & Gaming SA"
+  },
+  {
+    "id": "node-8628418389",
+    "name": "Superbet",
+    "type": "superbet",
+    "subcategory": "betting",
+    "lat": 45.6907091,
+    "lng": 21.9031912,
+    "osmType": "node",
+    "brand": "Superbet",
+    "operator": "Superbet Betting & Gaming SA"
+  },
+  {
+    "id": "way-46678674",
+    "name": "Catedrala Coborârea Sfântului Spirit",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.6849957,
+    "lng": 21.905657,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-46678722",
+    "name": "Colegiul Național \"Coriolan Brediceanu\"",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.6841888,
+    "lng": 21.9025381,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-46679070",
+    "name": "Biserica Adormirea Maicii Domnului",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.6870403,
+    "lng": 21.9063874,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-46721163",
+    "name": "Spitalul Municipal \"Dr. Teodor Andrei\"",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 45.6915144,
+    "lng": 21.8893188,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-46759536",
+    "name": "Spitalul de Boli Infecțioase",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 45.6897445,
+    "lng": 21.8878888,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-234023527",
+    "name": "Școală",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.8361381,
+    "lng": 21.9591259,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-255668215",
+    "name": "Biserica Reformată",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.686035,
+    "lng": 21.9015111,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-255668381",
+    "name": "Biserica Catolică Sfânta Treime",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.6837179,
+    "lng": 21.9015422,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-255668689",
+    "name": "Catedrala Ortodoxă Schimbarea la Față",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.6797464,
+    "lng": 21.9053428,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-255668834",
+    "name": "Biserica Ortodoxă Ucraineană",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.6821753,
+    "lng": 21.9067148,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-265857023",
+    "name": "Biserica Ortodoxă",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.7908625,
+    "lng": 21.9274064,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-265863300",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.7878226,
+    "lng": 21.9338273,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-287504272",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.624783,
+    "lng": 21.8451368,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-287504364",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.6023661,
+    "lng": 21.957096,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-287504366",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.6140564,
+    "lng": 21.9115588,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-287504384",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.573057,
+    "lng": 21.9820094,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-467447298",
+    "name": "Colegiul Național Iulia Hașdeu",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.6871307,
+    "lng": 21.9073375,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-467447305",
+    "name": "Școala Gimnazială nr. 3",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.6873743,
+    "lng": 21.9063365,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-467448132",
+    "name": "Universitatea Europeană Drăgan",
+    "type": "school",
+    "subcategory": "university",
+    "lat": 45.689051,
+    "lng": 21.9032945,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-467449650",
+    "name": "Liceul Tehnologic \"Valeriu Braniște\"",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.6886631,
+    "lng": 21.8908558,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-467517914",
+    "name": "Școala Gimnazială nr. 6",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.6834351,
+    "lng": 21.9003222,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-544645094",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "jewish",
+    "lat": 45.6815184,
+    "lng": 21.9026349,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-964335093",
+    "name": "Școala Harul",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.6812653,
+    "lng": 21.9019837,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-1064301839",
+    "name": "Biserica Pogorârea Sfântului Duh",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.695908,
+    "lng": 21.9007888,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-1080558210",
+    "name": "Biserica Sfinții Apostoli",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.6504089,
+    "lng": 21.856522,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-1080558223",
+    "name": "Capela Sfântul Ștefan",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.6815605,
+    "lng": 21.8980404,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-1080558238",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.6891894,
+    "lng": 21.8952929,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-1080635972",
+    "name": "Biserica Pogorârea Sfântului Duh",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.6416169,
+    "lng": 21.897431,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-1193150450",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.7990546,
+    "lng": 22.0256897,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-1193322945",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.8027292,
+    "lng": 21.9948921,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-1204904697",
+    "name": "Şcoala Gimnazială Nr. 2",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.6944175,
+    "lng": 21.9057876,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-1204904698",
+    "name": "Grădiniţa nr. 5",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 45.6937369,
+    "lng": 21.9061744,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-1211020238",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.7552569,
+    "lng": 21.9535367,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-1216052141",
+    "name": "Biserica Sfântul Dumitru",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.6832593,
+    "lng": 21.9713676,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-1217279283",
+    "name": "Biserica Penticostală Betezda",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.6931142,
+    "lng": 21.9224851,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-1447915463",
+    "name": "Grădinița Micro I",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 45.6912455,
+    "lng": 21.9100241,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-1447915464",
+    "name": "Sala Regatului Martorilor lui Iehova",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.6914206,
+    "lng": 21.9085321,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-1447950357",
+    "name": "Biserica Ortodoxă \"Sfinții Constantin și Elena\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.6943244,
+    "lng": 21.9178023,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-1447950358",
+    "name": "Biserica greco-catolică Sf. Ioan Botezătorul",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.6945752,
+    "lng": 21.9189457,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-1452445275",
+    "name": "Biserica Sfântul Ioan Botezătorul",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.6928561,
+    "lng": 21.891311,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-1454464604",
+    "name": "Grădinița cu program prelungit nr. 4",
+    "type": "school",
+    "subcategory": "childcare",
+    "lat": 45.6926037,
+    "lng": 21.9229909,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-1459800574",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "jewish",
+    "lat": 45.6877195,
+    "lng": 21.8953964,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-1473427859",
+    "name": "Școala Gimnazială Coșteiu",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.7378602,
+    "lng": 21.8527937,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-1473429659",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.7538128,
+    "lng": 21.7680924,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-1477358267",
+    "name": "Școala Generală nr. 1",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.675851,
+    "lng": 21.8985217,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-1498830575",
+    "name": "Biserica reformată Mănăștiur",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.8352876,
+    "lng": 22.0636864,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  }
+]

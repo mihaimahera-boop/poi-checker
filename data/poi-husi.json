@@ -6,7 +6,9 @@
     "subcategory": "christian",
     "lat": 46.67665,
     "lng": 28.05798,
-    "osmType": "node"
+    "osmType": "node",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "node-1316063366",
@@ -15,7 +17,9 @@
     "subcategory": "christian",
     "lat": 46.67281,
     "lng": 28.02129,
-    "osmType": "node"
+    "osmType": "node",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "node-4865156295",
@@ -24,7 +28,9 @@
     "subcategory": "christian",
     "lat": 46.6659366,
     "lng": 28.0710705,
-    "osmType": "node"
+    "osmType": "node",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "node-4865669436",
@@ -33,7 +39,9 @@
     "subcategory": "christian",
     "lat": 46.672389,
     "lng": 28.0689999,
-    "osmType": "node"
+    "osmType": "node",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "node-4991627821",
@@ -42,7 +50,9 @@
     "subcategory": "kindergarten",
     "lat": 46.6706666,
     "lng": 28.0638619,
-    "osmType": "node"
+    "osmType": "node",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "node-5180594553",
@@ -51,7 +61,9 @@
     "subcategory": "christian",
     "lat": 46.6736845,
     "lng": 28.0568337,
-    "osmType": "node"
+    "osmType": "node",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "node-5180840751",
@@ -60,7 +72,9 @@
     "subcategory": "hospital",
     "lat": 46.6751099,
     "lng": 28.0502675,
-    "osmType": "node"
+    "osmType": "node",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "node-5180840775",
@@ -69,7 +83,9 @@
     "subcategory": "college",
     "lat": 46.6718473,
     "lng": 28.047795,
-    "osmType": "node"
+    "osmType": "node",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "node-5189211102",
@@ -78,7 +94,9 @@
     "subcategory": "christian",
     "lat": 46.6739689,
     "lng": 28.0522026,
-    "osmType": "node"
+    "osmType": "node",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "node-5215729272",
@@ -87,7 +105,42 @@
     "subcategory": "christian",
     "lat": 46.6706869,
     "lng": 28.0652726,
-    "osmType": "node"
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-8628417546",
+    "name": "Superbet",
+    "type": "superbet",
+    "subcategory": "betting",
+    "lat": 46.6708425,
+    "lng": 28.0838849,
+    "osmType": "node",
+    "brand": "Superbet",
+    "operator": "Superbet Betting & Gaming SA"
+  },
+  {
+    "id": "node-8628417605",
+    "name": "Superbet",
+    "type": "superbet",
+    "subcategory": "betting",
+    "lat": 46.6726252,
+    "lng": 28.0584598,
+    "osmType": "node",
+    "brand": "Superbet",
+    "operator": "Superbet Betting & Gaming SA"
+  },
+  {
+    "id": "node-8628417611",
+    "name": "Superbet",
+    "type": "superbet",
+    "subcategory": "betting",
+    "lat": 46.673753,
+    "lng": 28.061888,
+    "osmType": "node",
+    "brand": "Superbet",
+    "operator": "Superbet Betting & Gaming SA"
   },
   {
     "id": "node-10855406377",
@@ -96,7 +149,9 @@
     "subcategory": "christian",
     "lat": 46.6773576,
     "lng": 28.0220294,
-    "osmType": "node"
+    "osmType": "node",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-208575570",
@@ -105,7 +160,9 @@
     "subcategory": "school",
     "lat": 46.674996,
     "lng": 28.0584931,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-208575574",
@@ -114,7 +171,9 @@
     "subcategory": "school",
     "lat": 46.6749104,
     "lng": 28.0572367,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-208575579",
@@ -123,7 +182,9 @@
     "subcategory": "school",
     "lat": 46.6743421,
     "lng": 28.0564322,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-208575586",
@@ -132,7 +193,9 @@
     "subcategory": "school",
     "lat": 46.674864,
     "lng": 28.0558787,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-208575590",
@@ -141,7 +204,9 @@
     "subcategory": "school",
     "lat": 46.6752751,
     "lng": 28.0578036,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-261088413",
@@ -150,7 +215,9 @@
     "subcategory": "hospital",
     "lat": 46.7059436,
     "lng": 28.0390468,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-1353495154",
@@ -159,7 +226,9 @@
     "subcategory": "christian",
     "lat": 46.6740027,
     "lng": 28.0591975,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   },
   {
     "id": "way-1426091526",
@@ -168,6 +237,8 @@
     "subcategory": "christian",
     "lat": 46.6739903,
     "lng": 28.0626314,
-    "osmType": "way"
+    "osmType": "way",
+    "brand": null,
+    "operator": null
   }
 ]
