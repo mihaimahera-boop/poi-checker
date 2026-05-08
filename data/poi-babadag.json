@@ -1,150 +1,134 @@
-{
-  "city": "Babadag",
-  "generated_at": "2026-04-23T09:22:05.998Z",
-  "counts": {
-    "total": 8,
-    "schools": 2,
-    "churches": 6
+[
+  {
+    "id": "node-1316062919",
+    "name": "Mănăstirea Codru",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.8157,
+    "lng": 28.68654,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
   },
-  "pois": [
-    {
-      "id": "way/842336961",
-      "osm_id": 842336961,
-      "osm_type": "way",
-      "name": "Școala gimnazială Mircea cel Bătrân",
-      "category": "education",
-      "lat": 44.8900682,
-      "lon": 28.725993,
-      "tags": {
-        "addr:street": "Strada Cabanei",
-        "amenity": "school",
-        "building": "yes",
-        "name": "Școala gimnazială Mircea cel Bătrân"
-      }
-    },
-    {
-      "id": "way/842336995",
-      "osm_id": 842336995,
-      "osm_type": "way",
-      "name": "Școala generală Nr. 3 Constantin Brâncoveanu",
-      "category": "education",
-      "lat": 44.8918314,
-      "lon": 28.7270988,
-      "tags": {
-        "amenity": "school",
-        "building": "yes",
-        "name": "Școala generală Nr. 3 Constantin Brâncoveanu"
-      }
-    },
-    {
-      "id": "way/132234786",
-      "osm_id": 132234786,
-      "osm_type": "way",
-      "name": "Geamia Ali-Gazi Pașa",
-      "category": "place_of_worship",
-      "lat": 44.8924174,
-      "lon": 28.7207484,
-      "tags": {
-        "addr:city": "Babadag",
-        "addr:country": "RO",
-        "addr:housenumber": "2",
-        "addr:postcode": "825100",
-        "addr:street": "Strada Geamiei",
-        "alt_name": "Moscheea Babadag",
-        "amenity": "place_of_worship",
-        "building": "yes",
-        "denomination": "sunni",
-        "heritage": "2",
-        "heritage:operator": "lmi",
-        "historic": "yes",
-        "name": "Geamia Ali-Gazi Pașa",
-        "name:pl": "Meczet meczet Gazi Ali Paszy",
-        "ref:RO:lmi": "TL-II-m-A-06000",
-        "religion": "muslim",
-        "start_date": "1619",
-        "tourism": "attraction",
-        "wikipedia": "ro:Geamia_Ali-Gazi_Pașa_din_Babadag"
-      }
-    },
-    {
-      "id": "way/174188956",
-      "osm_id": 174188956,
-      "osm_type": "way",
-      "name": "Cimitir",
-      "category": "place_of_worship",
-      "lat": 44.8934535,
-      "lon": 28.7311627,
-      "tags": {
-        "denomination": "orthodox",
-        "landuse": "cemetery",
-        "name": "Cimitir",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/537994270",
-      "osm_id": 537994270,
-      "osm_type": "way",
-      "name": "Biserica „Sfântul Dumitru\"",
-      "category": "place_of_worship",
-      "lat": 44.8941842,
-      "lon": 28.7270314,
-      "tags": {
-        "addr:city": "Babadag",
-        "amenity": "place_of_worship",
-        "building": "yes",
-        "denomination": "romanian_orthodox",
-        "name": "Biserica „Sfântul Dumitru\"",
-        "religion": "christian",
-        "start_date": "1923"
-      }
-    },
-    {
-      "id": "way/842336155",
-      "osm_id": 842336155,
-      "osm_type": "way",
-      "name": "Biserica „Adormirea Maicii Domnului”",
-      "category": "place_of_worship",
-      "lat": 44.8868365,
-      "lon": 28.7048897,
-      "tags": {
-        "addr:city": "Babadag",
-        "addr:street": "Strada Republicii",
-        "amenity": "place_of_worship",
-        "building": "yes",
-        "denomination": "romanian_orthodox",
-        "name": "Biserica „Adormirea Maicii Domnului”",
-        "religion": "christian",
-        "start_date": "1934"
-      }
-    },
-    {
-      "id": "way/1206338160",
-      "osm_id": 1206338160,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "place_of_worship",
-      "lat": 44.8942884,
-      "lon": 28.7269746,
-      "tags": {
-        "denomination": "romanian_orthodox",
-        "landuse": "religious",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/1206338162",
-      "osm_id": 1206338162,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "place_of_worship",
-      "lat": 44.8868969,
-      "lon": 28.7048968,
-      "tags": {
-        "denomination": "romanian_orthodox",
-        "landuse": "religious",
-        "religion": "christian"
-      }
-    }
-  ]
-}
+  {
+    "id": "node-3610677705",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.8620024,
+    "lng": 28.7710629,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-8628401587",
+    "name": "Superbet",
+    "type": "superbet",
+    "subcategory": "betting",
+    "lat": 44.894059,
+    "lng": 28.724383,
+    "osmType": "node",
+    "brand": "Superbet",
+    "operator": "Superbet Betting & Gaming SA"
+  },
+  {
+    "id": "way-132234786",
+    "name": "Geamia Ali-Gazi Pașa",
+    "type": "church",
+    "subcategory": "muslim",
+    "lat": 44.8924174,
+    "lng": 28.7207484,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-537994270",
+    "name": "Biserica „Sfântul Dumitru\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.8941842,
+    "lng": 28.7270314,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-842336155",
+    "name": "Biserica „Adormirea Maicii Domnului”",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.8868365,
+    "lng": 28.7048897,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-842336961",
+    "name": "Școala gimnazială Mircea cel Bătrân",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.8900682,
+    "lng": 28.725993,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-842336995",
+    "name": "Școala generală Nr. 3 Constantin Brâncoveanu",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.8918314,
+    "lng": 28.7270988,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-1416923032",
+    "name": "Școala Gimnazială Zebil",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.9444925,
+    "lng": 28.7701362,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-1471663068",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.8799944,
+    "lng": 28.8184175,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-1472422518",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.8810891,
+    "lng": 28.8184008,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "relation-20149994",
+    "name": "Biserica Sfânta Treime",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.8810893,
+    "lng": 28.8183844,
+    "osmType": "relation",
+    "brand": null,
+    "operator": null
+  }
+]

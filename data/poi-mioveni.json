@@ -1,289 +1,255 @@
-{
-  "city": "Mioveni",
-  "generated_at": "2026-04-23T09:48:39.767Z",
-  "counts": {
-    "total": 18,
-    "schools": 7,
-    "churches": 11
+[
+  {
+    "id": "node-2521970133",
+    "name": "Școala Generală George Topârceanu",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.9550618,
+    "lng": 24.9308242,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
   },
-  "pois": [
-    {
-      "id": "node/2521970133",
-      "osm_id": 2521970133,
-      "osm_type": "node",
-      "name": "Școala Generală George Topârceanu",
-      "category": "education",
-      "lat": 44.9550618,
-      "lon": 24.9308242,
-      "tags": {
-        "amenity": "school",
-        "name": "Școala Generală George Topârceanu"
-      }
-    },
-    {
-      "id": "node/5267848422",
-      "osm_id": 5267848422,
-      "osm_type": "node",
-      "name": "Grupa steluțelor",
-      "category": "education",
-      "lat": 44.9614683,
-      "lon": 24.9495761,
-      "tags": {
-        "amenity": "kindergarten",
-        "name": "Grupa steluțelor",
-        "opening_hours": "Mo-Fr 07:00-18:00"
-      }
-    },
-    {
-      "id": "way/217618093",
-      "osm_id": 217618093,
-      "osm_type": "way",
-      "name": "Școala Gimnazială Liviu Rebreanu",
-      "category": "education",
-      "lat": 44.9585198,
-      "lon": 24.9434691,
-      "tags": {
-        "addr:housenumber": "3",
-        "addr:street": "Strada Liviu Rebreanu",
-        "amenity": "school",
-        "building": "yes",
-        "name": "Școala Gimnazială Liviu Rebreanu"
-      }
-    },
-    {
-      "id": "way/217631736",
-      "osm_id": 217631736,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 44.9557847,
-      "lon": 24.9325387,
-      "tags": {
-        "building": "kindergarten"
-      }
-    },
-    {
-      "id": "way/838338653",
-      "osm_id": 838338653,
-      "osm_type": "way",
-      "name": "Liceul Tehnologic Construcții de Mașini",
-      "category": "education",
-      "lat": 44.9376704,
-      "lon": 24.9206654,
-      "tags": {
-        "amenity": "school",
-        "name": "Liceul Tehnologic Construcții de Mașini"
-      }
-    },
-    {
-      "id": "way/1082362904",
-      "osm_id": 1082362904,
-      "osm_type": "way",
-      "name": "Liceul Teoretic „Iulia Zamfirescu”",
-      "category": "education",
-      "lat": 44.9615787,
-      "lon": 24.9480621,
-      "tags": {
-        "addr:housenumber": "7",
-        "addr:street": "Strada Petre Zugravul",
-        "amenity": "school",
-        "name": "Liceul Teoretic „Iulia Zamfirescu”",
-        "opening_hours": "Mo-Fr 07:00-18:00"
-      }
-    },
-    {
-      "id": "way/1331555304",
-      "osm_id": 1331555304,
-      "osm_type": "way",
-      "name": "Scoala George Topirceanu(Colibasi)",
-      "category": "education",
-      "lat": 44.9358452,
-      "lon": 24.9063175,
-      "tags": {
-        "amenity": "school",
-        "grades": "0-8",
-        "name": "Scoala George Topirceanu(Colibasi)",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "node/5267844725",
-      "osm_id": 5267844725,
-      "osm_type": "node",
-      "name": "Capela Ortodoxă",
-      "category": "place_of_worship",
-      "lat": 44.9554352,
-      "lon": 24.9450608,
-      "tags": {
-        "amenity": "place_of_worship",
-        "denomination": "orthodox",
-        "name": "Capela Ortodoxă",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "node/7732626885",
-      "osm_id": 7732626885,
-      "osm_type": "node",
-      "name": "Biserica Evanghelică",
-      "category": "place_of_worship",
-      "lat": 44.9558071,
-      "lon": 24.9404139,
-      "tags": {
-        "addr:housenumber": "12",
-        "addr:postcode": "115400",
-        "addr:street": "Strada Automobiliștilor",
-        "amenity": "place_of_worship",
-        "denomination": "evangelical",
-        "email": "bcdemioveni@gmail.com",
-        "name": "Biserica Evanghelică",
-        "opening_hours": "Su 10:00-12:00; Su 18:00-19:30; We 18:00-19:30",
-        "phone": "0040348566121",
-        "religion": "christian",
-        "website": "https://www.bcde.ro/"
-      }
-    },
-    {
-      "id": "node/9238378201",
-      "osm_id": 9238378201,
-      "osm_type": "node",
-      "name": "Mânăstirea Vieroși",
-      "category": "place_of_worship",
-      "lat": 44.9106163,
-      "lon": 24.9242372,
-      "tags": {
-        "amenity": "place_of_worship",
-        "denomination": "orthodox",
-        "name": "Mânăstirea Vieroși",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "node/9919589299",
-      "osm_id": 9919589299,
-      "osm_type": "node",
-      "name": "Fără nume",
-      "category": "place_of_worship",
-      "lat": 44.9693294,
-      "lon": 24.9601988,
-      "tags": {
-        "amenity": "place_of_worship",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/217617263",
-      "osm_id": 217617263,
-      "osm_type": "way",
-      "name": "Biserica Sf Gheorghe",
-      "category": "place_of_worship",
-      "lat": 44.9608245,
-      "lon": 24.93895,
-      "tags": {
-        "amenity": "place_of_worship",
-        "building": "church",
-        "denomination": "orthodox",
-        "name": "Biserica Sf Gheorghe",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/217617272",
-      "osm_id": 217617272,
-      "osm_type": "way",
-      "name": "Catedrala Sfinții Apostoli Petru și Pavel",
-      "category": "place_of_worship",
-      "lat": 44.9576711,
-      "lon": 24.9381037,
-      "tags": {
-        "amenity": "place_of_worship",
-        "building": "church",
-        "denomination": "orthodox",
-        "name": "Catedrala Sfinții Apostoli Petru și Pavel",
-        "name:ro": "Catedrala Sfinții Apostoli Petru și Pavel",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/217623197",
-      "osm_id": 217623197,
-      "osm_type": "way",
-      "name": "Biserica Sfinții Apostoli Petru și Pavel",
-      "category": "place_of_worship",
-      "lat": 44.934016,
-      "lon": 24.9077714,
-      "tags": {
-        "amenity": "place_of_worship",
-        "building": "yes",
-        "denomination": "orthodox",
-        "name": "Biserica Sfinții Apostoli Petru și Pavel",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/217631242",
-      "osm_id": 217631242,
-      "osm_type": "way",
-      "name": "Biserica Ortodoxă",
-      "category": "place_of_worship",
-      "lat": 44.951102,
-      "lon": 24.9291605,
-      "tags": {
-        "amenity": "place_of_worship",
-        "building": "yes",
-        "denomination": "orthodox",
-        "name": "Biserica Ortodoxă",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/1331555304",
-      "osm_id": 1331555304,
-      "osm_type": "way",
-      "name": "Scoala George Topirceanu(Colibasi)",
-      "category": "place_of_worship",
-      "lat": 44.9358452,
-      "lon": 24.9063175,
-      "tags": {
-        "amenity": "school",
-        "grades": "0-8",
-        "name": "Scoala George Topirceanu(Colibasi)",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/1373087588",
-      "osm_id": 1373087588,
-      "osm_type": "way",
-      "name": "Biserica Ortodoxă Sf. Trei Ierarhi",
-      "category": "place_of_worship",
-      "lat": 44.962221,
-      "lon": 24.9521553,
-      "tags": {
-        "addr:housenumber": "8A",
-        "addr:street": "Strada Dealul Viilor",
-        "amenity": "place_of_worship",
-        "building": "yes",
-        "denomination": "orthodox",
-        "name": "Biserica Ortodoxă Sf. Trei Ierarhi",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/1417532951",
-      "osm_id": 1417532951,
-      "osm_type": "way",
-      "name": "Biserică",
-      "category": "place_of_worship",
-      "lat": 44.9785615,
-      "lon": 24.939834,
-      "tags": {
-        "amenity": "place_of_worship",
-        "building": "yes",
-        "height": "7",
-        "name": "Biserică",
-        "religion": "christian"
-      }
-    }
-  ]
-}
+  {
+    "id": "node-3627105683",
+    "name": "Biserica Ortodoxă Enculești",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.9044216,
+    "lng": 24.9468335,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-5267844725",
+    "name": "Capela Ortodoxă",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.9554352,
+    "lng": 24.9450608,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-5267848422",
+    "name": "Grupa steluțelor",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 44.9614683,
+    "lng": 24.9495761,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-7732626885",
+    "name": "Biserica Evanghelică",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.9558071,
+    "lng": 24.9404139,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-8628417723",
+    "name": "Superbet",
+    "type": "superbet",
+    "subcategory": "betting",
+    "lat": 44.9609947,
+    "lng": 24.9451366,
+    "osmType": "node",
+    "brand": null,
+    "operator": "Superbet Betting & Gaming SA"
+  },
+  {
+    "id": "node-8628417823",
+    "name": "Superbet",
+    "type": "superbet",
+    "subcategory": "betting",
+    "lat": 44.9587969,
+    "lng": 24.9411267,
+    "osmType": "node",
+    "brand": null,
+    "operator": "Superbet Betting & Gaming SA"
+  },
+  {
+    "id": "node-8628418042",
+    "name": "Superbet",
+    "type": "superbet",
+    "subcategory": "betting",
+    "lat": 44.955145,
+    "lng": 24.933407,
+    "osmType": "node",
+    "brand": null,
+    "operator": "Superbet Betting & Gaming SA"
+  },
+  {
+    "id": "node-9238378201",
+    "name": "Mânăstirea Vieroși",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.9106163,
+    "lng": 24.9242372,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-9919589191",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.9722081,
+    "lng": 24.9147012,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-9919589299",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.9693294,
+    "lng": 24.9601988,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-217617263",
+    "name": "Biserica Sf Gheorghe",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.9608245,
+    "lng": 24.93895,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-217617272",
+    "name": "Catedrala Sfinții Apostoli Petru și Pavel",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.9576711,
+    "lng": 24.9381037,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-217618093",
+    "name": "Școala Gimnazială Liviu Rebreanu",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.9585198,
+    "lng": 24.9434691,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-217619586",
+    "name": "Spitalul de Urgență",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 44.9611985,
+    "lng": 24.9445894,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-217623197",
+    "name": "Biserica Sfinții Apostoli Petru și Pavel",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.934016,
+    "lng": 24.9077714,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-217631242",
+    "name": "Biserica Ortodoxă",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.951102,
+    "lng": 24.9291605,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-838338653",
+    "name": "Liceul Tehnologic Construcții de Mașini",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.9376704,
+    "lng": 24.9206654,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-1082362904",
+    "name": "Liceul Teoretic „Iulia Zamfirescu”",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.9615787,
+    "lng": 24.9480621,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-1082362912",
+    "name": "Siptalul Mioveni",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 44.9684815,
+    "lng": 24.9613438,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-1331555304",
+    "name": "Scoala George Topirceanu(Colibasi)",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.9358452,
+    "lng": 24.9063175,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-1373087588",
+    "name": "Biserica Ortodoxă Sf. Trei Ierarhi",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.962221,
+    "lng": 24.9521553,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-1417532951",
+    "name": "Biserică",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.9785615,
+    "lng": 24.939834,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  }
+]

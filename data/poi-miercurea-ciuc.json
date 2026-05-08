@@ -1,1827 +1,1520 @@
-{
-  "city": "Miercurea Ciuc",
-  "generated_at": "2026-04-23T09:11:08.888Z",
-  "counts": {
-    "total": 97,
-    "schools": 60,
-    "churches": 37
+[
+  {
+    "id": "node-507944779",
+    "name": "Piarista Tanulmányi Ház",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.367744,
+    "lng": 25.8088144,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
   },
-  "pois": [
-    {
-      "id": "node/1189668407",
-      "osm_id": 1189668407,
-      "osm_type": "node",
-      "name": "Grădinița Str. Toplița",
-      "category": "education",
-      "lat": 46.3776559,
-      "lon": 25.8015268,
-      "tags": {
-        "addr:city": "Miercurea Ciuc",
-        "addr:housenumber": "112",
-        "addr:postcode": "530241",
-        "addr:street": "Strada Toplița",
-        "amenity": "kindergarten",
-        "name": "Grădinița Str. Toplița",
-        "name:hu": "Taplocai Óvoda",
-        "operator": "Municipiul Miercurea-Ciuc"
-      }
-    },
-    {
-      "id": "node/4309206903",
-      "osm_id": 4309206903,
-      "osm_type": "node",
-      "name": "Centrul Educational Spektrum",
-      "category": "education",
-      "lat": 46.3621414,
-      "lon": 25.8039235,
-      "tags": {
-        "amenity": "school",
-        "name": "Centrul Educational Spektrum"
-      }
-    },
-    {
-      "id": "node/5119693160",
-      "osm_id": 5119693160,
-      "osm_type": "node",
-      "name": "Grădinița Cioboteni",
-      "category": "education",
-      "lat": 46.3841858,
-      "lon": 25.833676,
-      "tags": {
-        "addr:city": "Miercurea Ciuc",
-        "addr:housenumber": "64",
-        "addr:street": "Strada Kájoni János",
-        "addr:unit": "530204",
-        "amenity": "kindergarten",
-        "name": "Grădinița Cioboteni",
-        "name:hu": "Csobotfalvi Óvoda"
-      }
-    },
-    {
-      "id": "node/5119693162",
-      "osm_id": 5119693162,
-      "osm_type": "node",
-      "name": "Grădinița Șumuleu",
-      "category": "education",
-      "lat": 46.378325,
-      "lon": 25.8232693,
-      "tags": {
-        "addr:city": "Miercurea Ciuc",
-        "addr:housenumber": "139",
-        "addr:postcode": "530200",
-        "addr:street": "Strada Szék",
-        "amenity": "kindergarten",
-        "name": "Grădinița Șumuleu",
-        "name:hu": "Csíksomlyói Óvoda"
-      }
-    },
-    {
-      "id": "node/13722750073",
-      "osm_id": 13722750073,
-      "osm_type": "node",
-      "name": "Grădiniţa Csipike",
-      "category": "education",
-      "lat": 46.3637911,
-      "lon": 25.8109268,
-      "tags": {
-        "addr:city": "Miercurea Ciuc",
-        "addr:housenumber": "29B",
-        "addr:postcode": "530193",
-        "addr:street": "Strada Iancu de Hunedoara",
-        "amenity": "kindergarten",
-        "education": "kindergarten",
-        "name": "Grădiniţa Csipike",
-        "name:hu": "Csipike ovoda"
-      }
-    },
-    {
-      "id": "way/158513613",
-      "osm_id": 158513613,
-      "osm_type": "way",
-      "name": "Școala Generală \"Nagy Imre\"",
-      "category": "education",
-      "lat": 46.3646001,
-      "lon": 25.8038584,
-      "tags": {
-        "addr:city": "Miercurea Ciuc",
-        "addr:housenumber": "6",
-        "addr:street": "Strada Revoluției din Decembrie",
-        "amenity": "school",
-        "education": "school",
-        "email": "nagy12imre@yahoo.com",
-        "grades": "1-8",
-        "name": "Școala Generală \"Nagy Imre\"",
-        "name:hu": "Nagy Imre Általános Iskola",
-        "phone": "+40 266 310612",
-        "postal_code": "530122",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/217349321",
-      "osm_id": 217349321,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 46.363168,
-      "lon": 25.8108365,
-      "tags": {
-        "building": "school",
-        "building:levels": "4",
-        "height": "23",
-        "roof:shape": "hipped"
-      }
-    },
-    {
-      "id": "way/217349328",
-      "osm_id": 217349328,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 46.3638822,
-      "lon": 25.8108709,
-      "tags": {
-        "amenity": "workshop",
-        "building": "school",
-        "building:levels": "4",
-        "height": "20",
-        "roof:shape": "flat"
-      }
-    },
-    {
-      "id": "way/217350683",
-      "osm_id": 217350683,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 46.3575072,
-      "lon": 25.8039336,
-      "tags": {
-        "building": "school",
-        "building:architecture": "neo-baroque",
-        "building:colour": "#b9ac8a",
-        "building:levels": "3",
-        "height": "15",
-        "roof:colour": "#d3b7ab",
-        "roof:height": "3",
-        "roof:shape": "hipped"
-      }
-    },
-    {
-      "id": "way/224533113",
-      "osm_id": 224533113,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 46.3588266,
-      "lon": 25.7997524,
-      "tags": {
-        "building": "school",
-        "building:levels": "2",
-        "height": "20",
-        "roof:shape": "gabled"
-      }
-    },
-    {
-      "id": "way/258880030",
-      "osm_id": 258880030,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 46.3528012,
-      "lon": 25.8056228,
-      "tags": {
-        "building": "school"
-      }
-    },
-    {
-      "id": "way/258880121",
-      "osm_id": 258880121,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 46.3551852,
-      "lon": 25.8050127,
-      "tags": {
-        "building": "school",
-        "building:levels": "2",
-        "roof:levels": "1",
-        "roof:shape": "hipped"
-      }
-    },
-    {
-      "id": "way/260110400",
-      "osm_id": 260110400,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 46.3628838,
-      "lon": 25.793805,
-      "tags": {
-        "building": "kindergarten",
-        "building:levels": "1"
-      }
-    },
-    {
-      "id": "way/290802948",
-      "osm_id": 290802948,
-      "osm_type": "way",
-      "name": "Grădinița Micimacko",
-      "category": "education",
-      "lat": 46.3586816,
-      "lon": 25.7987537,
-      "tags": {
-        "addr:city": "Miercurea Ciuc",
-        "amenity": "kindergarten",
-        "building": "yes",
-        "name": "Grădinița Micimacko"
-      }
-    },
-    {
-      "id": "way/290802956",
-      "osm_id": 290802956,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 46.3584133,
-      "lon": 25.799333,
-      "tags": {
-        "addr:city": "Miercurea Ciuc",
-        "building": "school",
-        "building:levels": "3",
-        "height": "20",
-        "roof:levels": "1",
-        "roof:shape": "gabled"
-      }
-    },
-    {
-      "id": "way/291290068",
-      "osm_id": 291290068,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 46.364619,
-      "lon": 25.8039267,
-      "tags": {
-        "building": "school",
-        "building:levels": "4",
-        "height": "20",
-        "roof:shape": "hipped"
-      }
-    },
-    {
-      "id": "way/291585893",
-      "osm_id": 291585893,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 46.3539623,
-      "lon": 25.8096488,
-      "tags": {
-        "building": "kindergarten",
-        "building:levels": "2",
-        "height": "12",
-        "roof:height": "2",
-        "roof:levels": "1",
-        "roof:material": "metal_sheet",
-        "roof:shape": "gabled",
-        "source": "local info"
-      }
-    },
-    {
-      "id": "way/291717446",
-      "osm_id": 291717446,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 46.363055,
-      "lon": 25.8097198,
-      "tags": {
-        "amenity": "workshop",
-        "building": "school",
-        "building:levels": "2",
-        "roof:shape": "hipped"
-      }
-    },
-    {
-      "id": "way/292152903",
-      "osm_id": 292152903,
-      "osm_type": "way",
-      "name": "Școala Generală Ady Endre",
-      "category": "education",
-      "lat": 46.3538729,
-      "lon": 25.8113965,
-      "tags": {
-        "amenity": "school",
-        "building": "yes",
-        "building:levels": "3",
-        "education": "school",
-        "height": "25",
-        "name": "Școala Generală Ady Endre",
-        "name:hu": "Ady Endre Általános Iskola",
-        "roof:shape": "gabled"
-      }
-    },
-    {
-      "id": "way/292155647",
-      "osm_id": 292155647,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 46.3522289,
-      "lon": 25.8061465,
-      "tags": {
-        "building": "school"
-      }
-    },
-    {
-      "id": "way/292155659",
-      "osm_id": 292155659,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 46.3523314,
-      "lon": 25.8053071,
-      "tags": {
-        "building": "school",
-        "building:levels": "4",
-        "roof:shape": "hipped"
-      }
-    },
-    {
-      "id": "way/292155665",
-      "osm_id": 292155665,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 46.3521931,
-      "lon": 25.8058201,
-      "tags": {
-        "building": "school"
-      }
-    },
-    {
-      "id": "way/292155676",
-      "osm_id": 292155676,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 46.3520342,
-      "lon": 25.806055,
-      "tags": {
-        "building": "school"
-      }
-    },
-    {
-      "id": "way/292156145",
-      "osm_id": 292156145,
-      "osm_type": "way",
-      "name": "Liceul Tehnologic „Venczel József”",
-      "category": "education",
-      "lat": 46.3712965,
-      "lon": 25.8081883,
-      "tags": {
-        "addr:city": "Miercurea Ciuc",
-        "addr:housenumber": "20",
-        "addr:postcode": "530241",
-        "addr:street": "Strada Toplița",
-        "amenity": "school",
-        "building": "school",
-        "building:levels": "3",
-        "education": "school",
-        "name": "Liceul Tehnologic „Venczel József”",
-        "name:hu": "Venczel József Szakközépiskola",
-        "roof:shape": "hipped"
-      }
-    },
-    {
-      "id": "way/292204327",
-      "osm_id": 292204327,
-      "osm_type": "way",
-      "name": "Grădinița Napsugar",
-      "category": "education",
-      "lat": 46.3591081,
-      "lon": 25.7975616,
-      "tags": {
-        "addr:city": "Miercurea Ciuc",
-        "addr:housenumber": "13",
-        "addr:street": "Strada Mihail Sadoveanu",
-        "amenity": "kindergarten",
-        "building": "yes",
-        "check_date": "2024-06-09",
-        "name": "Grădinița Napsugar"
-      }
-    },
-    {
-      "id": "way/292241975",
-      "osm_id": 292241975,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 46.3559484,
-      "lon": 25.8098358,
-      "tags": {
-        "building": "kindergarten",
-        "building:levels": "2",
-        "roof:shape": "hipped"
-      }
-    },
-    {
-      "id": "way/292261344",
-      "osm_id": 292261344,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 46.3593241,
-      "lon": 25.7994703,
-      "tags": {
-        "building": "kindergarten",
-        "building:levels": "1",
-        "roof:levels": "1",
-        "roof:shape": "hipped"
-      }
-    },
-    {
-      "id": "way/292264619",
-      "osm_id": 292264619,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 46.3776618,
-      "lon": 25.8015541,
-      "tags": {
-        "building": "school",
-        "building:architecture": "neo-baroque",
-        "building:colour": "#b9ac8a",
-        "building:levels": "2",
-        "height": "12",
-        "roof:colour": "#d3b7ab",
-        "roof:shape": "hipped"
-      }
-    },
-    {
-      "id": "way/292264762",
-      "osm_id": 292264762,
-      "osm_type": "way",
-      "name": "Școala Primară Șumuleu",
-      "category": "education",
-      "lat": 46.3783911,
-      "lon": 25.8233678,
-      "tags": {
-        "addr:city": "Miercurea Ciuc",
-        "addr:housenumber": "139",
-        "addr:postcode": "530200",
-        "addr:street": "Strada Szék",
-        "building": "school",
-        "building:levels": "1",
-        "name": "Școala Primară Șumuleu",
-        "name:hu": "Csíksomlyói Elemi Iskola",
-        "roof:shape": "hipped"
-      }
-    },
-    {
-      "id": "way/292355672",
-      "osm_id": 292355672,
-      "osm_type": "way",
-      "name": "Școala Profesionalã Specială Sfânta Ana",
-      "category": "education",
-      "lat": 46.3791943,
-      "lon": 25.8264738,
-      "tags": {
-        "addr:city": "Miercurea Ciuc",
-        "addr:housenumber": "150",
-        "addr:postcode": "530203",
-        "addr:street": "Strada Szék",
-        "building": "school",
-        "building:levels": "2",
-        "name:en": "St. Anne's Special School",
-        "name:hu": "Szent Anna Speciális Szakképző Líceum",
-        "name:ro": "Școala Profesionalã Specială Sfânta Ana",
-        "roof:shape": "gabled"
-      }
-    },
-    {
-      "id": "way/292527225",
-      "osm_id": 292527225,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 46.3704394,
-      "lon": 25.7489681,
-      "tags": {
-        "building": "school",
-        "building:levels": "1",
-        "roof:shape": "hipped"
-      }
-    },
-    {
-      "id": "way/292527986",
-      "osm_id": 292527986,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 46.3414402,
-      "lon": 25.8097831,
-      "tags": {
-        "building": "school",
-        "building:levels": "1"
-      }
-    },
-    {
-      "id": "way/292528358",
-      "osm_id": 292528358,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 46.3842426,
-      "lon": 25.833771,
-      "tags": {
-        "addr:city": "Csíkszereda",
-        "addr:street": "Strada Kájoni János",
-        "building": "school",
-        "building:levels": "1",
-        "roof:shape": "hipped"
-      }
-    },
-    {
-      "id": "way/305174671",
-      "osm_id": 305174671,
-      "osm_type": "way",
-      "name": "Liceul Tehnologic „Joannes Kájoni”",
-      "category": "education",
-      "lat": 46.3702472,
-      "lon": 25.8077636,
-      "tags": {
-        "addr:city": "Miercurea Ciuc",
-        "addr:housenumber": "22",
-        "addr:postcode": "530241",
-        "addr:street": "Strada Toplița",
-        "amenity": "school",
-        "building": "school",
-        "building:levels": "3",
-        "education": "school",
-        "grades": "9-12",
-        "name": "Liceul Tehnologic „Joannes Kájoni”",
-        "name:hu": "Joannes Kájoni Szakközépiskola",
-        "roof:shape": "hipped",
-        "website": "http://www.kajoni.ro/"
-      }
-    },
-    {
-      "id": "way/436853934",
-      "osm_id": 436853934,
-      "osm_type": "way",
-      "name": "Angyalkert",
-      "category": "education",
-      "lat": 46.363866,
-      "lon": 25.7983111,
-      "tags": {
-        "amenity": "kindergarten",
-        "name": "Angyalkert",
-        "name:hu": "Angyalkert óvoda és bölcsőde"
-      }
-    },
-    {
-      "id": "way/437250056",
-      "osm_id": 437250056,
-      "osm_type": "way",
-      "name": "Colegiul Național „Márton Áron”",
-      "category": "education",
-      "lat": 46.367965,
-      "lon": 25.8078636,
-      "tags": {
-        "addr:city": "Miercurea Ciuc",
-        "addr:housename": "Liceul Teoretic „Márton Áron”",
-        "addr:housenumber": "80",
-        "addr:street": "Strada Márton Áron",
-        "amenity": "school",
-        "contact:email": "mag_suli@yahoo.com",
-        "contact:phone": "+40 266 312444",
-        "contact:website": "http://www.mag.ro",
-        "name": "Colegiul Național „Márton Áron”",
-        "name:hu": "Márton Áron Főgimnázium",
-        "source:name": "http://www.mag.ro/userfiles/files/Colegiu%20National.pdf",
-        "wikidata": "Q1212435",
-        "wikipedia": "hu:Márton Áron Főgimnázium"
-      }
-    },
-    {
-      "id": "way/437250057",
-      "osm_id": 437250057,
-      "osm_type": "way",
-      "name": "Colegiul Național „Márton Áron”",
-      "category": "education",
-      "lat": 46.3676029,
-      "lon": 25.806854,
-      "tags": {
-        "addr:city": "Miercurea Ciuc",
-        "addr:housenumber": "80",
-        "addr:street": "Strada Márton Áron",
-        "architect": "Alpár Ignác",
-        "building": "school",
-        "building:colour": "#dbd4c4",
-        "building:levels": "4",
-        "height": "26",
-        "name": "Colegiul Național „Márton Áron”",
-        "name:hu": "Márton Áron Főgimnázium",
-        "roof:colour": "#ce6146",
-        "roof:height": "4",
-        "roof:shape": "hipped"
-      }
-    },
-    {
-      "id": "way/526410374",
-      "osm_id": 526410374,
-      "osm_type": "way",
-      "name": "Liceul de Arte \"Nagy István\"",
-      "category": "education",
-      "lat": 46.3618077,
-      "lon": 25.8029919,
-      "tags": {
-        "addr:city": "Miercurea Ciuc",
-        "addr:housenumber": "18",
-        "addr:postcode": "530140",
-        "addr:street": "Piața Libertății",
-        "amenity": "school",
-        "education": "school",
-        "name": "Liceul de Arte \"Nagy István\"",
-        "name:hu": "Nagy István Művészeti Középiskola",
-        "operator": "Municipiul Miercurea-Ciuc"
-      }
-    },
-    {
-      "id": "way/526488322",
-      "osm_id": 526488322,
-      "osm_type": "way",
-      "name": "Școala Primară Cioboteni",
-      "category": "education",
-      "lat": 46.3840482,
-      "lon": 25.8339169,
-      "tags": {
-        "addr:city": "Miercurea Ciuc",
-        "addr:housenumber": "64",
-        "addr:street": "Strada Kájoni János",
-        "addr:unit": "530204",
-        "amenity": "school",
-        "name": "Școala Primară Cioboteni",
-        "name:hu": "Csobotfalvi Elemi Iskola"
-      }
-    },
-    {
-      "id": "way/526488326",
-      "osm_id": 526488326,
-      "osm_type": "way",
-      "name": "Școala Gimnazială „Xántus János”",
-      "category": "education",
-      "lat": 46.377515,
-      "lon": 25.8016767,
-      "tags": {
-        "addr:city": "Miercurea Ciuc",
-        "addr:housenumber": "112",
-        "addr:postcode": "530241",
-        "addr:street": "Strada Toplița",
-        "amenity": "school",
-        "grades": "1-8",
-        "name": "Școala Gimnazială „Xántus János”",
-        "name:hu": "Xántus János Általános Iskola",
-        "operator": "Municipiul Miercurea-Ciuc",
-        "operator:type": "public/government"
-      }
-    },
-    {
-      "id": "way/526488330",
-      "osm_id": 526488330,
-      "osm_type": "way",
-      "name": "Liceul Tehnologic „Székely Károly”",
-      "category": "education",
-      "lat": 46.3632955,
-      "lon": 25.8104556,
-      "tags": {
-        "addr:city": "Miercurea Ciuc",
-        "addr:housenumber": "31",
-        "addr:postcode": "530193",
-        "addr:street": "Strada Iancu de Hunedoara",
-        "amenity": "school",
-        "email": "info@szekelykaroly.ro",
-        "name": "Liceul Tehnologic „Székely Károly”",
-        "name:hu": "Székely Károly Szakközépiskola",
-        "operator": "Municipiul Miercurea-Ciuc",
-        "phone": "+40 266 310627",
-        "website": "https://szekelykaroly.ro/"
-      }
-    },
-    {
-      "id": "way/526488335",
-      "osm_id": 526488335,
-      "osm_type": "way",
-      "name": "Colegiul Național “Octavian Goga”",
-      "category": "education",
-      "lat": 46.3525212,
-      "lon": 25.8057657,
-      "tags": {
-        "addr:city": "Miercurea Ciuc",
-        "addr:housenumber": "40",
-        "addr:street": "Strada Tudor Vladimirescu",
-        "amenity": "school",
-        "email": "cn.octaviangoga@eduhr.ro",
-        "fax": "+40 266 312570",
-        "name": "Colegiul Național “Octavian Goga”",
-        "operator": "Municipiul Miercurea-Ciuc",
-        "phone": "+40 266 312570"
-      }
-    },
-    {
-      "id": "way/526488339",
-      "osm_id": 526488339,
-      "osm_type": "way",
-      "name": "Școala Gimnazială „Liviu Rebreanu”",
-      "category": "education",
-      "lat": 46.3586225,
-      "lon": 25.7994408,
-      "tags": {
-        "addr:city": "Miercurea Ciuc",
-        "addr:housenumber": "2",
-        "addr:postcode": "530133",
-        "addr:street": "Strada Patinoarului",
-        "amenity": "school",
-        "barrier": "fence",
-        "fence_type": "metal_bars",
-        "name": "Școala Gimnazială „Liviu Rebreanu”",
-        "name:hu": "Liviu Rebreanu Általános Iskola"
-      }
-    },
-    {
-      "id": "way/530364648",
-      "osm_id": 530364648,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 46.3711506,
-      "lon": 25.806163,
-      "tags": {
-        "building": "school",
-        "building:levels": "3",
-        "roof:shape": "hipped"
-      }
-    },
-    {
-      "id": "way/540001261",
-      "osm_id": 540001261,
-      "osm_type": "way",
-      "name": "Școala Gimnazială „József Attila”",
-      "category": "education",
-      "lat": 46.3552437,
-      "lon": 25.8049707,
-      "tags": {
-        "addr:city": "Miercurea Ciuc",
-        "addr:housenumber": "1",
-        "addr:postcode": "530112",
-        "addr:street": "Strada Miron Cristea",
-        "amenity": "school",
-        "contact:email": "igazgatosag@jozsefattilaiskola.ro",
-        "contact:fax": "+40 266 317445",
-        "contact:phone": "+40 266-314644",
-        "contact:website": "http://jozsefattilaiskola.ro/",
-        "education": "school",
-        "name": "Școala Gimnazială „József Attila”",
-        "name:hu": "József Attila Általános Iskola"
-      }
-    },
-    {
-      "id": "way/540001262",
-      "osm_id": 540001262,
-      "osm_type": "way",
-      "name": "Școala Generală Petőfi Sándor",
-      "category": "education",
-      "lat": 46.3576829,
-      "lon": 25.8040958,
-      "tags": {
-        "addr:city": "Miercurea Ciuc",
-        "addr:housenumber": "40",
-        "addr:postcode": "530210",
-        "addr:street": "Strada Petőfi Sándor",
-        "amenity": "school",
-        "contact:email": "petofiiskola1880@gmail.com",
-        "contact:fax": "+40 266 310824",
-        "contact:phone": "+40 266 310824",
-        "contact:website": "https://www.petofiiskola.ro",
-        "education": "school",
-        "name": "Școala Generală Petőfi Sándor",
-        "name:hu": "Petőfi Sándor Általános Iskola"
-      }
-    },
-    {
-      "id": "way/540001263",
-      "osm_id": 540001263,
-      "osm_type": "way",
-      "name": "Școala Populară de Artă",
-      "category": "education",
-      "lat": 46.3614331,
-      "lon": 25.8045487,
-      "tags": {
-        "amenity": "school",
-        "building": "school",
-        "building:levels": "3",
-        "name": "Școala Populară de Artă",
-        "name:hu": "Népművészeti iskola",
-        "roof:levels": "1",
-        "roof:shape": "gabled"
-      }
-    },
-    {
-      "id": "way/540065347",
-      "osm_id": 540065347,
-      "osm_type": "way",
-      "name": "Grădinița \"Napraforgó\"",
-      "category": "education",
-      "lat": 46.363003,
-      "lon": 25.7939995,
-      "tags": {
-        "addr:city": "Miercurea Ciuc",
-        "addr:housenumber": "34",
-        "addr:postcode": "530154",
-        "addr:street": "Strada Harghita",
-        "amenity": "kindergarten",
-        "barrier": "fence",
-        "fence_type": "wood_panel",
-        "name": "Grădinița \"Napraforgó\"",
-        "name:hu": "Napraforgó Napközi Otthon",
-        "phone": "+40 266 324037"
-      }
-    },
-    {
-      "id": "way/1136455493",
-      "osm_id": 1136455493,
-      "osm_type": "way",
-      "name": "Şcoala Primară Harghita-Băi",
-      "category": "education",
-      "lat": 46.3853332,
-      "lon": 25.6369287,
-      "tags": {
-        "amenity": "school",
-        "building": "yes",
-        "name": "Şcoala Primară Harghita-Băi"
-      }
-    },
-    {
-      "id": "way/1147612416",
-      "osm_id": 1147612416,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 46.3635458,
-      "lon": 25.795384,
-      "tags": {
-        "addr:city": "Miercurea Ciuc",
-        "addr:housenumber": "6",
-        "addr:street": "Strada Lunca Mare",
-        "building": "kindergarten",
-        "building:levels": "2"
-      }
-    },
-    {
-      "id": "way/1147617759",
-      "osm_id": 1147617759,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 46.3639082,
-      "lon": 25.798217,
-      "tags": {
-        "building": "kindergarten",
-        "building:levels": "2",
-        "height": "8",
-        "roof:height": "3",
-        "roof:shape": "gambrel"
-      }
-    },
-    {
-      "id": "way/1182656810",
-      "osm_id": 1182656810,
-      "osm_type": "way",
-      "name": "Aranyalma",
-      "category": "education",
-      "lat": 46.355981,
-      "lon": 25.809847,
-      "tags": {
-        "addr:city": "Miercurea Ciuc",
-        "addr:housenumber": "6",
-        "addr:street": "Aleea Copiilor",
-        "amenity": "kindergarten",
-        "barrier": "fence",
-        "fence_type": "metal_bars",
-        "name": "Aranyalma",
-        "name:hu": "Aranyalma óvoda",
-        "name:ro": "Grădiniţa Aranyalma"
-      }
-    },
-    {
-      "id": "way/1219967166",
-      "osm_id": 1219967166,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 46.3791436,
-      "lon": 25.8265187,
-      "tags": {
-        "amenity": "school",
-        "barrier": "fence",
-        "fence_type": "wood_panel",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/1222076722",
-      "osm_id": 1222076722,
-      "osm_type": "way",
-      "name": "Școala Primară Subpădure",
-      "category": "education",
-      "lat": 46.3703589,
-      "lon": 25.7489966,
-      "tags": {
-        "amenity": "school",
-        "barrier": "fence",
-        "fence_type": "paling",
-        "grades": "0-4",
-        "name": "Școala Primară Subpădure",
-        "name:hu": "Erdőaljai Elemi Iskola"
-      }
-    },
-    {
-      "id": "way/1226703591",
-      "osm_id": 1226703591,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 46.3840097,
-      "lon": 25.6360748,
-      "tags": {
-        "amenity": "school"
-      }
-    },
-    {
-      "id": "way/1228935486",
-      "osm_id": 1228935486,
-      "osm_type": "way",
-      "name": "Grădiniţa Napocska",
-      "category": "education",
-      "lat": 46.3635019,
-      "lon": 25.7953643,
-      "tags": {
-        "addr:city": "Miercurea Ciuc",
-        "addr:housenumber": "6",
-        "addr:street": "Strada Lunca Mare",
-        "amenity": "kindergarten",
-        "name": "Grădiniţa Napocska",
-        "name:hu": "Napocska Napköziotthon",
-        "name:ro": "Grădiniţa Napocska",
-        "website": "https://www.napocska.ro/"
-      }
-    },
-    {
-      "id": "way/1229877130",
-      "osm_id": 1229877130,
-      "osm_type": "way",
-      "name": "Grădinița Raza de Soare",
-      "category": "education",
-      "lat": 46.3592211,
-      "lon": 25.7994969,
-      "tags": {
-        "addr:city": "Miercurea Ciuc",
-        "addr:housenumber": "1",
-        "addr:street": "Strada Mihail Sadoveanu",
-        "amenity": "kindergarten",
-        "barrier": "fence",
-        "fence_type": "wood_panel",
-        "name": "Grădinița Raza de Soare",
-        "name:hu": "Napsugár ovoda"
-      }
-    },
-    {
-      "id": "way/1239395342",
-      "osm_id": 1239395342,
-      "osm_type": "way",
-      "name": "Grădinița Kis Herceg",
-      "category": "education",
-      "lat": 46.3540657,
-      "lon": 25.8097956,
-      "tags": {
-        "addr:city": "Miercurea Ciuc",
-        "addr:housenumber": "1",
-        "addr:postcode": "530181",
-        "addr:street": "Aleea Avântului",
-        "amenity": "kindergarten",
-        "name": "Grădinița Kis Herceg",
-        "name:hu": "Kis Herceg Óvoda",
-        "phone": "0266 317295",
-        "start_date": "1976",
-        "website": "https://kishercegovoda.ro/"
-      }
-    },
-    {
-      "id": "relation/3882791",
-      "osm_id": 3882791,
-      "osm_type": "relation",
-      "name": "Liceul Tehnologic „Kós Károly”",
-      "category": "education",
-      "lat": 46.3697882,
-      "lon": 25.8070097,
-      "tags": {
-        "addr:city": "Miercurea Ciuc",
-        "addr:housenumber": "22",
-        "addr:postcode": "530241",
-        "addr:street": "Strada Toplița",
-        "amenity": "school",
-        "building": "school",
-        "building:levels": "1",
-        "education": "school",
-        "name": "Liceul Tehnologic „Kós Károly”",
-        "name:hu": "Kós Károly Szakközépiskola",
-        "roof:shape": "hipped",
-        "type": "multipolygon",
-        "website": "http://koskaroly.ro/"
-      }
-    },
-    {
-      "id": "relation/16017084",
-      "osm_id": 16017084,
-      "osm_type": "relation",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 46.3619616,
-      "lon": 25.8032803,
-      "tags": {
-        "building": "school",
-        "building:levels": "4",
-        "height": "20",
-        "roof:shape": "hipped",
-        "type": "multipolygon"
-      }
-    },
-    {
-      "id": "node/507944779",
-      "osm_id": 507944779,
-      "osm_type": "node",
-      "name": "Piarista Tanulmányi Ház",
-      "category": "place_of_worship",
-      "lat": 46.367744,
-      "lon": 25.8088144,
-      "tags": {
-        "amenity": "place_of_worship",
-        "denomination": "catholic",
-        "name": "Piarista Tanulmányi Ház",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "node/8558287385",
-      "osm_id": 8558287385,
-      "osm_type": "node",
-      "name": "Szent Kinga misézőhely",
-      "category": "place_of_worship",
-      "lat": 46.3429541,
-      "lon": 25.7652621,
-      "tags": {
-        "amenity": "place_of_worship",
-        "denomination": "roman_catholic",
-        "fixme": "Csíkszereda-Szécsenyben valahol",
-        "name": "Szent Kinga misézőhely",
-        "religion": "christian",
-        "url:miserend": "https://miserend.hu/templom/3555"
-      }
-    },
-    {
-      "id": "way/153244994",
-      "osm_id": 153244994,
-      "osm_type": "way",
-      "name": "Capela Salvator",
-      "category": "place_of_worship",
-      "lat": 46.377498,
-      "lon": 25.8331349,
-      "tags": {
-        "amenity": "place_of_worship",
-        "building": "chapel",
-        "denomination": "roman_catholic",
-        "name": "Capela Salvator",
-        "name:en": "Chapel Salvator",
-        "name:hu": "Salvator-kápolna",
-        "opening_hours": "Mo-Sa 11:00-17:00; Su 14:00-17:00",
-        "operator": "OFM, Ordo Fratrum Minorum franciskanus",
-        "religion": "christian",
-        "wikidata": "Q875990",
-        "wikipedia": "hu:Csíksomlyói Salvator-kápolna"
-      }
-    },
-    {
-      "id": "way/153244995",
-      "osm_id": 153244995,
-      "osm_type": "way",
-      "name": "Altarul triplu",
-      "category": "place_of_worship",
-      "lat": 46.37751,
-      "lon": 25.8344888,
-      "tags": {
-        "addr:city": "Șumuleu Ciuc",
-        "amenity": "place_of_worship",
-        "architect": "hu:Makovecz Imre",
-        "building": "chapel",
-        "denomination": "catholic",
-        "description:hu": "Csíksomlyói szabadtéri oltár",
-        "name": "Altarul triplu",
-        "name:en": "Triple altar",
-        "name:hu": "Hármasoltár",
-        "operator": "OFM, Ordo Fratrum Minorum franciskanus",
-        "religion": "christian",
-        "website": "http://www.csiksomlyo.ro",
-        "wikidata": "Q104207959"
-      }
-    },
-    {
-      "id": "way/153244997",
-      "osm_id": 153244997,
-      "osm_type": "way",
-      "name": "Bazilica Franciscană Sfânta Maria",
-      "category": "place_of_worship",
-      "lat": 46.3787237,
-      "lon": 25.8252799,
-      "tags": {
-        "addr:city": "Miercurea Ciuc",
-        "addr:housenumber": "148",
-        "addr:postcode": "530203",
-        "addr:street": "Strada Szék",
-        "alt_name": "Csíksomlyói Kegytemplom",
-        "amenity": "place_of_worship",
-        "architect": "Konstantin Schmidt",
-        "building": "church",
-        "building:architecture": "neo-baroque",
-        "building:levels": "1",
-        "denomination": "roman_catholic",
-        "height": "20",
-        "name:en": "Visitation of Our Lady Church",
-        "name:hu": "Sarlós Boldogasszony kegytemplom",
-        "name:ro": "Bazilica Franciscană Sfânta Maria",
-        "operator": "OFM, Ordo Fratrum Minorum franciskanus",
-        "religion": "christian",
-        "roof:height": "4",
-        "roof:shape": "hipped",
-        "start_date": "1876",
-        "url:miserend": "http://miserend.hu/?templom=3548",
-        "website": "http://www.csiksomlyo.ro",
-        "wikidata": "Q876011",
-        "wikipedia": "hu:Csíksomlyói kegytemplom és kolostor"
-      }
-    },
-    {
-      "id": "way/158513613",
-      "osm_id": 158513613,
-      "osm_type": "way",
-      "name": "Școala Generală \"Nagy Imre\"",
-      "category": "place_of_worship",
-      "lat": 46.3646001,
-      "lon": 25.8038584,
-      "tags": {
-        "addr:city": "Miercurea Ciuc",
-        "addr:housenumber": "6",
-        "addr:street": "Strada Revoluției din Decembrie",
-        "amenity": "school",
-        "education": "school",
-        "email": "nagy12imre@yahoo.com",
-        "grades": "1-8",
-        "name": "Școala Generală \"Nagy Imre\"",
-        "name:hu": "Nagy Imre Általános Iskola",
-        "phone": "+40 266 310612",
-        "postal_code": "530122",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/217349329",
-      "osm_id": 217349329,
-      "osm_type": "way",
-      "name": "Biserica Romano-Catolică Sfântul Augustin",
-      "category": "place_of_worship",
-      "lat": 46.3629617,
-      "lon": 25.8085795,
-      "tags": {
-        "addr:city": "Miercurea Ciuc",
-        "addr:housenumber": "45/B/3",
-        "addr:postcode": "530194",
-        "addr:street": "Strada Iancu de Hunedoara",
-        "amenity": "place_of_worship",
-        "building": "church",
-        "denomination": "roman_catholic",
-        "height": "20",
-        "name": "Biserica Romano-Catolică Sfântul Augustin",
-        "name:hu": "Szent Ágoston püspök-templom",
-        "religion": "christian",
-        "roof:shape": "hipped",
-        "url:miserend": "http://miserend.hu/?templom=3558"
-      }
-    },
-    {
-      "id": "way/217349802",
-      "osm_id": 217349802,
-      "osm_type": "way",
-      "name": "Biserica \"Sfinții Apostoli Petru, Pavel și Andrei\"",
-      "category": "place_of_worship",
-      "lat": 46.3599826,
-      "lon": 25.802322,
-      "tags": {
-        "amenity": "place_of_worship",
-        "building": "church",
-        "denomination": "romanian_orthodox",
-        "height": "7",
-        "name": "Biserica \"Sfinții Apostoli Petru, Pavel și Andrei\"",
-        "name:hu": "Szent Péter, Pál és András apostolok ortodox templom",
-        "religion": "christian",
-        "source": "jonutzu@gpszone.ro"
-      }
-    },
-    {
-      "id": "way/224539481",
-      "osm_id": 224539481,
-      "osm_type": "way",
-      "name": "Biserica Mileniului",
-      "category": "place_of_worship",
-      "lat": 46.3622763,
-      "lon": 25.7971515,
-      "tags": {
-        "addr:city": "Miercurea Ciuc",
-        "addr:housenumber": "38",
-        "addr:postcode": "530230",
-        "addr:street": "Strada Kossuth Lajos",
-        "amenity": "place_of_worship",
-        "architect": "Makovecz Imre",
-        "building": "church",
-        "denomination": "roman_catholic",
-        "height": "18",
-        "name": "Biserica Mileniului",
-        "name:en": "Millennium church",
-        "name:hu": "Millenniumi templom",
-        "religion": "christian",
-        "roof:shape": "half-hipped",
-        "url:miserend": "http://miserend.hu/templom/3553",
-        "wikidata": "Q1177278",
-        "wikipedia": "hu:Millenniumi templom (Csíkszereda)"
-      }
-    },
-    {
-      "id": "way/290606968",
-      "osm_id": 290606968,
-      "osm_type": "way",
-      "name": "Cimitirul vechi",
-      "category": "place_of_worship",
-      "lat": 46.3609074,
-      "lon": 25.794429,
-      "tags": {
-        "barrier": "fence",
-        "denomination": "roman_catholic",
-        "fence_type": "bars",
-        "landuse": "cemetery",
-        "name": "Cimitirul vechi",
-        "name:hu": "Régi temető",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/291279125",
-      "osm_id": 291279125,
-      "osm_type": "way",
-      "name": "Biserica Reformată Nouă",
-      "category": "place_of_worship",
-      "lat": 46.3638183,
-      "lon": 25.8060584,
-      "tags": {
-        "addr:city": "Miercurea Ciuc",
-        "amenity": "place_of_worship",
-        "building": "church",
-        "denomination": "reformed",
-        "height": "25",
-        "name": "Biserica Reformată Nouă",
-        "name:hu": "Csíkszeredai református templom",
-        "religion": "christian",
-        "roof:shape": "hipped"
-      }
-    },
-    {
-      "id": "way/292157690",
-      "osm_id": 292157690,
-      "osm_type": "way",
-      "name": "Catedrala Episcopală a Covasnei si Harghitei",
-      "category": "place_of_worship",
-      "lat": 46.3567193,
-      "lon": 25.8032585,
-      "tags": {
-        "amenity": "place_of_worship",
-        "building": "cathedral",
-        "building:colour": "white",
-        "denomination": "romanian_orthodox",
-        "name": "Catedrala Episcopală a Covasnei si Harghitei",
-        "name:hu": "Szent Miklós ortodox székesegyház",
-        "religion": "christian",
-        "roof:colour": "grey",
-        "roof:material": "metal",
-        "website": "http://www.episcopiacvhr.ro/catedrala/",
-        "wikipedia": "ro:Catedrala „Sfântul Nicolae” din Miercurea Ciuc"
-      }
-    },
-    {
-      "id": "way/292205451",
-      "osm_id": 292205451,
-      "osm_type": "way",
-      "name": "Cimitir Jigodin",
-      "category": "place_of_worship",
-      "lat": 46.3435333,
-      "lon": 25.8113073,
-      "tags": {
-        "denomination": "roman_catholic",
-        "landuse": "cemetery",
-        "name": "Cimitir Jigodin",
-        "name:hu": "Zsögödi temető",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/292456121",
-      "osm_id": 292456121,
-      "osm_type": "way",
-      "name": "Szent Klára Ház",
-      "category": "place_of_worship",
-      "lat": 46.3785471,
-      "lon": 25.8266391,
-      "tags": {
-        "addr:city": "Csíkszereda",
-        "addr:housenumber": "4",
-        "addr:street": "Kissomlyó",
-        "building": "church",
-        "building:levels": "1",
-        "name": "Szent Klára Ház"
-      }
-    },
-    {
-      "id": "way/292482045",
-      "osm_id": 292482045,
-      "osm_type": "way",
-      "name": "Biserica Tuturor Sfințiilor",
-      "category": "place_of_worship",
-      "lat": 46.3779077,
-      "lon": 25.8019561,
-      "tags": {
-        "addr:city": "Miercurea Ciuc",
-        "addr:postcode": "530240",
-        "addr:street": "Strada Toplița",
-        "amenity": "place_of_worship",
-        "building": "church",
-        "denomination": "catholic",
-        "name": "Biserica Tuturor Sfințiilor",
-        "name:hu": "Mindenszentek plébániatemplom",
-        "religion": "christian",
-        "roof:height": "5",
-        "roof:shape": "hipped",
-        "url:miserend": "http://miserend.hu/templom/3560"
-      }
-    },
-    {
-      "id": "way/292484587",
-      "osm_id": 292484587,
-      "osm_type": "way",
-      "name": "Biserica Romano-Catolică Înălțarea Sfintei Cruci",
-      "category": "place_of_worship",
-      "lat": 46.3617486,
-      "lon": 25.7971636,
-      "tags": {
-        "addr:city": "Miercurea Ciuc",
-        "addr:housenumber": "38",
-        "addr:postcode": "530230",
-        "addr:street": "Strada Kossuth Lajos",
-        "amenity": "place_of_worship",
-        "building": "church",
-        "denomination": "roman_catholic",
-        "height": "13",
-        "heritage": "2",
-        "heritage:operator": "lmi",
-        "name": "Biserica Romano-Catolică Înălțarea Sfintei Cruci",
-        "name:hu": "Szent Kereszt felmagasztalása templom",
-        "ref:RO:lmi": "HR-II-m-B-12735.01",
-        "religion": "christian",
-        "roof:height": "6",
-        "roof:shape": "hipped",
-        "url:miserend": "http://miserend.hu/templom/4789",
-        "wikidata": "Q259131",
-        "wikipedia": "hu:Szent Kereszt-templom (Csíkszereda)"
-      }
-    },
-    {
-      "id": "way/292527774",
-      "osm_id": 292527774,
-      "osm_type": "way",
-      "name": "Capela Szent Antal",
-      "category": "place_of_worship",
-      "lat": 46.3760163,
-      "lon": 25.8305133,
-      "tags": {
-        "amenity": "place_of_worship",
-        "building": "chapel",
-        "denomination": "roman_catholic",
-        "name": "Capela Szent Antal",
-        "name:hu": "Szent Antal kápolna",
-        "operator": "OFM, Ordo Fratrum Minorum franciskanus",
-        "religion": "christian",
-        "wheelchair": "yes",
-        "wikidata": "Q875993",
-        "wikipedia": "hu:Csíksomlyói Szent Antal-kápolna"
-      }
-    },
-    {
-      "id": "way/292527887",
-      "osm_id": 292527887,
-      "osm_type": "way",
-      "name": "Szent Korona-kápolna",
-      "category": "place_of_worship",
-      "lat": 46.3757651,
-      "lon": 25.8291217,
-      "tags": {
-        "amenity": "place_of_worship",
-        "building": "chapel",
-        "denomination": "roman_catholic",
-        "description": "Lábain faragott rovás feliratokon Szűz Mária ünnepeinkre utaló Boldogasszony nevek vannak.",
-        "material": "wood",
-        "name": "Szent Korona-kápolna",
-        "operator": "OFM, Ordo Fratrum Minorum franciskanus",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/292528259",
-      "osm_id": 292528259,
-      "osm_type": "way",
-      "name": "Szent Péter és Pál plébániatemplom",
-      "category": "place_of_worship",
-      "lat": 46.3843554,
-      "lon": 25.8315683,
-      "tags": {
-        "addr:city": "Csíkszereda",
-        "addr:street": "Strada Kájoni János",
-        "addr:suburb": "Csobotfalva",
-        "amenity": "place_of_worship",
-        "building": "church",
-        "denomination": "roman_catholic",
-        "heritage": "2",
-        "heritage:operator": "lmi",
-        "name": "Szent Péter és Pál plébániatemplom",
-        "ref:RO:lmi": "HR-II-a-A-12724.01",
-        "religion": "christian",
-        "url:miserend": "http://miserend.hu/?templom=3543",
-        "wheelchair": "limited",
-        "wikidata": "Q875994",
-        "wikipedia": "hu:Szent Péter és Pál-plébániatemplom (Csobotfalva)"
-      }
-    },
-    {
-      "id": "way/292544404",
-      "osm_id": 292544404,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "place_of_worship",
-      "lat": 46.3455039,
-      "lon": 25.7795359,
-      "tags": {
-        "amenity": "place_of_worship",
-        "building": "chapel",
-        "denomination": "roman_catholic",
-        "name:hu": "Árpádházi Szent Kinga katolikus deszkatemplom",
-        "religion": "christian",
-        "source": "https://szekelyhon.ro/aktualis/elloptak-a-szecsenyi-templom-harangjat"
-      }
-    },
-    {
-      "id": "way/292547008",
-      "osm_id": 292547008,
-      "osm_type": "way",
-      "name": "Biserica romano-catolică Sfânta Treime",
-      "category": "place_of_worship",
-      "lat": 46.3423904,
-      "lon": 25.8115416,
-      "tags": {
-        "addr:city": "Miercurea Ciuc",
-        "addr:street": "Strada Jigodin",
-        "amenity": "place_of_worship",
-        "building": "church",
-        "denomination": "roman_catholic",
-        "height": "8",
-        "heritage": "2",
-        "heritage:operator": "lmi",
-        "name": "Biserica romano-catolică Sfânta Treime",
-        "name:hu": "Szentháromság-templom",
-        "ref:RO:lmi": "HR-II-m-A-12738.01",
-        "religion": "christian",
-        "roof:shape": "hipped",
-        "url:miserend": "http://miserend.hu/?templom=3568",
-        "wikidata": "Q876137",
-        "wikipedia": "hu:Csíkzsögödi római katolikus templom"
-      }
-    },
-    {
-      "id": "way/305857528",
-      "osm_id": 305857528,
-      "osm_type": "way",
-      "name": "Cimitir Cioboteni",
-      "category": "place_of_worship",
-      "lat": 46.3838037,
-      "lon": 25.8304774,
-      "tags": {
-        "amenity": "grave_yard",
-        "denomination": "roman_catholic",
-        "name": "Cimitir Cioboteni",
-        "name:hu": "Csobotfalvi temető",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/337626958",
-      "osm_id": 337626958,
-      "osm_type": "way",
-      "name": "Cimitir catolic noua",
-      "category": "place_of_worship",
-      "lat": 46.3642258,
-      "lon": 25.8134693,
-      "tags": {
-        "barrier": "fence",
-        "denomination": "catholic",
-        "fence_type": "chain_link",
-        "landuse": "cemetery",
-        "name:hu": "Új temető",
-        "name:ro": "Cimitir catolic noua",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/370321944",
-      "osm_id": 370321944,
-      "osm_type": "way",
-      "name": "Cimitir str. Leliceni",
-      "category": "place_of_worship",
-      "lat": 46.3573698,
-      "lon": 25.8133851,
-      "tags": {
-        "barrier": "fence",
-        "denomination": "roman_catholic",
-        "fence_type": "chain_link",
-        "landuse": "cemetery",
-        "name": "Cimitir str. Leliceni",
-        "name:hu": "Szentlélek utcai temető",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/376694544",
-      "osm_id": 376694544,
-      "osm_type": "way",
-      "name": "Kálvária",
-      "category": "place_of_worship",
-      "lat": 46.3780062,
-      "lon": 25.831496,
-      "tags": {
-        "denomination": "roman_catholic",
-        "landuse": "grass",
-        "name": "Kálvária",
-        "name:en": "Calvary",
-        "natural": "grassland",
-        "operator": "OFM, Ordo Fratrum Minorum franciskanus",
-        "religion": "christian",
-        "website": "http://www.csiksomlyo.ro",
-        "wikidata": "Q1102686",
-        "wikipedia": "hu:Jézus-hágója"
-      }
-    },
-    {
-      "id": "way/376768428",
-      "osm_id": 376768428,
-      "osm_type": "way",
-      "name": "Nepomuki Szt. János kápolna",
-      "category": "place_of_worship",
-      "lat": 46.3780333,
-      "lon": 25.8247019,
-      "tags": {
-        "amenity": "place_of_worship",
-        "building": "chapel",
-        "denomination": "roman_catholic",
-        "name": "Nepomuki Szt. János kápolna",
-        "religion": "christian",
-        "source": "survey, Bing"
-      }
-    },
-    {
-      "id": "way/376768853",
-      "osm_id": 376768853,
-      "osm_type": "way",
-      "name": "Capela Suferința lui Isus",
-      "category": "place_of_worship",
-      "lat": 46.3776732,
-      "lon": 25.8333724,
-      "tags": {
-        "amenity": "place_of_worship",
-        "building": "chapel",
-        "denomination": "roman_catholic",
-        "name": "Capela Suferința lui Isus",
-        "name:en": "Suffering Jesus Chapel",
-        "name:hu": "Szenvedő Jézus-kápolna",
-        "operator": "OFM, Ordo Fratrum Minorum franciskanus",
-        "religion": "christian",
-        "wikidata": "Q875996",
-        "wikipedia": "hu:Csíksomlyói Szenvedő Jézus-kápolna"
-      }
-    },
-    {
-      "id": "way/376771149",
-      "osm_id": 376771149,
-      "osm_type": "way",
-      "name": "Casă pustnic",
-      "category": "place_of_worship",
-      "lat": 46.3773604,
-      "lon": 25.832917,
-      "tags": {
-        "building": "house",
-        "name": "Casă pustnic",
-        "name:en": "Hermitage",
-        "name:hu": "Remetelak",
-        "operator": "OFM, Ordo Fratrum Minorum franciskanus",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/527367863",
-      "osm_id": 527367863,
-      "osm_type": "way",
-      "name": "Mănăstirea Surorilor Clarise \"Csíksomlyó Ágacskája\"",
-      "category": "place_of_worship",
-      "lat": 46.3785717,
-      "lon": 25.8266807,
-      "tags": {
-        "addr:city": "Miercurea Ciuc",
-        "addr:housenumber": "4",
-        "addr:postcode": "530203",
-        "addr:street": "Strada Șumuleu Mic",
-        "amenity": "monastery",
-        "barrier": "fence",
-        "community": "OSC",
-        "community:gender": "female",
-        "denomination": "roman_catholic",
-        "email": "n.klarissza@upcmail.ro",
-        "fax": "+40266 372064",
-        "fence_type": "metal_bars",
-        "landuse": "religious",
-        "monastery:type": "monastery",
-        "name": "Mănăstirea Surorilor Clarise \"Csíksomlyó Ágacskája\"",
-        "name:hu": "\"Csíksomlyó Ágacskája\" Klarissza Monostor",
-        "religion": "christian",
-        "website": "https://ersekseg.ro/hu/content/bemutatkoznak-csiksomlyoi-klarissza-noverek"
-      }
-    },
-    {
-      "id": "way/527372621",
-      "osm_id": 527372621,
-      "osm_type": "way",
-      "name": "Cimitir Toplița Ciuc",
-      "category": "place_of_worship",
-      "lat": 46.3780566,
-      "lon": 25.8033358,
-      "tags": {
-        "amenity": "grave_yard",
-        "denomination": "roman_catholic",
-        "name": "Cimitir Toplița Ciuc",
-        "name:hu": "Taplocai temető",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/527481493",
-      "osm_id": 527481493,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "place_of_worship",
-      "lat": 46.3843544,
-      "lon": 25.832437,
-      "tags": {
-        "amenity": "grave_yard",
-        "denomination": "roman_catholic",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/527867526",
-      "osm_id": 527867526,
-      "osm_type": "way",
-      "name": "Mănăstirea Franciscanilor",
-      "category": "place_of_worship",
-      "lat": 46.3780371,
-      "lon": 25.8252619,
-      "tags": {
-        "addr:city": "Miercurea Ciuc",
-        "addr:housenumber": "148",
-        "addr:postcode": "530203",
-        "addr:street": "Strada Szék",
-        "amenity": "monastery",
-        "community": "OFM",
-        "community:gender": "male",
-        "denomination": "roman_catholic",
-        "email": "iroda@csiksomlyo.ro",
-        "fax": "+40 266 371449",
-        "landuse": "religious",
-        "monastery:type": "monastery",
-        "name": "Mănăstirea Franciscanilor",
-        "name:hu": "Ferences Rendház – Csíksomlyó",
-        "phone": "+40 266 371449",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/618980650",
-      "osm_id": 618980650,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "place_of_worship",
-      "lat": 46.342844,
-      "lon": 25.7651019,
-      "tags": {
-        "amenity": "place_of_worship",
-        "building": "yes",
-        "denomination": "catholic",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/929146495",
-      "osm_id": 929146495,
-      "osm_type": "way",
-      "name": "Szent István Király templom",
-      "category": "place_of_worship",
-      "lat": 46.3893875,
-      "lon": 25.6385911,
-      "tags": {
-        "amenity": "place_of_worship",
-        "building": "church",
-        "contact:website": "https://taborhegy.ro/",
-        "denomination": "roman_catholic",
-        "name": "Szent István Király templom",
-        "name:hu": "Szent István király templom",
-        "operator": "Pálosok",
-        "religion": "christian",
-        "url:miserend": "https://miserend.hu/templom/3554"
-      }
-    },
-    {
-      "id": "way/1219967166",
-      "osm_id": 1219967166,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "place_of_worship",
-      "lat": 46.3791436,
-      "lon": 25.8265187,
-      "tags": {
-        "amenity": "school",
-        "barrier": "fence",
-        "fence_type": "wood_panel",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/1227786839",
-      "osm_id": 1227786839,
-      "osm_type": "way",
-      "name": "Pálos kolostor",
-      "category": "place_of_worship",
-      "lat": 46.3896479,
-      "lon": 25.6388713,
-      "tags": {
-        "amenity": "monastery",
-        "building": "residential",
-        "community": "OSPPE",
-        "community:gender": "male",
-        "community:hu": "Pálosok",
-        "contact:mobile": "+40 742 599 559",
-        "contact:website": "https://palosrend.hu/hargitafurdo/",
-        "denomination": "roman_catholic",
-        "name": "Pálos kolostor",
-        "religion": "christian",
-        "start_date": "2023"
-      }
-    },
-    {
-      "id": "way/1241989783",
-      "osm_id": 1241989783,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "place_of_worship",
-      "lat": 46.3553211,
-      "lon": 25.8057369,
-      "tags": {
-        "amenity": "place_of_worship",
-        "building": "cathedral",
-        "building:colour": "white",
-        "denomination": "orthodox",
-        "religion": "christian"
-      }
-    }
-  ]
-}
+  {
+    "id": "node-1189668407",
+    "name": "Grădinița Str. Toplița",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 46.3776559,
+    "lng": 25.8015268,
+    "osmType": "node",
+    "brand": null,
+    "operator": "Municipiul Miercurea-Ciuc"
+  },
+  {
+    "id": "node-1876837547",
+    "name": "Biserica Romano-Catolică",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.275599,
+    "lng": 25.7603217,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-3372891739",
+    "name": "Szent László-kápolna",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.4678414,
+    "lng": 25.8980938,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-4309206903",
+    "name": "Centrul Educational Spektrum",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.3621414,
+    "lng": 25.8039235,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-5119693160",
+    "name": "Grădinița Cioboteni",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 46.3841858,
+    "lng": 25.833676,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-5119693162",
+    "name": "Grădinița Șumuleu",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 46.378325,
+    "lng": 25.8232693,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-5226758284",
+    "name": "Dr. Ölvedi József",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 46.3603441,
+    "lng": 25.8042486,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-5226758285",
+    "name": "Dr. Sîngeorzan Dorin",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 46.3603231,
+    "lng": 25.8042446,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-5226758286",
+    "name": "Dr. Gagyi Lídia",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 46.3603287,
+    "lng": 25.8042759,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-5226758287",
+    "name": "Dr. Bíró Dénes",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 46.3603182,
+    "lng": 25.8042697,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-5226758288",
+    "name": "Dr. Bakó-Bíró Zsuzsanna",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 46.3603453,
+    "lng": 25.8042826,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-5350689345",
+    "name": "Biserica Sfântul Nicolae",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.4295963,
+    "lng": 25.7730102,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-6903661983",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "childcare",
+    "lat": 46.3768096,
+    "lng": 25.8156513,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-8558287385",
+    "name": "Szent Kinga misézőhely",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.3429541,
+    "lng": 25.7652621,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-8628417670",
+    "name": "Superbet",
+    "type": "superbet",
+    "subcategory": "betting",
+    "lat": 46.3620856,
+    "lng": 25.8001015,
+    "osmType": "node",
+    "brand": "Superbet",
+    "operator": "Superbet Betting & Gaming SA"
+  },
+  {
+    "id": "node-8628418245",
+    "name": "Superbet",
+    "type": "superbet",
+    "subcategory": "betting",
+    "lat": 46.3607103,
+    "lng": 25.8046398,
+    "osmType": "node",
+    "brand": "Superbet",
+    "operator": "Superbet Betting & Gaming SA"
+  },
+  {
+    "id": "node-11254642057",
+    "name": "Affidea",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 46.348368,
+    "lng": 25.80887,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-12758389152",
+    "name": "Multimed",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 46.3629626,
+    "lng": 25.8060647,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-13722750073",
+    "name": "Grădiniţa Csipike",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 46.3637911,
+    "lng": 25.8109268,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-103548028",
+    "name": "Biserica romano-catolică din Sânmartin, Harghita",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.2629043,
+    "lng": 25.9338862,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-116935655",
+    "name": "Biserica Sfântul Ioan Botezătorul",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.45267,
+    "lng": 25.8455265,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-117513254",
+    "name": "Biserica Sf. Ioan Botezătorul",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.4070901,
+    "lng": 25.8129658,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-117538629",
+    "name": "Biserica romano - catolică „Sf.Duh”",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.3493611,
+    "lng": 25.8517176,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-117923555",
+    "name": "Biserica Sf. Ștefan al Ungariei",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.3084804,
+    "lng": 25.8450687,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-153244994",
+    "name": "Capela Salvator",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.377498,
+    "lng": 25.8331349,
+    "osmType": "way",
+    "brand": null,
+    "operator": "OFM, Ordo Fratrum Minorum franciskanus"
+  },
+  {
+    "id": "way-153244995",
+    "name": "Altarul triplu",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.37751,
+    "lng": 25.8344888,
+    "osmType": "way",
+    "brand": null,
+    "operator": "OFM, Ordo Fratrum Minorum franciskanus"
+  },
+  {
+    "id": "way-153244997",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.3787237,
+    "lng": 25.8252799,
+    "osmType": "way",
+    "brand": null,
+    "operator": "OFM, Ordo Fratrum Minorum franciskanus"
+  },
+  {
+    "id": "way-158513613",
+    "name": "Școala Generală \"Nagy Imre\"",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.3646001,
+    "lng": 25.8038584,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-192098224",
+    "name": "Biserica Patrona Hungariae",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.3951797,
+    "lng": 25.8587734,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-192104284",
+    "name": "Școala Generală \"Somlyai Miklós\"",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.3943392,
+    "lng": 25.8530048,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-217349329",
+    "name": "Biserica Romano-Catolică Sfântul Augustin",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.3629617,
+    "lng": 25.8085795,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-217349802",
+    "name": "Biserica \"Sfinții Apostoli Petru, Pavel și Andrei\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.3599826,
+    "lng": 25.802322,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-224539481",
+    "name": "Biserica Mileniului",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.3622763,
+    "lng": 25.7971515,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-258880010",
+    "name": "Secția Oto-Rino-Laringologie, Secția Recuperare, Medicină Fizică și Balneologie",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 46.3550699,
+    "lng": 25.8044905,
+    "osmType": "way",
+    "brand": null,
+    "operator": "Spitalul Județean de Urgență Miercurea Ciuc"
+  },
+  {
+    "id": "way-258880017",
+    "name": "Policlinica Județeană Harghita",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 46.3503345,
+    "lng": 25.8074261,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-290802948",
+    "name": "Grădinița Micimacko",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 46.3586816,
+    "lng": 25.7987537,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-290802958",
+    "name": "Fără nume",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 46.357996,
+    "lng": 25.7985466,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-291279125",
+    "name": "Biserica Reformată Nouă",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.3638183,
+    "lng": 25.8060584,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-292152903",
+    "name": "Școala Generală Ady Endre",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.3538729,
+    "lng": 25.8113965,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-292156145",
+    "name": "Liceul Tehnologic „Venczel József”",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.3712965,
+    "lng": 25.8081883,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-292157690",
+    "name": "Catedrala Episcopală a Covasnei si Harghitei",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.3567193,
+    "lng": 25.8032585,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-292204327",
+    "name": "Grădinița Napsugar",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 46.3591081,
+    "lng": 25.7975616,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-292482045",
+    "name": "Biserica Tuturor Sfințiilor",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.3779077,
+    "lng": 25.8019561,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-292484587",
+    "name": "Biserica Romano-Catolică Înălțarea Sfintei Cruci",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.3617486,
+    "lng": 25.7971636,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-292527774",
+    "name": "Capela Szent Antal",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.3760163,
+    "lng": 25.8305133,
+    "osmType": "way",
+    "brand": null,
+    "operator": "OFM, Ordo Fratrum Minorum franciskanus"
+  },
+  {
+    "id": "way-292527887",
+    "name": "Szent Korona-kápolna",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.3757651,
+    "lng": 25.8291217,
+    "osmType": "way",
+    "brand": null,
+    "operator": "OFM, Ordo Fratrum Minorum franciskanus"
+  },
+  {
+    "id": "way-292528259",
+    "name": "Szent Péter és Pál plébániatemplom",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.3843554,
+    "lng": 25.8315683,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-292528271",
+    "name": "Biserica Sf. Paul",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.3971358,
+    "lng": 25.8330291,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-292544404",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.3455039,
+    "lng": 25.7795359,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-292547008",
+    "name": "Biserica romano-catolică Sfânta Treime",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.3423904,
+    "lng": 25.8115416,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-292549029",
+    "name": "Biserica Sf. Apostoli Petru și Pavel templom",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.4967898,
+    "lng": 25.7545409,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-305174671",
+    "name": "Liceul Tehnologic „Joannes Kájoni”",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.3702472,
+    "lng": 25.8077636,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-307677433",
+    "name": "Biserica romano - catolică \"Sf. Nicolae\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.4414769,
+    "lng": 25.8398525,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-309857778",
+    "name": "Capela romano-catolică",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.4093465,
+    "lng": 25.8228403,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-360520164",
+    "name": "Biserica romano-catolică \"A Tuturor Sfinților\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.3264515,
+    "lng": 25.8928387,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-360522864",
+    "name": "Grădina bisericii romano-catolice",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.3264194,
+    "lng": 25.8926277,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-364778382",
+    "name": "Tineriul Csibész",
+    "type": "school",
+    "subcategory": "childcare",
+    "lat": 46.4547826,
+    "lng": 25.8481958,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-374042986",
+    "name": "Jézus Szíve templom",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.4349622,
+    "lng": 25.7531667,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-374042994",
+    "name": "Szent László király-templom",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.4546282,
+    "lng": 25.852555,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-376768428",
+    "name": "Nepomuki Szt. János kápolna",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.3780333,
+    "lng": 25.8247019,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-376768853",
+    "name": "Capela Suferința lui Isus",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.3776732,
+    "lng": 25.8333724,
+    "osmType": "way",
+    "brand": null,
+    "operator": "OFM, Ordo Fratrum Minorum franciskanus"
+  },
+  {
+    "id": "way-376837301",
+    "name": "Páduai Szent Antal templom",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.4146741,
+    "lng": 25.7796634,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-381785927",
+    "name": "Biserica Sf. Mihail",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.4731216,
+    "lng": 25.8260491,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-383154816",
+    "name": "Biserica Imaculata Concepție",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.3531551,
+    "lng": 25.9624315,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-383154820",
+    "name": "Biserica Imaculata Concepție",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.51613,
+    "lng": 25.754751,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-387704069",
+    "name": "Biserica Sf. Francisc de Assisi",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.2084752,
+    "lng": 25.9122116,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-436853934",
+    "name": "Angyalkert",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 46.363866,
+    "lng": 25.7983111,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-437250056",
+    "name": "Colegiul Național „Márton Áron”",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.367965,
+    "lng": 25.8078636,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-446793709",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.4357387,
+    "lng": 25.753361,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-526410374",
+    "name": "Liceul de Arte \"Nagy István\"",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.3618077,
+    "lng": 25.8029919,
+    "osmType": "way",
+    "brand": null,
+    "operator": "Municipiul Miercurea-Ciuc"
+  },
+  {
+    "id": "way-526488322",
+    "name": "Școala Primară Cioboteni",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.3840482,
+    "lng": 25.8339169,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-526488326",
+    "name": "Școala Gimnazială „Xántus János”",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.377515,
+    "lng": 25.8016767,
+    "osmType": "way",
+    "brand": null,
+    "operator": "Municipiul Miercurea-Ciuc"
+  },
+  {
+    "id": "way-526488330",
+    "name": "Liceul Tehnologic „Székely Károly”",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.3632955,
+    "lng": 25.8104556,
+    "osmType": "way",
+    "brand": null,
+    "operator": "Municipiul Miercurea-Ciuc"
+  },
+  {
+    "id": "way-526488335",
+    "name": "Colegiul Național “Octavian Goga”",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.3525212,
+    "lng": 25.8057657,
+    "osmType": "way",
+    "brand": null,
+    "operator": "Municipiul Miercurea-Ciuc"
+  },
+  {
+    "id": "way-526488339",
+    "name": "Școala Gimnazială „Liviu Rebreanu”",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.3586225,
+    "lng": 25.7994408,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-527658231",
+    "name": "Biserica romano-catolică „Sf. Gheorghe”",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.3056266,
+    "lng": 25.94806,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-529147699",
+    "name": "Biserica romano-catolică din Cozmeni",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.2239508,
+    "lng": 25.9383026,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-529259263",
+    "name": "Biserica romano-catolică „Sf. Simion și Iuda”",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.2450855,
+    "lng": 25.8894084,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-529264339",
+    "name": "Szent László király plébániatemplom",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.2556737,
+    "lng": 25.8843807,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-529270210",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.2818295,
+    "lng": 25.8706532,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-529270213",
+    "name": "Capela romano-catolică „Sf. Margareta”",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.2706134,
+    "lng": 25.8503371,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-529270216",
+    "name": "Biserica Sf. Emeric",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.281564,
+    "lng": 25.8644089,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-529273058",
+    "name": "Keresztelő Szent János kápolna",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.291826,
+    "lng": 25.9435987,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-529273060",
+    "name": "Capela Sfântul Ioan Botezătorul",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.3021067,
+    "lng": 25.908361,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-529273065",
+    "name": "Capela Sfântul Ladislau",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.303122,
+    "lng": 25.9528753,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-529273066",
+    "name": "Biserica Sfânta Ana",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.3030304,
+    "lng": 25.9534733,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-537705310",
+    "name": "Úr-kápolna",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.2681458,
+    "lng": 25.929964,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-539741919",
+    "name": "Capela Romano-Catolica",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.252672,
+    "lng": 25.8885364,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-540001261",
+    "name": "Școala Gimnazială „József Attila”",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.3552437,
+    "lng": 25.8049707,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-540001262",
+    "name": "Școala Generală Petőfi Sándor",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.3576829,
+    "lng": 25.8040958,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-540001263",
+    "name": "Școala Populară de Artă",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.3614331,
+    "lng": 25.8045487,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-540065347",
+    "name": "Grădinița \"Napraforgó\"",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 46.363003,
+    "lng": 25.7939995,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-544237160",
+    "name": "Csíkrákosi vártemplom",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.4546084,
+    "lng": 25.7725281,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-549416967",
+    "name": "Capela Catolică",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.4511229,
+    "lng": 25.8458984,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-549416974",
+    "name": "Biserica armeano-catolică",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.4548432,
+    "lng": 25.8476709,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-554450870",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.4522901,
+    "lng": 25.8513484,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-554453954",
+    "name": "Biserica Sfântul Ilie",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.4620891,
+    "lng": 25.9534393,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-590577957",
+    "name": "Capela Catolică Bârzava",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.4316491,
+    "lng": 25.8247557,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-590577959",
+    "name": "Biserica Catolică Bârzava",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.4327941,
+    "lng": 25.8268324,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-601641258",
+    "name": "Széphavasi Szent Lélek Kápolna",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.4925401,
+    "lng": 25.9250788,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-618980650",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.342844,
+    "lng": 25.7651019,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-675941195",
+    "name": "Composesorat Misentea",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 46.3296086,
+    "lng": 25.8841091,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-846625765",
+    "name": "SJU M-Ciuc: Secțiile Dermatovenerologie, Psihiatrie, Oftalmologie",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 46.3566466,
+    "lng": 25.8015296,
+    "osmType": "way",
+    "brand": null,
+    "operator": "Spitalul Județean de Urgență Miercurea Ciuc"
+  },
+  {
+    "id": "way-846630130",
+    "name": "SJU M-Ciuc: Secțiile Boli Infecțioase, Pneumologie",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 46.3776909,
+    "lng": 25.823548,
+    "osmType": "way",
+    "brand": null,
+    "operator": "Spitalul Județean de Urgență Miercurea Ciuc"
+  },
+  {
+    "id": "way-951316928",
+    "name": "Fără nume",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 46.2545511,
+    "lng": 25.8856211,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-1164370110",
+    "name": "Szent Őrzőangyalok templom",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.2235734,
+    "lng": 25.9064332,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-1165581473",
+    "name": "Mănăstirea Făgețel",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.4690854,
+    "lng": 25.9316175,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-1167899942",
+    "name": "Biserica Sfântul Ștefan",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.4954441,
+    "lng": 25.8377723,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-1182656810",
+    "name": "Aranyalma",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 46.355981,
+    "lng": 25.809847,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-1208131335",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.3173047,
+    "lng": 25.8384241,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-1208881717",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.3971153,
+    "lng": 25.8337662,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-1211834155",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.3042103,
+    "lng": 25.9475985,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-1219967166",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.3791436,
+    "lng": 25.8265187,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-1222076722",
+    "name": "Școala Primară Subpădure",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.3703589,
+    "lng": 25.7489966,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-1228935486",
+    "name": "Grădiniţa Napocska",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 46.3635019,
+    "lng": 25.7953643,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-1229877130",
+    "name": "Grădinița Raza de Soare",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 46.3592211,
+    "lng": 25.7994969,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-1231184256",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.487809,
+    "lng": 25.9449387,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-1231399560",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.4396818,
+    "lng": 25.8378128,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-1231427101",
+    "name": "Şcoala Generală Nyírő József",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.4525413,
+    "lng": 25.8512972,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-1231875452",
+    "name": "Școala Gimnazială Nicolești",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.441057,
+    "lng": 25.8416261,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-1232219605",
+    "name": "Sfânta Fecioară de pe Carmel",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.4909653,
+    "lng": 25.9441804,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-1232711948",
+    "name": "Şcoala Gimnazială Arany János",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.2809476,
+    "lng": 25.8655769,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-1232753761",
+    "name": "Şcoala Generală Vitos Mózes",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.3091018,
+    "lng": 25.8449392,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-1233360192",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.2282591,
+    "lng": 25.9404591,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-1233484676",
+    "name": "Scoala Gimnaziala Imets Fülöp Jákó",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.2070033,
+    "lng": 25.9098739,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-1234011184",
+    "name": "Şcoala Generală Gal Sandor",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.3229039,
+    "lng": 25.9550006,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-1234133587",
+    "name": "Scoala Generala Nr. 3 / Gradinita",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 46.4938109,
+    "lng": 25.8360339,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-1234262346",
+    "name": "Scoala Gimnaziala Zöld Péter",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.4357895,
+    "lng": 25.7535532,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-1234370822",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.4650378,
+    "lng": 25.7983298,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-1234577388",
+    "name": "Școlala Generală Nagy István",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 46.3296194,
+    "lng": 25.8828422,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-1239395342",
+    "name": "Grădinița Kis Herceg",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 46.3540657,
+    "lng": 25.8097956,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-1241989783",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.3553211,
+    "lng": 25.8057369,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-1286785068",
+    "name": "Szent Ilona Emlékhely",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.5091364,
+    "lng": 25.8267483,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-1291385598",
+    "name": "Liceul Tehnologic \"Petőfi Sándor\"",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.5155586,
+    "lng": 25.7544208,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-1349594642",
+    "name": "Şcoala Generală Arany János",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.4724444,
+    "lng": 25.8251511,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "relation-3882791",
+    "name": "Liceul Tehnologic „Kós Károly”",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.3697882,
+    "lng": 25.8070097,
+    "osmType": "relation",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "relation-20307085",
+    "name": "Háziorvosi rendelő",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 46.5120139,
+    "lng": 25.7566032,
+    "osmType": "relation",
+    "brand": null,
+    "operator": null
+  }
+]

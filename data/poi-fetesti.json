@@ -1,0 +1,222 @@
+[
+  {
+    "id": "node-897622503",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.4085987,
+    "lng": 27.8212986,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-5168448821",
+    "name": "Sala Regatului a Martorilor lui Iehova",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.413839,
+    "lng": 27.8193715,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-6580297116",
+    "name": "Superbet",
+    "type": "superbet",
+    "subcategory": "betting",
+    "lat": 44.4111592,
+    "lng": 27.8262617,
+    "osmType": "node",
+    "brand": null,
+    "operator": "Superbet Betting & Gaming SA"
+  },
+  {
+    "id": "node-7694483587",
+    "name": "Scoala Generala",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.4158844,
+    "lng": 27.8768562,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-8628417683",
+    "name": "Superbet",
+    "type": "superbet",
+    "subcategory": "betting",
+    "lat": 44.416322,
+    "lng": 27.822361,
+    "osmType": "node",
+    "brand": "Superbet",
+    "operator": "Superbet Betting & Gaming SA"
+  },
+  {
+    "id": "way-303765069",
+    "name": "Catedrala Ortodoxă „Sfânta Treime” Fetești",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.4117689,
+    "lng": 27.8262892,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-469436234",
+    "name": "Spitalul Municipal Anghel Saligny",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 44.4080185,
+    "lng": 27.827449,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-643420284",
+    "name": "Școala Gimnazială Aurel Vlaicu",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.4106241,
+    "lng": 27.8270606,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-643420611",
+    "name": "Liceul Teoretic \"Carol I\" Fetesti",
+    "type": "school",
+    "subcategory": "college",
+    "lat": 44.4098985,
+    "lng": 27.8275953,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-700229497",
+    "name": "Biserica Baptistă \"Emanuel\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.415938,
+    "lng": 27.8169562,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-700234639",
+    "name": "Biserica Ortodoxa \"Sf. Arhangheli Mihail si Gavriil\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.4157313,
+    "lng": 27.825416,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-700683032",
+    "name": "Biserica „Sfântul Anton de Padova\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.4155762,
+    "lng": 27.8180708,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-700729260",
+    "name": "Biserica Sf. Ilie",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.4105826,
+    "lng": 27.8212091,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-1148164497",
+    "name": "Policlinica Fetești",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 44.4088249,
+    "lng": 27.8272885,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-1164301706",
+    "name": "Biserica „Adormirea Maicii Domnului”",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.3784208,
+    "lng": 27.8453273,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-1164301711",
+    "name": "Biserica Ortodoxă „Sfântul Nicolae”",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.3691617,
+    "lng": 27.833352,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-1164301716",
+    "name": "Biserica Ortodoxă „Adormirea Maicii Domnului”",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.4187077,
+    "lng": 27.8299273,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-1164301719",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.4269826,
+    "lng": 27.8249003,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-1164301723",
+    "name": "Biserica „Nașterea Maicii Domnului\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.3939464,
+    "lng": 27.8489591,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-1471609983",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "childcare",
+    "lat": 44.4158968,
+    "lng": 27.876523,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  }
+]

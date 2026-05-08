@@ -1,991 +1,2070 @@
-{
-  "city": "Aiud",
-  "generated_at": "2026-04-23T09:16:55.018Z",
-  "counts": {
-    "total": 68,
-    "schools": 12,
-    "churches": 56
+[
+  {
+    "id": "node-317566661",
+    "name": "Biserica Sf. Treime",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.206389,
+    "lng": 23.6743699,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
   },
-  "pois": [
-    {
-      "id": "node/5380054090",
-      "osm_id": 5380054090,
-      "osm_type": "node",
-      "name": "Grup Școlar Ciumbrud",
-      "category": "education",
-      "lat": 46.3053976,
-      "lon": 23.7609176,
-      "tags": {
-        "amenity": "college",
-        "name": "Grup Școlar Ciumbrud"
-      }
-    },
-    {
-      "id": "node/6579694793",
-      "osm_id": 6579694793,
-      "osm_type": "node",
-      "name": "Școala Gimnazială \"Axente Sever\"",
-      "category": "education",
-      "lat": 46.3078542,
-      "lon": 23.7260184,
-      "tags": {
-        "addr:housenumber": "9",
-        "addr:postcode": "515200",
-        "addr:street": "Strada Unirii",
-        "amenity": "school",
-        "email": "as.aiud@mail.albanet.ro",
-        "name": "Școala Gimnazială \"Axente Sever\"",
-        "reviewed": "no",
-        "school_type": "Unitate de învăţământ"
-      }
-    },
-    {
-      "id": "node/8273923562",
-      "osm_id": 8273923562,
-      "osm_type": "node",
-      "name": "Grădința cu program normal Nr. 4",
-      "category": "education",
-      "lat": 46.3103075,
-      "lon": 23.7164347,
-      "tags": {
-        "amenity": "kindergarten",
-        "name": "Grădința cu program normal Nr. 4"
-      }
-    },
-    {
-      "id": "way/49041428",
-      "osm_id": 49041428,
-      "osm_type": "way",
-      "name": "Colegiul Bethlen Gabor",
-      "category": "education",
-      "lat": 46.3107355,
-      "lon": 23.7173387,
-      "tags": {
-        "amenity": "college",
-        "building": "yes",
-        "name": "Colegiul Bethlen Gabor",
-        "name:hu": "Bethlen Gábor Kollégium",
-        "name:ro": "Colegiul Bethlen Gabor",
-        "website": "https://www.bethlengabor.ro"
-      }
-    },
-    {
-      "id": "way/138938540",
-      "osm_id": 138938540,
-      "osm_type": "way",
-      "name": "Școala Generală nr. 3 \"Axente Sever\"",
-      "category": "education",
-      "lat": 46.3086891,
-      "lon": 23.7297971,
-      "tags": {
-        "amenity": "school",
-        "name": "Școala Generală nr. 3 \"Axente Sever\""
-      }
-    },
-    {
-      "id": "way/138939396",
-      "osm_id": 138939396,
-      "osm_type": "way",
-      "name": "Grădinița cu program prelungit nr. 2",
-      "category": "education",
-      "lat": 46.3089857,
-      "lon": 23.7303959,
-      "tags": {
-        "amenity": "kindergarten",
-        "name": "Grădinița cu program prelungit nr. 2"
-      }
-    },
-    {
-      "id": "way/138942634",
-      "osm_id": 138942634,
-      "osm_type": "way",
-      "name": "Creșă",
-      "category": "education",
-      "lat": 46.3090663,
-      "lon": 23.7309271,
-      "tags": {
-        "amenity": "school",
-        "name": "Creșă"
-      }
-    },
-    {
-      "id": "way/531392695",
-      "osm_id": 531392695,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 46.3086794,
-      "lon": 23.7297454,
-      "tags": {
-        "amenity": "school"
-      }
-    },
-    {
-      "id": "way/532652188",
-      "osm_id": 532652188,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 46.3063995,
-      "lon": 23.7217868,
-      "tags": {
-        "amenity": "school"
-      }
-    },
-    {
-      "id": "way/532652198",
-      "osm_id": 532652198,
-      "osm_type": "way",
-      "name": "Colegiul National \"Titu Maiorescu\"",
-      "category": "education",
-      "lat": 46.3064868,
-      "lon": 23.722439,
-      "tags": {
-        "addr:city": "Aiud",
-        "addr:postcode": "515200",
-        "addr:street": "Strada Ecaterina Varga",
-        "amenity": "school",
-        "name": "Colegiul National \"Titu Maiorescu\""
-      }
-    },
-    {
-      "id": "way/550216192",
-      "osm_id": 550216192,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 46.3052927,
-      "lon": 23.7608402,
-      "tags": {
-        "building": "school"
-      }
-    },
-    {
-      "id": "way/551714020",
-      "osm_id": 551714020,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 46.254726,
-      "lon": 23.6753967,
-      "tags": {
-        "building": "school"
-      }
-    },
-    {
-      "id": "node/622094664",
-      "osm_id": 622094664,
-      "osm_type": "node",
-      "name": "Biserica Sfinții Trei Ierarhi",
-      "category": "place_of_worship",
-      "lat": 46.3088276,
-      "lon": 23.7184061,
-      "tags": {
-        "amenity": "place_of_worship",
-        "denomination": "orthodox",
-        "name": "Biserica Sfinții Trei Ierarhi",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "node/1316062817",
-      "osm_id": 1316062817,
-      "osm_type": "node",
-      "name": "Mănăstirea Măgina",
-      "category": "place_of_worship",
-      "lat": 46.3354214,
-      "lon": 23.6356194,
-      "tags": {
-        "amenity": "place_of_worship",
-        "denomination": "orthodox",
-        "name": "Mănăstirea Măgina",
-        "religion": "christian",
-        "source": "jonutzu@gpszone.ro"
-      }
-    },
-    {
-      "id": "node/2225443451",
-      "osm_id": 2225443451,
-      "osm_type": "node",
-      "name": "Biserica Reformată Gâmbaș",
-      "category": "place_of_worship",
-      "lat": 46.3477919,
-      "lon": 23.7190696,
-      "tags": {
-        "amenity": "place_of_worship",
-        "denomination": "reformed",
-        "name": "Biserica Reformată Gâmbaș",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "node/2225544172",
-      "osm_id": 2225544172,
-      "osm_type": "node",
-      "name": "Biserica Ortodoxă Gâmbaș",
-      "category": "place_of_worship",
-      "lat": 46.3463993,
-      "lon": 23.7232206,
-      "tags": {
-        "amenity": "place_of_worship",
-        "denomination": "orthodox",
-        "name": "Biserica Ortodoxă Gâmbaș",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "node/2226032911",
-      "osm_id": 2226032911,
-      "osm_type": "node",
-      "name": "Biserica Reformată Ciumbrud",
-      "category": "place_of_worship",
-      "lat": 46.3095627,
-      "lon": 23.7602516,
-      "tags": {
-        "amenity": "place_of_worship",
-        "denomination": "reformed",
-        "name": "Biserica Reformată Ciumbrud",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "node/2226033009",
-      "osm_id": 2226033009,
-      "osm_type": "node",
-      "name": "Biserica Păgida",
-      "category": "place_of_worship",
-      "lat": 46.3404823,
-      "lon": 23.7440752,
-      "tags": {
-        "amenity": "place_of_worship",
-        "denomination": "orthodox",
-        "name": "Biserica Păgida",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "node/2226033416",
-      "osm_id": 2226033416,
-      "osm_type": "node",
-      "name": "Biserica Sfântul Nicolae",
-      "category": "place_of_worship",
-      "lat": 46.3094923,
-      "lon": 23.7624536,
-      "tags": {
-        "amenity": "place_of_worship",
-        "denomination": "orthodox",
-        "name": "Biserica Sfântul Nicolae",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "node/2228536343",
-      "osm_id": 2228536343,
-      "osm_type": "node",
-      "name": "Biserica Ortodoxă de lemn Sfânta Treime",
-      "category": "place_of_worship",
-      "lat": 46.2938968,
-      "lon": 23.7526747,
-      "tags": {
-        "amenity": "place_of_worship",
-        "denomination": "orthodox",
-        "name": "Biserica Ortodoxă de lemn Sfânta Treime",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "node/2228536431",
-      "osm_id": 2228536431,
-      "osm_type": "node",
-      "name": "Biserica Ortodoxă Sfântul Nicolae",
-      "category": "place_of_worship",
-      "lat": 46.2935246,
-      "lon": 23.7507112,
-      "tags": {
-        "amenity": "place_of_worship",
-        "denomination": "orthodox",
-        "name": "Biserica Ortodoxă Sfântul Nicolae",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "node/2245308395",
-      "osm_id": 2245308395,
-      "osm_type": "node",
-      "name": "Biserica Gârbova de Jos",
-      "category": "place_of_worship",
-      "lat": 46.257221,
-      "lon": 23.665653,
-      "tags": {
-        "amenity": "place_of_worship",
-        "denomination": "orthodox",
-        "name": "Biserica Gârbova de Jos",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "node/2252648589",
-      "osm_id": 2252648589,
-      "osm_type": "node",
-      "name": "Biserica Gârbova de Sus",
-      "category": "place_of_worship",
-      "lat": 46.2928071,
-      "lon": 23.6228053,
-      "tags": {
-        "amenity": "place_of_worship",
-        "denomination": "orthodox",
-        "name": "Biserica Gârbova de Sus",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "node/2252648631",
-      "osm_id": 2252648631,
-      "osm_type": "node",
-      "name": "Biserica Nașterea Fecioarei Maria",
-      "category": "place_of_worship",
-      "lat": 46.282096,
-      "lon": 23.6413311,
-      "tags": {
-        "amenity": "place_of_worship",
-        "denomination": "catholic",
-        "name": "Biserica Nașterea Fecioarei Maria",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "node/2734894998",
-      "osm_id": 2734894998,
-      "osm_type": "node",
-      "name": "Biserica Sfântul Ierarh Nicolae",
-      "category": "place_of_worship",
-      "lat": 46.3421238,
-      "lon": 23.6545674,
-      "tags": {
-        "amenity": "place_of_worship",
-        "denomination": "orthodox",
-        "name": "Biserica Sfântul Ierarh Nicolae",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "node/4867568520",
-      "osm_id": 4867568520,
-      "osm_type": "node",
-      "name": "Biserica Adormirea Maicii Domnului",
-      "category": "place_of_worship",
-      "lat": 46.3188236,
-      "lon": 23.7172737,
-      "tags": {
-        "amenity": "place_of_worship",
-        "denomination": "orthodox",
-        "name": "Biserica Adormirea Maicii Domnului",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "node/4869117796",
-      "osm_id": 4869117796,
-      "osm_type": "node",
-      "name": "Biserică Reformată",
-      "category": "place_of_worship",
-      "lat": 46.3162868,
-      "lon": 23.6892003,
-      "tags": {
-        "amenity": "place_of_worship",
-        "denomination": "reformed",
-        "name": "Biserică Reformată",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "node/5164455486",
-      "osm_id": 5164455486,
-      "osm_type": "node",
-      "name": "Schitul Aiud",
-      "category": "place_of_worship",
-      "lat": 46.3074364,
-      "lon": 23.7302461,
-      "tags": {
-        "amenity": "place_of_worship",
-        "denomination": "orthodox",
-        "name": "Schitul Aiud",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "node/5164473585",
-      "osm_id": 5164473585,
-      "osm_type": "node",
-      "name": "Biserica Ortodoxă Sf Cruce",
-      "category": "place_of_worship",
-      "lat": 46.3068497,
-      "lon": 23.726213,
-      "tags": {
-        "amenity": "place_of_worship",
-        "denomination": "orthodox",
-        "name": "Biserica Ortodoxă Sf Cruce",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "node/5809936381",
-      "osm_id": 5809936381,
-      "osm_type": "node",
-      "name": "Parohia ortodoxă Sâncrai",
-      "category": "place_of_worship",
-      "lat": 46.2893276,
-      "lon": 23.7404053,
-      "tags": {
-        "denomination": "orthodox",
-        "name": "Parohia ortodoxă Sâncrai",
-        "office": "parish",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "node/5809936385",
-      "osm_id": 5809936385,
-      "osm_type": "node",
-      "name": "Mânăstirea Aiud",
-      "category": "place_of_worship",
-      "lat": 46.3075585,
-      "lon": 23.7325435,
-      "tags": {
-        "amenity": "place_of_worship",
-        "denomination": "orthodox",
-        "name": "Mânăstirea Aiud",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "node/5809936396",
-      "osm_id": 5809936396,
-      "osm_type": "node",
-      "name": "Biserica Ortodoxă Aiudul de Sus (1932)",
-      "category": "place_of_worship",
-      "lat": 46.3176031,
-      "lon": 23.6884341,
-      "tags": {
-        "amenity": "place_of_worship",
-        "building": "chapel",
-        "denomination": "orthodox",
-        "name": "Biserica Ortodoxă Aiudul de Sus (1932)",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "node/5840564717",
-      "osm_id": 5840564717,
-      "osm_type": "node",
-      "name": "Biserica adventistă",
-      "category": "place_of_worship",
-      "lat": 46.310772,
-      "lon": 23.7218314,
-      "tags": {
-        "amenity": "place_of_worship",
-        "denomination": "seventh_day_adventist",
-        "name": "Biserica adventistă",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/49016052",
-      "osm_id": 49016052,
-      "osm_type": "way",
-      "name": "Biserica Catolică",
-      "category": "place_of_worship",
-      "lat": 46.3123162,
-      "lon": 23.7255034,
-      "tags": {
-        "amenity": "place_of_worship",
-        "building": "church",
-        "denomination": "roman_catholic",
-        "name": "Biserica Catolică",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/49016054",
-      "osm_id": 49016054,
-      "osm_type": "way",
-      "name": "Biserica Micro III",
-      "category": "place_of_worship",
-      "lat": 46.3096661,
-      "lon": 23.7317551,
-      "tags": {
-        "amenity": "place_of_worship",
-        "building": "yes",
-        "denomination": "orthodox",
-        "name": "Biserica Micro III",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/49790816",
-      "osm_id": 49790816,
-      "osm_type": "way",
-      "name": "Biserica Baptistă Nr. 2 Aiud",
-      "category": "place_of_worship",
-      "lat": 46.3090435,
-      "lon": 23.7123711,
-      "tags": {
-        "amenity": "place_of_worship",
-        "building": "yes",
-        "denomination": "baptist",
-        "name": "Biserica Baptistă Nr. 2 Aiud",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/49790817",
-      "osm_id": 49790817,
-      "osm_type": "way",
-      "name": "Biserica Simion Bărnuțiu",
-      "category": "place_of_worship",
-      "lat": 46.3084061,
-      "lon": 23.7146191,
-      "tags": {
-        "amenity": "place_of_worship",
-        "building": "yes",
-        "denomination": "catholic",
-        "name": "Biserica Simion Bărnuțiu",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/286580825",
-      "osm_id": 286580825,
-      "osm_type": "way",
-      "name": "Biserica Sfinții Arhangheli Mihail și Gavril",
-      "category": "place_of_worship",
-      "lat": 46.3175991,
-      "lon": 23.6884607,
-      "tags": {
-        "amenity": "place_of_worship",
-        "building": "church",
-        "denomination": "orthodox",
-        "name": "Biserica Sfinții Arhangheli Mihail și Gavril",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/286581167",
-      "osm_id": 286581167,
-      "osm_type": "way",
-      "name": "Cimitir",
-      "category": "place_of_worship",
-      "lat": 46.3172384,
-      "lon": 23.6893755,
-      "tags": {
-        "denomination": "orthodox",
-        "landuse": "cemetery",
-        "name": "Cimitir",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/368749883",
-      "osm_id": 368749883,
-      "osm_type": "way",
-      "name": "Biserica Sfântul Teodor Tiron",
-      "category": "place_of_worship",
-      "lat": 46.3144307,
-      "lon": 23.7265729,
-      "tags": {
-        "amenity": "place_of_worship",
-        "building": "yes",
-        "denomination": "orthodox",
-        "name": "Biserica Sfântul Teodor Tiron",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/378323076",
-      "osm_id": 378323076,
-      "osm_type": "way",
-      "name": "Biserica Sfânta Elisabeta a Ungariei",
-      "category": "place_of_worship",
-      "lat": 46.3097315,
-      "lon": 23.7189663,
-      "tags": {
-        "amenity": "place_of_worship",
-        "building": "church",
-        "denomination": "roman_catholic",
-        "name": "Biserica Sfânta Elisabeta a Ungariei",
-        "name:hu": "Árpádházi Szent Erzsébet templom",
-        "name:ro": "Biserica Sfânta Elisabeta a Ungariei",
-        "religion": "christian",
-        "url:miserend": "http://miserend.hu/?templom=3061"
-      }
-    },
-    {
-      "id": "way/481321328",
-      "osm_id": 481321328,
-      "osm_type": "way",
-      "name": "Cimitirul calvinist",
-      "category": "place_of_worship",
-      "lat": 46.3114501,
-      "lon": 23.7125398,
-      "tags": {
-        "denomination": "reformed",
-        "landuse": "cemetery",
-        "name": "Cimitirul calvinist",
-        "name:hu": "Református temető",
-        "name:ro": "Cimitirul calvinist",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/494833905",
-      "osm_id": 494833905,
-      "osm_type": "way",
-      "name": "Biserica Evanghelică-Lutherană",
-      "category": "place_of_worship",
-      "lat": 46.3097169,
-      "lon": 23.7178919,
-      "tags": {
-        "addr:city": "Aiud",
-        "amenity": "place_of_worship",
-        "building": "yes",
-        "denomination": "evangelical_lutheran",
-        "name": "Biserica Evanghelică-Lutherană",
-        "name:hu": "Evangélikus templom",
-        "name:ro": "Biserica Evanghelică-Lutherană",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/494833907",
-      "osm_id": 494833907,
-      "osm_type": "way",
-      "name": "Biserica Reformată",
-      "category": "place_of_worship",
-      "lat": 46.309514,
-      "lon": 23.7177631,
-      "tags": {
-        "addr:city": "Aiud",
-        "amenity": "place_of_worship",
-        "building": "yes",
-        "denomination": "reformed",
-        "name": "Biserica Reformată",
-        "name:hu": "Református templom",
-        "name:ro": "Biserica Reformată",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/495123419",
-      "osm_id": 495123419,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "place_of_worship",
-      "lat": 46.3088309,
-      "lon": 23.7183974,
-      "tags": {
-        "building": "church"
-      }
-    },
-    {
-      "id": "way/512605180",
-      "osm_id": 512605180,
-      "osm_type": "way",
-      "name": "Mănăstirea Măgina",
-      "category": "place_of_worship",
-      "lat": 46.3354203,
-      "lon": 23.635622,
-      "tags": {
-        "building": "church",
-        "name": "Mănăstirea Măgina"
-      }
-    },
-    {
-      "id": "way/532135842",
-      "osm_id": 532135842,
-      "osm_type": "way",
-      "name": "Biserica Înălțarea Sfintei Cruci",
-      "category": "place_of_worship",
-      "lat": 46.3068608,
-      "lon": 23.7262707,
-      "tags": {
-        "amenity": "place_of_worship",
-        "building": "yes",
-        "denomination": "orthodox",
-        "name": "Biserica Înălțarea Sfintei Cruci",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/532651188",
-      "osm_id": 532651188,
-      "osm_type": "way",
-      "name": "Cimitirul Micro III",
-      "category": "place_of_worship",
-      "lat": 46.3069246,
-      "lon": 23.729018,
-      "tags": {
-        "denomination": "orthodox",
-        "landuse": "cemetery",
-        "name": "Cimitirul Micro III",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/550211182",
-      "osm_id": 550211182,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "place_of_worship",
-      "lat": 46.309534,
-      "lon": 23.7602207,
-      "tags": {
-        "building": "church"
-      }
-    },
-    {
-      "id": "way/550211183",
-      "osm_id": 550211183,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "place_of_worship",
-      "lat": 46.3094468,
-      "lon": 23.7624074,
-      "tags": {
-        "building": "church"
-      }
-    },
-    {
-      "id": "way/550212222",
-      "osm_id": 550212222,
-      "osm_type": "way",
-      "name": "Biserica Reformată",
-      "category": "place_of_worship",
-      "lat": 46.2932979,
-      "lon": 23.7460014,
-      "tags": {
-        "amenity": "place_of_worship",
-        "building": "church",
-        "denomination": "reformed",
-        "name": "Biserica Reformată",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/550212223",
-      "osm_id": 550212223,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "place_of_worship",
-      "lat": 46.2935276,
-      "lon": 23.7506847,
-      "tags": {
-        "building": "church"
-      }
-    },
-    {
-      "id": "way/550212224",
-      "osm_id": 550212224,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "place_of_worship",
-      "lat": 46.2938961,
-      "lon": 23.7526492,
-      "tags": {
-        "building": "church"
-      }
-    },
-    {
-      "id": "way/550216202",
-      "osm_id": 550216202,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "place_of_worship",
-      "lat": 46.3478102,
-      "lon": 23.7189945,
-      "tags": {
-        "building": "church"
-      }
-    },
-    {
-      "id": "way/550216203",
-      "osm_id": 550216203,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "place_of_worship",
-      "lat": 46.346424,
-      "lon": 23.7231405,
-      "tags": {
-        "building": "church"
-      }
-    },
-    {
-      "id": "way/550216204",
-      "osm_id": 550216204,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "place_of_worship",
-      "lat": 46.2821065,
-      "lon": 23.6412201,
-      "tags": {
-        "building": "church"
-      }
-    },
-    {
-      "id": "way/550216205",
-      "osm_id": 550216205,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "place_of_worship",
-      "lat": 46.2572478,
-      "lon": 23.665568,
-      "tags": {
-        "building": "church"
-      }
-    },
-    {
-      "id": "way/550216206",
-      "osm_id": 550216206,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "place_of_worship",
-      "lat": 46.2928263,
-      "lon": 23.6227224,
-      "tags": {
-        "building": "church"
-      }
-    },
-    {
-      "id": "way/550428594",
-      "osm_id": 550428594,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "place_of_worship",
-      "lat": 46.3421638,
-      "lon": 23.6543401,
-      "tags": {
-        "building": "church"
-      }
-    },
-    {
-      "id": "way/550428595",
-      "osm_id": 550428595,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "place_of_worship",
-      "lat": 46.3163074,
-      "lon": 23.6892513,
-      "tags": {
-        "building": "church"
-      }
-    },
-    {
-      "id": "way/551234215",
-      "osm_id": 551234215,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "place_of_worship",
-      "lat": 46.3188001,
-      "lon": 23.7172493,
-      "tags": {
-        "building": "church"
-      }
-    },
-    {
-      "id": "way/551714018",
-      "osm_id": 551714018,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "place_of_worship",
-      "lat": 46.29394,
-      "lon": 23.6211451,
-      "tags": {
-        "amenity": "grave_yard",
-        "denomination": "orthodox",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/552849876",
-      "osm_id": 552849876,
-      "osm_type": "way",
-      "name": "Parohia Greco-Catolică Sfânta Ana",
-      "category": "place_of_worship",
-      "lat": 46.3393009,
-      "lon": 23.645758,
-      "tags": {
-        "building": "church",
-        "name": "Parohia Greco-Catolică Sfânta Ana"
-      }
-    },
-    {
-      "id": "way/552850594",
-      "osm_id": 552850594,
-      "osm_type": "way",
-      "name": "Biserica Penticostală",
-      "category": "place_of_worship",
-      "lat": 46.3109498,
-      "lon": 23.7046787,
-      "tags": {
-        "amenity": "place_of_worship",
-        "building": "yes",
-        "denomination": "pentecostal",
-        "name": "Biserica Penticostală",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/552853003",
-      "osm_id": 552853003,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "place_of_worship",
-      "lat": 46.307559,
-      "lon": 23.7325445,
-      "tags": {
-        "building": "church"
-      }
-    },
-    {
-      "id": "way/552858118",
-      "osm_id": 552858118,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "place_of_worship",
-      "lat": 46.3039218,
-      "lon": 23.7130167,
-      "tags": {
-        "amenity": "grave_yard",
-        "denomination": "roman_catholic",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/552999994",
-      "osm_id": 552999994,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "place_of_worship",
-      "lat": 46.3156391,
-      "lon": 23.6829679,
-      "tags": {
-        "amenity": "grave_yard",
-        "denomination": "reformed",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/553799097",
-      "osm_id": 553799097,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "place_of_worship",
-      "lat": 46.3422659,
-      "lon": 23.653759,
-      "tags": {
-        "amenity": "grave_yard",
-        "denomination": "orthodox",
-        "religion": "christian"
-      }
-    }
-  ]
-}
+  {
+    "id": "node-622094664",
+    "name": "Biserica Sfinții Trei Ierarhi",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.3088276,
+    "lng": 23.7184061,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-1316062817",
+    "name": "Mănăstirea Măgina",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.3354214,
+    "lng": 23.6356194,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2217293035",
+    "name": "Biserica Ortodoxă Pietroasa",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.4635971,
+    "lng": 23.6289209,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2217293207",
+    "name": "Biserica Unitariană Pietroasa",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.4636321,
+    "lng": 23.6357175,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2219188024",
+    "name": "Ref Templom",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.4638941,
+    "lng": 23.7351818,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2219188455",
+    "name": "Ort Templom",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.4623338,
+    "lng": 23.73847,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2219406968",
+    "name": "Biserica Buna Vestire",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.402498,
+    "lng": 23.8310948,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2219407225",
+    "name": "Biserica Reformată",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.4033174,
+    "lng": 23.8172088,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2219495771",
+    "name": "Biserica Reformată",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.410976,
+    "lng": 23.8673852,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2219496082",
+    "name": "Biserica Ortodoxă",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.4127846,
+    "lng": 23.8703838,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2222249298",
+    "name": "Biserica Reformată",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.3825503,
+    "lng": 23.85906,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2222249319",
+    "name": "Biserica Sf Nicolae",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.3842302,
+    "lng": 23.8620159,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2222249565",
+    "name": "Biserica Sf Andrei",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.3804852,
+    "lng": 23.8576279,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2222388987",
+    "name": "Biserica Ortodoxă Uioara de Sus",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.393186,
+    "lng": 23.8715422,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2223089095",
+    "name": "Biserica Ortodoxă",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.3692972,
+    "lng": 23.835747,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2223089408",
+    "name": "Biserica Ortodoxă",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.3705293,
+    "lng": 23.8372879,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2225405863",
+    "name": "Biserica Ortodoxă",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.3701644,
+    "lng": 23.7874711,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2225443451",
+    "name": "Biserica Reformată Gâmbaș",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.3477919,
+    "lng": 23.7190696,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2225544172",
+    "name": "Biserica Ortodoxă Gâmbaș",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.3463993,
+    "lng": 23.7232206,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2226032911",
+    "name": "Biserica Reformată Ciumbrud",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.3095627,
+    "lng": 23.7602516,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2226033009",
+    "name": "Biserica Păgida",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.3404823,
+    "lng": 23.7440752,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2226033416",
+    "name": "Biserica Sfântul Nicolae",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.3094923,
+    "lng": 23.7624536,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2228536343",
+    "name": "Biserica Ortodoxă de lemn Sfânta Treime",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.2938968,
+    "lng": 23.7526747,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2228536431",
+    "name": "Biserica Ortodoxă Sfântul Nicolae",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.2935246,
+    "lng": 23.7507112,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2228627703",
+    "name": "Biserica Sfinții Apostoli Petru și Pavel",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.2725622,
+    "lng": 23.7224908,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2228627708",
+    "name": "Biserica Pogorârea Sfântului Duh",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.2731678,
+    "lng": 23.7207996,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2228730449",
+    "name": "Biserica Reformată",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.274603,
+    "lng": 23.7214431,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2228803627",
+    "name": "Biserica Reformată Leorinț",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.253994,
+    "lng": 23.7238197,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2228803644",
+    "name": "Biserica Ortodoxă Leorinț",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.2538996,
+    "lng": 23.7274106,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2228842902",
+    "name": "Biserica Meșcreac",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.241337,
+    "lng": 23.7381966,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2228858848",
+    "name": "Biserica Greco Catolică",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.1716426,
+    "lng": 23.8359548,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2228896264",
+    "name": "Biserica Pețelca",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.2216408,
+    "lng": 23.7376142,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2228985343",
+    "name": "Biserica Căpud",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.2060597,
+    "lng": 23.7271053,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2229368684",
+    "name": "Biserica Ortodoxă Română Mihalț",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.1601656,
+    "lng": 23.7282579,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2229368933",
+    "name": "Biserica Greco-Catolică Mihalț",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.1592363,
+    "lng": 23.7260992,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2229369048",
+    "name": "Biserica Ortodoxă Mihalț",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.1602209,
+    "lng": 23.7232962,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2229371670",
+    "name": "Biserica Obreja",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.1742828,
+    "lng": 23.7644092,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2229473467",
+    "name": "Biserica Reformată",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.4458109,
+    "lng": 23.741271,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2229473724",
+    "name": "Biserica Sfânta Treime",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.4458933,
+    "lng": 23.74218,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2231253435",
+    "name": "Biserica Dumbrava",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.4345684,
+    "lng": 23.7714578,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2231799175",
+    "name": "Biserica Ortodoxă Inoc",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.3851273,
+    "lng": 23.7877817,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2231834602",
+    "name": "Biserica Ortodoxă 1 Decea",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.3820005,
+    "lng": 23.7625938,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2231834620",
+    "name": "Biserica Reformată Decea",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.3804295,
+    "lng": 23.7673869,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2231834681",
+    "name": "Biserica Ortodoxă 2 Decea",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.382208,
+    "lng": 23.7724878,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2231916292",
+    "name": "Biserica Ortodoxă Ciugudu de Jos",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.4176246,
+    "lng": 23.743245,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2232403741",
+    "name": "Biserica Ortodoxă Mirăslău",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.3637862,
+    "lng": 23.7075466,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2232404207",
+    "name": "Biserica Reformată Mirăslău",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.3665256,
+    "lng": 23.7079891,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2245308395",
+    "name": "Biserica Gârbova de Jos",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.257221,
+    "lng": 23.665653,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2252648589",
+    "name": "Biserica Gârbova de Sus",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.2928071,
+    "lng": 23.6228053,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2252648631",
+    "name": "Biserica Nașterea Fecioarei Maria",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.282096,
+    "lng": 23.6413311,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2255960949",
+    "name": "Biserica Geomal",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.2618086,
+    "lng": 23.6223653,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2257333499",
+    "name": "Biserica Beldiu",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.235936,
+    "lng": 23.7184417,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2257629327",
+    "name": "Biserica Sf. Nicolae",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.2057837,
+    "lng": 23.674917,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2257629508",
+    "name": "Biserica Reformată",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.206272,
+    "lng": 23.6765857,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2257644574",
+    "name": "Biserica Greco Catolică",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.2049838,
+    "lng": 23.6824842,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2258306729",
+    "name": "Biserica Romano Catolică",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.2078236,
+    "lng": 23.6695131,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2258802556",
+    "name": "Biserica Sf Treime",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.1724454,
+    "lng": 23.6779882,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2259777914",
+    "name": "Biserica Coșlariu",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.1581511,
+    "lng": 23.68828,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2260348910",
+    "name": "Biserica Ortodoxă Oiejdea",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.1577669,
+    "lng": 23.6325765,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2260348964",
+    "name": "Biserica Reformată Oiejdea",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.1557343,
+    "lng": 23.628835,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2260535455",
+    "name": "Biserica Ortodoxă Galda de Jos (1906)",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.1793812,
+    "lng": 23.6154501,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2734894998",
+    "name": "Biserica Sfântul Ierarh Nicolae",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.3421238,
+    "lng": 23.6545674,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2933120419",
+    "name": "Biserica Ortodoxă Cetea",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.2340282,
+    "lng": 23.5820305,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2933120441",
+    "name": "Biserica Greco-Catolica Cetea",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.2343106,
+    "lng": 23.5826728,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2935233233",
+    "name": "Biserica Fortificată Cricău",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.1742497,
+    "lng": 23.5656733,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2935233332",
+    "name": "Biserica Ortodoxă Cricău",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.1758954,
+    "lng": 23.5604397,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2935233444",
+    "name": "Biserica Ortodoxă (fostă greco-catolică) Cricău",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.1780238,
+    "lng": 23.5625513,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-2935233858",
+    "name": "Biserica Ortodoxă Adormirea Maicii Domnului Tibru",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.1980653,
+    "lng": 23.5605481,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-3589508475",
+    "name": "Biserica Greco-Catolică Băgău",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.3096749,
+    "lng": 23.793536,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-3589508595",
+    "name": "Biserica Reformată Băgău",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.3110487,
+    "lng": 23.7924191,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-3589508632",
+    "name": "Biserica de lemn Sfântul Teodor Tiron",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.3130154,
+    "lng": 23.7937119,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-3589508636",
+    "name": "Biserica Sfântul Nicolae",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.3131984,
+    "lng": 23.7941154,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-4413666564",
+    "name": "Grădinița nr. 1 Teiuș",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 46.2053631,
+    "lng": 23.6771065,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-4867568520",
+    "name": "Biserica Adormirea Maicii Domnului",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.3188236,
+    "lng": 23.7172737,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-4869117796",
+    "name": "Biserică Reformată",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.3162868,
+    "lng": 23.6892003,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-4895924286",
+    "name": "Biserica Română cu unită",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.4256125,
+    "lng": 23.6428973,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-4895924306",
+    "name": "Biserica Ciugudu de Sus",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.4253139,
+    "lng": 23.7107143,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-4934382761",
+    "name": "Biserica Catolică",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.4040426,
+    "lng": 23.8116411,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-4934393440",
+    "name": "Spital Vechi",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 46.3858476,
+    "lng": 23.8435976,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-5013650782",
+    "name": "Biserica Geoagiu de Sus",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.2662684,
+    "lng": 23.5777664,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-5013650797",
+    "name": "Biserica Cuv. Paraschiva Stremț II",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.2205907,
+    "lng": 23.6467582,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-5164455486",
+    "name": "Schitul Aiud",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.3074364,
+    "lng": 23.7302461,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-5164473585",
+    "name": "Biserica Ortodoxă Sf Cruce",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.3068497,
+    "lng": 23.726213,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-5166832705",
+    "name": "Biserica Ortodoxă",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.1734419,
+    "lng": 23.8339941,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-5274782013",
+    "name": "Școala Generală I-VIII Cricău",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.1762968,
+    "lng": 23.5665578,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-5274783828",
+    "name": "Școala Generală I-VIII nr 1 Teiuș",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.2051003,
+    "lng": 23.6792211,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-5274805872",
+    "name": "Școala gimnazială Livezile",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.3463142,
+    "lng": 23.6431261,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-5284373087",
+    "name": "Școala Primară I-IV Galda de Jos",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.1833344,
+    "lng": 23.616521,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-5301888730",
+    "name": "Biserica de lemn Cicău",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.4001687,
+    "lng": 23.6773306,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-5301937841",
+    "name": "Biserica Pentecostală Gâlda de Jos",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.1776909,
+    "lng": 23.6312253,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-5304625872",
+    "name": "Grup Școlar Teiuș",
+    "type": "school",
+    "subcategory": "college",
+    "lat": 46.2055457,
+    "lng": 23.6762538,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-5304664429",
+    "name": "Biserica Ortodoxă Stremț",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.2246999,
+    "lng": 23.631524,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-5304664431",
+    "name": "Școala Generală I-VIII Stremț",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.2218906,
+    "lng": 23.6400078,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-5325398160",
+    "name": "Schitul Livezile",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.3451963,
+    "lng": 23.6204082,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-5340973881",
+    "name": "Casa de Rugăciune Romano-Catolică",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.4532202,
+    "lng": 23.5670786,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-5380054090",
+    "name": "Grup Școlar Ciumbrud",
+    "type": "school",
+    "subcategory": "college",
+    "lat": 46.3053976,
+    "lng": 23.7609176,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-5809936383",
+    "name": "Școala cu clase I-VIII \"Demetriu Radu\"",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.2712907,
+    "lng": 23.7219542,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-5809936385",
+    "name": "Mânăstirea Aiud",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.3075585,
+    "lng": 23.7325435,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-5809936396",
+    "name": "Biserica Ortodoxă Aiudul de Sus (1932)",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.3176031,
+    "lng": 23.6884341,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-5840564717",
+    "name": "Biserica adventistă",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.310772,
+    "lng": 23.7218314,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-6579694788",
+    "name": "Școala Gimnazială \"Decebal\" Cricău",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.1763862,
+    "lng": 23.5664239,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-6579694793",
+    "name": "Școala Gimnazială \"Axente Sever\"",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.3078542,
+    "lng": 23.7260184,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-6579695287",
+    "name": "Liceul Teoretic Teiuș",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.2055845,
+    "lng": 23.6761285,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-7728806587",
+    "name": "Școala Gimn. Ioan Maiorescu Bucerdea-Grânoasă",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.194838,
+    "lng": 23.8414133,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-8273923562",
+    "name": "Grădința cu program normal Nr. 4",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 46.3103075,
+    "lng": 23.7164347,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-8628418244",
+    "name": "Superbet",
+    "type": "superbet",
+    "subcategory": "betting",
+    "lat": 46.3104872,
+    "lng": 23.7237257,
+    "osmType": "node",
+    "brand": null,
+    "operator": "Superbet Betting & Gaming SA"
+  },
+  {
+    "id": "node-9113438628",
+    "name": "Scoala generala I-IV Cetea",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.2349543,
+    "lng": 23.5832864,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "node-11891737285",
+    "name": "Grădinița \"Demetriu Radu\"",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 46.271522,
+    "lng": 23.7227303,
+    "osmType": "node",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-49016044",
+    "name": "Policlinica Aiud",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 46.3075891,
+    "lng": 23.7235522,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-49016051",
+    "name": "Spitalul Municipal Aiud",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 46.3080964,
+    "lng": 23.7229969,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-49016052",
+    "name": "Biserica Catolică",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.3123162,
+    "lng": 23.7255034,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-49016054",
+    "name": "Biserica Micro III",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.3096661,
+    "lng": 23.7317551,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-49041428",
+    "name": "Colegiul Bethlen Gabor",
+    "type": "school",
+    "subcategory": "college",
+    "lat": 46.3107355,
+    "lng": 23.7173387,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-49790816",
+    "name": "Biserica Baptistă Nr. 2 Aiud",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.3090435,
+    "lng": 23.7123711,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-49790817",
+    "name": "Biserica Simion Bărnuțiu",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.3084061,
+    "lng": 23.7146191,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-138938540",
+    "name": "Școala Generală nr. 3 \"Axente Sever\"",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.3086891,
+    "lng": 23.7297971,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-138939396",
+    "name": "Grădinița cu program prelungit nr. 2",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 46.3089857,
+    "lng": 23.7303959,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-138942634",
+    "name": "Creșă",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.3090663,
+    "lng": 23.7309271,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-201544875",
+    "name": "Biserica Cuv. Paraschiva Stremț II",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.2205868,
+    "lng": 23.6467851,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-213200552",
+    "name": "Școala Sf Treime",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.1596079,
+    "lng": 23.7238405,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-213565627",
+    "name": "Școala Gimnazială",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.3606885,
+    "lng": 23.7062523,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-216520878",
+    "name": "Școala Generală Stremț",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.2220382,
+    "lng": 23.6399171,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-216658433",
+    "name": "Școala Gimnazială Galda de Jos",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.1783876,
+    "lng": 23.6248633,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-216663357",
+    "name": "Dispensar medical Galda de Jos",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 46.1786524,
+    "lng": 23.6202609,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-276980176",
+    "name": "Biserica Greco-Catolică",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.3811932,
+    "lng": 23.8586628,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-276980177",
+    "name": "Biserica Sf. Nectarie",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.3940705,
+    "lng": 23.8537308,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-276980328",
+    "name": "Spitalul Ocna Mureș",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 46.3792837,
+    "lng": 23.8603651,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-286068900",
+    "name": "Biserica Romano-Catolică",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.3835652,
+    "lng": 23.8602101,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-286430009",
+    "name": "Biserica Ortodoxă Buceredea Grânoasă",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.1951143,
+    "lng": 23.8374499,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-286430010",
+    "name": "Biserica Ortodoxă Hopârta",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.3184199,
+    "lng": 23.8755809,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-286430019",
+    "name": "Biserica Ciuguzel (1939)",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.2815853,
+    "lng": 23.8583556,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-286580825",
+    "name": "Biserica Sfinții Arhangheli Mihail și Gavril",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.3175991,
+    "lng": 23.6884607,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-286580828",
+    "name": "Biserica Ortodoxă Sfântul Ioan Botezătorul Rachiș",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.394509,
+    "lng": 23.6241428,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-286580830",
+    "name": "Biserica Ortodoxă Nașterea Maicii Domnului Lopadea Veche",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.378056,
+    "lng": 23.6595706,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-286580834",
+    "name": "Biserica Unitariană",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.4528413,
+    "lng": 23.5676767,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-286580841",
+    "name": "Biserica Sfântul Nicolae",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.4519737,
+    "lng": 23.5677437,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-286580870",
+    "name": "Biserica Învierea Domnului",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.3491874,
+    "lng": 23.6307496,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-286580874",
+    "name": "Biserica Ortodoxă Sfântul Ilie Podeni",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.4279179,
+    "lng": 23.6431212,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-286580876",
+    "name": "Școala Generală Rîmetea",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.453172,
+    "lng": 23.5678987,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-286580877",
+    "name": "Biserica de Piatră",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.3488167,
+    "lng": 23.6355897,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-286580879",
+    "name": "Biserica Ortodoxă Poiana Aiudului",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.364721,
+    "lng": 23.603569,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-289770333",
+    "name": "Biserica Ortodoxă Stremț (1939)",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.2247026,
+    "lng": 23.6315233,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-289770367",
+    "name": "Biserica Ortodoxă Benic",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.2136463,
+    "lng": 23.5956125,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-289770378",
+    "name": "Biserica Ortodoxă Geoagiu de Sus",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.2541483,
+    "lng": 23.5943494,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-289770379",
+    "name": "Biserica Ortodoxă Galda de Sus",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.2199181,
+    "lng": 23.5673111,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-289770380",
+    "name": "Biserica Ortodoxă Română Geoagiu de Sus",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.26627,
+    "lng": 23.5777801,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-291301316",
+    "name": "Biserica Cistei",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.186082,
+    "lng": 23.7521178,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-368749883",
+    "name": "Biserica Sfântul Teodor Tiron",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.3144307,
+    "lng": 23.7265729,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-378323076",
+    "name": "Biserica Sfânta Elisabeta a Ungariei",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.3097315,
+    "lng": 23.7189663,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-413013980",
+    "name": "Biserica Bunul Samaritean",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.3858075,
+    "lng": 23.8516937,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-413034713",
+    "name": "Liceul Teoretic Petru Maior",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.3889058,
+    "lng": 23.846965,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-413035137",
+    "name": "Biserica Adventistă",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.3799034,
+    "lng": 23.8491955,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-413039409",
+    "name": "Școala Gimnazială Lucian Blaga",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.3816373,
+    "lng": 23.8610739,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-437341557",
+    "name": "Kindergarden",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.4556384,
+    "lng": 23.5682854,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-494833905",
+    "name": "Biserica Evanghelică-Lutherană",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.3097169,
+    "lng": 23.7178919,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-494833907",
+    "name": "Biserica Reformată",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.309514,
+    "lng": 23.7177631,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-503095607",
+    "name": "Biserica Ortodoxă Unirea",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.405022,
+    "lng": 23.8114944,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-503095611",
+    "name": "Școala Generală Unirea",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.4056107,
+    "lng": 23.811123,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-503095631",
+    "name": "Școala cu clasele I-VIII nr 2 Unirea",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.4011339,
+    "lng": 23.8336078,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-512581391",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.4395016,
+    "lng": 23.7959575,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-512581409",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.4390746,
+    "lng": 23.7957981,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-531392695",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.3086794,
+    "lng": 23.7297454,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-532135842",
+    "name": "Biserica Înălțarea Sfintei Cruci",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.3068608,
+    "lng": 23.7262707,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-532652188",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.3063995,
+    "lng": 23.7217868,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-532652198",
+    "name": "Colegiul National \"Titu Maiorescu\"",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.3064868,
+    "lng": 23.722439,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-545790543",
+    "name": "Biserica Ortodoxă de lemn Mesentea",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.1935798,
+    "lng": 23.6006062,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-549123867",
+    "name": "Biserica Ortodoxă Înălțarea Domnului Galda de Jos (1906)",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.1793653,
+    "lng": 23.6153968,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-549123868",
+    "name": "Grădinița Galda de Jos",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 46.1833749,
+    "lng": 23.6164969,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-549141980",
+    "name": "Biserica Reformată Stremț (1858)",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.2238384,
+    "lng": 23.6398031,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-549338375",
+    "name": "Biserica Nașterii Maicii Domnului",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.1797928,
+    "lng": 23.6222098,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-549502464",
+    "name": "Biserica Episcopală Râmeț",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.2661414,
+    "lng": 23.5824506,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-550211176",
+    "name": "Magyarbece Reformatus Templom",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.2522448,
+    "lng": 23.8158149,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-550211177",
+    "name": "Magyarlapád Reformatus Templom",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.2891028,
+    "lng": 23.8154008,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-550212222",
+    "name": "Biserica Reformată",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.2932979,
+    "lng": 23.7460014,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-550667481",
+    "name": "Biserica Reformată Bucerdea Grânoasă",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.1919125,
+    "lng": 23.8403698,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-550671712",
+    "name": "Magyarsolymos Orthodox Templom",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.2250133,
+    "lng": 23.7850065,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-550671713",
+    "name": "Magyarsolymos Roman Volt Templom",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.2279497,
+    "lng": 23.7837153,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-550905898",
+    "name": "Biserica Unitariană",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.4220326,
+    "lng": 23.5613227,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-550905899",
+    "name": "Biserica Reformată",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.4229076,
+    "lng": 23.5613008,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-550905905",
+    "name": "Biserica Ortodoxă Vălișoara",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.3886622,
+    "lng": 23.5627119,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-550908564",
+    "name": "Vadverem Orthodox Templom",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.2590778,
+    "lng": 23.8362943,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-550939352",
+    "name": "Școala Generală Hopârta",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.3205945,
+    "lng": 23.8733727,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-550940498",
+    "name": "Biserica Ortodoxă Silivaș",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.3403416,
+    "lng": 23.8690663,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-551021596",
+    "name": "Kisakna Reformatus Templom",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.2556293,
+    "lng": 23.8772515,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-551032061",
+    "name": "Biserica Greco-Catolică Bucerdea Grânoasă",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.1910043,
+    "lng": 23.8405487,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-552092491",
+    "name": "Școala Generală Cistei",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.184161,
+    "lng": 23.7586131,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  },
+  {
+    "id": "way-552850594",
+    "name": "Biserica Penticostală",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.3109498,
+    "lng": 23.7046787,
+    "osmType": "way",
+    "brand": null,
+    "operator": null
+  }
+]
