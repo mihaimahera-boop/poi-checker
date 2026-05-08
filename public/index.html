@@ -7,7 +7,6 @@
 
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-  <script src="https://unpkg.com/leaflet.heat/dist/leaflet-heat.js"></script>
 
   <style>
     * { box-sizing: border-box; }
@@ -32,8 +31,9 @@
     }
 
     .layout {
-  display: grid;
-  grid-template-columns: 320px 1fr;
+      display: grid;
+      grid-template-columns: 350px 1fr;
+      gap: 14px;
       align-items: start;
     }
 
@@ -156,7 +156,7 @@
 
     #map {
       width: 100%;
-      height: calc(100vh - 120px);
+      height: calc(100vh - 180px);
       min-height: 720px;
       border-radius: 18px;
       overflow: hidden;
@@ -219,100 +219,18 @@
       margin: 0;
       transform: scale(1.15);
     }
-@keyframes pulsePin {
-  0% {
-    transform: scale(0.75);
-    opacity: 0.9;
-  }
 
-  70% {
-    transform: scale(1.45);
-    opacity: 0;
-  }
-
-  100% {
-    transform: scale(0.75);
-    opacity: 0;
-  }
-}
     @media (max-width: 1100px) {
-
-  .layout {
-    grid-template-columns: 1fr;
-  }
-
-  .panel {
-    max-height: none;
-    order: 2;
-  }
-
-  .content {
-    order: 1;
-  }
-
-  .cards {
-    grid-template-columns: 1fr 1fr;
-  }
-
-  #map {
-    height: 72vh;
-    min-height: 72vh;
-  }
-}
+      .layout { grid-template-columns: 1fr; }
+      .panel { max-height: none; }
+      .cards { grid-template-columns: 1fr 1fr; }
+      #map { height: 620px; min-height: 620px; }
+    }
 
     @media (max-width: 700px) {
-
-  body {
-    font-size: 14px;
-  }
-
-  .page {
-    padding: 0 4px;
-    margin: 4px auto;
-  }
-
-  h1 {
-    font-size: 20px;
-    margin: 4px 0 8px;
-  }
-
-  .panel,
-  .content {
-    padding: 8px;
-    border-radius: 14px;
-  }
-
-  .cards,
-  .row-2 {
-    grid-template-columns: 1fr;
-  }
-
-  #map {
-    height: 78vh;
-    min-height: 78vh;
-    border-radius: 14px;
-  }
-
-  input,
-  select,
-  button {
-    font-size: 16px;
-    padding: 14px;
-  }
-
-  .section-box {
-    padding: 8px;
-    border-radius: 12px;
-  }
-
-  .card {
-    min-height: auto;
-  }
-
-  .card-value {
-    font-size: 14px;
-  }
-}
+      .cards,
+      .row-2 { grid-template-columns: 1fr; }
+    }
   </style>
 </head>
 
@@ -412,6 +330,11 @@
           </label>
 
           <label class="filter-label">
+            <input type="checkbox" id="toggleSuperbet" checked />
+            Superbet
+          </label>
+
+          <label class="filter-label">
             <input type="checkbox" id="toggleNearest" checked />
             Cele mai apropiate POI
           </label>
@@ -460,6 +383,11 @@
         </div>
 
         <div class="section-box">
+          <h3>Cel mai apropiat Superbet</h3>
+          <div id="nearestSuperbet" class="muted">Nu există încă rezultat.</div>
+        </div>
+
+        <div class="section-box">
           <h3>Școli / creșe în interiorul pragului</h3>
           <div id="schoolsInside" class="muted">Nu există încă rezultat.</div>
         </div>
@@ -472,6 +400,11 @@
         <div class="section-box">
           <h3>Medical în interiorul pragului</h3>
           <div id="medicalInside" class="muted">Nu există încă rezultat.</div>
+        </div>
+
+        <div class="section-box">
+          <h3>Superbet în zonă</h3>
+          <div id="superbetInside" class="muted">Nu există încă rezultat.</div>
         </div>
       </div>
 
@@ -529,6 +462,7 @@
     const toggleSchools = document.getElementById("toggleSchools");
     const toggleChurches = document.getElementById("toggleChurches");
     const toggleMedical = document.getElementById("toggleMedical");
+    const toggleSuperbet = document.getElementById("toggleSuperbet");
     const toggleNearest = document.getElementById("toggleNearest");
     const toggleCandidates = document.getElementById("toggleCandidates");
     const toggleForbidden = document.getElementById("toggleForbidden");
@@ -546,47 +480,19 @@
     const nearestSchool = document.getElementById("nearestSchool");
     const nearestChurch = document.getElementById("nearestChurch");
     const nearestMedical = document.getElementById("nearestMedical");
+    const nearestSuperbet = document.getElementById("nearestSuperbet");
     const schoolsInside = document.getElementById("schoolsInside");
     const churchesInside = document.getElementById("churchesInside");
     const medicalInside = document.getElementById("medicalInside");
+    const superbetInside = document.getElementById("superbetInside");
     const savedLocations = document.getElementById("savedLocations");
 
     const map = L.map("map").setView([44.4268, 26.1025], 12);
 
-    const osmLayer = L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
-  maxZoom: 19,
-  attribution: "&copy; OpenStreetMap contributors"
-});
-
-const satelliteLayer = L.tileLayer(
-  "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}",
-  {
-    maxZoom: 19,
-    attribution: "Tiles &copy; Esri"
-  }
-);
-
-const topoLayer = L.tileLayer(
-  "https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png",
-  {
-    maxZoom: 17,
-    attribution: "&copy; OpenTopoMap"
-  }
-);
-
-osmLayer.addTo(map);
-
-L.control.layers(
-  {
-    "Hartă normală": osmLayer,
-    "Satelit": satelliteLayer,
-    "Topografic": topoLayer
-  },
-  null,
-  {
-    collapsed: false
-  }
-).addTo(map);
+    L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+      maxZoom: 19,
+      attribution: "&copy; OpenStreetMap contributors"
+    }).addTo(map);
 
     const layers = {
       basePoint: null,
@@ -595,8 +501,7 @@ L.control.layers(
       poiMarkers: [],
       nearestMarkers: [],
       candidateLines: [],
-      forbiddenZones: [],
-heatLayer: null
+      forbiddenZones: []
     };
 
     const state = {
@@ -606,13 +511,27 @@ heatLayer: null
       saved: []
     };
 
-    const defaultBlueIcon = new L.Icon({
-      iconUrl: "https://unpkg.com/leaflet@1.9.4/dist/images/marker-icon.png",
-      shadowUrl: "https://unpkg.com/leaflet@1.9.4/dist/images/marker-shadow.png",
-      iconSize: [25, 41],
-      iconAnchor: [12, 41],
-      popupAnchor: [1, -34],
-      shadowSize: [41, 41]
+    const greenPinSvg = `
+      <svg xmlns="http://www.w3.org/2000/svg" width="44" height="60" viewBox="0 0 44 60">
+        <defs>
+          <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+            <feDropShadow dx="0" dy="3" stdDeviation="3" flood-color="rgba(0,0,0,0.35)"/>
+          </filter>
+        </defs>
+        <g filter="url(#shadow)">
+          <path d="M22 2C12.06 2 4 10.06 4 20c0 13.5 18 38 18 38s18-24.5 18-38C40 10.06 31.94 2 22 2z"
+                fill="#00c853" stroke="#ffffff" stroke-width="3"/>
+          <circle cx="22" cy="20" r="8" fill="#ffffff"/>
+        </g>
+      </svg>
+    `;
+
+    const defaultBlueIcon = new L.DivIcon({
+      className: "",
+      html: greenPinSvg,
+      iconSize: [44, 60],
+      iconAnchor: [22, 58],
+      popupAnchor: [0, -52]
     });
 
     function dotIcon(color, size = 14) {
@@ -620,8 +539,11 @@ heatLayer: null
         className: "",
         html: `
           <div style="
-            width:${size}px;height:${size}px;border-radius:50%;
-            background:${color};border:2px solid #ffffff;
+            width:${size}px;
+            height:${size}px;
+            border-radius:50%;
+            background:${color};
+            border:2px solid #ffffff;
             box-shadow:0 0 0 3px rgba(0,0,0,0.20);
           "></div>
         `,
@@ -634,41 +556,31 @@ heatLayer: null
     const bigGreenIcon = dotIcon("#13a144", 24);
     const redIcon = dotIcon("#d12d2d", 30);
     const yellowIcon = dotIcon("#facc15", 18);
-    const basePointIcon = new L.DivIcon({
-  className: "",
-  html: `
-    <div style="
-      position: relative;
-      width: 42px;
-      height: 42px;
-    ">
-      <div style="
-        position: absolute;
-        left: 0;
-        top: 0;
-        width: 42px;
-        height: 42px;
-        border-radius: 50%;
-        background: rgba(58,104,214,0.25);
-        animation: pulsePin 1.4s infinite;
-      "></div>
 
-      <div style="
-        position: absolute;
-        left: 6px;
-        top: 6px;
-        width: 30px;
-        height: 30px;
-        border-radius: 50%;
-        background: #2563eb;
-        border: 4px solid white;
-        box-shadow: 0 0 0 3px rgba(37,99,235,0.35), 0 4px 12px rgba(0,0,0,0.35);
-      "></div>
-    </div>
-  `,
-  iconSize: [42, 42],
-  iconAnchor: [21, 21]
-});
+    const superbetIcon = new L.DivIcon({
+      className: "",
+      html: `
+        <div style="
+          width: 30px;
+          height: 30px;
+          border-radius: 50%;
+          background: #d60000;
+          border: 2px solid #ffffff;
+          box-shadow: 0 0 0 3px rgba(0,0,0,0.20);
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          color: #ffffff;
+          font-weight: 900;
+          font-size: 18px;
+          font-family: Arial, sans-serif;
+          line-height: 1;
+        ">S</div>
+      `,
+      iconSize: [30, 30],
+      iconAnchor: [15, 15],
+      popupAnchor: [0, -15]
+    });
 
     function clearMapLayers() {
       Object.values(layers).forEach((value) => {
@@ -688,7 +600,6 @@ heatLayer: null
       layers.nearestMarkers = [];
       layers.candidateLines = [];
       layers.forbiddenZones = [];
-      layers.heatLayer = null;
     }
 
     function setStatus(message, type = "ok") {
@@ -783,18 +694,32 @@ heatLayer: null
       const subcategory = String(poi.subcategory || "").toLowerCase();
       const amenity = String(poi?.tags?.amenity || "").toLowerCase();
       const healthcare = String(poi?.tags?.healthcare || "").toLowerCase();
+      const brand = String(poi?.brand || poi?.tags?.brand || "").toLowerCase();
+      const operator = String(poi?.operator || poi?.tags?.operator || "").toLowerCase();
+      const name = String(poi?.name || "").toLowerCase();
 
       if (type === "school" || category === "school") return "school";
       if (type === "church" || category === "church") return "church";
       if (type === "medical" || category === "medical") return "medical";
+      if (type === "superbet" || category === "superbet") return "superbet";
 
-      if (["school", "kindergarten", "college", "university", "childcare"].includes(amenity) || subcategory === "childcare") {
+      if (brand.includes("superbet") || operator.includes("superbet") || name.includes("superbet")) {
+        return "superbet";
+      }
+
+      if (
+        ["school", "kindergarten", "college", "university", "childcare"].includes(amenity) ||
+        subcategory === "childcare"
+      ) {
         return "school";
       }
 
       if (amenity === "place_of_worship") return "church";
 
-      if (["hospital", "clinic", "doctors"].includes(amenity) || ["hospital", "clinic", "doctor"].includes(healthcare)) {
+      if (
+        ["hospital", "clinic", "doctors"].includes(amenity) ||
+        ["hospital", "clinic", "doctor"].includes(healthcare)
+      ) {
         return "medical";
       }
 
@@ -805,6 +730,7 @@ heatLayer: null
       const schools = [];
       const churches = [];
       const medical = [];
+      const superbet = [];
 
       for (const poi of pois) {
         const lat = Number(poi.lat);
@@ -818,9 +744,10 @@ heatLayer: null
         if (normalized === "school") schools.push(item);
         if (normalized === "church") churches.push(item);
         if (normalized === "medical") medical.push(item);
+        if (normalized === "superbet") superbet.push(item);
       }
 
-      return { schools, churches, medical };
+      return { schools, churches, medical, superbet };
     }
 
     function getNearestPoi(baseLat, baseLon, list) {
@@ -850,6 +777,8 @@ heatLayer: null
     }
 
     function renderNearest(container, item) {
+      if (!container) return;
+
       if (!item) {
         container.innerHTML = '<div class="muted">Nu există rezultat.</div>';
         return;
@@ -865,6 +794,8 @@ heatLayer: null
     }
 
     function renderPoiList(container, items) {
+      if (!container) return;
+
       if (!items || !items.length) {
         container.innerHTML = '<div class="muted">Nu există rezultate.</div>';
         return;
@@ -987,13 +918,13 @@ heatLayer: null
 
     function addBaseMarker(lat, lon) {
       layers.basePoint = L.marker([lat, lon], {
-        iicon: basePointIcon,
+        icon: defaultBlueIcon,
         draggable: true
       })
-        .bindPopup("<strong>Punct introdus</strong>")
+        .bindPopup("<strong>Punct analizat</strong>")
         .addTo(map);
 
-      layers.basePoint.on("dragend", async function(e) {
+      layers.basePoint.on("dragend", async function (e) {
         const pos = e.target.getLatLng();
         await analyzeAtCoords(pos.lat, pos.lng, "Pin mutat manual");
       });
@@ -1003,18 +934,22 @@ heatLayer: null
       if (!toggleNearest.checked) return;
       if (!item) return;
 
-      const marker = L.marker([item.poi.lat, item.poi.lon], { icon: yellowIcon })
-        .bindPopup(`
-          <strong>${label}</strong><br>
-          ${item.poi.name || "Fără nume"}<br>
-          Distanță: ${formatMeters(item.distance)}
-        `);
+      const isSuperbet = String(label).toLowerCase().includes("superbet");
+
+      const marker = L.marker(
+        [item.poi.lat, item.poi.lon],
+        { icon: isSuperbet ? superbetIcon : yellowIcon }
+      ).bindPopup(`
+        <strong>${label}</strong><br>
+        ${item.poi.name || "Fără nume"}<br>
+        Distanță: ${formatMeters(item.distance)}
+      `);
 
       marker.addTo(map);
       layers.nearestMarkers.push(marker);
     }
 
-    function addPoiMarkers(insideSchools, insideChurches, insideMedical) {
+    function addPoiMarkers(insideSchools, insideChurches, insideMedical, nearbySuperbet) {
       if (toggleSchools.checked) {
         insideSchools.forEach((item) => {
           const marker = L.marker([item.poi.lat, item.poi.lon], { icon: redIcon })
@@ -1056,6 +991,20 @@ heatLayer: null
           layers.poiMarkers.push(marker);
         });
       }
+
+      if (toggleSuperbet.checked) {
+        nearbySuperbet.forEach((item) => {
+          const marker = L.marker([item.poi.lat, item.poi.lon], { icon: superbetIcon })
+            .bindPopup(`
+              <strong>Superbet</strong><br>
+              ${item.poi.name || "Fără nume"}<br>
+              Distanță: ${formatMeters(item.distance)}
+            `);
+
+          marker.addTo(map);
+          layers.poiMarkers.push(marker);
+        });
+      }
     }
 
     function addCandidateMarkers(baseLat, baseLon, candidates) {
@@ -1070,54 +1019,11 @@ heatLayer: null
             Distanță: ${formatMeters(candidate.distanceFromBase)}
           `);
 
-        marker.addTo(map);
-        layers.gridCandidates.push(marker);
+          marker.addTo(map);
+          layers.gridCandidates.push(marker);
       });
     }
-function addHeatMap(
-  schools,
-  churches,
-  medical
-) {
 
-  const heatPoints = [];
-
-  schools.forEach((poi) => {
-    heatPoints.push([
-      poi.lat,
-      poi.lon,
-      0.9
-    ]);
-  });
-
-  churches.forEach((poi) => {
-    heatPoints.push([
-      poi.lat,
-      poi.lon,
-      0.7
-    ]);
-  });
-
-  medical.forEach((poi) => {
-    heatPoints.push([
-      poi.lat,
-      poi.lon,
-      0.6
-    ]);
-  });
-
-  if (!heatPoints.length) return;
-
-  layers.heatLayer = L.heatLayer(
-    heatPoints,
-    {
-      radius: 35,
-      blur: 28,
-      maxZoom: 18,
-      minOpacity: 0.25
-    }
-  ).addTo(map);
-}
     function addForbiddenZones(schools, churches, medical, schoolT, churchT, medicalT) {
       if (!toggleForbidden.checked) return;
 
@@ -1199,59 +1105,74 @@ function addHeatMap(
       const schoolT = Number(schoolThreshold.value);
       const churchT = Number(churchThreshold.value);
       const medicalT = Number(medicalThreshold.value);
+      const nearbyRadius = Number(zoneRadius.value);
 
       const poiData = await loadPoi(city);
-      const { schools, churches, medical } = splitPois(poiData.pois || []);
+      const { schools, churches, medical, superbet } = splitPois(poiData.pois || []);
 
       const nearestSchoolItem = getNearestPoi(lat, lon, schools);
       const nearestChurchItem = getNearestPoi(lat, lon, churches);
       const nearestMedicalItem = getNearestPoi(lat, lon, medical);
+      const nearestSuperbetItem = getNearestPoi(lat, lon, superbet);
 
       const schoolsInThreshold = filterInsideThreshold(lat, lon, schools, schoolT);
       const churchesInThreshold = filterInsideThreshold(lat, lon, churches, churchT);
       const medicalInThreshold = filterInsideThreshold(lat, lon, medical, medicalT);
+      const nearbySuperbet = filterInsideThreshold(lat, lon, superbet, nearbyRadius);
 
       const schoolOk = schoolsInThreshold.length === 0;
       const churchOk = churchesInThreshold.length === 0;
       const medicalOk = medicalInThreshold.length === 0;
       const finalOk = schoolOk && churchOk && medicalOk;
 
-      const topCandidates = generateSimpleCandidates(lat, lon, schools, churches, medical, schoolT, churchT, medicalT);
+      const topCandidates = generateSimpleCandidates(
+        lat,
+        lon,
+        schools,
+        churches,
+        medical,
+        schoolT,
+        churchT,
+        medicalT
+      );
 
       geoAddress.textContent = displayName;
 
       setVerdict(schoolVerdict, schoolOk, schoolsInThreshold.length);
       setVerdict(churchVerdict, churchOk, churchesInThreshold.length);
       setVerdict(medicalVerdict, medicalOk, medicalInThreshold.length);
-      setVerdict(finalVerdict, finalOk, schoolsInThreshold.length + churchesInThreshold.length + medicalInThreshold.length);
+      setVerdict(
+        finalVerdict,
+        finalOk,
+        schoolsInThreshold.length + churchesInThreshold.length + medicalInThreshold.length
+      );
 
       zoneInfo.textContent =
         `Școli: ${schools.length}\n` +
         `Biserici: ${churches.length}\n` +
-        `Medical: ${medical.length}`;
+        `Medical: ${medical.length}\n` +
+        `Superbet: ${superbet.length}\n` +
+        `Cel mai apropiat Superbet: ${nearestSuperbetItem ? formatMeters(nearestSuperbetItem.distance) : "-"}`;
 
       renderNearest(nearestSchool, nearestSchoolItem);
       renderNearest(nearestChurch, nearestChurchItem);
       renderNearest(nearestMedical, nearestMedicalItem);
+      renderNearest(nearestSuperbet, nearestSuperbetItem);
 
       renderPoiList(schoolsInside, schoolsInThreshold);
       renderPoiList(churchesInside, churchesInThreshold);
       renderPoiList(medicalInside, medicalInThreshold);
+      renderPoiList(superbetInside, nearbySuperbet);
       renderTopCandidates(topCandidates);
 
       addBaseMarker(lat, lon);
-
       addForbiddenZones(schools, churches, medical, schoolT, churchT, medicalT);
-      addHeatMap(
-  schools,
-  churches,
-  medical
-);
-      addPoiMarkers(schoolsInThreshold, churchesInThreshold, medicalInThreshold);
+      addPoiMarkers(schoolsInThreshold, churchesInThreshold, medicalInThreshold, nearbySuperbet);
 
       addNearestMarker(nearestSchoolItem, "Cel mai apropiat POI școală");
       addNearestMarker(nearestChurchItem, "Cel mai apropiat POI biserică");
       addNearestMarker(nearestMedicalItem, "Cel mai apropiat POI medical");
+      addNearestMarker(nearestSuperbetItem, "Cel mai apropiat Superbet");
 
       addCandidateMarkers(lat, lon, topCandidates);
 
@@ -1322,36 +1243,29 @@ function addHeatMap(
     });
 
     exportCsvBtn.addEventListener("click", exportSavedLocationsCsv);
-
     analyzeBtn.addEventListener("click", analyze);
 
-    [toggleSchools, toggleChurches, toggleMedical, toggleNearest, toggleCandidates, toggleForbidden].forEach((checkbox) => {
+    [
+      toggleSchools,
+      toggleChurches,
+      toggleMedical,
+      toggleSuperbet,
+      toggleNearest,
+      toggleCandidates,
+      toggleForbidden
+    ].forEach((checkbox) => {
       checkbox.addEventListener("change", async () => {
         if (isFinite(state.lastLat) && isFinite(state.lastLon)) {
-          await analyzeAtCoords(state.lastLat, state.lastLon, state.lastDisplayName || "Pin curent");
+          await analyzeAtCoords(
+            state.lastLat,
+            state.lastLon,
+            state.lastDisplayName || "Pin curent"
+          );
         }
       });
     });
 
     loadCities();
-    map.on("click", async (e) => {
-  try {
-    const lat = e.latlng.lat;
-    const lon = e.latlng.lng;
-
-    state.lastDisplayName = "Locație selectată manual";
-
-    await analyzeAtCoords(
-      lat,
-      lon,
-      `Locație selectată manual\n${lat.toFixed(6)}, ${lon.toFixed(6)}`
-    );
-
-  } catch (err) {
-    console.error(err);
-    setStatus("Eroare la analiza punctului selectat.", "bad");
-  }
-});
   </script>
 </body>
 </html>

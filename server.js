@@ -52,6 +52,50 @@ function getAllPoiFiles() {
     .sort((a, b) => a.localeCompare(b, "ro"));
 }
 
+function detectPoiCategory(poi) {
+  const type = String(poi.type || "").toLowerCase();
+  const category = String(poi.category || "").toLowerCase();
+  const subcategory = String(poi.subcategory || "").toLowerCase();
+  const amenity = String(poi?.tags?.amenity || "").toLowerCase();
+  const healthcare = String(poi?.tags?.healthcare || "").toLowerCase();
+  const brand = String(poi?.brand || poi?.tags?.brand || "").toLowerCase();
+  const operator = String(poi?.operator || poi?.tags?.operator || "").toLowerCase();
+  const name = String(poi?.name || "").toLowerCase();
+
+  if (type === "school" || category === "school") return "school";
+  if (type === "church" || category === "church") return "church";
+  if (type === "medical" || category === "medical") return "medical";
+  if (type === "superbet" || category === "superbet") return "superbet";
+
+  if (
+    brand.includes("superbet") ||
+    operator.includes("superbet") ||
+    name.includes("superbet")
+  ) {
+    return "superbet";
+  }
+
+  if (
+    ["school", "kindergarten", "college", "university", "childcare"].includes(amenity) ||
+    subcategory === "childcare"
+  ) {
+    return "school";
+  }
+
+  if (amenity === "place_of_worship") {
+    return "church";
+  }
+
+  if (
+    ["hospital", "clinic", "doctors"].includes(amenity) ||
+    ["hospital", "clinic", "doctor"].includes(healthcare)
+  ) {
+    return "medical";
+  }
+
+  return "other";
+}
+
 function normalizePoiFile(json, fallbackCityName) {
   let pois = [];
 
@@ -61,23 +105,28 @@ function normalizePoiFile(json, fallbackCityName) {
     pois = json.pois;
   }
 
-  const normalizedPois = pois.map((poi) => ({
-    ...poi,
-    lat: Number(poi.lat),
-    lon: Number(poi.lon ?? poi.lng),
-    lng: Number(poi.lng ?? poi.lon),
-    type: poi.type || poi.category || "other",
-    category: poi.category || poi.type || "other"
-  }));
+  const normalizedPois = pois.map((poi) => {
+    const normalizedType = detectPoiCategory(poi);
+
+    return {
+      ...poi,
+      lat: Number(poi.lat),
+      lon: Number(poi.lon ?? poi.lng),
+      lng: Number(poi.lng ?? poi.lon),
+      type: normalizedType,
+      category: normalizedType
+    };
+  });
 
   return {
     city: json.city || fallbackCityName,
     pois: normalizedPois,
     counts: {
       total: normalizedPois.length,
-      school: normalizedPois.filter((p) => p.type === "school" || p.category === "school").length,
-      church: normalizedPois.filter((p) => p.type === "church" || p.category === "church").length,
-      medical: normalizedPois.filter((p) => p.type === "medical" || p.category === "medical").length
+      school: normalizedPois.filter((p) => p.type === "school").length,
+      church: normalizedPois.filter((p) => p.type === "church").length,
+      medical: normalizedPois.filter((p) => p.type === "medical").length,
+      superbet: normalizedPois.filter((p) => p.type === "superbet").length
     }
   };
 }

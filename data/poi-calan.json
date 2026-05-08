@@ -1,0 +1,830 @@
+[
+  {
+    "id": "node-257751470",
+    "name": "Ambulatoriul de Specialitate",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 45.7502831,
+    "lng": 22.9070091,
+    "osmType": "node"
+  },
+  {
+    "id": "node-257751934",
+    "name": "Secția de Boli Infecțioase",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 45.7488436,
+    "lng": 22.9088614,
+    "osmType": "node"
+  },
+  {
+    "id": "node-277762725",
+    "name": "Școala Generală nr. 4",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.7508228,
+    "lng": 22.9092874,
+    "osmType": "node"
+  },
+  {
+    "id": "node-316707613",
+    "name": "Universitatea Alma Mater",
+    "type": "school",
+    "subcategory": "university",
+    "lat": 45.7580179,
+    "lng": 22.9145365,
+    "osmType": "node"
+  },
+  {
+    "id": "node-316707909",
+    "name": "Colegiul Economic Emanuil Gojdu",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.7582499,
+    "lng": 22.913822,
+    "osmType": "node"
+  },
+  {
+    "id": "node-316708027",
+    "name": "Grup Școlar de Telecomunicații și Lucrări Publice",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.7556297,
+    "lng": 22.9097542,
+    "osmType": "node"
+  },
+  {
+    "id": "node-358469492",
+    "name": "Grădinița nr. 4",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 45.7565201,
+    "lng": 22.9077301,
+    "osmType": "node"
+  },
+  {
+    "id": "node-358469494",
+    "name": "Școala Generală nr. 3",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.7567733,
+    "lng": 22.9092455,
+    "osmType": "node"
+  },
+  {
+    "id": "node-359096315",
+    "name": "Școala Generală nr. 2",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.7644464,
+    "lng": 22.9131497,
+    "osmType": "node"
+  },
+  {
+    "id": "node-364834419",
+    "name": "Biserica Golgota",
+    "type": "church",
+    "subcategory": "place_of_worship",
+    "lat": 45.7626979,
+    "lng": 22.9171838,
+    "osmType": "node"
+  },
+  {
+    "id": "node-472402768",
+    "name": "Centrul de Sănătate Călan",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 45.7331603,
+    "lng": 23.0263719,
+    "osmType": "node"
+  },
+  {
+    "id": "node-477890993",
+    "name": "Grădinița Dumbrava Minunată",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 45.7655754,
+    "lng": 22.9133825,
+    "osmType": "node"
+  },
+  {
+    "id": "node-477952807",
+    "name": "Grădinița Prichindelul",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 45.7548341,
+    "lng": 22.9124573,
+    "osmType": "node"
+  },
+  {
+    "id": "node-477985631",
+    "name": "Grădinița nr. 6",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 45.7541768,
+    "lng": 22.9199501,
+    "osmType": "node"
+  },
+  {
+    "id": "node-478010916",
+    "name": "Centru de Pedagogie Curativă",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 45.7500626,
+    "lng": 22.9117343,
+    "osmType": "node"
+  },
+  {
+    "id": "node-478062503",
+    "name": "Colegiul Național de Informatică Traian Lalescu",
+    "type": "school",
+    "subcategory": "college",
+    "lat": 45.7501867,
+    "lng": 22.9095022,
+    "osmType": "node"
+  },
+  {
+    "id": "node-478062516",
+    "name": "Grădinița Piticot",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 45.7617179,
+    "lng": 22.9067946,
+    "osmType": "node"
+  },
+  {
+    "id": "node-486097659",
+    "name": "Grădinița nr. 1",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 45.7683461,
+    "lng": 22.9152746,
+    "osmType": "node"
+  },
+  {
+    "id": "node-486108577",
+    "name": "Grădinița nr. 5",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 45.758806,
+    "lng": 22.9189735,
+    "osmType": "node"
+  },
+  {
+    "id": "node-518807652",
+    "name": "Cimitir",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.7411152,
+    "lng": 22.9856339,
+    "osmType": "node"
+  },
+  {
+    "id": "node-683810177",
+    "name": "Biserica Ecumenică",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.7501384,
+    "lng": 22.9078451,
+    "osmType": "node"
+  },
+  {
+    "id": "node-1456570487",
+    "name": "Biserica Greco Catolică \"Sfînta Treime\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.7487946,
+    "lng": 22.9071454,
+    "osmType": "node"
+  },
+  {
+    "id": "node-2623985930",
+    "name": "Biserica",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.759021,
+    "lng": 23.1155977,
+    "osmType": "node"
+  },
+  {
+    "id": "node-2644454702",
+    "name": "Biserica Ortodoxă",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.7104989,
+    "lng": 23.130517,
+    "osmType": "node"
+  },
+  {
+    "id": "node-2648350698",
+    "name": "Biserica Sf Dumitru",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.7332834,
+    "lng": 23.1031204,
+    "osmType": "node"
+  },
+  {
+    "id": "node-2650605238",
+    "name": "Biserică",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.7795096,
+    "lng": 23.0784341,
+    "osmType": "node"
+  },
+  {
+    "id": "node-2652464917",
+    "name": "Biserica Chitid",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.7077363,
+    "lng": 23.0672707,
+    "osmType": "node"
+  },
+  {
+    "id": "node-2652526140",
+    "name": "Biserica Ortodoxă Boșorod",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.685073,
+    "lng": 23.0915143,
+    "osmType": "node"
+  },
+  {
+    "id": "node-2975755067",
+    "name": "Biserica Strei",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.716496,
+    "lng": 22.9888751,
+    "osmType": "node"
+  },
+  {
+    "id": "node-3222297911",
+    "name": "Biserica Ruși",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.6958454,
+    "lng": 22.9932781,
+    "osmType": "node"
+  },
+  {
+    "id": "node-3224032950",
+    "name": "Biserica Ortodoxă Română Ocolișu Mare",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.6882747,
+    "lng": 22.9416584,
+    "osmType": "node"
+  },
+  {
+    "id": "node-3280155728",
+    "name": "Biserica Ortodoxă Căian",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.7353139,
+    "lng": 22.9913721,
+    "osmType": "node"
+  },
+  {
+    "id": "node-3280297097",
+    "name": "Biserica Ortodoxă Strei",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.7146607,
+    "lng": 22.9932015,
+    "osmType": "node"
+  },
+  {
+    "id": "node-3282997303",
+    "name": "Biserica Nădăștia de Jos",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.7211947,
+    "lng": 22.9584388,
+    "osmType": "node"
+  },
+  {
+    "id": "node-3283485372",
+    "name": "Biserica Nădăștia de Sus",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.7126747,
+    "lng": 22.9333251,
+    "osmType": "node"
+  },
+  {
+    "id": "node-3325109570",
+    "name": "Biserica Reformată",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.735085,
+    "lng": 22.9299631,
+    "osmType": "node"
+  },
+  {
+    "id": "node-3325204415",
+    "name": "Biserica Ortodoxă",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.7345852,
+    "lng": 22.9245746,
+    "osmType": "node"
+  },
+  {
+    "id": "node-3413396664",
+    "name": "Biserica",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.7445883,
+    "lng": 23.0637674,
+    "osmType": "node"
+  },
+  {
+    "id": "node-3444744899",
+    "name": "Speranța Vie - Biserica Baptistă Independentă",
+    "type": "church",
+    "subcategory": "place_of_worship",
+    "lat": 45.7626566,
+    "lng": 22.9094063,
+    "osmType": "node"
+  },
+  {
+    "id": "node-4478731386",
+    "name": "CLINICA H",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 45.7496086,
+    "lng": 22.9079173,
+    "osmType": "node"
+  },
+  {
+    "id": "node-4998719117",
+    "name": "Schitul Măgura",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.7725179,
+    "lng": 23.0814164,
+    "osmType": "node"
+  },
+  {
+    "id": "node-6158402498",
+    "name": "Biserica Sfinții Arhangheli Mihail și Gavril",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.7708572,
+    "lng": 22.9206529,
+    "osmType": "node"
+  },
+  {
+    "id": "node-12294804976",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.758432,
+    "lng": 22.9158998,
+    "osmType": "node"
+  },
+  {
+    "id": "way-32847662",
+    "name": "Școala Generală nr. 11",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.7693553,
+    "lng": 22.91363,
+    "osmType": "way"
+  },
+  {
+    "id": "way-32857385",
+    "name": "Grădinița nr. 1",
+    "type": "school",
+    "subcategory": "childcare",
+    "lat": 45.7683309,
+    "lng": 22.9152288,
+    "osmType": "way"
+  },
+  {
+    "id": "way-32983753",
+    "name": "Grădinița Zori de Zi",
+    "type": "school",
+    "subcategory": "childcare",
+    "lat": 45.7666112,
+    "lng": 22.9083483,
+    "osmType": "way"
+  },
+  {
+    "id": "way-32983767",
+    "name": "Școala Gimnazială nr. 8",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.765415,
+    "lng": 22.907418,
+    "osmType": "way"
+  },
+  {
+    "id": "way-33037709",
+    "name": "Grădinița Dumbrava Minunată",
+    "type": "school",
+    "subcategory": "childcare",
+    "lat": 45.7655977,
+    "lng": 22.9133309,
+    "osmType": "way"
+  },
+  {
+    "id": "way-33042032",
+    "name": "Școala Gimnazială nr. 7",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.7630591,
+    "lng": 22.9061349,
+    "osmType": "way"
+  },
+  {
+    "id": "way-33637454",
+    "name": "Grădinița Cu Program Prelungit Prichindelul",
+    "type": "school",
+    "subcategory": "childcare",
+    "lat": 45.7543851,
+    "lng": 22.9129136,
+    "osmType": "way"
+  },
+  {
+    "id": "way-33683847",
+    "name": "Școala Gimnazială nr. 10",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.7581327,
+    "lng": 22.917712,
+    "osmType": "way"
+  },
+  {
+    "id": "way-33683848",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "childcare",
+    "lat": 45.7587552,
+    "lng": 22.9189938,
+    "osmType": "way"
+  },
+  {
+    "id": "way-33700439",
+    "name": "Școala Generală nr. 12",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.7629821,
+    "lng": 22.918627,
+    "osmType": "way"
+  },
+  {
+    "id": "way-34170764",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.7507446,
+    "lng": 22.9092067,
+    "osmType": "way"
+  },
+  {
+    "id": "way-34171917",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "college",
+    "lat": 45.7556242,
+    "lng": 22.9095906,
+    "osmType": "way"
+  },
+  {
+    "id": "way-34171920",
+    "name": "Școala Generală nr. 3",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.7568589,
+    "lng": 22.9093346,
+    "osmType": "way"
+  },
+  {
+    "id": "way-34172436",
+    "name": "Colegiul Economic Emanuil Gojdu",
+    "type": "school",
+    "subcategory": "college",
+    "lat": 45.7582508,
+    "lng": 22.9135903,
+    "osmType": "way"
+  },
+  {
+    "id": "way-44736079",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.7559803,
+    "lng": 22.9198238,
+    "osmType": "way"
+  },
+  {
+    "id": "way-223268632",
+    "name": "Biserica Ortodoxă Buna Vestire Batiz (1946)",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.7774689,
+    "lng": 23.0000549,
+    "osmType": "way"
+  },
+  {
+    "id": "way-256270142",
+    "name": "Secția de boli infecțioase",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 45.7488784,
+    "lng": 22.9087757,
+    "osmType": "way"
+  },
+  {
+    "id": "way-256270147",
+    "name": "Colegiul Național de Informatică Traian Lalescu",
+    "type": "school",
+    "subcategory": "college",
+    "lat": 45.750232,
+    "lng": 22.9096813,
+    "osmType": "way"
+  },
+  {
+    "id": "way-321004006",
+    "name": "Sala Regatului a Martorilor lui Iehova",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.7334557,
+    "lng": 23.0244034,
+    "osmType": "way"
+  },
+  {
+    "id": "way-321272395",
+    "name": "Biserica Reformată",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.7349451,
+    "lng": 22.989028,
+    "osmType": "way"
+  },
+  {
+    "id": "way-321272419",
+    "name": "Biserica Romano-Catolică",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.7329643,
+    "lng": 22.9891673,
+    "osmType": "way"
+  },
+  {
+    "id": "way-325953525",
+    "name": "Fără nume",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 45.7571088,
+    "lng": 22.9072574,
+    "osmType": "way"
+  },
+  {
+    "id": "way-509059710",
+    "name": "Universitatea Alma Mater",
+    "type": "school",
+    "subcategory": "university",
+    "lat": 45.758083,
+    "lng": 22.9143804,
+    "osmType": "way"
+  },
+  {
+    "id": "way-601317821",
+    "name": "Colegiul Tehnic Matei Corvin Hunedoara",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.7522977,
+    "lng": 22.9062461,
+    "osmType": "way"
+  },
+  {
+    "id": "way-601322937",
+    "name": "Școala Generală nr. 4",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.7509358,
+    "lng": 22.9092439,
+    "osmType": "way"
+  },
+  {
+    "id": "way-601324521",
+    "name": "Spitalul Municipal Dr. Alexandru Simionescu Hunedoara",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 45.7494075,
+    "lng": 22.9065971,
+    "osmType": "way"
+  },
+  {
+    "id": "way-601333161",
+    "name": "Colegiul Național de Informatică Traian Lalescu",
+    "type": "school",
+    "subcategory": "college",
+    "lat": 45.7503018,
+    "lng": 22.9097003,
+    "osmType": "way"
+  },
+  {
+    "id": "way-601725057",
+    "name": "Spitalul Municipal Dr. Alexandru Simionescu Hunedoara",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 45.7496792,
+    "lng": 22.9069885,
+    "osmType": "way"
+  },
+  {
+    "id": "way-819566644",
+    "name": "Fără nume",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 45.7634096,
+    "lng": 22.9065883,
+    "osmType": "way"
+  },
+  {
+    "id": "way-998084151",
+    "name": "Școala Generală nr. 1",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.7558468,
+    "lng": 22.9196698,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1102645407",
+    "name": "Biserică",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.6967552,
+    "lng": 23.0167737,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1102676412",
+    "name": "Biserică",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.7187526,
+    "lng": 23.0342087,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1102811584",
+    "name": "Biserică",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.6850767,
+    "lng": 23.0916461,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1102957570",
+    "name": "Scoala Gimnazială Bosorod",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.684004,
+    "lng": 23.0923066,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1102957571",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.6838374,
+    "lng": 23.0926092,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1103239791",
+    "name": "Biserică",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.7077722,
+    "lng": 23.0674077,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1103637962",
+    "name": "Biserică",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.7105574,
+    "lng": 23.1305415,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1104107759",
+    "name": "Biserică",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.7795234,
+    "lng": 23.0785399,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1316486103",
+    "name": "Fără nume",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 45.7502025,
+    "lng": 22.9068586,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1316486104",
+    "name": "Fără nume",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 45.7502261,
+    "lng": 22.9069888,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1317395402",
+    "name": "Biserica Ortodoxă Sfântul Spiridon",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.7655752,
+    "lng": 22.9084335,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1317929413",
+    "name": "Paraclisul Parohiei Sfântul Spiridon",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.764918,
+    "lng": 22.9099814,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1318128814",
+    "name": "Grădiniţa Piticot",
+    "type": "school",
+    "subcategory": "childcare",
+    "lat": 45.7610548,
+    "lng": 22.906647,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1318344858",
+    "name": "Clinica Sante",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 45.7614894,
+    "lng": 22.9099923,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1318752815",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.7589892,
+    "lng": 22.9060026,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1323464213",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.7528632,
+    "lng": 22.9186326,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1323669939",
+    "name": "Grădinița Prichindelul",
+    "type": "school",
+    "subcategory": "childcare",
+    "lat": 45.7548639,
+    "lng": 22.9124987,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1325473316",
+    "name": "Catedrala Eroilor",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.7584507,
+    "lng": 22.9096111,
+    "osmType": "way"
+  },
+  {
+    "id": "way-1361891292",
+    "name": "Biserica Streisângiorgiu",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.7289435,
+    "lng": 23.0224968,
+    "osmType": "way"
+  }
+]

@@ -10,7 +10,7 @@ const OVERPASS_URLS = [
 const NOMINATIM_URL = "https://nominatim.openstreetmap.org/search";
 
 // MODIFICI DOAR ORAȘUL AICI
-const CITY_NAME = "Oradea";
+const CITY_NAME = "Baia Mare";
 
 function slugify(value = "") {
   return value
@@ -39,6 +39,21 @@ function ensureDataFolder() {
 function normalizeType(tags = {}) {
   const amenity = tags.amenity;
   const healthcare = tags.healthcare;
+  const brand = (tags.brand || "").toLowerCase();
+  const name = (tags.name || "").toLowerCase();
+  const operator = (tags.operator || "").toLowerCase();
+
+  // SUPERBET
+  if (
+    brand.includes("superbet") ||
+    name.includes("superbet") ||
+    operator.includes("superbet")
+  ) {
+    return {
+      type: "superbet",
+      subcategory: "betting"
+    };
+  }
 
   if (["school", "kindergarten", "college", "university", "childcare"].includes(amenity)) {
     return {
@@ -133,6 +148,18 @@ function buildQuery(bbox) {
   node["healthcare"~"hospital|clinic|doctor"](${bbox});
   way["healthcare"~"hospital|clinic|doctor"](${bbox});
   relation["healthcare"~"hospital|clinic|doctor"](${bbox});
+
+  node["brand"~"^Superbet$", i](${bbox});
+  way["brand"~"^Superbet$", i](${bbox});
+  relation["brand"~"^Superbet$", i](${bbox});
+
+  node["name"~"Superbet", i](${bbox});
+  way["name"~"Superbet", i](${bbox});
+  relation["name"~"Superbet", i](${bbox});
+
+  node["operator"~"Superbet", i](${bbox});
+  way["operator"~"Superbet", i](${bbox});
+  relation["operator"~"Superbet", i](${bbox});
 );
 out center tags;
 `;
@@ -196,12 +223,14 @@ async function fetchPOI() {
 
     pois.push({
       id: `${element.type}-${element.id}`,
-      name: tags.name || "Fără nume",
+      name: tags.name || tags.brand || "Fără nume",
       type: typeData.type,
       subcategory: typeData.subcategory,
       lat: center.lat,
       lng: center.lng,
-      osmType: element.type
+      osmType: element.type,
+      brand: tags.brand || null,
+      operator: tags.operator || null
     });
   }
 
@@ -222,6 +251,7 @@ async function fetchPOI() {
   const schools = unique.filter((p) => p.type === "school").length;
   const churches = unique.filter((p) => p.type === "church").length;
   const medical = unique.filter((p) => p.type === "medical").length;
+  const superbet = unique.filter((p) => p.type === "superbet").length;
 
   console.log("");
   console.log("=== GATA ===");
@@ -230,6 +260,7 @@ async function fetchPOI() {
   console.log(`Școli / creșe / grădinițe: ${schools}`);
   console.log(`Biserici: ${churches}`);
   console.log(`Medical: ${medical}`);
+  console.log(`Superbet: ${superbet}`);
   console.log(`Fișier: ${OUTPUT_FILE}`);
 }
 
