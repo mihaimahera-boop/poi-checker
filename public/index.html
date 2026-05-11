@@ -579,13 +579,16 @@
     }
 
     const greenIcon = dotIcon("#13a144", 16);
-    const bigGreenIcon = dotIcon("#13a144", 24);
-    const redIcon = dotIcon("#d12d2d", 30);
-    const yellowIcon = dotIcon("#facc15", 18);
+const bigGreenIcon = dotIcon("#13a144", 24);
+const yellowIcon = dotIcon("#facc15", 18);
 
-    const superbetIcon = letterIcon("S", "#d60000");
-    const bettingIcon = letterIcon("P", "#111827");
-    const gamingIcon = letterIcon("J", "#7c3aed");
+const superbetIcon = letterIcon("S", "#d60000");
+const bettingIcon = letterIcon("P", "#111827");
+const gamingIcon = letterIcon("J", "#7c3aed");
+
+const schoolPoiIcon = letterIcon("S", "#2563eb");
+const churchPoiIcon = letterIcon("B", "#f59e0b");
+const medicalPoiIcon = letterIcon("M", "#16a34a");
 
     function isSuperbetPoi(poi) {
       const name = String(poi?.name || "").toLowerCase();
@@ -972,7 +975,7 @@
     function addPoiMarkers(insideSchools, insideChurches, insideMedical, nearbyBetting, nearbyGaming) {
       if (toggleSchools.checked) {
         insideSchools.forEach((item) => {
-          const marker = L.marker([item.poi.lat, item.poi.lon], { icon: redIcon })
+          const marker = L.marker([item.poi.lat, item.poi.lon], { icon: schoolPoiIcon })
             .bindPopup(`
               <strong>Școală / creșă sub prag</strong><br>
               ${item.poi.name || "Fără nume"}<br>
@@ -986,7 +989,7 @@
 
       if (toggleChurches.checked) {
         insideChurches.forEach((item) => {
-          const marker = L.marker([item.poi.lat, item.poi.lon], { icon: redIcon })
+          const marker = L.marker([item.poi.lat, item.poi.lon], { icon: churchPoiIcon })
             .bindPopup(`
               <strong>Biserică sub prag</strong><br>
               ${item.poi.name || "Fără nume"}<br>
@@ -1000,7 +1003,7 @@
 
       if (toggleMedical.checked) {
         insideMedical.forEach((item) => {
-          const marker = L.marker([item.poi.lat, item.poi.lon], { icon: redIcon })
+          const marker = L.marker([item.poi.lat, item.poi.lon], { icon: medicalPoiIcon })
             .bindPopup(`
               <strong>Medical sub prag</strong><br>
               ${item.poi.name || "Fără nume"}<br>
