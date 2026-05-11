@@ -7,8 +7,10 @@
     "lat": 46.1671496,
     "lng": 21.3142404,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "name": "Grup Școlar „Francisc Neuman” Arad"
+    }
   },
   {
     "id": "node-252246828",
@@ -18,8 +20,10 @@
     "lat": 46.1640737,
     "lng": 21.3138373,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "created_by": "Potlatch 0.7b"
+    }
   },
   {
     "id": "node-252246872",
@@ -29,8 +33,11 @@
     "lat": 46.1682169,
     "lng": 21.3117087,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "created_by": "Potlatch 0.7b",
+      "name": "Academia Teologică"
+    }
   },
   {
     "id": "node-256540015",
@@ -40,8 +47,12 @@
     "lat": 46.1880057,
     "lng": 21.3370749,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-258676138",
@@ -51,8 +62,32 @@
     "lat": 46.172892,
     "lng": 21.3168771,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Arad",
+      "addr:housenumber": "91-93",
+      "addr:postcode": "310414",
+      "addr:street": "Bulevardul Revoluției",
+      "amenity": "university",
+      "education": "university",
+      "name": "Facultatea de Științe ale Naturii, Inginerie și Informatică a Universității \"Vasile Goldiș\"",
+      "name:en": "Computer Science Faculty of Vasile Goldiș Western University of Arad",
+      "name:ro": "Facultatea de Științe ale Naturii, Inginerie și Informatică a Universității \"Vasile Goldiș\"",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "id": "node-258676144",
+    "name": "Million",
+    "type": "gaming",
+    "subcategory": "Million",
+    "lat": 46.1731286,
+    "lng": 21.3169519,
+    "osmType": "node",
+    "tags": {
+      "amenity": "gambling",
+      "check_date": "2026-03-04",
+      "name": "Million"
+    }
   },
   {
     "id": "node-258684740",
@@ -62,8 +97,12 @@
     "lat": 46.173254,
     "lng": 21.3161732,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "university",
+      "building": "school",
+      "education": "university",
+      "name": "Vasile Goldiș: Facultatea de Științe Juridice"
+    }
   },
   {
     "id": "node-258897168",
@@ -73,8 +112,12 @@
     "lat": 46.1740731,
     "lng": 21.3596087,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-258912582",
@@ -84,8 +127,13 @@
     "lat": 46.1693022,
     "lng": 21.3573899,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "check_date": "2025-08-04",
+      "denomination": "baptist",
+      "name": "Renașterea",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-260664782",
@@ -95,8 +143,12 @@
     "lat": 46.1887309,
     "lng": 21.3003625,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-260664784",
@@ -106,8 +158,11 @@
     "lat": 46.1887229,
     "lng": 21.2996592,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "created_by": "Potlatch 0.9",
+      "name": "Generală 8"
+    }
   },
   {
     "id": "node-260664868",
@@ -117,8 +172,15 @@
     "lat": 46.191496,
     "lng": 21.3038565,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:street": "Strada Constantin Brâncoveanu",
+      "amenity": "place_of_worship",
+      "denomination": "baptist",
+      "name": "Biserica Baptistă Șega",
+      "opening_hours": "Th 19:00-21:00; Su 09:00-20:00",
+      "phone": "0257 275 333",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-261768091",
@@ -128,8 +190,9 @@
     "lat": 46.1664297,
     "lng": 21.3000443,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "kindergarten"
+    }
   },
   {
     "id": "node-262876901",
@@ -139,8 +202,12 @@
     "lat": 46.1924874,
     "lng": 21.3059267,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-262884691",
@@ -150,8 +217,11 @@
     "lat": 46.1886278,
     "lng": 21.2980627,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "created_by": "Potlatch 0.9",
+      "name": "Generaă 8"
+    }
   },
   {
     "id": "node-263499952",
@@ -161,8 +231,16 @@
     "lat": 46.1417672,
     "lng": 21.3446291,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Arad",
+      "addr:housenumber": "23",
+      "addr:postcode": "310261",
+      "addr:street": "Strada Frumoasă",
+      "amenity": "place_of_worship",
+      "denomination": "roman_catholic",
+      "name": "Katholische Kirche St. Josef Kleinsanktnikolaus",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-263499954",
@@ -172,8 +250,12 @@
     "lat": 46.145145,
     "lng": 21.3391469,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "baptist",
+      "name": "Betania",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-264775664",
@@ -183,8 +265,12 @@
     "lat": 46.1980237,
     "lng": 21.3018995,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "adventist",
+      "name": "Betel",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-265268897",
@@ -194,8 +280,9 @@
     "lat": 46.1405356,
     "lng": 21.3438314,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school"
+    }
   },
   {
     "id": "node-265348217",
@@ -205,8 +292,15 @@
     "lat": 46.1471612,
     "lng": 21.3301838,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:street": "Strada Zimbrului",
+      "amenity": "place_of_worship",
+      "check_date": "2026-04-21",
+      "denomination": "baptist",
+      "name": "Biserica Creștină Baptistă ,,Biruința\"",
+      "religion": "christian",
+      "wheelchair": "limited"
+    }
   },
   {
     "id": "node-267163201",
@@ -216,8 +310,12 @@
     "lat": 46.2102463,
     "lng": 21.2772681,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "serbian_orthodox",
+      "name": "Biserica Ortodoxă Sârbă",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-267163202",
@@ -227,8 +325,13 @@
     "lat": 46.2110325,
     "lng": 21.2776569,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "fixme": "possible duplicated amenity (POI & poly)",
+      "name": "Biserica Ortodoxă",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-267173226",
@@ -238,8 +341,10 @@
     "lat": 46.2130323,
     "lng": 21.2712315,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "kindergarten",
+      "name": "Grădinița cu program prelungit nr. 8"
+    }
   },
   {
     "id": "node-267174842",
@@ -249,8 +354,10 @@
     "lat": 46.2062445,
     "lng": 21.2939736,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "kindergarten",
+      "created_by": "JOSM"
+    }
   },
   {
     "id": "node-268339333",
@@ -260,8 +367,10 @@
     "lat": 46.1763325,
     "lng": 21.3605208,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "created_by": "JOSM"
+    }
   },
   {
     "id": "node-269253717",
@@ -271,8 +380,12 @@
     "lat": 46.2031559,
     "lng": 21.2837187,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "reformed",
+      "name": "Biserica Reformată",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-269253772",
@@ -282,8 +395,11 @@
     "lat": 46.2039131,
     "lng": 21.2834614,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "kindergarten",
+      "created_by": "JOSM",
+      "name": "Grădinița cu program normal Nr. 7"
+    }
   },
   {
     "id": "node-269253773",
@@ -293,8 +409,11 @@
     "lat": 46.2036886,
     "lng": 21.2826941,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "created_by": "JOSM",
+      "name": "Școala Generală Frații Neumann"
+    }
   },
   {
     "id": "node-270328143",
@@ -304,8 +423,10 @@
     "lat": 46.1529096,
     "lng": 21.307635,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "name": "Generală nr. 20"
+    }
   },
   {
     "id": "node-270329144",
@@ -315,8 +436,13 @@
     "lat": 46.1473743,
     "lng": 21.319841,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "check_date": "2026-03-02",
+      "denomination": "pentecostal",
+      "name": "Nr. 7",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-271628236",
@@ -326,8 +452,10 @@
     "lat": 46.1917564,
     "lng": 21.3116718,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "kindergarten",
+      "name": "Grădinița cu program săptămânal Nr. 2"
+    }
   },
   {
     "id": "node-271628238",
@@ -337,8 +465,9 @@
     "lat": 46.1968515,
     "lng": 21.3198075,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "kindergarten"
+    }
   },
   {
     "id": "node-278161586",
@@ -348,8 +477,12 @@
     "lat": 46.123931,
     "lng": 21.3850682,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-279900987",
@@ -359,8 +492,15 @@
     "lat": 46.1627997,
     "lng": 21.4060524,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "check_date": "2024-09-16",
+      "denomination": "greek_catholic",
+      "name": "Biserica Greco-Catolică",
+      "name:hu": "Görög katolikus templom",
+      "name:ro": "Biserica Greco-Catolică",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-279906387",
@@ -370,8 +510,14 @@
     "lat": 46.158017,
     "lng": 21.407759,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "baptist",
+      "name": "Sfânta Treime",
+      "name:hu": "Szentháromság baptista imaház",
+      "name:ro": "Sfânta Treime",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-279908646",
@@ -381,8 +527,9 @@
     "lat": 46.1551226,
     "lng": 21.3999219,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "kindergarten"
+    }
   },
   {
     "id": "node-312348935",
@@ -392,8 +539,32 @@
     "lat": 46.1903274,
     "lng": 21.3103144,
     "osmType": "node",
-    "brand": null,
-    "operator": "Ministerul Sănătății"
+    "tags": {
+      "addr:city": "Arad",
+      "addr:housenumber": "39-41",
+      "addr:postcode": "310158",
+      "addr:street": "Calea Victoriei",
+      "amenity": "hospital",
+      "healthcare": "hospital",
+      "healthcare:speciality": "internal",
+      "name": "Dispensarul TBC",
+      "operator": "Ministerul Sănătății"
+    }
+  },
+  {
+    "id": "node-312352994",
+    "name": "Magic",
+    "type": "gaming",
+    "subcategory": "Magic",
+    "lat": 46.1923502,
+    "lng": 21.3086712,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Arad",
+      "amenity": "bureau_de_change",
+      "name": "Magic",
+      "shop": "supermarket"
+    }
   },
   {
     "id": "node-344315526",
@@ -403,8 +574,15 @@
     "lat": 46.1801897,
     "lng": 21.3429382,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Arad",
+      "addr:housenumber": "120",
+      "addr:postcode": "310267",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Calea Radnei",
+      "amenity": "kindergarten",
+      "name": "Grădinița PN 18"
+    }
   },
   {
     "id": "node-390341459",
@@ -414,8 +592,10 @@
     "lat": 46.1766524,
     "lng": 21.3194744,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "name": "Palatul Copiilor"
+    }
   },
   {
     "id": "node-391814406",
@@ -425,8 +605,13 @@
     "lat": 46.1779314,
     "lng": 21.3109875,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Arad",
+      "amenity": "school",
+      "name": "Grup Școlar Transporturi Auto „Henri Coadndă”",
+      "name:ro": "Grup Școlar Transporturi Auto „Henri Coadndă”",
+      "wheelchair": "no"
+    }
   },
   {
     "id": "node-410080220",
@@ -436,8 +621,11 @@
     "lat": 46.1756614,
     "lng": 21.3158065,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "hospital",
+      "healthcare": "hospital",
+      "name": "Spitalul Matern"
+    }
   },
   {
     "id": "node-418592986",
@@ -447,8 +635,11 @@
     "lat": 46.1721434,
     "lng": 21.3077851,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "hospital",
+      "healthcare": "hospital",
+      "name": "Spitalul clinic municipal secția TBC"
+    }
   },
   {
     "id": "node-564932005",
@@ -458,8 +649,12 @@
     "lat": 46.1964249,
     "lng": 21.3070424,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Capela Minoriților",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-599200871",
@@ -469,8 +664,12 @@
     "lat": 46.1694457,
     "lng": 21.3127172,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:street": "Strada Gheorghe Barițiu",
+      "amenity": "school",
+      "education": "school",
+      "name": "Școala populară de arte"
+    }
   },
   {
     "id": "node-1368991654",
@@ -480,8 +679,13 @@
     "lat": 46.1737309,
     "lng": 21.3443595,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "check_date": "2026-04-21",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă „Sfântul Apostol Andrei”",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-1447486976",
@@ -491,8 +695,28 @@
     "lat": 46.151422,
     "lng": 21.2491214,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-2197330998",
+    "name": "Fortuna",
+    "type": "betting",
+    "subcategory": "CTP Arad",
+    "lat": 46.1988797,
+    "lng": 21.2957806,
+    "osmType": "node",
+    "tags": {
+      "name": "Fortuna",
+      "operator": "CTP Arad",
+      "public_transport": "stop_position",
+      "railway": "tram_stop",
+      "tram": "yes"
+    }
   },
   {
     "id": "node-2197416100",
@@ -502,8 +726,13 @@
     "lat": 46.1694194,
     "lng": 21.3536535,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica Ortodoxă „Nașterea Domnului”",
+      "note": "Parohia Ortodoxă Română Arad-Micălaca-Veche II",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-2197417168",
@@ -513,8 +742,42 @@
     "lat": 46.169372,
     "lng": 21.3530202,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "romanian_orthodox",
+      "name": "Paraclisul „Sfinții Împărați Constantin și Elena”",
+      "note": "Parohia Ortodoxă Română Arad-Micălaca-Veche II",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-2197451886",
+    "name": "Piața Fortuna",
+    "type": "betting",
+    "subcategory": "Piața Fortuna",
+    "lat": 46.2001995,
+    "lng": 21.2950231,
+    "osmType": "node",
+    "tags": {
+      "amenity": "marketplace",
+      "name": "Piața Fortuna"
+    }
+  },
+  {
+    "id": "node-2198616380",
+    "name": "Fortuna",
+    "type": "betting",
+    "subcategory": "CTP Arad",
+    "lat": 46.1998699,
+    "lng": 21.2942549,
+    "osmType": "node",
+    "tags": {
+      "name": "Fortuna",
+      "operator": "CTP Arad",
+      "public_transport": "stop_position",
+      "railway": "tram_stop",
+      "tram": "yes"
+    }
   },
   {
     "id": "node-2295470734",
@@ -524,8 +787,12 @@
     "lat": 46.1233315,
     "lng": 21.384458,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-2302258509",
@@ -535,8 +802,13 @@
     "lat": 46.180955,
     "lng": 21.3084991,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "hospital",
+      "healthcare": "hospital",
+      "name": "Centrul Medical Laser System",
+      "website": "https://www.lasersystem.ro/",
+      "wheelchair": "yes"
+    }
   },
   {
     "id": "node-3153613107",
@@ -546,8 +818,15 @@
     "lat": 46.1796793,
     "lng": 21.3168962,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Arad",
+      "addr:housenumber": "10",
+      "addr:street": "Piața Mihai Viteazul",
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "healthcare:speciality": "oncology",
+      "name": "Spitalul Clinic Municipal Secția Oncologie"
+    }
   },
   {
     "id": "node-3153613390",
@@ -557,8 +836,15 @@
     "lat": 46.1795928,
     "lng": 21.3171531,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Arad",
+      "addr:housenumber": "10",
+      "addr:street": "Piața Mihai Viteazul",
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "healthcare:speciality": "dermatovenereology",
+      "name": "Spitalul Clinic Municipal Secția Dermatovenerologie"
+    }
   },
   {
     "id": "node-4317970789",
@@ -568,8 +854,15 @@
     "lat": 46.1892495,
     "lng": 21.3034334,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:housenumber": "49",
+      "addr:street": "Strada Cocorilor",
+      "amenity": "clinic",
+      "email": "office@red-medica.ro",
+      "name": "REDMEDICA",
+      "phone": "0753372489",
+      "website": "https://www.red-medica.ro/"
+    }
   },
   {
     "id": "node-4353478489",
@@ -579,19 +872,36 @@
     "lat": 46.1609745,
     "lng": 21.3344412,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "check_date": "2026-04-20",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica ,,Sf. Martiri Brâncoveni\" - Subcetate",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-4355445104",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet",
     "lat": 46.1726573,
     "lng": 21.3474476,
     "osmType": "node",
-    "brand": "Superbet",
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-4362476589",
@@ -601,8 +911,11 @@
     "lat": 46.1786549,
     "lng": 21.3370257,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "name": "Analize medicale"
+    }
   },
   {
     "id": "node-4362565389",
@@ -612,8 +925,14 @@
     "lat": 46.1963742,
     "lng": 21.3006803,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "baptist",
+      "name": "Biserica Creștină Baptistă Adoram",
+      "name:en": "Adoram Christian Baptist Church",
+      "name:ro": "Biserica Creștină Baptistă Adoram",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-4362598889",
@@ -623,8 +942,20 @@
     "lat": 46.177087,
     "lng": 21.2981925,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Arad",
+      "addr:housenumber": "52",
+      "addr:street": "Strada Roman Ciorogariu",
+      "amenity": "clinic",
+      "email": "policlinicadoctorturcin@gmail.com",
+      "fax": "+40 0257 250 332",
+      "healthcare": "clinic",
+      "healthcare:speciality": "general;ophthalmology;internal;psychiatry;cardiology",
+      "name": "Policlinica Doctor Turcin",
+      "opening_hours": "Mo-Sa 08:00-18:00",
+      "phone": "+40 0257 285 510",
+      "website": "https://www.policlinicaturcin.ro/"
+    }
   },
   {
     "id": "node-4373195689",
@@ -634,8 +965,11 @@
     "lat": 46.2026408,
     "lng": 21.2913409,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "hospital",
+      "healthcare": "hospital",
+      "name": "Policlinica AS"
+    }
   },
   {
     "id": "node-4434654590",
@@ -645,8 +979,16 @@
     "lat": 46.1981488,
     "lng": 21.2971876,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:postcode": "310365",
+      "addr:street": "Calea Aurel Vlaicu",
+      "amenity": "doctors",
+      "email": "ecomedarad@yahoo.com",
+      "healthcare": "doctor",
+      "name": "Ecomed",
+      "opening_hours": "Mo-Fr 08:00-18:00",
+      "phone": "0257348877"
+    }
   },
   {
     "id": "node-4510807589",
@@ -656,8 +998,18 @@
     "lat": 46.1825878,
     "lng": 21.3064873,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:housenumber": "1-5",
+      "addr:street": "Strada Oituz",
+      "alt_name": "Serviciul de ambulanta Arad SAJ",
+      "amenity": "hospital",
+      "healthcare": "hospital",
+      "internet_access": "wlan",
+      "name": "Serviciul Județean de Ambulanță Arad",
+      "name:en": "Arad County Ambulance Service",
+      "name:ro": "Serviciul Județean de Ambulanță Arad",
+      "opening_hours": "24/7"
+    }
   },
   {
     "id": "node-4576290092",
@@ -667,8 +1019,11 @@
     "lat": 46.1749859,
     "lng": 21.3188875,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "university",
+      "education": "university",
+      "name": "Universitatea Aurel Vlaicu"
+    }
   },
   {
     "id": "node-4609270599",
@@ -678,8 +1033,12 @@
     "lat": 46.164459,
     "lng": 21.3017305,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Arad",
+      "amenity": "place_of_worship",
+      "name": "Biserica Măslinul",
+      "name:ro": "Biserica Măslinul"
+    }
   },
   {
     "id": "node-4694701890",
@@ -689,8 +1048,10 @@
     "lat": 46.1983077,
     "lng": 21.2958758,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "doctors",
+      "name": "Centrul medical Arad West"
+    }
   },
   {
     "id": "node-4695536690",
@@ -700,8 +1061,31 @@
     "lat": 46.1749858,
     "lng": 21.3470213,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Arad",
+      "addr:street": "Strada Doctor Cornel Radu",
+      "amenity": "clinic",
+      "contact:email": "arad@affidea.com",
+      "contact:phone": "+40 21 9338",
+      "contact:website": "https://affidea.ro/centre-medicale/affidea-arad",
+      "healthcare": "clinic",
+      "name": "Affidea",
+      "opening_hours": "Mo-Fr 08:00-20:00"
+    }
+  },
+  {
+    "id": "node-4754903523",
+    "name": "Magnum",
+    "type": "gaming",
+    "subcategory": "Magnum",
+    "lat": 46.1855222,
+    "lng": 21.3004509,
+    "osmType": "node",
+    "tags": {
+      "name": "Magnum",
+      "name:ro": "Magnum",
+      "shop": "laundry"
+    }
   },
   {
     "id": "node-4873976221",
@@ -711,8 +1095,16 @@
     "lat": 46.1919441,
     "lng": 21.2867276,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Arad",
+      "amenity": "place_of_worship",
+      "check_date": "2026-04-19",
+      "denomination": "pentecostal",
+      "name": "Biserica Penticostala ,,Gloria\" Bujac",
+      "name:ro": "Biserica Penticostala Gloria Bujac",
+      "religion": "christian",
+      "website": "http://www.gloriabujac.ro"
+    }
   },
   {
     "id": "node-4873976321",
@@ -722,8 +1114,14 @@
     "lat": 46.1940702,
     "lng": 21.2887226,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "check_date": "2026-04-19",
+      "denomination": "baptist",
+      "name": "Biserica Baptistă ,,Golgota\"",
+      "name:ro": "Biserica Baptistă Golgota",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-5158712521",
@@ -733,8 +1131,11 @@
     "lat": 46.1681621,
     "lng": 21.3535964,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "clinic",
+      "name": "Bioclinica",
+      "website": "https://bioclinica.ro/locatii/arad/laborator-central-arad"
+    }
   },
   {
     "id": "node-5158723228",
@@ -744,8 +1145,14 @@
     "lat": 46.1795171,
     "lng": 21.3174562,
     "osmType": "node",
-    "brand": null,
-    "operator": "Ministerul Sănătății"
+    "tags": {
+      "addr:city": "Arad",
+      "amenity": "hospital",
+      "healthcare:speciality": "ophthalmology;otolaryngology",
+      "name": "Spitalul Clinic Județean - Secțiile O.R.L. și Oftalmologie",
+      "operator": "Ministerul Sănătății",
+      "operator:type": "government"
+    }
   },
   {
     "id": "node-5176013922",
@@ -755,8 +1162,12 @@
     "lat": 46.1766604,
     "lng": 21.3492916,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:street": "Strada Abrud",
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "name": "Cabinet Medical"
+    }
   },
   {
     "id": "node-5295837535",
@@ -766,8 +1177,12 @@
     "lat": 46.1458923,
     "lng": 21.1612869,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Schitul Cuvioasa Sfânta Paraschieva",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-5622335021",
@@ -777,8 +1192,17 @@
     "lat": 46.1884661,
     "lng": 21.3262128,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Arad",
+      "addr:housenumber": "2",
+      "addr:street": "Piața Gării",
+      "amenity": "place_of_worship",
+      "name": "Biserica Creștină Râul Trezirii",
+      "name:ro": "Biserica Creștină Râul Trezirii",
+      "opening_hours": "Su 10:00-12:00,18:00-20:00; We 18:00-20:00",
+      "religion": "christian",
+      "website": "https://raultrezirii.ro/"
+    }
   },
   {
     "id": "node-6104313745",
@@ -788,8 +1212,13 @@
     "lat": 46.1573805,
     "lng": 21.3215664,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:housenumber": "6",
+      "addr:street": "Calea Timișorii",
+      "amenity": "kindergarten",
+      "name": "Gradinita",
+      "opening_hours": "Mo-Fr 08:00-16:00"
+    }
   },
   {
     "id": "node-6105853086",
@@ -799,8 +1228,12 @@
     "lat": 46.1692871,
     "lng": 21.2992888,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:housenumber": "160",
+      "addr:street": "Strada Oituz",
+      "amenity": "clinic",
+      "name": "Ayedent"
+    }
   },
   {
     "id": "node-6579692686",
@@ -810,8 +1243,17 @@
     "lat": 46.1569947,
     "lng": 21.3216229,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:housenumber": "6",
+      "addr:street": "Calea Timișorii",
+      "amenity": "school",
+      "email": "nuare@nuare.ro",
+      "fax": "(+40) 749146904",
+      "name": "Grădinița PP \"Toy Story\"",
+      "phone": "(+40) 749146904",
+      "reviewed": "no",
+      "school_type": "Unitate de învăţământ"
+    }
   },
   {
     "id": "node-6579692687",
@@ -821,8 +1263,16 @@
     "lat": 46.165022,
     "lng": 21.318533,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:street": "MUCIUS SCAEVOLA NR. 9",
+      "amenity": "school",
+      "email": "ccd_arad@yahoo.com",
+      "fax": "(+40) 257281077",
+      "name": "CASA CORPULUI DIDACTIC \"ALEXANDRU GAVRA\" ARAD",
+      "phone": "(+40) 257281077",
+      "reviewed": "no",
+      "school_type": "Casa corpului didactic"
+    }
   },
   {
     "id": "node-6579694792",
@@ -832,8 +1282,18 @@
     "lat": 46.1999437,
     "lng": 21.2911827,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:housenumber": "3",
+      "addr:postcode": "310377",
+      "addr:street": "Predeal",
+      "amenity": "school",
+      "email": "gradinita_pp16@yahoo.com",
+      "fax": "(+40) 357425100",
+      "name": "Grădinița PP \"Grădinița Prieteniei\"",
+      "phone": "(+40) 257349939",
+      "reviewed": "no",
+      "school_type": "Unitate de învăţământ"
+    }
   },
   {
     "id": "node-6579694795",
@@ -843,8 +1303,17 @@
     "lat": 46.202396,
     "lng": 21.2978789,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:housenumber": "89A",
+      "addr:street": "Strada Poetului",
+      "amenity": "school",
+      "email": "scoalnr11_nbalcescu@yahoo.com",
+      "fax": "(+40) 257349404",
+      "name": "Școala Gimnazială \"Nicolae Bălcescu\"",
+      "phone": "(+40) 257349404",
+      "reviewed": "no",
+      "school_type": "Unitate de învăţământ"
+    }
   },
   {
     "id": "node-7725507893",
@@ -854,8 +1323,14 @@
     "lat": 46.1785945,
     "lng": 21.3193157,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:street": "Strada Crișan",
+      "amenity": "hospital",
+      "emergency": "yes",
+      "healthcare": "hospital",
+      "healthcare:speciality": "stomatology",
+      "name": "Spitalul pentru Urgente Stomatologice"
+    }
   },
   {
     "id": "node-8283448518",
@@ -865,8 +1340,14 @@
     "lat": 46.1771665,
     "lng": 21.3123892,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "hospital",
+      "healthcare": "hospital",
+      "healthcare:speciality": "oncology",
+      "name": "Oncologie Spitalul Clinic Județean de Urgență Arad",
+      "name:en": "Oncology Arad County Emergency Clinical Hospital",
+      "name:ro": "Oncologie Spitalul Clinic Județean de Urgență Arad"
+    }
   },
   {
     "id": "node-8283502417",
@@ -876,8 +1357,18 @@
     "lat": 46.1776216,
     "lng": 21.3110973,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Arad",
+      "addr:housenumber": "22",
+      "addr:street": "Strada Mărășești",
+      "amenity": "place_of_worship",
+      "check_date": "2026-04-23",
+      "denomination": "baptist",
+      "name": "Comunitatea Bisericilor Creștine Baptiste Arad",
+      "name:en": "The community of Christian Baptist churches",
+      "name:ro": "Comunitatea bisericilor creștine baptiste",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-8517368418",
@@ -887,8 +1378,26 @@
     "lat": 46.1928494,
     "lng": 21.3082673,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship"
+    }
+  },
+  {
+    "id": "node-8517538818",
+    "name": "Fortuna Turism",
+    "type": "betting",
+    "subcategory": "Fortuna Turism",
+    "lat": 46.2005584,
+    "lng": 21.2951049,
+    "osmType": "node",
+    "tags": {
+      "addr:housenumber": "19",
+      "addr:street": "Aleea Saturn",
+      "name": "Fortuna Turism",
+      "opening_hours": "Mo-Fr 09:00-15:00; Sa-Su 00:00-24:00",
+      "phone": "0745235099",
+      "shop": "travel_agency"
+    }
   },
   {
     "id": "node-8537120317",
@@ -898,8 +1407,24 @@
     "lat": 46.2071773,
     "lng": 21.2944203,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:street": "Strada Poetului",
+      "amenity": "place_of_worship"
+    }
+  },
+  {
+    "id": "node-8560947817",
+    "name": "Depozit en gros Gabi Magic",
+    "type": "gaming",
+    "subcategory": "Depozit en gros Gabi Magic",
+    "lat": 46.1952241,
+    "lng": 21.3100214,
+    "osmType": "node",
+    "tags": {
+      "addr:street": "Strada Poetului",
+      "name": "Depozit en gros Gabi Magic",
+      "office": "company"
+    }
   },
   {
     "id": "node-8564269717",
@@ -909,8 +1434,11 @@
     "lat": 46.2035945,
     "lng": 21.2837197,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:street": "Strada Codrului",
+      "amenity": "school",
+      "name": "Liceul cu program sportiv"
+    }
   },
   {
     "id": "node-8564444217",
@@ -920,8 +1448,12 @@
     "lat": 46.2047822,
     "lng": 21.2695981,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:housenumber": "22",
+      "addr:street": "Strada Nouă",
+      "amenity": "school",
+      "name": "Leisure garden"
+    }
   },
   {
     "id": "node-8582774617",
@@ -931,8 +1463,12 @@
     "lat": 46.1954415,
     "lng": 21.301998,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:street": "Strada Fulgerului",
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "name": "Bioclinica analize medicale"
+    }
   },
   {
     "id": "node-8582812018",
@@ -942,8 +1478,24 @@
     "lat": 46.1955223,
     "lng": 21.3021293,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "name": "ifptr"
+    }
+  },
+  {
+    "id": "node-8582976417",
+    "name": "Slototeca",
+    "type": "betting",
+    "subcategory": "Slototeca",
+    "lat": 46.2002152,
+    "lng": 21.2944161,
+    "osmType": "node",
+    "tags": {
+      "addr:street": "Aleea Saturn",
+      "name": "Slototeca",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-8592499819",
@@ -953,118 +1505,259 @@
     "lat": 46.2125805,
     "lng": 21.2763098,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Arad",
+      "addr:housenumber": "107",
+      "addr:postcode": "310486",
+      "addr:street": "Strada Dunării",
+      "amenity": "place_of_worship",
+      "check_date": "2026-04-19",
+      "check_date:opening_hours": "2026-04-19",
+      "denomination": "baptist",
+      "name": "Biserica Creștină Baptistă ,,Harul\"",
+      "name:ro": "Biserica creștină baptistă Harul",
+      "opening_hours": "Su 10:00-12:00",
+      "phone": "+40 257 275 427",
+      "religion": "christian",
+      "website": "https://bisericaharularadgai.ro/"
+    }
   },
   {
     "id": "node-8628417567",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet",
     "lat": 46.1640035,
     "lng": 21.4037785,
     "osmType": "node",
-    "brand": "Superbet",
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "check_date:opening_hours": "2023-06-06",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-8628417588",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet Betting & Gaming SA",
     "lat": 46.1901107,
     "lng": 21.329838,
     "osmType": "node",
-    "brand": null,
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-8628417606",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet",
     "lat": 46.1638789,
     "lng": 21.2918821,
     "osmType": "node",
-    "brand": "Superbet",
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-8628417617",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet",
     "lat": 46.1539932,
     "lng": 21.3214642,
     "osmType": "node",
-    "brand": "Superbet",
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-8628417630",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet",
     "lat": 46.1824266,
     "lng": 21.3113093,
     "osmType": "node",
-    "brand": "Superbet",
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-8628417634",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet Betting & Gaming SA",
     "lat": 46.198941,
     "lng": 21.294835,
     "osmType": "node",
-    "brand": null,
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-8628417663",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet Betting & Gaming SA",
     "lat": 46.192874,
     "lng": 21.306685,
     "osmType": "node",
-    "brand": null,
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-8628418187",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet",
     "lat": 46.1816764,
     "lng": 21.3231459,
     "osmType": "node",
-    "brand": "Superbet",
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-8628418387",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet",
     "lat": 46.1705959,
     "lng": 21.3534442,
     "osmType": "node",
-    "brand": "Superbet",
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-8628418388",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet Betting & Gaming SA",
     "lat": 46.193776,
     "lng": 21.303275,
     "osmType": "node",
-    "brand": null,
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-8647570620",
+    "name": "Copiat chei si magic mirror Arad",
+    "type": "gaming",
+    "subcategory": "Copiat chei si magic mirror Arad",
+    "lat": 46.1930612,
+    "lng": 21.3064051,
+    "osmType": "node",
+    "tags": {
+      "addr:street": "Calea Aurel Vlaicu",
+      "name": "Copiat chei si magic mirror Arad",
+      "office": "company"
+    }
   },
   {
     "id": "node-8647590317",
@@ -1074,8 +1767,41 @@
     "lat": 46.1936718,
     "lng": 21.3060433,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:street": "Calea Aurel Vlaicu",
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "healthcare:speciality": "gynaecology",
+      "name": "Cabinet ginecologic Popescu Aurora"
+    }
+  },
+  {
+    "id": "node-8647650917",
+    "name": "Loto",
+    "type": "betting",
+    "subcategory": "Loto",
+    "lat": 46.1951279,
+    "lng": 21.3017434,
+    "osmType": "node",
+    "tags": {
+      "addr:street": "Strada Fulgerului",
+      "name": "Loto",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-8647675317",
+    "name": "Red sevens",
+    "type": "betting",
+    "subcategory": "Red sevens",
+    "lat": 46.1951545,
+    "lng": 21.3016692,
+    "osmType": "node",
+    "tags": {
+      "addr:street": "Calea Aurel Vlaicu",
+      "name": "Red sevens",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-8647709218",
@@ -1085,30 +1811,193 @@
     "lat": 46.1961876,
     "lng": 21.2991897,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:street": "Calea Aurel Vlaicu",
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "name": "Synevo"
+    }
+  },
+  {
+    "id": "node-8647728917",
+    "name": "Loto prono",
+    "type": "betting",
+    "subcategory": "Loto prono",
+    "lat": 46.1980104,
+    "lng": 21.2973423,
+    "osmType": "node",
+    "tags": {
+      "addr:street": "Calea Aurel Vlaicu",
+      "name": "Loto prono",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-8652112117",
+    "name": "Mozzart Bet",
+    "type": "betting",
+    "subcategory": "Mozzart Bet",
+    "lat": 46.1944341,
+    "lng": 21.3019482,
+    "osmType": "node",
+    "tags": {
+      "addr:street": "Calea Aurel Vlaicu",
+      "name": "Mozzart Bet",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-8652112119",
+    "name": "Jackpot club",
+    "type": "betting",
+    "subcategory": "Jackpot club",
+    "lat": 46.1943535,
+    "lng": 21.3021962,
+    "osmType": "node",
+    "tags": {
+      "addr:street": "Calea Aurel Vlaicu",
+      "name": "Jackpot club",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-8652112419",
+    "name": "Winner",
+    "type": "betting",
+    "subcategory": "Winner",
+    "lat": 46.1937855,
+    "lng": 21.3035532,
+    "osmType": "node",
+    "tags": {
+      "addr:street": "Calea Aurel Vlaicu",
+      "name": "Winner",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-8652112717",
+    "name": "Super bet",
+    "type": "betting",
+    "subcategory": "Super bet",
+    "lat": 46.1938505,
+    "lng": 21.3033899,
+    "osmType": "node",
+    "tags": {
+      "addr:street": "Calea Aurel Vlaicu",
+      "name": "Super bet",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-8655654720",
+    "name": "Mozart Bet",
+    "type": "betting",
+    "subcategory": "Mozart Bet",
+    "lat": 46.1992461,
+    "lng": 21.2946389,
+    "osmType": "node",
+    "tags": {
+      "addr:street": "Calea Aurel Vlaicu",
+      "name": "Mozart Bet",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-8655654721",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet",
     "lat": 46.1987942,
     "lng": 21.2945149,
     "osmType": "node",
-    "brand": "Superbet",
-    "operator": null
+    "tags": {
+      "addr:street": "Strada Dâmboviței",
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "name": "Superbet",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-8655683917",
+    "name": "Las Vegas",
+    "type": "betting",
+    "subcategory": "Las Vegas",
+    "lat": 46.19898,
+    "lng": 21.2950181,
+    "osmType": "node",
+    "tags": {
+      "addr:street": "Calea Aurel Vlaicu",
+      "name": "Las Vegas",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-8655771518",
+    "name": "Super bet",
+    "type": "betting",
+    "subcategory": "Super bet",
+    "lat": 46.1923624,
+    "lng": 21.3064422,
+    "osmType": "node",
+    "tags": {
+      "addr:street": "Calea Aurel Vlaicu",
+      "name": "Super bet",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-8655851218",
+    "name": "Mozzart bet",
+    "type": "betting",
+    "subcategory": "Mozzart bet",
+    "lat": 46.1883955,
+    "lng": 21.324341,
+    "osmType": "node",
+    "tags": {
+      "addr:street": "Piața Gării",
+      "name": "Mozzart bet",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-8655851319",
+    "name": "Loto",
+    "type": "betting",
+    "subcategory": "Loto",
+    "lat": 46.1881857,
+    "lng": 21.3246039,
+    "osmType": "node",
+    "tags": {
+      "addr:street": "Piața Gării",
+      "name": "Loto",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-8655851517",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet",
     "lat": 46.1884422,
     "lng": 21.3242832,
     "osmType": "node",
-    "brand": "Superbet",
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "addr:city": "Arad",
+      "addr:street": "Piața Gării",
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-8659073617",
@@ -1118,8 +2007,14 @@
     "lat": 46.1915598,
     "lng": 21.3051876,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:housenumber": "15B",
+      "addr:street": "Strada Constantin Brâncoveanu",
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "healthcare:speciality": "dermatovenereology",
+      "name": "Dr. Vărșăndan Mariana dermato-venerologie"
+    }
   },
   {
     "id": "node-8659075218",
@@ -1129,8 +2024,11 @@
     "lat": 46.1917808,
     "lng": 21.3060874,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:housenumber": "11",
+      "addr:street": "Strada Constantin Brâncoveanu",
+      "amenity": "place_of_worship"
+    }
   },
   {
     "id": "node-8659075317",
@@ -1140,8 +2038,43 @@
     "lat": 46.1917979,
     "lng": 21.3061878,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:housenumber": "9",
+      "addr:street": "Strada Constantin Brâncoveanu",
+      "amenity": "kindergarten",
+      "name": "Licurici"
+    }
+  },
+  {
+    "id": "node-8662714917",
+    "name": "Fortuna",
+    "type": "betting",
+    "subcategory": "Fortuna",
+    "lat": 46.1872656,
+    "lng": 21.3253408,
+    "osmType": "node",
+    "tags": {
+      "brand": "Fortuna",
+      "brand:wikidata": "Q12016781",
+      "level": "0",
+      "name": "Fortuna",
+      "shop": "bookmaker",
+      "website": "https://efortuna.ro/"
+    }
+  },
+  {
+    "id": "node-8662715020",
+    "name": "Jackpot club",
+    "type": "betting",
+    "subcategory": "Jackpot club",
+    "lat": 46.1862807,
+    "lng": 21.3249776,
+    "osmType": "node",
+    "tags": {
+      "addr:street": "Bulevardul Revoluției",
+      "name": "Jackpot club",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-8668509317",
@@ -1151,8 +2084,12 @@
     "lat": 46.1856849,
     "lng": 21.3247595,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:street": "Bulevardul Revoluției",
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "name": "Accu Med"
+    }
   },
   {
     "id": "node-8668509518",
@@ -1162,8 +2099,14 @@
     "lat": 46.1854693,
     "lng": 21.3246756,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:housenumber": "12",
+      "addr:street": "Bulevardul Revoluției",
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "healthcare:speciality": "gynaecology",
+      "name": "Ginecolog Dr. Miclea"
+    }
   },
   {
     "id": "node-8671978517",
@@ -1173,8 +2116,9 @@
     "lat": 46.2011245,
     "lng": 21.3302142,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship"
+    }
   },
   {
     "id": "node-8714772217",
@@ -1184,8 +2128,12 @@
     "lat": 46.1848547,
     "lng": 21.3325377,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:housenumber": "39",
+      "addr:street": "Strada Ardealului",
+      "amenity": "school",
+      "name": "Octopus Kids after school"
+    }
   },
   {
     "id": "node-8942686974",
@@ -1195,8 +2143,10 @@
     "lat": 46.2547545,
     "lng": 21.3839234,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "name": "Școala Primară Zimandcuz"
+    }
   },
   {
     "id": "node-8942686975",
@@ -1206,8 +2156,10 @@
     "lat": 46.2548194,
     "lng": 21.3834795,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "name": "Școala Primară Zimandcuz"
+    }
   },
   {
     "id": "node-9709479408",
@@ -1217,8 +2169,14 @@
     "lat": 46.1640918,
     "lng": 21.4034563,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "clinic",
+      "check_date": "2024-09-25",
+      "emergency": "yes",
+      "healthcare": "clinic",
+      "name": "Urgente Vladimirescu",
+      "wheelchair": "yes"
+    }
   },
   {
     "id": "node-10026039650",
@@ -1228,8 +2186,18 @@
     "lat": 46.1682041,
     "lng": 21.3167983,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Arad",
+      "addr:housenumber": "3",
+      "addr:street": "Strada Cozia",
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "healthcare:speciality": "urology;gynaecology;general",
+      "name": "Clinica City Med",
+      "opening_hours": "Mo-Fr 08:00-20:00",
+      "phone": "0743993322",
+      "website": "https://www.romedic.ro/citymed"
+    }
   },
   {
     "id": "node-10166435118",
@@ -1239,8 +2207,19 @@
     "lat": 46.1777867,
     "lng": 21.2967135,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Arad",
+      "addr:housenumber": "58",
+      "addr:postcode": "310280",
+      "addr:street": "Strada Griviței",
+      "amenity": "place_of_worship",
+      "denomination": "mormon",
+      "name": "Biserica lui Isus Hristos a Sfinților din Zilele din Urmă",
+      "name:en": "Church of Jesus Christ of Latter-day Saints",
+      "name:ro": "Biserica lui Isus Hristos a Sfinților din Zilele din Urmă",
+      "religion": "christian",
+      "service_times": "Sundays 10:00am"
+    }
   },
   {
     "id": "node-10291796909",
@@ -1250,8 +2229,11 @@
     "lat": 46.2250886,
     "lng": 21.3865526,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Biserica",
+      "religion": "orthodox"
+    }
   },
   {
     "id": "node-11292429170",
@@ -1261,8 +2243,53 @@
     "lat": 46.188914,
     "lng": 21.3027679,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:housenumber": "4",
+      "addr:street": "Strada Ioan Fluieraș",
+      "amenity": "place_of_worship",
+      "name:en": "Kingdom Hall of Jehovah’s Witnesses"
+    }
+  },
+  {
+    "id": "node-13026505465",
+    "name": "Las Vegas",
+    "type": "betting",
+    "subcategory": "Las Vegas",
+    "lat": 46.1729808,
+    "lng": 21.3169044,
+    "osmType": "node",
+    "tags": {
+      "amenity": "gambling",
+      "name": "Las Vegas"
+    }
+  },
+  {
+    "id": "node-13026505479",
+    "name": "Fabulous Games",
+    "type": "betting",
+    "subcategory": "Fabulous Games",
+    "lat": 46.1719128,
+    "lng": 21.3163747,
+    "osmType": "node",
+    "tags": {
+      "amenity": "gambling",
+      "gambling": "slot_machines",
+      "name": "Fabulous Games"
+    }
+  },
+  {
+    "id": "node-13026505482",
+    "name": "Lucky Seven",
+    "type": "betting",
+    "subcategory": "Lucky Seven",
+    "lat": 46.1713611,
+    "lng": 21.3151315,
+    "osmType": "node",
+    "tags": {
+      "amenity": "gambling",
+      "gambling": "slot_machines",
+      "name": "Lucky Seven"
+    }
   },
   {
     "id": "node-13264206393",
@@ -1272,8 +2299,17 @@
     "lat": 46.1938328,
     "lng": 21.2848734,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Arad",
+      "addr:housenumber": "3",
+      "addr:postcode": "310465",
+      "addr:street": "Strada Suceava",
+      "amenity": "place_of_worship",
+      "denomination": "romanian_orthodox",
+      "mobile": "+40 760 665 902",
+      "name": "Parohia Ortodoxa Nasterea Sfantului Ioan Botezatorul",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-13352673875",
@@ -1283,8 +2319,16 @@
     "lat": 46.1723228,
     "lng": 21.3184205,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Arad",
+      "addr:housenumber": "12",
+      "addr:street": "Bulevardul Decebal",
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "healthcare:speciality": "general",
+      "name": "Medical Service Centrum",
+      "phone": "0257281907"
+    }
   },
   {
     "id": "node-13678949609",
@@ -1294,8 +2338,15 @@
     "lat": 46.1819976,
     "lng": 21.3151208,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "check_date": "2026-04-20",
+      "denomination": "baptist",
+      "name": "Biserica Baptistă ,,Speranța\" Arad",
+      "religion": "christian",
+      "wheelchair": "designated"
+    }
   },
   {
     "id": "node-13690883684",
@@ -1305,8 +2356,15 @@
     "lat": 46.1925389,
     "lng": 21.2846547,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Arad",
+      "addr:housenumber": "3",
+      "addr:street": "Strada Independenței",
+      "amenity": "school",
+      "education": "school",
+      "name": "Scoala Gimnaziala Nr. 9",
+      "phone": "+40 257 244 372"
+    }
   },
   {
     "id": "node-13690883695",
@@ -1316,8 +2374,17 @@
     "lat": 46.192416,
     "lng": 21.2857923,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Arad",
+      "addr:housenumber": "3",
+      "addr:postcode": "310465",
+      "addr:street": "Strada Independenței",
+      "amenity": "school",
+      "education": "school",
+      "grades": "9-12",
+      "name": "Liceul cu Program Sportiv Arad",
+      "website": "https://www.lpsarad.ro/"
+    }
   },
   {
     "id": "node-13743600801",
@@ -1327,8 +2394,12 @@
     "lat": 46.1844938,
     "lng": 21.324054,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "check_date": "2026-04-20",
+      "education": "school",
+      "name": "Colegiul de Arte ,,Sabin Drăgoi\""
+    }
   },
   {
     "id": "node-13745154502",
@@ -1338,8 +2409,19 @@
     "lat": 46.1841977,
     "lng": 21.3255485,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:housenumber": "1",
+      "addr:postcode": "310317",
+      "addr:street": "Piața Academinican Caius Iacob",
+      "amenity": "school",
+      "check_date": "2026-04-20",
+      "check_date:opening_hours": "2026-04-20",
+      "education": "school",
+      "name": "Liceul Tehnologic de Electronică și Automatizări „Caius Iacob”",
+      "opening_hours": "Mo-Fr 08:00-16:00",
+      "phone": "+40 257 212 383",
+      "website": "http://liceulcfrarad.ro"
+    }
   },
   {
     "id": "node-13745160308",
@@ -1349,8 +2431,15 @@
     "lat": 46.174514,
     "lng": 21.3197094,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:street": "Piața George Enescu",
+      "amenity": "school",
+      "check_date": "2026-04-20",
+      "education": "school",
+      "name": "Colegiul Economic Arad",
+      "phone": "+40 257 281 529",
+      "website": "https://colecoarad.ro/"
+    }
   },
   {
     "id": "node-13748217501",
@@ -1360,8 +2449,18 @@
     "lat": 46.1745149,
     "lng": 21.3462837,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:housenumber": "3",
+      "addr:street": "Strada Doctor Cornel Radu",
+      "amenity": "hospital",
+      "check_date": "2026-04-22",
+      "check_date:opening_hours": "2026-04-21",
+      "healthcare": "hospital",
+      "name": "Spitalul MedLife Genesys Arad",
+      "opening_hours": "24/7",
+      "phone": "0257 960",
+      "website": "https://www.medlife.ro/"
+    }
   },
   {
     "id": "node-13748447701",
@@ -1371,8 +2470,36 @@
     "lat": 46.174078,
     "lng": 21.3441199,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:housenumber": "Bl. 331A",
+      "addr:postcode": "310329",
+      "addr:street": "Splaiul General Gheorghe Magheru",
+      "amenity": "clinic",
+      "check_date": "2026-04-22",
+      "check_date:opening_hours": "2026-04-21",
+      "healthcare": "clinic",
+      "level": "0",
+      "name": "Centrul de Permanență MedLife Genesys",
+      "opening_hours": "Mo-Th 15:00-08:00; Fr 15:00-00:00; Sa-Su 00:00-24:00",
+      "phone": "0257 960"
+    }
+  },
+  {
+    "id": "node-13809317901",
+    "name": "Biserica Creștină Baptistă Zimand Cuz",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.254758,
+    "lng": 21.3817558,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "check_date": "2026-05-08",
+      "check_date:opening_hours": "2026-05-08",
+      "name": "Biserica Creștină Baptistă Zimand Cuz",
+      "opening_hours": "Su 10:00-12:00",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-34209913",
@@ -1382,19 +2509,48 @@
     "lat": 46.1774003,
     "lng": 21.3202242,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Arad",
+      "addr:housenumber": "61",
+      "addr:postcode": "310130",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Bulevardul Revoluției",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "lutheran",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Biserica_Ro%C8%99ie.JPG",
+      "name": "Biserica Roșie",
+      "religion": "christian",
+      "wheelchair": "no"
+    }
   },
   {
     "id": "way-35875895",
     "name": "Biserica Creștină Baptistă ,,Maranata\"",
     "type": "church",
     "subcategory": "christian",
-    "lat": 46.1792626,
-    "lng": 21.3392139,
+    "lat": 46.1792615,
+    "lng": 21.3392306,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Arad",
+      "addr:postcode": "310318",
+      "addr:street": "Bulevardul Nicolae Titulescu",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "building:levels": "3",
+      "check_date": "2026-04-20",
+      "check_date:opening_hours": "2026-04-20",
+      "contact:facebook": "maranataarad",
+      "contact:instagram": "maranata_arad",
+      "denomination": "baptist",
+      "name": "Biserica Creștină Baptistă ,,Maranata\"",
+      "name:hu": "Marana Tha baptista templom",
+      "opening_hours": "Su 10:00-12:00,18:00-19:30",
+      "religion": "christian",
+      "website": "https://maranataarad.ro/",
+      "wheelchair": "limited"
+    }
   },
   {
     "id": "way-44043854",
@@ -1404,8 +2560,19 @@
     "lat": 46.1834877,
     "lng": 21.3279365,
     "osmType": "way",
-    "brand": null,
-    "operator": "Inspectoratul Școlar Judeean Arad"
+    "tags": {
+      "addr:city": "Arad",
+      "addr:housenumber": "22",
+      "addr:postcode": "310171",
+      "addr:street": "Strada Udrea",
+      "amenity": "school",
+      "check_date": "2026-04-20",
+      "education": "school",
+      "name": "Liceul Național de Informatică - Corp B",
+      "old_name": "Școala Gimnazială Nr. 5",
+      "operator": "Inspectoratul Școlar Judeean Arad",
+      "operator:type": "public"
+    }
   },
   {
     "id": "way-44299189",
@@ -1415,8 +2582,20 @@
     "lat": 46.1835621,
     "lng": 21.3247095,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:housenumber": "1",
+      "addr:street": "Piața Academinican Caius Iacob",
+      "amenity": "place_of_worship",
+      "building": "cathedral",
+      "check_date": "2026-04-20",
+      "denomination": "romanian_orthodox",
+      "name": "Catedrala Arhiepiscopală ,,Sfânta Treime\"",
+      "name:hu": "Görögkeleti Szentháromság-székesegyház",
+      "phone": "+40 257 281 856",
+      "religion": "christian",
+      "wheelchair": "no",
+      "wikipedia": "ro:Catedrala „Sfânta Treime” din Arad"
+    }
   },
   {
     "id": "way-131607842",
@@ -1426,8 +2605,17 @@
     "lat": 46.1670838,
     "lng": 21.3220924,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Arad",
+      "addr:housenumber": "2",
+      "addr:postcode": "310117",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Paris",
+      "amenity": "doctors",
+      "building": "yes",
+      "healthcare": "doctor",
+      "name": "Policlinica cu Plată"
+    }
   },
   {
     "id": "way-161883801",
@@ -1437,8 +2625,12 @@
     "lat": 46.1626023,
     "lng": 21.2905291,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "orthodox",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-171042409",
@@ -1448,8 +2640,31 @@
     "lat": 46.1667081,
     "lng": 21.3858867,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "hospital",
+      "building": "hospital",
+      "emergency": "yes",
+      "healthcare": "hospital",
+      "healthcare:speciality": "elderly_people;emergency",
+      "name": "Laser System Hospital"
+    }
+  },
+  {
+    "id": "way-171042410",
+    "name": "Strada Fortuna",
+    "type": "betting",
+    "subcategory": "Strada Fortuna",
+    "lat": 46.1652316,
+    "lng": 21.385422,
+    "osmType": "way",
+    "tags": {
+      "highway": "residential",
+      "lanes": "2",
+      "maxspeed": "5",
+      "name": "Strada Fortuna",
+      "oneway": "no",
+      "surface": "asphalt"
+    }
   },
   {
     "id": "way-173271242",
@@ -1459,8 +2674,17 @@
     "lat": 46.1704793,
     "lng": 21.3119283,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "alt_name": "Catedrala Veche",
+      "amenity": "place_of_worship",
+      "building": "cathedral",
+      "check_date": "2026-03-04",
+      "denomination": "orthodox",
+      "name": "Catedrala Nașterea Sfântului Ioan Botezătorul",
+      "religion": "christian",
+      "wheelchair": "no",
+      "wikipedia": "ro:Catedrala „Nașterea Sf. Ioan Botezătorul” din Arad"
+    }
   },
   {
     "id": "way-235968051",
@@ -1470,8 +2694,19 @@
     "lat": 46.1797606,
     "lng": 21.3478707,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Arad",
+      "addr:housenumber": "121",
+      "addr:postcode": "310267",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Calea Radnei",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "roman_catholic",
+      "name": "Biserica Adormirea Maicii Domnului",
+      "name:hu": "Mária mennybevétele templom",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-237104523",
@@ -1481,8 +2716,14 @@
     "lat": 46.1668281,
     "lng": 21.3119101,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "serbian_orthodox",
+      "name": "Biserica Ortodoxă Sârbă Sfinții Petru și Pavel",
+      "name:hu": "Szent Péter és Pál szerb ortodox templom",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-237325928",
@@ -1492,8 +2733,17 @@
     "lat": 46.1756501,
     "lng": 21.3124017,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Arad",
+      "addr:housenumber": "17",
+      "addr:street": "Strada Octavian Goga",
+      "building": "yes",
+      "healthcare": "hospital",
+      "healthcare:speciality": "psychiatry",
+      "name": "Spitalul Clinic Județean Arad Secția Clinică Psihiatrie",
+      "phone": "+40 0357 407 216",
+      "website": "https://scjarad.ro/psihiatrie/"
+    }
   },
   {
     "id": "way-281530601",
@@ -1503,8 +2753,14 @@
     "lat": 46.171873,
     "lng": 21.3324682,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "orthodox",
+      "name": "Biserica",
+      "religion": "christian",
+      "ruins": "yes"
+    }
   },
   {
     "id": "way-304171330",
@@ -1514,8 +2770,18 @@
     "lat": 46.1901114,
     "lng": 21.3311589,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Arad",
+      "addr:housenumber": "Școala Generală Aron Cotruș",
+      "addr:postcode": "310210",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Petru Rareș",
+      "amenity": "school",
+      "education": "school",
+      "landuse": "education",
+      "name": "Școala Generală Nr. 13 „Aron Cotruș”",
+      "website": "https://aroncotrus.ro/"
+    }
   },
   {
     "id": "way-304518556",
@@ -1525,8 +2791,16 @@
     "lat": 46.1766541,
     "lng": 21.3436029,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "university",
+      "name": "Universitatea Aurel Vlaicu din Arad",
+      "name:en": "University Aurel Vlaicu of Arad",
+      "name:hu": "Aurel Vlaicu Aradi Egyetem",
+      "name:ro": "Universitatea Aurel Vlaicu din Arad",
+      "phone": "+40 257 283 010",
+      "short_name": "UAV Arad",
+      "website": "https://uav.ro/"
+    }
   },
   {
     "id": "way-304620616",
@@ -1536,8 +2810,17 @@
     "lat": 46.1861048,
     "lng": 21.3247792,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Arad",
+      "addr:housenumber": "10",
+      "addr:postcode": "310144",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Bulevardul Revoluției",
+      "amenity": "clinic",
+      "building": "yes",
+      "name": "MEDIQA Centru Medical",
+      "opening_hours": "Mo-Fr 08:00-20:00; Sa-Su 08:00-14:00"
+    }
   },
   {
     "id": "way-304623345",
@@ -1547,8 +2830,16 @@
     "lat": 46.1889266,
     "lng": 21.3217944,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Arad",
+      "addr:housenumber": "41-43A",
+      "addr:postcode": "310141",
+      "addr:street": "Calea Aurel Vlaicu",
+      "amenity": "clinic",
+      "building": "yes",
+      "healthcare": "clinic",
+      "name": "B Braun Centru de Dializă"
+    }
   },
   {
     "id": "way-304692158",
@@ -1558,8 +2849,15 @@
     "lat": 46.2022781,
     "lng": 21.2974363,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Arad",
+      "addr:housenumber": "89A",
+      "addr:postcode": "310368",
+      "addr:street": "Strada Poetului",
+      "amenity": "school",
+      "layer": "1",
+      "name": "Școala Gimnazială nr. 11 Nicolae Bălcescu"
+    }
   },
   {
     "id": "way-304702007",
@@ -1569,8 +2867,10 @@
     "lat": 46.1993887,
     "lng": 21.301523,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "university",
+      "name": "Universitatea Aurel Vlaicu Cămine Studențești"
+    }
   },
   {
     "id": "way-304950939",
@@ -1580,8 +2880,14 @@
     "lat": 46.1922767,
     "lng": 21.3042789,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Arad",
+      "addr:housenumber": "2B",
+      "addr:postcode": "310422",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Vasile Conta",
+      "amenity": "school"
+    }
   },
   {
     "id": "way-304950952",
@@ -1591,8 +2897,14 @@
     "lat": 46.1919099,
     "lng": 21.3039653,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Arad",
+      "addr:housenumber": "2B",
+      "addr:postcode": "310422",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Vasile Conta",
+      "amenity": "school"
+    }
   },
   {
     "id": "way-304951003",
@@ -1602,8 +2914,17 @@
     "lat": 46.1957689,
     "lng": 21.3010356,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Arad",
+      "addr:housenumber": "138-140",
+      "addr:postcode": "310365",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Calea Aurel Vlaicu",
+      "amenity": "clinic",
+      "building": "yes",
+      "healthcare": "clinic",
+      "name": "Infomedica"
+    }
   },
   {
     "id": "way-305036605",
@@ -1613,8 +2934,15 @@
     "lat": 46.1827711,
     "lng": 21.3067425,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Arad",
+      "addr:housenumber": "2/4",
+      "addr:street": "Strada Andrenyi Karoly",
+      "amenity": "clinic",
+      "building": "yes",
+      "healthcare": "clinic",
+      "name": "Centrul de Transfuzie Sanguină"
+    }
   },
   {
     "id": "way-305043556",
@@ -1624,8 +2952,17 @@
     "lat": 46.193139,
     "lng": 21.2985679,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Arad",
+      "addr:housenumber": "42",
+      "addr:postcode": "310389",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Constantin Brâncuși",
+      "amenity": "clinic",
+      "building": "yes",
+      "healthcare": "clinic",
+      "name": "Policlinica Vlaicu"
+    }
   },
   {
     "id": "way-305044435",
@@ -1635,8 +2972,11 @@
     "lat": 46.1979093,
     "lng": 21.2986653,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "clinic",
+      "building": "yes",
+      "layer": "1"
+    }
   },
   {
     "id": "way-305045190",
@@ -1646,8 +2986,17 @@
     "lat": 46.1792214,
     "lng": 21.3215197,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Arad",
+      "addr:housenumber": "45",
+      "addr:postcode": "310181",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Bulevardul Revoluției",
+      "amenity": "clinic",
+      "building": "yes",
+      "healthcare": "clinic",
+      "name": "Policlinica Municipală"
+    }
   },
   {
     "id": "way-305309152",
@@ -1657,8 +3006,12 @@
     "lat": 46.1941724,
     "lng": 21.298526,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Arad",
+      "addr:street": "Aleea Tomis",
+      "amenity": "kindergarten",
+      "name": "Grădinița cu program prelungit nr. 10 Furnicuța"
+    }
   },
   {
     "id": "way-305372557",
@@ -1668,8 +3021,10 @@
     "lat": 46.1998166,
     "lng": 21.2922667,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Arad",
+      "amenity": "kindergarten"
+    }
   },
   {
     "id": "way-305372692",
@@ -1679,8 +3034,9 @@
     "lat": 46.2004088,
     "lng": 21.29259,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "kindergarten"
+    }
   },
   {
     "id": "way-305375276",
@@ -1690,8 +3046,18 @@
     "lat": 46.1819539,
     "lng": 21.3193694,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Arad",
+      "addr:housenumber": "16",
+      "addr:postcode": "310011",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Andrei Mureșanu",
+      "amenity": "clinic",
+      "building": "yes",
+      "healthcare": "clinic",
+      "name": "Labormed",
+      "opening_hours": "Mo-Fr 07:30-19:00; Sa 07:30-11:30"
+    }
   },
   {
     "id": "way-305377693",
@@ -1701,8 +3067,15 @@
     "lat": 46.183137,
     "lng": 21.3176696,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Arad",
+      "addr:housenumber": "33-37",
+      "addr:postcode": "310004",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Ștefan Augustin Doinaș",
+      "amenity": "school",
+      "name": "Școala Gimnazială nr. 4 Ioan Slavici"
+    }
   },
   {
     "id": "way-305828799",
@@ -1712,8 +3085,48 @@
     "lat": 46.1741988,
     "lng": 21.3102809,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Arad",
+      "addr:housenumber": "40-42",
+      "addr:postcode": "310084",
+      "addr:street": "Strada Episcopiei",
+      "amenity": "school",
+      "email": "scoalagenerala_mihaieminescu@yahoo.com",
+      "grades": "0-8",
+      "name": "Școala Gimnazială 1 ”Mihai Eminescu”",
+      "website": "https://www.gimnazialamihaieminescuarad.ro/"
+    }
+  },
+  {
+    "id": "way-306488168",
+    "name": "Piața Fortuna",
+    "type": "betting",
+    "subcategory": "Piața Fortuna",
+    "lat": 46.2002899,
+    "lng": 21.2948814,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Arad",
+      "addr:street": "Aleea Saturn",
+      "building": "yes",
+      "name": "Piața Fortuna"
+    }
+  },
+  {
+    "id": "way-306488250",
+    "name": "Piața Fortuna Bazar",
+    "type": "betting",
+    "subcategory": "Piața Fortuna Bazar",
+    "lat": 46.2002863,
+    "lng": 21.2957089,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Arad",
+      "addr:housenumber": "7",
+      "addr:street": "Strada Ștefan Luchian",
+      "building": "yes",
+      "name": "Piața Fortuna Bazar"
+    }
   },
   {
     "id": "way-306582139",
@@ -1723,8 +3136,18 @@
     "lat": 46.1718966,
     "lng": 21.3096351,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Arad",
+      "addr:housenumber": "33",
+      "addr:postcode": "310085",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Mihai Eminescu",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "name": "Biserica Reformată Arad-Centru",
+      "name:hu": "Arad-belvárosi református templom",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-306587792",
@@ -1734,8 +3157,12 @@
     "lat": 46.1725177,
     "lng": 21.3076115,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Arad",
+      "addr:street": "Strada Mihai Eminescu",
+      "amenity": "hospital",
+      "healthcare": "hospital"
+    }
   },
   {
     "id": "way-306596185",
@@ -1745,8 +3172,18 @@
     "lat": 46.1719114,
     "lng": 21.3067787,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Arad",
+      "addr:housenumber": "57",
+      "addr:postcode": "310085",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Mihai Eminescu",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-307819186",
@@ -1756,8 +3193,15 @@
     "lat": 46.1832955,
     "lng": 21.307281,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Arad",
+      "addr:housenumber": "2-4",
+      "addr:street": "Strada Andrenyi Karoly",
+      "amenity": "clinic",
+      "building": "yes",
+      "healthcare": "clinic",
+      "name": "Serviciul Județean de Medicină Legală"
+    }
   },
   {
     "id": "way-307819449",
@@ -1767,8 +3211,15 @@
     "lat": 46.183181,
     "lng": 21.3074932,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Arad",
+      "addr:housenumber": "2-4",
+      "addr:street": "Strada Andrenyi Karoly",
+      "amenity": "clinic",
+      "building": "yes",
+      "healthcare": "clinic",
+      "name": "Policlinica Județeană"
+    }
   },
   {
     "id": "way-308097367",
@@ -1778,8 +3229,16 @@
     "lat": 46.1939747,
     "lng": 21.3006388,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Arad",
+      "addr:housenumber": "121-125",
+      "addr:postcode": "310365",
+      "addr:street": "Calea Aurel Vlaicu",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "name": "Biserica Penticostală Betel",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-308779394",
@@ -1789,8 +3248,17 @@
     "lat": 46.1951257,
     "lng": 21.2996715,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Arad",
+      "addr:postcode": "310392",
+      "addr:street": "Calea Aurel Vlaicu",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "roman_catholic",
+      "name": "Parohia Romano-Catolică Sfânta Terezia Mică",
+      "name:hu": "Kis Szent Teréz templom",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-308841919",
@@ -1800,8 +3268,14 @@
     "lat": 46.2038887,
     "lng": 21.3443969,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Arad",
+      "addr:housenumber": "8",
+      "addr:postcode": "310216",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Calea Zimandului",
+      "amenity": "university"
+    }
   },
   {
     "id": "way-309215428",
@@ -1811,8 +3285,11 @@
     "lat": 46.177858,
     "lng": 21.3502333,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Arad",
+      "amenity": "school",
+      "name": "Școala Gimnazială nr. 12 Regina Maria"
+    }
   },
   {
     "id": "way-310005964",
@@ -1822,8 +3299,18 @@
     "lat": 46.179479,
     "lng": 21.3146995,
     "osmType": "way",
-    "brand": null,
-    "operator": "Ministerul Sănătății"
+    "tags": {
+      "addr:city": "Arad",
+      "addr:housenumber": "7-8",
+      "addr:postcode": "310017",
+      "addr:street": "Piața Mihai Viteazul",
+      "amenity": "hospital",
+      "healthcare": "hospital",
+      "healthcare:speciality": "general;paediatrics;intensive",
+      "name": "Spitalul Clinic Municipal",
+      "operator": "Ministerul Sănătății",
+      "operator:type": "government"
+    }
   },
   {
     "id": "way-310073728",
@@ -1833,8 +3320,14 @@
     "lat": 46.1812654,
     "lng": 21.3269951,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Arad",
+      "addr:street": "Strada Doctor Ioan Suciu",
+      "amenity": "school",
+      "isced:level": "3",
+      "name": "Liceul Baptist Alexa Popovici",
+      "operator:type": "religious"
+    }
   },
   {
     "id": "way-310303134",
@@ -1844,8 +3337,17 @@
     "lat": 46.1686976,
     "lng": 21.3641563,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Arad",
+      "addr:street": "Strada Voinicilor",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "check_date": "2026-03-04",
+      "denomination": "greek_catholic",
+      "name": "Biserica Greco-Catolică Sfântul Anton de Padova",
+      "name:hu": "Páduai Szent Antal templom",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-310581449",
@@ -1855,8 +3357,17 @@
     "lat": 46.1828142,
     "lng": 21.3214919,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Arad",
+      "addr:housenumber": "28",
+      "addr:postcode": "310010",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Tudor Vladimirescu",
+      "amenity": "clinic",
+      "building": "yes",
+      "healthcare": "clinic",
+      "name": "Centrul Medical Mediar"
+    }
   },
   {
     "id": "way-310596285",
@@ -1866,8 +3377,17 @@
     "lat": 46.1832825,
     "lng": 21.3201289,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Arad",
+      "addr:housenumber": "39A",
+      "addr:postcode": "310010",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Tudor Vladimirescu",
+      "amenity": "clinic",
+      "building": "yes",
+      "healthcare": "clinic",
+      "name": "Medfemme"
+    }
   },
   {
     "id": "way-310627979",
@@ -1877,8 +3397,17 @@
     "lat": 46.1801333,
     "lng": 21.319043,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Arad",
+      "addr:housenumber": "8-10",
+      "addr:postcode": "310010",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Tudor Vladimirescu",
+      "amenity": "clinic",
+      "building": "yes",
+      "healthcare": "clinic",
+      "name": "CRRCH Centru de Recuperare și Reabilitare pentru Copii cu Handicap"
+    }
   },
   {
     "id": "way-310652304",
@@ -1888,8 +3417,18 @@
     "lat": 46.1689308,
     "lng": 21.300024,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Arad",
+      "addr:housenumber": "21-25",
+      "addr:postcode": "310055",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Dorobanților",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "baptist",
+      "name": "Biserica Baptistă “Dragostea\"",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-312562572",
@@ -1899,8 +3438,13 @@
     "lat": 46.1764211,
     "lng": 21.3597317,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Arad",
+      "addr:street": "Calea Radnei",
+      "amenity": "kindergarten",
+      "check_date": "2025-08-28",
+      "name": "Grădinița Căsuța Piticilor"
+    }
   },
   {
     "id": "way-322217407",
@@ -1910,8 +3454,17 @@
     "lat": 46.1779354,
     "lng": 21.313665,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Arad",
+      "addr:housenumber": "4",
+      "addr:street": "Strada Vincențiu Babeș",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "greek_catholic",
+      "name": "Biserica Greco-Catolică",
+      "name:hu": "Görög katolikus templom",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-328908172",
@@ -1921,8 +3474,18 @@
     "lat": 46.1706673,
     "lng": 21.3562304,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Arad",
+      "addr:housenumber": "29",
+      "addr:postcode": "310304",
+      "addr:street": "Strada Voinicilor",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "seventh_day_adventist",
+      "name": "Biserică Creștină Adventistă",
+      "name:hu": "Adventista imaház",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-329005419",
@@ -1932,8 +3495,19 @@
     "lat": 46.1800768,
     "lng": 21.3438388,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Arad",
+      "addr:housenumber": "Nr.1",
+      "addr:postcode": "310272",
+      "addr:street": "Strada Bârzava",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "building:levels": "1",
+      "denomination": "orthodox",
+      "name": "Biserica „Sf. Arh. Mihail și Gavriil”",
+      "name:hu": "Szent Mihály és Gábriel arkangyalok templom",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-330890339",
@@ -1943,8 +3517,15 @@
     "lat": 46.1809363,
     "lng": 21.3460699,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Arad",
+      "addr:housenumber": "8",
+      "addr:postcode": "310270",
+      "addr:street": "Strada Fabius",
+      "amenity": "kindergarten",
+      "building": "kindergarten",
+      "name": "Grădinița PN 18 corp B"
+    }
   },
   {
     "id": "way-332166922",
@@ -1954,8 +3535,10 @@
     "lat": 46.1788943,
     "lng": 21.3528651,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Arad",
+      "amenity": "kindergarten"
+    }
   },
   {
     "id": "way-472284148",
@@ -1965,8 +3548,14 @@
     "lat": 46.1830871,
     "lng": 21.3081299,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "hospital",
+      "emergency": "yes",
+      "healthcare": "hospital",
+      "name": "Spitalul Clinic de Urgență Arad",
+      "website": "https://www.scjarad.ro/",
+      "wikidata": "Q4783606"
+    }
   },
   {
     "id": "way-472284151",
@@ -1976,8 +3565,9 @@
     "lat": 46.1850761,
     "lng": 21.3083644,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school"
+    }
   },
   {
     "id": "way-472289436",
@@ -1987,8 +3577,10 @@
     "lat": 46.1954081,
     "lng": 21.3031595,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "name": "Școala Gimnazială nr. 21 Aurel Vlaicu"
+    }
   },
   {
     "id": "way-472291996",
@@ -1998,8 +3590,14 @@
     "lat": 46.1664218,
     "lng": 21.2938402,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Arad",
+      "addr:postcode": "310046",
+      "amenity": "school",
+      "email": "generala_3_arad@yahoo.com",
+      "name": "Școala Gimnazială nr. 3 Iosif Moldovan",
+      "website": "https://scoalaiosifmoldovan.ro/"
+    }
   },
   {
     "id": "way-472291998",
@@ -2009,8 +3607,10 @@
     "lat": 46.1675673,
     "lng": 21.3140531,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "name": "Școala Gimnazială nr. 2"
+    }
   },
   {
     "id": "way-472292000",
@@ -2020,8 +3620,11 @@
     "lat": 46.1688062,
     "lng": 21.3199312,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "check_date": "2026-02-06",
+      "name": "Grup Școlar Industrial Aurel Vlaicu"
+    }
   },
   {
     "id": "way-472292001",
@@ -2031,8 +3634,11 @@
     "lat": 46.1691606,
     "lng": 21.3209948,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "name": "Colegiul Național „Preparandia - Dimitrie Țichindeal”",
+      "name:hu": "Aradi tanítóképző"
+    }
   },
   {
     "id": "way-574030165",
@@ -2042,8 +3648,18 @@
     "lat": 46.211048,
     "lng": 21.2777435,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Arad",
+      "addr:housenumber": "86",
+      "addr:postcode": "310501",
+      "addr:street": "Strada Dunării",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "fixme": "possible duplicated amenity (POI & poly)",
+      "name": "Biserica ortodoxă Gai",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-583901574",
@@ -2053,8 +3669,13 @@
     "lat": 46.1653847,
     "lng": 21.397636,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă \"Sf Mare Mucenic Dimitrie\" - Vladimirescu I",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-636762161",
@@ -2064,8 +3685,14 @@
     "lat": 46.1224723,
     "lng": 21.3894223,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Fântânele",
+      "addr:housenumber": "550",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "name": "Biserica Pentecostala Emanuel",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-893584693",
@@ -2075,8 +3702,16 @@
     "lat": 46.1545431,
     "lng": 21.3226317,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Arad",
+      "addr:street": "Calea Timișorii",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "roman_catholic",
+      "name": "Biserica Catolică",
+      "religion": "christian",
+      "wheelchair": "no"
+    }
   },
   {
     "id": "way-906648616",
@@ -2086,8 +3721,17 @@
     "lat": 46.1930703,
     "lng": 21.3082237,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Arad",
+      "addr:housenumber": "78",
+      "addr:postcode": "310400",
+      "addr:street": "Calea Aurel Vlaicu",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Parohia Ortodoxă Șega II",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-906693433",
@@ -2097,8 +3741,37 @@
     "lat": 46.1659369,
     "lng": 21.30733,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Arad",
+      "amenity": "school",
+      "name": "Grupul Școlar de Arte și Meserii Spiru Haret"
+    }
+  },
+  {
+    "id": "way-931994648",
+    "name": "Vechiul Cazinou Arad",
+    "type": "gaming",
+    "subcategory": "Vechiul Cazinou Arad",
+    "lat": 46.1719615,
+    "lng": 21.3205938,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Arad",
+      "addr:housenumber": "27",
+      "addr:postcode": "310125",
+      "addr:street": "Strada General Ion Dragalina",
+      "air_conditioning": "yes",
+      "amenity": "casino",
+      "building": "yes",
+      "check_date": "2026-04-20",
+      "description": "Vechiul Cazinou. Reînviem o parte din măreția acestui frumos oraș. Aradul are o istorie legendară. În filele acestei istorii, în 1872 a fost construit un loc de promenadă și evenimente, pentru aristocrația vremii: Cazinoul Arad.  Trecut prin zbuciumul reg",
+      "email": "office@vechiulcazinou.ro",
+      "historic": "yes",
+      "name": "Vechiul Cazinou Arad",
+      "opening_hours": "sunrise-sunset",
+      "phone": "+40 0740 683 088",
+      "website": "https://vechiulcazinou.ro/"
+    }
   },
   {
     "id": "way-940076761",
@@ -2108,8 +3781,17 @@
     "lat": 46.139053,
     "lng": 21.3465027,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Arad",
+      "addr:housenumber": "27",
+      "addr:postcode": "310261",
+      "addr:street": "Strada Ștefan Zarie",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă Română Sfântul Mucenic Gheorghe",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-944530144",
@@ -2119,8 +3801,16 @@
     "lat": 46.1558667,
     "lng": 21.3223996,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Arad",
+      "addr:street": "Calea Timișorii",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "check_date": "2026-03-04",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă  Sf. Mare Mc. Gheorghe Aradul Nou",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-955804734",
@@ -2130,8 +3820,20 @@
     "lat": 46.1663814,
     "lng": 21.3891523,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Vladimirescu",
+      "addr:housenumber": "8",
+      "addr:postcode": "317405",
+      "addr:street": "Strada Augusta",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "building:levels": "3",
+      "check_date": "2025-08-04",
+      "name": "Harvest Arad",
+      "religion": "christian",
+      "smoking": "no",
+      "wheelchair": "yes"
+    }
   },
   {
     "id": "way-965907362",
@@ -2141,8 +3843,12 @@
     "lat": 46.2554988,
     "lng": 21.3819352,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:housenumber": "244",
+      "amenity": "doctors",
+      "building": "house",
+      "healthcare": "doctor"
+    }
   },
   {
     "id": "way-965907414",
@@ -2152,8 +3858,14 @@
     "lat": 46.2554842,
     "lng": 21.3824463,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "check_date": "2026-04-19",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica Ortodoxă Zimand Cuz",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-965907415",
@@ -2163,8 +3875,16 @@
     "lat": 46.2546232,
     "lng": 21.3844471,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:housenumber": "35",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "check_date": "2026-04-19",
+      "denomination": "roman_catholic",
+      "name": "Biserica Catolică Zimand Cuz",
+      "name:hu": "Katolikus tempom",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-966688780",
@@ -2174,8 +3894,14 @@
     "lat": 46.2521727,
     "lng": 21.3833535,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:housenumber": "51A",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "jehovahs_witness",
+      "name:hu": "Jehoha Tanúinak Királyságterme",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-972536542",
@@ -2185,8 +3911,16 @@
     "lat": 46.2584727,
     "lng": 21.3819937,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:housenumber": "375",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "check_date": "2026-04-19",
+      "denomination": "protestant",
+      "name": "Biserica Reformată Zimand Cuz",
+      "name:hu": "Protestáns templom",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-978216205",
@@ -2196,8 +3930,9 @@
     "lat": 46.2254126,
     "lng": 21.3879224,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school"
+    }
   },
   {
     "id": "way-978772583",
@@ -2207,8 +3942,9 @@
     "lat": 46.2253761,
     "lng": 21.3874799,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school"
+    }
   },
   {
     "id": "way-1070339700",
@@ -2218,8 +3954,11 @@
     "lat": 46.2183975,
     "lng": 21.2746468,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1079785467",
@@ -2229,8 +3968,16 @@
     "lat": 46.1714056,
     "lng": 21.4003403,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Vladimirescu",
+      "addr:postcode": "317405",
+      "addr:street": "Strada 5",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Biserica parohiala Vladimirescu II",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1117719328",
@@ -2240,8 +3987,20 @@
     "lat": 46.1504053,
     "lng": 21.3351153,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:housenumber": "25",
+      "addr:postcode": "310258",
+      "addr:street": "Strada Pompei",
+      "amenity": "school",
+      "contact:facebook": "LiceulTeologicBaptistArad",
+      "contact:instagram": "p/DCw3jFDtuuJ",
+      "email": "secretariat@ltb-arad.ro",
+      "internet_access": "wlan",
+      "name": "Liceul Teologic Baptist „Alexa Popovici” Arad",
+      "opening_hours": "Mo-Fr 08:00-15:00",
+      "phone": "+40 257 250 751",
+      "website": "https://ltb-arad.ro/"
+    }
   },
   {
     "id": "way-1125449636",
@@ -2251,8 +4010,12 @@
     "lat": 46.2250757,
     "lng": 21.3865511,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "religious",
+      "name": "CHURCH",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1150658554",
@@ -2262,8 +4025,10 @@
     "lat": 46.1738129,
     "lng": 21.3010478,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "name": "Școala Generală Nr. 2"
+    }
   },
   {
     "id": "way-1226996211",
@@ -2273,8 +4038,14 @@
     "lat": 46.1823342,
     "lng": 21.3294038,
     "osmType": "way",
-    "brand": null,
-    "operator": "Inspectoratul Școlar Judeean Arad"
+    "tags": {
+      "amenity": "school",
+      "check_date": "2026-04-20",
+      "name": "Liceul Național de Informatică - Corp A",
+      "old_name": "Liceul Tehnologic Iuliu Maniu",
+      "operator": "Inspectoratul Școlar Judeean Arad",
+      "operator:type": "public"
+    }
   },
   {
     "id": "way-1317422659",
@@ -2284,8 +4055,15 @@
     "lat": 46.1873546,
     "lng": 21.3300993,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Arad",
+      "addr:housenumber": "9-11",
+      "addr:postcode": "310188",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Ardealului",
+      "amenity": "school",
+      "name": "Grădinița PP 12"
+    }
   },
   {
     "id": "way-1317422660",
@@ -2295,8 +4073,14 @@
     "lat": 46.1863727,
     "lng": 21.3299506,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Arad",
+      "addr:housenumber": "8",
+      "addr:street": "Strada Ardealului",
+      "amenity": "school",
+      "education": "school",
+      "name": "Școala Gimnazială Aron Cotruș"
+    }
   },
   {
     "id": "way-1329529603",
@@ -2306,8 +4090,16 @@
     "lat": 46.189978,
     "lng": 21.310073,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Arad",
+      "addr:housenumber": "39",
+      "addr:street": "Calea Victoriei",
+      "amenity": "doctors",
+      "building": "yes",
+      "healthcare": "doctor",
+      "healthcare:speciality": "pulmonology",
+      "name": "Dispensarul TBC"
+    }
   },
   {
     "id": "way-1364227269",
@@ -2317,8 +4109,11 @@
     "lat": 46.1779535,
     "lng": 21.3243012,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "university",
+      "leisure": "sports_centre",
+      "name": "Universitatea de Vest Vasile Goldiș - Facultatea de Educație Fizică și Sport"
+    }
   },
   {
     "id": "way-1384418502",
@@ -2328,8 +4123,13 @@
     "lat": 46.2039271,
     "lng": 21.2843505,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "roman_catholic",
+      "name": "Biserica Romano-Catolică \"Sfânta Ghizela\"",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1421060619",
@@ -2339,8 +4139,32 @@
     "lat": 46.1624146,
     "lng": 21.3901494,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "check_date": "2025-08-09",
+      "construction": "church",
+      "denomination": "orthodox",
+      "landuse": "construction",
+      "name": "Church (Construction)",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1455413049",
+    "name": "Excelbet",
+    "type": "betting",
+    "subcategory": "Excelbet",
+    "lat": 46.194995,
+    "lng": 21.3336623,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Arad",
+      "addr:housenumber": "41",
+      "addr:street": "Strada Petru Rareș",
+      "building": "yes",
+      "name": "Excelbet",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "way-1455497396",
@@ -2350,8 +4174,16 @@
     "lat": 46.1928709,
     "lng": 21.3322556,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Arad",
+      "addr:housenumber": "32",
+      "addr:street": "Strada Petru Rareș",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "catholic",
+      "name": "Biserica Romano-Catolica “Sf. Iosif Muncitorul”",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1455506176",
@@ -2361,8 +4193,9 @@
     "lat": 46.1912829,
     "lng": 21.3306238,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "kindergarten"
+    }
   },
   {
     "id": "way-1455506179",
@@ -2372,8 +4205,13 @@
     "lat": 46.1915937,
     "lng": 21.3309574,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă „Sf. Arhangheli Mihail şi Gavriil”",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1455510127",
@@ -2383,8 +4221,15 @@
     "lat": 46.193691,
     "lng": 21.3318231,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Arad",
+      "addr:housenumber": "21",
+      "addr:street": "Strada Petru Rareș",
+      "amenity": "school",
+      "check_date": "2026-04-19",
+      "education": "school",
+      "name": "Școala Generală ,,Aron Cotruș\""
+    }
   },
   {
     "id": "way-1455510137",
@@ -2394,8 +4239,13 @@
     "lat": 46.1940697,
     "lng": 21.3323834,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "doctors",
+      "building": "yes",
+      "healthcare": "doctor",
+      "name": "Medic de Famlie",
+      "source": "microsoft/BuildingFootprints"
+    }
   },
   {
     "id": "way-1464453927",
@@ -2405,8 +4255,16 @@
     "lat": 46.1947656,
     "lng": 21.3343892,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Arad",
+      "addr:housenumber": "52",
+      "addr:street": "Strada Petru Rareș",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "baptist",
+      "name": "Biserica Creștină Baptistă Betel",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1475512640",
@@ -2416,8 +4274,14 @@
     "lat": 46.1762526,
     "lng": 21.2375348,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Arad",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Biserica Sf. Ioan Evanghelistul",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1486965440",
@@ -2427,8 +4291,17 @@
     "lat": 46.189321,
     "lng": 21.3343955,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Arad",
+      "addr:housenumber": "44",
+      "addr:postcode": "310187",
+      "addr:street": "Strada Crasna",
+      "amenity": "kindergarten",
+      "education": "kindergarten",
+      "name": "Grădinița PP 11",
+      "phone": "+40 357 428 490",
+      "preschool": "yes"
+    }
   },
   {
     "id": "way-1486965443",
@@ -2438,8 +4311,16 @@
     "lat": 46.1925668,
     "lng": 21.3306408,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Arad",
+      "addr:housenumber": "7",
+      "addr:street": "Strada Petru Rareș",
+      "amenity": "school",
+      "education": "school",
+      "name": "Liceul Teologic Penticostal",
+      "phone": "+40 357 408 317",
+      "website": "https://liceulpenticostalarad.ro/"
+    }
   },
   {
     "id": "way-1500806294",
@@ -2449,8 +4330,27 @@
     "lat": 46.172587,
     "lng": 21.3154302,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Arad",
+      "addr:housenumber": "96A",
+      "addr:postcode": "310025",
+      "addr:street": "Bulevardul Revoluției",
+      "alt_name": "Biserica romano-catolică Sf. Anton de Padova",
+      "alt_name:en": "St. Anthony of Padova Catholic Church",
+      "amenity": "place_of_worship",
+      "architect": "Tabakovits Emil",
+      "building": "church",
+      "denomination": "roman_catholic",
+      "name": "Biserica „Sfântul Anton de Padova”",
+      "name:en": "St. Anthony of Padova Church",
+      "name:hu": "Páduai Szent Antal-templom",
+      "name:ro": "Biserica Sf. Anton de Padova",
+      "religion": "christian",
+      "start_date": "1904",
+      "wheelchair": "no",
+      "wikidata": "Q1937504",
+      "wikipedia": "ro:Biserica „Sfântul Anton de Padova” din Arad"
+    }
   },
   {
     "id": "way-1502094689",
@@ -2460,8 +4360,11 @@
     "lat": 46.0618635,
     "lng": 21.2792462,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1503004865",
@@ -2471,8 +4374,12 @@
     "lat": 46.1830144,
     "lng": 21.3085252,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "name": "Biserica Cuvioasa Parascheva",
+      "religion": "christian"
+    }
   },
   {
     "id": "relation-3251709",
@@ -2482,8 +4389,20 @@
     "lat": 46.1708945,
     "lng": 21.3192923,
     "osmType": "relation",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Arad",
+      "addr:housenumber": "1",
+      "addr:street": "Bulevardul General Ion Dragalina",
+      "amenity": "school",
+      "building": "school",
+      "building:levels": "2",
+      "check_date": "2026-04-20",
+      "education": "school",
+      "name": "Colegiul Național ,,Moise Nicoară\"",
+      "type": "multipolygon",
+      "url": "http://moisenicoara.ro",
+      "wheelchair": "limited"
+    }
   },
   {
     "id": "relation-12185205",
@@ -2493,8 +4412,12 @@
     "lat": 46.1811353,
     "lng": 21.2962647,
     "osmType": "relation",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Arad",
+      "amenity": "university",
+      "name": "Campus Universitar Vasile Goldiș",
+      "type": "multipolygon"
+    }
   },
   {
     "id": "relation-13700008",
@@ -2504,8 +4427,13 @@
     "lat": 46.2218575,
     "lng": 21.386492,
     "osmType": "relation",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "religion": "christian",
+      "type": "multipolygon"
+    }
   },
   {
     "id": "relation-20341248",
@@ -2515,7 +4443,17 @@
     "lat": 46.1736849,
     "lng": 21.319589,
     "osmType": "relation",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Arad",
+      "addr:housenumber": "6",
+      "addr:street": "Strada General Dragalina",
+      "amenity": "school",
+      "check_date": "2026-04-20",
+      "education": "school",
+      "grades": "0-12",
+      "name": "Colegiul Național ,,Elena Ghiba Birta\"",
+      "type": "multipolygon",
+      "website": "https://ghibabirta.ro/"
+    }
   }
 ]

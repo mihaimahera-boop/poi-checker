@@ -1,0 +1,4760 @@
+[
+  {
+    "id": "node-123637406",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.409068,
+    "lng": 28.0203082,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-161555977",
+    "name": "Biserica Înălțarea Domnului",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.4318214,
+    "lng": 28.0330894,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Înălțarea Domnului",
+      "religion": "christian",
+      "source": "survey"
+    }
+  },
+  {
+    "id": "node-249784604",
+    "name": "Grădinița Albă ca Zăpadă",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 45.4329049,
+    "lng": 28.0243472,
+    "osmType": "node",
+    "tags": {
+      "amenity": "kindergarten",
+      "layer": "2",
+      "name": "Grădinița Albă ca Zăpadă"
+    }
+  },
+  {
+    "id": "node-250375559",
+    "name": "Spitalul de pediatrie \"Sfântul Ioan\"",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 45.4313362,
+    "lng": 28.0235885,
+    "osmType": "node",
+    "tags": {
+      "amenity": "hospital",
+      "emergency": "yes",
+      "name": "Spitalul de pediatrie \"Sfântul Ioan\"",
+      "source": "survey"
+    }
+  },
+  {
+    "id": "node-298831540",
+    "name": "Spitalul CFR",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 45.439169,
+    "lng": 28.0619055,
+    "osmType": "node",
+    "tags": {
+      "amenity": "hospital",
+      "healthcare": "hospital",
+      "name": "Spitalul CFR"
+    }
+  },
+  {
+    "id": "node-298843856",
+    "name": "Școala Generală nr. 24",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.4335264,
+    "lng": 28.0585203,
+    "osmType": "node",
+    "tags": {
+      "amenity": "school",
+      "name": "Școala Generală nr. 24"
+    }
+  },
+  {
+    "id": "node-298844176",
+    "name": "Facultatea de Medicină",
+    "type": "school",
+    "subcategory": "university",
+    "lat": 45.4388725,
+    "lng": 28.0576738,
+    "osmType": "node",
+    "tags": {
+      "addr:housenumber": "35",
+      "addr:street": "Strada A.I. Cuza",
+      "amenity": "university",
+      "name": "Facultatea de Medicină"
+    }
+  },
+  {
+    "id": "node-352824026",
+    "name": "Vitalmed",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 45.4355107,
+    "lng": 28.0547665,
+    "osmType": "node",
+    "tags": {
+      "amenity": "doctors",
+      "name": "Vitalmed"
+    }
+  },
+  {
+    "id": "node-352824027",
+    "name": "Romar",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 45.4348616,
+    "lng": 28.0546359,
+    "osmType": "node",
+    "tags": {
+      "amenity": "doctors",
+      "name": "Romar"
+    }
+  },
+  {
+    "id": "node-352824031",
+    "name": "Centrul Medical Irina",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 45.4374706,
+    "lng": 28.0551212,
+    "osmType": "node",
+    "tags": {
+      "amenity": "doctors",
+      "name": "Centrul Medical Irina"
+    }
+  },
+  {
+    "id": "node-353969556",
+    "name": "Biserica Sfântul Ștefan",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.4530069,
+    "lng": 28.027132,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Sfântul Ștefan",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-444722042",
+    "name": "MaxBet",
+    "type": "gaming",
+    "subcategory": "MaxBet",
+    "lat": 45.4300132,
+    "lng": 28.037162,
+    "osmType": "node",
+    "tags": {
+      "amenity": "casino",
+      "name": "MaxBet"
+    }
+  },
+  {
+    "id": "node-502105846",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.5505429,
+    "lng": 27.9877887,
+    "osmType": "node",
+    "tags": {
+      "amenity": "school"
+    }
+  },
+  {
+    "id": "node-530260704",
+    "name": "Facultatea de Știința Calculatoarelor",
+    "type": "school",
+    "subcategory": "university",
+    "lat": 45.4458002,
+    "lng": 28.0522473,
+    "osmType": "node",
+    "tags": {
+      "amenity": "university",
+      "name": "Facultatea de Știința Calculatoarelor"
+    }
+  },
+  {
+    "id": "node-530260721",
+    "name": "Facultatea de Drept",
+    "type": "school",
+    "subcategory": "university",
+    "lat": 45.4475165,
+    "lng": 28.0532859,
+    "osmType": "node",
+    "tags": {
+      "amenity": "university",
+      "name": "Facultatea de Drept"
+    }
+  },
+  {
+    "id": "node-534356141",
+    "name": "Liceul CFR, Grup Școlar Industrial Transporturi Feroviare",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.447909,
+    "lng": 28.0347203,
+    "osmType": "node",
+    "tags": {
+      "amenity": "school",
+      "name": "Liceul CFR, Grup Școlar Industrial Transporturi Feroviare"
+    }
+  },
+  {
+    "id": "node-540653894",
+    "name": "Școala primară nr.1",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.4979954,
+    "lng": 28.0129541,
+    "osmType": "node",
+    "tags": {
+      "amenity": "school",
+      "name": "Școala primară nr.1"
+    }
+  },
+  {
+    "id": "node-565597112",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.5296237,
+    "lng": 28.0142521,
+    "osmType": "node",
+    "tags": {
+      "amenity": "school"
+    }
+  },
+  {
+    "id": "node-571182012",
+    "name": "Grădinița nr. 19",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 45.4505822,
+    "lng": 28.0227839,
+    "osmType": "node",
+    "tags": {
+      "amenity": "kindergarten",
+      "name": "Grădinița nr. 19"
+    }
+  },
+  {
+    "id": "node-571603490",
+    "name": "Grădinița Nicolae Labiș",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 45.457153,
+    "lng": 28.0209057,
+    "osmType": "node",
+    "tags": {
+      "amenity": "kindergarten",
+      "name": "Grădinița Nicolae Labiș"
+    }
+  },
+  {
+    "id": "node-571603626",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 45.4564624,
+    "lng": 28.025589,
+    "osmType": "node",
+    "tags": {
+      "amenity": "kindergarten"
+    }
+  },
+  {
+    "id": "node-615031099",
+    "name": "Grădinița nr. 51 \"Motanul Încălțat\"",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 45.4139965,
+    "lng": 28.0075546,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "205",
+      "addr:street": "Bulevardul Brăilei",
+      "amenity": "kindergarten",
+      "check_date": "2026-04-12",
+      "name": "Grădinița nr. 51 \"Motanul Încălțat\"",
+      "name:ro": "Grădinița nr. 51 \"Motanul Încălțat\"",
+      "operator": "Ministerul Educației, Cercetării, Tineretului și Sportului",
+      "operator:type": "public",
+      "preschool": "yes"
+    }
+  },
+  {
+    "id": "node-979288999",
+    "name": "Centrul medical Irina",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 45.4458256,
+    "lng": 28.0226275,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "23",
+      "addr:postcode": "800510",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Crinului",
+      "amenity": "doctors",
+      "name": "Centrul medical Irina"
+    }
+  },
+  {
+    "id": "node-1067619470",
+    "name": "Grădinița nr. 9 Sf. Nicolae",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 45.4313204,
+    "lng": 28.0329633,
+    "osmType": "node",
+    "tags": {
+      "amenity": "kindergarten",
+      "name": "Grădinița nr. 9 Sf. Nicolae"
+    }
+  },
+  {
+    "id": "node-1278096359",
+    "name": "Biserica Sf. Cruce",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.4390522,
+    "lng": 28.0291405,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "32",
+      "addr:postcode": "800290",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada General Ioan Dragalina",
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Sf. Cruce",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-1461541839",
+    "name": "ROYALE",
+    "type": "betting",
+    "subcategory": "ROYALE",
+    "lat": 45.4275835,
+    "lng": 28.0315858,
+    "osmType": "node",
+    "tags": {
+      "name": "ROYALE",
+      "name:ro": "ROYALE",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-1882382249",
+    "name": "Nursery school",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 45.4304277,
+    "lng": 28.0176869,
+    "osmType": "node",
+    "tags": {
+      "amenity": "kindergarten",
+      "name": "Nursery school"
+    }
+  },
+  {
+    "id": "node-1882384793",
+    "name": "Cabinete Medicale",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 45.4304417,
+    "lng": 28.0191736,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:street": "Strada Gheorghe Asachi",
+      "amenity": "hospital",
+      "designation": "family medical",
+      "emergency": "no",
+      "name": "Cabinete Medicale"
+    }
+  },
+  {
+    "id": "node-1882405972",
+    "name": "Betania Church",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.4297689,
+    "lng": 28.0197307,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:street": "Strada Gheorghe Asachi",
+      "amenity": "place_of_worship",
+      "denomination": "adventist",
+      "name": "Betania Church",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-2128987380",
+    "name": "Centrul de nefrologie și dializă",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 45.4246525,
+    "lng": 28.0224136,
+    "osmType": "node",
+    "tags": {
+      "amenity": "clinic",
+      "name": "Centrul de nefrologie și dializă"
+    }
+  },
+  {
+    "id": "node-2134951929",
+    "name": "Skin doctor Ursoiu",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 45.4291728,
+    "lng": 28.0430774,
+    "osmType": "node",
+    "tags": {
+      "amenity": "doctors",
+      "name": "Skin doctor Ursoiu"
+    }
+  },
+  {
+    "id": "node-2134961019",
+    "name": "Biserica Baptistă Sfânta Treime",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.4311758,
+    "lng": 28.037327,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "independent_baptist",
+      "name": "Biserica Baptistă Sfânta Treime",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-2146384495",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 45.568798,
+    "lng": 28.0473852,
+    "osmType": "node",
+    "tags": {
+      "amenity": "kindergarten"
+    }
+  },
+  {
+    "id": "node-2146387091",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.5686666,
+    "lng": 28.0469828,
+    "osmType": "node",
+    "tags": {
+      "amenity": "school"
+    }
+  },
+  {
+    "id": "node-2146387093",
+    "name": "Dispensar Tulucesti",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 45.5687492,
+    "lng": 28.0477768,
+    "osmType": "node",
+    "tags": {
+      "amenity": "hospital",
+      "healthcare": "hospital",
+      "name": "Dispensar Tulucesti"
+    }
+  },
+  {
+    "id": "node-2161363186",
+    "name": "Doctor Pediatru Baciu Ginel",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 45.428209,
+    "lng": 28.046956,
+    "osmType": "node",
+    "tags": {
+      "amenity": "clinic",
+      "name": "Doctor Pediatru Baciu Ginel"
+    }
+  },
+  {
+    "id": "node-2161369953",
+    "name": "Gradinita nr.1 Luceafarul",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 45.4284481,
+    "lng": 28.0498151,
+    "osmType": "node",
+    "tags": {
+      "amenity": "kindergarten",
+      "name": "Gradinita nr.1 Luceafarul",
+      "opening_hours": "Mo-Fr 07:00-18:00"
+    }
+  },
+  {
+    "id": "node-2161391507",
+    "name": "Avant Medica",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 45.4356422,
+    "lng": 28.0549276,
+    "osmType": "node",
+    "tags": {
+      "amenity": "clinic",
+      "name": "Avant Medica"
+    }
+  },
+  {
+    "id": "node-2161400786",
+    "name": "Danubius Medica",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 45.436176,
+    "lng": 28.0245044,
+    "osmType": "node",
+    "tags": {
+      "amenity": "clinic",
+      "name": "Danubius Medica"
+    }
+  },
+  {
+    "id": "node-2407253572",
+    "name": "Biserica Sfinții Martiri Brâncoveni",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.4268722,
+    "lng": 28.0121835,
+    "osmType": "node",
+    "tags": {
+      "addr:street": "Combinatului nr.9",
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Sfinții Martiri Brâncoveni",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-2504372449",
+    "name": "Biserica Creștină Emanuel",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.4280237,
+    "lng": 28.038763,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housename": "Biserica Creștină Emanuel",
+      "addr:housenumber": "160-162",
+      "addr:postcode": "800305",
+      "addr:street": "Strada Morilor",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "pentecostal",
+      "name": "Biserica Creștină Emanuel",
+      "phone": "40 236 466798",
+      "religion": "christian",
+      "website": "https://www.emgl.org/"
+    }
+  },
+  {
+    "id": "node-2708846274",
+    "name": "Biserica parohială",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.4401799,
+    "lng": 27.9875191,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Galaţi",
+      "addr:housenumber": "1",
+      "addr:street": "Strada Smârdan",
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "description": "Biserica parohială cu hramurile „Sfântul Apostol Andrei“ şi „Sfântul Ierarh Nicolae“",
+      "name": "Biserica parohială",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-2781758986",
+    "name": "FastTrackKids",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.4431619,
+    "lng": 28.0548428,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "10bis",
+      "addr:postcode": "800217",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Colonel Nicolae Holban",
+      "amenity": "school",
+      "name": "FastTrackKids",
+      "source": "survey",
+      "website": "https://www.ftk.ro/contact/galati"
+    }
+  },
+  {
+    "id": "node-3971968953",
+    "name": "Biserica Adventistă Costi",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.4995462,
+    "lng": 28.0161287,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Costi",
+      "addr:housenumber": "1",
+      "addr:postcode": "807326",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Rândunelelor",
+      "amenity": "place_of_worship",
+      "denomination": "seventh_day_adventist",
+      "name": "Biserica Adventistă Costi",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-4102382841",
+    "name": "Doctor ORL - Familia Codreanu",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 45.4279638,
+    "lng": 28.047028,
+    "osmType": "node",
+    "tags": {
+      "amenity": "doctors",
+      "description": "Codreanu Corneliu:  - Luni: 15-19 - Marti: 15-19 - Sambata 9-12:30  Codreanu Margareta: - Marti: 9-12 - Miercuri: 9-12 - Joi: 16-19  Codreanu Corneliu Mircea: - Luni: 9-12 - Marti: 15-19 - Joi: 9-12 - Vineri: 9-12 / 15-19 - Duminica: At call reservation.",
+      "name": "Doctor ORL - Familia Codreanu"
+    }
+  },
+  {
+    "id": "node-4262636091",
+    "name": "Grădinița TEDY",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 45.449277,
+    "lng": 28.0414365,
+    "osmType": "node",
+    "tags": {
+      "amenity": "kindergarten",
+      "name": "Grădinița TEDY"
+    }
+  },
+  {
+    "id": "node-4270186991",
+    "name": "CABINET MEDICAL CARDIOLOGIE DR. BUCATANSCHI",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 45.4308284,
+    "lng": 28.0554914,
+    "osmType": "node",
+    "tags": {
+      "amenity": "clinic",
+      "name": "CABINET MEDICAL CARDIOLOGIE DR. BUCATANSCHI",
+      "phone": "0236435373"
+    }
+  },
+  {
+    "id": "node-4417554791",
+    "name": "InterBeauty Clinic",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 45.4318306,
+    "lng": 28.0248483,
+    "osmType": "node",
+    "tags": {
+      "amenity": "clinic",
+      "check_date": "2024-08-26",
+      "email": "office@interbeauty.ro",
+      "internet_access": "wlan",
+      "name": "InterBeauty Clinic",
+      "name:en": "InterBeauty Clinic",
+      "name:ro": "InterBeauty Clinic",
+      "opening_hours": "Mo-Sa 08:00-21:00; Su",
+      "website": "https://www.interbeauty.ro/"
+    }
+  },
+  {
+    "id": "node-4442221390",
+    "name": "Cabinet Medical Obstetrica Ginecologie",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 45.4433448,
+    "lng": 28.0466935,
+    "osmType": "node",
+    "tags": {
+      "amenity": "clinic",
+      "name": "Cabinet Medical Obstetrica Ginecologie",
+      "name:ro": "Cabinet Medical Obstetrica Ginecologie",
+      "opening_hours": "Tu-Th 15:00-19:00"
+    }
+  },
+  {
+    "id": "node-4553426989",
+    "name": "Sala Regatului a Martorilor lui Iehova",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.4399163,
+    "lng": 28.0511143,
+    "osmType": "node",
+    "tags": {
+      "addr:housenumber": "44",
+      "addr:street": "Strada Eroilor",
+      "amenity": "place_of_worship",
+      "denomination": "jehovahs_witness",
+      "name": "Sala Regatului a Martorilor lui Iehova",
+      "name:ro": "Sala Regatului a Martorilor lui Iehova",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-4596204291",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 45.444462,
+    "lng": 28.0568128,
+    "osmType": "node",
+    "tags": {
+      "amenity": "kindergarten",
+      "name:ro": "nanny"
+    }
+  },
+  {
+    "id": "node-4614121791",
+    "name": "Loto",
+    "type": "betting",
+    "subcategory": "Loto",
+    "lat": 45.4339655,
+    "lng": 28.0538893,
+    "osmType": "node",
+    "tags": {
+      "name": "Loto",
+      "name:ro": "Loto",
+      "opening_hours": "We-Su 09:00-17:00",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-4629860729",
+    "name": "Synevo",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 45.420889,
+    "lng": 28.0195871,
+    "osmType": "node",
+    "tags": {
+      "amenity": "doctors",
+      "brand": "Synevo",
+      "brand:wikidata": "Q85968400",
+      "healthcare": "laboratory",
+      "name": "Synevo",
+      "name:ro": "Synevo"
+    }
+  },
+  {
+    "id": "node-4642326710",
+    "name": "Affidea",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 45.4292649,
+    "lng": 28.0406862,
+    "osmType": "node",
+    "tags": {
+      "amenity": "clinic",
+      "contact:email": "galati@affidea.com",
+      "contact:phone": "+40 21 9338",
+      "contact:website": "https://affidea.ro/centre-medicale/affidea-hiperdia-galati",
+      "healthcare": "clinic",
+      "name": "Affidea",
+      "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-13:00"
+    }
+  },
+  {
+    "id": "node-4642617404",
+    "name": "Maternitate Chicos",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 45.4449411,
+    "lng": 28.0439281,
+    "osmType": "node",
+    "tags": {
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "name": "Maternitate Chicos",
+      "name:ro": "Maternitate Chicos"
+    }
+  },
+  {
+    "id": "node-4656436191",
+    "name": "Medicotest",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 45.4437142,
+    "lng": 28.0491569,
+    "osmType": "node",
+    "tags": {
+      "amenity": "doctors",
+      "name": "Medicotest"
+    }
+  },
+  {
+    "id": "node-4678128589",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 45.4236928,
+    "lng": 28.0212665,
+    "osmType": "node",
+    "tags": {
+      "amenity": "kindergarten"
+    }
+  },
+  {
+    "id": "node-4883918422",
+    "name": "Club Alice",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.4281842,
+    "lng": 28.0422524,
+    "osmType": "node",
+    "tags": {
+      "amenity": "school",
+      "name": "Club Alice",
+      "name:ro": "Club Alice"
+    }
+  },
+  {
+    "id": "node-4938724321",
+    "name": "SmartChat",
+    "type": "gaming",
+    "subcategory": "SmartChat",
+    "lat": 45.4412673,
+    "lng": 28.0562951,
+    "osmType": "node",
+    "tags": {
+      "addr:housenumber": "66",
+      "addr:postcode": "800600",
+      "addr:street": "Strada Domnească",
+      "amenity": "casino",
+      "email": "contact@smartchat.ro",
+      "internet_access": "wlan",
+      "name": "SmartChat",
+      "opening_hours": "24/7",
+      "phone": "0374037223",
+      "website": "https://smartchat.ro/"
+    }
+  },
+  {
+    "id": "node-5048507628",
+    "name": "Centru Medical \"Sanavita\"",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 45.4512681,
+    "lng": 28.0472102,
+    "osmType": "node",
+    "tags": {
+      "amenity": "clinic",
+      "name": "Centru Medical \"Sanavita\"",
+      "name:en": "Medical Centre \"Sanavita\""
+    }
+  },
+  {
+    "id": "node-5192904848",
+    "name": "Stanleybet PLUS",
+    "type": "betting",
+    "subcategory": "Stanleybet PLUS",
+    "lat": 45.435165,
+    "lng": 28.0553411,
+    "osmType": "node",
+    "tags": {
+      "amenity": "gambling",
+      "name": "Stanleybet PLUS",
+      "opening_hours": "Mo-Fr 09:00-17:00",
+      "website": "www.librabank.ro"
+    }
+  },
+  {
+    "id": "node-5275600131",
+    "name": "Remenix",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 45.4306329,
+    "lng": 28.0190537,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "17",
+      "addr:postcode": "800494",
+      "addr:street": "Strada Gheorghe Asachi",
+      "amenity": "clinic",
+      "email": "office@cavxmed.ro",
+      "healthcare": "clinic",
+      "name": "Remenix",
+      "opening_hours": "Mo-Fr 07:30-13:00, 14:00-20:30",
+      "phone": "0336733156",
+      "website": "https://www.remenix.ro/"
+    }
+  },
+  {
+    "id": "node-5275600228",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet",
+    "lat": 45.4317849,
+    "lng": 28.024851,
+    "osmType": "node",
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-5961996685",
+    "name": "Motanul încălțat",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 45.4107196,
+    "lng": 28.0073401,
+    "osmType": "node",
+    "tags": {
+      "amenity": "kindergarten",
+      "name": "Motanul încălțat"
+    }
+  },
+  {
+    "id": "node-6094731877",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "university",
+    "lat": 45.4402849,
+    "lng": 28.0527406,
+    "osmType": "node",
+    "tags": {
+      "amenity": "university"
+    }
+  },
+  {
+    "id": "node-6525116487",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet",
+    "lat": 45.4335293,
+    "lng": 28.0251064,
+    "osmType": "node",
+    "tags": {
+      "addr:housenumber": "19-23",
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "name:ro": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-6525116488",
+    "name": "Stanleybet",
+    "type": "betting",
+    "subcategory": "Stanleybet",
+    "lat": 45.433664,
+    "lng": 28.0250947,
+    "osmType": "node",
+    "tags": {
+      "brand": "Stanleybet",
+      "brand:wikidata": "Q25466489",
+      "name": "Stanleybet",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-6525128085",
+    "name": "Audionova",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 45.4333349,
+    "lng": 28.0250807,
+    "osmType": "node",
+    "tags": {
+      "addr:housenumber": "19-23",
+      "amenity": "clinic",
+      "name": "Audionova"
+    }
+  },
+  {
+    "id": "node-6525199686",
+    "name": "Chiriac S.R.L.",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 45.4306199,
+    "lng": 28.0190859,
+    "osmType": "node",
+    "tags": {
+      "addr:housenumber": "17",
+      "addr:street": "Strada Gheorghe Asachi",
+      "amenity": "clinic",
+      "name": "Chiriac S.R.L.",
+      "opening_hours": "Mo-Fr 09:00-18:00"
+    }
+  },
+  {
+    "id": "node-6525199787",
+    "name": "Casa Pariurilor",
+    "type": "betting",
+    "subcategory": "Casa Pariurilor",
+    "lat": 45.4330103,
+    "lng": 28.0173991,
+    "osmType": "node",
+    "tags": {
+      "addr:housenumber": "16",
+      "name": "Casa Pariurilor",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-6525199788",
+    "name": "Winer",
+    "type": "betting",
+    "subcategory": "Winer",
+    "lat": 45.4342341,
+    "lng": 28.0204058,
+    "osmType": "node",
+    "tags": {
+      "name": "Winer",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-6525454192",
+    "name": "Casa Pariurilor",
+    "type": "betting",
+    "subcategory": "Casa Pariurilor",
+    "lat": 45.4314241,
+    "lng": 28.0246493,
+    "osmType": "node",
+    "tags": {
+      "name": "Casa Pariurilor",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-6525454288",
+    "name": "Romar Medical",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 45.4453704,
+    "lng": 28.0236998,
+    "osmType": "node",
+    "tags": {
+      "amenity": "clinic",
+      "name": "Romar Medical"
+    }
+  },
+  {
+    "id": "node-6985279586",
+    "name": "Grădinița Step by Step",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 45.4152716,
+    "lng": 28.0120468,
+    "osmType": "node",
+    "tags": {
+      "amenity": "kindergarten",
+      "name": "Grădinița Step by Step"
+    }
+  },
+  {
+    "id": "node-7054277795",
+    "name": "Pneumologie si Medicina somnului - Dr. Anamaria Necula",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 45.4502571,
+    "lng": 28.0257396,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "3",
+      "addr:postcode": "800675",
+      "addr:street": "Bulevardul Milcov",
+      "amenity": "clinic",
+      "description": "Cabinet de pneumologie in contract cu Casa de Asigurari de Sanatate. Consultatiile legate de medicina somnului (somnologie) nu sunt decontate deocamdata de CAS, ceea ce presupune ca pacientul va plati in intregime costul serviciilor.",
+      "email": "anamaria.necula@pneumolog-galati.eu",
+      "emergency": "yes",
+      "healthcare": "hospital",
+      "healthcare:speciality": "pulmonology;sleeping_medicine",
+      "name": "Pneumologie si Medicina somnului - Dr. Anamaria Necula",
+      "operator": "Pneumologie si Medicina somnului - Dr. Anamaria Necula",
+      "operator:type": "private_for_profit",
+      "phone": "0743 662 589",
+      "website": "https://pneumolog-galati.eu"
+    }
+  },
+  {
+    "id": "node-7284892485",
+    "name": "Stanleybet",
+    "type": "betting",
+    "subcategory": "Stanleybet",
+    "lat": 45.4278461,
+    "lng": 28.0320084,
+    "osmType": "node",
+    "tags": {
+      "addr:street": "Strada Brăilei",
+      "brand": "Stanleybet",
+      "brand:wikidata": "Q25466489",
+      "name": "Stanleybet",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-7428815061",
+    "name": "Cabinet veterinar dr. Silvia Tiolan",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 45.4308919,
+    "lng": 28.0447884,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "82",
+      "addr:postcode": "800098",
+      "addr:street": "Strada Brăilei",
+      "amenity": "hospital",
+      "email": "office@prieteniicublanita.ro",
+      "emergency": "yes",
+      "healthcare": "hospital",
+      "healthcare:speciality": "veterinary;pets;pet_food;veterinary_pharmacy",
+      "name": "Cabinet veterinar dr. Silvia Tiolan",
+      "operator": "Prietenii cu Blanita SRL",
+      "operator:type": "private",
+      "phone": "+40752111929",
+      "website": "https://prieteniicublanita.ro"
+    }
+  },
+  {
+    "id": "node-8628401569",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet Betting & Gaming SA",
+    "lat": 45.429935,
+    "lng": 28.0378014,
+    "osmType": "node",
+    "tags": {
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-8628417563",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet Betting & Gaming SA",
+    "lat": 45.4397147,
+    "lng": 28.0283198,
+    "osmType": "node",
+    "tags": {
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-8628417618",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet",
+    "lat": 45.4335254,
+    "lng": 28.0547433,
+    "osmType": "node",
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-8628417620",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet Betting & Gaming SA",
+    "lat": 45.43216,
+    "lng": 28.050182,
+    "osmType": "node",
+    "tags": {
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-8628417708",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet",
+    "lat": 45.4187547,
+    "lng": 28.0158421,
+    "osmType": "node",
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-8628417777",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet",
+    "lat": 45.426091,
+    "lng": 28.029766,
+    "osmType": "node",
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-8628417779",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet Betting & Gaming SA",
+    "lat": 45.440776,
+    "lng": 28.021563,
+    "osmType": "node",
+    "tags": {
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-8628417866",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet Betting & Gaming SA",
+    "lat": 45.4386193,
+    "lng": 28.0497533,
+    "osmType": "node",
+    "tags": {
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-8628417884",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet Betting & Gaming SA",
+    "lat": 45.418501,
+    "lng": 28.013871,
+    "osmType": "node",
+    "tags": {
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-8628417886",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet",
+    "lat": 45.4280037,
+    "lng": 28.0287489,
+    "osmType": "node",
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-8628417888",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet Betting & Gaming SA",
+    "lat": 45.428783,
+    "lng": 28.036181,
+    "osmType": "node",
+    "tags": {
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-8628418029",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet",
+    "lat": 45.414407,
+    "lng": 28.008415,
+    "osmType": "node",
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-8628418152",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet",
+    "lat": 45.4128861,
+    "lng": 28.015582,
+    "osmType": "node",
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-8628418223",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet Betting & Gaming SA",
+    "lat": 45.430782,
+    "lng": 28.0455691,
+    "osmType": "node",
+    "tags": {
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-8628418261",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet Betting & Gaming SA",
+    "lat": 45.445639,
+    "lng": 28.054431,
+    "osmType": "node",
+    "tags": {
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-8628418270",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet Betting & Gaming SA",
+    "lat": 45.4454488,
+    "lng": 28.0237573,
+    "osmType": "node",
+    "tags": {
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-8628418275",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet Betting & Gaming SA",
+    "lat": 45.4392498,
+    "lng": 28.0214211,
+    "osmType": "node",
+    "tags": {
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-8628418283",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet Betting & Gaming SA",
+    "lat": 45.4540668,
+    "lng": 28.0244976,
+    "osmType": "node",
+    "tags": {
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-8628418295",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet",
+    "lat": 45.4268403,
+    "lng": 28.0304468,
+    "osmType": "node",
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-10167110669",
+    "name": "Biserica lui Isus Hristos a Sfintilor din Zilele din Urma",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.4348926,
+    "lng": 28.0548154,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "4",
+      "addr:postcode": "800041",
+      "addr:street": "Strada Nicolae Bălcescu",
+      "amenity": "place_of_worship",
+      "denomination": "mormon",
+      "name": "Biserica lui Isus Hristos a Sfintilor din Zilele din Urma",
+      "name:en": "Church of Jesus Christ of Latter-day Saints",
+      "religion": "christian",
+      "service_times": "Sun 10:00 am Sacrament meets first"
+    }
+  },
+  {
+    "id": "node-10675870047",
+    "name": "Casa Pariurilor",
+    "type": "betting",
+    "subcategory": "Casa Pariurilor",
+    "lat": 45.4281615,
+    "lng": 28.0476307,
+    "osmType": "node",
+    "tags": {
+      "amenity": "gambling",
+      "name": "Casa Pariurilor",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "id": "node-10739121690",
+    "name": "Cabinet obstetrică ginecologie",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 45.4319741,
+    "lng": 28.0496023,
+    "osmType": "node",
+    "tags": {
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "healthcare:speciality": "gynaecology",
+      "name": "Cabinet obstetrică ginecologie"
+    }
+  },
+  {
+    "id": "node-11825001171",
+    "name": "Maxbet",
+    "type": "gaming",
+    "subcategory": "Max Bet SRL",
+    "lat": 45.42795,
+    "lng": 28.03446,
+    "osmType": "node",
+    "tags": {
+      "alt_name": "Maxbet",
+      "amenity": "casino",
+      "contact:email": "office@maxbetromania.com",
+      "contact:phone": "+40 21 323 2174;+40 31 405 2949",
+      "contact:website": "https://maxbetgroup.ro",
+      "name": "Maxbet",
+      "name:ro": "MaxBet",
+      "opening_hours": "24/7",
+      "operator": "Max Bet SRL"
+    }
+  },
+  {
+    "id": "node-11825001230",
+    "name": "Maxbet",
+    "type": "gaming",
+    "subcategory": "Max Bet Jocuri Electronice SRL",
+    "lat": 45.433308,
+    "lng": 28.0525106,
+    "osmType": "node",
+    "tags": {
+      "alt_name": "Maxbet",
+      "amenity": "casino",
+      "contact:email": "office@maxbetromania.com",
+      "contact:phone": "+40 21 323 2174;+40 31 405 2949",
+      "contact:website": "https://maxbetgroup.ro",
+      "name": "Maxbet",
+      "name:ro": "MaxBet",
+      "opening_hours": "24/7",
+      "operator": "Max Bet Jocuri Electronice SRL"
+    }
+  },
+  {
+    "id": "node-11825001232",
+    "name": "Maxbet",
+    "type": "gaming",
+    "subcategory": "Max Bet SRL",
+    "lat": 45.4359731,
+    "lng": 28.0232263,
+    "osmType": "node",
+    "tags": {
+      "alt_name": "Maxbet",
+      "amenity": "casino",
+      "contact:email": "office@maxbetromania.com",
+      "contact:phone": "+40 21 323 2174;+40 31 405 2949",
+      "contact:website": "https://maxbetgroup.ro",
+      "name": "Maxbet",
+      "name:ro": "MaxBet",
+      "opening_hours": "24/7",
+      "operator": "Max Bet SRL"
+    }
+  },
+  {
+    "id": "node-11825001233",
+    "name": "Maxbet",
+    "type": "gaming",
+    "subcategory": "Max Bet SRL",
+    "lat": 45.4177889,
+    "lng": 28.0136776,
+    "osmType": "node",
+    "tags": {
+      "alt_name": "Maxbet",
+      "amenity": "casino",
+      "contact:email": "office@maxbetromania.com",
+      "contact:phone": "+40 21 323 2174;+40 31 405 2949",
+      "contact:website": "https://maxbetgroup.ro",
+      "name": "Maxbet",
+      "name:ro": "MaxBet",
+      "opening_hours": "24/7",
+      "operator": "Max Bet SRL"
+    }
+  },
+  {
+    "id": "node-11825001234",
+    "name": "Maxbet",
+    "type": "gaming",
+    "subcategory": "Max Bet SRL",
+    "lat": 45.4504034,
+    "lng": 28.0313427,
+    "osmType": "node",
+    "tags": {
+      "alt_name": "Maxbet",
+      "amenity": "casino",
+      "contact:email": "office@maxbetromania.com",
+      "contact:phone": "+40 21 323 2174;+40 31 405 2949",
+      "contact:website": "https://maxbetgroup.ro",
+      "name": "Maxbet",
+      "name:ro": "MaxBet",
+      "opening_hours": "24/7",
+      "operator": "Max Bet SRL"
+    }
+  },
+  {
+    "id": "node-13276688710",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.5517094,
+    "lng": 27.9901095,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-13525828679",
+    "name": "Medlife",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 45.4357908,
+    "lng": 28.0543846,
+    "osmType": "node",
+    "tags": {
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "name": "Medlife",
+      "opening_hours": "Mo-Fr 07:00-21:00; Sa 09:00-14:00"
+    }
+  },
+  {
+    "id": "node-13673673497",
+    "name": "Panoramic RX",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 45.4329985,
+    "lng": 28.0501198,
+    "osmType": "node",
+    "tags": {
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "healthcare:speciality": "radiology",
+      "name": "Panoramic RX"
+    }
+  },
+  {
+    "id": "way-12276364",
+    "name": "Spitalul Militar de Urgență \"Dr. Aristide Serfioti\"",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 45.4496258,
+    "lng": 28.0431102,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "199",
+      "addr:postcode": "800150",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Traian",
+      "amenity": "hospital",
+      "healthcare": "hospital",
+      "name": "Spitalul Militar de Urgență \"Dr. Aristide Serfioti\""
+    }
+  },
+  {
+    "id": "way-12502520",
+    "name": "Spitalul de psihiatrie \"Elisabeta Doamna\"",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 45.459806,
+    "lng": 28.0396093,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "290",
+      "addr:postcode": "800179",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Traian",
+      "amenity": "hospital",
+      "healthcare": "hospital",
+      "healthcare:speciality": "psychiatry",
+      "is_in:city": "Galați",
+      "name": "Spitalul de psihiatrie \"Elisabeta Doamna\""
+    }
+  },
+  {
+    "id": "way-14269712",
+    "name": "Școala Generală nr. 12 \"Miron Costin\"",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.4422469,
+    "lng": 28.0259776,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "2",
+      "addr:postcode": "800298",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Alba Iulia",
+      "amenity": "school",
+      "is_in:city": "Galați",
+      "name": "Școala Generală nr. 12 \"Miron Costin\""
+    }
+  },
+  {
+    "id": "way-14269714",
+    "name": "Școala Generală nr. 12 \"Miron Costin\"",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.441989,
+    "lng": 28.0269634,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "2",
+      "addr:postcode": "800298",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Alba Iulia",
+      "amenity": "school",
+      "is_in:city": "Galați",
+      "name": "Școala Generală nr. 12 \"Miron Costin\""
+    }
+  },
+  {
+    "id": "way-14849975",
+    "name": "Colegiul Național Alexandru Ioan Cuza",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.4229271,
+    "lng": 28.0265885,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "26",
+      "addr:postcode": "800325",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Saturn",
+      "amenity": "school",
+      "is_in:city": "Galați",
+      "name": "Colegiul Național Alexandru Ioan Cuza"
+    }
+  },
+  {
+    "id": "way-15109940",
+    "name": "Școala Generală nr. 2",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.4263005,
+    "lng": 28.0352296,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school",
+      "is_in:city": "Galați",
+      "name": "Școala Generală nr. 2"
+    }
+  },
+  {
+    "id": "way-15109965",
+    "name": "Grădinița nr. 36 \"Mihai Eminescu\"",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 45.4254262,
+    "lng": 28.0355628,
+    "osmType": "way",
+    "tags": {
+      "amenity": "kindergarten",
+      "is_in:city": "Galați",
+      "name": "Grădinița nr. 36 \"Mihai Eminescu\""
+    }
+  },
+  {
+    "id": "way-15109974",
+    "name": "Liceul Teoretic \"Emil Racoviță\"",
+    "type": "school",
+    "subcategory": "college",
+    "lat": 45.4221591,
+    "lng": 28.0325684,
+    "osmType": "way",
+    "tags": {
+      "amenity": "college",
+      "is_in:city": "Galați",
+      "name": "Liceul Teoretic \"Emil Racoviță\""
+    }
+  },
+  {
+    "id": "way-15109976",
+    "name": "Liceul Teoretic \"Emil Racoviță\"",
+    "type": "school",
+    "subcategory": "college",
+    "lat": 45.4220666,
+    "lng": 28.032784,
+    "osmType": "way",
+    "tags": {
+      "amenity": "college",
+      "building": "yes",
+      "name": "Liceul Teoretic \"Emil Racoviță\""
+    }
+  },
+  {
+    "id": "way-16075443",
+    "name": "Colegiul Național Pedagogic \"Costache Negri\"",
+    "type": "school",
+    "subcategory": "college",
+    "lat": 45.4296399,
+    "lng": 28.0327258,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "138",
+      "addr:street": "Bulevardul Brăilei",
+      "amenity": "college",
+      "is_in:city": "Galați",
+      "name": "Colegiul Național Pedagogic \"Costache Negri\""
+    }
+  },
+  {
+    "id": "way-23002486",
+    "name": "Școala Generală nr. 13 „Ștefan cel Mare”",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.4311398,
+    "lng": 28.027357,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "29",
+      "addr:postcode": "800361",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Constructorilor",
+      "amenity": "school",
+      "is_in:city": "Galați",
+      "name": "Școala Generală nr. 13 „Ștefan cel Mare”"
+    }
+  },
+  {
+    "id": "way-23002488",
+    "name": "Școala Generală nr. 7 \"Constantin Brâncoveanu\"",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.4283859,
+    "lng": 28.0269834,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "204",
+      "addr:street": "Bulevardul Brăilei",
+      "amenity": "school",
+      "is_in:city": "Galați",
+      "name": "Școala Generală nr. 7 \"Constantin Brâncoveanu\""
+    }
+  },
+  {
+    "id": "way-23002723",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 45.4324479,
+    "lng": 28.0278799,
+    "osmType": "way",
+    "tags": {
+      "amenity": "kindergarten",
+      "is_in:city": "Galați"
+    }
+  },
+  {
+    "id": "way-23133822",
+    "name": "Școala Generală nr. 42 \"Sfinții Împărați\"",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.4331251,
+    "lng": 28.0242983,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "17",
+      "addr:postcode": "800479",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Bulevardul Siderurgiștilor",
+      "amenity": "school",
+      "is_in:city": "Galați",
+      "name": "Școala Generală nr. 42 \"Sfinții Împărați\""
+    }
+  },
+  {
+    "id": "way-23411436",
+    "name": "Școala Generală nr. 10 \"Petre Țuțea\"",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.4350776,
+    "lng": 28.017763,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "4",
+      "addr:postcode": "800466",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Lebedei",
+      "amenity": "school",
+      "is_in:city": "Galați",
+      "name": "Școala Generală nr. 10 \"Petre Țuțea\""
+    }
+  },
+  {
+    "id": "way-23411438",
+    "name": "Grădinița Lizuca",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 45.4348782,
+    "lng": 28.0179994,
+    "osmType": "way",
+    "tags": {
+      "amenity": "kindergarten",
+      "building": "yes",
+      "name": "Grădinița Lizuca"
+    }
+  },
+  {
+    "id": "way-23411445",
+    "name": "Grădinița Voinicel nr. 18",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 45.4310173,
+    "lng": 28.014913,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "1",
+      "addr:postcode": "800452",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Mihail Sadoveanu",
+      "amenity": "kindergarten",
+      "is_in:city": "Galați",
+      "name": "Grădinița Voinicel nr. 18"
+    }
+  },
+  {
+    "id": "way-23411448",
+    "name": "Școala Generală nr. 11 Mihail Sadoveanu",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.4307255,
+    "lng": 28.016177,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "16",
+      "addr:postcode": "800460",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Mihail Sadoveanu",
+      "amenity": "school",
+      "is_in:city": "Galați",
+      "name": "Școala Generală nr. 11 Mihail Sadoveanu"
+    }
+  },
+  {
+    "id": "way-23411452",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 45.4304282,
+    "lng": 28.0178886,
+    "osmType": "way",
+    "tags": {
+      "amenity": "kindergarten",
+      "is_in:city": "Galați"
+    }
+  },
+  {
+    "id": "way-23411461",
+    "name": "Grădinița Licurici",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 45.4223255,
+    "lng": 28.0116157,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "27",
+      "addr:postcode": "800401",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Barboși",
+      "amenity": "kindergarten",
+      "is_in:city": "Galați",
+      "name": "Grădinița Licurici"
+    }
+  },
+  {
+    "id": "way-23411464",
+    "name": "Școala Generală nr. 9 \"Calistrat Hogaș\"",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.4214154,
+    "lng": 28.0114468,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "38",
+      "addr:postcode": "800428",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Barboși",
+      "amenity": "school",
+      "is_in:city": "Galați",
+      "name": "Școala Generală nr. 9 \"Calistrat Hogaș\""
+    }
+  },
+  {
+    "id": "way-23411466",
+    "name": "Școala Generală nr. 5 Cuza Vodă",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.4252288,
+    "lng": 28.0154406,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "6",
+      "addr:street": "Strada Gorunului",
+      "amenity": "school",
+      "is_in:city": "Galați",
+      "name": "Școala Generală nr. 5 Cuza Vodă"
+    }
+  },
+  {
+    "id": "way-23411468",
+    "name": "Grădinița nr. 44",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 45.4250703,
+    "lng": 28.0160577,
+    "osmType": "way",
+    "tags": {
+      "amenity": "kindergarten",
+      "is_in:city": "Galați",
+      "name": "Grădinița nr. 44"
+    }
+  },
+  {
+    "id": "way-23415419",
+    "name": "Liceul Teoretic \"Dunărea\"",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.4204546,
+    "lng": 28.0173573,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school",
+      "name": "Liceul Teoretic \"Dunărea\""
+    }
+  },
+  {
+    "id": "way-23416295",
+    "name": "Școala Generală nr. 40 \"Iulia Hașdeu\"",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.4166823,
+    "lng": 28.0098488,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school",
+      "is_in:city": "Galați",
+      "name": "Școala Generală nr. 40 \"Iulia Hașdeu\""
+    }
+  },
+  {
+    "id": "way-30895918",
+    "name": "Școala generală nr. 38 Grigore Moisil",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.4476825,
+    "lng": 28.0162534,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "9",
+      "addr:postcode": "800261",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Feroviarilor",
+      "amenity": "school",
+      "is_in:city": "Galați",
+      "name": "Școala generală nr. 38 Grigore Moisil"
+    }
+  },
+  {
+    "id": "way-30899902",
+    "name": "Colegiul Tehnic  Energetic \"Paul Dimo\" ",
+    "type": "school",
+    "subcategory": "college",
+    "lat": 45.4496965,
+    "lng": 28.0203203,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "27",
+      "addr:postcode": "800567",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Bulevardul Milcov",
+      "amenity": "college",
+      "is_in:city": "Galați",
+      "name": "Colegiul Tehnic  Energetic \"Paul Dimo\" "
+    }
+  },
+  {
+    "id": "way-30901220",
+    "name": "Școala Generală nr. 33 Sf. Dumitru",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.455964,
+    "lng": 28.0201024,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "5",
+      "addr:postcode": "800536",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Ionel Fernic",
+      "amenity": "school",
+      "is_in:city": "Galați",
+      "name": "Școala Generală nr. 33 Sf. Dumitru"
+    }
+  },
+  {
+    "id": "way-30901459",
+    "name": "Școala Generală nr. 31 Gheorghe Munteanu",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.4530923,
+    "lng": 28.020951,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "9",
+      "addr:postcode": "800529",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Camil Ressu",
+      "amenity": "school",
+      "name": "Școala Generală nr. 31 Gheorghe Munteanu"
+    }
+  },
+  {
+    "id": "way-30904890",
+    "name": "Școala Generală nr. 34 Mihai Viteazul",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.4579994,
+    "lng": 28.0245543,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school",
+      "is_in:city": "Galați",
+      "name": "Școala Generală nr. 34 Mihai Viteazul"
+    }
+  },
+  {
+    "id": "way-31308217",
+    "name": "Liceul Tehnologic Transporturi Căi Ferate Galați",
+    "type": "school",
+    "subcategory": "college",
+    "lat": 45.447856,
+    "lng": 28.0344213,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "225",
+      "addr:postcode": "800506",
+      "addr:street": "Bulevardul George Coșbuc",
+      "amenity": "college",
+      "is_in:city": "Galați",
+      "name": "Liceul Tehnologic Transporturi Căi Ferate Galați",
+      "phone": "0236/319422",
+      "website": "http://liceulcfrgalati.licee.edu.ro/index.html"
+    }
+  },
+  {
+    "id": "way-31404595",
+    "name": "Școala Generală nr. 24 Sf. Arhangheli Mihail și Gavril",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.4335455,
+    "lng": 28.0586602,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "8",
+      "addr:postcode": "800016",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Egalității",
+      "amenity": "school",
+      "is_in:city": "Galați",
+      "name": "Școala Generală nr. 24 Sf. Arhangheli Mihail și Gavril"
+    }
+  },
+  {
+    "id": "way-31523936",
+    "name": "Școala Generală nr. 41 \"Sf. Grigorie Teologu\"",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.4419583,
+    "lng": 28.0199122,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "15",
+      "addr:street": "Bulevardul 1 Decembrie 1918",
+      "amenity": "school",
+      "is_in:city": "Galați",
+      "name": "Școala Generală nr. 41 \"Sf. Grigorie Teologu\""
+    }
+  },
+  {
+    "id": "way-31648031",
+    "name": "Școala Generală Nr. 30",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 45.452534,
+    "lng": 28.027485,
+    "osmType": "way",
+    "tags": {
+      "amenity": "kindergarten",
+      "is_in:city": "Galați",
+      "name": "Școala Generală Nr. 30"
+    }
+  },
+  {
+    "id": "way-31648032",
+    "name": "Centrul de plasament nr. 3",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 45.4527253,
+    "lng": 28.026672,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "12",
+      "addr:postcode": "800677",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Aviator Mircea Zorileanu",
+      "amenity": "kindergarten",
+      "is_in:city": "Galați",
+      "name": "Centrul de plasament nr. 3"
+    }
+  },
+  {
+    "id": "way-31648073",
+    "name": "Școala Generală nr. 18",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.4541642,
+    "lng": 28.0276984,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school",
+      "is_in:city": "Galați",
+      "name": "Școala Generală nr. 18"
+    }
+  },
+  {
+    "id": "way-31648074",
+    "name": "Liceul Teoretic \"Mircea Eliade\"",
+    "type": "school",
+    "subcategory": "college",
+    "lat": 45.4489697,
+    "lng": 28.0289626,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "13",
+      "addr:postcode": "800514",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Bulevardul Milcov",
+      "amenity": "college",
+      "internet_access": "yes",
+      "is_in:city": "Galați",
+      "name": "Liceul Teoretic \"Mircea Eliade\"",
+      "website": "https://www.ltmeliadegl.ro/"
+    }
+  },
+  {
+    "id": "way-31648075",
+    "name": "Grup școlar de industrie alimentară \"Dimitrie Moțoc\" (MAIA)",
+    "type": "school",
+    "subcategory": "college",
+    "lat": 45.4488907,
+    "lng": 28.0275095,
+    "osmType": "way",
+    "tags": {
+      "amenity": "college",
+      "is_in:city": "Galați",
+      "name": "Grup școlar de industrie alimentară \"Dimitrie Moțoc\" (MAIA)"
+    }
+  },
+  {
+    "id": "way-31648333",
+    "name": "Liceul de artă \"Dimitrie Cuclin\"",
+    "type": "school",
+    "subcategory": "college",
+    "lat": 45.4451954,
+    "lng": 28.0539126,
+    "osmType": "way",
+    "tags": {
+      "amenity": "college",
+      "is_in:city": "Galați",
+      "name": "Liceul de artă \"Dimitrie Cuclin\""
+    }
+  },
+  {
+    "id": "way-31648335",
+    "name": "Colegiul Național Vasile Alecsandri",
+    "type": "school",
+    "subcategory": "college",
+    "lat": 45.4407235,
+    "lng": 28.0508505,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "41",
+      "addr:postcode": "800001",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Nicolae Bălcescu",
+      "amenity": "college",
+      "education": "college",
+      "is_in:city": "Galați",
+      "name": "Colegiul Național Vasile Alecsandri",
+      "website": "https://cnva.eu/",
+      "wikidata": "Q18539122",
+      "wikipedia": "ro:Colegiul Național „Vasile Alecsandri” din Galați"
+    }
+  },
+  {
+    "id": "way-35220305",
+    "name": "Colegiul Tehnic \"Traian Vuia\"",
+    "type": "school",
+    "subcategory": "college",
+    "lat": 45.4319601,
+    "lng": 28.020537,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "117",
+      "addr:postcode": "800484",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Anghel Saligny",
+      "amenity": "college",
+      "education": "college",
+      "is_in:city": "Galați",
+      "name": "Colegiul Tehnic \"Traian Vuia\""
+    }
+  },
+  {
+    "id": "way-42471679",
+    "name": "Facultatea de Arte / Drept",
+    "type": "school",
+    "subcategory": "university",
+    "lat": 45.4474366,
+    "lng": 28.0530526,
+    "osmType": "way",
+    "tags": {
+      "amenity": "university",
+      "building": "yes",
+      "heritage": "2",
+      "heritage:operator": "lmi",
+      "name": "Facultatea de Arte / Drept",
+      "ref:RO:lmi": "GL-II-m-B-03034"
+    }
+  },
+  {
+    "id": "way-42471814",
+    "name": "Facultatea de Nave",
+    "type": "school",
+    "subcategory": "college",
+    "lat": 45.4457255,
+    "lng": 28.052288,
+    "osmType": "way",
+    "tags": {
+      "amenity": "college",
+      "building": "yes",
+      "name": "Facultatea de Nave",
+      "ref": "(corp Y)"
+    }
+  },
+  {
+    "id": "way-42471851",
+    "name": "Facultatea de Inginerie",
+    "type": "school",
+    "subcategory": "university",
+    "lat": 45.4469077,
+    "lng": 28.0534199,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "111",
+      "addr:postcode": "800201",
+      "addr:street": "Strada Domnească",
+      "amenity": "university",
+      "building": "yes",
+      "internet_access": "yes",
+      "internet_access:fee": "no",
+      "name": "Facultatea de Inginerie",
+      "operator": "Universitatea „Dunărea de Jos\" din Galați",
+      "operator:type": "university",
+      "ref": "(corp D+B)",
+      "website": "https://ing.ugal.ro/"
+    }
+  },
+  {
+    "id": "way-42488262",
+    "name": "Spitalul de Boli Infecțioase",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 45.4651502,
+    "lng": 28.0342265,
+    "osmType": "way",
+    "tags": {
+      "amenity": "hospital",
+      "building": "yes",
+      "name": "Spitalul de Boli Infecțioase"
+    }
+  },
+  {
+    "id": "way-42488339",
+    "name": "Spitalul de Boli Infecțioase",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 45.4654633,
+    "lng": 28.0340469,
+    "osmType": "way",
+    "tags": {
+      "amenity": "hospital",
+      "is_in:city": "Galați",
+      "name": "Spitalul de Boli Infecțioase"
+    }
+  },
+  {
+    "id": "way-42500709",
+    "name": "Școala Generală nr. 22 \"Dimitrie Cantemir\"",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.4144313,
+    "lng": 28.0132271,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "5",
+      "addr:postcode": "800586",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Zidarilor",
+      "amenity": "school",
+      "name": "Școala Generală nr. 22 \"Dimitrie Cantemir\"",
+      "website": "https://scoala22galati.ro"
+    }
+  },
+  {
+    "id": "way-42559858",
+    "name": "Universitatea Danubius",
+    "type": "school",
+    "subcategory": "university",
+    "lat": 45.4039293,
+    "lng": 28.0169751,
+    "osmType": "way",
+    "tags": {
+      "amenity": "university",
+      "name": "Universitatea Danubius"
+    }
+  },
+  {
+    "id": "way-42560159",
+    "name": "Școala Generală nr. 43 \"Dan Barbilian\"",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.4112993,
+    "lng": 28.010995,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school",
+      "is_in:city": "Galați",
+      "name": "Școala Generală nr. 43 \"Dan Barbilian\""
+    }
+  },
+  {
+    "id": "way-42715531",
+    "name": "Liceul cu Program Sportiv",
+    "type": "school",
+    "subcategory": "college",
+    "lat": 45.4154325,
+    "lng": 28.0247617,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "5",
+      "addr:postcode": "800595",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Stadionului",
+      "amenity": "college",
+      "is_in:city": "Galați",
+      "name": "Liceul cu Program Sportiv"
+    }
+  },
+  {
+    "id": "way-42721543",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "university",
+    "lat": 45.446462,
+    "lng": 28.0526319,
+    "osmType": "way",
+    "tags": {
+      "amenity": "university",
+      "building": "yes"
+    }
+  },
+  {
+    "id": "way-42721544",
+    "name": "Facultatea de Inginerie",
+    "type": "school",
+    "subcategory": "university",
+    "lat": 45.4477766,
+    "lng": 28.0526474,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "111",
+      "addr:postcode": "800201",
+      "addr:street": "Strada Domnească",
+      "amenity": "university",
+      "building": "yes",
+      "heritage": "2",
+      "heritage:operator": "lmi",
+      "internet_access": "yes",
+      "internet_access:fee": "no",
+      "name": "Facultatea de Inginerie",
+      "operator": "Universitatea „Dunărea de Jos” din Galați",
+      "operator:type": "university",
+      "ref": "(corp M)",
+      "ref:RO:lmi": "GL-II-m-B-03034",
+      "website": "https://ing.ugal.ro/"
+    }
+  },
+  {
+    "id": "way-42721591",
+    "name": "corp E",
+    "type": "school",
+    "subcategory": "university",
+    "lat": 45.4475309,
+    "lng": 28.0517822,
+    "osmType": "way",
+    "tags": {
+      "amenity": "university",
+      "building": "yes",
+      "name": "corp E"
+    }
+  },
+  {
+    "id": "way-42722550",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "university",
+    "lat": 45.4469179,
+    "lng": 28.0518189,
+    "osmType": "way",
+    "tags": {
+      "amenity": "university",
+      "building": "yes"
+    }
+  },
+  {
+    "id": "way-42722846",
+    "name": "corp H/G",
+    "type": "school",
+    "subcategory": "university",
+    "lat": 45.4468912,
+    "lng": 28.0521979,
+    "osmType": "way",
+    "tags": {
+      "amenity": "university",
+      "building": "yes",
+      "name": "corp H/G"
+    }
+  },
+  {
+    "id": "way-42722849",
+    "name": "corp G/H",
+    "type": "school",
+    "subcategory": "university",
+    "lat": 45.4462444,
+    "lng": 28.0519899,
+    "osmType": "way",
+    "tags": {
+      "amenity": "university",
+      "building": "yes",
+      "name": "corp G/H"
+    }
+  },
+  {
+    "id": "way-42723275",
+    "name": "Facultatea de Economie și Administrarea Afacerilor",
+    "type": "school",
+    "subcategory": "university",
+    "lat": 45.4432996,
+    "lng": 28.0515392,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "59-61",
+      "addr:postcode": "800001",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Nicolae Bălcescu",
+      "amenity": "university",
+      "building": "yes",
+      "internet_access": "yes",
+      "name": "Facultatea de Economie și Administrarea Afacerilor",
+      "ref": "(corp I)",
+      "website": "https://feaa.ugal.ro/"
+    }
+  },
+  {
+    "id": "way-42723485",
+    "name": "Facultatea de Educație Fizică și Sport",
+    "type": "school",
+    "subcategory": "university",
+    "lat": 45.4431609,
+    "lng": 28.0498146,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "63-65",
+      "addr:postcode": "800003",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Gării",
+      "amenity": "university",
+      "building": "yes",
+      "name": "Facultatea de Educație Fizică și Sport"
+    }
+  },
+  {
+    "id": "way-42728874",
+    "name": "Liceul CFR, Grup Școlar Industrial Transporturi Feroviare",
+    "type": "school",
+    "subcategory": "college",
+    "lat": 45.4479376,
+    "lng": 28.0346826,
+    "osmType": "way",
+    "tags": {
+      "amenity": "college",
+      "building": "yes",
+      "name": "Liceul CFR, Grup Școlar Industrial Transporturi Feroviare",
+      "ref": "CFR"
+    }
+  },
+  {
+    "id": "way-44698022",
+    "name": "Spitalul \"Buna Vestire\" obstretică-ginecologie",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 45.4444185,
+    "lng": 28.0431854,
+    "osmType": "way",
+    "tags": {
+      "amenity": "hospital",
+      "healthcare": "hospital",
+      "healthcare:speciality": "gynaecology",
+      "is_in:city": "Galați",
+      "name": "Spitalul \"Buna Vestire\" obstretică-ginecologie"
+    }
+  },
+  {
+    "id": "way-44698451",
+    "name": "Școala generală nr. 20 \"Traian\"",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.4630339,
+    "lng": 28.0380177,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "318",
+      "addr:postcode": "800179",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Traian",
+      "amenity": "school",
+      "is_in:city": "Galați",
+      "name": "Școala generală nr. 20 \"Traian\""
+    }
+  },
+  {
+    "id": "way-45081652",
+    "name": "Grădinița Arlechino",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 45.4558814,
+    "lng": 28.0172804,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "41",
+      "addr:postcode": "800572",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Ionel Fernic",
+      "amenity": "kindergarten",
+      "building": "yes",
+      "name": "Grădinița Arlechino"
+    }
+  },
+  {
+    "id": "way-45243072",
+    "name": "Școala Generală nr. 3",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.4101025,
+    "lng": 28.0187076,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "60",
+      "addr:postcode": "800647",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Bulevardul Dunărea",
+      "amenity": "school",
+      "is_in:city": "Galați",
+      "name": "Școala Generală nr. 3"
+    }
+  },
+  {
+    "id": "way-45330704",
+    "name": "Grup școlar \"Anghel Saligny\"",
+    "type": "school",
+    "subcategory": "college",
+    "lat": 45.4409921,
+    "lng": 28.0126932,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "13",
+      "addr:street": "Strada Combinatului",
+      "amenity": "college",
+      "is_in:city": "Galați",
+      "name": "Grup școlar \"Anghel Saligny\""
+    }
+  },
+  {
+    "id": "way-47249663",
+    "name": "Grup școlar Industrial Metalurgic",
+    "type": "school",
+    "subcategory": "college",
+    "lat": 45.4481421,
+    "lng": 28.0239024,
+    "osmType": "way",
+    "tags": {
+      "amenity": "college",
+      "building": "yes",
+      "building:levels": "2",
+      "name": "Grup școlar Industrial Metalurgic"
+    }
+  },
+  {
+    "id": "way-55239388",
+    "name": "Facultatea de Științe",
+    "type": "school",
+    "subcategory": "university",
+    "lat": 45.4469857,
+    "lng": 28.0515594,
+    "osmType": "way",
+    "tags": {
+      "amenity": "university",
+      "building": "yes",
+      "name": "Facultatea de Științe",
+      "ref": "(corp S)"
+    }
+  },
+  {
+    "id": "way-101929491",
+    "name": "Școala Generală nr. 26 \"Ion Creangă\"",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.4316917,
+    "lng": 28.05386,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "2",
+      "addr:street": "Strada Vadul Șacalelor",
+      "amenity": "school",
+      "name": "Școala Generală nr. 26 \"Ion Creangă\""
+    }
+  },
+  {
+    "id": "way-101937321",
+    "name": "Școala Generală nr. 28 \"Mihai Eminescu\"",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.4290461,
+    "lng": 28.0491317,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "31",
+      "addr:postcode": "800055",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Roșiori",
+      "amenity": "school",
+      "name": "Școala Generală nr. 28 \"Mihai Eminescu\""
+    }
+  },
+  {
+    "id": "way-102603151",
+    "name": "Școala Generală nr. 15 \"Elena Cuza\"",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.4374011,
+    "lng": 28.0416343,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "190",
+      "addr:postcode": "800105",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada General Alexandru Cernat",
+      "amenity": "school",
+      "name": "Școala Generală nr. 15 \"Elena Cuza\""
+    }
+  },
+  {
+    "id": "way-102608025",
+    "name": "Școala Generală nr. 16 \"Nicolae Bălcescu\"",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.4388116,
+    "lng": 28.0510368,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "8",
+      "addr:postcode": "800112",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Arieșului",
+      "amenity": "school",
+      "name": "Școala Generală nr. 16 \"Nicolae Bălcescu\""
+    }
+  },
+  {
+    "id": "way-104303983",
+    "name": "Cămin L.S.G.",
+    "type": "school",
+    "subcategory": "university",
+    "lat": 45.4456887,
+    "lng": 28.0529322,
+    "osmType": "way",
+    "tags": {
+      "amenity": "university",
+      "building": "dormitory",
+      "name": "Cămin L.S.G."
+    }
+  },
+  {
+    "id": "way-104976128",
+    "name": "Școala Generală nr. 25 \"Petru Rareș\"",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.4449169,
+    "lng": 28.0519486,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "25",
+      "addr:postcode": "800201",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Basarabiei",
+      "amenity": "school",
+      "name": "Școala Generală nr. 25 \"Petru Rareș\""
+    }
+  },
+  {
+    "id": "way-105014703",
+    "name": "Grup școlar Elena Doamna",
+    "type": "school",
+    "subcategory": "college",
+    "lat": 45.4555304,
+    "lng": 28.048132,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "169",
+      "addr:postcode": "800189",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Domnească",
+      "amenity": "college",
+      "name": "Grup școlar Elena Doamna"
+    }
+  },
+  {
+    "id": "way-105018326",
+    "name": "Grup școlar Radu Negru",
+    "type": "school",
+    "subcategory": "college",
+    "lat": 45.4577005,
+    "lng": 28.04515,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "27",
+      "addr:postcode": "800146",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Științei",
+      "amenity": "college",
+      "name": "Grup școlar Radu Negru"
+    }
+  },
+  {
+    "id": "way-107974911",
+    "name": "Grupul Școlar Industrial de Marină",
+    "type": "school",
+    "subcategory": "college",
+    "lat": 45.4355697,
+    "lng": 28.0666573,
+    "osmType": "way",
+    "tags": {
+      "addr:housenumber": "57",
+      "addr:street": "Strada Portului",
+      "amenity": "college",
+      "name": "Grupul Școlar Industrial de Marină"
+    }
+  },
+  {
+    "id": "way-109354728",
+    "name": "Grădinița Motanul încălțat",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 45.4157723,
+    "lng": 28.0179921,
+    "osmType": "way",
+    "tags": {
+      "amenity": "kindergarten",
+      "name": "Grădinița Motanul încălțat"
+    }
+  },
+  {
+    "id": "way-109354729",
+    "name": "Școala gimnaziala nr. 29 ",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.4152442,
+    "lng": 28.0167682,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "7A",
+      "addr:postcode": "800642",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Strungarilor",
+      "amenity": "school",
+      "name": "Școala gimnaziala nr. 29 "
+    }
+  },
+  {
+    "id": "way-109354731",
+    "name": "Școala generală nr. 17 „Nichita Stănescu\"",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.4163619,
+    "lng": 28.0171425,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "2",
+      "addr:postcode": "800643",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Costache Conachi",
+      "amenity": "school",
+      "name": "Școala generală nr. 17 „Nichita Stănescu\""
+    }
+  },
+  {
+    "id": "way-109354732",
+    "name": "Colegiul Economic „Virgil Madgearu\"",
+    "type": "school",
+    "subcategory": "college",
+    "lat": 45.416369,
+    "lng": 28.015185,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "31",
+      "addr:postcode": "800642",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Strungarilor",
+      "amenity": "college",
+      "name": "Colegiul Economic „Virgil Madgearu\""
+    }
+  },
+  {
+    "id": "way-110190088",
+    "name": "Școala Generală nr. 1 \"Nicolae Mantu\"",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.4216435,
+    "lng": 28.0209886,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school",
+      "check_date": "2024-06-11",
+      "name": "Școala Generală nr. 1 \"Nicolae Mantu\""
+    }
+  },
+  {
+    "id": "way-110399157",
+    "name": "Grup Școlar Industrial \"Sfânta Maria\"",
+    "type": "school",
+    "subcategory": "college",
+    "lat": 45.4342898,
+    "lng": 28.0301973,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "25",
+      "addr:postcode": "800371",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Constructorilor",
+      "amenity": "college",
+      "name": "Grup Școlar Industrial \"Sfânta Maria\""
+    }
+  },
+  {
+    "id": "way-112454516",
+    "name": "Medicotest",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 45.4289012,
+    "lng": 28.0285399,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "136C",
+      "addr:street": "Bulevardul Brăilei",
+      "amenity": "doctors",
+      "building": "yes",
+      "name": "Medicotest"
+    }
+  },
+  {
+    "id": "way-118425357",
+    "name": "Colegiul Tehnic Traian",
+    "type": "school",
+    "subcategory": "college",
+    "lat": 45.452105,
+    "lng": 28.0418104,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "203",
+      "addr:postcode": "800186",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Traian",
+      "amenity": "college",
+      "name": "Colegiul Tehnic Traian"
+    }
+  },
+  {
+    "id": "way-203482610",
+    "name": "Biserica \"Sfântul Spiridon\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.4339744,
+    "lng": 28.0498578,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "13-15",
+      "addr:postcode": "800051",
+      "addr:street": "Strada Sfântul Spiridon",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "heritage": "2",
+      "heritage:operator": "lmi",
+      "name": "Biserica \"Sfântul Spiridon\"",
+      "ref:RO:lmi": "GL-II-m-B-03067",
+      "religion": "christian",
+      "source": "survey",
+      "start_date": "1828"
+    }
+  },
+  {
+    "id": "way-242998552",
+    "name": "Biserica Creștină Emanuel",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.4278969,
+    "lng": 28.0384232,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housename": "Biserica Creștină Emanuel",
+      "addr:housenumber": "160-162",
+      "addr:postcode": "800305",
+      "addr:street": "Strada Morilor",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "pentecostal",
+      "name": "Biserica Creștină Emanuel",
+      "phone": "+40 23 646 6798",
+      "religion": "christian",
+      "website": "https://www.emgl.org/"
+    }
+  },
+  {
+    "id": "way-372018404",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 45.5747682,
+    "lng": 28.1690124,
+    "osmType": "way",
+    "tags": {
+      "amenity": "kindergarten"
+    }
+  },
+  {
+    "id": "way-372018407",
+    "name": "Liceul Teoretic „Mihai Eminescu”",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.5720083,
+    "lng": 28.1686416,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school",
+      "language:ro": "main",
+      "name": "Liceul Teoretic „Mihai Eminescu”",
+      "name:ru": "Теоретический лицей им. Михая Эминеску",
+      "name:uk": "Теоретичний ліцей ім. Міхая Емінеску",
+      "phone": "+373 299 61 343"
+    }
+  },
+  {
+    "id": "way-431782490",
+    "name": "Biserică",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.5766643,
+    "lng": 28.1690063,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Slobozia Mare",
+      "addr:country": "MD",
+      "addr:housenumber": "155",
+      "addr:postcode": "MD-5320",
+      "addr:street": "Strada Ulița Mare",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "orthodox",
+      "name": "Biserică",
+      "name:ru": "Церковь",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-451692017",
+    "name": "Biserica „Adormirea Maicii Domnului” - Mavromol",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.4345358,
+    "lng": 28.0532718,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "12",
+      "addr:street": "Strada Mavromol",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "heritage": "2",
+      "heritage:operator": "lmi",
+      "name": "Biserica „Adormirea Maicii Domnului” - Mavromol",
+      "ref:RO:lmi": "GL-II-m-B-03055.01",
+      "religion": "christian",
+      "start_date": "1702"
+    }
+  },
+  {
+    "id": "way-467820940",
+    "name": "Biserica „Sfântul Grigorie Teologul\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.434037,
+    "lng": 28.0141742,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "6A",
+      "addr:street": "Strada Constantin Levaditti",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Sfântul Grigorie Teologul\"",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-467822312",
+    "name": "Sf. Grigorie Teologul",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.4338649,
+    "lng": 28.014424,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Sf. Grigorie Teologul",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-474345832",
+    "name": "Grădinița Mugurel",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.4634369,
+    "lng": 28.0392953,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "303",
+      "addr:postcode": "800179",
+      "addr:street": "Strada Traian",
+      "amenity": "school",
+      "name": "Grădinița Mugurel"
+    }
+  },
+  {
+    "id": "way-525299227",
+    "name": "Biserica „Sfântul Pantelimon\" (Biserica bulgărească)",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.4391805,
+    "lng": 28.0519967,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "33",
+      "addr:street": "Strada Nicolae Bălcescu",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Sfântul Pantelimon\" (Biserica bulgărească)",
+      "religion": "christian",
+      "start_date": "1872"
+    }
+  },
+  {
+    "id": "way-544918058",
+    "name": "Cabinete medicale de familie",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 45.4292315,
+    "lng": 28.0496772,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "33",
+      "addr:postcode": "800055",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Roșiori",
+      "amenity": "hospital",
+      "emergency": "no",
+      "healthcare": "hospital",
+      "healthcare:speciality": "general;community",
+      "name": "Cabinete medicale de familie"
+    }
+  },
+  {
+    "id": "way-555198069",
+    "name": "Grădinița cu program prelungit Codruța",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 45.4171301,
+    "lng": 28.0165625,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "1",
+      "addr:postcode": "800577",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Costache Conachi",
+      "amenity": "kindergarten",
+      "name": "Grădinița cu program prelungit Codruța",
+      "phone": "0236 442491",
+      "website": "http://www.gradinitacodruta.info"
+    }
+  },
+  {
+    "id": "way-555910503",
+    "name": "Spitalul de Pneumoftiziologie Galați, TBC",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 45.4557564,
+    "lng": 28.0452483,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "117",
+      "addr:postcode": "800189",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Științei",
+      "amenity": "hospital",
+      "email": "contact@pneumogalati.ro;spitalultbc@gmail.com",
+      "healthcare": "hospital",
+      "healthcare:speciality": "pulmonology",
+      "name": "Spitalul de Pneumoftiziologie Galați, TBC",
+      "operator": "Ministerul Sănătății",
+      "website": "https://pneumogalati.ro/"
+    }
+  },
+  {
+    "id": "way-649418818",
+    "name": "Liceul Tehnologic ,,Simion Mehedinți\"",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.4374208,
+    "lng": 28.0519407,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "19",
+      "addr:street": "Strada Nicolae Bălcescu",
+      "amenity": "school",
+      "grades": "9-12",
+      "name": "Liceul Tehnologic ,,Simion Mehedinți\""
+    }
+  },
+  {
+    "id": "way-649423055",
+    "name": "Colegiul Național „Mihail Kogălniceanu”",
+    "type": "school",
+    "subcategory": "college",
+    "lat": 45.4268122,
+    "lng": 28.0342325,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "161B",
+      "addr:street": "Strada Brăilei",
+      "amenity": "college",
+      "education": "college",
+      "name": "Colegiul Național „Mihail Kogălniceanu”",
+      "wikidata": "Q12724350",
+      "wikipedia": "ro:Colegiul Național „Mihail Kogălniceanu” din Galați"
+    }
+  },
+  {
+    "id": "way-657969642",
+    "name": "Gimnaziul „Alecu Mare”",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.5794678,
+    "lng": 28.1701159,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school",
+      "language:ro": "main",
+      "name": "Gimnaziul „Alecu Mare”",
+      "name:ru": "Гимназия им. Алеку Маре",
+      "name:uk": "Гімназія ім. Алеку Маре",
+      "phone": "+37329961450"
+    }
+  },
+  {
+    "id": "way-673930941",
+    "name": "Liceul Teoretic „Vasile Alecsandri“",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.4810792,
+    "lng": 28.1939902,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school",
+      "language:ro": "main",
+      "name": "Liceul Teoretic „Vasile Alecsandri“",
+      "name:en": "\"Vasile Alecsandri\" Theoretical High School",
+      "name:ru": "Теоретический лицей им. Василе Александри",
+      "name:uk": "Теоретичний ліцей ім. Василе Олександрі"
+    }
+  },
+  {
+    "id": "way-673964473",
+    "name": "Gimnaziul",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.5412743,
+    "lng": 28.169509,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school",
+      "language:ro": "main",
+      "name": "Gimnaziul",
+      "name:ru": "Гимназия",
+      "name:uk": "Гімназія"
+    }
+  },
+  {
+    "id": "way-685047508",
+    "name": "Biserica Fortificată Precista",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.4294523,
+    "lng": 28.0533123,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "heritage": "2",
+      "heritage:operator": "lmi",
+      "name": "Biserica Fortificată Precista",
+      "ref:RO:lmi": "GL-II-m-A-03066.01",
+      "religion": "christian",
+      "start_date": "1647",
+      "tourism": "attraction",
+      "wikidata": "Q18543752",
+      "wikipedia": "ro:Biserica fortificată Sfânta Precista din Galați"
+    }
+  },
+  {
+    "id": "way-734485309",
+    "name": "Biserica Sfântul Gheorghe",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.4251823,
+    "lng": 28.0196265,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Biserica Sfântul Gheorghe",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-735343093",
+    "name": "Biserica „Schimbarea la Față\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.4370294,
+    "lng": 28.0556604,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "1",
+      "addr:street": "Strada Maior Iancu Fotea",
+      "alt_name": "Biserica Greacă",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "check_date": "2026-03-19",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Schimbarea la Față\"",
+      "religion": "christian",
+      "start_date": "1866"
+    }
+  },
+  {
+    "id": "way-735343095",
+    "name": "Sinagoga Templul Meseriașilor",
+    "type": "church",
+    "subcategory": "jewish",
+    "lat": 45.4361363,
+    "lng": 28.0516351,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:street": "Str. Dornei",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "name": "Sinagoga Templul Meseriașilor",
+      "religion": "jewish",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "id": "way-735343097",
+    "name": "Biserica „Intrarea în Biserică” - Vovidenia",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.4382038,
+    "lng": 28.0574867,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "24",
+      "addr:street": "Strada Logofăt Tăutu",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "romanian_orthodox",
+      "heritage": "2",
+      "heritage:operator": "lmi",
+      "name": "Biserica „Intrarea în Biserică” - Vovidenia",
+      "ref:RO:lmi": "GL-II-m-B-03070",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-735402462",
+    "name": "Biserica „Sfântul Andrei”",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.4175745,
+    "lng": 28.0191206,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:street": "Strada Brăilei",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Sfântul Andrei”",
+      "religion": "christian",
+      "start_date": "1996"
+    }
+  },
+  {
+    "id": "way-736339171",
+    "name": "Biserica „Sfântul Gheorghe\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.4237855,
+    "lng": 28.0181783,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "58",
+      "addr:street": "Strada Cosminului",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Sfântul Gheorghe\"",
+      "religion": "christian",
+      "start_date": "2015"
+    }
+  },
+  {
+    "id": "way-736421816",
+    "name": "Biserica „Sfânta Ana\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.416529,
+    "lng": 28.0159619,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "1A",
+      "addr:street": "Strada Textiliștilor",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Sfânta Ana\"",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-850576827",
+    "name": "Biserica romano-catolică din Galați",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.4444247,
+    "lng": 28.0557317,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "88",
+      "addr:postcode": "800215",
+      "addr:street": "Strada Domnească",
+      "alt_name": "Biserica Sf. Anton",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "roman_catholic",
+      "heritage": "2",
+      "heritage:operator": "lmi",
+      "name": "Biserica romano-catolică din Galați",
+      "ref:RO:lmi": "GL-II-m-B-03029",
+      "religion": "christian",
+      "start_date": "1844",
+      "wikidata": "Q42902677",
+      "wikipedia": "ro:Biserica romano-catolică din Galați"
+    }
+  },
+  {
+    "id": "way-850587438",
+    "name": "Catedrala Episcopală \"Sf. Nicolae\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.4471751,
+    "lng": 28.0545474,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "104",
+      "addr:street": "Strada Domnească",
+      "amenity": "place_of_worship",
+      "architect": "Petre Antonescu;Ștefan Burcuș",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "height": "42.5",
+      "heritage": "2",
+      "heritage:operator": "lmi",
+      "historic": "church",
+      "image": "https://photos.app.goo.gl/emAVMPXBfDAMfKnq9",
+      "name": "Catedrala Episcopală \"Sf. Nicolae\"",
+      "name:pl": "Sobór Katedralny św. Mikołaja",
+      "ref:RO:lmi": "GL-II-m-B-03032",
+      "religion": "christian",
+      "source:url": "https://www.biserici.org/index.php?menu=BIGL&code=106",
+      "start_date": "1917",
+      "tourism": "attraction",
+      "wikidata": "Q18538756",
+      "wikipedia": "ro:Catedrala arhiepiscopală din Galați"
+    }
+  },
+  {
+    "id": "way-850595998",
+    "name": "Biserica „Sfântul Nicolae\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.4340444,
+    "lng": 28.0574842,
+    "osmType": "way",
+    "tags": {
+      "addr:housenumber": "15",
+      "addr:street": "Strada Ion Creangă",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "heritage": "2",
+      "heritage:operator": "lmi",
+      "name": "Biserica „Sfântul Nicolae\"",
+      "ref:RO:lmi": "GL-II-m-B-03005",
+      "religion": "christian",
+      "start_date": "1845",
+      "wikidata": "Q18544362",
+      "wikipedia": "ro:Biserica Sfântul Nicolae din Galați"
+    }
+  },
+  {
+    "id": "way-897110602",
+    "name": "Biserica „Sfântul Nicolae\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.4092369,
+    "lng": 28.0491568,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "I.C. Brătianu",
+      "addr:street": "Strada Principală",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Sfântul Nicolae\"",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1037169455",
+    "name": "Biserica „Sfântul Andrei\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.4498505,
+    "lng": 28.0546609,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "48",
+      "addr:street": "Strada Mihai Bravu",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Sfântul Andrei\"",
+      "religion": "christian",
+      "start_date": "1998"
+    }
+  },
+  {
+    "id": "way-1055039250",
+    "name": "Lisboa",
+    "type": "betting",
+    "subcategory": "Lisboa",
+    "lat": 45.4148663,
+    "lng": 28.0193037,
+    "osmType": "way",
+    "tags": {
+      "amenity": "gambling",
+      "building": "yes",
+      "name": "Lisboa"
+    }
+  },
+  {
+    "id": "way-1056859654",
+    "name": "Biserica „Sfântul Voievod Ștefan cel Mare\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.4456823,
+    "lng": 28.0300711,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "28D",
+      "addr:street": "Strada Nufărului",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Sfântul Voievod Ștefan cel Mare\"",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1057218319",
+    "name": "Biserica „Sfântul Ioan Botezătorul\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.4131532,
+    "lng": 28.0173597,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "13",
+      "addr:street": "Strada Oțelarilor",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Sfântul Ioan Botezătorul\"",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1066932224",
+    "name": "Centrul medical Irina",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 45.4458828,
+    "lng": 28.0224568,
+    "osmType": "way",
+    "tags": {
+      "amenity": "hospital",
+      "healthcare": "hospital",
+      "name": "Centrul medical Irina"
+    }
+  },
+  {
+    "id": "way-1068496265",
+    "name": "Biserica „Sfântul Ilie Tesviteanul\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.4203491,
+    "lng": 28.0142882,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "4A",
+      "addr:street": "Strada Barboși",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Sfântul Ilie Tesviteanul\"",
+      "religion": "christian",
+      "start_date": "1993"
+    }
+  },
+  {
+    "id": "way-1079997987",
+    "name": "Cabinete Medicale Individuale Medicină dentară",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 45.4296536,
+    "lng": 28.0495176,
+    "osmType": "way",
+    "tags": {
+      "access": "customers",
+      "addr:city": "Galați",
+      "addr:housenumber": "39",
+      "addr:street": "Strada Alexandru Lăpușneanu",
+      "amenity": "clinic",
+      "building": "yes",
+      "building:levels": "1",
+      "building:material": "concrete",
+      "description": "Cabinete Medicale Individuale Medicină dentară",
+      "description:en": "Individual Medical Offices Dentistry",
+      "healthcare": "dentist",
+      "healthcare:speciality": "dentistry;radiology;neurology;stomatology;paediatrics;implantology;periodontics;endodontics",
+      "name": "Cabinete Medicale Individuale Medicină dentară",
+      "name:en": "Individual Medical Offices Dentistry",
+      "opening_hours": "Mo-Fr 09:00-18:00",
+      "stairs": "outdoor",
+      "toilets": "not-sure",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "id": "way-1083892323",
+    "name": "Emergency Room",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 45.4196654,
+    "lng": 28.0188238,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "177",
+      "addr:postcode": "800578",
+      "addr:street": "Strada Brăilei",
+      "amenity": "clinic",
+      "building": "hospital",
+      "building:levels": "1",
+      "emergency": "yes",
+      "healthcare": "clinic",
+      "healthcare:speciality": "emergency",
+      "height": "5",
+      "layer": "1",
+      "name": "Emergency Room",
+      "name:ro": "UNITATE PRIMIRE URGENTE",
+      "phone": "0236301122"
+    }
+  },
+  {
+    "id": "way-1086900339",
+    "name": "Gradinita cu Program Prelungit nr. 45 - Parfumul Teilor",
+    "type": "school",
+    "subcategory": "childcare",
+    "lat": 45.441842,
+    "lng": 28.0556738,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "65",
+      "addr:street": "Strada Domnească",
+      "amenity": "childcare",
+      "building": "yes",
+      "building:levels": "1",
+      "heritage": "2",
+      "heritage:operator": "lmi",
+      "kindergarten": "yes",
+      "name": "Gradinita cu Program Prelungit nr. 45 - Parfumul Teilor",
+      "operator": "Ministerul Educatiei",
+      "ref:RO:lmi": "GL-II-m-B-03022"
+    }
+  },
+  {
+    "id": "way-1117145675",
+    "name": "Biserica Sfânta Filofteia",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.4076203,
+    "lng": 28.0139549,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Biserica Sfânta Filofteia",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1132451146",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.4038749,
+    "lng": 28.2077179,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1138099206",
+    "name": "Biserica „Nașterea Maicii Domnului\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.4062414,
+    "lng": 27.9640158,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Movileni",
+      "addr:street": "Strada Luminii",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Nașterea Maicii Domnului\"",
+      "religion": "christian",
+      "start_date": "1914"
+    }
+  },
+  {
+    "id": "way-1149448617",
+    "name": "Biserica „Sfânta Treime\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.4497095,
+    "lng": 28.0087993,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Sfânta Treime\"",
+      "religion": "christian",
+      "start_date": "1854"
+    }
+  },
+  {
+    "id": "way-1149448639",
+    "name": "Biserica „Sfinții Arhangheli Mihail și Gavril”",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.4327936,
+    "lng": 28.0585391,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "6",
+      "addr:street": "Strada Egalității",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "heritage": "2",
+      "heritage:operator": "lmi",
+      "name": "Biserica „Sfinții Arhangheli Mihail și Gavril”",
+      "ref:RO:lmi": "GL-II-m-B-03037",
+      "religion": "christian",
+      "start_date": "1801"
+    }
+  },
+  {
+    "id": "way-1149448663",
+    "name": "Seminarul Teologic Liceal Ortodox \"Sfântul Apostol Andrei\"",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.4498358,
+    "lng": 28.0553508,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school",
+      "name": "Seminarul Teologic Liceal Ortodox \"Sfântul Apostol Andrei\""
+    }
+  },
+  {
+    "id": "way-1149448676",
+    "name": "Biserica \"Sfântul Haralambie\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.4387793,
+    "lng": 28.046462,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "13",
+      "addr:street": "Strada Movilei",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica \"Sfântul Haralambie\"",
+      "religion": "christian",
+      "start_date": "1848"
+    }
+  },
+  {
+    "id": "way-1149448684",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.4578509,
+    "lng": 28.0476715,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1149448686",
+    "name": "Biserica „Sfântul Gheorghe\", „Sfântul Modest\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.4566253,
+    "lng": 28.0408381,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "260",
+      "addr:street": "Strada Traian",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Sfântul Gheorghe\", „Sfântul Modest\"",
+      "religion": "christian",
+      "start_date": "1933"
+    }
+  },
+  {
+    "id": "way-1149460106",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "childcare",
+    "lat": 45.4634277,
+    "lng": 28.0394952,
+    "osmType": "way",
+    "tags": {
+      "amenity": "childcare",
+      "building": "yes"
+    }
+  },
+  {
+    "id": "way-1165066597",
+    "name": "3D Diagnostic",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 45.4276961,
+    "lng": 28.0394274,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "181",
+      "addr:postcode": "800402",
+      "addr:street": "Strada Morilor",
+      "amenity": "doctors",
+      "building": "yes",
+      "email": "officegl@3d-diagnostic.ro",
+      "healthcare": "doctor",
+      "healthcare:speciality": "radiology",
+      "name": "3D Diagnostic",
+      "opening_hours": "Mo-Fr 08:00-19:00; Sa 09:00-14:00",
+      "operator": "RADIOLOGIE STOMATOLOGICA SRL",
+      "phone": "+40749505050",
+      "ref:vatin": "40471961",
+      "website": "https://3d-diagnostic.ro"
+    }
+  },
+  {
+    "id": "way-1202064050",
+    "name": "Biserica „Adormirea Maicii Domnului”",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.4427431,
+    "lng": 28.0334899,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "221",
+      "addr:street": "Bulevardul George Coșbuc",
+      "amenity": "place_of_worship",
+      "building": "chapel",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Adormirea Maicii Domnului”",
+      "religion": "christian",
+      "start_date": "1909"
+    }
+  },
+  {
+    "id": "way-1202064052",
+    "name": "Biserica „Sfântul Mucenic Antim\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.4498926,
+    "lng": 28.021902,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "25A",
+      "addr:street": "Bulevardul Milcov",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Sfântul Mucenic Antim\"",
+      "religion": "christian",
+      "start_date": "2011"
+    }
+  },
+  {
+    "id": "way-1202064054",
+    "name": "Biserica „Sfântul Cuvios Antonie cel Mare“",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.4087158,
+    "lng": 28.0175939,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "70A",
+      "addr:street": "Bulevardul Dunărea",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Sfântul Cuvios Antonie cel Mare“",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1202064055",
+    "name": "Biserica „Sfinții Apostoli Petru și Pavel\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.4360499,
+    "lng": 28.0676939,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "64",
+      "addr:street": "Strada Sindicatelor",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Sfinții Apostoli Petru și Pavel\"",
+      "religion": "christian",
+      "start_date": "1847"
+    }
+  },
+  {
+    "id": "way-1202064057",
+    "name": "Biserica „Sfântul Atanasie Patelarie“",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.4173895,
+    "lng": 28.0085615,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "7A",
+      "addr:street": "Strada Oltului",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Sfântul Atanasie Patelarie“",
+      "religion": "christian",
+      "start_date": "2009"
+    }
+  },
+  {
+    "id": "way-1202064059",
+    "name": "Biserica „Sfântul Ierarh Nectarie“",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.4036639,
+    "lng": 27.9908332,
+    "osmType": "way",
+    "tags": {
+      "addr:housenumber": "9",
+      "addr:street": "Strada Lunca Siretului",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "building:colour": "#ec5c22",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Sfântul Ierarh Nectarie“",
+      "religion": "christian",
+      "roof:colour": "#652c15"
+    }
+  },
+  {
+    "id": "way-1202064060",
+    "name": "Biserica „Buna Vestire\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.4347299,
+    "lng": 28.0431352,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "71",
+      "addr:street": "Strada Română",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Buna Vestire\"",
+      "religion": "christian",
+      "start_date": "1859"
+    }
+  },
+  {
+    "id": "way-1202064062",
+    "name": "Biserica „Sfânta Cuvioasă Parascheva\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.4123793,
+    "lng": 28.0065143,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "2",
+      "addr:street": "Bulevardul Dunărea",
+      "air_conditioning": "no",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "check_date": "2025-07-31",
+      "denomination": "romanian_orthodox",
+      "internet_access": "no",
+      "name": "Biserica „Sfânta Cuvioasă Parascheva\"",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1202064063",
+    "name": "Biserica „Sfântul Mucenic Dimitrie – Izvorâtorul de Mir\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.4565535,
+    "lng": 28.024911,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "18A",
+      "addr:street": "Bulevardul Henri Coandă",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Sfântul Mucenic Dimitrie – Izvorâtorul de Mir\"",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1202064065",
+    "name": "Biserica „Sfinții Cuvioși Gherman și Ioan Casian“",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.4225455,
+    "lng": 28.0393354,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "33",
+      "addr:street": "Bulevardul Marea Unire",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Sfinții Cuvioși Gherman și Ioan Casian“",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1202064069",
+    "name": "Biserica „Izvorul Tămăduirii\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.4444438,
+    "lng": 28.0698883,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "53",
+      "addr:street": "Strada Vezuviului",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Izvorul Tămăduirii\"",
+      "religion": "christian",
+      "start_date": "1873"
+    }
+  },
+  {
+    "id": "way-1202064071",
+    "name": "Biserica „Sfinții Împărați Constantin și Elena\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.4455938,
+    "lng": 28.0401328,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "40",
+      "addr:street": "Strada Anul Revoluției 1948",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Sfinții Împărați Constantin și Elena\"",
+      "religion": "christian",
+      "start_date": "1863"
+    }
+  },
+  {
+    "id": "way-1202064073",
+    "name": "Biserica „Înălțarea Domnului\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.4328479,
+    "lng": 28.0308231,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "23",
+      "addr:street": "Strada Constructorilor",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Înălțarea Domnului\"",
+      "religion": "christian",
+      "start_date": "2007"
+    }
+  },
+  {
+    "id": "way-1202064075",
+    "name": "Biserica „Sfinții Mina, Victor și Vichentie“",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.4415109,
+    "lng": 28.0260865,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "202",
+      "addr:street": "Strada Tecuci",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Sfinții Mina, Victor și Vichentie“",
+      "religion": "christian",
+      "start_date": "2002"
+    }
+  },
+  {
+    "id": "way-1202064076",
+    "name": "Biserica „Nașterea Maicii Domnului\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.4636919,
+    "lng": 28.0471223,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "21",
+      "addr:street": "Strada Lacului",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Nașterea Maicii Domnului\"",
+      "religion": "christian",
+      "start_date": "1875"
+    }
+  },
+  {
+    "id": "way-1202064079",
+    "name": "Biserica „Pogorârea Sfântului Duh\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.4248685,
+    "lng": 28.0308131,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "5",
+      "addr:street": "Strada Saturn",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Pogorârea Sfântului Duh\"",
+      "religion": "christian",
+      "start_date": "1998"
+    }
+  },
+  {
+    "id": "way-1202064082",
+    "name": "Biserica armeană „Sfânta Maria” Galați",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.4322972,
+    "lng": 28.0523325,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "armenian_apostolic",
+      "name": "Biserica armeană „Sfânta Maria” Galați",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1202064085",
+    "name": "Biserica „Sfinții Trei Ierarhi\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.4280379,
+    "lng": 28.0455342,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "10",
+      "addr:street": "Strada Ovidiu",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Sfinții Trei Ierarhi\"",
+      "religion": "christian",
+      "start_date": "1886"
+    }
+  },
+  {
+    "id": "way-1202064088",
+    "name": "Biserica „Sfântul Vasile cel Mare\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.4322602,
+    "lng": 28.0219914,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "88",
+      "addr:street": "Strada Inginer Anghel Saligny",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Sfântul Vasile cel Mare\"",
+      "religion": "christian",
+      "start_date": "1946"
+    }
+  },
+  {
+    "id": "way-1203080029",
+    "name": "Biserica „Sfinții Arhangheli Mihail și Gavriil\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.5976688,
+    "lng": 28.0508593,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Tătarca",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Sfinții Arhangheli Mihail și Gavriil\"",
+      "religion": "christian",
+      "start_date": "1859"
+    }
+  },
+  {
+    "id": "way-1203080040",
+    "name": "Biserica „Sfântul Gheorghe\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.579217,
+    "lng": 28.0459419,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați - Tulucești",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Sfântul Gheorghe\"",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1203080049",
+    "name": "Biserica „Sfinții Arhangheli Mihail și Gavriil\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.5687642,
+    "lng": 28.0519673,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Tulucești",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Sfinții Arhangheli Mihail și Gavriil\"",
+      "religion": "christian",
+      "start_date": "1856"
+    }
+  },
+  {
+    "id": "way-1203144781",
+    "name": "Biserica „Sfinții Arhangheli Mihail și Gavriil\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.4984249,
+    "lng": 28.0120706,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Costi",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Sfinții Arhangheli Mihail și Gavriil\"",
+      "religion": "christian",
+      "start_date": "1892"
+    }
+  },
+  {
+    "id": "way-1203144783",
+    "name": "Biserica „Adormirea Maicii Domnului”",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.5321315,
+    "lng": 28.0141859,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Vânători",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Adormirea Maicii Domnului”",
+      "religion": "christian",
+      "start_date": "1924"
+    }
+  },
+  {
+    "id": "way-1203144786",
+    "name": "Biserica „Sfântul Gheorghe\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.5510363,
+    "lng": 27.9910927,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Odaia Manolache",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Sfântul Gheorghe\"",
+      "religion": "christian",
+      "start_date": "1783"
+    }
+  },
+  {
+    "id": "way-1237749206",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.4679005,
+    "lng": 28.0340225,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1237749207",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.4677566,
+    "lng": 28.0340842,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1427759890",
+    "name": "Biserica Reformată",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.4398228,
+    "lng": 28.050004,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "name": "Biserica Reformată",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1454209024",
+    "name": "Spitalul Județean de Urgență \"Sfântul Apostol Andrei\"",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 45.4187293,
+    "lng": 28.0196327,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Galați",
+      "addr:housenumber": "177",
+      "addr:postcode": "800578",
+      "addr:street": "Strada Brăilei",
+      "amenity": "hospital",
+      "email": "secretariat@spitalulurgentagalati.ro",
+      "emergency": "yes",
+      "healthcare": "hospital",
+      "is_in:city": "Galați",
+      "name": "Spitalul Județean de Urgență \"Sfântul Apostol Andrei\"",
+      "operator": "Spitalul Clinic Județean de Urgență \"Sf. Apostol Andrei\" Galați",
+      "operator:type": "government",
+      "phone": "0236 / 301.111",
+      "short_name": "Spitalul judetean Galati",
+      "website": "https://www.spitalulurgentagalati.ro/"
+    }
+  },
+  {
+    "id": "relation-10156117",
+    "name": "Universitatea Dunărea de Jos",
+    "type": "school",
+    "subcategory": "university",
+    "lat": 45.4386642,
+    "lng": 28.0556798,
+    "osmType": "relation",
+    "tags": {
+      "amenity": "university",
+      "education": "university",
+      "name": "Universitatea Dunărea de Jos",
+      "name:de": "Dunărea-de-Jos-Universität Galați",
+      "name:en": "\"Dunarea de Jos\" University of Galați",
+      "name:fr": "Université \"Dunarea de Jos\" de Galati",
+      "name:it": "Università \"Dunarea de Jos\" di Galati",
+      "name:la": "Universitas Galatiensis",
+      "name:ru": "Галацкий университет «Дунэря де Жос»",
+      "type": "multipolygon",
+      "website": "https://www.ugal.ro/",
+      "wikidata": "Q1266339",
+      "wikipedia": "ro:Universitatea „Dunărea de Jos” din Galați"
+    }
+  }
+]

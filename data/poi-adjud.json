@@ -7,8 +7,20 @@
     "lat": 46.0942897,
     "lng": 27.1832368,
     "osmType": "node",
-    "brand": null,
-    "operator": "Liceul Emil Botta"
+    "tags": {
+      "addr:city": "Adjud",
+      "addr:housenumber": "12",
+      "addr:postcode": "625100",
+      "addr:street": "Strada Libertății",
+      "amenity": "school",
+      "denomination": "catholic",
+      "grades": "2",
+      "name": "Colegiul Național Emil Botta Corp A",
+      "operator": "Liceul Emil Botta",
+      "phone": "0237640726",
+      "religion": "christian",
+      "website": "https://www.colegiulbotta.ro/"
+    }
   },
   {
     "id": "node-2286418187",
@@ -18,8 +30,10 @@
     "lat": 46.0948404,
     "lng": 27.1821102,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "name": "Școala nr. 1"
+    }
   },
   {
     "id": "node-2286418189",
@@ -29,8 +43,12 @@
     "lat": 46.0919311,
     "lng": 27.1878019,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "hospital",
+      "emergency": "yes",
+      "healthcare": "hospital",
+      "name": "Spitalul Municipal Adjud"
+    }
   },
   {
     "id": "node-2286418191",
@@ -40,8 +58,17 @@
     "lat": 46.0957702,
     "lng": 27.1813002,
     "osmType": "node",
-    "brand": null,
-    "operator": "Școala gimnazială „Mareșal Alexandru Averescu”"
+    "tags": {
+      "addr:city": "Adjud",
+      "addr:housenumber": "2",
+      "addr:street": "Strada Libertății",
+      "amenity": "school",
+      "grades": "4",
+      "name": "Școala gimnazială „Mareșal Alexandru Averescu”",
+      "operator": "Școala gimnazială „Mareșal Alexandru Averescu”",
+      "operator:type": "public",
+      "website": "https://www.scoalaaverescuadjud.ro/"
+    }
   },
   {
     "id": "node-2482694663",
@@ -51,8 +78,19 @@
     "lat": 46.0986175,
     "lng": 27.1865355,
     "osmType": "node",
-    "brand": null,
-    "operator": "Scoala Gimnaziala \"Principele Radu\" Corp A"
+    "tags": {
+      "addr:city": "Adjud",
+      "addr:housenumber": "7A",
+      "addr:postcode": "625100",
+      "addr:street": "Strada Tudor Vladimirescu",
+      "amenity": "school",
+      "grades": "1",
+      "name": "Școala Gimnazială „Principele Radu”, Corp A",
+      "operator": "Scoala Gimnaziala \"Principele Radu\" Corp A",
+      "operator:type": "public",
+      "phone": "0237640619",
+      "website": "http://scoalanr2adjud.freewb.ro/"
+    }
   },
   {
     "id": "node-4852062954",
@@ -62,8 +100,16 @@
     "lat": 46.1098195,
     "lng": 27.1795216,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Adjud",
+      "addr:postcode": "625100",
+      "addr:street": "Strada Ecaterina Teodoroiu",
+      "amenity": "place_of_worship",
+      "denomination": "romanian_orthodox",
+      "height": "9",
+      "name": "Biserică",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-5257150949",
@@ -73,30 +119,61 @@
     "lat": 46.1019466,
     "lng": 27.1753017,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserică",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-8628417770",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet",
     "lat": 46.099837,
     "lng": 27.1812,
     "osmType": "node",
-    "brand": "Superbet",
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "addr:city": "Adjud",
+      "addr:street": "Bulevardul Republicii",
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-8628417903",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet",
     "lat": 46.0983519,
     "lng": 27.1820858,
     "osmType": "node",
-    "brand": "Superbet",
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "addr:city": "Adjud",
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-12435720394",
@@ -106,8 +183,18 @@
     "lat": 46.0988233,
     "lng": 27.1868796,
     "osmType": "node",
-    "brand": null,
-    "operator": "Scoala Gimnaziala \"Principele Radu\" Corp B"
+    "tags": {
+      "addr:city": "Adjud",
+      "addr:housenumber": "7A",
+      "addr:postcode": "625100",
+      "addr:street": "Strada Tudor Vladimirescu",
+      "amenity": "school",
+      "grades": "1",
+      "name": "Scoala Gimnaziala \"Principele Radu\" Corp B",
+      "operator": "Scoala Gimnaziala \"Principele Radu\" Corp B",
+      "phone": "0237640619",
+      "website": "http://scoalanr2adjud.freewb.ro/"
+    }
   },
   {
     "id": "node-12435722447",
@@ -117,8 +204,16 @@
     "lat": 46.0988744,
     "lng": 27.1863204,
     "osmType": "node",
-    "brand": null,
-    "operator": "Grădinița nr. 2"
+    "tags": {
+      "addr:city": "Adjud",
+      "addr:housenumber": "7A",
+      "addr:postcode": "625100",
+      "addr:street": "Strada Tudor Vladimirescu",
+      "amenity": "childcare",
+      "name": "Grădinița nr. 2",
+      "operator": "Grădinița nr. 2",
+      "operator:type": "public"
+    }
   },
   {
     "id": "way-367845797",
@@ -128,8 +223,14 @@
     "lat": 46.101401,
     "lng": 27.1801834,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Adjud",
+      "addr:postcode": "625100",
+      "amenity": "school",
+      "building": "yes",
+      "education": "school",
+      "name": "Școala nr. 3"
+    }
   },
   {
     "id": "way-368425632",
@@ -139,8 +240,19 @@
     "lat": 46.0957765,
     "lng": 27.1813018,
     "osmType": "way",
-    "brand": null,
-    "operator": "ȘCOALA GIMNAZIALĂ „MAREȘAL ALEXANDRU AVERESCU”"
+    "tags": {
+      "addr:city": "Adjud",
+      "addr:housenumber": "2",
+      "addr:postcode": "625100",
+      "addr:street": "Strada Libertății",
+      "amenity": "school",
+      "building": "yes",
+      "grades": "4",
+      "name": "ȘCOALA GIMNAZIALĂ „MAREȘAL ALEXANDRU AVERESCU”",
+      "operator": "ȘCOALA GIMNAZIALĂ „MAREȘAL ALEXANDRU AVERESCU”",
+      "operator:type": "public",
+      "website": "https://www.scoalaaverescuadjud.ro/"
+    }
   },
   {
     "id": "way-510660815",
@@ -150,8 +262,16 @@
     "lat": 46.1043283,
     "lng": 27.1774224,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Adjud",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "height": "9",
+      "name": "Biserica „Sfânta Cuvioasă Parascheva\"",
+      "religion": "christian",
+      "start_date": "1998"
+    }
   },
   {
     "id": "way-538659556",
@@ -161,8 +281,19 @@
     "lat": 46.0940588,
     "lng": 27.1846925,
     "osmType": "way",
-    "brand": null,
-    "operator": "UAT Adjud"
+    "tags": {
+      "addr:city": "Adjud",
+      "addr:postcode": "625100",
+      "addr:street": "Strada Libertății",
+      "amenity": "school",
+      "building": "yes",
+      "denomination": "church_of_christ",
+      "grades": "1",
+      "name": "Gradiniță cu program prelungit",
+      "operator": "UAT Adjud",
+      "operator:type": "public",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-543833370",
@@ -172,8 +303,17 @@
     "lat": 46.1008535,
     "lng": 27.1819693,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Adjud",
+      "addr:housenumber": "10",
+      "addr:street": "Strada Nicolae Bălcescu",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "roman_catholic",
+      "name": "Biserica „Schimbarea la Față a lui Isus\"",
+      "religion": "christian",
+      "start_date": "1999"
+    }
   },
   {
     "id": "way-1125400461",
@@ -183,8 +323,12 @@
     "lat": 46.0717238,
     "lng": 27.1360619,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1125400479",
@@ -194,8 +338,17 @@
     "lat": 46.0708155,
     "lng": 27.1424662,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "building:material": "wood",
+      "denomination": "romanian_orthodox",
+      "heritage": "2",
+      "heritage:operator": "lmi",
+      "name": "Biserica „Cuvioasa Paraschiva”",
+      "ref:RO:lmi": "VN-II-m-A-06556",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1125500623",
@@ -205,8 +358,15 @@
     "lat": 46.1363171,
     "lng": 27.191417,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Adjudu Vechi",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Sfântul Nicolae\"",
+      "religion": "christian",
+      "start_date": "1860"
+    }
   },
   {
     "id": "way-1125500632",
@@ -216,8 +376,14 @@
     "lat": 46.1512584,
     "lng": 27.1704491,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Șișcani",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Sfinții Împărați Constantin și Elena\"",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1125500640",
@@ -227,8 +393,12 @@
     "lat": 46.0713664,
     "lng": 27.230646,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1146831318",
@@ -238,8 +408,12 @@
     "lat": 46.1580998,
     "lng": 27.2399015,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1146831319",
@@ -249,8 +423,17 @@
     "lat": 46.1573807,
     "lng": 27.2474734,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "heritage": "2",
+      "heritage:operator": "lmi",
+      "name": "Biserica „Nașterea Maicii Domnului”",
+      "ref:RO:lmi": "VN-II-m-B-06515",
+      "religion": "christian",
+      "start_date": "1809"
+    }
   },
   {
     "id": "way-1146831321",
@@ -260,8 +443,12 @@
     "lat": 46.0743583,
     "lng": 27.1290628,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1146831323",
@@ -271,8 +458,10 @@
     "lat": 46.0746302,
     "lng": 27.1294501,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "childcare",
+      "building": "yes"
+    }
   },
   {
     "id": "way-1148550158",
@@ -282,8 +471,14 @@
     "lat": 46.0964108,
     "lng": 27.1822019,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Adjud",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Sfântul Dumitru\"",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1188726214",
@@ -293,8 +488,15 @@
     "lat": 46.1347828,
     "lng": 27.2380598,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Homocea",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Sfântul Gheorghe\"",
+      "religion": "christian",
+      "start_date": "1915"
+    }
   },
   {
     "id": "way-1188726216",
@@ -304,8 +506,15 @@
     "lat": 46.1448906,
     "lng": 27.2433342,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Homocea",
+      "addr:street": "Strada Artera Principală",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Sfântul Dimitrie\"",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1188726221",
@@ -315,8 +524,13 @@
     "lat": 46.1708247,
     "lng": 27.2442851,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Lespezi",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1188726222",
@@ -326,8 +540,13 @@
     "lat": 46.1813147,
     "lng": 27.2102408,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Costișa",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1190185443",
@@ -337,8 +556,16 @@
     "lat": 46.0917786,
     "lng": 27.1884612,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Adjud",
+      "addr:street": "Bulevardul Republicii",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Buna Vestire\"",
+      "religion": "christian",
+      "start_date": "2007"
+    }
   },
   {
     "id": "way-1190185447",
@@ -348,8 +575,16 @@
     "lat": 46.0988422,
     "lng": 27.1812812,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Adjud",
+      "addr:street": "Strada Copăcești",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Adormirea Maicii Domnului”, „Sfântul Ciprian\"",
+      "religion": "christian",
+      "start_date": "2014"
+    }
   },
   {
     "id": "way-1190916662",
@@ -359,8 +594,15 @@
     "lat": 46.1744795,
     "lng": 27.2133089,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Costișa",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Duminica Tuturor Sfinților”",
+      "religion": "christian",
+      "start_date": "2017"
+    }
   },
   {
     "id": "way-1344033003",
@@ -370,8 +612,20 @@
     "lat": 46.094497,
     "lng": 27.1842492,
     "osmType": "way",
-    "brand": null,
-    "operator": "Colegiul Național Emil Botta"
+    "tags": {
+      "addr:city": "Adjud",
+      "addr:housenumber": "12",
+      "addr:postcode": "625100",
+      "addr:street": "Strada Libertății",
+      "amenity": "school",
+      "building": "school",
+      "denomination": "church_of_christ",
+      "grades": "2",
+      "name": "Colegiul Național Emil Botta Corp B",
+      "operator": "Colegiul Național Emil Botta",
+      "religion": "christian",
+      "website": "https://www.colegiulbotta.ro/"
+    }
   },
   {
     "id": "way-1364098997",
@@ -381,7 +635,11 @@
     "lat": 46.1098124,
     "lng": 27.1796194,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "name": "Biserică",
+      "religion": "christian"
+    }
   }
 ]

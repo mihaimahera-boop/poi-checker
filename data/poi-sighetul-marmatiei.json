@@ -1,10 +1,30 @@
-{
-  "city": "Sighetul Marmatiei",
-  "generated_at": "2026-04-23T09:15:06.554Z",
-  "counts": {
-    "total": 0,
-    "schools": 0,
-    "churches": 0
+[
+  {
+    "id": "way-423692866",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 47.9312582,
+    "lng": 23.9005035,
+    "osmType": "way",
+    "tags": {
+      "amenity": "kindergarten"
+    }
   },
-  "pois": []
-}
+  {
+    "id": "way-796299805",
+    "name": "Biserica Sfântul Ștefan cel Mare",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.9331755,
+    "lng": 23.8969186,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "temple",
+      "denomination": "orthodox",
+      "name": "Biserica Sfântul Ștefan cel Mare",
+      "religion": "christian"
+    }
+  }
+]

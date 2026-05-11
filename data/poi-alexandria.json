@@ -7,8 +7,16 @@
     "lat": 43.9795507,
     "lng": 25.3139964,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Alexandria",
+      "addr:housenumber": "1",
+      "addr:street": "Strada Libertății",
+      "alt_name": "Spitalul Mare",
+      "amenity": "hospital",
+      "emergency": "yes",
+      "healthcare": "hospital",
+      "name": "Spitalul Județean Teleorman"
+    }
   },
   {
     "id": "node-1316062682",
@@ -18,8 +26,13 @@
     "lat": 44.0017816,
     "lng": 25.2677632,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Mănăstirea Adamești",
+      "religion": "christian",
+      "source": "jonutzu@gpszone.ro"
+    }
   },
   {
     "id": "node-1942593755",
@@ -29,8 +42,12 @@
     "lat": 43.9711625,
     "lng": 25.3218088,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Sfânta Vineri",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-2662929351",
@@ -40,8 +57,16 @@
     "lat": 43.9723027,
     "lng": 25.3275196,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Alexandria",
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Sfinții Apostoli Petru și Pavel",
+      "religion": "christian",
+      "source": "survey",
+      "wikidata": "Q72955673",
+      "wikipedia": "ro:Biserica „Sfinții Apostoli” din Alexandria"
+    }
   },
   {
     "id": "node-2663117469",
@@ -51,8 +76,12 @@
     "lat": 43.974978,
     "lng": 25.3232304,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserică",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-4720368986",
@@ -62,8 +91,12 @@
     "lat": 43.9622322,
     "lng": 25.3429826,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Adormirea Maicii Domnului",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-4984739321",
@@ -73,8 +106,15 @@
     "lat": 43.9761288,
     "lng": 25.3215783,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:housenumber": "70",
+      "addr:street": "Strada Horea, Cloşca şi Crişan",
+      "amenity": "place_of_worship",
+      "denomination": "jehovahs_witness",
+      "name": "Sala Regatului a Martorilor lui Iehova",
+      "name:ro": "Sala Regatului a Martorilor lui Iehova",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-5628222599",
@@ -84,52 +124,104 @@
     "lat": 43.9788019,
     "lng": 25.3152402,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserică",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-8628417545",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet",
     "lat": 43.977669,
     "lng": 25.316502,
     "osmType": "node",
-    "brand": "Superbet",
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-8628417584",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet",
     "lat": 43.96584,
     "lng": 25.335583,
     "osmType": "node",
-    "brand": "Superbet",
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-8628418012",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet",
     "lat": 43.9638974,
     "lng": 25.3380078,
     "osmType": "node",
-    "brand": "Superbet",
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-8628418382",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet",
     "lat": 43.967994,
     "lng": 25.334086,
     "osmType": "node",
-    "brand": "Superbet",
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-9738323264",
@@ -139,8 +231,11 @@
     "lat": 43.9908764,
     "lng": 25.2910805,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-9790267868",
@@ -150,8 +245,10 @@
     "lat": 43.9695958,
     "lng": 25.3329163,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-11254642047",
@@ -161,8 +258,14 @@
     "lat": 43.9736268,
     "lng": 25.3377288,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "clinic",
+      "contact:email": "office@exmed.ro",
+      "contact:phone": "+40 232 347 912",
+      "contact:website": "https://affidea.ro/centre-medicale/exmed-alexandria-ghica",
+      "name": "Affidea",
+      "opening_hours": "Mo-Fr 08:00-20:00"
+    }
   },
   {
     "id": "node-11383282536",
@@ -172,8 +275,11 @@
     "lat": 43.9924289,
     "lng": 25.430695,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-11586576857",
@@ -183,8 +289,14 @@
     "lat": 43.9801971,
     "lng": 25.3134175,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "clinic",
+      "contact:email": "office@exmed.ro",
+      "contact:phone": "+40 232 347 911",
+      "contact:website": "https://affidea.ro/",
+      "name": "Affidea",
+      "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-14:00"
+    }
   },
   {
     "id": "node-13088707511",
@@ -194,8 +306,11 @@
     "lat": 43.9800504,
     "lng": 25.3137818,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Biserica Sf. Chir si Ioan, Pantelimon si Nectarie",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-183841443",
@@ -205,8 +320,18 @@
     "lat": 43.9754845,
     "lng": 25.3161233,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Alexandria",
+      "addr:housenumber": "45",
+      "addr:postcode": "140012",
+      "addr:street": "Strada 1907",
+      "amenity": "kindergarten",
+      "building": "yes",
+      "education": "kindergarten",
+      "name": "Grădinița cu Program Prelungit nr.6 Alexandria",
+      "phone": "0247 312 924",
+      "preschool": "yes"
+    }
   },
   {
     "id": "way-215056701",
@@ -216,8 +341,13 @@
     "lat": 43.966163,
     "lng": 25.3372299,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-215057733",
@@ -227,8 +357,16 @@
     "lat": 43.9677926,
     "lng": 25.3306095,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "alt_name": "Catedrala Alexandria",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Catedrala Arhiepiscopală Alexandria",
+      "religion": "christian",
+      "wikidata": "Q18538761",
+      "wikipedia": "ro:Catedrala Sfântul Alexandru din Alexandria"
+    }
   },
   {
     "id": "way-260729126",
@@ -238,8 +376,11 @@
     "lat": 43.9667028,
     "lng": 25.3285684,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "building": "yes",
+      "name": "Școala Generală Mihai Viteazul"
+    }
   },
   {
     "id": "way-260747567",
@@ -249,8 +390,12 @@
     "lat": 43.9752575,
     "lng": 25.3248626,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Alexandria",
+      "amenity": "college",
+      "name": "Colegiul Național Alexandru Dimitrie Ghica",
+      "source": "survey"
+    }
   },
   {
     "id": "way-479031794",
@@ -260,8 +405,13 @@
     "lat": 44.0036198,
     "lng": 25.39495,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "greek_orthodox",
+      "name": "Capela Vitănești",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-479031795",
@@ -271,8 +421,13 @@
     "lat": 44.007338,
     "lng": 25.4207201,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Biserica Buna Vestire",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-689645306",
@@ -282,8 +437,10 @@
     "lat": 43.9704414,
     "lng": 25.2979696,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "name": "Grup Școlar Tehnic Alexandria"
+    }
   },
   {
     "id": "way-1332818027",
@@ -293,8 +450,13 @@
     "lat": 44.0294269,
     "lng": 25.388506,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Măgura",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "name": "Biserica Măgura",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1332818030",
@@ -304,8 +466,9 @@
     "lat": 44.0322241,
     "lng": 25.3933552,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school"
+    }
   },
   {
     "id": "way-1345996913",
@@ -315,8 +478,11 @@
     "lat": 43.9355911,
     "lng": 25.3602932,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1424062625",
@@ -326,8 +492,10 @@
     "lat": 43.9796402,
     "lng": 25.313522,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "hospital",
+      "healthcare": "hospital"
+    }
   },
   {
     "id": "way-1426886781",
@@ -337,8 +505,10 @@
     "lat": 43.9754205,
     "lng": 25.3161602,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "kindergarten",
+      "education": "kindergarten"
+    }
   },
   {
     "id": "way-1427409687",
@@ -348,7 +518,13 @@
     "lat": 43.9818501,
     "lng": 25.4357547,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Purani",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "greek_orthodox",
+      "name": "Biserica Purani",
+      "religion": "christian"
+    }
   }
 ]

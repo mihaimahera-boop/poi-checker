@@ -1,10 +1,3250 @@
-{
-  "city": "Zalau",
-  "generated_at": "2026-04-23T10:24:30.860Z",
-  "counts": {
-    "total": 0,
-    "schools": 0,
-    "churches": 0
+[
+  {
+    "id": "node-914507010",
+    "name": "Școala Mihai Eminescu",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 47.186925,
+    "lng": 23.0545813,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Zalău",
+      "amenity": "school",
+      "name": "Școala Mihai Eminescu",
+      "name:ro": "Școala Mihai Eminescu"
+    }
   },
-  "pois": []
-}
+  {
+    "id": "node-1674591668",
+    "name": "Biserica Stâna",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.1531502,
+    "lng": 23.1368074,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Stâna",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-1806327409",
+    "name": "Biserica Ortodoxa Rastolt",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.0451258,
+    "lng": 23.1368206,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Răstolțu Deșert",
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxa Rastolt",
+      "name:ro": "Biserica Ortodoxa Rastolt",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-1806327418",
+    "name": "Biserica de lemn",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.0449028,
+    "lng": 23.1360852,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica de lemn",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-1807117268",
+    "name": "Biserica Bulgari",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.3399846,
+    "lng": 23.1395135,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Bulgari",
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Bulgari",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-1807128121",
+    "name": "Biserica Domnin",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.3345459,
+    "lng": 23.189022,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Domnin",
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Domnin",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-1832355360",
+    "name": "Biserica Chichișa",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.1340627,
+    "lng": 23.1905825,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Chichișa",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-1832355407",
+    "name": "Biserica Veche Romita",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.145378,
+    "lng": 23.2070996,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Veche Romita",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-1832355538",
+    "name": "Biserica Nouă Romita",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.1448528,
+    "lng": 23.2073195,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Nouă Romita",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-1832355764",
+    "name": "Biserica Românași",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.1123047,
+    "lng": 23.1832169,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Românași",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-1832395858",
+    "name": "Biserica Jac",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.1656567,
+    "lng": 23.2006674,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Jac",
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Jac",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-1833403147",
+    "name": "Biserica Brebi",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.2063106,
+    "lng": 23.1953788,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Brebi",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-1833458970",
+    "name": "Biserica Ortodoxă Moigrad-Porolissum",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.1961698,
+    "lng": 23.1407374,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Moigrad-Porolissum",
+      "addr:postcode": "457252",
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă Moigrad-Porolissum",
+      "name:ro": "Biserica Ortodoxă Moigrad-Porolissum",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-1833459009",
+    "name": "Biserica ortodoxă Sfinții Arhangheli",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.2117477,
+    "lng": 23.1020487,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Zalău",
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica ortodoxă Sfinții Arhangheli",
+      "name:ro": "Biserica ortodoxă Sfinții Arhangheli",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-1833492476",
+    "name": "Biserica Ortodoxă Nouă Ortelec",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.2037322,
+    "lng": 23.0882811,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă Nouă Ortelec",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-1833540576",
+    "name": "Biserica Ciumărna",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.1237246,
+    "lng": 23.1358494,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Ciumărna",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-1834491620",
+    "name": "Biserica Bozna",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.0853879,
+    "lng": 23.0953754,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Bozna",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-1834492686",
+    "name": "Biserica Treznea",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.1066311,
+    "lng": 23.1069033,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Treznea",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-1834536130",
+    "name": "Biserica Nouă Răstolț",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.0303029,
+    "lng": 23.0754738,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Nouă Răstolț",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-1834536326",
+    "name": "Biserica Ortodoxă Buciumi",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.0428022,
+    "lng": 23.0486219,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Buciumi",
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă Buciumi",
+      "name:ro": "Biserica Ortodoxă Buciumi",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-1834536749",
+    "name": "Biserica Veche Răstolț",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.0309207,
+    "lng": 23.0754093,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Răstolț",
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Veche Răstolț",
+      "name:ro": "Biserica Veche Răstolț",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-1834592233",
+    "name": "Biserica Bodia",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.0580013,
+    "lng": 23.0630948,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Bodia",
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Bodia",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-1835631487",
+    "name": "Biserica Ortodoxă Pogorârea Sfântului Duh",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.1883041,
+    "lng": 23.064332,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Zalău",
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă Pogorârea Sfântului Duh",
+      "name:ro": "Biserica Ortodoxă Pogorârea Sfântului Duh",
+      "religion": "christian",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": "node-1838060794",
+    "name": "Biserica Sfânta Treime",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.1793872,
+    "lng": 23.0582422,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Sfânta Treime",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-1838060883",
+    "name": "Catedrala \"Adormirea Maicii Domnului\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.1816161,
+    "lng": 23.0514388,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Zalău",
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Catedrala \"Adormirea Maicii Domnului\"",
+      "name:ro": "Catedrala \"Adormirea Maicii Domnului\"",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-1840383169",
+    "name": "Biserica Ortodoxă Sfântul Ioan Botezătorul",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.1951066,
+    "lng": 23.051447,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Zalău",
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă Sfântul Ioan Botezătorul",
+      "name:ro": "Biserica Ortodoxă Sfântul Ioan Botezătorul",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-1840383882",
+    "name": "Catedrala Episcopală „Înălţarea Domnului”",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.1946181,
+    "lng": 23.0555774,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Zalău",
+      "addr:housenumber": "8",
+      "addr:street": "Strada Sfânta Vineri",
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Catedrala Episcopală „Înălţarea Domnului”",
+      "name:ro": "Catedrala Episcopală „Înălţarea Domnului”",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-1840383923",
+    "name": "Biserica Sfântul Ioan Botezătorul",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.239016,
+    "lng": 23.0575464,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Crișeni",
+      "addr:postcode": "457105",
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Sfântul Ioan Botezătorul",
+      "name:hu": "Keresztelő Szent János Ortodox Templom",
+      "name:ro": "Biserica Sfântul Ioan Botezătorul",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-1840384159",
+    "name": "Biserica Ortodoxă Nașterea Maicii Domnului",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.2022989,
+    "lng": 23.0518667,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Zalău",
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă Nașterea Maicii Domnului",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-1840423523",
+    "name": "Biserica Ortodoxă Mirșid",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.2312279,
+    "lng": 23.1231274,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă Mirșid",
+      "name:ro": "Biserica Ortodoxă Mirșid",
+      "religion": "christian",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": "node-1841275879",
+    "name": "Biserica Cuceu",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.2644299,
+    "lng": 23.1882963,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Cuceu",
+      "religion": "christian",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": "node-1841302792",
+    "name": "Biserica Ortodoxă Veche",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.2483169,
+    "lng": 23.1315784,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Firminiș",
+      "addr:postcode": "457251",
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă Veche",
+      "name:ro": "Biserica Ortodoxă Veche",
+      "religion": "christian",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": "node-1841302822",
+    "name": "Biserica Ortodoxă Nouă",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.247545,
+    "lng": 23.1336115,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Firminiș",
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă Nouă",
+      "name:ro": "Biserica Ortodoxă Nouă",
+      "religion": "christian",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": "node-1841319745",
+    "name": "Biserica Ortodoxă",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.2568027,
+    "lng": 23.0606556,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Gârceiu",
+      "addr:postcode": "457107",
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă",
+      "name:ro": "Biserica Ortodoxă",
+      "religion": "christian",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": "node-1841319844",
+    "name": "Biserica Reformată",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.2559546,
+    "lng": 23.0657625,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Gârceiu",
+      "amenity": "place_of_worship",
+      "denomination": "reformed",
+      "name": "Biserica Reformată",
+      "religion": "christian",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": "node-1841334510",
+    "name": "Biserica Reformată Cristur-Crișeni",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.2594636,
+    "lng": 23.0892682,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Cristur-Crișeni",
+      "amenity": "place_of_worship",
+      "denomination": "reformed",
+      "name": "Biserica Reformată Cristur-Crișeni",
+      "name:ro": "Biserica Reformată Cristur-Crișeni",
+      "religion": "christian",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": "node-1841714095",
+    "name": "Biserica Reformată",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.2925748,
+    "lng": 23.0781404,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "reformed",
+      "name": "Biserica Reformată",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-1841714484",
+    "name": "Biserica Reformată-Calvină",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.295191,
+    "lng": 23.0874956,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "reformed",
+      "name": "Biserica Reformată-Calvină",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-1841744329",
+    "name": "Biserica Ortodoxă Dobrin",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.2897331,
+    "lng": 23.1367568,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Dobrin",
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă Dobrin",
+      "name:ro": "Biserica Ortodoxă Dobrin",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-1841744591",
+    "name": "Biserica Reformată Verveghiu",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.3145028,
+    "lng": 23.1061474,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Verveghiu",
+      "amenity": "place_of_worship",
+      "denomination": "reformed",
+      "name": "Biserica Reformată Verveghiu",
+      "name:hu": "Vérvölgyi Református Templom",
+      "name:ro": "Biserica Reformată Verveghiu",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-1841744609",
+    "name": "Biserica Reformată Sâncraiu Silvaniei",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.3005642,
+    "lng": 23.1332753,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Sâncraiu Silvaniei",
+      "amenity": "place_of_worship",
+      "denomination": "reformed",
+      "name": "Biserica Reformată Sâncraiu Silvaniei",
+      "name:ro": "Biserica Reformată Sâncraiu Silvaniei",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-1841770671",
+    "name": "Biserica Deleni",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.320449,
+    "lng": 23.0878285,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Deleni",
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Deleni",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-1841770777",
+    "name": "Biserica Reformată Naimon",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.326598,
+    "lng": 23.1098116,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Naimon",
+      "amenity": "place_of_worship",
+      "denomination": "reformed",
+      "name": "Biserica Reformată Naimon",
+      "name:ro": "Biserica Reformată Naimon",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-1842435890",
+    "name": "Biserica ortodoxă Bocșița",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.3052088,
+    "lng": 23.0494601,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Bocșița",
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica ortodoxă Bocșița",
+      "name:ro": "Biserica ortodoxă Bocșița",
+      "religion": "christian",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": "node-1842472803",
+    "name": "Biserica Greco-Catolică Adormirea Maicii Domnului",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.3312958,
+    "lng": 23.0281531,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Chilioara",
+      "amenity": "place_of_worship",
+      "denomination": "greek_catholic",
+      "name": "Biserica Greco-Catolică Adormirea Maicii Domnului",
+      "name:ro": "Biserica Greco-Catolică Adormirea Maicii Domnului",
+      "religion": "christian",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": "node-1842473037",
+    "name": "Biserica Ortodoxă Chilioara",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.3306521,
+    "lng": 23.0279271,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Chilioara",
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă Chilioara",
+      "name:ro": "Biserica Ortodoxă Chilioara",
+      "religion": "christian",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": "node-3528214203",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.0593224,
+    "lng": 22.9771606,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-4281460989",
+    "name": "Sc Auto Nova Srl",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 47.169336,
+    "lng": 23.0737789,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Zalău",
+      "addr:housenumber": "129",
+      "addr:street": "Strada C.Coposu",
+      "amenity": "school",
+      "name": "Sc Auto Nova Srl",
+      "name:ro": "Sc Auto Nova Srl",
+      "opening_hours": "Mo-Fr 08:00-22:00",
+      "phone": "0260632904"
+    }
+  },
+  {
+    "id": "node-4391415471",
+    "name": "Biserica Ortodoxă Sfântul Arhidiacon Ștefan",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.1706995,
+    "lng": 23.0674106,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă Sfântul Arhidiacon Ștefan",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-5164272322",
+    "name": "Harul",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.1886925,
+    "lng": 23.0694158,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Zalău",
+      "addr:street": "Strada Sărmaș",
+      "amenity": "place_of_worship",
+      "name": "Harul",
+      "name:ro": "Harul",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-5591673735",
+    "name": "Școala Gimnazială nr.1 Vîrșolț",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 47.2084345,
+    "lng": 22.9123263,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Vârșolț",
+      "addr:floor": "G",
+      "addr:housenumber": "64",
+      "addr:postcode": "457355",
+      "addr:street": "Strada Simleului",
+      "amenity": "school",
+      "check_date": "2024-12-18",
+      "level": "0",
+      "name": "Școala Gimnazială nr.1 Vîrșolț"
+    }
+  },
+  {
+    "id": "node-5591677221",
+    "name": "Biserica Reformată Vărsolți",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.207807,
+    "lng": 22.9145556,
+    "osmType": "node",
+    "tags": {
+      "addr:floor": "G",
+      "amenity": "place_of_worship",
+      "check_date": "2024-12-18",
+      "denomination": "reformed",
+      "internet_access": "no",
+      "level": "0",
+      "name": "Biserica Reformată Vărsolți",
+      "name:ro": "Biserică Reformată Vărsolț",
+      "payment:cards": "no",
+      "payment:credit_cards": "no",
+      "payment:debit_cards": "no",
+      "religion": "christian",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "id": "node-5591678059",
+    "name": "Biserica Ortodoxă",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.2082023,
+    "lng": 22.9147068,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Vârșolț",
+      "addr:postcode": "457355",
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-5591768355",
+    "name": "Dispensar",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 47.2084919,
+    "lng": 22.9127732,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Vârșolț",
+      "addr:postcode": "457355",
+      "amenity": "hospital",
+      "healthcare": "hospital",
+      "name": "Dispensar"
+    }
+  },
+  {
+    "id": "node-6071781556",
+    "name": "Biserica Reformată-Calvină Zalău",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.1800996,
+    "lng": 23.0572994,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Zalău",
+      "addr:postcode": "450006",
+      "addr:street": "Strada Andrei Șaguna",
+      "amenity": "place_of_worship",
+      "baby_feeding": "no",
+      "church": "monastery",
+      "denomination": "reformed",
+      "name": "Biserica Reformată-Calvină Zalău",
+      "name:hu": "Zilah- Belvárosi Református Templom",
+      "name:ro": "Biserica Reformată-Calvină Zalău",
+      "religion": "christian",
+      "wikidata": "Q7307477",
+      "wikipedia": "en:Reformed Church, Zalău"
+    }
+  },
+  {
+    "id": "node-7143493096",
+    "name": "Biserica Reformată",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.1330977,
+    "lng": 22.9006325,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Horoatu Crasnei",
+      "addr:postcode": "457185",
+      "addr:street": "Strada Principală",
+      "amenity": "place_of_worship",
+      "denomination": "reformed",
+      "name": "Biserica Reformată",
+      "name:hu": "Református templom",
+      "name:ro": "Biserica Reformată",
+      "phone": "+40255 560 582",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-7174906868",
+    "name": "Școala Gimnazială nr. 1 Aghireș",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 47.1631184,
+    "lng": 23.0154549,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Aghireș",
+      "addr:housenumber": "13",
+      "addr:postcode": "457246",
+      "addr:street": "Strada Școlii",
+      "amenity": "school",
+      "education": "school",
+      "name": "Școala Gimnazială nr. 1 Aghireș",
+      "name:ro": "Școala Gimnazială nr. 1 Aghireș"
+    }
+  },
+  {
+    "id": "node-7226573037",
+    "name": "Liceul Reformat \"Wesselényi\"",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 47.1889927,
+    "lng": 23.0582585,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Zalău",
+      "addr:housenumber": "56A",
+      "addr:postcode": "450090",
+      "addr:street": "Bulevardul Mihai Viteazul",
+      "amenity": "school",
+      "education": "school",
+      "name": "Liceul Reformat \"Wesselényi\"",
+      "name:ro": "Liceul Reformat \"Wesselényi\"",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-7839247946",
+    "name": "Biserica Sfântul Nicolae",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.1610471,
+    "lng": 23.0154346,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Aghireș",
+      "addr:floor": "G",
+      "addr:housenumber": "44",
+      "addr:postcode": "457246",
+      "air_conditioning": "no",
+      "amenity": "place_of_worship",
+      "baby_feeding": "no",
+      "check_date": "2023-11-09",
+      "denomination": "orthodox",
+      "name": "Biserica Sfântul Nicolae",
+      "name:ro": "Biserica Sfântul Nicolae",
+      "phone": "+40260659344",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-8574409280",
+    "name": "Biserica Reformatâ Meseșenii de Jos",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.1539956,
+    "lng": 22.9452747,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Meseșenii de Jos",
+      "addr:housenumber": "91",
+      "addr:street": "Strada Principală",
+      "amenity": "place_of_worship",
+      "denomination": "reformed",
+      "name": "Biserica Reformatâ Meseșenii de Jos",
+      "name:hu": "Magyarkeceli református templom",
+      "name:ro": "Biserica Reformatâ Meseșenii de Jos",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-8574409298",
+    "name": "Biserica Ortodoxă Meseșenii de Jos",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.1541615,
+    "lng": 22.9473248,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Meseșenii de Jos",
+      "addr:housenumber": "83",
+      "addr:street": "Strada Principală",
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă Meseșenii de Jos",
+      "name:ro": "Biserica Ortodoxă Meseșenii de Jos",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-8576429670",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.1307219,
+    "lng": 22.9791521,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Meseșenii de Sus",
+      "addr:postcode": "457248",
+      "amenity": "place_of_worship",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-8576429681",
+    "name": "Biserica Penticostala Meseseni",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.1272817,
+    "lng": 22.9863632,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Meseșenii de Sus",
+      "addr:postcode": "457248",
+      "amenity": "place_of_worship",
+      "denomination": "pentecostal",
+      "name": "Biserica Penticostala Meseseni",
+      "phone": "+40255560582",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-8576429701",
+    "name": "Biserica Penticostală Maghiară",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.1647968,
+    "lng": 23.0131678,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Aghireș",
+      "addr:postcode": "457246",
+      "amenity": "place_of_worship",
+      "denomination": "pentecostal",
+      "name": "Biserica Penticostală Maghiară",
+      "name:hu": "Egrespataki Magyar Pünkösdi Imaház",
+      "name:ro": "Biserica Penticostală Maghiară",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-8602773468",
+    "name": "Magic Burger",
+    "type": "gaming",
+    "subcategory": "Magic Burger",
+    "lat": 47.2251255,
+    "lng": 23.0163189,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Zalău",
+      "addr:housenumber": "92",
+      "addr:postcode": "450066",
+      "addr:street": "Bulevardul Mihai Viteazul",
+      "air_conditioning": "no",
+      "amenity": "fast_food",
+      "brand": "Magic Burger",
+      "cuisine": "burger;chicken",
+      "drive_through": "no",
+      "highchair": "no",
+      "level": "0",
+      "name": "Magic Burger",
+      "name:ro": "Magic Burger",
+      "opening_hours": "24/7",
+      "outdoor_seating": "yes",
+      "phone": "+40 756 014 141",
+      "ref:vatin": "RO43060413",
+      "takeaway": "yes",
+      "toilets": "yes",
+      "toilets:menstrual_products": "no",
+      "website": "http://magicburger.ro"
+    }
+  },
+  {
+    "id": "node-8602773487",
+    "name": "Biserica Adormirea Maicii Domnului Badon",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.2494375,
+    "lng": 22.9733089,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Badon",
+      "addr:housenumber": "26",
+      "addr:postcode": "457166",
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Adormirea Maicii Domnului Badon",
+      "name:ro": "Biserica Adormirea Maicii Domnului Badon",
+      "phone": "+40260629129",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-8602773489",
+    "name": "Biserica Baptistă Maghiară Borla",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.2802646,
+    "lng": 22.9383862,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Borla",
+      "addr:floor": "G",
+      "addr:housenumber": "4",
+      "addr:postcode": "457046",
+      "addr:street": "Strada Trandafirilor",
+      "amenity": "place_of_worship",
+      "check_date": "2025-03-22",
+      "denomination": "baptist",
+      "level": "0",
+      "name": "Biserica Baptistă Maghiară Borla",
+      "name:hu": "SzilágyBallai Magyar Baptista Imaház",
+      "name:ro": "Biserica Baptistă Maghiară Borla",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-8602773490",
+    "name": "Biserica Reformată Borla",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.2806659,
+    "lng": 22.9421793,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Borla",
+      "addr:floor": "G",
+      "addr:housenumber": "114",
+      "addr:postcode": "457046",
+      "amenity": "place_of_worship",
+      "check_date": "2023-11-28",
+      "denomination": "reformed",
+      "internet_access": "no",
+      "level": "0",
+      "name": "Biserica Reformată Borla",
+      "name:hu": "SzilágyBallai Református Templom",
+      "name:ro": "Biserica Reformată Borla",
+      "payment:cards": "no",
+      "payment:cash": "yes",
+      "payment:credit_cards": "no",
+      "payment:debit_cards": "no",
+      "phone": "+40745306599",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-8602773509",
+    "name": "Școala cu clasele I-VIII Simion Bărnuțiu",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 47.2980596,
+    "lng": 22.9187035,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Bocșa",
+      "addr:housenumber": "74",
+      "addr:postcode": "457045",
+      "amenity": "school",
+      "grades": "1-8",
+      "name": "Școala cu clasele I-VIII Simion Bărnuțiu",
+      "name:ro": "Școala cu clasele I-VIII Simion Bărnuțiu",
+      "phone": "+40260623518",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-8602773510",
+    "name": "Biserica Penticostala Bocsa",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.2954135,
+    "lng": 22.9194903,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Bocșa",
+      "addr:postcode": "457045",
+      "amenity": "place_of_worship",
+      "denomination": "pentecostal",
+      "name": "Biserica Penticostala Bocsa",
+      "name:ro": "Biserica Penticostala Bocsa",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-8602773511",
+    "name": "Biserica Baptista Bocsa",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.2931892,
+    "lng": 22.9167348,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Bocșa",
+      "addr:postcode": "457045",
+      "amenity": "place_of_worship",
+      "denomination": "baptist",
+      "name": "Biserica Baptista Bocsa",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-8605671634",
+    "name": "Biserica Baptista Maghiara Panic",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.2063631,
+    "lng": 22.9923963,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Panic",
+      "addr:housenumber": "85",
+      "addr:postcode": "457171",
+      "amenity": "place_of_worship",
+      "denomination": "baptist",
+      "name": "Biserica Baptista Maghiara Panic",
+      "name:hu": "Paniti Magyar Baptista Gyülekezet",
+      "name:ro": "Biserica Baptista Maghiara Panic",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-8628417769",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet",
+    "lat": 47.1814128,
+    "lng": 23.0557403,
+    "osmType": "node",
+    "tags": {
+      "addr:floor": "G",
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "check_date": "2024-05-31",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "level": "0",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-8628418232",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet",
+    "lat": 47.1919963,
+    "lng": 23.0598226,
+    "osmType": "node",
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "name:ro": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-8654553211",
+    "name": "Biserica Ortodoxă Hereclean",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.2467879,
+    "lng": 23.0128174,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Hereclean",
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă Hereclean",
+      "name:ro": "Biserica Ortodoxă Hereclean",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-8709552619",
+    "name": "Biserica Ortodoxă Sfântul Nicolae",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.1668611,
+    "lng": 23.0539643,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Zalău",
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă Sfântul Nicolae",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-8872481217",
+    "name": "Biserica Sfinții Împărați Constantin și Elena",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.1874778,
+    "lng": 22.9743888,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Recea",
+      "addr:postcode": "457357",
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Sfinții Împărați Constantin și Elena",
+      "name:ro": "Biserica Sfinții Împărați Constantin și Elena",
+      "phone": "+40740578935",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-8894132835",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.2510694,
+    "lng": 23.1729085,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Popeni",
+      "amenity": "place_of_worship",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-9007889421",
+    "name": "Biserica Baptistă Maghiară în Horoatu Crasnei",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.1259592,
+    "lng": 22.90912,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Horoatu Crasnei",
+      "addr:housenumber": "433",
+      "addr:postcode": "457185",
+      "air_conditioning": "no",
+      "amenity": "place_of_worship",
+      "baby_feeding": "no",
+      "denomination": "baptist",
+      "email": "info@kramaba.ro",
+      "name": "Biserica Baptistă Maghiară în Horoatu Crasnei",
+      "name:hu": "Karsznahorváti Magyar Baptista Imaház",
+      "name:ro": "Biserica Baptistă Maghiară în Horoatu Crasnei",
+      "phone": "+40735 500 001",
+      "religion": "christian",
+      "service_times": "Su 10:00-12:00",
+      "source": "local knowledge",
+      "website": "https://kramaba.ro"
+    }
+  },
+  {
+    "id": "node-9026956631",
+    "name": "Biserica Ortodoxă Coșeiu",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.3161756,
+    "lng": 22.9965517,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Coșeiu",
+      "amenity": "place_of_worship",
+      "denomination": "greek_orthodox",
+      "name": "Biserica Ortodoxă Coșeiu",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-9060337208",
+    "name": "Biserica Ortodoxă Guruslău",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.2737609,
+    "lng": 22.9843274,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Guruslău",
+      "addr:postcode": "457169",
+      "amenity": "place_of_worship",
+      "denomination": "greek_orthodox",
+      "name": "Biserica Ortodoxă Guruslău",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-9060365925",
+    "name": "Biserică Baptistă Maghiară Guruslău",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.2788644,
+    "lng": 22.9807286,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Guruslău",
+      "addr:housenumber": "63",
+      "addr:postcode": "457169",
+      "amenity": "place_of_worship",
+      "denomination": "baptist",
+      "name": "Biserică Baptistă Maghiară Guruslău",
+      "name:hu": "Magyargoroszlói Magyar Baptista Gyülekezet",
+      "name:ro": "Biserică Baptistă Maghiară Guruslău",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-9060365943",
+    "name": "Biserica Reformată Guruslău",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.2795342,
+    "lng": 22.97779,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Guruslău",
+      "addr:housenumber": "96",
+      "addr:postcode": "457169",
+      "amenity": "place_of_worship",
+      "denomination": "reformed",
+      "name": "Biserica Reformată Guruslău",
+      "name:hu": "Magyargoroszlói Református Templom",
+      "name:ro": "Biserica Reformată Guruslău",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-9113104563",
+    "name": "Biserica Creștină Baptistă Maghiară Vârșolți",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.2064651,
+    "lng": 22.9116797,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Vârșolț",
+      "addr:housenumber": "122",
+      "addr:postcode": "457355",
+      "addr:street": "Strada Florilor",
+      "amenity": "place_of_worship",
+      "denomination": "baptist",
+      "name": "Biserica Creștină Baptistă Maghiară Vârșolți",
+      "name:hu": "Varsolci Magyar Baptista Gyülekezet",
+      "name:ro": "Biserica Creștină Baptistă Maghiară Vârșolți",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-9285225598",
+    "name": "Biserica Baptista Română Aghireș",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.160683,
+    "lng": 23.0092,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Aghireș",
+      "addr:postcode": "457246",
+      "amenity": "place_of_worship",
+      "denomination": "baptist",
+      "name": "Biserica Baptista Română Aghireș",
+      "name:hu": "Egrespataki Román Baptista Gyülekezet",
+      "name:ro": "Biserica Baptista Română Aghireș",
+      "phone": "+40255560582",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-9308141289",
+    "name": "Biserica Baptistă Maghiară Sâncraiu Silvaniei",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.300335,
+    "lng": 23.13164,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Sâncraiu Silvaniei",
+      "addr:postcode": "457124",
+      "amenity": "place_of_worship",
+      "denomination": "baptist",
+      "name": "Biserica Baptistă Maghiară Sâncraiu Silvaniei",
+      "name:en": "Hungarian Baptist Sâncraiu Silvanei",
+      "name:hu": "Szilágyszentkirályi Magyar Baptista Imaház",
+      "name:ro": "Biserica Baptistă Maghiară Sâncraiu Silvaniei",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-9320551560",
+    "name": "Biserica Penticostala Popeni",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.249962,
+    "lng": 23.168207,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Popeni",
+      "addr:postcode": "457253",
+      "amenity": "place_of_worship",
+      "denomination": "pentecostal",
+      "name": "Biserica Penticostala Popeni",
+      "name:ro": "Biserica Penticostala Popeni",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-9717275106",
+    "name": "Biserica Adventista Buciumi",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.0432035,
+    "lng": 23.0462365,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Buciumi",
+      "amenity": "place_of_worship",
+      "denomination": "seventh_day_adventist",
+      "name": "Biserica Adventista Buciumi",
+      "name:ro": "Biserica Adventista Buciumi",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-9717281424",
+    "name": "Biserica Penticostală Buciumi",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.044848,
+    "lng": 23.04603,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Buciumi",
+      "amenity": "place_of_worship",
+      "name": "Biserica Penticostală Buciumi",
+      "name:ro": "Biserica Penticostală Buciumi",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-9836087419",
+    "name": "Biserică Reformată în Panic",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.2056546,
+    "lng": 22.9926491,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Panic",
+      "amenity": "place_of_worship",
+      "denomination": "reformed",
+      "name": "Biserică Reformată în Panic",
+      "name:ro": "Biserică Reformată în Panic",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-9840438907",
+    "name": "Biserica Reformată Dioşod",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.292666,
+    "lng": 23.0181583,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Dioșod",
+      "addr:postcode": "457168",
+      "amenity": "place_of_worship",
+      "denomination": "reformed",
+      "name": "Biserica Reformată Dioşod",
+      "name:hu": "Diósadi Református Templom",
+      "name:ro": "Biserica Reformată Dioşod",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-9881575002",
+    "name": "Clinica O.R.L. dr. Matioc",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 47.1863299,
+    "lng": 23.0530599,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Zalău",
+      "addr:housenumber": "48",
+      "addr:postcode": "450053",
+      "addr:street": "Strada Cloșca",
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "name": "Clinica O.R.L. dr. Matioc",
+      "name:ro": "Clinica O.R.L. dr. Matioc",
+      "phone": "0741194243",
+      "website": "https://clinicaorldrmatioc.business.site/?utm_source=gmb&utm_medium=referral"
+    }
+  },
+  {
+    "id": "node-9901192257",
+    "name": "Fără nume",
+    "type": "gaming",
+    "subcategory": "adult_gaming_centre",
+    "lat": 47.1921984,
+    "lng": 23.0612971,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Zalău",
+      "leisure": "adult_gaming_centre"
+    }
+  },
+  {
+    "id": "node-9931719311",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.0847935,
+    "lng": 23.1440064,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Păușa",
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-9931719320",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.0852735,
+    "lng": 23.1435519,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Păușa",
+      "amenity": "place_of_worship",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-10125403665",
+    "name": "Biserica Penticostala Aghires",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.1586072,
+    "lng": 23.0147815,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Aghireși",
+      "addr:housenumber": "4",
+      "addr:postcode": "457426",
+      "addr:street": "Strada Valea Fetindiei",
+      "amenity": "place_of_worship",
+      "denomination": "pentecostal",
+      "name": "Biserica Penticostala Aghires",
+      "name:ro": "Biserica Penticostala Aghires",
+      "phone": "+40255560582",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-10155074846",
+    "name": "Magic Burger",
+    "type": "gaming",
+    "subcategory": "Magic Burger",
+    "lat": 47.1995527,
+    "lng": 23.0564555,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Zalău",
+      "amenity": "fast_food",
+      "cuisine": "burger;shawarma;chicken",
+      "drive_through": "no",
+      "name": "Magic Burger",
+      "name:ro": "Magic Burger",
+      "ref:vatin": "46335195",
+      "website": "https://magicburger.ro"
+    }
+  },
+  {
+    "id": "node-11909557265",
+    "name": "Școala gimnazială „Simion Bărnuțiu” Zalău",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 47.1803583,
+    "lng": 23.0551495,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Zalău",
+      "amenity": "school",
+      "name": "Școala gimnazială „Simion Bărnuțiu” Zalău",
+      "name:ro": "Școala gimnazială „Simion Bărnuțiu” Zalău",
+      "phone": "+40260616959",
+      "website": "https://www.scsbarnutiuzalau.ro/"
+    }
+  },
+  {
+    "id": "node-12133317155",
+    "name": "Școala Gimnazială Nr. 1 Borla",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 47.2799266,
+    "lng": 22.9373844,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Borla",
+      "addr:housenumber": "239",
+      "addr:postcode": "457046",
+      "addr:street": "Strada Bujorilor",
+      "amenity": "school",
+      "email": "scoalaborla@yahoo.com",
+      "grades": "1-8",
+      "name": "Școala Gimnazială Nr. 1 Borla",
+      "name:hu": "Szilágyballai Általános Iskola",
+      "name:ro": "Școala Gimnazială Nr. 1 Borla",
+      "phone": "+40260623523",
+      "website": "https://www.scoalaborla.ro/?page_id=21"
+    }
+  },
+  {
+    "id": "node-13004725352",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.2024551,
+    "lng": 22.9914292,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Panic",
+      "amenity": "place_of_worship",
+      "denomination": "seventh_day_adventist",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-13017893022",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.229993,
+    "lng": 23.0416484,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Crișeni",
+      "addr:postcode": "457105",
+      "amenity": "place_of_worship",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-13070262412",
+    "name": "Policlinica Sfânta Vineri",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 47.1943004,
+    "lng": 23.0544987,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Zalău",
+      "addr:housenumber": "10A",
+      "addr:street": "Strada Sfânta Vineri",
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "name": "Policlinica Sfânta Vineri",
+      "name:ro": "Policlinica Sfânta Vineri",
+      "phone": "0260 616 177",
+      "website": "https://clinicamediserv.ro/"
+    }
+  },
+  {
+    "id": "node-13077473265",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.1860511,
+    "lng": 23.0801681,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Zalău",
+      "addr:street": "Strada Sărmaș",
+      "amenity": "place_of_worship",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-13251911155",
+    "name": "Sala Regatului Popeni",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.2489209,
+    "lng": 23.1732487,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Popeni",
+      "addr:housenumber": "158",
+      "addr:postcode": "457253",
+      "amenity": "place_of_worship",
+      "denomination": "jehovahs_witness",
+      "name": "Sala Regatului Popeni",
+      "name:ro": "Sala Regatului Popeni",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-13251911168",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.2478252,
+    "lng": 23.1623407,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Popeni",
+      "addr:housenumber": "79",
+      "amenity": "place_of_worship",
+      "denomination": "baptist",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-98109242",
+    "name": "Biserica Ortodoxă Coșeiu",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.3161622,
+    "lng": 22.9966272,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Coșeiu",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "greek_orthodox",
+      "name": "Biserica Ortodoxă Coșeiu",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-98117803",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.2737664,
+    "lng": 22.9843337,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Guruslău",
+      "addr:postcode": "457169",
+      "air_conditioning": "no",
+      "amenity": "place_of_worship",
+      "baby_feeding": "no",
+      "building": "yes",
+      "denomination": "greek_orthodox",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-98699035",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 47.2802736,
+    "lng": 22.9373554,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Borla",
+      "addr:floor": "G",
+      "addr:housenumber": "3",
+      "addr:postcode": "457046",
+      "addr:street": "Strada Bujorilor",
+      "amenity": "school",
+      "check_date": "2024-08-22",
+      "level": "0",
+      "old_addr:housenumber": "237"
+    }
+  },
+  {
+    "id": "way-98699044",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 47.2799123,
+    "lng": 22.9373436,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Borla",
+      "addr:floor": "G",
+      "addr:housenumber": "3",
+      "addr:postcode": "457046",
+      "addr:street": "Strada Bujorilor",
+      "amenity": "school",
+      "building": "school",
+      "check_date": "2024-08-22",
+      "fee": "no",
+      "level": "0",
+      "old_addr:housenumber": "239",
+      "religion": "none",
+      "source": "local knowledge"
+    }
+  },
+  {
+    "id": "way-98699046",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.2802752,
+    "lng": 22.9384593,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Borla",
+      "addr:housenumber": "4",
+      "addr:postcode": "457046",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "baptist",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-99170916",
+    "name": "Biserica Stârciu 2",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.0890785,
+    "lng": 22.9185367,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Stârciu",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Biserica Stârciu 2",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-99170931",
+    "name": "Biserica Stârciu 1",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.0878631,
+    "lng": 22.9190329,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Stârciu",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Biserica Stârciu 1",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-99174517",
+    "name": "Biserica Ortodoxă Hurez",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.071989,
+    "lng": 22.9129499,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Hurez",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă Hurez",
+      "name:ro": "Biserica Ortodoxă Hurez",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-99203541",
+    "name": "Biserica Ortodoxă Sângeorgiu de Meseș",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.0430253,
+    "lng": 23.0075423,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă Sângeorgiu de Meseș",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-99336070",
+    "name": "Biserica Șeredeiu",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.1100713,
+    "lng": 22.950521,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Șeredeiu",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Biserica Șeredeiu",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-99336078",
+    "name": "Biserica Meseșenii de Sus",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.1306761,
+    "lng": 22.9793952,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Biserica Meseșenii de Sus",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-99394337",
+    "name": "Biserica Ortodoxă Fetindia",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.1436449,
+    "lng": 23.0095227,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Fetindia",
+      "addr:postcode": "457247",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă Fetindia",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-99690144",
+    "name": "Biserica Sf Mihail și Gavril",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.1948879,
+    "lng": 22.9480162,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Recea",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Biserica Sf Mihail și Gavril",
+      "name:ro": "Biserica Sf Mihail și Gavril",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-99690173",
+    "name": "Biserica Ortodoxă Recea",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.1959742,
+    "lng": 22.9453672,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Recea",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă Recea",
+      "name:ro": "Biserica Ortodoxă Recea",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-218179114",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 47.0443422,
+    "lng": 23.0057593,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school"
+    }
+  },
+  {
+    "id": "way-218280340",
+    "name": "Școala Gimnazială \"Gheorghe Lazăr\"",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 47.1850949,
+    "lng": 23.0581893,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Zalău",
+      "addr:housenumber": "59A",
+      "amenity": "school",
+      "email": "scoalaghlazar@yahoo.com",
+      "name": "Școala Gimnazială \"Gheorghe Lazăr\"",
+      "name:ro": "Școala Gimnazială \"Gheorghe Lazăr\"",
+      "phone": "0040260615469",
+      "religion": "christian",
+      "website": "https://scoalaghlazar.ro/"
+    }
+  },
+  {
+    "id": "way-253695791",
+    "name": "Biserica Baptistă",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.1992232,
+    "lng": 23.0492795,
+    "osmType": "way",
+    "tags": {
+      "addr:street": "Strada General Dragalina",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "baptist",
+      "name": "Biserica Baptistă",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-254137839",
+    "name": "Școala Gimnazială \"Corneliu Coposu\"",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 47.2001063,
+    "lng": 23.0436142,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Zalău",
+      "amenity": "school",
+      "building": "school",
+      "name": "Școala Gimnazială \"Corneliu Coposu\"",
+      "name:hu": "8-as sz. Általános Iskola",
+      "name:ro": "Școala Gimnazială \"Corneliu Coposu\""
+    }
+  },
+  {
+    "id": "way-297313693",
+    "name": "Biserica greco-catolică Dumbrava",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.1998495,
+    "lng": 23.0482027,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Zalău",
+      "addr:housenumber": "1",
+      "addr:postcode": "450128",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Ioan Nechita",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "greek_catholic",
+      "name": "Biserica greco-catolică Dumbrava",
+      "name:ro": "Biserica greco-catolică Dumbrava",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-301243123",
+    "name": "Spitalul Județean Sălaj",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 47.1928425,
+    "lng": 23.0511013,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Zalău",
+      "alt_name:hu": "Nagy korház",
+      "amenity": "hospital",
+      "healthcare": "hospital",
+      "name": "Spitalul Județean Sălaj",
+      "name:hu": "Szilágy megyei Korház",
+      "name:ro": "Spitalul Județean Sălaj"
+    }
+  },
+  {
+    "id": "way-335372847",
+    "name": "Liceul de Artă \"Ioan Sima\"(Școala Nr. 7)",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 47.1911515,
+    "lng": 23.0483622,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Zalău",
+      "addr:street": "Strada Torentului",
+      "amenity": "school",
+      "building": "yes",
+      "name": "Liceul de Artă \"Ioan Sima\"(Școala Nr. 7)",
+      "name:hu": "Ioan Sima Művészeti iskola (7-es iskola)",
+      "name:ro": "Liceul de Artă \"Ioan Sima\"(Școala Nr. 7)"
+    }
+  },
+  {
+    "id": "way-375137194",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.2494265,
+    "lng": 22.9733484,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Badon",
+      "addr:housenumber": "26",
+      "addr:postcode": "457166",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "phone": "+40260629129",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-379713390",
+    "name": "Liceul Reformat \"Wesselényi\" Zalău",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 47.1889841,
+    "lng": 23.0582028,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Zalău",
+      "addr:street": "Bulevardul Mihai Viteazul",
+      "amenity": "school",
+      "denomination": "reformed",
+      "grades": "1-12",
+      "name": "Liceul Reformat \"Wesselényi\" Zalău",
+      "name:hu": "Zilahi Református \"Wesselényi\" Kollégium",
+      "name:ro": "Liceul Reformat \"Wesselényi\" Zalău",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-438498058",
+    "name": "Liceul pedagogic ”Gheorghe Șincai”",
+    "type": "school",
+    "subcategory": "college",
+    "lat": 47.1853675,
+    "lng": 23.0537856,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Zalău",
+      "amenity": "college",
+      "building": "school",
+      "name": "Liceul pedagogic ”Gheorghe Șincai”",
+      "name:ro": "Liceul pedagogic ”Gheorghe Șincai”",
+      "website": "https://pedagogiczalau.ro"
+    }
+  },
+  {
+    "id": "way-438498066",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 47.1855475,
+    "lng": 23.0519045,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Zalău",
+      "amenity": "kindergarten"
+    }
+  },
+  {
+    "id": "way-448975375",
+    "name": "Biserica Baptistă",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.1771043,
+    "lng": 23.0563522,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Zalău",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "baptist",
+      "name": "Biserica Baptistă",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-644589234",
+    "name": "Biserica Ortodoxă Sfinții Apostoli Petru și Pavel",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.0700204,
+    "lng": 23.0943908,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă Sfinții Apostoli Petru și Pavel",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-748634090",
+    "name": "Biserica Ortodoxă Vârșolț",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.2081953,
+    "lng": 22.9146762,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Vârșolț",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă Vârșolț",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-755837357",
+    "name": "Școala Gimnazială Porolissum",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 47.1898436,
+    "lng": 23.0632666,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Zalău",
+      "amenity": "school",
+      "name": "Școala Gimnazială Porolissum",
+      "name:ro": "Școala Gimnazială Porolissum",
+      "website": "https://scoalaporolissum.ro/"
+    }
+  },
+  {
+    "id": "way-761944771",
+    "name": "Biserica Baptistă Maghiară din Zalău",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.1755571,
+    "lng": 23.0549671,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Zalău",
+      "addr:housenumber": "2",
+      "addr:postcode": "450040",
+      "addr:street": "Strada Nicolae Bălcescu",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "baptist",
+      "name": "Biserica Baptistă Maghiară din Zalău",
+      "name:en": "Hungarian Baptist Church in Zalău",
+      "name:hu": "Zilahi Magyar Baptista Gyülekezet",
+      "name:ro": "Biserica Baptistă Maghiară din Zalău",
+      "phone": "0360 103 534",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-837844033",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 47.2082766,
+    "lng": 22.9124123,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Vârșolț",
+      "addr:floor": "G",
+      "addr:housenumber": "64",
+      "addr:postcode": "457355",
+      "addr:street": "Strada Simleului",
+      "amenity": "school",
+      "check_date": "2024-12-18",
+      "grades": "1-8",
+      "level": "0",
+      "phone": "004 0260 672 506",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-908885469",
+    "name": "Biserica Romano-Catolică Preasfânta Treime",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.1798502,
+    "lng": 23.0558831,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "roman_catholic",
+      "name": "Biserica Romano-Catolică Preasfânta Treime",
+      "name:hu": "Szentháromság-templom",
+      "name:ro": "Biserica Romano-Catolică Preasfânta Treime",
+      "religion": "christian",
+      "url:miserend": "https://miserend.hu/templom/4834"
+    }
+  },
+  {
+    "id": "way-921455033",
+    "name": "Biserica Romano-Catolică",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.194945,
+    "lng": 22.949714,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Recea",
+      "amenity": "place_of_worship",
+      "denomination": "roman_catholic",
+      "name": "Biserica Romano-Catolică",
+      "name:hu": "Magyarország Védasszonya-templom",
+      "name:ro": "Biserica Romano-Catolică",
+      "religion": "christian",
+      "url:miserend": "https://miserend.hu/templom/4826"
+    }
+  },
+  {
+    "id": "way-923700811",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.1539883,
+    "lng": 22.9452813,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Meseșenii de Jos",
+      "addr:housenumber": "91",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "reformed",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-923700812",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.1541503,
+    "lng": 22.9473409,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Meseșenii de Jos",
+      "addr:postcode": "457245",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-923910550",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.1273091,
+    "lng": 22.9863372,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-927192475",
+    "name": "Biserica Baptistă Bocșa",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.2931954,
+    "lng": 22.9167608,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Bocșa",
+      "addr:postcode": "457045",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "baptist",
+      "name": "Biserica Baptistă Bocșa",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-927192476",
+    "name": "Biserica Penticostală Bocșa",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.2953971,
+    "lng": 22.9195188,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Bocșa",
+      "addr:postcode": "457045",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "pentecostal",
+      "name": "Biserica Penticostală Bocșa",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-927575806",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.2063677,
+    "lng": 22.992399,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Panic",
+      "addr:housenumber": "85",
+      "addr:postcode": "457171",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "baptist",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-933760267",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.2467807,
+    "lng": 23.0128268,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Hereclean",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-935678991",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.2567907,
+    "lng": 23.0607325,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-958862976",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.1874653,
+    "lng": 22.9744028,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Recea",
+      "addr:postcode": "457357",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "phone": "+40740578935",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-960088529",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.2078122,
+    "lng": 22.9144466,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Vârșolț",
+      "addr:postcode": "457355",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "check_date": "2023-09-01",
+      "internet_access": "no",
+      "payment:cards": "no",
+      "payment:credit_cards": "no",
+      "payment:debit_cards": "no",
+      "religion": "christian",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "id": "way-974952051",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.320566,
+    "lng": 22.9050148,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Sălăjeni",
+      "air_conditioning": "no",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-975467136",
+    "name": "Biserica Reformată Dioşod",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.2926444,
+    "lng": 23.0181464,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Dioșod",
+      "addr:postcode": "457168",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "reformed",
+      "name": "Biserica Reformată Dioşod",
+      "name:ro": "Biserica Reformată Dioşod",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-979329781",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 47.2777674,
+    "lng": 22.9817072,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Guruslău",
+      "addr:postcode": "457169",
+      "amenity": "school"
+    }
+  },
+  {
+    "id": "way-979329790",
+    "name": "Biserica Baptista Maghiara Guruslău",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.2788726,
+    "lng": 22.9807915,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Guruslău",
+      "addr:housenumber": "63",
+      "addr:postcode": "457169",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "baptist",
+      "name": "Biserica Baptista Maghiara Guruslău",
+      "name:hu": "Magyargoroszlói Magyar Baptista Gyülekezet",
+      "name:ro": "Biserica Baptista Maghiara Guruslău",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-979329791",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.2795236,
+    "lng": 22.9778004,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Guruslău",
+      "addr:postcode": "457169",
+      "amenity": "place_of_worship",
+      "baby_feeding": "no",
+      "building": "yes",
+      "denomination": "reformed",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-980655613",
+    "name": "Capela Greco-Catolică Sfântul Mare Mucenic Gheorghe",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.1453812,
+    "lng": 23.1019438,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Ciumarna",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Capela Greco-Catolică Sfântul Mare Mucenic Gheorghe",
+      "name:ro": "Capela Greco-Catolică Sfântul Mare Mucenic Gheorghe",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-984930705",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.1280109,
+    "lng": 22.8987148,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Horoatu Crasnei",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-984930708",
+    "name": "Biserica greco-catolică Horoatu Crasnei",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.1278654,
+    "lng": 22.8982406,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Horoatu Crasnei",
+      "addr:housenumber": "105",
+      "addr:postcode": "457185",
+      "addr:street": "Strada Principală",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "greek_catholic",
+      "name": "Biserica greco-catolică Horoatu Crasnei",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-984939491",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.1294477,
+    "lng": 22.9059036,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Horoatu Crasnei",
+      "air_conditioning": "no",
+      "amenity": "place_of_worship",
+      "baby_feeding": "no",
+      "building": "yes",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1006392239",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.1606809,
+    "lng": 23.0091967,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Aghireș",
+      "addr:postcode": "457246",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "baptist",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1006459803",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.1961711,
+    "lng": 23.1407628,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Moigrad-Porolissum",
+      "addr:postcode": "457252",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1008822138",
+    "name": "Biserica Baptistă Maghiară Sâncraiu Silvaniei",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.3003183,
+    "lng": 23.1316602,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Sâncraiu Silvaniei",
+      "addr:postcode": "457124",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "baptist",
+      "name": "Biserica Baptistă Maghiară Sâncraiu Silvaniei",
+      "name:en": "Hungarian Baptist Sâncraiu Silvanei",
+      "name:hu": "Szilágyszentkirályi Magyar Baptista Imaház",
+      "name:ro": "Biserica Baptistă Maghiară Sâncraiu Silvaniei",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1008822141",
+    "name": "Biserica Reformată Sâncraiu Silvaniei",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.3005845,
+    "lng": 23.1333444,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Sâncraiu Silvaniei",
+      "addr:housenumber": "42",
+      "addr:postcode": "457124",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "reformed",
+      "name": "Biserica Reformată Sâncraiu Silvaniei",
+      "name:ro": "Biserica Reformată Sâncraiu Silvaniei",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1010182021",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.2499436,
+    "lng": 23.1682206,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Popeni",
+      "addr:postcode": "457253",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "pentecostal",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1013704817",
+    "name": "Biserica Greco-Catolică",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.177348,
+    "lng": 23.0556842,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Zalău",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "greek_catholic",
+      "name": "Biserica Greco-Catolică",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1042565617",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.2390363,
+    "lng": 23.0576133,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Crișeni",
+      "addr:postcode": "457105",
+      "amenity": "place_of_worship",
+      "baby_feeding": "no",
+      "building": "yes",
+      "denomination": "orthodox",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1042565623",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.2805838,
+    "lng": 22.9421873,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Borla",
+      "addr:postcode": "457046",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "reformed",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1057521517",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.0427892,
+    "lng": 23.0486944,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Buciumi",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1057521518",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 47.0427441,
+    "lng": 23.0477797,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Buciumi",
+      "amenity": "school"
+    }
+  },
+  {
+    "id": "way-1057521519",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 47.0428345,
+    "lng": 23.0475018,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Buciumi",
+      "amenity": "school"
+    }
+  },
+  {
+    "id": "way-1057521523",
+    "name": "Biserica Greco-Catolică Sfinţii Apostoli Petru şi Pavel Buciumi",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.0429283,
+    "lng": 23.0469035,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Buciumi",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "greek_catholic",
+      "name": "Biserica Greco-Catolică Sfinţii Apostoli Petru şi Pavel Buciumi",
+      "name:ro": "Biserica Greco-Catolică Sfinţii Apostoli Petru şi Pavel Buciumi",
+      "phone": "0260612538",
+      "religion": "christian",
+      "website": "https://www.eparhiaclujgherla.ro/parohii/buciumi/"
+    }
+  },
+  {
+    "id": "way-1057521527",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.0431954,
+    "lng": 23.0462446,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1057521530",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.044832,
+    "lng": 23.0460266,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Buciumi",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "pentecostal",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1063629445",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.0309249,
+    "lng": 23.075498,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Răstolț",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1063630230",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.0580017,
+    "lng": 23.0631145,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Bodia",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1071954033",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.2056524,
+    "lng": 22.9926397,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Panic",
+      "addr:postcode": "457171",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "reformed",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1072218700",
+    "name": "Biserica Reformată Verveghiu",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.3145123,
+    "lng": 23.1061994,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Verveghiu",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "reformed",
+      "name": "Biserica Reformată Verveghiu",
+      "name:hu": "Vérvölgyi Református Templom",
+      "name:ro": "Biserica Reformată Verveghiu",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1072222251",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.2897221,
+    "lng": 23.1368198,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Dobrin",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1077759928",
+    "name": "Biserica Baptista Golgota",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.1843952,
+    "lng": 23.0527939,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Zalău",
+      "addr:postcode": "457246",
+      "addr:street": "Strada Cloșca",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "baptist",
+      "name": "Biserica Baptista Golgota",
+      "name:ro": "Biserica Baptista Golgota",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1079431242",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.3266122,
+    "lng": 23.1098413,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Naimon",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "reformed",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1088362363",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 47.1784697,
+    "lng": 23.0537619,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school"
+    }
+  },
+  {
+    "id": "way-1280499022",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.3248653,
+    "lng": 23.2109488,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1423659547",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 47.1804674,
+    "lng": 23.0544187,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Zalău",
+      "amenity": "school"
+    }
+  },
+  {
+    "id": "way-1423674477",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.1886525,
+    "lng": 23.0694139,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1447217985",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.2974097,
+    "lng": 23.1829831,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1448057923",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.0593142,
+    "lng": 22.9771728,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "religion": "christian"
+    }
+  }
+]

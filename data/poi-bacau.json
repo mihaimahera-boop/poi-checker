@@ -7,8 +7,13 @@
     "lat": 46.5293879,
     "lng": 26.9149696,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Bacău",
+      "addr:housenumber": "8",
+      "addr:street": "Strada Condorilor",
+      "amenity": "college",
+      "name": "Colegiul Tehnic Henri Coandă"
+    }
   },
   {
     "id": "node-1827016437",
@@ -18,8 +23,13 @@
     "lat": 46.550913,
     "lng": 26.9124703,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Sfântul Gheorghe",
+      "religion": "christian",
+      "website": "sfantul-gheorghe.blogspot.ro"
+    }
   },
   {
     "id": "node-1855696225",
@@ -29,8 +39,14 @@
     "lat": 46.5531832,
     "lng": 26.9513717,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:housenumber": "28",
+      "addr:street": "Strada Preot Ioan Vladeanu",
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă Comuna Letea Veche ",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-4061045983",
@@ -40,8 +56,14 @@
     "lat": 46.555185,
     "lng": 26.9122466,
     "osmType": "node",
-    "brand": "Synevo",
-    "operator": null
+    "tags": {
+      "amenity": "clinic",
+      "branch": "Analize",
+      "brand": "Synevo",
+      "brand:wikidata": "Q85968400",
+      "healthcare": "laboratory",
+      "name": "Synevo"
+    }
   },
   {
     "id": "node-4324858590",
@@ -51,8 +73,19 @@
     "lat": 46.5537528,
     "lng": 26.9123956,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Bacău",
+      "addr:housenumber": "94",
+      "addr:postcode": "600019",
+      "addr:street": "Calea Mărășești",
+      "amenity": "doctors",
+      "email": "foxstanescu.dermacenter@gmail.com",
+      "healthcare": "centre",
+      "internet_access": "wlan",
+      "name": "dermacenter",
+      "phone": "0234576339",
+      "website": "https://dermacenter.ro/"
+    }
   },
   {
     "id": "node-4553314189",
@@ -62,8 +95,14 @@
     "lat": 46.5555752,
     "lng": 26.9150797,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:street": "Erou Ciprian Pintea nr. 21",
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "name": "Clinica Palade",
+      "phone": "0234 206 125",
+      "website": "http://www.clinicapalade.ro"
+    }
   },
   {
     "id": "node-4894085425",
@@ -73,239 +112,505 @@
     "lat": 46.5685707,
     "lng": 26.8976019,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:housenumber": "33",
+      "addr:street": "Strada Banatului",
+      "amenity": "place_of_worship",
+      "check_date": "2023-10-23",
+      "denomination": "jehovahs_witness",
+      "name": "Sala Regatului a Martorilor lui Iehova",
+      "name:en": "România",
+      "name:ro": "Sala Regatului a Martorilor lui Iehova",
+      "religion": "christian",
+      "website": "https://www.jw.org/ro/"
+    }
   },
   {
     "id": "node-8628401593",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet",
     "lat": 46.5543775,
     "lng": 26.9197721,
     "osmType": "node",
-    "brand": "Superbet",
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-8628417536",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet",
     "lat": 46.5327017,
     "lng": 26.9211549,
     "osmType": "node",
-    "brand": "Superbet",
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "addr:city": "Bacău",
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-8628417540",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet Betting & Gaming SA",
     "lat": 46.5826909,
     "lng": 26.9101149,
     "osmType": "node",
-    "brand": null,
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-8628417579",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet",
     "lat": 46.5556025,
     "lng": 26.9130152,
     "osmType": "node",
-    "brand": "Superbet",
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-8628417590",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet",
     "lat": 46.566639,
     "lng": 26.895486,
     "osmType": "node",
-    "brand": "Superbet",
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-8628417592",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet",
     "lat": 46.5519585,
     "lng": 26.9109893,
     "osmType": "node",
-    "brand": "Superbet",
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-8628417598",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet",
     "lat": 46.5502891,
     "lng": 26.9212112,
     "osmType": "node",
-    "brand": "Superbet",
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "addr:city": "Bacău",
+      "addr:street": "Strada Milcov",
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-8628417637",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet",
     "lat": 46.5642976,
     "lng": 26.9167251,
     "osmType": "node",
-    "brand": "Superbet",
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "addr:city": "Bacău",
+      "addr:street": "Strada 9 Mai",
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-8628417720",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet",
     "lat": 46.5718095,
     "lng": 26.8964893,
     "osmType": "node",
-    "brand": "Superbet",
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-8628417749",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet",
     "lat": 46.5734293,
     "lng": 26.9080724,
     "osmType": "node",
-    "brand": "Superbet",
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-8628417810",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet",
     "lat": 46.549734,
     "lng": 26.91409,
     "osmType": "node",
-    "brand": "Superbet",
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "addr:city": "Bacăuq",
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-8628417820",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet",
     "lat": 46.567598,
     "lng": 26.913173,
     "osmType": "node",
-    "brand": "Superbet",
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-8628417821",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet",
     "lat": 46.5790697,
     "lng": 26.9135142,
     "osmType": "node",
-    "brand": "Superbet",
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-8628417857",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet",
     "lat": 46.568094,
     "lng": 26.9017035,
     "osmType": "node",
-    "brand": "Superbet",
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-8628417876",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet",
     "lat": 46.575147,
     "lng": 26.909428,
     "osmType": "node",
-    "brand": "Superbet",
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-8628418011",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet",
     "lat": 46.536709,
     "lng": 26.918451,
     "osmType": "node",
-    "brand": "Superbet",
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-8628418014",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet",
     "lat": 46.561136,
     "lng": 26.91755,
     "osmType": "node",
-    "brand": "Superbet",
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-8628418374",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet",
     "lat": 46.5720935,
     "lng": 26.8974656,
     "osmType": "node",
-    "brand": "Superbet",
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-8628418378",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet",
     "lat": 46.547539,
     "lng": 26.914202,
     "osmType": "node",
-    "brand": "Superbet",
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-8628418399",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet",
     "lat": 46.568409,
     "lng": 26.912722,
     "osmType": "node",
-    "brand": "Superbet",
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-8733336066",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet",
     "lat": 46.573558,
     "lng": 26.914856,
     "osmType": "node",
-    "brand": "Superbet",
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-9337236321",
@@ -315,8 +620,10 @@
     "lat": 46.53244,
     "lng": 26.9173848,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "college",
+      "name": "Liceul Tehnologic Dumitru Mangeron"
+    }
   },
   {
     "id": "node-9337236322",
@@ -326,8 +633,10 @@
     "lat": 46.5332667,
     "lng": 26.9172088,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "college",
+      "name": "Colegiul Tehnologic Grigore Antipa"
+    }
   },
   {
     "id": "node-10167110670",
@@ -337,8 +646,18 @@
     "lat": 46.5729289,
     "lng": 26.9155744,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Bacău",
+      "addr:housenumber": "29",
+      "addr:postcode": "600191",
+      "addr:street": "Strada Vadul Bistriței",
+      "amenity": "place_of_worship",
+      "denomination": "mormon",
+      "name": "Biserica lui Isus Hristos a Sfintilor din Zilele din Urma",
+      "name:en": "Church of Jesus Christ of Latter-day Saints",
+      "religion": "christian",
+      "service_times": "Sun 10:00 am Sacrament meets first"
+    }
   },
   {
     "id": "node-10585968988",
@@ -348,8 +667,13 @@
     "lat": 46.5616045,
     "lng": 26.9134943,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Bacău",
+      "addr:street": "Strada 9 Mai",
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "name": "Clinica Luxor"
+    }
   },
   {
     "id": "node-10585968989",
@@ -359,8 +683,63 @@
     "lat": 46.5619919,
     "lng": 26.9138622,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Bacău",
+      "addr:street": "Strada 9 Mai",
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "name": "Audionova"
+    }
+  },
+  {
+    "id": "node-10587201397",
+    "name": "Maxbet",
+    "type": "gaming",
+    "subcategory": "Max Bet SRL",
+    "lat": 46.5673668,
+    "lng": 26.9115194,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Bacău",
+      "addr:street": "Strada Nicolae Bălcescu",
+      "amenity": "casino",
+      "email": "office@maxbetromania.com",
+      "name": "Maxbet",
+      "opening_hours": "24/7",
+      "operator": "Max Bet SRL",
+      "phone": "+40 21 323 2174;+40 31 405 2949",
+      "website": "https://maxbetgroup.ro"
+    }
+  },
+  {
+    "id": "node-10587217300",
+    "name": "Winner",
+    "type": "betting",
+    "subcategory": "Winner",
+    "lat": 46.5629309,
+    "lng": 26.9126404,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Bacău",
+      "addr:street": "Calea Mărășești",
+      "name": "Winner",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-10607650190",
+    "name": "Winner",
+    "type": "betting",
+    "subcategory": "Winner",
+    "lat": 46.5340252,
+    "lng": 26.9186878,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Bacău",
+      "addr:street": "Calea Republicii",
+      "name": "Winner",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-10607650194",
@@ -370,8 +749,14 @@
     "lat": 46.5344972,
     "lng": 26.9191318,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Bacău",
+      "addr:street": "Calea Republicii",
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "healthcare:speciality": "dentist;radiology",
+      "name": "Clinică stomatologica - radiologie dentară"
+    }
   },
   {
     "id": "node-10607660205",
@@ -381,8 +766,45 @@
     "lat": 46.5323631,
     "lng": 26.9198131,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Bacău",
+      "addr:street": "Calea Republicii",
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "name": "Clinica OncoFort"
+    }
+  },
+  {
+    "id": "node-10607660216",
+    "name": "Fortuna",
+    "type": "betting",
+    "subcategory": "Fortuna",
+    "lat": 46.5331663,
+    "lng": 26.919573,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Bacău",
+      "addr:street": "Calea Republicii",
+      "brand": "Fortuna",
+      "brand:wikidata": "Q25857973",
+      "name": "Fortuna",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-10607660220",
+    "name": "Magnum",
+    "type": "gaming",
+    "subcategory": "Magnum",
+    "lat": 46.5332931,
+    "lng": 26.9195669,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Bacău",
+      "addr:street": "Calea Republicii",
+      "name": "Magnum",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-11093453394",
@@ -392,8 +814,10 @@
     "lat": 46.5730045,
     "lng": 26.8978463,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "name": "Școala Ion Creangă"
+    }
   },
   {
     "id": "node-11099420827",
@@ -403,8 +827,91 @@
     "lat": 46.5341559,
     "lng": 26.9275584,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Biserica Ortodoxă Sfinții Voievozi",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-11825001237",
+    "name": "Maxbet",
+    "type": "gaming",
+    "subcategory": "Max Bet SRL",
+    "lat": 46.5628918,
+    "lng": 26.9219006,
+    "osmType": "node",
+    "tags": {
+      "alt_name": "Maxbet",
+      "amenity": "casino",
+      "contact:email": "office@maxbetromania.com",
+      "contact:phone": "+40 21 323 2174;+40 31 405 2949",
+      "contact:website": "https://maxbetgroup.ro",
+      "name": "Maxbet",
+      "name:ro": "MaxBet",
+      "opening_hours": "24/7",
+      "operator": "Max Bet SRL"
+    }
+  },
+  {
+    "id": "node-11825001240",
+    "name": "Maxbet",
+    "type": "gaming",
+    "subcategory": "Max Bet SRL",
+    "lat": 46.5557101,
+    "lng": 26.9127757,
+    "osmType": "node",
+    "tags": {
+      "alt_name": "Maxbet",
+      "amenity": "casino",
+      "contact:email": "office@maxbetromania.com",
+      "contact:phone": "+40 21 323 2174;+40 31 405 2949",
+      "contact:website": "https://maxbetgroup.ro",
+      "name": "Maxbet",
+      "name:ro": "MaxBet",
+      "opening_hours": "24/7",
+      "operator": "Max Bet SRL"
+    }
+  },
+  {
+    "id": "node-11825001244",
+    "name": "Maxbet",
+    "type": "gaming",
+    "subcategory": "Max Bet SRL",
+    "lat": 46.5805856,
+    "lng": 26.9158306,
+    "osmType": "node",
+    "tags": {
+      "alt_name": "Maxbet",
+      "amenity": "casino",
+      "contact:email": "office@maxbetromania.com",
+      "contact:phone": "+40 21 323 2174;+40 31 405 2949",
+      "contact:website": "https://maxbetgroup.ro",
+      "name": "Maxbet",
+      "name:ro": "MaxBet",
+      "opening_hours": "24/7",
+      "operator": "Max Bet SRL"
+    }
+  },
+  {
+    "id": "node-12840214263",
+    "name": "Las Vegas Games",
+    "type": "gaming",
+    "subcategory": "Las Vegas Games",
+    "lat": 46.5686426,
+    "lng": 26.915574,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Bacău",
+      "addr:housenumber": "23",
+      "addr:postcode": "600026",
+      "addr:street": "Strada 9 Mai",
+      "amenity": "casino",
+      "name": "Las Vegas Games",
+      "opening_hours": "24/7",
+      "phone": "0770974786",
+      "website": "https://www.lasvegas-games.ro/"
+    }
   },
   {
     "id": "node-12857256183",
@@ -414,8 +921,44 @@
     "lat": 46.5677281,
     "lng": 26.9095444,
     "osmType": "node",
-    "brand": null,
-    "operator": "Directia de Sanatate publica Bacau"
+    "tags": {
+      "addr:city": "Bacău",
+      "addr:housenumber": "5",
+      "addr:street": "Strada Războieni",
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "name": "Policlinica cu plată Bacău",
+      "operator": "Directia de Sanatate publica Bacau",
+      "operator:type": "public"
+    }
+  },
+  {
+    "id": "node-12886520278",
+    "name": "Būllion Games",
+    "type": "gaming",
+    "subcategory": "Būllion Games",
+    "lat": 46.568954,
+    "lng": 26.914709,
+    "osmType": "node",
+    "tags": {
+      "leisure": "adult_gaming_centre",
+      "name": "Būllion Games"
+    }
+  },
+  {
+    "id": "node-13057907488",
+    "name": "Las Vegas",
+    "type": "betting",
+    "subcategory": "Las Vegas",
+    "lat": 46.56885,
+    "lng": 26.9142764,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Bacău",
+      "addr:street": "Strada Pieții",
+      "amenity": "gambling",
+      "name": "Las Vegas"
+    }
   },
   {
     "id": "way-119196337",
@@ -425,8 +968,13 @@
     "lat": 46.5461483,
     "lng": 26.9231821,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Biserica și Cimitirul Ortodox",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-119323423",
@@ -436,8 +984,18 @@
     "lat": 46.575187,
     "lng": 26.8979945,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Bacău",
+      "addr:housenumber": "40",
+      "addr:postcode": "600245",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Bradului",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica Ortodoxă",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-119323485",
@@ -447,8 +1005,18 @@
     "lat": 46.5754093,
     "lng": 26.8978658,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Bacău",
+      "addr:housenumber": "40",
+      "addr:postcode": "600245",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Bradului",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica Ortodoxă „Învierea Domnului”",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-119323547",
@@ -458,8 +1026,17 @@
     "lat": 46.5778956,
     "lng": 26.9005037,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Bacău",
+      "addr:housenumber": "54",
+      "addr:street": "Strada Nordului",
+      "alt_name": "Biserica pe stil vechi „Sfântul Ilie” Bacău",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "old_calendar_romanian_orthodox",
+      "name": "Biserica stilistă „Sfântul Ilie” Bacău",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-164832003",
@@ -469,8 +1046,20 @@
     "lat": 46.5701238,
     "lng": 26.9107209,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:postcode": "600192",
+      "addr:street": "Bulevardul Unirii",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "romanian_orthodox",
+      "loc_name": "Catedrala „Înălțarea Domnului\"",
+      "name": "Biserica „Înălțarea Domnului\"",
+      "name:en": "Chuch of the Lord's Ascension",
+      "name:ro": "Biserica „Înălțarea Domnului\" din Bacău",
+      "religion": "christian",
+      "wikidata": "Q18538764",
+      "wikipedia": "ro:Biserica Înălțarea Domnului din Bacău"
+    }
   },
   {
     "id": "way-171598678",
@@ -480,8 +1069,15 @@
     "lat": 46.5507282,
     "lng": 26.9151434,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Bacău",
+      "addr:housenumber": "2",
+      "addr:postcode": "600099",
+      "addr:street": "Strada Pictor Andreescu",
+      "amenity": "school",
+      "name": "Școala Gimnazială nr. 10",
+      "website": "https://scoalazece.ro/"
+    }
   },
   {
     "id": "way-171598680",
@@ -491,8 +1087,10 @@
     "lat": 46.5504706,
     "lng": 26.9152227,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "building": "yes"
+    }
   },
   {
     "id": "way-171712100",
@@ -502,8 +1100,13 @@
     "lat": 46.5509165,
     "lng": 26.9124697,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Biserica Sf. Gheorghe",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-171749635",
@@ -513,8 +1116,22 @@
     "lat": 46.5556891,
     "lng": 26.9169356,
     "osmType": "way",
-    "brand": null,
-    "operator": "Central Plaza"
+    "tags": {
+      "addr:city": "Bacău",
+      "addr:housenumber": "29",
+      "addr:postcode": "600112",
+      "addr:street": "Strada Erou Ciprian Pintea",
+      "amenity": "hospital",
+      "building": "yes",
+      "building:levels": "2",
+      "email": "office@centralplaza.eu",
+      "healthcare": "hospital",
+      "name": "Central Plaza",
+      "operator": "Central Plaza",
+      "operator:type": "private",
+      "phone": "+40757051531",
+      "website": "https://www.centralplaza.eu/"
+    }
   },
   {
     "id": "way-171879507",
@@ -524,8 +1141,20 @@
     "lat": 46.5660886,
     "lng": 26.9148807,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Bacău",
+      "addr:housenumber": "2a",
+      "addr:postcode": "600002",
+      "addr:street": "Strada Ana Ipătescu",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "roman_catholic",
+      "name": "Biserica Sfântul Nicolae",
+      "name:en": "The Catholic Church of Saint Nicolas",
+      "religion": "christian",
+      "wikidata": "Q61085673",
+      "wikipedia": "ro:Biserica romano-catolică Sfântul Nicolae din Bacău"
+    }
   },
   {
     "id": "way-171879508",
@@ -535,8 +1164,16 @@
     "lat": 46.5656041,
     "lng": 26.9147682,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "roman_catholic",
+      "name": "Biserica Sfinții Petru și Paul",
+      "name:en": "The Roman Catholic Church of Saints Peter and Paul",
+      "religion": "christian",
+      "wikidata": "Q12721875",
+      "wikipedia": "ro:Biserica romano-catolică Sfinții Petru și Paul din Bacău"
+    }
   },
   {
     "id": "way-172028541",
@@ -546,8 +1183,20 @@
     "lat": 46.5629096,
     "lng": 26.9167434,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Bacău",
+      "addr:housenumber": "48",
+      "addr:street": "Strada 9 Mai",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "romanian_orthodox",
+      "heritage": "2",
+      "heritage:operator": "lmi",
+      "name": "Biserica „Precista”, „Adormirea Maicii Domnului”",
+      "ref:RO:lmi": "BC-II-m-A-00757.01",
+      "religion": "christian",
+      "start_date": "1491"
+    }
   },
   {
     "id": "way-172169733",
@@ -557,8 +1206,13 @@
     "lat": 46.5596626,
     "lng": 26.909669,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "orthodox",
+      "name": "Biserica Sfinților Apostoli Petru și Pavel",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-172180628",
@@ -568,8 +1222,21 @@
     "lat": 46.5568432,
     "lng": 26.9087519,
     "osmType": "way",
-    "brand": null,
-    "operator": "Ministerul Educației"
+    "tags": {
+      "addr:city": "Bacău",
+      "addr:housenumber": "6",
+      "addr:postcode": "600114",
+      "addr:street": "Strada Spiru Haret",
+      "amenity": "school",
+      "grades": "0-12",
+      "name": "Colegiul Național Pedagogic „Ștefan cel Mare\" Bacău",
+      "name:en": "\"Ștefan cel Mare\" Bacău Pedagogical National College",
+      "operator": "Ministerul Educației",
+      "operator:type": "government",
+      "operator:wikidata": "Q1583546",
+      "phone": "+40743172787",
+      "website": "https://pedagogicbacau.ro/"
+    }
   },
   {
     "id": "way-172204930",
@@ -579,8 +1246,12 @@
     "lat": 46.5577713,
     "lng": 26.9098779,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "hospital",
+      "healthcare": "hospital",
+      "name": "Spitalului Județean de Urgență Bacău",
+      "name:en": "Bacău County Emergency Hospital"
+    }
   },
   {
     "id": "way-172380102",
@@ -590,8 +1261,18 @@
     "lat": 46.5661412,
     "lng": 26.9017566,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Bacău",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "heritage": "2",
+      "heritage:operator": "lmi",
+      "name": "Biserica \"Sfinții Împărați Constantin și Elena\"",
+      "ref:RO:lmi": "BC-II-m-B-00778",
+      "religion": "christian",
+      "start_date": "1845"
+    }
   },
   {
     "id": "way-172671209",
@@ -601,8 +1282,13 @@
     "lat": 46.5860504,
     "lng": 26.9094718,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "roman_catholic",
+      "name": "Biserica Romano Catolică „Fericitul Ieremia”",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-172995674",
@@ -612,8 +1298,14 @@
     "lat": 46.5587615,
     "lng": 26.9199538,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Bacău",
+      "addr:housenumber": "67",
+      "addr:street": "Strada Miron Costin",
+      "amenity": "school",
+      "name": "Școala cu clasele I-VIII \"Miron Costin\"",
+      "old_name": "Școala Generale nr. 28 \"Miron Costin\""
+    }
   },
   {
     "id": "way-173495756",
@@ -623,8 +1315,13 @@
     "lat": 46.5841415,
     "lng": 26.9076074,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "orthodox",
+      "name": "Biserica\"Acoperământul Maicii Domnului\"",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-173558090",
@@ -634,8 +1331,15 @@
     "lat": 46.5810277,
     "lng": 26.912423,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:housenumber": "27",
+      "addr:street": "Strada Ștefan cel Mare",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "orthodox",
+      "name": "Biserica Sfinții Trei Ierarhi",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-173771402",
@@ -645,8 +1349,14 @@
     "lat": 46.5818542,
     "lng": 26.905784,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:housenumber": "1",
+      "addr:postcode": "600372",
+      "addr:street": "Strada Venus",
+      "amenity": "school",
+      "name": "Școala Gimnazială Mihai Sadoveanu",
+      "website": "http://www.scoalasadoveanubacau.ro/"
+    }
   },
   {
     "id": "way-173792677",
@@ -656,8 +1366,15 @@
     "lat": 46.5774702,
     "lng": 26.9106232,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Bacău",
+      "addr:housenumber": "7",
+      "addr:street": "Strada Logofăt Tăutu",
+      "amenity": "school",
+      "name": "Școala Gimnazială \"Mihai Drăgan\"",
+      "old_name": "Școala Generală Nr. 2 \"Mihai Drăgan\"",
+      "website": "http://scmihaidraganbc.3x.ro/ROM/Inceput.htm"
+    }
   },
   {
     "id": "way-173792866",
@@ -667,8 +1384,14 @@
     "lat": 46.5796541,
     "lng": 26.908532,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Bacău",
+      "addr:housename": "Strada Prieteniei",
+      "addr:housenumber": "73",
+      "amenity": "school",
+      "name": "Școala Gimnazială Georgeta Mircea Cancicov",
+      "old_name": "Școala Generală Nr. 4 \"Georgeta Mircea Cancicov\""
+    }
   },
   {
     "id": "way-174818775",
@@ -678,8 +1401,18 @@
     "lat": 46.5296487,
     "lng": 26.9210998,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Bacău",
+      "addr:housenumber": "45",
+      "addr:postcode": "600303",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Calea Republicii",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "roman_catholic",
+      "name": "Parohia Romano-Catolică \"Sfanta Cruce\"",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-174871602",
@@ -689,8 +1422,16 @@
     "lat": 46.5351223,
     "lng": 26.9155591,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Bacău",
+      "addr:housenumber": "1",
+      "addr:postcode": "600302",
+      "addr:street": "Strada Henri Coandă",
+      "amenity": "school",
+      "name": "Școala Generala cu Clasele I-VIII Nr. 15 \"Dr. Alexandru Safran\"",
+      "old_name": "Școala Generala nr. 15 \"Dr. Alexandru Safran\"",
+      "website": "http://www.scoala-alexandru-safran.org/"
+    }
   },
   {
     "id": "way-174896939",
@@ -700,8 +1441,18 @@
     "lat": 46.5403201,
     "lng": 26.9165602,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Bacău",
+      "addr:housenumber": "21",
+      "addr:postcode": "600339",
+      "addr:street": "Strada Republicii",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Biserica Sfântul Dumitru",
+      "religion": "christian",
+      "website": "http://pbs.bacaul.ro/biserici/sfantul-dumitru-bacau/"
+    }
   },
   {
     "id": "way-175018577",
@@ -711,8 +1462,9 @@
     "lat": 46.5534526,
     "lng": 26.9450014,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school"
+    }
   },
   {
     "id": "way-175276149",
@@ -722,8 +1474,16 @@
     "lat": 46.5757276,
     "lng": 26.9322739,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:housenumber": "67",
+      "addr:postcode": "600377",
+      "addr:street": "Calea Tecuciului",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "orthodox",
+      "name": "Biserica Șerbănești Nouă",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-175376927",
@@ -733,8 +1493,13 @@
     "lat": 46.5854926,
     "lng": 26.9393102,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă Șerbănești",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-177080931",
@@ -744,8 +1509,13 @@
     "lat": 46.559315,
     "lng": 26.9220913,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Bacău",
+      "addr:postcode": "600156",
+      "addr:street": "Strada Viorelelor",
+      "amenity": "school",
+      "name": "Grădiniţa Program Prelungit NR. 23"
+    }
   },
   {
     "id": "way-213109874",
@@ -755,8 +1525,13 @@
     "lat": 46.6189229,
     "lng": 26.9201634,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "catholic",
+      "name": "Biserica Catolică",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-213143802",
@@ -766,8 +1541,13 @@
     "lat": 46.6196266,
     "lng": 26.9345251,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica Săucești",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-270728215",
@@ -777,8 +1557,18 @@
     "lat": 46.5950969,
     "lng": 26.9081952,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Bacău",
+      "addr:housenumber": "89",
+      "addr:postcode": "600352",
+      "addr:street": "Calea Moldovei",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica Sf. Dumitru",
+      "religion": "christian",
+      "source": "legea 544/2001"
+    }
   },
   {
     "id": "way-270759792",
@@ -788,8 +1578,19 @@
     "lat": 46.5868169,
     "lng": 26.9339144,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Bacău",
+      "addr:housenumber": "9-11",
+      "addr:postcode": "600380",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Siretului",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "seventh_day_adventist",
+      "name": "Biserica Adventistă Bacău Șerbănești",
+      "religion": "christian",
+      "source": "legea 544/2001"
+    }
   },
   {
     "id": "way-294658232",
@@ -799,8 +1600,13 @@
     "lat": 46.5239983,
     "lng": 26.9214484,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "orthodox",
+      "name": "Biserica Sf. Ștefan cel Mare",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-323031051",
@@ -810,8 +1616,13 @@
     "lat": 46.5341778,
     "lng": 26.9276619,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Biserica Letea",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-323614508",
@@ -821,8 +1632,18 @@
     "lat": 46.5677192,
     "lng": 26.9013047,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Bacău",
+      "addr:housenumber": "23",
+      "addr:postcode": "600272",
+      "addr:street": "Strada Energiei",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "seventh_day_adventist",
+      "name": "Biserica Adventistă de Ziua a Șaptea",
+      "religion": "christian",
+      "website": "https://bacaucentru.adventist.ro/"
+    }
   },
   {
     "id": "way-323655073",
@@ -832,8 +1653,13 @@
     "lat": 46.5669603,
     "lng": 26.9181096,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Biserica Mică",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-323655074",
@@ -843,8 +1669,15 @@
     "lat": 46.5668587,
     "lng": 26.9181479,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Bacău",
+      "addr:street": "Strada Florilor",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Biserica Buna Vestire",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-323773152",
@@ -854,8 +1687,16 @@
     "lat": 46.5673937,
     "lng": 26.9089734,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Bacău",
+      "addr:postcode": "600033",
+      "addr:street": "Strada Războieni",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Biserica Sfîntul Ioan",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-323944178",
@@ -865,8 +1706,16 @@
     "lat": 46.5229591,
     "lng": 26.9225758,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Bacău",
+      "addr:housenumber": "107",
+      "addr:street": "Bulevardul Republicii",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "seventh_day_adventist",
+      "name": "Biserica Adventistă Bacău Speranța",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-850168587",
@@ -876,8 +1725,13 @@
     "lat": 46.5344855,
     "lng": 26.921318,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Bacău",
+      "addr:street": "Strada Bicaz",
+      "amenity": "school",
+      "grades": "0-12",
+      "name": "Școala Gimnazială \"Octavian Voicu\""
+    }
   },
   {
     "id": "way-850168589",
@@ -887,8 +1741,13 @@
     "lat": 46.5373757,
     "lng": 26.9205373,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă Nașterea Maicii Domnului",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1012092501",
@@ -898,8 +1757,9 @@
     "lat": 46.5295474,
     "lng": 26.9149723,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "college"
+    }
   },
   {
     "id": "way-1012346872",
@@ -909,8 +1769,9 @@
     "lat": 46.5388389,
     "lng": 26.9199414,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school"
+    }
   },
   {
     "id": "way-1012669690",
@@ -920,8 +1781,11 @@
     "lat": 46.5416355,
     "lng": 26.9213142,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "kindergarten",
+      "building": "yes",
+      "name": "Grădinița cu Program Prelungit „Letea”"
+    }
   },
   {
     "id": "way-1012669715",
@@ -931,8 +1795,19 @@
     "lat": 46.5509421,
     "lng": 26.9102921,
     "osmType": "way",
-    "brand": null,
-    "operator": "Ministerul Educației"
+    "tags": {
+      "addr:city": "Bacău",
+      "addr:housenumber": "12",
+      "addr:postcode": "600085",
+      "addr:street": "Strada Carpați",
+      "amenity": "school",
+      "grades": "0-8",
+      "name": "Școala gimnaziala \"George Bacovia\"",
+      "operator": "Ministerul Educației",
+      "operator:type": "government",
+      "operator:wikidata": "Q1583546",
+      "phone": "0234570219"
+    }
   },
   {
     "id": "way-1012669719",
@@ -942,8 +1817,17 @@
     "lat": 46.5517228,
     "lng": 26.9098628,
     "osmType": "way",
-    "brand": null,
-    "operator": "Ministerul Educației"
+    "tags": {
+      "addr:city": "Bacău",
+      "addr:housenumber": "8",
+      "addr:postcode": "600084",
+      "addr:street": "Strada Carpați",
+      "amenity": "school",
+      "name": "Grădinița cu progrm prelungit nr. 28",
+      "operator": "Ministerul Educației",
+      "operator:type": "government",
+      "operator:wikidata": "Q1583546"
+    }
   },
   {
     "id": "way-1012697234",
@@ -953,8 +1837,12 @@
     "lat": 46.552194,
     "lng": 26.9228182,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "name": "Intrarea Domnului in Ierusalim",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1012702490",
@@ -964,8 +1852,13 @@
     "lat": 46.5622319,
     "lng": 26.9083008,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Bacău",
+      "addr:country": "RO",
+      "addr:street": "Strada Vasile Alecsandri",
+      "amenity": "school",
+      "name": "Colegiul Național „Vasile Alecsandri”"
+    }
   },
   {
     "id": "way-1075848393",
@@ -975,8 +1868,13 @@
     "lat": 46.540218,
     "lng": 26.9304287,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "roman_catholic",
+      "name": "Biserica Sfântul Francisc de Assisi",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1117891255",
@@ -986,8 +1884,21 @@
     "lat": 46.5710239,
     "lng": 26.9104684,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Bacău",
+      "addr:housenumber": "30",
+      "addr:postcode": "600204",
+      "addr:street": "Strada Lucrețiu Pătrășcanu",
+      "amenity": "school",
+      "barrier": "fence",
+      "education": "school",
+      "email": "contact@cnvranceanu.ro",
+      "grades": "5-8, 9-12",
+      "name": "Colegiul Național „Gheorghe Vrănceanu”",
+      "name:en": "\"Gheorghe Vrănceanu\" National College Bacău",
+      "name:ro": "Colegiul Național „Gheorghe Vrănceanu” Bacău",
+      "website": "https://cnvranceanu.ro"
+    }
   },
   {
     "id": "way-1146727903",
@@ -997,8 +1908,11 @@
     "lat": 46.5734561,
     "lng": 26.8699618,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1146727922",
@@ -1008,8 +1922,12 @@
     "lat": 46.6082835,
     "lng": 26.8950363,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1146727927",
@@ -1019,8 +1937,17 @@
     "lat": 46.5981508,
     "lng": 26.8652958,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Mărgineni",
+      "addr:housenumber": "141",
+      "addr:street": "Strada Tineretului",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "roman_catholic",
+      "name": "Biserica \"Sfântul Pius din Pietrelcina\"",
+      "religion": "christian",
+      "start_date": "2021"
+    }
   },
   {
     "id": "way-1147003378",
@@ -1030,8 +1957,13 @@
     "lat": 46.5654017,
     "lng": 26.9044402,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "childcare",
+      "building": "yes",
+      "heritage": "2",
+      "heritage:operator": "lmi",
+      "ref:RO:lmi": "BC-II-m-B-00785.02"
+    }
   },
   {
     "id": "way-1150411471",
@@ -1041,8 +1973,10 @@
     "lat": 46.5761232,
     "lng": 26.9124929,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "childcare",
+      "building": "yes"
+    }
   },
   {
     "id": "way-1150925199",
@@ -1052,19 +1986,25 @@
     "lat": 46.5065079,
     "lng": 26.8668059,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1208232044",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet",
     "lat": 46.5543876,
     "lng": 26.9198175,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "building": "commercial",
+      "name": "Superbet"
+    }
   },
   {
     "id": "way-1287645062",
@@ -1074,8 +2014,13 @@
     "lat": 46.5735648,
     "lng": 26.904649,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "kindergarten",
+      "building": "yes",
+      "isced:level": "0",
+      "name": "Grădiniţa Program Prelungit NR. 29",
+      "operator:type": "public"
+    }
   },
   {
     "id": "way-1287660214",
@@ -1085,8 +2030,19 @@
     "lat": 46.5651182,
     "lng": 26.8891881,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Bacău",
+      "addr:housenumber": "2",
+      "addr:street": "Strada Doctor Constantin Istrate",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Biserica Sfinții Voievozi",
+      "name:en": "Church of the Holy Voivodes",
+      "name:ro": "Biserica Sfinții Voievozi Bacău",
+      "religion": "christian",
+      "website": "https://parohiasfintiivoievozibacau.ro/"
+    }
   },
   {
     "id": "way-1325611770",
@@ -1096,8 +2052,19 @@
     "lat": 46.5687521,
     "lng": 26.9081178,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Bacău",
+      "addr:housenumber": "14",
+      "addr:postcode": "600266",
+      "addr:street": "Strada Oituz",
+      "amenity": "school",
+      "education": "school",
+      "grades": "0-4, 0-8",
+      "name": "Școala Gimnazială „Alexandru Ioan Cuza\"",
+      "name:en": "\"Alexandru Ioan Cuza\" School Bacău",
+      "name:ro": "Școala Gimnazială „Alexandru Ioan Cuza\" Bacău",
+      "website": "https://scoalacuzabacau.ro/"
+    }
   },
   {
     "id": "way-1325666852",
@@ -1107,8 +2074,19 @@
     "lat": 46.5694627,
     "lng": 26.9053184,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Bacău",
+      "addr:housenumber": "45",
+      "addr:postcode": "600237",
+      "addr:street": "Strada George Bacovia",
+      "amenity": "school",
+      "education": "school",
+      "grades": "0-4, 5-8, 9-12",
+      "name": "Colegiul Național „Ferdinand I\"",
+      "name:en": "\"Ferdinand I\" National College Bacău",
+      "name:ro": "Colegiul Național „Ferdinand I\" Bacău",
+      "website": "http://ferdinandbc.licee.edu.ro"
+    }
   },
   {
     "id": "way-1328774544",
@@ -1118,8 +2096,16 @@
     "lat": 46.5707463,
     "lng": 26.9090808,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Bacău",
+      "addr:housenumber": "4",
+      "addr:postcode": "600237",
+      "addr:street": "Strada Banca Națională",
+      "amenity": "clinic",
+      "building": "yes",
+      "healthcare": "clinic",
+      "name": "Clinica NewMedics Bacau"
+    }
   },
   {
     "id": "way-1330120169",
@@ -1129,8 +2115,14 @@
     "lat": 46.5621147,
     "lng": 26.9133117,
     "osmType": "way",
-    "brand": null,
-    "operator": "Primaria Bacău"
+    "tags": {
+      "amenity": "kindergarten",
+      "name": "Grădiniţa nr. 12",
+      "name:en": "Kindergarten  NO. 12",
+      "operator": "Primaria Bacău",
+      "operator:type": "public",
+      "preschool": "yes"
+    }
   },
   {
     "id": "way-1382804765",
@@ -1140,8 +2132,20 @@
     "lat": 46.5555303,
     "lng": 26.907592,
     "osmType": "way",
-    "brand": null,
-    "operator": "University \"Vasile Alecsandri\" of Bacău - Spiru Haret Campus"
+    "tags": {
+      "addr:city": "Bacău",
+      "addr:housenumber": "8",
+      "addr:postcode": "600114",
+      "addr:street": "Strada Spiru Haret",
+      "amenity": "university",
+      "name": "Universitatea  „Vasile Alecsandri\" Bacău - Campusul Spiru Haret",
+      "name:en": "\"Vasile Alecsandri\" University  of Bacău - Spiru Haret Campus",
+      "operator": "University \"Vasile Alecsandri\" of Bacău - Spiru Haret Campus",
+      "operator:type": "government",
+      "website": "https://www.ub.ro",
+      "wikidata": "Q495258",
+      "wikipedia": "en:Vasile Alecsandri University of Bacău"
+    }
   },
   {
     "id": "way-1387024052",
@@ -1151,8 +2155,20 @@
     "lat": 46.5694673,
     "lng": 26.9165358,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Bacău",
+      "addr:housenumber": "104",
+      "addr:postcode": "600600",
+      "addr:street": "Strada 9 Mai",
+      "amenity": "school",
+      "education": "school",
+      "grades": "9-12",
+      "name": "Colegiul Economic „Ion Ghica\"",
+      "name:en": "\"Ion Ghica\" Economic College Bacău",
+      "name:ro": "Colegiul Economic „Ion Ghica\" Bacău",
+      "phone": "0234510435",
+      "website": "http://colegiuleconomicbacau.ro/"
+    }
   },
   {
     "id": "way-1387054647",
@@ -1162,8 +2178,20 @@
     "lat": 46.5678372,
     "lng": 26.9168858,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Bacău",
+      "addr:housenumber": "64",
+      "addr:postcode": "600026",
+      "addr:street": "Strada 9 Mai",
+      "amenity": "school",
+      "education": "school",
+      "grades": "0-8",
+      "name": "Școala Gimnazială „Constantin Platon”",
+      "name:en": "\"Constantin Platon” School Bacău",
+      "name:ro": "Școala Gimnazială „Constantin Platon” Bacău",
+      "phone": "0234510436",
+      "website": "https://scoalaplatonbacau.ro/"
+    }
   },
   {
     "id": "way-1394120217",
@@ -1173,8 +2201,18 @@
     "lat": 46.5638144,
     "lng": 26.9093542,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Bacău",
+      "addr:housenumber": "24",
+      "addr:postcode": "600033",
+      "addr:street": "Strada Războieni",
+      "amenity": "school",
+      "education": "school",
+      "name": "Colegiul Național De Artă „George Apostu\"",
+      "name:en": "National College Of Arts “George Apostu” Bacau",
+      "name:ro": "Colegiul Național De Artă „George Apostu\" Bacău",
+      "website": "https://liceuldeartabacau.ro/"
+    }
   },
   {
     "id": "way-1394120762",
@@ -1184,8 +2222,10 @@
     "lat": 46.5634982,
     "lng": 26.908476,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "name": "Școala Gimnazială „Spiru Haret”"
+    }
   },
   {
     "id": "way-1394121074",
@@ -1195,8 +2235,10 @@
     "lat": 46.5633593,
     "lng": 26.9073415,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "name": "Colegiul Tehnic „Anghel Saligny”"
+    }
   },
   {
     "id": "way-1394121711",
@@ -1206,8 +2248,11 @@
     "lat": 46.5572947,
     "lng": 26.9095852,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "hospital",
+      "healthcare": "hospital",
+      "name": "Spitalul Municipal „Sfânta Maria” Bacău"
+    }
   },
   {
     "id": "way-1394123573",
@@ -1217,8 +2262,11 @@
     "lat": 46.5717154,
     "lng": 26.8949805,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "name": "Colegiul Tehnic de Comunicații „Nicolae Vasilescu-Karpen”",
+      "name:en": "Technical College of Communications \"Nicolae Vasilescu-Karpen\""
+    }
   },
   {
     "id": "way-1458113002",
@@ -1228,8 +2276,14 @@
     "lat": 46.5642304,
     "lng": 26.9027012,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Bacău",
+      "addr:postcode": "600266",
+      "addr:street": "Bulevardul Ioniță Sandu Sturza",
+      "amenity": "school",
+      "education": "school",
+      "name": "Alexandru cel Bun"
+    }
   },
   {
     "id": "way-1458298852",
@@ -1239,8 +2293,16 @@
     "lat": 46.5650043,
     "lng": 26.8982287,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Bacău",
+      "addr:housenumber": "35",
+      "addr:postcode": "600269",
+      "addr:street": "Strada Bogdan Voievod",
+      "amenity": "school",
+      "education": "school",
+      "name": "Colegiul Mihai Eminescu",
+      "website": "https://meb.ro/"
+    }
   },
   {
     "id": "way-1458792466",
@@ -1250,8 +2312,17 @@
     "lat": 46.5658783,
     "lng": 26.8883811,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Bacău",
+      "addr:housenumber": "20",
+      "addr:street": "Bulevardul Vasile Pârvan",
+      "amenity": "school",
+      "education": "school",
+      "grades": "0-8",
+      "name": "Școala Generala „Dimitrie Leonida”",
+      "name:en": "\"Dimitrie Leonida\" School Bacău",
+      "name:ro": "Școala Generala „Dimitrie Leonida” Bacău"
+    }
   },
   {
     "id": "way-1458792471",
@@ -1261,8 +2332,18 @@
     "lat": 46.5648543,
     "lng": 26.8894384,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Bacău",
+      "addr:housenumber": "9",
+      "addr:postcode": "600225",
+      "addr:street": "Strada Ozanei",
+      "amenity": "kindergarten",
+      "education": "kindergarten",
+      "name": "Creșa Numarul 9",
+      "name:en": "Kindergarten Number 9 Bacău",
+      "name:ro": "Creșa Numarul 9 Bacău",
+      "preschool": "no"
+    }
   },
   {
     "id": "way-1466540649",
@@ -1272,8 +2353,10 @@
     "lat": 46.5436397,
     "lng": 26.9144933,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "education": "school"
+    }
   },
   {
     "id": "way-1485023726",
@@ -1283,8 +2366,20 @@
     "lat": 46.5820162,
     "lng": 26.9092765,
     "osmType": "way",
-    "brand": null,
-    "operator": "Școala Gimnazială Mihai Sadoveanu"
+    "tags": {
+      "addr:city": "Bacău",
+      "addr:housenumber": "11",
+      "addr:street": "Strada Aprodul Purice",
+      "amenity": "kindergarten",
+      "education": "kindergarten",
+      "name": "Grădinița „Crai Nou”",
+      "name:en": "\"Crai Nou\" Kindergarten",
+      "name:ro": "Grădinița „Crai Nou” Bacău",
+      "operator": "Școala Gimnazială Mihai Sadoveanu",
+      "operator:type": "public",
+      "phone": "0334405225",
+      "preschool": "yes"
+    }
   },
   {
     "id": "way-1509466101",
@@ -1294,8 +2389,20 @@
     "lat": 46.5644968,
     "lng": 26.8995895,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Bacău",
+      "addr:housenumber": "72",
+      "addr:postcode": "600252",
+      "addr:street": "Strada Oituz",
+      "amenity": "hospital",
+      "email": "secretariat@pneumobacau.ro",
+      "fax": "+40 234 514 056",
+      "healthcare": "hospital",
+      "name": "Spitalul de Pneumoftiziologie Bacău",
+      "phone": "+40 234 510 072",
+      "siruta:code": "20297",
+      "website": "https://www.pneumobacau.ro/"
+    }
   },
   {
     "id": "way-1509468774",
@@ -1305,8 +2412,16 @@
     "lat": 46.5417205,
     "lng": 26.9206339,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Bacău",
+      "amenity": "school",
+      "contact:facebook": "https://www.facebook.com/ColegiulTehnicleteaBacau/",
+      "email": "leteabc@yahoo.com",
+      "name": "Colegiul Tehnic „Letea”",
+      "name:en": "”Letea” Technical College",
+      "name:ro": "Colegiul Tehnic „Letea”",
+      "operator:type": "public"
+    }
   },
   {
     "id": "relation-19066497",
@@ -1316,8 +2431,21 @@
     "lat": 46.5541624,
     "lng": 26.9142511,
     "osmType": "relation",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Bacău",
+      "addr:housenumber": "157",
+      "addr:postcode": "600115",
+      "addr:street": "Calea Mărășești",
+      "amenity": "university",
+      "contact:website": "https://www.ub.ro",
+      "name": "Universitatea  „Vasile Alecsandri\" din Bacău  - Campusul Mărășești",
+      "name:en": "\"Vasile Alecsandri\" University  of Bacău - Mărășești Campus",
+      "operator:type": "government",
+      "type": "multipolygon",
+      "wikidata": "Q495258",
+      "wikimedia_commons": "Category:Vasile_Alecsandri_University_of_Bacău",
+      "wikipedia": "ro:Universitatea „Vasile Alecsandri” din Bacău"
+    }
   },
   {
     "id": "relation-19107418",
@@ -1327,8 +2455,19 @@
     "lat": 46.5649413,
     "lng": 26.9161223,
     "osmType": "relation",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "capacity": "360",
+      "education": "school",
+      "email": "office@lspbacau.ro",
+      "grades": "9-12",
+      "name": "Liceul cu Program Sportiv",
+      "name:en": "Sports Program High School Bacău",
+      "name:ro": "Liceul cu Program Sportiv Bacău",
+      "phone": "+40234542844",
+      "type": "multipolygon",
+      "website": "https://lpsbacau.ro/"
+    }
   },
   {
     "id": "relation-19210525",
@@ -1338,7 +2477,20 @@
     "lat": 46.5691147,
     "lng": 26.9125065,
     "osmType": "relation",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Bacău",
+      "addr:housenumber": "4",
+      "addr:street": "Bulevardul Unirii",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica Ortodoxă „Sfântul Nicolae“",
+      "name:en": "Saint Nicholas Orthodox Church Bacău",
+      "name:ro": "Biserica Ortodoxă „Sfântul Nicolae“ Bacău",
+      "phone": "0234 570 307",
+      "religion": "christian",
+      "type": "multipolygon",
+      "wheelchair": "yes"
+    }
   }
 ]

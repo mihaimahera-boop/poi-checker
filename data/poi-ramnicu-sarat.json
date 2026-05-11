@@ -1,0 +1,547 @@
+[
+  {
+    "id": "node-510592469",
+    "name": "Biserica Ortodoxă „Sfântul Ilie”",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.3874831,
+    "lng": 27.0615788,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Râmnicu Sărat",
+      "amenity": "place_of_worship",
+      "denomination": "romanian_orthodox",
+      "is_in:city": "Râmnicu Sărat",
+      "is_in:country": "România",
+      "is_in:county": "Buzău",
+      "name": "Biserica Ortodoxă „Sfântul Ilie”",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-1125550442",
+    "name": "Colegiul Național Alexandru Vlahuță",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.3776807,
+    "lng": 27.0476124,
+    "osmType": "node",
+    "tags": {
+      "amenity": "school",
+      "name": "Colegiul Național Alexandru Vlahuță",
+      "old_name": "Liceul de Băieți „Regele Ferdinand”"
+    }
+  },
+  {
+    "id": "node-1125550600",
+    "name": "Biserica Cuvioasa Paraschiva",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.3837471,
+    "lng": 27.0402001,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Cuvioasa Paraschiva",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-1316062957",
+    "name": "Mănăstirea Podul Bulgarului",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.4404,
+    "lng": 27.05005,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Mănăstirea Podul Bulgarului",
+      "religion": "christian",
+      "source": "jonutzu@gpszone.ro"
+    }
+  },
+  {
+    "id": "node-2939249453",
+    "name": "Biserica Ortodoxă „Sfinții Constantin și Elena”",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.3916272,
+    "lng": 27.0357268,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Râmnicu Sărat",
+      "amenity": "place_of_worship",
+      "denomination": "romanian_orthodox",
+      "is_in:city": "Râmnicu Sărat",
+      "is_in:country": "România",
+      "is_in:county": "Buzău",
+      "name": "Biserica Ortodoxă „Sfinții Constantin și Elena”",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-2940060683",
+    "name": "Biserica Sfinții Apostoli Pentru și Pavel",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.3769695,
+    "lng": 27.0602931,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Sfinții Apostoli Pentru și Pavel",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-2940159414",
+    "name": "Biserica Ortodoxă „Poșta”",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.3824719,
+    "lng": 27.0290691,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Poșta",
+      "amenity": "place_of_worship",
+      "denomination": "romanian_orthodox",
+      "is_in:country": "România",
+      "is_in:county": "Buzău",
+      "name": "Biserica Ortodoxă „Poșta”",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-3466161699",
+    "name": "Liceul agricol",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.3783701,
+    "lng": 27.0511695,
+    "osmType": "node",
+    "tags": {
+      "amenity": "school",
+      "name": "Liceul agricol"
+    }
+  },
+  {
+    "id": "node-3751027293",
+    "name": "Biserica Ortodoxă „Sfântul Nicolae”",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.3884835,
+    "lng": 27.0376625,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Râmnicu Sărat",
+      "amenity": "place_of_worship",
+      "denomination": "romanian_orthodox",
+      "is_in:city": "Râmnicu Sărat",
+      "is_in:country": "România",
+      "is_in:county": "Buzău",
+      "name": "Biserica Ortodoxă „Sfântul Nicolae”",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-3751027294",
+    "name": "Biserica Sfântul Ioan Botezătorul",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.380888,
+    "lng": 27.045302,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Sfântul Ioan Botezătorul",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-3751029884",
+    "name": "Biserica Sfântul Apostol Toma",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.3695058,
+    "lng": 27.057622,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Sfântul Apostol Toma",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-3751034402",
+    "name": "Biserica Sfântul Gheorghe",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.3867592,
+    "lng": 27.0518018,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Sfântul Gheorghe",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-3946722739",
+    "name": "SC ALBACETE SRL (Complex Muntenia)",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.3790824,
+    "lng": 27.0568987,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Râmnicu Sărat",
+      "addr:housenumber": "2C",
+      "addr:postcode": "125300",
+      "addr:street": "Strada Nicolae Bălcescu",
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "SC ALBACETE SRL (Complex Muntenia)",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-4272718597",
+    "name": "Gradinita Orizont ",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 45.383245,
+    "lng": 27.039089,
+    "osmType": "node",
+    "tags": {
+      "amenity": "kindergarten",
+      "name": "Gradinita Orizont "
+    }
+  },
+  {
+    "id": "node-5526493551",
+    "name": "Biserica Oreavul 3",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.3681975,
+    "lng": 27.0283734,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Oreavul 3",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-8628401601",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet Betting & Gaming SA",
+    "lat": 45.375694,
+    "lng": 27.043914,
+    "osmType": "node",
+    "tags": {
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-8628417645",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet Betting & Gaming SA",
+    "lat": 45.380529,
+    "lng": 27.040696,
+    "osmType": "node",
+    "tags": {
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-8628417664",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet",
+    "lat": 45.3829289,
+    "lng": 27.0415217,
+    "osmType": "node",
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-8628417977",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet Betting & Gaming SA",
+    "lat": 45.37547,
+    "lng": 27.0558447,
+    "osmType": "node",
+    "tags": {
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-8628418373",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet",
+    "lat": 45.382424,
+    "lng": 27.042482,
+    "osmType": "node",
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "way-41662344",
+    "name": "Spitalul Municipal",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 45.3785941,
+    "lng": 27.0520207,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Râmnicu Sărat",
+      "addr:housenumber": "2",
+      "addr:postcode": "125300",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Nicolae Bălcescu",
+      "amenity": "hospital",
+      "healthcare": "hospital",
+      "name": "Spitalul Municipal"
+    }
+  },
+  {
+    "id": "way-97152343",
+    "name": "Biserica „Adormirea Maicii Domnului”",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.3798912,
+    "lng": 27.0425925,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Râmnicu Sărat",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "heritage": "2",
+      "heritage:operator": "lmi",
+      "name": "Biserica „Adormirea Maicii Domnului”",
+      "ref:RO:lmi": "BZ-II-m-A-02463.01",
+      "ref:RO:ran": "44854.06.01",
+      "religion": "christian",
+      "stars": "1697",
+      "start_date": "1697",
+      "wikidata": "Q18537836",
+      "wikipedia": "ro:Biserica Adormirea Maicii Domnului din Râmnicu Sărat"
+    }
+  },
+  {
+    "id": "way-313528803",
+    "name": "Capela Ortodoxă „Izvorul Tămăduirii”",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.3789892,
+    "lng": 27.0497068,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Râmnicu Sărat",
+      "addr:street": "Strada Nicolae Bălcescu",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "is_in:city": "Râmnicu Sărat",
+      "is_in:country": "România",
+      "is_in:county": "Buzău",
+      "name": "Capela Ortodoxă „Izvorul Tămăduirii”",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-646337281",
+    "name": "Fără nume",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 45.3860033,
+    "lng": 27.0510106,
+    "osmType": "way",
+    "tags": {
+      "amenity": "hospital",
+      "healthcare": "hospital"
+    }
+  },
+  {
+    "id": "way-904797006",
+    "name": "Biserica Ortodoxă \"Nașterea Maicii Domnului\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.3782319,
+    "lng": 27.1365155,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "building:year_built": "1783",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica Ortodoxă \"Nașterea Maicii Domnului\"",
+      "name:en": "Orthodox Church \"The Birth of Virgin Mary\"",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1083731943",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.4411715,
+    "lng": 27.1503171,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "opening_hours": "24/7",
+      "religion": "christian",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "id": "way-1126013506",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.4144687,
+    "lng": 27.029548,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1189812456",
+    "name": "Biserica „Nașterea Maicii Domnului”",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.3754187,
+    "lng": 27.0452736,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Râmnicu Sărat",
+      "addr:housenumber": "59",
+      "addr:street": "Strada Constantin Brâncoveanu",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "heritage": "2",
+      "heritage:operator": "lmi",
+      "name": "Biserica „Nașterea Maicii Domnului”",
+      "ref:RO:lmi": "BZ-II-m-A-02454",
+      "ref:RO:ran": "44854.05",
+      "religion": "christian",
+      "start_date": "1784"
+    }
+  },
+  {
+    "id": "way-1189812457",
+    "name": "Biserica „„Sfinții Voievozi” - Câța",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.3777263,
+    "lng": 27.0437335,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Râmnicu Sărat",
+      "addr:street": "Strada Mihai Eminescu",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "heritage": "2",
+      "heritage:operator": "lmi",
+      "name": "Biserica „„Sfinții Voievozi” - Câța",
+      "ref:RO:lmi": "BZ-II-m-A-02457",
+      "ref:RO:ran": "44854.03",
+      "religion": "christian",
+      "start_date": "1765"
+    }
+  },
+  {
+    "id": "way-1189812461",
+    "name": "Biserica „Sfântul Dumitru” - Bagdat",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.3725506,
+    "lng": 27.0511407,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Râmnicu Sărat",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "heritage": "2",
+      "heritage:operator": "lmi",
+      "name": "Biserica „Sfântul Dumitru” - Bagdat",
+      "ref:RO:lmi": "BZ-II-m-A-02458.01",
+      "ref:RO:ran": "44854.04.01",
+      "religion": "christian"
+    }
+  }
+]

@@ -1,0 +1,1024 @@
+[
+  {
+    "id": "node-3543767228",
+    "name": "Sanctuarul Fericitul Ieremia Valahul",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.2428165,
+    "lng": 26.7662502,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Onești",
+      "addr:housenumber": "7",
+      "addr:postcode": "601091",
+      "addr:street": "Strada Belvedere",
+      "amenity": "place_of_worship",
+      "denomination": "roman_catholic",
+      "email": "ofmcapromania@gmail.com",
+      "email_1": "ofmcapromania@yahoo.ro",
+      "fax": "+40234315039",
+      "name": "Sanctuarul Fericitul Ieremia Valahul",
+      "phone": "+40234321100",
+      "religion": "christian",
+      "website": "https://ofmcapucini.ro/"
+    }
+  },
+  {
+    "id": "node-3543831053",
+    "name": "Policlinică",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 46.253633,
+    "lng": 26.7649566,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Onești",
+      "addr:housenumber": "1",
+      "addr:postcode": "601048",
+      "addr:street": "Strada Perchiului",
+      "amenity": "clinic",
+      "name": "Policlinică"
+    }
+  },
+  {
+    "id": "node-3543831202",
+    "name": "Psihiatrie",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 46.2548517,
+    "lng": 26.7636259,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Onești",
+      "addr:housenumber": "1",
+      "addr:postcode": "601048",
+      "addr:street": "Strada Perchiului",
+      "amenity": "clinic",
+      "name": "Psihiatrie"
+    }
+  },
+  {
+    "id": "node-3543831710",
+    "name": "Maternitate",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 46.2550254,
+    "lng": 26.7643514,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Onești",
+      "addr:housenumber": "1",
+      "addr:postcode": "601048",
+      "addr:street": "Strada Perchiului",
+      "amenity": "clinic",
+      "name": "Maternitate"
+    }
+  },
+  {
+    "id": "node-3543833362",
+    "name": "Infecțioase",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 46.2545727,
+    "lng": 26.7634702,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Onești",
+      "addr:housenumber": "1",
+      "addr:postcode": "601048",
+      "addr:street": "Strada Perchiului",
+      "amenity": "clinic",
+      "name": "Infecțioase"
+    }
+  },
+  {
+    "id": "node-4235859589",
+    "name": "RTV KIT -RadioTeleviziunea KIT",
+    "type": "gaming",
+    "subcategory": "RTV KIT -RadioTeleviziunea KIT",
+    "lat": 46.250407,
+    "lng": 26.7670363,
+    "osmType": "node",
+    "tags": {
+      "addr:postcode": "601010",
+      "amenity": "casino",
+      "email": "rtv.kit@gmail.com",
+      "name": "RTV KIT -RadioTeleviziunea KIT",
+      "opening_hours": "Mo-Fr 10:00-22:00",
+      "phone": "+40334405708",
+      "website": "www.tvkit.ro/live"
+    }
+  },
+  {
+    "id": "node-8628417877",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet",
+    "lat": 46.2563335,
+    "lng": 26.7756579,
+    "osmType": "node",
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-8628418022",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet Betting & Gaming SA",
+    "lat": 46.2461224,
+    "lng": 26.7646238,
+    "osmType": "node",
+    "tags": {
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-8628418398",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet Betting & Gaming SA",
+    "lat": 46.2512027,
+    "lng": 26.7638326,
+    "osmType": "node",
+    "tags": {
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-10857424676",
+    "name": "Cabinet stomatologic Dr. Schifirnet M.Ovidiu",
+    "type": "medical",
+    "subcategory": "dentist",
+    "lat": 46.2540669,
+    "lng": 26.7728707,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Onești",
+      "addr:housenumber": "43",
+      "addr:postcode": "601129",
+      "addr:street": "Bulevardul Republicii",
+      "amenity": "dentist",
+      "emergency": "yes",
+      "healthcare": "hospital",
+      "healthcare:speciality": "dentist;general",
+      "internet_access": "yes",
+      "name": "Cabinet stomatologic Dr. Schifirnet M.Ovidiu",
+      "operator": "QUALYDENT MED SRL",
+      "operator:type": "private"
+    }
+  },
+  {
+    "id": "node-13339843580",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.2449182,
+    "lng": 26.7716278,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-13516174463",
+    "name": "Biserica Creștină Adventistă",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.2225372,
+    "lng": 26.7876052,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Răcăuți",
+      "addr:housenumber": "298",
+      "addr:street": "Răcăuți-Buciumi",
+      "amenity": "place_of_worship",
+      "denomination": "adventist",
+      "name": "Biserica Creștină Adventistă",
+      "name:en": "Christian Adventist Church",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-13566272967",
+    "name": "Școala Generală Răcăuți",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.2244949,
+    "lng": 26.7850324,
+    "osmType": "node",
+    "tags": {
+      "amenity": "school",
+      "education": "school",
+      "name": "Școala Generală Răcăuți"
+    }
+  },
+  {
+    "id": "node-13589067526",
+    "name": "Admiral",
+    "type": "gaming",
+    "subcategory": "Admiral",
+    "lat": 46.2453692,
+    "lng": 26.7573366,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Onesti",
+      "addr:housenumber": "2",
+      "addr:street": "Bulevardul Oituz",
+      "air_conditioning": "yes",
+      "brand": "Admiral",
+      "brand:wikidata": "Q25205850",
+      "gambling": "slot_machines",
+      "leisure": "adult_gaming_centre",
+      "min_age": "18",
+      "name": "Admiral",
+      "opening_hours": "24/7",
+      "operator": "Admiral Leisure - Novomatic",
+      "smoking": "outside"
+    }
+  },
+  {
+    "id": "node-13620275959",
+    "name": "Cabinet medical școlar nr.3",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 46.2522619,
+    "lng": 26.7777236,
+    "osmType": "node",
+    "tags": {
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "name": "Cabinet medical școlar nr.3",
+      "operator": "Direcția de Asistență Socială Onești"
+    }
+  },
+  {
+    "id": "node-13712311794",
+    "name": "CMI Maizel Alexandru",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 46.2453565,
+    "lng": 26.7596327,
+    "osmType": "node",
+    "tags": {
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "healthcare:speciality": "general",
+      "name": "CMI Maizel Alexandru",
+      "opening_hours": "Mo,We 13:00-17:00; Tu,Th,Fr 09:00-13:00"
+    }
+  },
+  {
+    "id": "way-212301709",
+    "name": "Fără nume",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 46.2454252,
+    "lng": 26.7598727,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Onești",
+      "addr:street": "Strada George Călinescu",
+      "amenity": "clinic",
+      "building": "yes"
+    }
+  },
+  {
+    "id": "way-212308495",
+    "name": "Biserica Evanghelică Română",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.2464966,
+    "lng": 26.7712688,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "check_date": "2026-03-30",
+      "denomination": "evangelical",
+      "name": "Biserica Evanghelică Română",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-212314427",
+    "name": "Fără nume",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 46.2544304,
+    "lng": 26.7767085,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Onești",
+      "addr:housenumber": "10",
+      "addr:postcode": "601119",
+      "addr:street": "Strada Doctor Victor Babeș",
+      "amenity": "clinic",
+      "building": "yes",
+      "building:levels": "5",
+      "healthcare": "clinic",
+      "levels": "2"
+    }
+  },
+  {
+    "id": "way-224866108",
+    "name": "Școala cu Clasele I-VIII Emil Racoviță",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.2432606,
+    "lng": 26.7590859,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Onești",
+      "addr:housenumber": "2",
+      "addr:postcode": "601105",
+      "addr:street": "Strada Venus",
+      "amenity": "school",
+      "education": "school",
+      "name": "Școala cu Clasele I-VIII Emil Racoviță",
+      "phone": "+40234319855"
+    }
+  },
+  {
+    "id": "way-224935684",
+    "name": "Infecțioase",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 46.2545798,
+    "lng": 26.763471,
+    "osmType": "way",
+    "tags": {
+      "amenity": "hospital",
+      "building": "yes",
+      "name": "Infecțioase"
+    }
+  },
+  {
+    "id": "way-224935687",
+    "name": "Biserica „Sfântul Pantelimon”",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.2543874,
+    "lng": 26.7655836,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Onești",
+      "addr:housenumber": "1",
+      "addr:postcode": "601048",
+      "addr:street": "Strada Perchiului",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "building:levels": "2",
+      "check_date": "2025-06-18",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Sfântul Pantelimon”",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-224936622",
+    "name": "Biserica \"Sfântul Nicolae\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.2519145,
+    "lng": 26.7626513,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Onești",
+      "addr:housenumber": "5",
+      "addr:postcode": "601033",
+      "addr:street": "Aleea Parcului",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "heritage": "2",
+      "heritage:operator": "lmi",
+      "moved": "yes",
+      "name": "Biserica \"Sfântul Nicolae\"",
+      "ref:RO:lmi": "BC-II-m-B-00865",
+      "religion": "christian",
+      "start_date": "1843"
+    }
+  },
+  {
+    "id": "way-224946019",
+    "name": "Clubul Elevilor Alecu Aslan",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.2505577,
+    "lng": 26.7597677,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school",
+      "check_date": "2026-03-30",
+      "name": "Clubul Elevilor Alecu Aslan"
+    }
+  },
+  {
+    "id": "way-344359990",
+    "name": "Colegiul Național Grigore Moisil",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.2480351,
+    "lng": 26.7618249,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Onești",
+      "addr:housenumber": "14",
+      "addr:postcode": "601014",
+      "addr:street": "Strada Tineretului",
+      "amenity": "school",
+      "check_date": "2026-03-30",
+      "name": "Colegiul Național Grigore Moisil",
+      "website": "http://moisilonesti.licee.edu.ro"
+    }
+  },
+  {
+    "id": "way-345312437",
+    "name": "Grădinița Numărul 13 Magnolia",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 46.2423046,
+    "lng": 26.7599017,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Onești",
+      "addr:housenumber": "2",
+      "addr:postcode": "601101",
+      "addr:street": "Strada Apollo",
+      "amenity": "kindergarten",
+      "name": "Grădinița Numărul 13 Magnolia"
+    }
+  },
+  {
+    "id": "way-345313600",
+    "name": "Școala cu Clasele I-VIII Numărul 7",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.2414926,
+    "lng": 26.7618968,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Onești",
+      "addr:housenumber": "2",
+      "addr:postcode": "601105",
+      "addr:street": "Strada Aurora",
+      "amenity": "school",
+      "education": "school",
+      "email": "scoala7onesti@yahoo.com",
+      "fax": "+40234313660",
+      "name": "Școala cu Clasele I-VIII Numărul 7",
+      "phone": "+40234321811",
+      "website": "http://sc7onesti.scoli.edu.ro/"
+    }
+  },
+  {
+    "id": "way-345317423",
+    "name": "Școala cu Clasele I-VIII Ghiță Mocanu",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.2441874,
+    "lng": 26.7656657,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Onești",
+      "addr:housenumber": "7",
+      "addr:postcode": "601067",
+      "addr:street": "Strada 1 Mai",
+      "amenity": "school",
+      "check_date": "2026-04-04",
+      "email": "mocanuonesti@gmail.com",
+      "name": "Școala cu Clasele I-VIII Ghiță Mocanu",
+      "phone": "+40234312394",
+      "website": "http://mocanuonesti.scoli.edu.ro/"
+    }
+  },
+  {
+    "id": "way-345319934",
+    "name": "Grădinița Numărul 9",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 46.245623,
+    "lng": 26.7605022,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Onești",
+      "addr:housenumber": "4",
+      "addr:postcode": "601066",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada George Călinescu",
+      "amenity": "kindergarten",
+      "check_date": "2026-04-04",
+      "name": "Grădinița Numărul 9",
+      "phone": "+40234321244"
+    }
+  },
+  {
+    "id": "way-345320082",
+    "name": "Școala Voievod Cel Mare și Sfânt",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.2468083,
+    "lng": 26.7569434,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Onești",
+      "addr:housenumber": "7A",
+      "addr:postcode": "601077",
+      "addr:street": "Bulevardul Oituz",
+      "amenity": "school",
+      "education": "school",
+      "name": "Școala Voievod Cel Mare și Sfânt"
+    }
+  },
+  {
+    "id": "way-345320989",
+    "name": "Școala Generală 1",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.2487423,
+    "lng": 26.7687819,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Onești",
+      "addr:housenumber": "15",
+      "addr:postcode": "601027",
+      "addr:street": "Strada Cașinului",
+      "amenity": "school",
+      "education": "school",
+      "name": "Școala Generală 1",
+      "website": "https://scoalaunuonesti.ro/"
+    }
+  },
+  {
+    "id": "way-345321772",
+    "name": "Colegiul Sportiv Nadia Comăneci",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.2532746,
+    "lng": 26.7666848,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Onești",
+      "addr:housenumber": "4",
+      "addr:postcode": "601048",
+      "addr:street": "Strada Perchiului",
+      "amenity": "school",
+      "check_date": "2026-03-31",
+      "name": "Colegiul Sportiv Nadia Comăneci",
+      "phone": "+40234317743"
+    }
+  },
+  {
+    "id": "way-345322489",
+    "name": "Grădinița cu Program Prelungit Numărul 14",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 46.2520483,
+    "lng": 26.7699758,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Onești",
+      "addr:housenumber": "14",
+      "addr:postcode": "601031",
+      "addr:street": "Strada Muncii",
+      "amenity": "kindergarten",
+      "education": "kindergarten",
+      "name": "Grădinița cu Program Prelungit Numărul 14",
+      "phone": "+40234323580"
+    }
+  },
+  {
+    "id": "way-345322857",
+    "name": "Colegiul Tehnic Petru Poni",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.2537626,
+    "lng": 26.7742502,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Onești",
+      "addr:housenumber": "60",
+      "addr:postcode": "601117",
+      "addr:street": "Bulevardul Republicii",
+      "amenity": "school",
+      "education": "school",
+      "email": "ctpetruponi@yahoo.com",
+      "fax": "+40234311836",
+      "name": "Colegiul Tehnic Petru Poni",
+      "phone": "+40234311922",
+      "website": "http://www.petruponi.ro/"
+    }
+  },
+  {
+    "id": "way-345323435",
+    "name": "Colegiul Național Dimitrie Cantemir",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.2532116,
+    "lng": 26.7768248,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Onești",
+      "addr:housenumber": "12",
+      "addr:postcode": "601119",
+      "addr:street": "Strada Doctor Victor Babeș",
+      "amenity": "school",
+      "education": "school",
+      "name": "Colegiul Național Dimitrie Cantemir",
+      "phone": "+40234311046"
+    }
+  },
+  {
+    "id": "way-346069584",
+    "name": "Liceul Teologic Fericitul Ieremia",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.2423616,
+    "lng": 26.766691,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Onești",
+      "addr:housenumber": "7",
+      "addr:postcode": "601066",
+      "addr:street": "Strada Belvedere",
+      "amenity": "school",
+      "contact:email": "lic_frieremia@yahoo.com",
+      "education": "school",
+      "fax": "+40234321630",
+      "name": "Liceul Teologic Fericitul Ieremia",
+      "phone": "+40234321630",
+      "website": "http://www.liceulteologicfericitulieremia.ro/"
+    }
+  },
+  {
+    "id": "way-347982103",
+    "name": "Spitalul Municipal Onești Sfântul Ierarh Doctor Luca",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 46.2545083,
+    "lng": 26.764315,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Onești",
+      "addr:housenumber": "1",
+      "addr:postcode": "601048",
+      "addr:street": "Strada Perchiului",
+      "amenity": "hospital",
+      "healthcare": "hospital",
+      "name": "Spitalul Municipal Onești Sfântul Ierarh Doctor Luca",
+      "phone": "+40234323111",
+      "website": "https://spitalonesti.ro/"
+    }
+  },
+  {
+    "id": "way-349873303",
+    "name": "Fără nume",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 46.2557669,
+    "lng": 26.7767709,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Onești",
+      "addr:housenumber": "1",
+      "addr:postcode": "601140",
+      "addr:street": "Strada Doctor Victor Babeș",
+      "amenity": "clinic",
+      "building": "yes",
+      "levels": "3"
+    }
+  },
+  {
+    "id": "way-350872862",
+    "name": "Școala Gimnazială George Călinescu",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.2562988,
+    "lng": 26.7746992,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Onești",
+      "addr:housenumber": "4",
+      "addr:postcode": "601136",
+      "addr:street": "Strada Armoniei",
+      "amenity": "school",
+      "education": "school",
+      "email": "scoalageorgecalinescu@yahoo.com",
+      "fax": "+40234312456",
+      "name": "Școala Gimnazială George Călinescu",
+      "phone": "+40234311300",
+      "website": "http://calinescuonesti.scoli.edu.ro/"
+    }
+  },
+  {
+    "id": "way-1145644471",
+    "name": "Biserica \"Sfântul Nicolae\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.2810561,
+    "lng": 26.785201,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica \"Sfântul Nicolae\"",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1145644472",
+    "name": "Biserica \"Nașterea Maicii Domnului\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.2456345,
+    "lng": 26.7732941,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica \"Nașterea Maicii Domnului\"",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1145644473",
+    "name": "Biserica \"Sfinții Împărați Constantin şi Elena\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.2580452,
+    "lng": 26.775169,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Onești",
+      "addr:housenumber": "9",
+      "addr:postcode": "601146",
+      "addr:street": "Bulevardul Mărășești",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "mobile": "+40744335299",
+      "name": "Biserica \"Sfinții Împărați Constantin şi Elena\"",
+      "religion": "christian",
+      "website": "https://sfimparationesti.ro/"
+    }
+  },
+  {
+    "id": "way-1145644474",
+    "name": "Biserica \"Sfânta Tereza a Pruncului Isus\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.2544236,
+    "lng": 26.7796447,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "check_date": "2025-06-18",
+      "denomination": "roman_catholic",
+      "name": "Biserica \"Sfânta Tereza a Pruncului Isus\"",
+      "religion": "christian",
+      "start_date": "2006"
+    }
+  },
+  {
+    "id": "way-1145644475",
+    "name": "Biserica „Sfinții Apostoli Petru și Paul“",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.2495637,
+    "lng": 26.7562248,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "roman_catholic",
+      "name": "Biserica „Sfinții Apostoli Petru și Paul“",
+      "religion": "christian",
+      "start_date": "1945"
+    }
+  },
+  {
+    "id": "way-1145644476",
+    "name": "Catedrala Ortodoxă „Pogorârea Sfântul Duh”",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.2430653,
+    "lng": 26.7631449,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "height": "48",
+      "name": "Catedrala Ortodoxă „Pogorârea Sfântul Duh”",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1145644477",
+    "name": "Biserica \"Sfânta Maria Magdalena\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.2512045,
+    "lng": 26.7453793,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica \"Sfânta Maria Magdalena\"",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1145644478",
+    "name": "Biserica \"Adormirea Maicii Domnului\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.2412421,
+    "lng": 26.81819,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "heritage": "2",
+      "heritage:operator": "lmi",
+      "name": "Biserica \"Adormirea Maicii Domnului\"",
+      "ref:RO:lmi": "BC-II-m-A-00797",
+      "religion": "christian",
+      "start_date": "1494",
+      "wikidata": "Q2911393",
+      "wikipedia": "ro:Biserica Adormirea Maicii Domnului din Borzești"
+    }
+  },
+  {
+    "id": "way-1145644481",
+    "name": "Biserica \"Sfântul Dimitrie Izvorătorul de Mir\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.2497142,
+    "lng": 26.8019158,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica \"Sfântul Dimitrie Izvorătorul de Mir\"",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1145933923",
+    "name": "Biserica \"Adormirea Maicii Domnului\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.2586538,
+    "lng": 26.8483642,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "heritage": "2",
+      "heritage:operator": "lmi",
+      "name": "Biserica \"Adormirea Maicii Domnului\"",
+      "ref:RO:lmi": "BC-II-m-B-00844",
+      "religion": "christian",
+      "start_date": "1750"
+    }
+  },
+  {
+    "id": "way-1145933924",
+    "name": "Biserica „Sfântul Nicolae”",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.2755083,
+    "lng": 26.8214649,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "heritage": "2",
+      "heritage:operator": "lmi",
+      "name": "Biserica „Sfântul Nicolae”",
+      "ref:RO:lmi": "BC-II-m-B-00843",
+      "religion": "christian",
+      "start_date": "1680"
+    }
+  },
+  {
+    "id": "way-1145933926",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.2700745,
+    "lng": 26.8688871,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1149512636",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.2224926,
+    "lng": 26.7155805,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1456322352",
+    "name": "Clinica Antares",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 46.2449883,
+    "lng": 26.7674586,
+    "osmType": "way",
+    "tags": {
+      "amenity": "clinic",
+      "building": "yes",
+      "healthcare": "clinic",
+      "name": "Clinica Antares"
+    }
+  },
+  {
+    "id": "way-1460928229",
+    "name": "Biserica Sfinții Arhangheli Mihail și Gavriil",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.2260108,
+    "lng": 26.7800454,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica Sfinții Arhangheli Mihail și Gavriil",
+      "name:ro": "Biserica Sfinții Arhangheli Mihail și Gavriil",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1481710293",
+    "name": "Admiral",
+    "type": "gaming",
+    "subcategory": "Admiral",
+    "lat": 46.245277,
+    "lng": 26.7572885,
+    "osmType": "way",
+    "tags": {
+      "brand": "Admiral",
+      "brand:wikidata": "Q25205850",
+      "building": "commercial",
+      "gambling": "slot_machines",
+      "leisure": "adult_gaming_centre",
+      "name": "Admiral",
+      "operator": "Admiral Leisure"
+    }
+  }
+]

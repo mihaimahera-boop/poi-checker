@@ -6,7 +6,13 @@
     "subcategory": "doctors",
     "lat": 45.8430509,
     "lng": 27.4337417,
-    "osmType": "node"
+    "osmType": "node",
+    "tags": {
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "healthcare:speciality": "gynaecology",
+      "name": "Cabinet de Ginecologie"
+    }
   },
   {
     "id": "node-4355688295",
@@ -15,7 +21,85 @@
     "subcategory": "doctors",
     "lat": 45.8475419,
     "lng": 27.4293814,
-    "osmType": "node"
+    "osmType": "node",
+    "tags": {
+      "addr:housenumber": "42C",
+      "addr:postcode": "803500",
+      "addr:street": "Strada 1 Decembrie 1918",
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "name": "CMI dr.Aganencei Marta",
+      "phone": "0236815934"
+    }
+  },
+  {
+    "id": "node-8628417655",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet",
+    "lat": 45.847647,
+    "lng": 27.418903,
+    "osmType": "node",
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-8628417776",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet",
+    "lat": 45.8465919,
+    "lng": 27.430361,
+    "osmType": "node",
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-8628417928",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet",
+    "lat": 45.842138,
+    "lng": 27.432164,
+    "osmType": "node",
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-8930556629",
@@ -24,7 +108,19 @@
     "subcategory": "clinic",
     "lat": 45.8432289,
     "lng": 27.4315976,
-    "osmType": "node"
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Tecuci",
+      "addr:housenumber": "4",
+      "addr:street": "Strada Ion Petrovici",
+      "amenity": "clinic",
+      "brand": "Clinica Sante",
+      "brand:wikidata": "Q121080834",
+      "healthcare": "sample_collection",
+      "name": "Clinica Sante",
+      "opening_hours": "Mo-Fr 07:00-11:00; Sa 08:00-11:00",
+      "website": "https://www.clinica-sante.ro/clinica-sante-tecuci-centru/"
+    }
   },
   {
     "id": "node-13348047103",
@@ -33,7 +129,13 @@
     "subcategory": "college",
     "lat": 45.8463703,
     "lng": 27.4256788,
-    "osmType": "node"
+    "osmType": "node",
+    "tags": {
+      "amenity": "college",
+      "education": "college",
+      "name": "Școala Postliceală FEG Education Tecuci",
+      "website": "https://tecuci.postliceala.ro/"
+    }
   },
   {
     "id": "node-13630130614",
@@ -42,7 +144,12 @@
     "subcategory": "clinic",
     "lat": 45.8435265,
     "lng": 27.4302514,
-    "osmType": "node"
+    "osmType": "node",
+    "tags": {
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "name": "Medic One - Divizia medicală"
+    }
   },
   {
     "id": "way-243819347",
@@ -51,7 +158,15 @@
     "subcategory": "school",
     "lat": 45.846877,
     "lng": 27.426742,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Tecuci",
+      "addr:postcode": "805300",
+      "addr:street": "Strada Costache Racoviță",
+      "amenity": "school",
+      "education": "school",
+      "name": "Liceul Tehnologic Elena Caragiani"
+    }
   },
   {
     "id": "way-246337156",
@@ -60,7 +175,19 @@
     "subcategory": "christian",
     "lat": 45.8483975,
     "lng": 27.4238126,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Tecuci",
+      "addr:housenumber": "36",
+      "addr:street": "Strada Gheorghe Petrașcu",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Înălțarea Domnului\"",
+      "opening_hours": "24/7",
+      "religion": "christian",
+      "start_date": "2010"
+    }
   },
   {
     "id": "way-246337157",
@@ -69,7 +196,16 @@
     "subcategory": "childcare",
     "lat": 45.8436724,
     "lng": 27.4313752,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "amenity": "childcare",
+      "building": "yes",
+      "heritage": "2",
+      "heritage:operator": "lmi",
+      "name": "Centrul de Asistență pentru Copii cu Deficiențe Neuromotorii",
+      "opening_hours": "24/7",
+      "ref:RO:lmi": "GL-II-m-B-03098"
+    }
   },
   {
     "id": "way-246337158",
@@ -78,7 +214,22 @@
     "subcategory": "christian",
     "lat": 45.8443388,
     "lng": 27.4313882,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Tecuci",
+      "addr:housenumber": "69",
+      "addr:postcode": "805300",
+      "addr:street": "Strada 1 Decembrie 1918",
+      "amenity": "place_of_worship",
+      "building": "cathedral",
+      "denomination": "romanian_orthodox",
+      "name": "Catedrala „Sfântul Gheorghe\"",
+      "opening_hours": "24/7",
+      "religion": "christian",
+      "start_date": "1958",
+      "wikidata": "Q12721949",
+      "wikipedia": "ro:Biserica Sfântul Gheorghe din Tecuci"
+    }
   },
   {
     "id": "way-247506785",
@@ -87,7 +238,19 @@
     "subcategory": "christian",
     "lat": 45.8304478,
     "lng": 27.4389696,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Tecuci",
+      "addr:housenumber": "1",
+      "addr:street": "Aleea Arinului",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Sfinții Împărați Constantin și Elena\"",
+      "opening_hours": "24/7",
+      "religion": "christian",
+      "start_date": "2005"
+    }
   },
   {
     "id": "way-281081311",
@@ -96,7 +259,11 @@
     "subcategory": "school",
     "lat": 45.8422779,
     "lng": 27.4283206,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "amenity": "school",
+      "name": "Colegiul Național „Spiru Haret”"
+    }
   },
   {
     "id": "way-337184481",
@@ -105,7 +272,17 @@
     "subcategory": "school",
     "lat": 45.8516563,
     "lng": 27.4269464,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Tecuci",
+      "addr:housenumber": "26",
+      "addr:postcode": "805300",
+      "addr:street": "Strada 1 Decembrie 1918",
+      "amenity": "school",
+      "name": "Școala Gimnazială nr. 10 „Dimitrie Sturdza”",
+      "start_date": "1910",
+      "website": "https://www.scoaladimitriesturdza.ro/"
+    }
   },
   {
     "id": "way-846513395",
@@ -114,7 +291,17 @@
     "subcategory": "school",
     "lat": 45.8383149,
     "lng": 27.4360524,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Tecuci",
+      "addr:postcode": "805300",
+      "addr:street": "Strada 1 Decembrie 1918",
+      "amenity": "school",
+      "education": "school",
+      "name": "Colegiul Național de Agricultură și Economie",
+      "phone": "0236 811 133",
+      "source": "https://www.tecuci.eu/educatia-in-tecuci/licee-in-tecuci/colegiul-national-de-agricultura-si-economie-tecuci.html"
+    }
   },
   {
     "id": "way-947274378",
@@ -123,7 +310,11 @@
     "subcategory": "kindergarten",
     "lat": 45.8448442,
     "lng": 27.4317761,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "amenity": "kindergarten",
+      "name": "Grădinița cu Program Prelungit Nr. 16"
+    }
   },
   {
     "id": "way-947915003",
@@ -132,7 +323,18 @@
     "subcategory": "clinic",
     "lat": 45.851925,
     "lng": 27.4284215,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Tecuci",
+      "addr:housenumber": "29",
+      "addr:street": "Strada 1 Decembrie 1918",
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "name": "Ambulatoriul de specialitate",
+      "operator": "Spitalul Municipal „Anton Cincu” Tecuci",
+      "operator:type": "public",
+      "phone": "+40 236 810 010"
+    }
   },
   {
     "id": "way-947917073",
@@ -141,7 +343,22 @@
     "subcategory": "hospital",
     "lat": 45.8473331,
     "lng": 27.4379722,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Tecuci",
+      "addr:housenumber": "35",
+      "addr:postcode": "805300",
+      "addr:street": "Strada Costache Conachi",
+      "amenity": "hospital",
+      "email": "anton_cincu2006@yahoo.com",
+      "fax": "+40 236 811 608",
+      "healthcare": "hospital",
+      "name": "Spitalul Municipal „Anton Cincu”",
+      "operator": "Spitalul Municipal „Anton Cincu” Tecuci",
+      "operator:type": "public",
+      "phone": "+40 236 812 440",
+      "website": "https://spital-tecuci.blogspot.com"
+    }
   },
   {
     "id": "way-948398295",
@@ -150,7 +367,16 @@
     "subcategory": "school",
     "lat": 45.869349,
     "lng": 27.4230357,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:housenumber": "69",
+      "addr:street": "Strada Tecuciul Nou",
+      "amenity": "school",
+      "email": "scoala1tecuci@yahoo.com",
+      "name": "Școala Gimnazială Anghel Rugină",
+      "phone": "+40 236 811 140",
+      "website": "https://www.anghelrugina.ro/"
+    }
   },
   {
     "id": "way-948438513",
@@ -159,7 +385,17 @@
     "subcategory": "school",
     "lat": 45.8506461,
     "lng": 27.4314233,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Tecuci",
+      "addr:housenumber": "15",
+      "addr:street": "Strada Alexandru Papadopol Calimah",
+      "amenity": "school",
+      "email": "scoala_nr_2_tecuci@yahoo.com",
+      "name": "Școala Gimnazială „Gheorghe Petrașcu”",
+      "phone": "+40 236 811 121",
+      "website": "https://scoalaghepetrascutecuci.wordpress.com/"
+    }
   },
   {
     "id": "way-1124864992",
@@ -168,7 +404,13 @@
     "subcategory": "christian",
     "lat": 45.8315153,
     "lng": 27.4704833,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1201795118",
@@ -177,7 +419,17 @@
     "subcategory": "christian",
     "lat": 45.8006968,
     "lng": 27.4648628,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Malu Alb",
+      "addr:street": "Strada Preot Pană Gheorghe",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Sfinții Arhangheli Mihail și Gavriil\"",
+      "religion": "christian",
+      "start_date": "1953"
+    }
   },
   {
     "id": "way-1201795120",
@@ -186,7 +438,17 @@
     "subcategory": "christian",
     "lat": 45.7872486,
     "lng": 27.4628302,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Drăgănești",
+      "addr:street": "Strada Principală",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Sfântul Mucenic Dimitrie – Izvorâtorul de Mir\"",
+      "religion": "christian",
+      "start_date": "1956"
+    }
   },
   {
     "id": "way-1202989120",
@@ -195,7 +457,18 @@
     "subcategory": "christian",
     "lat": 45.8408334,
     "lng": 27.4349023,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Tecuci",
+      "addr:housenumber": "4",
+      "addr:street": "Strada Ștefan Petică",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Adormirea Maicii Domnului”",
+      "religion": "christian",
+      "start_date": "1863"
+    }
   },
   {
     "id": "way-1202989122",
@@ -204,7 +477,18 @@
     "subcategory": "christian",
     "lat": 45.8699024,
     "lng": 27.4228824,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Tecuci",
+      "addr:housenumber": "67",
+      "addr:street": "Strada Tecuciul Nou",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Sfinții Apostoli Petru și Pavel\"",
+      "religion": "christian",
+      "start_date": "1886"
+    }
   },
   {
     "id": "way-1202989124",
@@ -213,7 +497,18 @@
     "subcategory": "christian",
     "lat": 45.8533812,
     "lng": 27.4317922,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Tecuci",
+      "addr:housenumber": "1",
+      "addr:street": "Strada Tineretului",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Sfântul Mucenic Dimitrie – Izvorâtorul de Mir\"",
+      "religion": "christian",
+      "start_date": "1856"
+    }
   },
   {
     "id": "way-1202989128",
@@ -222,7 +517,18 @@
     "subcategory": "christian",
     "lat": 45.8458617,
     "lng": 27.4223263,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Tecuci",
+      "addr:housenumber": "1",
+      "addr:street": "Strada Griviței",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Sfântul Ioan Botezătorul\"",
+      "religion": "christian",
+      "start_date": "1852"
+    }
   },
   {
     "id": "way-1202989134",
@@ -231,7 +537,18 @@
     "subcategory": "christian",
     "lat": 45.8361504,
     "lng": 27.4082395,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Tecuci",
+      "addr:housenumber": "33",
+      "addr:street": "Strada Ana Ipătescu",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Nașterea Maicii Domnului\"",
+      "religion": "christian",
+      "start_date": "1941"
+    }
   },
   {
     "id": "way-1202989136",
@@ -240,7 +557,18 @@
     "subcategory": "christian",
     "lat": 45.8466695,
     "lng": 27.4361953,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Tecuci",
+      "addr:housenumber": "25",
+      "addr:street": "Strada Gloriei",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Sfântul Nicolae\"",
+      "religion": "christian",
+      "start_date": "1828"
+    }
   },
   {
     "id": "way-1202989138",
@@ -249,7 +577,18 @@
     "subcategory": "christian",
     "lat": 45.8500868,
     "lng": 27.4352437,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Tecuci",
+      "addr:housenumber": "3",
+      "addr:street": "Strada Sfinții Voievozi",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Sfinții Arhangheli Mihail și Gavriil\"",
+      "religion": "christian",
+      "start_date": "1838"
+    }
   },
   {
     "id": "way-1202989140",
@@ -258,7 +597,14 @@
     "subcategory": "christian",
     "lat": 45.8544708,
     "lng": 27.4413183,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Tecuci",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1202989141",
@@ -267,7 +613,14 @@
     "subcategory": "christian",
     "lat": 45.8562067,
     "lng": 27.4196854,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Tecuci",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1454982751",
@@ -276,7 +629,22 @@
     "subcategory": "school",
     "lat": 45.8295579,
     "lng": 27.4376871,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Tecuci",
+      "addr:housenumber": "125",
+      "addr:postcode": "805300",
+      "addr:street": "Strada 1 Decembrie 1918",
+      "amenity": "school",
+      "education": "school",
+      "email": "scoalaiorguiordan@yahoo.com",
+      "internet_access": "wlan",
+      "name": "Școala Gimnazială Iorgu Iordan",
+      "phone": "0236 815 796",
+      "start_date": "1993",
+      "url": "https://plus.google.com/109390845182591718698/about?gl=ro&hl=ro",
+      "website": "https://scoalaiorguiordan.ro"
+    }
   },
   {
     "id": "way-1455482722",
@@ -285,7 +653,14 @@
     "subcategory": "school",
     "lat": 45.8459023,
     "lng": 27.4253535,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:housenumber": "24B",
+      "addr:street": "Strada Costache Racoviță",
+      "amenity": "school",
+      "education": "school",
+      "name": "Școala Gimnazială Nr.5 „Elena Doamna“ Tecuci"
+    }
   },
   {
     "id": "way-1455482723",
@@ -294,7 +669,17 @@
     "subcategory": "school",
     "lat": 45.8465796,
     "lng": 27.4275024,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Tecuci",
+      "addr:housenumber": "20",
+      "addr:postcode": "805300",
+      "addr:street": "Strada Costache Racoviță",
+      "amenity": "school",
+      "education": "school",
+      "name": "Colegiul Național Calistrat Hogaș",
+      "phone": "0236820010"
+    }
   },
   {
     "id": "way-1455487256",
@@ -303,7 +688,11 @@
     "subcategory": "school",
     "lat": 45.8463249,
     "lng": 27.4332844,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "amenity": "school",
+      "education": "school"
+    }
   },
   {
     "id": "relation-19932843",
@@ -312,6 +701,17 @@
     "subcategory": "school",
     "lat": 45.8357906,
     "lng": 27.427889,
-    "osmType": "relation"
+    "osmType": "relation",
+    "tags": {
+      "alt_name": "Școala Generală nr. 8",
+      "amenity": "school",
+      "education": "school",
+      "name": "Liceul Tehnologic „Ovid Caledoniu”",
+      "old_name:1962-1997": "Școla Gimnazială Nr. 8",
+      "old_name:1998-2000": "Școala de Arte și Meserii nr. 8 „Ovid Caledoniu”",
+      "old_name:2006-2012": "Grup Școlar „Ovid Caledoniu”",
+      "type": "multipolygon",
+      "website": "http://www.gsoc.ro"
+    }
   }
 ]

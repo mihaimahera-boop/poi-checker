@@ -1,1060 +1,1142 @@
-{
-  "city": "Voluntari",
-  "generated_at": "2026-04-23T10:24:10.242Z",
-  "counts": {
-    "total": 62,
-    "schools": 44,
-    "churches": 18
-  },
-  "pois": [
-    {
-      "id": "node/4081608255",
-      "osm_id": 4081608255,
-      "osm_type": "node",
-      "name": "Grădinița Zece",
-      "category": "education",
-      "lat": 44.5007171,
-      "lon": 26.127908,
-      "tags": {
-        "addr:city": "Pipera",
-        "addr:housenumber": "1",
-        "addr:postcode": "077191",
-        "addr:street": "Strada Eugen Jebeleanu",
-        "amenity": "kindergarten",
-        "is_in": "Pipera",
-        "is_in:city": "Voluntari",
-        "is_in:county": "Ilfov",
-        "name": "Grădinița Zece"
-      }
-    },
-    {
-      "id": "node/4085138025",
-      "osm_id": 4085138025,
-      "osm_type": "node",
-      "name": "Echilibria 1",
-      "category": "education",
-      "lat": 44.4913351,
-      "lon": 26.1438676,
-      "tags": {
-        "addr:city": "Pipera",
-        "addr:housenumber": "116C",
-        "addr:postcode": "077191",
-        "addr:street": "Strada Emil Racoviță 70",
-        "amenity": "kindergarten",
-        "is_in": "Pipera",
-        "is_in:city": "Voluntari",
-        "is_in:county": "Ilfov",
-        "name": "Echilibria 1",
-        "operator": "Echilibria Montessori Education",
-        "website": "https://www.echilibria.ro/"
-      }
-    },
-    {
-      "id": "node/4086292808",
-      "osm_id": 4086292808,
-      "osm_type": "node",
-      "name": "Echilibria 1",
-      "category": "education",
-      "lat": 44.5046483,
-      "lon": 26.1331412,
-      "tags": {
-        "addr:city": "Pipera",
-        "addr:housenumber": "35",
-        "addr:postcode": "077191",
-        "addr:street": "Strada Ștefan cel Mare",
-        "amenity": "kindergarten",
-        "is_in:city": "Voluntari",
-        "is_in:country": "România",
-        "is_in:county": "Ilfov",
-        "name": "Echilibria 1",
-        "operator": "Echilibria Montessori Education",
-        "website": "https://www.echilibria.ro/"
-      }
-    },
-    {
-      "id": "node/4086292831",
-      "osm_id": 4086292831,
-      "osm_type": "node",
-      "name": "Mark Twain",
-      "category": "education",
-      "lat": 44.5129047,
-      "lon": 26.1350591,
-      "tags": {
-        "amenity": "school",
-        "name": "Mark Twain"
-      }
-    },
-    {
-      "id": "node/4350169501",
-      "osm_id": 4350169501,
-      "osm_type": "node",
-      "name": "British School of Bucharest",
-      "category": "education",
-      "lat": 44.5138104,
-      "lon": 26.1336599,
-      "tags": {
-        "addr:city": "Voluntari",
-        "addr:housenumber": "42",
-        "addr:postcode": "077190",
-        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
-        "addr:street": "Strada Erou Iancu Nicolae",
-        "amenity": "school",
-        "description": "British School of Bucharest",
-        "name": "British School of Bucharest",
-        "operator": "Fundatia Crawford House",
-        "operator:type": "private_non_profit",
-        "source": "local knowledge",
-        "website": "https://britishschool.ro/"
-      }
-    },
-    {
-      "id": "node/4363436376",
-      "osm_id": 4363436376,
-      "osm_type": "node",
-      "name": "Școala gimnazială nr. 3 Voluntari - Pipera",
-      "category": "education",
-      "lat": 44.4991769,
-      "lon": 26.1355983,
-      "tags": {
-        "amenity": "school",
-        "name": "Școala gimnazială nr. 3 Voluntari - Pipera"
-      }
-    },
-    {
-      "id": "node/4894589222",
-      "osm_id": 4894589222,
-      "osm_type": "node",
-      "name": "Kindergarden",
-      "category": "education",
-      "lat": 44.5155584,
-      "lon": 26.1409573,
-      "tags": {
-        "addr:housenumber": "77",
-        "addr:street": "Bulevardul Pipera",
-        "amenity": "kindergarten",
-        "name": "Kindergarden",
-        "name:ro": "Kindergarden"
-      }
-    },
-    {
-      "id": "way/49744163",
-      "osm_id": 49744163,
-      "osm_type": "way",
-      "name": "Școala Americană",
-      "category": "education",
-      "lat": 44.5284662,
-      "lon": 26.1447837,
-      "tags": {
-        "addr:city": "Pipera",
-        "addr:housenumber": "196",
-        "addr:postcode": "077191",
-        "addr:street": "Bulevardul Pipera",
-        "amenity": "school",
-        "landuse": "education",
-        "name": "Școala Americană",
-        "name:en": "American International School of Bucharest",
-        "name:ro": "Școala Americană",
-        "phone": "+40 21 204 4300",
-        "website": "https://www.aisb.ro/"
-      }
-    },
-    {
-      "id": "way/258882657",
-      "osm_id": 258882657,
-      "osm_type": "way",
-      "name": "Școală Primară Optima",
-      "category": "education",
-      "lat": 44.4839668,
-      "lon": 26.1648134,
-      "tags": {
-        "addr:city": "Voluntari",
-        "addr:housenumber": "6-8",
-        "addr:postcode": "077190",
-        "addr:street": "Bulevardul Eroilor",
-        "building": "school",
-        "building:levels": "3",
-        "name": "Școală Primară Optima"
-      }
-    },
-    {
-      "id": "way/406574073",
-      "osm_id": 406574073,
-      "osm_type": "way",
-      "name": "Mark Twain International School Senior Campus",
-      "category": "education",
-      "lat": 44.5139217,
-      "lon": 26.1184451,
-      "tags": {
-        "addr:city": "Voluntari",
-        "addr:country": "RO",
-        "addr:housenumber": "89-93",
-        "addr:postcode": "077191",
-        "addr:street": "Strada Erou Iancu Nicolae",
-        "amenity": "school",
-        "barrier": "fence",
-        "landuse": "education",
-        "name": "Mark Twain International School Senior Campus",
-        "name:en": "Mark Twain International School Senior Campus",
-        "name:ro": "Școala Internațională Mark Twain",
-        "operator": "Mark Twain International School",
-        "operator:type": "private",
-        "phone": "+40 21 267 8912",
-        "website": "https://marktwainschool.ro/"
-      }
-    },
-    {
-      "id": "way/406574074",
-      "osm_id": 406574074,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 44.5045806,
-      "lon": 26.1330337,
-      "tags": {
-        "amenity": "kindergarten"
-      }
-    },
-    {
-      "id": "way/406574075",
-      "osm_id": 406574075,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 44.5007113,
-      "lon": 26.1278186,
-      "tags": {
-        "addr:city": "Pipera",
-        "addr:postcode": "077191",
-        "amenity": "kindergarten"
-      }
-    },
-    {
-      "id": "way/433371138",
-      "osm_id": 433371138,
-      "osm_type": "way",
-      "name": "International Maarif Schools of Bucharest",
-      "category": "education",
-      "lat": 44.5293964,
-      "lon": 26.1556026,
-      "tags": {
-        "addr:city": "Voluntari",
-        "addr:housenumber": "206 bis",
-        "addr:postcode": "077190",
-        "addr:street": "Bulevardul Pipera",
-        "amenity": "school",
-        "building": "yes",
-        "building:levels": "3",
-        "fee": "yes",
-        "mapillary": "764930677720007",
-        "name": "International Maarif Schools of Bucharest",
-        "religion": "muslim",
-        "website": "https://www.imsb.ro/"
-      }
-    },
-    {
-      "id": "way/588362577",
-      "osm_id": 588362577,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 44.5147903,
-      "lon": 26.1333258,
-      "tags": {
-        "building": "school"
-      }
-    },
-    {
-      "id": "way/588362579",
-      "osm_id": 588362579,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 44.514263,
-      "lon": 26.1331288,
-      "tags": {
-        "building": "school"
-      }
-    },
-    {
-      "id": "way/588362580",
-      "osm_id": 588362580,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 44.5141768,
-      "lon": 26.134232,
-      "tags": {
-        "building": "school"
-      }
-    },
-    {
-      "id": "way/588362581",
-      "osm_id": 588362581,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 44.5139274,
-      "lon": 26.1336538,
-      "tags": {
-        "building": "school"
-      }
-    },
-    {
-      "id": "way/588362582",
-      "osm_id": 588362582,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 44.513964,
-      "lon": 26.1330646,
-      "tags": {
-        "building": "school"
-      }
-    },
-    {
-      "id": "way/588362583",
-      "osm_id": 588362583,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 44.5139525,
-      "lon": 26.1332468,
-      "tags": {
-        "building": "school"
-      }
-    },
-    {
-      "id": "way/588362584",
-      "osm_id": 588362584,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 44.5138731,
-      "lon": 26.134203,
-      "tags": {
-        "building": "school"
-      }
-    },
-    {
-      "id": "way/588362585",
-      "osm_id": 588362585,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 44.5146613,
-      "lon": 26.1336571,
-      "tags": {
-        "building": "school"
-      }
-    },
-    {
-      "id": "way/588362586",
-      "osm_id": 588362586,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 44.5149327,
-      "lon": 26.1335183,
-      "tags": {
-        "building": "school"
-      }
-    },
-    {
-      "id": "way/588362587",
-      "osm_id": 588362587,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 44.5150127,
-      "lon": 26.1332344,
-      "tags": {
-        "building": "school"
-      }
-    },
-    {
-      "id": "way/588362589",
-      "osm_id": 588362589,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 44.5151679,
-      "lon": 26.1334782,
-      "tags": {
-        "building": "school"
-      }
-    },
-    {
-      "id": "way/588362590",
-      "osm_id": 588362590,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 44.5150953,
-      "lon": 26.1341963,
-      "tags": {
-        "building": "school"
-      }
-    },
-    {
-      "id": "way/588362591",
-      "osm_id": 588362591,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 44.5153266,
-      "lon": 26.1342257,
-      "tags": {
-        "building": "school"
-      }
-    },
-    {
-      "id": "way/588362593",
-      "osm_id": 588362593,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 44.5153363,
-      "lon": 26.1333281,
-      "tags": {
-        "building": "school"
-      }
-    },
-    {
-      "id": "way/588362594",
-      "osm_id": 588362594,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 44.5151582,
-      "lon": 26.1332512,
-      "tags": {
-        "building": "school"
-      }
-    },
-    {
-      "id": "way/588362595",
-      "osm_id": 588362595,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 44.5157842,
-      "lon": 26.13357,
-      "tags": {
-        "building": "school"
-      }
-    },
-    {
-      "id": "way/588363898",
-      "osm_id": 588363898,
-      "osm_type": "way",
-      "name": "British School of Bucharest",
-      "category": "education",
-      "lat": 44.514915,
-      "lon": 26.1337376,
-      "tags": {
-        "addr:city": "Voluntari",
-        "addr:housenumber": "42",
-        "addr:postcode": "077190",
-        "addr:street": "Strada Erou Iancu Nicolae",
-        "amenity": "school",
-        "name": "British School of Bucharest",
-        "phone": "+4021 267 8919",
-        "source": "local knowledge",
-        "website": "https://britishschool.ro"
-      }
-    },
-    {
-      "id": "way/668562752",
-      "osm_id": 668562752,
-      "osm_type": "way",
-      "name": "Olga Gudynn International School",
-      "category": "education",
-      "lat": 44.5131521,
-      "lon": 26.1382384,
-      "tags": {
-        "addr:city": "Voluntari",
-        "addr:housenumber": "5",
-        "addr:postcode": "077190",
-        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
-        "addr:street": "Strada Erou Iancu Nicolae",
-        "amenity": "school",
-        "building": "school",
-        "established": "2001",
-        "name": "Olga Gudynn International School"
-      }
-    },
-    {
-      "id": "way/668710472",
-      "osm_id": 668710472,
-      "osm_type": "way",
-      "name": "Olga Gudynn International School",
-      "category": "education",
-      "lat": 44.5314906,
-      "lon": 26.1420286,
-      "tags": {
-        "addr:city": "Voluntari",
-        "addr:housenumber": "Nr. 141,",
-        "addr:postcode": "077191",
-        "addr:street": "Bulevardul Pipera",
-        "building": "school",
-        "established": "2001",
-        "name": "Olga Gudynn International School",
-        "note": "Coming Soon... signs as of February 2019"
-      }
-    },
-    {
-      "id": "way/669218279",
-      "osm_id": 669218279,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 44.4978784,
-      "lon": 26.1934232,
-      "tags": {
-        "addr:street": "Strada Neajlov",
-        "amenity": "school",
-        "building": "yes",
-        "fixme": "name"
-      }
-    },
-    {
-      "id": "way/686580014",
-      "osm_id": 686580014,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 44.5158654,
-      "lon": 26.1163102,
-      "tags": {
-        "addr:city": "Voluntari",
-        "addr:housenumber": "126C",
-        "addr:postcode": "077190",
-        "addr:street": "Strada Erou Iancu Nicolae",
-        "building": "school",
-        "building:levels": "3"
-      }
-    },
-    {
-      "id": "way/710632629",
-      "osm_id": 710632629,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 44.5136819,
-      "lon": 26.1186159,
-      "tags": {
-        "building": "school",
-        "building:levels": "4",
-        "roof:levels": "1",
-        "roof:shape": "gabled"
-      }
-    },
-    {
-      "id": "way/744271528",
-      "osm_id": 744271528,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 44.491978,
-      "lon": 26.2019169,
-      "tags": {
-        "addr:city": "Voluntari",
-        "addr:postcode": "077190",
-        "addr:street": "Strada Școlii",
-        "building": "school"
-      }
-    },
-    {
-      "id": "way/746832599",
-      "osm_id": 746832599,
-      "osm_type": "way",
-      "name": "International Maarif Schools of Bucharest",
-      "category": "education",
-      "lat": 44.5295247,
-      "lon": 26.1555301,
-      "tags": {
-        "addr:city": "Voluntari",
-        "addr:housenumber": "206 bis",
-        "addr:postcode": "077190",
-        "addr:street": "Bulevardul Pipera",
-        "amenity": "school",
-        "internet_access": "wlan",
-        "landuse": "residential",
-        "name": "International Maarif Schools of Bucharest",
-        "religion": "muslim",
-        "website": "https://www.imsb.ro/"
-      }
-    },
-    {
-      "id": "way/934443861",
-      "osm_id": 934443861,
-      "osm_type": "way",
-      "name": "Cambridge School of Bucharest",
-      "category": "education",
-      "lat": 44.5155261,
-      "lon": 26.1162542,
-      "tags": {
-        "addr:city": "Voluntari",
-        "addr:country": "RO",
-        "addr:county": "RO",
-        "addr:housenumber": "126C",
-        "addr:postcode": "077190",
-        "addr:street": "Strada Erou Iancu Nicolae",
-        "amenity": "school",
-        "barrier": "fence",
-        "description": "Founded in 1994, Cambridge School of Bucharest became an accredited British School Overseas in 2018. In August 2020, the school moved from Calea Dorobantilor 39 to a new location in the Bucharest neighbourhood of Pipera.",
-        "grades": "0-12",
-        "name": "Cambridge School of Bucharest",
-        "operator:type": "private",
-        "start_date": "1994",
-        "website": "https://www.cambridgeschool.ro/"
-      }
-    },
-    {
-      "id": "way/1076385867",
-      "osm_id": 1076385867,
-      "osm_type": "way",
-      "name": "Questfield school Pipera",
-      "category": "education",
-      "lat": 44.5146114,
-      "lon": 26.14614,
-      "tags": {
-        "addr:city": "Pipera",
-        "addr:housenumber": "26",
-        "addr:postcode": "077191",
-        "addr:street": "Strada Titu Maiorescu",
-        "amenity": "school",
-        "grades": "0-8",
-        "name": "Questfield school Pipera",
-        "website": "https://www.questfield.ro/"
-      }
-    },
-    {
-      "id": "way/1132520258",
-      "osm_id": 1132520258,
-      "osm_type": "way",
-      "name": "Școala nr. 1",
-      "category": "education",
-      "lat": 44.4869386,
-      "lon": 26.1771379,
-      "tags": {
-        "addr:city": "Voluntari",
-        "addr:housenumber": "7",
-        "addr:street": "Strada Anton Pann",
-        "building": "school",
-        "building:levels": "3",
-        "name": "Școala nr. 1"
-      }
-    },
-    {
-      "id": "way/1164878082",
-      "osm_id": 1164878082,
-      "osm_type": "way",
-      "name": "Școala nr. 2, Voluntari",
-      "category": "education",
-      "lat": 44.4982733,
-      "lon": 26.1944119,
-      "tags": {
-        "addr:city": "Voluntari",
-        "addr:housenumber": "51",
-        "addr:street": "Bulevardul Dunării",
-        "building": "school",
-        "name": "Școala nr. 2, Voluntari"
-      }
-    },
-    {
-      "id": "way/1164883048",
-      "osm_id": 1164883048,
-      "osm_type": "way",
-      "name": "Școala gimnazială Anton Pann",
-      "category": "education",
-      "lat": 44.4837866,
-      "lon": 26.184399,
-      "tags": {
-        "addr:city": "Voluntari",
-        "addr:street": "Bulevardul Nicolae Bălcescu",
-        "building": "school",
-        "building:levels": "2",
-        "name": "Școala gimnazială Anton Pann"
-      }
-    },
-    {
-      "id": "way/1271421982",
-      "osm_id": 1271421982,
-      "osm_type": "way",
-      "name": "Școala Gimnazială nr. 2",
-      "category": "education",
-      "lat": 44.4984662,
-      "lon": 26.194283,
-      "tags": {
-        "addr:city": "Voluntari",
-        "addr:housenumber": "51",
-        "addr:postcode": "077190",
-        "addr:street": "Bulevardul Dunării",
-        "amenity": "school",
-        "name": "Școala Gimnazială nr. 2"
-      }
-    },
-    {
-      "id": "way/1271421983",
-      "osm_id": 1271421983,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 44.4986132,
-      "lon": 26.1940139,
-      "tags": {
-        "building": "school"
-      }
-    },
-    {
-      "id": "node/581138389",
-      "osm_id": 581138389,
-      "osm_type": "node",
-      "name": "Biserica „Sfânta Irina”",
-      "category": "place_of_worship",
-      "lat": 44.4983275,
-      "lon": 26.1738736,
-      "tags": {
-        "addr:city": "Voluntari",
-        "addr:housenumber": "10",
-        "addr:interpolation": "even",
-        "addr:postcode": "077190",
-        "addr:street": "Strada Erou Mircea Marinescu",
-        "amenity": "place_of_worship",
-        "denomination": "romanian_orthodox",
-        "email": "parohiasfantairina@yahoo.com",
-        "name": "Biserica „Sfânta Irina”",
-        "phone": "0788.202.640",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "node/924445135",
-      "osm_id": 924445135,
-      "osm_type": "node",
-      "name": "Biserica Ortodoxă „Popa Șapcă” Voluntari",
-      "category": "place_of_worship",
-      "lat": 44.4858829,
-      "lon": 26.1801426,
-      "tags": {
-        "addr:city": "Voluntari",
-        "addr:housenumber": "1",
-        "addr:postcode": "077190",
-        "addr:street": "Strada Popa Șapcă",
-        "amenity": "place_of_worship",
-        "check_date": "2024-06-02",
-        "denomination": "romanian_orthodox",
-        "is_in:city": "Voluntari",
-        "is_in:country": "România",
-        "is_in:county": "Ilfov",
-        "name": "Biserica Ortodoxă „Popa Șapcă” Voluntari",
-        "religion": "christian",
-        "start_date": "1953"
-      }
-    },
-    {
-      "id": "node/6262853659",
-      "osm_id": 6262853659,
-      "osm_type": "node",
-      "name": "Capelă",
-      "category": "place_of_worship",
-      "lat": 44.5028444,
-      "lon": 26.1959848,
-      "tags": {
-        "addr:street": "Strada Prahova",
-        "amenity": "place_of_worship",
-        "name": "Capelă",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "node/8594301064",
-      "osm_id": 8594301064,
-      "osm_type": "node",
-      "name": "Biserica Ortodoxă ”Adormirea Maicii Domnului” Pipera",
-      "category": "place_of_worship",
-      "lat": 44.5041452,
-      "lon": 26.1370465,
-      "tags": {
-        "amenity": "place_of_worship",
-        "denomination": "romanian_orthodox",
-        "name": "Biserica Ortodoxă ”Adormirea Maicii Domnului” Pipera",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "node/10685067104",
-      "osm_id": 10685067104,
-      "osm_type": "node",
-      "name": "Biserica Sfânta Maria",
-      "category": "place_of_worship",
-      "lat": 44.5111198,
-      "lon": 26.1350356,
-      "tags": {
-        "amenity": "place_of_worship",
-        "name": "Biserica Sfânta Maria",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/24612749",
-      "osm_id": 24612749,
-      "osm_type": "way",
-      "name": "Cimitirul Ortodox „Sfântul Vasile cel Mare” Voluntari",
-      "category": "place_of_worship",
-      "lat": 44.4919058,
-      "lon": 26.1618365,
-      "tags": {
-        "addr:city": "Voluntari",
-        "addr:street": "Drumul Becheanului",
-        "denomination": "romanian_orthodox",
-        "landuse": "cemetery",
-        "name": "Cimitirul Ortodox „Sfântul Vasile cel Mare” Voluntari",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/35773386",
-      "osm_id": 35773386,
-      "osm_type": "way",
-      "name": "Cimitirul Ortodox Pipera",
-      "category": "place_of_worship",
-      "lat": 44.4998578,
-      "lon": 26.123635,
-      "tags": {
-        "addr:city": "Pipera",
-        "addr:street": "Drumul Bisericii",
-        "amenity": "grave_yard",
-        "denomination": "romanian_orthodox",
-        "landuse": "cemetery",
-        "name": "Cimitirul Ortodox Pipera",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/188099781",
-      "osm_id": 188099781,
-      "osm_type": "way",
-      "name": "Catedrala Ortodoxă Voluntari",
-      "category": "place_of_worship",
-      "lat": 44.4938162,
-      "lon": 26.1828913,
-      "tags": {
-        "addr:city": "Voluntari",
-        "addr:street": "Strada Mihai Viteazu",
-        "amenity": "place_of_worship",
-        "building": "cathedral",
-        "check_date": "2024-06-02",
-        "denomination": "romanian_orthodox",
-        "name": "Catedrala Ortodoxă Voluntari",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/330122602",
-      "osm_id": 330122602,
-      "osm_type": "way",
-      "name": "Biserica Creștină Baptistă \"Credința\" Voluntari",
-      "category": "place_of_worship",
-      "lat": 44.488604,
-      "lon": 26.1835718,
-      "tags": {
-        "addr:city": "Voluntari",
-        "addr:housenumber": "61A",
-        "addr:postcode": "077190",
-        "addr:street": "Bulevardul Voluntari",
-        "amenity": "place_of_worship",
-        "building": "yes",
-        "denomination": "baptist",
-        "name": "Biserica Creștină Baptistă \"Credința\" Voluntari",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/598169323",
-      "osm_id": 598169323,
-      "osm_type": "way",
-      "name": "Biserica Ortodoxă „Sf. Ier. Nicolae și Sf. Cuv. Teodora de la Sihla” - Domus",
-      "category": "place_of_worship",
-      "lat": 44.4938942,
-      "lon": 26.1409245,
-      "tags": {
-        "addr:city": "Voluntari",
-        "addr:housenumber": "70",
-        "addr:street": "Strada Emil Racoviță",
-        "amenity": "place_of_worship",
-        "building": "yes",
-        "denomination": "romanian_orthodox",
-        "is_in:city": "Voluntari",
-        "is_in:country": "România",
-        "is_in:county": "Ilfov",
-        "name": "Biserica Ortodoxă „Sf. Ier. Nicolae și Sf. Cuv. Teodora de la Sihla” - Domus",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/669218281",
-      "osm_id": 669218281,
-      "osm_type": "way",
-      "name": "Biserica Ortodoxă „Jiului” Voluntari",
-      "category": "place_of_worship",
-      "lat": 44.499633,
-      "lon": 26.1970707,
-      "tags": {
-        "addr:city": "Voluntari",
-        "addr:housenumber": "110",
-        "addr:postcode": "077190",
-        "addr:street": "Strada Jiului",
-        "amenity": "place_of_worship",
-        "building": "yes",
-        "denomination": "romanian_orthodox",
-        "is_in:city": "Voluntari",
-        "is_in:country": "România",
-        "is_in:county": "Ilfov",
-        "name": "Biserica Ortodoxă „Jiului” Voluntari",
-        "religion": "christian",
-        "start_date": "1971"
-      }
-    },
-    {
-      "id": "way/708821694",
-      "osm_id": 708821694,
-      "osm_type": "way",
-      "name": "Biserica „Sfântul Ilie Tesviteanul”",
-      "category": "place_of_worship",
-      "lat": 44.4994452,
-      "lon": 26.1239352,
-      "tags": {
-        "addr:city": "Pipera",
-        "addr:housenumber": "34A",
-        "addr:postcode": "077191",
-        "addr:street": "Drumul Bisericii",
-        "alt_name": "Fostul Schit „Sfântul Ilie Tătăranu” Pipera",
-        "amenity": "place_of_worship",
-        "building": "yes",
-        "denomination": "romanian_orthodox",
-        "description": "Biserica Sfântul Ilie- Pipera-Tătăranu, situată pe Drumul Bisericii, în cartierul Pipera din orașul Voluntari este menționată încă din secolul XVIII, când pe acest loc exista un schit de călugări și o biserică de lemn.",
-        "heritage": "2",
-        "heritage:operator": "lmi",
-        "name": "Biserica „Sfântul Ilie Tesviteanul”",
-        "ref:RO:lmi": "IF-II-m-B-15304",
-        "religion": "christian",
-        "source": "http://www.biserici.org/index.php?menu=BI&code=12473"
-      }
-    },
-    {
-      "id": "way/829839857",
-      "osm_id": 829839857,
-      "osm_type": "way",
-      "name": "Balkan Vakfı - Camii",
-      "category": "place_of_worship",
-      "lat": 44.4975124,
-      "lon": 26.2046603,
-      "tags": {
-        "amenity": "place_of_worship",
-        "building": "yes",
-        "denomination": "sunni",
-        "name": "Balkan Vakfı - Camii",
-        "religion": "muslim"
-      }
-    },
-    {
-      "id": "way/1207716259",
-      "osm_id": 1207716259,
-      "osm_type": "way",
-      "name": "Biserica Adventistă Voluntari",
-      "category": "place_of_worship",
-      "lat": 44.4881143,
-      "lon": 26.1744422,
-      "tags": {
-        "addr:city": "Voluntari",
-        "addr:country": "RO",
-        "addr:housenumber": "35",
-        "addr:postcode": "077190",
-        "addr:street": "Strada Mihai Viteazu",
-        "amenity": "place_of_worship",
-        "building": "church",
-        "denomination": "seventh_day_adventist",
-        "name": "Biserica Adventistă Voluntari",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/1227626063",
-      "osm_id": 1227626063,
-      "osm_type": "way",
-      "name": "Biserica Ortodoxă „Eroilor” Voluntari",
-      "category": "place_of_worship",
-      "lat": 44.488133,
-      "lon": 26.1707631,
-      "tags": {
-        "addr:city": "Voluntari",
-        "addr:housenumber": "39",
-        "addr:postcode": "077190",
-        "addr:street": "Strada Tudor Vladimirescu",
-        "amenity": "place_of_worship",
-        "building": "church",
-        "denomination": "romanian_orthodox",
-        "is_in:city": "Voluntari",
-        "is_in:country": "România",
-        "is_in:county": "Ilfov",
-        "name": "Biserica Ortodoxă „Eroilor” Voluntari",
-        "religion": "christian",
-        "start_date": "1990"
-      }
-    },
-    {
-      "id": "way/1229521852",
-      "osm_id": 1229521852,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "place_of_worship",
-      "lat": 44.4919062,
-      "lon": 26.1256493,
-      "tags": {
-        "addr:city": "Voluntari",
-        "addr:country": "RO",
-        "addr:housenumber": "2",
-        "addr:postcode": "077190",
-        "addr:street": "Bulevardul Pipera",
-        "amenity": "place_of_worship",
-        "building": "construction",
-        "denomination": "romanian_orthodox",
-        "height": "12",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/1271172279",
-      "osm_id": 1271172279,
-      "osm_type": "way",
-      "name": "Biserica Sfantului Alois Orione",
-      "category": "place_of_worship",
-      "lat": 44.4950698,
-      "lon": 26.175306,
-      "tags": {
-        "amenity": "place_of_worship",
-        "building": "yes",
-        "denomination": "roman_catholic",
-        "name": "Biserica Sfantului Alois Orione",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/1340011417",
-      "osm_id": 1340011417,
-      "osm_type": "way",
-      "name": "Biserica „Sfânta Irina”",
-      "category": "place_of_worship",
-      "lat": 44.4983609,
-      "lon": 26.1738054,
-      "tags": {
-        "denomination": "orthodox",
-        "landuse": "religious",
-        "name": "Biserica „Sfânta Irina”",
-        "religion": "christian"
-      }
+[
+  {
+    "id": "node-581132183",
+    "name": "Centrul medical NATURALIA",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 44.4981209,
+    "lng": 26.1744422,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Voluntari",
+      "addr:country": "RO",
+      "addr:housenumber": "8",
+      "addr:interpolation": "even",
+      "addr:postcode": "077190",
+      "addr:street": "Strada Erou Mircea Marinescu",
+      "amenity": "hospital",
+      "name": "Centrul medical NATURALIA"
     }
-  ]
-}
+  },
+  {
+    "id": "node-581138389",
+    "name": "Biserica „Sfânta Irina”",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.4983275,
+    "lng": 26.1738736,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Voluntari",
+      "addr:housenumber": "10",
+      "addr:interpolation": "even",
+      "addr:postcode": "077190",
+      "addr:street": "Strada Erou Mircea Marinescu",
+      "amenity": "place_of_worship",
+      "denomination": "romanian_orthodox",
+      "email": "parohiasfantairina@yahoo.com",
+      "name": "Biserica „Sfânta Irina”",
+      "phone": "0788.202.640",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-924445135",
+    "name": "Biserica Ortodoxă „Popa Șapcă” Voluntari",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.4858829,
+    "lng": 26.1801426,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Voluntari",
+      "addr:housenumber": "1",
+      "addr:postcode": "077190",
+      "addr:street": "Strada Popa Șapcă",
+      "amenity": "place_of_worship",
+      "check_date": "2024-06-02",
+      "denomination": "romanian_orthodox",
+      "is_in:city": "Voluntari",
+      "is_in:country": "România",
+      "is_in:county": "Ilfov",
+      "name": "Biserica Ortodoxă „Popa Șapcă” Voluntari",
+      "religion": "christian",
+      "start_date": "1953"
+    }
+  },
+  {
+    "id": "node-3749088960",
+    "name": "Medicover",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 44.4792685,
+    "lng": 26.1162812,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "București",
+      "addr:housenumber": "2C",
+      "addr:postcode": "020339",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada George Constantinescu",
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "name": "Medicover",
+      "opening_hours": "Mo-Fr 08:00-20:00",
+      "phone": "+40212328530",
+      "source": "survey",
+      "website": "https://www.medicover.ro/"
+    }
+  },
+  {
+    "id": "node-3773823666",
+    "name": "Centrul de Îngrijiri Paliative „Sfânta Irina”",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 44.497301,
+    "lng": 26.1754403,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Voluntari",
+      "addr:housenumber": "3",
+      "addr:postcode": "077190",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Erou Mircea Marinescu",
+      "amenity": "hospital",
+      "name": "Centrul de Îngrijiri Paliative „Sfânta Irina”",
+      "phone": "+4021 352 0042",
+      "website": "http://www.sfantairina.ro/"
+    }
+  },
+  {
+    "id": "node-4081608255",
+    "name": "Grădinița Zece",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 44.5007171,
+    "lng": 26.127908,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Pipera",
+      "addr:housenumber": "1",
+      "addr:postcode": "077191",
+      "addr:street": "Strada Eugen Jebeleanu",
+      "amenity": "kindergarten",
+      "is_in": "Pipera",
+      "is_in:city": "Voluntari",
+      "is_in:county": "Ilfov",
+      "name": "Grădinița Zece"
+    }
+  },
+  {
+    "id": "node-4085138025",
+    "name": "Echilibria 1",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 44.4913351,
+    "lng": 26.1438676,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Pipera",
+      "addr:housenumber": "116C",
+      "addr:postcode": "077191",
+      "addr:street": "Strada Emil Racoviță 70",
+      "amenity": "kindergarten",
+      "is_in": "Pipera",
+      "is_in:city": "Voluntari",
+      "is_in:county": "Ilfov",
+      "name": "Echilibria 1",
+      "operator": "Echilibria Montessori Education",
+      "website": "https://www.echilibria.ro/"
+    }
+  },
+  {
+    "id": "node-4086292808",
+    "name": "Echilibria 1",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 44.5046483,
+    "lng": 26.1331412,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Pipera",
+      "addr:housenumber": "35",
+      "addr:postcode": "077191",
+      "addr:street": "Strada Ștefan cel Mare",
+      "amenity": "kindergarten",
+      "is_in:city": "Voluntari",
+      "is_in:country": "România",
+      "is_in:county": "Ilfov",
+      "name": "Echilibria 1",
+      "operator": "Echilibria Montessori Education",
+      "website": "https://www.echilibria.ro/"
+    }
+  },
+  {
+    "id": "node-4086292831",
+    "name": "Mark Twain",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.5129047,
+    "lng": 26.1350591,
+    "osmType": "node",
+    "tags": {
+      "amenity": "school",
+      "name": "Mark Twain"
+    }
+  },
+  {
+    "id": "node-4089856537",
+    "name": "Bio Medica Pipera",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 44.5078619,
+    "lng": 26.1381904,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Pipera",
+      "addr:housenumber": "44",
+      "addr:postcode": "077191",
+      "addr:street": "Bulevardul Pipera",
+      "amenity": "clinic",
+      "is_in:city": "Voluntari",
+      "is_in:country": "România",
+      "is_in:county": "Ilfov",
+      "name": "Bio Medica Pipera",
+      "operator": "Bio-Medica International",
+      "phone": "+40 21 267 4225",
+      "source": "http://www.bio-medica.ro/ro/sedii/pipera"
+    }
+  },
+  {
+    "id": "node-4350169501",
+    "name": "British School of Bucharest",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.5138104,
+    "lng": 26.1336599,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Voluntari",
+      "addr:housenumber": "42",
+      "addr:postcode": "077190",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Erou Iancu Nicolae",
+      "amenity": "school",
+      "description": "British School of Bucharest",
+      "name": "British School of Bucharest",
+      "operator": "Fundatia Crawford House",
+      "operator:type": "private_non_profit",
+      "source": "local knowledge",
+      "website": "https://britishschool.ro/"
+    }
+  },
+  {
+    "id": "node-4350169506",
+    "name": "EUROCLINIC Pipera",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 44.5149849,
+    "lng": 26.1175371,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Voluntari",
+      "addr:housenumber": "124",
+      "addr:postcode": "077190",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Erou Iancu Nicolae",
+      "amenity": "clinic",
+      "name": "EUROCLINIC Pipera",
+      "name:ro": "FamilyClinic"
+    }
+  },
+  {
+    "id": "node-4363436376",
+    "name": "Școala gimnazială nr. 3 Voluntari - Pipera",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.4991769,
+    "lng": 26.1355983,
+    "osmType": "node",
+    "tags": {
+      "amenity": "school",
+      "name": "Școala gimnazială nr. 3 Voluntari - Pipera"
+    }
+  },
+  {
+    "id": "node-4894589222",
+    "name": "Kindergarden",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 44.5155584,
+    "lng": 26.1409573,
+    "osmType": "node",
+    "tags": {
+      "addr:housenumber": "77",
+      "addr:street": "Bulevardul Pipera",
+      "amenity": "kindergarten",
+      "name": "Kindergarden",
+      "name:ro": "Kindergarden"
+    }
+  },
+  {
+    "id": "node-6262853659",
+    "name": "Capelă",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.5028444,
+    "lng": 26.1959848,
+    "osmType": "node",
+    "tags": {
+      "addr:street": "Strada Prahova",
+      "amenity": "place_of_worship",
+      "name": "Capelă",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-6266989725",
+    "name": "Liberty",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 44.5376208,
+    "lng": 26.1971073,
+    "osmType": "node",
+    "tags": {
+      "addr:street": "Strada Spicului",
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "name": "Liberty"
+    }
+  },
+  {
+    "id": "node-6436505010",
+    "name": "Regina Maria",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 44.4823027,
+    "lng": 26.1189829,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "București",
+      "addr:housenumber": "9-9A",
+      "addr:street": "Bulevardul Dimitrie Pompeiu",
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "name": "Regina Maria",
+      "operator": "Regina Maria"
+    }
+  },
+  {
+    "id": "node-8594301064",
+    "name": "Biserica Ortodoxă ”Adormirea Maicii Domnului” Pipera",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.5041452,
+    "lng": 26.1370465,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica Ortodoxă ”Adormirea Maicii Domnului” Pipera",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-8628401572",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet",
+    "lat": 44.50845,
+    "lng": 26.138545,
+    "osmType": "node",
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-8628417860",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet",
+    "lat": 44.5134579,
+    "lng": 26.1268537,
+    "osmType": "node",
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-8628418294",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet",
+    "lat": 44.4914093,
+    "lng": 26.1891655,
+    "osmType": "node",
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-9003048997",
+    "name": "General Med",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 44.4825045,
+    "lng": 26.1081401,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "București",
+      "addr:housenumber": "46F",
+      "addr:street": "Șoseaua Pipera",
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "name": "General Med",
+      "phone": "+40737888666"
+    }
+  },
+  {
+    "id": "node-10685067104",
+    "name": "Biserica Sfânta Maria",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.5111198,
+    "lng": 26.1350356,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Biserica Sfânta Maria",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-11586576852",
+    "name": "Affidea",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 44.531189,
+    "lng": 26.1697313,
+    "osmType": "node",
+    "tags": {
+      "amenity": "clinic",
+      "contact:email": "office@affidea.com",
+      "contact:phone": "+40 21 9338",
+      "contact:website": "https://affidea.ro/",
+      "name": "Affidea",
+      "opening_hours": "Mo-Fr 09:00-18:00"
+    }
+  },
+  {
+    "id": "way-23732187",
+    "name": "Colegiul Tehnic \"Edmond Nicolau\"",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.4795929,
+    "lng": 26.1084871,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "București",
+      "addr:housenumber": "3",
+      "addr:postcode": "020335",
+      "addr:street": "Bulevardul Dimitrie Pompeiu",
+      "amenity": "school",
+      "barrier": "fence",
+      "education": "school",
+      "name": "Colegiul Tehnic \"Edmond Nicolau\""
+    }
+  },
+  {
+    "id": "way-49744163",
+    "name": "Școala Americană",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.5284662,
+    "lng": 26.1447837,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Pipera",
+      "addr:housenumber": "196",
+      "addr:postcode": "077191",
+      "addr:street": "Bulevardul Pipera",
+      "amenity": "school",
+      "landuse": "education",
+      "name": "Școala Americană",
+      "name:en": "American International School of Bucharest",
+      "name:ro": "Școala Americană",
+      "phone": "+40 21 204 4300",
+      "website": "https://www.aisb.ro/"
+    }
+  },
+  {
+    "id": "way-188099781",
+    "name": "Catedrala Ortodoxă Voluntari",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.4938162,
+    "lng": 26.1828913,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Voluntari",
+      "addr:street": "Strada Mihai Viteazu",
+      "amenity": "place_of_worship",
+      "building": "cathedral",
+      "check_date": "2024-06-02",
+      "denomination": "romanian_orthodox",
+      "name": "Catedrala Ortodoxă Voluntari",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-231123131",
+    "name": "Centrul naturist de sănătate Santo Raphael",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 44.4798228,
+    "lng": 26.111576,
+    "osmType": "way",
+    "tags": {
+      "addr:street": "Bulevardul Dimitrie Pompeiu",
+      "amenity": "clinic",
+      "building": "yes",
+      "healthcare": "clinic",
+      "name": "Centrul naturist de sănătate Santo Raphael",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "id": "way-256525667",
+    "name": "Liceul Tehnologic \"Constantin Brâncuși\"",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.4791156,
+    "lng": 26.1071355,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "București",
+      "addr:housenumber": "1",
+      "addr:postcode": "020334",
+      "addr:street": "Bulevardul Dimitrie Pompeiu",
+      "amenity": "school",
+      "barrier": "fence",
+      "education": "school",
+      "name": "Liceul Tehnologic \"Constantin Brâncuși\""
+    }
+  },
+  {
+    "id": "way-330122602",
+    "name": "Biserica Creștină Baptistă \"Credința\" Voluntari",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.488604,
+    "lng": 26.1835718,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Voluntari",
+      "addr:housenumber": "61A",
+      "addr:postcode": "077190",
+      "addr:street": "Bulevardul Voluntari",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "baptist",
+      "name": "Biserica Creștină Baptistă \"Credința\" Voluntari",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-366432568",
+    "name": "Fortuna",
+    "type": "betting",
+    "subcategory": "Fortuna",
+    "lat": 44.5109807,
+    "lng": 26.1162271,
+    "osmType": "way",
+    "tags": {
+      "highway": "residential",
+      "maxspeed": "20",
+      "name": "Fortuna",
+      "oneway": "yes"
+    }
+  },
+  {
+    "id": "way-406574073",
+    "name": "Mark Twain International School Senior Campus",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.5139217,
+    "lng": 26.1184451,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Voluntari",
+      "addr:country": "RO",
+      "addr:housenumber": "89-93",
+      "addr:postcode": "077191",
+      "addr:street": "Strada Erou Iancu Nicolae",
+      "amenity": "school",
+      "barrier": "fence",
+      "landuse": "education",
+      "name": "Mark Twain International School Senior Campus",
+      "name:en": "Mark Twain International School Senior Campus",
+      "name:ro": "Școala Internațională Mark Twain",
+      "operator": "Mark Twain International School",
+      "operator:type": "private",
+      "phone": "+40 21 267 8912",
+      "website": "https://marktwainschool.ro/"
+    }
+  },
+  {
+    "id": "way-406574074",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 44.5045806,
+    "lng": 26.1330337,
+    "osmType": "way",
+    "tags": {
+      "amenity": "kindergarten"
+    }
+  },
+  {
+    "id": "way-406574075",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 44.5007113,
+    "lng": 26.1278186,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Pipera",
+      "addr:postcode": "077191",
+      "amenity": "kindergarten"
+    }
+  },
+  {
+    "id": "way-433371138",
+    "name": "International Maarif Schools of Bucharest",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.5293964,
+    "lng": 26.1556026,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Voluntari",
+      "addr:housenumber": "206 bis",
+      "addr:postcode": "077190",
+      "addr:street": "Bulevardul Pipera",
+      "amenity": "school",
+      "building": "yes",
+      "building:levels": "3",
+      "fee": "yes",
+      "mapillary": "764930677720007",
+      "name": "International Maarif Schools of Bucharest",
+      "religion": "muslim",
+      "website": "https://www.imsb.ro/"
+    }
+  },
+  {
+    "id": "way-588363898",
+    "name": "British School of Bucharest",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.514915,
+    "lng": 26.1337376,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Voluntari",
+      "addr:housenumber": "42",
+      "addr:postcode": "077190",
+      "addr:street": "Strada Erou Iancu Nicolae",
+      "amenity": "school",
+      "name": "British School of Bucharest",
+      "phone": "+4021 267 8919",
+      "source": "local knowledge",
+      "website": "https://britishschool.ro"
+    }
+  },
+  {
+    "id": "way-598169323",
+    "name": "Biserica Ortodoxă „Sf. Ier. Nicolae și Sf. Cuv. Teodora de la Sihla” - Domus",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.4938942,
+    "lng": 26.1409245,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Voluntari",
+      "addr:housenumber": "70",
+      "addr:street": "Strada Emil Racoviță",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "is_in:city": "Voluntari",
+      "is_in:country": "România",
+      "is_in:county": "Ilfov",
+      "name": "Biserica Ortodoxă „Sf. Ier. Nicolae și Sf. Cuv. Teodora de la Sihla” - Domus",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-668562752",
+    "name": "Olga Gudynn International School",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.5131521,
+    "lng": 26.1382384,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Voluntari",
+      "addr:housenumber": "5",
+      "addr:postcode": "077190",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Erou Iancu Nicolae",
+      "amenity": "school",
+      "building": "school",
+      "established": "2001",
+      "name": "Olga Gudynn International School"
+    }
+  },
+  {
+    "id": "way-669218279",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.4978784,
+    "lng": 26.1934232,
+    "osmType": "way",
+    "tags": {
+      "addr:street": "Strada Neajlov",
+      "amenity": "school",
+      "building": "yes",
+      "fixme": "name"
+    }
+  },
+  {
+    "id": "way-669218281",
+    "name": "Biserica Ortodoxă „Jiului” Voluntari",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.499633,
+    "lng": 26.1970707,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Voluntari",
+      "addr:housenumber": "110",
+      "addr:postcode": "077190",
+      "addr:street": "Strada Jiului",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "is_in:city": "Voluntari",
+      "is_in:country": "România",
+      "is_in:county": "Ilfov",
+      "name": "Biserica Ortodoxă „Jiului” Voluntari",
+      "religion": "christian",
+      "start_date": "1971"
+    }
+  },
+  {
+    "id": "way-708821694",
+    "name": "Biserica „Sfântul Ilie Tesviteanul”",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.4994452,
+    "lng": 26.1239352,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Pipera",
+      "addr:housenumber": "34A",
+      "addr:postcode": "077191",
+      "addr:street": "Drumul Bisericii",
+      "alt_name": "Fostul Schit „Sfântul Ilie Tătăranu” Pipera",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "description": "Biserica Sfântul Ilie- Pipera-Tătăranu, situată pe Drumul Bisericii, în cartierul Pipera din orașul Voluntari este menționată încă din secolul XVIII, când pe acest loc exista un schit de călugări și o biserică de lemn.",
+      "heritage": "2",
+      "heritage:operator": "lmi",
+      "name": "Biserica „Sfântul Ilie Tesviteanul”",
+      "ref:RO:lmi": "IF-II-m-B-15304",
+      "religion": "christian",
+      "source": "http://www.biserici.org/index.php?menu=BI&code=12473"
+    }
+  },
+  {
+    "id": "way-746832599",
+    "name": "International Maarif Schools of Bucharest",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.5295247,
+    "lng": 26.1555301,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Voluntari",
+      "addr:housenumber": "206 bis",
+      "addr:postcode": "077190",
+      "addr:street": "Bulevardul Pipera",
+      "amenity": "school",
+      "internet_access": "wlan",
+      "landuse": "residential",
+      "name": "International Maarif Schools of Bucharest",
+      "religion": "muslim",
+      "website": "https://www.imsb.ro/"
+    }
+  },
+  {
+    "id": "way-801669263",
+    "name": "Spital modular COVID-19 (închis)",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 44.4862244,
+    "lng": 26.1121396,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "București",
+      "addr:street": "Șoseaua Pipera",
+      "amenity": "hospital",
+      "building": "yes",
+      "healthcare": "hospital",
+      "name": "Spital modular COVID-19 (închis)",
+      "operator": "Spitalul Victor Babeș",
+      "operator:type": "government"
+    }
+  },
+  {
+    "id": "way-829839857",
+    "name": "Balkan Vakfı - Camii",
+    "type": "church",
+    "subcategory": "muslim",
+    "lat": 44.4975124,
+    "lng": 26.2046603,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "sunni",
+      "name": "Balkan Vakfı - Camii",
+      "religion": "muslim"
+    }
+  },
+  {
+    "id": "way-859822778",
+    "name": "Biserica „Sfinții Arhangheli Mihail și Gavril\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.5356874,
+    "lng": 26.2046078,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "check_date": "2025-10-08",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Sfinții Arhangheli Mihail și Gavril\"",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-934443861",
+    "name": "Cambridge School of Bucharest",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.5155261,
+    "lng": 26.1162542,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Voluntari",
+      "addr:country": "RO",
+      "addr:county": "RO",
+      "addr:housenumber": "126C",
+      "addr:postcode": "077190",
+      "addr:street": "Strada Erou Iancu Nicolae",
+      "amenity": "school",
+      "barrier": "fence",
+      "description": "Founded in 1994, Cambridge School of Bucharest became an accredited British School Overseas in 2018. In August 2020, the school moved from Calea Dorobantilor 39 to a new location in the Bucharest neighbourhood of Pipera.",
+      "grades": "0-12",
+      "name": "Cambridge School of Bucharest",
+      "operator:type": "private",
+      "start_date": "1994",
+      "website": "https://www.cambridgeschool.ro/"
+    }
+  },
+  {
+    "id": "way-941119945",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet",
+    "lat": 44.4909387,
+    "lng": 26.1282573,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Pipera",
+      "addr:country": "RO",
+      "addr:housenumber": "14",
+      "addr:postcode": "077191",
+      "addr:street": "Șoseaua București Nord",
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "building": "retail",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "height": "5",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "way-1076385867",
+    "name": "Questfield school Pipera",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.5146114,
+    "lng": 26.14614,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Pipera",
+      "addr:housenumber": "26",
+      "addr:postcode": "077191",
+      "addr:street": "Strada Titu Maiorescu",
+      "amenity": "school",
+      "grades": "0-8",
+      "name": "Questfield school Pipera",
+      "website": "https://www.questfield.ro/"
+    }
+  },
+  {
+    "id": "way-1088753508",
+    "name": "Biserica cu hramul Pogorârii Duhului Sfânt",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.4831769,
+    "lng": 26.1052734,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "name": "Biserica cu hramul Pogorârii Duhului Sfânt",
+      "religion": "christian",
+      "start_date": "2015"
+    }
+  },
+  {
+    "id": "way-1088753509",
+    "name": "Biserica cu hramul Pogorârii Duhului Sfânt și Sfinții Apostoli Petru și Pavel",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.4840926,
+    "lng": 26.1045712,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "orthodox",
+      "name": "Biserica cu hramul Pogorârii Duhului Sfânt și Sfinții Apostoli Petru și Pavel",
+      "religion": "christian",
+      "start_date": "2005"
+    }
+  },
+  {
+    "id": "way-1172405286",
+    "name": "Biserica „Sfântul Nicolae”",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.5383777,
+    "lng": 26.1949483,
+    "osmType": "way",
+    "tags": {
+      "addr:housenumber": "2",
+      "addr:street": "Strada Dornei",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "heritage": "2",
+      "heritage:operator": "lmi",
+      "name": "Biserica „Sfântul Nicolae”",
+      "ref:RO:lmi": "IF-II-m-B-15314",
+      "ref:RO:ran": "105446.01",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1172405287",
+    "name": "Biserica „Sfântul Împărați Constantin și Elena”, „Sfântul Nicolae”",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.5337721,
+    "lng": 26.1849208,
+    "osmType": "way",
+    "tags": {
+      "addr:housenumber": "12",
+      "addr:street": "Strada Dudului",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "heritage": "2",
+      "heritage:operator": "lmi",
+      "name": "Biserica „Sfântul Împărați Constantin și Elena”, „Sfântul Nicolae”",
+      "ref:RO:lmi": "IF-II-m-B-15278",
+      "ref:RO:ran": "105437",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1207716259",
+    "name": "Biserica Adventistă Voluntari",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.4881143,
+    "lng": 26.1744422,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Voluntari",
+      "addr:country": "RO",
+      "addr:housenumber": "35",
+      "addr:postcode": "077190",
+      "addr:street": "Strada Mihai Viteazu",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "seventh_day_adventist",
+      "name": "Biserica Adventistă Voluntari",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1227626063",
+    "name": "Biserica Ortodoxă „Eroilor” Voluntari",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.488133,
+    "lng": 26.1707631,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Voluntari",
+      "addr:housenumber": "39",
+      "addr:postcode": "077190",
+      "addr:street": "Strada Tudor Vladimirescu",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "romanian_orthodox",
+      "is_in:city": "Voluntari",
+      "is_in:country": "România",
+      "is_in:county": "Ilfov",
+      "name": "Biserica Ortodoxă „Eroilor” Voluntari",
+      "religion": "christian",
+      "start_date": "1990"
+    }
+  },
+  {
+    "id": "way-1229521852",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.4919062,
+    "lng": 26.1256493,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Voluntari",
+      "addr:country": "RO",
+      "addr:housenumber": "2",
+      "addr:postcode": "077190",
+      "addr:street": "Bulevardul Pipera",
+      "amenity": "place_of_worship",
+      "building": "construction",
+      "denomination": "romanian_orthodox",
+      "height": "12",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1271172279",
+    "name": "Biserica Sfantului Alois Orione",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.4950698,
+    "lng": 26.175306,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "roman_catholic",
+      "name": "Biserica Sfantului Alois Orione",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1271421982",
+    "name": "Școala Gimnazială nr. 2",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.4984662,
+    "lng": 26.194283,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Voluntari",
+      "addr:housenumber": "51",
+      "addr:postcode": "077190",
+      "addr:street": "Bulevardul Dunării",
+      "amenity": "school",
+      "name": "Școala Gimnazială nr. 2"
+    }
+  },
+  {
+    "id": "way-1332922615",
+    "name": "Magnum House",
+    "type": "gaming",
+    "subcategory": "Magnum House",
+    "lat": 44.4875358,
+    "lng": 26.1891014,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Voluntari",
+      "addr:country": "RO",
+      "addr:housenumber": "82 A",
+      "addr:postcode": "077190",
+      "addr:province": "Muntenia",
+      "addr:street": "Bulevardul Voluntari",
+      "building": "yes",
+      "building:levels": "1",
+      "email": "magnumhousesrl@gmail.com",
+      "name": "Magnum House",
+      "opening_hours": "Mo-Sa 10:00-18:00",
+      "phone": "0770.382.668",
+      "shop": "furniture"
+    }
+  }
+]

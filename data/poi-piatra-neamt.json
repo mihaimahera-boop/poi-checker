@@ -1,10 +1,2311 @@
-{
-  "city": "Piatra Neamt",
-  "generated_at": "2026-04-23T09:57:59.338Z",
-  "counts": {
-    "total": 0,
-    "schools": 0,
-    "churches": 0
+[
+  {
+    "id": "node-469962049",
+    "name": "Adormirea Maicii Domnului",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9483601,
+    "lng": 26.4442365,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Adormirea Maicii Domnului",
+      "religion": "christian"
+    }
   },
-  "pois": []
-}
+  {
+    "id": "node-482812699",
+    "name": "Sf Mina",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9368819,
+    "lng": 26.3804598,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Sf Mina",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-482812712",
+    "name": "Policlinica Piatra Neamț",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 46.9271491,
+    "lng": 26.3740427,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Piatra Neamț",
+      "addr:housenumber": "1",
+      "addr:street": "Bulevardul Traian",
+      "amenity": "clinic",
+      "emergency": "yes",
+      "healthcare": "clinic",
+      "name": "Policlinica Piatra Neamț",
+      "opening_hours": "Mo-Sa 07:00-15:00"
+    }
+  },
+  {
+    "id": "node-534919388",
+    "name": "Biserica Pogorârea Sfântului Duh",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9282892,
+    "lng": 26.36145,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Pogorârea Sfântului Duh",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-537079098",
+    "name": "Biserica Adormirea Maicii Domnului (Precista)",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9333868,
+    "lng": 26.3604067,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Adormirea Maicii Domnului (Precista)",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-1316063264",
+    "name": "Mănăstirea Peștera Gârcina",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9719,
+    "lng": 26.338,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Mănăstirea Peștera Gârcina",
+      "religion": "christian",
+      "source": "jonutzu@gpszone.ro"
+    }
+  },
+  {
+    "id": "node-1316063293",
+    "name": "Mănăstirea Muntele Pietricica",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.927116,
+    "lng": 26.3846829,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Mănăstirea Muntele Pietricica",
+      "religion": "christian",
+      "source": "jonutzu@gpszone.ro"
+    }
+  },
+  {
+    "id": "node-1813499593",
+    "name": "Colegiul Tehnic Forestier",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.9389028,
+    "lng": 26.3576939,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Piatra Neamț",
+      "addr:housenumber": "67",
+      "addr:street": "Strada Ștefan cel Mare",
+      "amenity": "school",
+      "name": "Colegiul Tehnic Forestier"
+    }
+  },
+  {
+    "id": "node-1923457126",
+    "name": "Colegiul Tehnologic „Spiru Haret”",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.934956,
+    "lng": 26.3743057,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Piatra Neamț",
+      "addr:housenumber": "26",
+      "addr:street": "Strada Petru Rareș",
+      "amenity": "school",
+      "grades": "1-12",
+      "name": "Colegiul Tehnologic „Spiru Haret”",
+      "website": "https://liceul-spiru-haret.ro/"
+    }
+  },
+  {
+    "id": "node-2006796022",
+    "name": "Dispensar",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 46.8911721,
+    "lng": 26.4271785,
+    "osmType": "node",
+    "tags": {
+      "amenity": "doctors",
+      "name": "Dispensar"
+    }
+  },
+  {
+    "id": "node-2325326497",
+    "name": "Schitul Lipovenesc",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.8870704,
+    "lng": 26.3456997,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "old rite orthodox",
+      "name": "Schitul Lipovenesc",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-3601232322",
+    "name": "Biserica Ortodoxă",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9195937,
+    "lng": 26.3242527,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-3602267054",
+    "name": "Liceul de artă Victor Brauner corp A",
+    "type": "school",
+    "subcategory": "college",
+    "lat": 46.9323315,
+    "lng": 26.3635355,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Piatra Neamț",
+      "amenity": "college",
+      "name": "Liceul de artă Victor Brauner corp A"
+    }
+  },
+  {
+    "id": "node-3604811800",
+    "name": "Biserica Sarata",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9425044,
+    "lng": 26.3340316,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Sarata",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-3635004701",
+    "name": "Biserica Dumbrava Roșie",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.8831196,
+    "lng": 26.4376807,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Dumbrava Roșie",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-3636850361",
+    "name": "Biserica Sfântul Ioan",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9266424,
+    "lng": 26.3748837,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Sfântul Ioan",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-3689909413",
+    "name": "Biserica Nouă",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9156844,
+    "lng": 26.3922642,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Nouă",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-3689977048",
+    "name": "Colegiul Național Petru Rareș",
+    "type": "school",
+    "subcategory": "college",
+    "lat": 46.9330336,
+    "lng": 26.3709756,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Piatra Neamț",
+      "amenity": "college",
+      "name": "Colegiul Național Petru Rareș"
+    }
+  },
+  {
+    "id": "node-3719716941",
+    "name": "Clinica Micromedica",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 46.9342396,
+    "lng": 26.373125,
+    "osmType": "node",
+    "tags": {
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "name": "Clinica Micromedica"
+    }
+  },
+  {
+    "id": "node-3719716949",
+    "name": "Gauss - Clinică oftalmologică",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 46.930719,
+    "lng": 26.3637809,
+    "osmType": "node",
+    "tags": {
+      "amenity": "clinic",
+      "name": "Gauss - Clinică oftalmologică"
+    }
+  },
+  {
+    "id": "node-4303185692",
+    "name": "Biserică",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9464132,
+    "lng": 26.3055342,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserică",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-4378461292",
+    "name": "Sectia Psihiatrie",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 46.9297977,
+    "lng": 26.3736729,
+    "osmType": "node",
+    "tags": {
+      "amenity": "hospital",
+      "check_date": "2025-06-12",
+      "healthcare": "hospital",
+      "healthcare:speciality": "psychiatry",
+      "name": "Sectia Psihiatrie",
+      "name:ro": "Sectia Psihiatrie"
+    }
+  },
+  {
+    "id": "node-4615932108",
+    "name": "Biserica Catolică",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.935937,
+    "lng": 26.3881477,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "catholic",
+      "name": "Biserica Catolică",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-4615933335",
+    "name": "Biserica Sf Parascheva",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9394697,
+    "lng": 26.390213,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Sf Parascheva",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-4856101768",
+    "name": "Cofetăria Magic Cake",
+    "type": "gaming",
+    "subcategory": "Cofetăria Magic Cake",
+    "lat": 46.92742,
+    "lng": 26.361994,
+    "osmType": "node",
+    "tags": {
+      "name": "Cofetăria Magic Cake",
+      "shop": "confectionery"
+    }
+  },
+  {
+    "id": "node-6738296688",
+    "name": "Centrul Teritorial de Învățământ Deschis la Distanță Piatra Neamț",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.9437672,
+    "lng": 26.3878246,
+    "osmType": "node",
+    "tags": {
+      "amenity": "school",
+      "name": "Centrul Teritorial de Învățământ Deschis la Distanță Piatra Neamț"
+    }
+  },
+  {
+    "id": "node-7296680005",
+    "name": "Clinica Antares",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 46.9326653,
+    "lng": 26.3668411,
+    "osmType": "node",
+    "tags": {
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "name": "Clinica Antares"
+    }
+  },
+  {
+    "id": "node-7312350586",
+    "name": "Biserica Creștină Baptistă \"Sfânta Treime\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9310763,
+    "lng": 26.3602984,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "baptist",
+      "name": "Biserica Creștină Baptistă \"Sfânta Treime\"",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-7368576795",
+    "name": "Colegiul Tehnic de Transporturi",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.940695,
+    "lng": 26.3475379,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Piatra Neamț",
+      "addr:housenumber": "1",
+      "addr:street": "Strada Soarelui",
+      "amenity": "school",
+      "grades": "9-12",
+      "name": "Colegiul Tehnic de Transporturi",
+      "phone": "+40233216163"
+    }
+  },
+  {
+    "id": "node-7466037717",
+    "name": "Grădinița Happy Land",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 46.9244215,
+    "lng": 26.3797049,
+    "osmType": "node",
+    "tags": {
+      "amenity": "kindergarten",
+      "name": "Grădinița Happy Land"
+    }
+  },
+  {
+    "id": "node-7469501862",
+    "name": "Clinica Pediatrică Anastasia",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 46.9239746,
+    "lng": 26.3728262,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Piatra Neamț",
+      "addr:housenumber": "31",
+      "addr:street": "Strada Ozana",
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "name": "Clinica Pediatrică Anastasia"
+    }
+  },
+  {
+    "id": "node-7473874571",
+    "name": "Dispensarul Nr. 3 Piatra Neamț",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 46.9239415,
+    "lng": 26.3745897,
+    "osmType": "node",
+    "tags": {
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "name": "Dispensarul Nr. 3 Piatra Neamț"
+    }
+  },
+  {
+    "id": "node-7479300875",
+    "name": "Biserica \"Sfinții Părinți Ioachim și Ana\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9220667,
+    "lng": 26.3788755,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica \"Sfinții Părinți Ioachim și Ana\"",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-7480546268",
+    "name": "Clinica On",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 46.9212769,
+    "lng": 26.380556,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Piatra Neamț",
+      "addr:housenumber": "22",
+      "addr:street": "Strada Lămâiței",
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "healthcare:speciality": "urology",
+      "name": "Clinica On"
+    }
+  },
+  {
+    "id": "node-7484554797",
+    "name": "Grădinița cu Program Normal Nr. 13",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 46.9326869,
+    "lng": 26.3619848,
+    "osmType": "node",
+    "tags": {
+      "amenity": "kindergarten",
+      "name": "Grădinița cu Program Normal Nr. 13"
+    }
+  },
+  {
+    "id": "node-7484879248",
+    "name": "Biserica Adventistă Laodiceea",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9206145,
+    "lng": 26.3803991,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "seventh_day_adventist",
+      "name": "Biserica Adventistă Laodiceea",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-7492717869",
+    "name": "Școala Gimnazială \"Nicu Albu\" Piatra Neamț",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.9326561,
+    "lng": 26.354564,
+    "osmType": "node",
+    "tags": {
+      "amenity": "school",
+      "name": "Școala Gimnazială \"Nicu Albu\" Piatra Neamț"
+    }
+  },
+  {
+    "id": "node-8149349295",
+    "name": "Biserica Tăierea Capului Sfântului Ioan Botezătorul",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9611359,
+    "lng": 26.438397,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Tăierea Capului Sfântului Ioan Botezătorul",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-8253732393",
+    "name": "Biserica Pogorârea Sfantului Duh",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9776305,
+    "lng": 26.3437878,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Gârcina",
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Pogorârea Sfantului Duh",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-8390151244",
+    "name": "Colegul Național \"Gheorghe Asachi\" Piatra Neamț",
+    "type": "school",
+    "subcategory": "college",
+    "lat": 46.9459419,
+    "lng": 26.3884232,
+    "osmType": "node",
+    "tags": {
+      "amenity": "college",
+      "name": "Colegul Național \"Gheorghe Asachi\" Piatra Neamț"
+    }
+  },
+  {
+    "id": "node-8488474033",
+    "name": "Colegul Național \"Gheorghe Asachi\" Piatra Neamț Corp B",
+    "type": "school",
+    "subcategory": "college",
+    "lat": 46.9459094,
+    "lng": 26.3878342,
+    "osmType": "node",
+    "tags": {
+      "amenity": "college",
+      "name": "Colegul Național \"Gheorghe Asachi\" Piatra Neamț Corp B"
+    }
+  },
+  {
+    "id": "node-8497671939",
+    "name": "Clinica ASCLEPION",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 46.9247884,
+    "lng": 26.3686779,
+    "osmType": "node",
+    "tags": {
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "name": "Clinica ASCLEPION"
+    }
+  },
+  {
+    "id": "node-8499788466",
+    "name": "Liceul Particular Aurora Ouatu",
+    "type": "school",
+    "subcategory": "college",
+    "lat": 46.9414246,
+    "lng": 26.3192037,
+    "osmType": "node",
+    "tags": {
+      "amenity": "college",
+      "name": "Liceul Particular Aurora Ouatu"
+    }
+  },
+  {
+    "id": "node-8499788467",
+    "name": "Școala Particulară Aurora Ouatu",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.9408252,
+    "lng": 26.3189492,
+    "osmType": "node",
+    "tags": {
+      "amenity": "school",
+      "name": "Școala Particulară Aurora Ouatu"
+    }
+  },
+  {
+    "id": "node-8628417531",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet Betting & Gaming SA",
+    "lat": 46.9243405,
+    "lng": 26.3766021,
+    "osmType": "node",
+    "tags": {
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-8628417568",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet Betting & Gaming SA",
+    "lat": 46.9361821,
+    "lng": 26.3772646,
+    "osmType": "node",
+    "tags": {
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-8628417773",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet",
+    "lat": 46.9324477,
+    "lng": 26.360954,
+    "osmType": "node",
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-8628417891",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet",
+    "lat": 46.9277953,
+    "lng": 26.3609782,
+    "osmType": "node",
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-8628418004",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet Betting & Gaming SA",
+    "lat": 46.9312377,
+    "lng": 26.3711712,
+    "osmType": "node",
+    "tags": {
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-8628418053",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet Betting & Gaming SA",
+    "lat": 46.9262542,
+    "lng": 26.3737127,
+    "osmType": "node",
+    "tags": {
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-8628418260",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet",
+    "lat": 46.9328836,
+    "lng": 26.3601521,
+    "osmType": "node",
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-8676600507",
+    "name": "Clinica Medicală Sf. Andrei - Piatra Neamț",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 46.9378767,
+    "lng": 26.3935671,
+    "osmType": "node",
+    "tags": {
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "name": "Clinica Medicală Sf. Andrei - Piatra Neamț"
+    }
+  },
+  {
+    "id": "node-8702484686",
+    "name": "MAGICDENT",
+    "type": "gaming",
+    "subcategory": "MAGICDENT",
+    "lat": 46.9291087,
+    "lng": 26.3667796,
+    "osmType": "node",
+    "tags": {
+      "amenity": "dentist",
+      "entrance": "yes",
+      "healthcare": "dentist",
+      "name": "MAGICDENT"
+    }
+  },
+  {
+    "id": "node-8767887718",
+    "name": "Biserica Ortodoxă de Stil Vechi ,,Sf. Ioan Botezătorul''",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9484549,
+    "lng": 26.3920125,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica Ortodoxă de Stil Vechi ,,Sf. Ioan Botezătorul''",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-8865179952",
+    "name": "Centrul Medical Buna Vestire",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 46.9419172,
+    "lng": 26.3136796,
+    "osmType": "node",
+    "tags": {
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "name": "Centrul Medical Buna Vestire"
+    }
+  },
+  {
+    "id": "node-9240684044",
+    "name": "DISPENSAR MEDICAL",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 46.917791,
+    "lng": 26.3966359,
+    "osmType": "node",
+    "tags": {
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "name": "DISPENSAR MEDICAL"
+    }
+  },
+  {
+    "id": "node-9288114151",
+    "name": "Liceul Tehnologic \"Dimitrie Leonida\" Corp B",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.9063338,
+    "lng": 26.4067295,
+    "osmType": "node",
+    "tags": {
+      "amenity": "school",
+      "name": "Liceul Tehnologic \"Dimitrie Leonida\" Corp B"
+    }
+  },
+  {
+    "id": "node-9288133336",
+    "name": "Grădinița cu program prelungit nr. 10",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 46.9202121,
+    "lng": 26.3948494,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Piatra Neamț",
+      "addr:housenumber": "34BIS",
+      "addr:street": "Bulevardul Mărășești",
+      "amenity": "kindergarten",
+      "name": "Grădinița cu program prelungit nr. 10",
+      "phone": "+40233226523"
+    }
+  },
+  {
+    "id": "node-9294343693",
+    "name": "Scoala Gimnaziala nr. 8",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.940773,
+    "lng": 26.3817228,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Piatra Neamț",
+      "addr:housenumber": "33",
+      "addr:street": "Strada Dărmănești",
+      "amenity": "school",
+      "name": "Scoala Gimnaziala nr. 8"
+    }
+  },
+  {
+    "id": "node-9294343699",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 46.9414747,
+    "lng": 26.381561,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Piatra Neamț",
+      "addr:housenumber": "41",
+      "addr:street": "Strada Dărmănești",
+      "amenity": "kindergarten"
+    }
+  },
+  {
+    "id": "node-9326555259",
+    "name": "Dispensar Medical Urban Nr. 1",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 46.9308239,
+    "lng": 26.3675203,
+    "osmType": "node",
+    "tags": {
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "name": "Dispensar Medical Urban Nr. 1"
+    }
+  },
+  {
+    "id": "node-9405581893",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.9169125,
+    "lng": 26.4303592,
+    "osmType": "node",
+    "tags": {
+      "amenity": "school"
+    }
+  },
+  {
+    "id": "node-9405590941",
+    "name": "Grădiniță",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 46.9158032,
+    "lng": 26.4314862,
+    "osmType": "node",
+    "tags": {
+      "amenity": "kindergarten",
+      "name": "Grădiniță"
+    }
+  },
+  {
+    "id": "node-9445314404",
+    "name": "Radiologie Dentară Wittenberger",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 46.9327052,
+    "lng": 26.364415,
+    "osmType": "node",
+    "tags": {
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "healthcare:speciality": "radiology",
+      "name": "Radiologie Dentară Wittenberger"
+    }
+  },
+  {
+    "id": "node-9499919160",
+    "name": "Fără nume",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 46.9268722,
+    "lng": 26.3619991,
+    "osmType": "node",
+    "tags": {
+      "amenity": "clinic",
+      "healthcare": "clinic"
+    }
+  },
+  {
+    "id": "node-9502648662",
+    "name": "Cabinet Ginecologic Dr. Rugină",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 46.9270774,
+    "lng": 26.3625327,
+    "osmType": "node",
+    "tags": {
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "healthcare:speciality": "gynaecology",
+      "name": "Cabinet Ginecologic Dr. Rugină"
+    }
+  },
+  {
+    "id": "node-9502648663",
+    "name": "Biserica Creștină După Evanghelie BETEL",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9271502,
+    "lng": 26.3628905,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Biserica Creștină După Evanghelie BETEL",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-9521377395",
+    "name": "Dr. Iulian Burculeț",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 46.9766728,
+    "lng": 26.3498182,
+    "osmType": "node",
+    "tags": {
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "healthcare:speciality": "general",
+      "name": "Dr. Iulian Burculeț",
+      "phone": "+40233242150"
+    }
+  },
+  {
+    "id": "node-9521377396",
+    "name": "Dr. Anca Cicoare",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 46.9766612,
+    "lng": 26.3499487,
+    "osmType": "node",
+    "tags": {
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "name": "Dr. Anca Cicoare"
+    }
+  },
+  {
+    "id": "node-9612607980",
+    "name": "Casa Pariurilor",
+    "type": "betting",
+    "subcategory": "Casa Pariurilor",
+    "lat": 46.9308504,
+    "lng": 26.3710839,
+    "osmType": "node",
+    "tags": {
+      "name": "Casa Pariurilor",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-9626822308",
+    "name": "Admiral",
+    "type": "gaming",
+    "subcategory": "Admiral",
+    "lat": 46.9315289,
+    "lng": 26.3582073,
+    "osmType": "node",
+    "tags": {
+      "amenity": "casino",
+      "brand": "Admiral",
+      "brand:wikidata": "Q25205850",
+      "brand:wikipedia": "en:Admiral (gambling)",
+      "gambling": "slot_machines",
+      "leisure": "adult_gaming_centre",
+      "name": "Admiral"
+    }
+  },
+  {
+    "id": "node-9626822314",
+    "name": "Centru de permanenţă Precista",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 46.9314454,
+    "lng": 26.3577502,
+    "osmType": "node",
+    "tags": {
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "name": "Centru de permanenţă Precista",
+      "phone": "+40233213070"
+    }
+  },
+  {
+    "id": "node-9630854153",
+    "name": "Biserica Sfântul Neculai",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.940291,
+    "lng": 26.3775618,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Sfântul Neculai",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-9689094543",
+    "name": "Biserica Ortodoxă Sfânta Teodora",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9438973,
+    "lng": 26.3871013,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă Sfânta Teodora",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-9739691111",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9412571,
+    "lng": 26.3973522,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-9748729615",
+    "name": "Magic Cake",
+    "type": "gaming",
+    "subcategory": "Magic Cake",
+    "lat": 46.9005453,
+    "lng": 26.41433,
+    "osmType": "node",
+    "tags": {
+      "name": "Magic Cake",
+      "shop": "pastry"
+    }
+  },
+  {
+    "id": "node-9764080482",
+    "name": "CMI Dr. Baciu Georgeta Sanda",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 46.9395641,
+    "lng": 26.3574905,
+    "osmType": "node",
+    "tags": {
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "name": "CMI Dr. Baciu Georgeta Sanda"
+    }
+  },
+  {
+    "id": "node-9774198426",
+    "name": "Clinica Anastasia",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 46.9332186,
+    "lng": 26.3610084,
+    "osmType": "node",
+    "tags": {
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "healthcare:speciality": "paediatrics",
+      "name": "Clinica Anastasia"
+    }
+  },
+  {
+    "id": "node-9878376001",
+    "name": "Magic Cake",
+    "type": "gaming",
+    "subcategory": "Magic Cake",
+    "lat": 46.9236127,
+    "lng": 26.3802311,
+    "osmType": "node",
+    "tags": {
+      "name": "Magic Cake",
+      "shop": "confectionery"
+    }
+  },
+  {
+    "id": "node-9891041728",
+    "name": "Biserica Creștină Baptistă \"Vestea Bună\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9749813,
+    "lng": 26.3552038,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "baptist",
+      "name": "Biserica Creștină Baptistă \"Vestea Bună\"",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-10589077637",
+    "name": "Schitul Draga",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9646278,
+    "lng": 26.3673066,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Piatra Neamț",
+      "addr:postcode": "610252",
+      "addr:street": "Strada Cetatea Neamțului",
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Schitul Draga",
+      "religion": "christian",
+      "website": "https://draga.mmb.ro/"
+    }
+  },
+  {
+    "id": "node-10846819770",
+    "name": "Grădinița Vincenzina Cusmano",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 46.9418138,
+    "lng": 26.3851226,
+    "osmType": "node",
+    "tags": {
+      "amenity": "kindergarten",
+      "name": "Grădinița Vincenzina Cusmano"
+    }
+  },
+  {
+    "id": "node-10961050121",
+    "name": "Biserica Penticostală ELIM",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9220659,
+    "lng": 26.3910081,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Piatra Neamț",
+      "addr:housenumber": "3",
+      "addr:street": "Strada Lotrului",
+      "amenity": "place_of_worship",
+      "denomination": "pentecostal",
+      "name": "Biserica Penticostală ELIM",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-11254642045",
+    "name": "Affidea",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 46.9267438,
+    "lng": 26.3744455,
+    "osmType": "node",
+    "tags": {
+      "amenity": "clinic",
+      "contact:email": "piatra.neamt@affidea.com",
+      "contact:phone": "+40 333 401 045;+40 734 141 745",
+      "contact:website": "https://affidea.ro/centre-medicale/affidea-piatra-neamt",
+      "name": "Affidea",
+      "opening_hours": "Mo-Fr 08:00-20:00"
+    }
+  },
+  {
+    "id": "node-11513954651",
+    "name": "Salvcenter",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 46.8883213,
+    "lng": 26.4294477,
+    "osmType": "node",
+    "tags": {
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "name": "Salvcenter"
+    }
+  },
+  {
+    "id": "node-11578466960",
+    "name": "Paraclisul „Acoperământul Maicii Domnului”-Precista 3",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9308727,
+    "lng": 26.3558825,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Paraclisul „Acoperământul Maicii Domnului”-Precista 3",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-11825001197",
+    "name": "Maxbet",
+    "type": "gaming",
+    "subcategory": "Max Bet SRL",
+    "lat": 46.9341766,
+    "lng": 26.3474519,
+    "osmType": "node",
+    "tags": {
+      "alt_name": "Maxbet",
+      "amenity": "casino",
+      "contact:email": "office@maxbetromania.com",
+      "contact:phone": "+40 21 323 2174;+40 31 405 2949",
+      "contact:website": "https://maxbetgroup.ro",
+      "name": "Maxbet",
+      "name:ro": "MaxBet",
+      "opening_hours": "24/7",
+      "operator": "Max Bet SRL"
+    }
+  },
+  {
+    "id": "node-11825001200",
+    "name": "Maxbet",
+    "type": "gaming",
+    "subcategory": "Max Bet SRL",
+    "lat": 46.9290445,
+    "lng": 26.362727,
+    "osmType": "node",
+    "tags": {
+      "alt_name": "Maxbet",
+      "amenity": "casino",
+      "contact:email": "office@maxbetromania.com",
+      "contact:phone": "+40 21 323 2174;+40 31 405 2949",
+      "contact:website": "https://maxbetgroup.ro",
+      "name": "Maxbet",
+      "name:ro": "MaxBet",
+      "opening_hours": "24/7",
+      "operator": "Max Bet SRL"
+    }
+  },
+  {
+    "id": "node-12104527705",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet",
+    "lat": 46.9323803,
+    "lng": 26.3611516,
+    "osmType": "node",
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "name": "Superbet",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-12204699209",
+    "name": "Grădinița cu program prelungit nr 2 Piatra Neamț",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 46.9210863,
+    "lng": 26.3871934,
+    "osmType": "node",
+    "tags": {
+      "amenity": "kindergarten",
+      "name": "Grădinița cu program prelungit nr 2 Piatra Neamț"
+    }
+  },
+  {
+    "id": "node-12334501906",
+    "name": "Fortuna",
+    "type": "betting",
+    "subcategory": "Fortuna",
+    "lat": 46.9248157,
+    "lng": 26.3773035,
+    "osmType": "node",
+    "tags": {
+      "brand": "Fortuna",
+      "brand:wikidata": "Q25857973",
+      "name": "Fortuna",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-13409833301",
+    "name": "Ești aici (Start)",
+    "type": "betting",
+    "subcategory": "Ești aici (Start)",
+    "lat": 46.9440739,
+    "lng": 26.3666017,
+    "osmType": "node",
+    "tags": {
+      "addr:street": "Traseu 3 Căldări (Bandă Albastră)",
+      "name": "Ești aici (Start)",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "way-50079828",
+    "name": "Colegiul Național \"Calistrat Hogaș\"",
+    "type": "school",
+    "subcategory": "college",
+    "lat": 46.9337651,
+    "lng": 26.3655494,
+    "osmType": "way",
+    "tags": {
+      "alt_name": "CNCH",
+      "amenity": "college",
+      "designation": "highschool",
+      "name": "Colegiul Național \"Calistrat Hogaș\"",
+      "phone": "+40233215853"
+    }
+  },
+  {
+    "id": "way-230584485",
+    "name": "Biserica Baptistă Sfânta Treime",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9310704,
+    "lng": 26.3602902,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Piatra Neamț",
+      "addr:housenumber": "3",
+      "addr:street": "Strada Titu Maiorescu",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "baptist",
+      "name": "Biserica Baptistă Sfânta Treime",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-284793373",
+    "name": "Sf. Iosif muncitorul",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9263617,
+    "lng": 26.3683536,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Piatra Neamț",
+      "addr:housenumber": "27",
+      "addr:postcode": "610028",
+      "addr:street": "Strada Mihai Eminescu",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "catholic",
+      "name": "Sf. Iosif muncitorul",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-284793407",
+    "name": "Biserica Ortodoxă Pogorârea Sfântului Duh",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9282725,
+    "lng": 26.3614266,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Piatra Neamț",
+      "addr:housenumber": "44",
+      "addr:street": "Bulevardul Republicii",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă Pogorârea Sfântului Duh",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-284997653",
+    "name": "Biserica Cimitirului Eternitatea",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9414562,
+    "lng": 26.3525723,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Biserica Cimitirului Eternitatea",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-284997654",
+    "name": "Cloponița Bisericii Eternitatea",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9415192,
+    "lng": 26.3529996,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "layer": "-1",
+      "name": "Cloponița Bisericii Eternitatea",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-284997679",
+    "name": "Schitul Doamna",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9279853,
+    "lng": 26.3462247,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Schitul Doamna",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-286026464",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 46.9350584,
+    "lng": 26.3589894,
+    "osmType": "way",
+    "tags": {
+      "amenity": "kindergarten"
+    }
+  },
+  {
+    "id": "way-286026479",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.9342489,
+    "lng": 26.3594186,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school"
+    }
+  },
+  {
+    "id": "way-286250643",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 46.9311715,
+    "lng": 26.3651809,
+    "osmType": "way",
+    "tags": {
+      "amenity": "kindergarten"
+    }
+  },
+  {
+    "id": "way-286250673",
+    "name": "Școala Nr. 3",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.9303989,
+    "lng": 26.3685918,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school",
+      "name": "Școala Nr. 3"
+    }
+  },
+  {
+    "id": "way-286406974",
+    "name": "Biserica Sf. Maria",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.935303,
+    "lng": 26.3527627,
+    "osmType": "way",
+    "tags": {
+      "addr:street": "Strada Luceafărului",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Biserica Sf. Maria",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-291869047",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.8874077,
+    "lng": 26.4162448,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school"
+    }
+  },
+  {
+    "id": "way-313782973",
+    "name": "Cresa de copii nr.1",
+    "type": "school",
+    "subcategory": "childcare",
+    "lat": 46.9292994,
+    "lng": 26.3690857,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Piatra Neamț",
+      "addr:housenumber": "6",
+      "addr:street": "Strada Mihai Eminescu",
+      "amenity": "childcare",
+      "building": "yes",
+      "name": "Cresa de copii nr.1"
+    }
+  },
+  {
+    "id": "way-331500818",
+    "name": "Colegiul National de Informatica",
+    "type": "school",
+    "subcategory": "college",
+    "lat": 46.9354018,
+    "lng": 26.3829956,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Piatra Neamț",
+      "addr:housenumber": "12",
+      "addr:postcode": "610226",
+      "addr:street": "Strada Mihai Viteazul",
+      "amenity": "college",
+      "name": "Colegiul National de Informatica",
+      "operator": "Ministerul Invatamantului"
+    }
+  },
+  {
+    "id": "way-334930434",
+    "name": "Școala Generală Nr. 2",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.9249875,
+    "lng": 26.3734572,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school",
+      "name": "Școala Generală Nr. 2"
+    }
+  },
+  {
+    "id": "way-336665831",
+    "name": "Biserica Ortodoxă \"Sfinții Apostoli Petru și Pavel\", Ciritei",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9310896,
+    "lng": 26.4058513,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă \"Sfinții Apostoli Petru și Pavel\", Ciritei",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-336665972",
+    "name": "Biserica Cimitirului Dărmănești",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9326091,
+    "lng": 26.3908982,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Biserica Cimitirului Dărmănești",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-362825767",
+    "name": "Biserica „Buna Vestire”",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9530675,
+    "lng": 26.3851078,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "romanian_orthodox",
+      "heritage": "2",
+      "heritage:operator": "lmi",
+      "historic": "church",
+      "name": "Biserica „Buna Vestire”",
+      "ref:RO:lmi": "NT-II-m-B-10550",
+      "religion": "christian",
+      "start_date": "1740"
+    }
+  },
+  {
+    "id": "way-363282106",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.9325739,
+    "lng": 26.3543462,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school"
+    }
+  },
+  {
+    "id": "way-363587789",
+    "name": "Biserica Domnească Nașterea Sf. Ioan Botezătorul",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.932893,
+    "lng": 26.3688203,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "layer": "1",
+      "name": "Biserica Domnească Nașterea Sf. Ioan Botezătorul",
+      "religion": "christian",
+      "wikidata": "Q6980147",
+      "wikipedia": "ro:Biserica Nașterea Sfântului Ioan Botezătorul din Piatra Neamț"
+    }
+  },
+  {
+    "id": "way-363587807",
+    "name": "Fără nume",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 46.9239828,
+    "lng": 26.3728787,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Piatra Neamț",
+      "addr:housenumber": "31",
+      "addr:street": "Strada Ozana",
+      "amenity": "clinic",
+      "building": "yes",
+      "building:levels": "1",
+      "healthcare": "clinic",
+      "healthcare:speciality": "paediatrics"
+    }
+  },
+  {
+    "id": "way-363587847",
+    "name": "Antares Clinic",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 46.9284099,
+    "lng": 26.3626334,
+    "osmType": "way",
+    "tags": {
+      "amenity": "clinic",
+      "building": "yes",
+      "healthcare": "clinic",
+      "name": "Antares Clinic"
+    }
+  },
+  {
+    "id": "way-363587873",
+    "name": "Templul Mare Leipziger",
+    "type": "church",
+    "subcategory": "jewish",
+    "lat": 46.9337797,
+    "lng": 26.3710747,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Piatra Neamț",
+      "addr:street": "Dimitrie Ernici",
+      "amenity": "place_of_worship",
+      "building": "synagogue",
+      "historic": "yes",
+      "name": "Templul Mare Leipziger",
+      "religion": "jewish",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "id": "way-363587874",
+    "name": "Fără nume",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 46.9239344,
+    "lng": 26.3746424,
+    "osmType": "way",
+    "tags": {
+      "amenity": "clinic",
+      "building": "yes",
+      "healthcare": "clinic"
+    }
+  },
+  {
+    "id": "way-363587944",
+    "name": "Biserica Trei Ierarhi",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9329142,
+    "lng": 26.3704213,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Biserica Trei Ierarhi",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-363747788",
+    "name": "Biserica Sfântul Spiridon",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9273618,
+    "lng": 26.3735504,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "check_date": "2025-06-12",
+      "denomination": "orthodox",
+      "name": "Biserica Sfântul Spiridon",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-363748882",
+    "name": "BIOMEDICA",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 46.9285515,
+    "lng": 26.3728594,
+    "osmType": "way",
+    "tags": {
+      "addr:street": "Strada Orhei",
+      "amenity": "clinic",
+      "building": "yes",
+      "building:levels": "2",
+      "healthcare": "clinic",
+      "name": "BIOMEDICA",
+      "name:ro": "BIOMEDICA"
+    }
+  },
+  {
+    "id": "way-364111481",
+    "name": "Biserica Lipovenească",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.93074,
+    "lng": 26.3595229,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Biserica Lipovenească",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-364294670",
+    "name": "Magic Doors",
+    "type": "gaming",
+    "subcategory": "Magic Doors",
+    "lat": 46.9179965,
+    "lng": 26.3891938,
+    "osmType": "way",
+    "tags": {
+      "building": "yes",
+      "name": "Magic Doors",
+      "shop": "doors"
+    }
+  },
+  {
+    "id": "way-364306410",
+    "name": "Antares Clinic",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 46.9327349,
+    "lng": 26.3669083,
+    "osmType": "way",
+    "tags": {
+      "amenity": "clinic",
+      "building": "yes",
+      "healthcare": "clinic",
+      "name": "Antares Clinic"
+    }
+  },
+  {
+    "id": "way-377765394",
+    "name": "Policliinica Central Clinic",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 46.934567,
+    "lng": 26.3669644,
+    "osmType": "way",
+    "tags": {
+      "building": "yes",
+      "healthcare": "clinic",
+      "name": "Policliinica Central Clinic"
+    }
+  },
+  {
+    "id": "way-670662786",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.9195529,
+    "lng": 26.3817477,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school"
+    }
+  },
+  {
+    "id": "way-684819252",
+    "name": "Dispensar Urban nr. 6",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 46.9384481,
+    "lng": 26.3883521,
+    "osmType": "way",
+    "tags": {
+      "amenity": "clinic",
+      "building": "yes",
+      "healthcare": "clinic",
+      "name": "Dispensar Urban nr. 6"
+    }
+  },
+  {
+    "id": "way-707600043",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 46.9390625,
+    "lng": 26.382429,
+    "osmType": "way",
+    "tags": {
+      "amenity": "kindergarten"
+    }
+  },
+  {
+    "id": "way-715733196",
+    "name": "Crismed Clinic",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 46.9289826,
+    "lng": 26.3647775,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Piatra Neamț",
+      "addr:housenumber": "9",
+      "addr:street": "Bulevardul Decebal",
+      "amenity": "clinic",
+      "building": "yes",
+      "healthcare": "clinic",
+      "healthcare:speciality": "general;stomatology",
+      "name": "Crismed Clinic"
+    }
+  },
+  {
+    "id": "way-716592197",
+    "name": "MagicDoor",
+    "type": "gaming",
+    "subcategory": "MagicDoor",
+    "lat": 46.8962542,
+    "lng": 26.4138889,
+    "osmType": "way",
+    "tags": {
+      "building": "industrial",
+      "name": "MagicDoor"
+    }
+  },
+  {
+    "id": "way-903351301",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.945948,
+    "lng": 26.3887694,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school"
+    }
+  },
+  {
+    "id": "way-925938176",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "college",
+    "lat": 46.9220565,
+    "lng": 26.3863036,
+    "osmType": "way",
+    "tags": {
+      "amenity": "college"
+    }
+  },
+  {
+    "id": "way-927241204",
+    "name": "Centrul ''Sancta Maria'' Piatra-Neamţ",
+    "type": "school",
+    "subcategory": "childcare",
+    "lat": 46.9345434,
+    "lng": 26.3911029,
+    "osmType": "way",
+    "tags": {
+      "amenity": "childcare",
+      "name": "Centrul ''Sancta Maria'' Piatra-Neamţ"
+    }
+  },
+  {
+    "id": "way-939668608",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "childcare",
+    "lat": 46.9293717,
+    "lng": 26.3690815,
+    "osmType": "way",
+    "tags": {
+      "amenity": "childcare"
+    }
+  },
+  {
+    "id": "way-939673610",
+    "name": "Biserica Sfântul Gheorghe",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9309252,
+    "lng": 26.3690806,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "orthodox",
+      "name": "Biserica Sfântul Gheorghe",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-947770304",
+    "name": "Liceul Tehnologic ”Dimitrie Leonida”",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.9213386,
+    "lng": 26.3943818,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school",
+      "name": "Liceul Tehnologic ”Dimitrie Leonida”"
+    }
+  },
+  {
+    "id": "way-996679071",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.918392,
+    "lng": 26.388349,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school"
+    }
+  },
+  {
+    "id": "way-1001130544",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 46.9201596,
+    "lng": 26.3947921,
+    "osmType": "way",
+    "tags": {
+      "amenity": "kindergarten"
+    }
+  },
+  {
+    "id": "way-1006729593",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.9063541,
+    "lng": 26.4066875,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school"
+    }
+  },
+  {
+    "id": "way-1006775321",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.941162,
+    "lng": 26.3476607,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school"
+    }
+  },
+  {
+    "id": "way-1007449592",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.9408257,
+    "lng": 26.3815724,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school"
+    }
+  },
+  {
+    "id": "way-1007449593",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.9414897,
+    "lng": 26.381647,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school"
+    }
+  },
+  {
+    "id": "way-1008057490",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.9352535,
+    "lng": 26.3606134,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school"
+    }
+  },
+  {
+    "id": "way-1040139234",
+    "name": "Grădiniţa Program Prelungit Nr. 2",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 46.9275114,
+    "lng": 26.3625442,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Piatra Neamț",
+      "addr:housenumber": "3",
+      "addr:street": "Bulevardul 9 Mai",
+      "amenity": "kindergarten",
+      "name": "Grădiniţa Program Prelungit Nr. 2",
+      "phone": "+40 233 211 023"
+    }
+  },
+  {
+    "id": "way-1040141090",
+    "name": "Start Academy",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 46.9438986,
+    "lng": 26.3830684,
+    "osmType": "way",
+    "tags": {
+      "amenity": "kindergarten",
+      "name": "Start Academy"
+    }
+  },
+  {
+    "id": "way-1062821496",
+    "name": "Liceul cu Program Sportiv",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.9414391,
+    "lng": 26.3548033,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school",
+      "name": "Liceul cu Program Sportiv"
+    }
+  },
+  {
+    "id": "way-1135935259",
+    "name": "Biserica de lemn „Buna Vestire”",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9644624,
+    "lng": 26.3675245,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "heritage": "2",
+      "heritage:operator": "lmi",
+      "historic": "church",
+      "name": "Biserica de lemn „Buna Vestire”",
+      "ref:RO:lmi": "NT-II-m-B-10549",
+      "religion": "christian",
+      "start_date": "1779-1787"
+    }
+  },
+  {
+    "id": "way-1135935260",
+    "name": "Biserica",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9644004,
+    "lng": 26.3669462,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "name": "Biserica",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1166321458",
+    "name": "Școala Gimnazială Nr. 1 Dumbrava Roșie",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.8909166,
+    "lng": 26.427779,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school",
+      "name": "Școala Gimnazială Nr. 1 Dumbrava Roșie"
+    }
+  },
+  {
+    "id": "way-1177286338",
+    "name": "Școala Gimnazială Nr.4 Brășăuți",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.8649197,
+    "lng": 26.4351137,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school",
+      "name": "Școala Gimnazială Nr.4 Brășăuți"
+    }
+  },
+  {
+    "id": "way-1178006822",
+    "name": "Şcoala Cu Clasele I-VIII NR. 7",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.9083131,
+    "lng": 26.3864161,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school",
+      "name": "Şcoala Cu Clasele I-VIII NR. 7"
+    }
+  },
+  {
+    "id": "way-1244835867",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.8823976,
+    "lng": 26.4206801,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school"
+    }
+  },
+  {
+    "id": "way-1357045743",
+    "name": "Fosta mănăstire „Peste vale”",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.901706,
+    "lng": 26.3882549,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "heritage": "2",
+      "heritage:operator": "lmi",
+      "historic": "church",
+      "name": "Fosta mănăstire „Peste vale”",
+      "ref:RO:lmi": "NT-II-a-A-10730",
+      "religion": "christian"
+    }
+  }
+]

@@ -7,8 +7,14 @@
     "lat": 45.2294939,
     "lng": 22.0315223,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "roman_catholic",
+      "name": "Biserica romano-catolică din Văliug",
+      "name:en": "Văliug Roman-catholic Church",
+      "religion": "christian",
+      "tourism": "attraction"
+    }
   },
   {
     "id": "node-3680467460",
@@ -18,8 +24,11 @@
     "lat": 45.2310208,
     "lng": 22.0327086,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-3680467513",
@@ -29,8 +38,11 @@
     "lat": 45.2712449,
     "lng": 21.9791597,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-3680472127",
@@ -40,8 +52,12 @@
     "lat": 45.3082454,
     "lng": 21.9229003,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "name": "Biserica ortodoxă Țerova",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-4362062489",
@@ -51,8 +67,17 @@
     "lat": 45.3240545,
     "lng": 21.8808069,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:housenumber": "13",
+      "addr:street": "Strada Făgărașului",
+      "amenity": "place_of_worship",
+      "denomination": "baptist",
+      "email": "izvorul.vietii@live.com",
+      "name": "Biserca Penticostală Izvorul Vieții",
+      "opening_hours": "Su 09:00-12:00, 18:00-20:00; Fr 18:00-20:00; We 18:00-20:00",
+      "religion": "christian",
+      "website": "http://www.izvorulvietii.ro"
+    }
   },
   {
     "id": "node-4789533124",
@@ -62,8 +87,12 @@
     "lat": 45.2948968,
     "lng": 21.9352792,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:housenumber": "51",
+      "addr:street": "Strada Primăverii",
+      "amenity": "school",
+      "opening_hours": "Mo-Fr; Su 10:00-22:00"
+    }
   },
   {
     "id": "node-5183088222",
@@ -73,8 +102,11 @@
     "lat": 45.2907438,
     "lng": 21.8927813,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "hospital",
+      "healthcare": "hospital",
+      "name": "Spitalul nr. 3"
+    }
   },
   {
     "id": "node-5183397721",
@@ -84,8 +116,10 @@
     "lat": 45.2898704,
     "lng": 21.8838554,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "clinic",
+      "healthcare": "clinic"
+    }
   },
   {
     "id": "node-5245907778",
@@ -95,8 +129,11 @@
     "lat": 45.2339616,
     "lng": 22.0919206,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "historic": "wayside_cross",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-5776999472",
@@ -106,96 +143,203 @@
     "lat": 45.3275453,
     "lng": 21.8703619,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Reșița",
+      "addr:housenumber": "5A",
+      "addr:postcode": "320189",
+      "addr:street": "Aleea Mărghitaș",
+      "amenity": "place_of_worship",
+      "denomination": "baptist",
+      "email": "BBsperantaresita@gmail.com",
+      "name": "Biserica Creștină Baptistă Speranța",
+      "phone": "+31 355 423633",
+      "religion": "christian",
+      "website": "https://sperantaresita.org/"
+    }
   },
   {
     "id": "node-8628417555",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet",
     "lat": 45.296279,
     "lng": 21.8797579,
     "osmType": "node",
-    "brand": "Superbet",
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-8628417646",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet",
     "lat": 45.3265121,
     "lng": 21.8740502,
     "osmType": "node",
-    "brand": "Superbet",
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-8628417785",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet",
     "lat": 45.3290748,
     "lng": 21.8702871,
     "osmType": "node",
-    "brand": "Superbet",
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-8628418266",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet",
     "lat": 45.323932,
     "lng": 21.876333,
     "osmType": "node",
-    "brand": "Superbet",
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-8628418268",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet",
     "lat": 45.302064,
     "lng": 21.877695,
     "osmType": "node",
-    "brand": "Superbet",
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-8628418324",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet",
     "lat": 45.3197927,
     "lng": 21.8797231,
     "osmType": "node",
-    "brand": "Superbet",
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-8628418325",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet",
     "lat": 45.329016,
     "lng": 21.871478,
     "osmType": "node",
-    "brand": "Superbet",
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-8628418343",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet",
     "lat": 45.2897994,
     "lng": 21.8856668,
     "osmType": "node",
-    "brand": "Superbet",
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-8937795632",
@@ -205,8 +349,12 @@
     "lat": 45.2944561,
     "lng": 21.8799117,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Reșița",
+      "addr:street": "Bulevardul Alexandru Ioan Cuza",
+      "amenity": "college",
+      "name": "Colegiul Național Traian Lalescu - Reșița"
+    }
   },
   {
     "id": "node-9113150217",
@@ -216,8 +364,11 @@
     "lat": 45.227335,
     "lng": 22.0959222,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "name": "Serviciul de Ambulantă Caras-Severin"
+    }
   },
   {
     "id": "node-9113150218",
@@ -227,19 +378,32 @@
     "lat": 45.227049,
     "lng": 22.0965625,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship"
+    }
   },
   {
     "id": "node-9424549170",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet",
     "lat": 45.2901862,
     "lng": 21.8862596,
     "osmType": "node",
-    "brand": "Superbet",
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "24/7",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-10023859441",
@@ -249,8 +413,31 @@
     "lat": 45.286443,
     "lng": 21.8868673,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Reșița",
+      "addr:housenumber": "22",
+      "addr:postcode": "320068",
+      "addr:street": "Strada Ion Luca Caragiale",
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "name": "Vestmed",
+      "website": "https://www.vestmed.ro/"
+    }
+  },
+  {
+    "id": "node-10180708819",
+    "name": "Fortuna",
+    "type": "betting",
+    "subcategory": "Fortuna",
+    "lat": 45.2914893,
+    "lng": 21.8961624,
+    "osmType": "node",
+    "tags": {
+      "check_date": "2022-11-13",
+      "name": "Fortuna",
+      "opening_hours": "Mo-Sa 09:00-22:00",
+      "shop": "lottery"
+    }
   },
   {
     "id": "node-13326383209",
@@ -260,8 +447,11 @@
     "lat": 45.2827204,
     "lng": 21.8104078,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "name": "Budugan Daniela"
+    }
   },
   {
     "id": "node-13531997406",
@@ -271,8 +461,16 @@
     "lat": 45.2293568,
     "lng": 22.0319213,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Văliug",
+      "addr:housenumber": "57",
+      "addr:postcode": "327415",
+      "addr:street": "Principala",
+      "amenity": "school",
+      "education": "school",
+      "grades": "1-8",
+      "name": "Scoala Gimnaziala Petre Sava Baleanu Valiug"
+    }
   },
   {
     "id": "way-223966561",
@@ -282,8 +480,12 @@
     "lat": 45.3253933,
     "lng": 21.881475,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "clinic",
+      "building": "yes",
+      "healthcare": "clinic",
+      "name": "Policlinica"
+    }
   },
   {
     "id": "way-223966715",
@@ -293,8 +495,17 @@
     "lat": 45.3250189,
     "lng": 21.8800595,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Reșița",
+      "addr:housenumber": "5",
+      "addr:postcode": "320154",
+      "addr:street": "Aleea Herculane",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "catholic",
+      "name": "Biserica Sfânta Treime Din Reșița",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-223966935",
@@ -304,8 +515,14 @@
     "lat": 45.3247588,
     "lng": 21.8787349,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Reșița",
+      "addr:housename": "Liceul de Artă Sabin Păuță",
+      "addr:housenumber": "3",
+      "addr:street": "Aleea Herculane",
+      "amenity": "college",
+      "name": "Liceul de Artă Sabin Păuță"
+    }
   },
   {
     "id": "way-223969074",
@@ -315,8 +532,11 @@
     "lat": 45.3200096,
     "lng": 21.8819819,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "hospital",
+      "emergency": "no",
+      "healthcare": "hospital"
+    }
   },
   {
     "id": "way-223969142",
@@ -326,8 +546,11 @@
     "lat": 45.3202017,
     "lng": 21.880804,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:housename": "Școala Generală Nr. 8",
+      "amenity": "school",
+      "name": "Școala Gimnazială nr. 8"
+    }
   },
   {
     "id": "way-223983005",
@@ -337,8 +560,13 @@
     "lat": 45.3256481,
     "lng": 21.8771105,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă Schimbarea la Față",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-223996857",
@@ -348,8 +576,12 @@
     "lat": 45.2993985,
     "lng": 21.8778569,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:housename": "Școala Generală Nr.6 Reșița",
+      "addr:street": "Strada Gratz",
+      "amenity": "school",
+      "name": "Școala Gimnazială nr. 6"
+    }
   },
   {
     "id": "way-274506013",
@@ -359,8 +591,12 @@
     "lat": 45.2556203,
     "lng": 21.904872,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-292030110",
@@ -370,8 +606,13 @@
     "lat": 45.3167714,
     "lng": 21.88188,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Biserica ortodoxă Pogorârea Sfântului Duh",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-300236988",
@@ -381,8 +622,10 @@
     "lat": 45.2268066,
     "lng": 22.0960844,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-401051374",
@@ -392,8 +635,11 @@
     "lat": 45.266572,
     "lng": 21.9159633,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-417985509",
@@ -403,8 +649,14 @@
     "lat": 45.3877345,
     "lng": 21.9584658,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Mănăstirea Brebu",
+      "name:en": "Brebu Monastery",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-467446345",
@@ -414,8 +666,11 @@
     "lat": 45.3248335,
     "lng": 21.8814018,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "hospital",
+      "healthcare": "hospital",
+      "name": "Spitalul Județean de Urgență Reșița"
+    }
   },
   {
     "id": "way-467446347",
@@ -425,8 +680,14 @@
     "lat": 45.322343,
     "lng": 21.8837032,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Reșița",
+      "addr:housenumber": "6",
+      "addr:postcode": "320154",
+      "addr:street": "Strada Făgărașului",
+      "amenity": "school",
+      "name": "Colegiul Național Mircea Eliade"
+    }
   },
   {
     "id": "way-467446348",
@@ -436,8 +697,10 @@
     "lat": 45.3233087,
     "lng": 21.8749284,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "name": "Școala Gimnazială nr. 7"
+    }
   },
   {
     "id": "way-467446349",
@@ -447,8 +710,10 @@
     "lat": 45.3249029,
     "lng": 21.8733639,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "name": "Colegiul Economic al Banatului Montan"
+    }
   },
   {
     "id": "way-467446350",
@@ -458,8 +723,10 @@
     "lat": 45.3268388,
     "lng": 21.8711128,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "name": "Școala Gimnazială nr. 9"
+    }
   },
   {
     "id": "way-467578478",
@@ -469,8 +736,10 @@
     "lat": 45.2930149,
     "lng": 21.8838587,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "university",
+      "name": "Universitatea Eftimie Murgu"
+    }
   },
   {
     "id": "way-471168638",
@@ -480,8 +749,11 @@
     "lat": 45.2993219,
     "lng": 21.8764086,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-480277419",
@@ -491,8 +763,10 @@
     "lat": 45.2937272,
     "lng": 21.8799413,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "name": "Colegiul Național Traian Lalescu"
+    }
   },
   {
     "id": "way-511119281",
@@ -502,8 +776,10 @@
     "lat": 45.3278995,
     "lng": 21.8698273,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "kindergarten",
+      "name": "Grădinița Floarea Soarelui"
+    }
   },
   {
     "id": "way-528531015",
@@ -513,8 +789,13 @@
     "lat": 45.338773,
     "lng": 22.0020872,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-531506325",
@@ -524,8 +805,11 @@
     "lat": 45.3731133,
     "lng": 21.9473108,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-531507448",
@@ -535,8 +819,13 @@
     "lat": 45.3391486,
     "lng": 22.0039364,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica Ortodoxă Bulgară",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-536110418",
@@ -546,8 +835,12 @@
     "lat": 45.313413,
     "lng": 22.1106173,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "religion": "christian",
+      "ruins": "yes"
+    }
   },
   {
     "id": "way-538185157",
@@ -557,8 +850,14 @@
     "lat": 45.2936999,
     "lng": 21.9087884,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "alt_name": "Biserica Albă",
+      "amenity": "place_of_worship",
+      "building": "cathedral",
+      "denomination": "orthodox",
+      "name": "Catedrala Adormirii Maicii Domnului",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-539482253",
@@ -568,8 +867,13 @@
     "lat": 45.2946559,
     "lng": 21.9049776,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "lutheran",
+      "name": "Biserica evanghelică C.A.",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-539482254",
@@ -579,8 +883,13 @@
     "lat": 45.2884081,
     "lng": 21.8896518,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă Petru Iacob",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-539482255",
@@ -590,8 +899,19 @@
     "lat": 45.2950632,
     "lng": 21.9011665,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Reșița",
+      "addr:housenumber": "34",
+      "addr:street": "Strada Traian Lalescu",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "roman_catholic",
+      "name": "Biserica Maria Zăpezii din Reșița",
+      "name:en": "Saint Mary of the Snows Church Reșița",
+      "religion": "christian",
+      "wikidata": "Q12721838",
+      "wikipedia": "ro:Biserica Maria Zăpezii din Reșița"
+    }
   },
   {
     "id": "way-985617235",
@@ -601,8 +921,13 @@
     "lat": 45.2616593,
     "lng": 21.9674211,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Cuptoare",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1257935761",
@@ -612,8 +937,12 @@
     "lat": 45.3506391,
     "lng": 21.8315114,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1362267886",
@@ -623,8 +952,10 @@
     "lat": 45.3302152,
     "lng": 21.8726729,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "name": "Colegiul Național Mircea Eliade - Corpul C"
+    }
   },
   {
     "id": "way-1362273750",
@@ -634,8 +965,10 @@
     "lat": 45.3228321,
     "lng": 21.8828114,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "name": "Colegiul Tehnic Cărășan"
+    }
   },
   {
     "id": "way-1362283653",
@@ -645,8 +978,11 @@
     "lat": 45.3255702,
     "lng": 21.8724974,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1362292680",
@@ -656,8 +992,11 @@
     "lat": 45.3163129,
     "lng": 21.8793931,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "education": "school",
+      "name": "Liceul Teoretic Traian Vuia"
+    }
   },
   {
     "id": "way-1372663492",
@@ -667,8 +1006,10 @@
     "lat": 45.291025,
     "lng": 21.8853919,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "hospital",
+      "healthcare": "hospital"
+    }
   },
   {
     "id": "way-1372663493",
@@ -678,8 +1019,10 @@
     "lat": 45.2908145,
     "lng": 21.8858492,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "hospital",
+      "healthcare": "hospital"
+    }
   },
   {
     "id": "way-1372663494",
@@ -689,8 +1032,10 @@
     "lat": 45.2905409,
     "lng": 21.8844925,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "hospital",
+      "healthcare": "hospital"
+    }
   },
   {
     "id": "way-1372663495",
@@ -700,8 +1045,11 @@
     "lat": 45.290581,
     "lng": 21.8860927,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "hospital",
+      "healthcare": "hospital",
+      "name": "Centrul de Transfuzie Sanguină"
+    }
   },
   {
     "id": "way-1372663496",
@@ -711,8 +1059,10 @@
     "lat": 45.2902125,
     "lng": 21.8849547,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "hospital",
+      "healthcare": "hospital"
+    }
   },
   {
     "id": "way-1372663497",
@@ -722,8 +1072,12 @@
     "lat": 45.2905521,
     "lng": 21.88521,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:street": "Strada Spitalului",
+      "amenity": "hospital",
+      "healthcare": "hospital",
+      "name": "Spitalul nr. 2"
+    }
   },
   {
     "id": "way-1372674519",
@@ -733,8 +1087,11 @@
     "lat": 45.3220843,
     "lng": 21.8722884,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1372675319",
@@ -744,8 +1101,11 @@
     "lat": 45.3207712,
     "lng": 21.8731385,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1372685925",
@@ -755,8 +1115,11 @@
     "lat": 45.3177262,
     "lng": 21.8625979,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1372690425",
@@ -766,8 +1129,11 @@
     "lat": 45.3148748,
     "lng": 21.8728149,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1422356672",
@@ -777,8 +1143,14 @@
     "lat": 45.2822871,
     "lng": 21.8106419,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "roman_catholic",
+      "name": "Biserica Romano Catolică Sf. Matei",
+      "name:sh": "Rimokatolička crkva sv. Mateja",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1453392954",
@@ -788,8 +1160,10 @@
     "lat": 45.282007,
     "lng": 21.8097683,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "education": "school"
+    }
   },
   {
     "id": "way-1453751988",
@@ -799,8 +1173,10 @@
     "lat": 45.2813395,
     "lng": 21.8094229,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "kindergarten",
+      "education": "kindergarten"
+    }
   },
   {
     "id": "way-1459625371",
@@ -810,8 +1186,18 @@
     "lat": 45.2926875,
     "lng": 21.8987754,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Reșița",
+      "addr:housenumber": "8",
+      "addr:street": "Strada Mihai Viteazu",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "name": "Sinagoga din Reşiţa",
+      "religion": "jewish",
+      "start_date": "1880",
+      "wikidata": "Q126979344",
+      "wikipedia": "en:Reșița Synagogue"
+    }
   },
   {
     "id": "way-1459625373",
@@ -821,7 +1207,18 @@
     "lat": 45.2900349,
     "lng": 21.8928179,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Reșița",
+      "addr:housenumber": "38",
+      "addr:postcode": "320066",
+      "addr:street": "Strada Libertății",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Biserica Sf. Ierarh Iosif cel Nou de la Partoş",
+      "religion": "christian",
+      "start_date": "1865",
+      "website": "https://www.episcopiacaransebesului.ro/01-parohia-sfantul-ierarh-iosif-cel-nou-de-la-partos-resita/"
+    }
   }
 ]

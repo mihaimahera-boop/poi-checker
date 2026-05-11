@@ -1,0 +1,209 @@
+[
+  {
+    "id": "node-2393651727",
+    "name": "Spitalul Orășenesc Lehliu-Gară",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 44.4424731,
+    "lng": 26.8523331,
+    "osmType": "node",
+    "tags": {
+      "amenity": "hospital",
+      "emergency": "yes",
+      "healthcare": "hospital",
+      "name": "Spitalul Orășenesc Lehliu-Gară"
+    }
+  },
+  {
+    "id": "node-6370292481",
+    "name": "Liceul „Alexandru Odobescu” Lehliu-Gară",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.4413192,
+    "lng": 26.8550631,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Lehliu-Gară",
+      "addr:postcode": "915300",
+      "addr:street": "Bulevardul Gării",
+      "amenity": "school",
+      "name": "Liceul „Alexandru Odobescu” Lehliu-Gară"
+    }
+  },
+  {
+    "id": "node-8198741717",
+    "name": "Biserica pe rit vechi, aparținând de Biserica Ortodoxa Ucrainiana",
+    "type": "church",
+    "subcategory": "place_of_worship",
+    "lat": 44.4795094,
+    "lng": 26.8293213,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Biserica pe rit vechi, aparținând de Biserica Ortodoxa Ucrainiana"
+    }
+  },
+  {
+    "id": "node-8628417734",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet",
+    "lat": 44.4409712,
+    "lng": 26.8514523,
+    "osmType": "node",
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-8628417969",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet",
+    "lat": 44.4388991,
+    "lng": 26.8531957,
+    "osmType": "node",
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "way-294126023",
+    "name": "Biserica ortodoxă Lehliu Gară",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.4341667,
+    "lng": 26.8599923,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Biserica ortodoxă Lehliu Gară",
+      "religion": "christian",
+      "source": "Bing, survey"
+    }
+  },
+  {
+    "id": "way-402825099",
+    "name": "Grădiniță",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 44.4406088,
+    "lng": 26.8540188,
+    "osmType": "way",
+    "tags": {
+      "amenity": "kindergarten",
+      "name": "Grădiniță"
+    }
+  },
+  {
+    "id": "way-645751427",
+    "name": "Biserica „Sfântul Ioan Botezătorul\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.4765638,
+    "lng": 26.8142357,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Lehliu",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "image": "https://photos.app.goo.gl/RiasDGT1rKjHZJCG8",
+      "mapillary": "814062876161380",
+      "name": "Biserica „Sfântul Ioan Botezătorul\"",
+      "religion": "christian",
+      "start_date": "1893"
+    }
+  },
+  {
+    "id": "way-1172685317",
+    "name": "Biserica „Sfântul Nicolae\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.498109,
+    "lng": 26.8397201,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Săpunari",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Sfântul Nicolae\"",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1172685319",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.4795203,
+    "lng": 26.8293689,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1172688273",
+    "name": "Biserica „Sfântul Dimitrie\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.4428108,
+    "lng": 26.8501508,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Lehliu-Gară",
+      "addr:street": "Strada Nicolae Titulescu",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Sfântul Dimitrie\"",
+      "religion": "christian",
+      "start_date": "1943"
+    }
+  },
+  {
+    "id": "way-1173507705",
+    "name": "Biserica „Sfinții Împărați Constantin și Elena\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.4592549,
+    "lng": 26.7911827,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Paicu",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Sfinții Împărați Constantin și Elena\"",
+      "religion": "christian"
+    }
+  }
+]

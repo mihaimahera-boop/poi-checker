@@ -1,555 +1,841 @@
-{
-  "city": "Buftea",
-  "generated_at": "2026-04-23T09:34:47.960Z",
-  "counts": {
-    "total": 35,
-    "schools": 22,
-    "churches": 13
-  },
-  "pois": [
-    {
-      "id": "node/4090392905",
-      "osm_id": 4090392905,
-      "osm_type": "node",
-      "name": "Gradinița nr. 5 Buftea",
-      "category": "education",
-      "lat": 44.5645056,
-      "lon": 25.9431506,
-      "tags": {
-        "amenity": "kindergarten",
-        "name": "Gradinița nr. 5 Buftea"
-      }
-    },
-    {
-      "id": "node/4090416887",
-      "osm_id": 4090416887,
-      "osm_type": "node",
-      "name": "Centru de arte marțiale",
-      "category": "education",
-      "lat": 44.5749419,
-      "lon": 25.9392894,
-      "tags": {
-        "amenity": "school",
-        "name": "Centru de arte marțiale"
-      }
-    },
-    {
-      "id": "node/11722275969",
-      "osm_id": 11722275969,
-      "osm_type": "node",
-      "name": "scoala nr 4 buftea",
-      "category": "education",
-      "lat": 44.5421635,
-      "lon": 25.9578063,
-      "tags": {
-        "amenity": "school",
-        "name": "scoala nr 4 buftea"
-      }
-    },
-    {
-      "id": "node/11722298369",
-      "osm_id": 11722298369,
-      "osm_type": "node",
-      "name": "Scoala nr 3 Buftea",
-      "category": "education",
-      "lat": 44.5594391,
-      "lon": 25.9303121,
-      "tags": {
-        "addr:street": "Strada Independenței",
-        "amenity": "school",
-        "name": "Scoala nr 3 Buftea"
-      }
-    },
-    {
-      "id": "node/11722310969",
-      "osm_id": 11722310969,
-      "osm_type": "node",
-      "name": "scoala nr 2 buftea",
-      "category": "education",
-      "lat": 44.560676,
-      "lon": 25.9456109,
-      "tags": {
-        "addr:street": "Strada Știrbei Vodă",
-        "amenity": "school",
-        "name": "scoala nr 2 buftea"
-      }
-    },
-    {
-      "id": "way/374143469",
-      "osm_id": 374143469,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 44.5733974,
-      "lon": 25.9399125,
-      "tags": {
-        "addr:city": "Buftea",
-        "addr:housenumber": "1",
-        "addr:postcode": "070000",
-        "addr:street": "Aleea Școlii",
-        "building": "school",
-        "building:levels": "3"
-      }
-    },
-    {
-      "id": "way/392034912",
-      "osm_id": 392034912,
-      "osm_type": "way",
-      "name": "Școala Generală Nr. 3",
-      "category": "education",
-      "lat": 44.5594063,
-      "lon": 25.9305866,
-      "tags": {
-        "amenity": "school",
-        "building": "yes",
-        "name": "Școala Generală Nr. 3"
-      }
-    },
-    {
-      "id": "way/408492999",
-      "osm_id": 408492999,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 44.5605264,
-      "lon": 25.9446972,
-      "tags": {
-        "building": "school",
-        "building:levels": "2"
-      }
-    },
-    {
-      "id": "way/408493006",
-      "osm_id": 408493006,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 44.5605258,
-      "lon": 25.9443144,
-      "tags": {
-        "building": "school",
-        "building:levels": "3"
-      }
-    },
-    {
-      "id": "way/422148887",
-      "osm_id": 422148887,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 44.5667766,
-      "lon": 25.9579392,
-      "tags": {
-        "addr:city": "Buftea",
-        "addr:housenumber": "5",
-        "addr:street": "Strada Liceului",
-        "building": "school",
-        "building:levels": "2"
-      }
-    },
-    {
-      "id": "way/483010784",
-      "osm_id": 483010784,
-      "osm_type": "way",
-      "name": "Gradinita Raza de Soare",
-      "category": "education",
-      "lat": 44.5623017,
-      "lon": 25.9419449,
-      "tags": {
-        "building": "kindergarten",
-        "building:levels": "1",
-        "name": "Gradinita Raza de Soare"
-      }
-    },
-    {
-      "id": "way/654252971",
-      "osm_id": 654252971,
-      "osm_type": "way",
-      "name": "Gradinița",
-      "category": "education",
-      "lat": 44.5579475,
-      "lon": 25.9322067,
-      "tags": {
-        "amenity": "kindergarten",
-        "building:levels": "1",
-        "education": "kindergarten",
-        "name": "Gradinița"
-      }
-    },
-    {
-      "id": "way/935198738",
-      "osm_id": 935198738,
-      "osm_type": "way",
-      "name": "Liceul Tehnologic „Barbu A. Stirbey”",
-      "category": "education",
-      "lat": 44.5665813,
-      "lon": 25.9580208,
-      "tags": {
-        "addr:city": "Buftea",
-        "addr:housenumber": "5",
-        "addr:street": "Strada Liceului",
-        "amenity": "school",
-        "barrier": "fence",
-        "email": "gseas_barbustirbey@yahoo.com",
-        "name": "Liceul Tehnologic „Barbu A. Stirbey”",
-        "phone": "021.350.57.31",
-        "start_date": "1924",
-        "website": "https://www.liceulbarbustirbey.ro/"
-      }
-    },
-    {
-      "id": "way/984929224",
-      "osm_id": 984929224,
-      "osm_type": "way",
-      "name": "Școala Gimnazială nr.1 Buftea",
-      "category": "education",
-      "lat": 44.5733052,
-      "lon": 25.9401044,
-      "tags": {
-        "addr:city": "Buftea",
-        "addr:housenumber": "1",
-        "addr:postcode": "070000",
-        "addr:street": "Aleea Școlii",
-        "amenity": "school",
-        "barrier": "fence",
-        "fence_type": "bars",
-        "name": "Școala Gimnazială nr.1 Buftea"
-      }
-    },
-    {
-      "id": "way/986515752",
-      "osm_id": 986515752,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 44.5728311,
-      "lon": 25.9406381,
-      "tags": {
-        "building": "kindergarten",
-        "building:levels": "2"
-      }
-    },
-    {
-      "id": "way/986515757",
-      "osm_id": 986515757,
-      "osm_type": "way",
-      "name": "Grădiniţa Panda",
-      "category": "education",
-      "lat": 44.5729519,
-      "lon": 25.9407033,
-      "tags": {
-        "addr:city": "Buftea",
-        "addr:housenumber": "1",
-        "addr:postcode": "070000",
-        "addr:street": "Aleea Școlii",
-        "amenity": "kindergarten",
-        "barrier": "fence",
-        "fence_type": "bars",
-        "name": "Grădiniţa Panda"
-      }
-    },
-    {
-      "id": "way/986515769",
-      "osm_id": 986515769,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 44.5712592,
-      "lon": 25.9422641,
-      "tags": {
-        "building": "school",
-        "building:levels": "3"
-      }
-    },
-    {
-      "id": "way/986515770",
-      "osm_id": 986515770,
-      "osm_type": "way",
-      "name": "Liceul Tehnologic Dumitru Dumitrescu",
-      "category": "education",
-      "lat": 44.5716652,
-      "lon": 25.9418096,
-      "tags": {
-        "addr:city": "Buftea",
-        "addr:housenumber": "135",
-        "addr:postcode": "070000",
-        "addr:street": "Șoseaua București-Târgoviște",
-        "amenity": "school",
-        "barrier": "fence",
-        "fence_type": "wall",
-        "name": "Liceul Tehnologic Dumitru Dumitrescu"
-      }
-    },
-    {
-      "id": "way/986764249",
-      "osm_id": 986764249,
-      "osm_type": "way",
-      "name": "Școala Gimnazială nr. 2 Buftea",
-      "category": "education",
-      "lat": 44.5604955,
-      "lon": 25.9447463,
-      "tags": {
-        "addr:city": "Buftea",
-        "addr:housenumber": "22",
-        "addr:postcode": "070000",
-        "addr:street": "Strada Știrbei Vodă",
-        "amenity": "school",
-        "barrier": "fence",
-        "fence_type": "bars",
-        "name": "Școala Gimnazială nr. 2 Buftea"
-      }
-    },
-    {
-      "id": "way/987223128",
-      "osm_id": 987223128,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 44.5603107,
-      "lon": 25.9448654,
-      "tags": {
-        "building": "school",
-        "building:levels": "1"
-      }
-    },
-    {
-      "id": "way/987223129",
-      "osm_id": 987223129,
-      "osm_type": "way",
-      "name": "Palatul Copiilor si Elevilor Ilfov",
-      "category": "education",
-      "lat": 44.5602502,
-      "lon": 25.945152,
-      "tags": {
-        "addr:city": "Buftea",
-        "addr:housenumber": "18",
-        "addr:postcode": "070000",
-        "addr:street": "Strada Știrbei Vodă",
-        "amenity": "school",
-        "building": "school",
-        "building:levels": "2",
-        "name": "Palatul Copiilor si Elevilor Ilfov"
-      }
-    },
-    {
-      "id": "way/1495932107",
-      "osm_id": 1495932107,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 44.5690153,
-      "lon": 25.948251,
-      "tags": {
-        "amenity": "school",
-        "education": "school"
-      }
-    },
-    {
-      "id": "node/247638363",
-      "osm_id": 247638363,
-      "osm_type": "node",
+[
+  {
+    "id": "node-247638363",
+    "name": "Biserica Baptistă",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.567261,
+    "lng": 25.9462464,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "baptist",
       "name": "Biserica Baptistă",
-      "category": "place_of_worship",
-      "lat": 44.567261,
-      "lon": 25.9462464,
-      "tags": {
-        "amenity": "place_of_worship",
-        "denomination": "baptist",
-        "name": "Biserica Baptistă",
-        "religion": "christian",
-        "wheelchair": "limited"
-      }
-    },
-    {
-      "id": "node/247650726",
-      "osm_id": 247650726,
-      "osm_type": "node",
-      "name": "Biserica Sf Nicolae",
-      "category": "place_of_worship",
-      "lat": 44.5554512,
-      "lon": 25.9448456,
-      "tags": {
-        "amenity": "place_of_worship",
-        "denomination": "orthodox",
-        "name": "Biserica Sf Nicolae",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "node/6549161586",
-      "osm_id": 6549161586,
-      "osm_type": "node",
-      "name": "Biserica adventistă Buftea",
-      "category": "place_of_worship",
-      "lat": 44.5570218,
-      "lon": 25.9537672,
-      "tags": {
-        "addr:street": "Șoseaua București-Târgoviște",
-        "amenity": "place_of_worship",
-        "denomination": "seventh_day_adventist",
-        "name": "Biserica adventistă Buftea",
-        "name:ro": "Biserică adventista de ziua a șapte",
-        "religion": "christian",
-        "wheelchair": "limited"
-      }
-    },
-    {
-      "id": "way/392031450",
-      "osm_id": 392031450,
-      "osm_type": "way",
-      "name": "Biserica „Adormirea Maicii Domnului\"",
-      "category": "place_of_worship",
-      "lat": 44.5646572,
-      "lon": 25.9349392,
-      "tags": {
-        "amenity": "place_of_worship",
-        "building": "church",
-        "denomination": "romanian_orthodox",
-        "name": "Biserica „Adormirea Maicii Domnului\"",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/392031453",
-      "osm_id": 392031453,
-      "osm_type": "way",
-      "name": "Cimitirul Ortodox",
-      "category": "place_of_worship",
-      "lat": 44.5644716,
-      "lon": 25.9349191,
-      "tags": {
-        "denomination": "orthodox",
-        "landuse": "cemetery",
-        "name": "Cimitirul Ortodox",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/406658285",
-      "osm_id": 406658285,
-      "osm_type": "way",
-      "name": "Cimitir",
-      "category": "place_of_worship",
-      "lat": 44.5552983,
-      "lon": 25.9446979,
-      "tags": {
-        "amenity": "grave_yard",
-        "name": "Cimitir",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/407466177",
-      "osm_id": 407466177,
-      "osm_type": "way",
-      "name": "Cimitir",
-      "category": "place_of_worship",
-      "lat": 44.543763,
-      "lon": 25.9610948,
-      "tags": {
-        "denomination": "greek_orthodox",
-        "landuse": "cemetery",
-        "name": "Cimitir",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/986515785",
-      "osm_id": 986515785,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "place_of_worship",
-      "lat": 44.5723878,
-      "lon": 25.9381246,
-      "tags": {
-        "building": "church",
-        "height": "10"
-      }
-    },
-    {
-      "id": "way/986515787",
-      "osm_id": 986515787,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "place_of_worship",
-      "lat": 44.5725473,
-      "lon": 25.9380812,
-      "tags": {
-        "building": "church",
-        "building:levels": "5"
-      }
-    },
-    {
-      "id": "way/1169381489",
-      "osm_id": 1169381489,
-      "osm_type": "way",
-      "name": "Biserica „Sfânta Varvara\"",
-      "category": "place_of_worship",
-      "lat": 44.5594699,
-      "lon": 25.9474928,
-      "tags": {
-        "amenity": "place_of_worship",
-        "building": "yes",
-        "denomination": "romanian_orthodox",
-        "name": "Biserica „Sfânta Varvara\"",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/1169381490",
-      "osm_id": 1169381490,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "place_of_worship",
-      "lat": 44.559438,
-      "lon": 25.9475038,
-      "tags": {
-        "denomination": "romanian_orthodox",
-        "landuse": "religious",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/1169381491",
-      "osm_id": 1169381491,
-      "osm_type": "way",
-      "name": "Capela „Sfânta Treime\"",
-      "category": "place_of_worship",
-      "lat": 44.5672078,
-      "lon": 25.937857,
-      "tags": {
-        "amenity": "place_of_worship",
-        "building": "chapel",
-        "denomination": "greek_orthodox",
-        "heritage": "2",
-        "heritage:operator": "lmi",
-        "name": "Capela „Sfânta Treime\"",
-        "name:ro": "Capela „Sfânta Treime\"",
-        "ref:RO:lmi": "IF-II-m-A-15257.02",
-        "religion": "christian",
-        "wikidata": "Q42956803"
-      }
-    },
-    {
-      "id": "way/1333746686",
-      "osm_id": 1333746686,
-      "osm_type": "way",
-      "name": "Biserica „Sfinții Împărați Constantin și Elena”",
-      "category": "place_of_worship",
-      "lat": 44.5421384,
-      "lon": 25.956034,
-      "tags": {
-        "amenity": "place_of_worship",
-        "building": "church",
-        "denomination": "romanian_orthodox",
-        "heritage": "2",
-        "heritage:operator": "lmi",
-        "historic": "church",
-        "name": "Biserica „Sfinții Împărați Constantin și Elena”",
-        "ref:RO:lmi": "IF-II-m-B-15267",
-        "religion": "christian",
-        "start_date": "1787-09-25"
-      }
+      "religion": "christian",
+      "wheelchair": "limited"
     }
-  ]
-}
+  },
+  {
+    "id": "node-247650726",
+    "name": "Biserica Sf Nicolae",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.5554512,
+    "lng": 25.9448456,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Sf Nicolae",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-2642106292",
+    "name": "Școala Mogoșoaia",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.528268,
+    "lng": 26.0003604,
+    "osmType": "node",
+    "tags": {
+      "amenity": "school",
+      "name": "Școala Mogoșoaia"
+    }
+  },
+  {
+    "id": "node-4090392905",
+    "name": "Gradinița nr. 5 Buftea",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 44.5645056,
+    "lng": 25.9431506,
+    "osmType": "node",
+    "tags": {
+      "amenity": "kindergarten",
+      "name": "Gradinița nr. 5 Buftea"
+    }
+  },
+  {
+    "id": "node-4090416887",
+    "name": "Centru de arte marțiale",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.5749419,
+    "lng": 25.9392894,
+    "osmType": "node",
+    "tags": {
+      "amenity": "school",
+      "name": "Centru de arte marțiale"
+    }
+  },
+  {
+    "id": "node-6549161586",
+    "name": "Biserica adventistă Buftea",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.5570218,
+    "lng": 25.9537672,
+    "osmType": "node",
+    "tags": {
+      "addr:street": "Șoseaua București-Târgoviște",
+      "amenity": "place_of_worship",
+      "denomination": "seventh_day_adventist",
+      "name": "Biserica adventistă Buftea",
+      "name:ro": "Biserică adventista de ziua a șapte",
+      "religion": "christian",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "id": "node-8628417732",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet Betting & Gaming SA",
+    "lat": 44.5272691,
+    "lng": 26.0013825,
+    "osmType": "node",
+    "tags": {
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-8628418222",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet Betting & Gaming SA",
+    "lat": 44.575297,
+    "lng": 25.940505,
+    "osmType": "node",
+    "tags": {
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-9245060791",
+    "name": "Biserica Crevedia",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.5945903,
+    "lng": 25.9196724,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Crevedia",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-9730935054",
+    "name": "Biserica Adventistă Mogoșoaia",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.5242231,
+    "lng": 26.0056723,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Mogoșoaia",
+      "amenity": "place_of_worship",
+      "name": "Biserica Adventistă Mogoșoaia",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-10120148918",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 44.509056,
+    "lng": 25.9803021,
+    "osmType": "node",
+    "tags": {
+      "amenity": "kindergarten"
+    }
+  },
+  {
+    "id": "node-11150471905",
+    "name": "Get's bet",
+    "type": "betting",
+    "subcategory": "Get's bet",
+    "lat": 44.5926974,
+    "lng": 25.9218154,
+    "osmType": "node",
+    "tags": {
+      "name": "Get's bet",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-11150471925",
+    "name": "Get's bet",
+    "type": "betting",
+    "subcategory": "Get's bet",
+    "lat": 44.603835,
+    "lng": 25.9149007,
+    "osmType": "node",
+    "tags": {
+      "name": "Get's bet",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-11150527432",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet",
+    "lat": 44.5618725,
+    "lng": 25.9489663,
+    "osmType": "node",
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "name": "Superbet",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-11150527437",
+    "name": "Fortuna",
+    "type": "betting",
+    "subcategory": "Fortuna",
+    "lat": 44.5616316,
+    "lng": 25.9496564,
+    "osmType": "node",
+    "tags": {
+      "brand": "Fortuna",
+      "brand:wikidata": "Q25857973",
+      "name": "Fortuna",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-11722182869",
+    "name": "scoala ion olteanu",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.5086211,
+    "lng": 25.9823384,
+    "osmType": "node",
+    "tags": {
+      "addr:street": "Strada Ion Olteanu",
+      "amenity": "school",
+      "name": "scoala ion olteanu"
+    }
+  },
+  {
+    "id": "node-11722227169",
+    "name": "scoala ion visoiu locatia 2",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.5179634,
+    "lng": 25.9802861,
+    "osmType": "node",
+    "tags": {
+      "amenity": "school",
+      "name": "scoala ion visoiu locatia 2"
+    }
+  },
+  {
+    "id": "node-11722258270",
+    "name": "scoala mogosoaia",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.528327,
+    "lng": 26.0007599,
+    "osmType": "node",
+    "tags": {
+      "amenity": "school",
+      "name": "scoala mogosoaia"
+    }
+  },
+  {
+    "id": "node-11722275969",
+    "name": "scoala nr 4 buftea",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.5421635,
+    "lng": 25.9578063,
+    "osmType": "node",
+    "tags": {
+      "amenity": "school",
+      "name": "scoala nr 4 buftea"
+    }
+  },
+  {
+    "id": "node-11722298369",
+    "name": "Scoala nr 3 Buftea",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.5594391,
+    "lng": 25.9303121,
+    "osmType": "node",
+    "tags": {
+      "addr:street": "Strada Independenței",
+      "amenity": "school",
+      "name": "Scoala nr 3 Buftea"
+    }
+  },
+  {
+    "id": "node-11722310969",
+    "name": "scoala nr 2 buftea",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.560676,
+    "lng": 25.9456109,
+    "osmType": "node",
+    "tags": {
+      "addr:street": "Strada Știrbei Vodă",
+      "amenity": "school",
+      "name": "scoala nr 2 buftea"
+    }
+  },
+  {
+    "id": "way-39349042",
+    "name": "Biserica „Sfântul Gheorghe”",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.5277831,
+    "lng": 25.9939586,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Mogoșoaia",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "heritage": "2",
+      "heritage:operator": "lmi",
+      "name": "Biserica „Sfântul Gheorghe”",
+      "ref:RO:lmi": "IF-II-m-A-15298.02",
+      "religion": "christian",
+      "start_date": "1688"
+    }
+  },
+  {
+    "id": "way-308885499",
+    "name": "Dispensar Chitila",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 44.5087288,
+    "lng": 25.9818468,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Chitila",
+      "addr:housenumber": "70",
+      "addr:postcode": "077045",
+      "addr:street": "Șoseaua Banatului",
+      "amenity": "clinic",
+      "building": "yes",
+      "building:levels": "1",
+      "building:levels:underground": "1",
+      "emergency": "yes",
+      "healthcare": "clinic",
+      "name": "Dispensar Chitila",
+      "roof:levels": "1",
+      "roof:shape": "hipped"
+    }
+  },
+  {
+    "id": "way-392031450",
+    "name": "Biserica „Adormirea Maicii Domnului\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.5646572,
+    "lng": 25.9349392,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Adormirea Maicii Domnului\"",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-392034912",
+    "name": "Școala Generală Nr. 3",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.5594063,
+    "lng": 25.9305866,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school",
+      "building": "yes",
+      "name": "Școala Generală Nr. 3"
+    }
+  },
+  {
+    "id": "way-453514518",
+    "name": "Biserica \"Sfântul Prooroc Ioan Botezătorul\" - Chitila I",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.509078,
+    "lng": 25.9829899,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Chitila",
+      "addr:housenumber": "4",
+      "addr:postcode": "077045",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Intrarea Ion Olteanu",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica \"Sfântul Prooroc Ioan Botezătorul\" - Chitila I",
+      "religion": "christian",
+      "source": "http://www.protoieriailfovsud.ro/church/biserica-parohiei-chitila-i/",
+      "start_date": "1913"
+    }
+  },
+  {
+    "id": "way-654252971",
+    "name": "Gradinița",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 44.5579475,
+    "lng": 25.9322067,
+    "osmType": "way",
+    "tags": {
+      "amenity": "kindergarten",
+      "building:levels": "1",
+      "education": "kindergarten",
+      "name": "Gradinița"
+    }
+  },
+  {
+    "id": "way-935198738",
+    "name": "Liceul Tehnologic „Barbu A. Stirbey”",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.5665813,
+    "lng": 25.9580208,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Buftea",
+      "addr:housenumber": "5",
+      "addr:street": "Strada Liceului",
+      "amenity": "school",
+      "barrier": "fence",
+      "email": "gseas_barbustirbey@yahoo.com",
+      "name": "Liceul Tehnologic „Barbu A. Stirbey”",
+      "phone": "021.350.57.31",
+      "start_date": "1924",
+      "website": "https://www.liceulbarbustirbey.ro/"
+    }
+  },
+  {
+    "id": "way-984929224",
+    "name": "Școala Gimnazială nr.1 Buftea",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.5733052,
+    "lng": 25.9401044,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Buftea",
+      "addr:housenumber": "1",
+      "addr:postcode": "070000",
+      "addr:street": "Aleea Școlii",
+      "amenity": "school",
+      "barrier": "fence",
+      "fence_type": "bars",
+      "name": "Școala Gimnazială nr.1 Buftea"
+    }
+  },
+  {
+    "id": "way-984929232",
+    "name": "Policlinica Buftea",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 44.5747491,
+    "lng": 25.9364581,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Buftea",
+      "addr:postcode": "07000",
+      "addr:street": "Strada Studioului",
+      "amenity": "clinic",
+      "building": "yes",
+      "building:levels": "2",
+      "healthcare": "clinic",
+      "name": "Policlinica Buftea"
+    }
+  },
+  {
+    "id": "way-984929233",
+    "name": "Fără nume",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 44.5747557,
+    "lng": 25.936585,
+    "osmType": "way",
+    "tags": {
+      "amenity": "clinic",
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "healthcare": "clinic"
+    }
+  },
+  {
+    "id": "way-984929236",
+    "name": "Spitalul de Obstetrică Ginecologie Buftea",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 44.5764212,
+    "lng": 25.9383435,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Buftea",
+      "addr:housenumber": "5",
+      "addr:postcode": "070000",
+      "addr:street": "Strada Studioului",
+      "amenity": "hospital",
+      "barrier": "fence",
+      "emergency": "yes",
+      "fence_type": "wall",
+      "healthcare": "hospital",
+      "healthcare:speciality": "gynaecology;maternity",
+      "name": "Spitalul de Obstetrică Ginecologie Buftea"
+    }
+  },
+  {
+    "id": "way-986515757",
+    "name": "Grădiniţa Panda",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 44.5729519,
+    "lng": 25.9407033,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Buftea",
+      "addr:housenumber": "1",
+      "addr:postcode": "070000",
+      "addr:street": "Aleea Școlii",
+      "amenity": "kindergarten",
+      "barrier": "fence",
+      "fence_type": "bars",
+      "name": "Grădiniţa Panda"
+    }
+  },
+  {
+    "id": "way-986515770",
+    "name": "Liceul Tehnologic Dumitru Dumitrescu",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.5716652,
+    "lng": 25.9418096,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Buftea",
+      "addr:housenumber": "135",
+      "addr:postcode": "070000",
+      "addr:street": "Șoseaua București-Târgoviște",
+      "amenity": "school",
+      "barrier": "fence",
+      "fence_type": "wall",
+      "name": "Liceul Tehnologic Dumitru Dumitrescu"
+    }
+  },
+  {
+    "id": "way-986764249",
+    "name": "Școala Gimnazială nr. 2 Buftea",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.5604955,
+    "lng": 25.9447463,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Buftea",
+      "addr:housenumber": "22",
+      "addr:postcode": "070000",
+      "addr:street": "Strada Știrbei Vodă",
+      "amenity": "school",
+      "barrier": "fence",
+      "fence_type": "bars",
+      "name": "Școala Gimnazială nr. 2 Buftea"
+    }
+  },
+  {
+    "id": "way-987223129",
+    "name": "Palatul Copiilor si Elevilor Ilfov",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.5602502,
+    "lng": 25.945152,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Buftea",
+      "addr:housenumber": "18",
+      "addr:postcode": "070000",
+      "addr:street": "Strada Știrbei Vodă",
+      "amenity": "school",
+      "building": "school",
+      "building:levels": "2",
+      "name": "Palatul Copiilor si Elevilor Ilfov"
+    }
+  },
+  {
+    "id": "way-993933957",
+    "name": "Biserica Tuturor Sfinților",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.6039788,
+    "lng": 25.9464808,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "orthodox",
+      "name": "Biserica Tuturor Sfinților",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-993945356",
+    "name": "Școală și Grădiniță",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.600453,
+    "lng": 25.9472592,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school",
+      "name": "Școală și Grădiniță"
+    }
+  },
+  {
+    "id": "way-1029401241",
+    "name": "Biserica Catolica",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.5796677,
+    "lng": 25.9373988,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "roman_catholic",
+      "name": "Biserica Catolica",
+      "religion": "christian",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "id": "way-1086223939",
+    "name": "Școala Primară Ion Olteanu",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.5087214,
+    "lng": 25.9831517,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Chitila",
+      "addr:housenumber": "2",
+      "addr:postcode": "077045",
+      "addr:street": "Strada Ion Olteanu",
+      "amenity": "school",
+      "barrier": "fence",
+      "grades": "0-4",
+      "name": "Școala Primară Ion Olteanu"
+    }
+  },
+  {
+    "id": "way-1086223953",
+    "name": "Școala Gimnazială Chitila",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.5177243,
+    "lng": 25.9806611,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Chitila",
+      "addr:housenumber": "57",
+      "addr:postcode": "077045",
+      "addr:street": "Strada Troiței",
+      "amenity": "school",
+      "barrier": "fence",
+      "grades": "0-8",
+      "name": "Școala Gimnazială Chitila",
+      "start_date": "2022"
+    }
+  },
+  {
+    "id": "way-1086223958",
+    "name": "Grădinița Voinicel",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 44.5085224,
+    "lng": 25.9801343,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Chitila",
+      "addr:housenumber": "2 bis",
+      "addr:postcode": "077045",
+      "addr:street": "Șoseaua Banatului",
+      "amenity": "kindergarten",
+      "barrier": "fence",
+      "name": "Grădinița Voinicel",
+      "start_date": "2022"
+    }
+  },
+  {
+    "id": "way-1125910243",
+    "name": "Școala Gimnazială Tamași",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.5835061,
+    "lng": 26.0058806,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school",
+      "name": "Școala Gimnazială Tamași"
+    }
+  },
+  {
+    "id": "way-1169381489",
+    "name": "Biserica „Sfânta Varvara\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.5594699,
+    "lng": 25.9474928,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Sfânta Varvara\"",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1169381491",
+    "name": "Capela „Sfânta Treime\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.5672078,
+    "lng": 25.937857,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "chapel",
+      "denomination": "greek_orthodox",
+      "heritage": "2",
+      "heritage:operator": "lmi",
+      "name": "Capela „Sfânta Treime\"",
+      "name:ro": "Capela „Sfânta Treime\"",
+      "ref:RO:lmi": "IF-II-m-A-15257.02",
+      "religion": "christian",
+      "wikidata": "Q42956803"
+    }
+  },
+  {
+    "id": "way-1202800924",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.6012857,
+    "lng": 25.9144688,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school"
+    }
+  },
+  {
+    "id": "way-1261414750",
+    "name": "Gradinita Tamasi",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 44.5834281,
+    "lng": 26.0054409,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Tamasi",
+      "addr:housenumber": "411",
+      "addr:postcode": "070000",
+      "addr:street": "Șos. Unirii",
+      "amenity": "kindergarten",
+      "name": "Gradinita Tamasi"
+    }
+  },
+  {
+    "id": "way-1314656783",
+    "name": "Biserica Rebegești",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.5779856,
+    "lng": 25.9214385,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "name": "Biserica Rebegești",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1333746686",
+    "name": "Biserica „Sfinții Împărați Constantin și Elena”",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.5421384,
+    "lng": 25.956034,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "romanian_orthodox",
+      "heritage": "2",
+      "heritage:operator": "lmi",
+      "historic": "church",
+      "name": "Biserica „Sfinții Împărați Constantin și Elena”",
+      "ref:RO:lmi": "IF-II-m-B-15267",
+      "religion": "christian",
+      "start_date": "1787-09-25"
+    }
+  },
+  {
+    "id": "way-1473545685",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.5072935,
+    "lng": 25.8794918,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school",
+      "education": "school"
+    }
+  },
+  {
+    "id": "way-1495932107",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.5690153,
+    "lng": 25.948251,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school",
+      "education": "school"
+    }
+  }
+]

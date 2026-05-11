@@ -7,8 +7,11 @@
     "lat": 44.4085987,
     "lng": 27.8212986,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "is_in:city": "Fetești",
+      "source": "Bing, survey, snitzy"
+    }
   },
   {
     "id": "node-5168448821",
@@ -18,19 +21,46 @@
     "lat": 44.413839,
     "lng": 27.8193715,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "jehovahs_witness",
+      "name": "Sala Regatului a Martorilor lui Iehova",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-6580297115",
+    "name": "Casa Pariurilor",
+    "type": "betting",
+    "subcategory": "Casa Pariurilor",
+    "lat": 44.4111225,
+    "lng": 27.8262955,
+    "osmType": "node",
+    "tags": {
+      "name": "Casa Pariurilor",
+      "shop": "yes"
+    }
   },
   {
     "id": "node-6580297116",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet Betting & Gaming SA",
     "lat": 44.4111592,
     "lng": 27.8262617,
     "osmType": "node",
-    "brand": null,
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-7694483587",
@@ -40,19 +70,33 @@
     "lat": 44.4158844,
     "lng": 27.8768562,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "name": "Scoala Generala"
+    }
   },
   {
     "id": "node-8628417683",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet",
     "lat": 44.416322,
     "lng": 27.822361,
     "osmType": "node",
-    "brand": "Superbet",
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "way-303765069",
@@ -62,8 +106,18 @@
     "lat": 44.4117689,
     "lng": 27.8262892,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Fetești-Gară",
+      "addr:street": "Strada Călărași",
+      "amenity": "place_of_worship",
+      "building": "cathedral",
+      "denomination": "romanian_orthodox",
+      "is_in:city": "Fetești-Gară",
+      "is_in:country": "România",
+      "is_in:county": "Ialomița",
+      "name": "Catedrala Ortodoxă „Sfânta Treime” Fetești",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-469436234",
@@ -73,8 +127,12 @@
     "lat": 44.4080185,
     "lng": 27.827449,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "hospital",
+      "emergency": "yes",
+      "healthcare": "hospital",
+      "name": "Spitalul Municipal Anghel Saligny"
+    }
   },
   {
     "id": "way-643420284",
@@ -84,8 +142,14 @@
     "lat": 44.4106241,
     "lng": 27.8270606,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Fetești-Gară",
+      "addr:housenumber": "532",
+      "addr:street": "Strada Călărași",
+      "amenity": "school",
+      "name": "Școala Gimnazială Aurel Vlaicu",
+      "website": "http://scoalanr7fetesti.ro/"
+    }
   },
   {
     "id": "way-643420611",
@@ -95,8 +159,12 @@
     "lat": 44.4098985,
     "lng": 27.8275953,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "college",
+      "building": "school",
+      "name": "Liceul Teoretic \"Carol I\" Fetesti",
+      "website": "http://www.liceulteoreticcarolifetesti.ro/"
+    }
   },
   {
     "id": "way-700229497",
@@ -106,8 +174,13 @@
     "lat": 44.415938,
     "lng": 27.8169562,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "baptist",
+      "name": "Biserica Baptistă \"Emanuel\"",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-700234639",
@@ -117,8 +190,18 @@
     "lat": 44.4157313,
     "lng": 27.825416,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Fetești-Gară",
+      "addr:housenumber": "566",
+      "addr:postcode": "925150",
+      "addr:street": "Strada Călărași",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica Ortodoxa \"Sf. Arhangheli Mihail si Gavriil\"",
+      "religion": "christian",
+      "start_date": "1948"
+    }
   },
   {
     "id": "way-700683032",
@@ -128,8 +211,16 @@
     "lat": 44.4155762,
     "lng": 27.8180708,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Fetești",
+      "addr:housenumber": "2",
+      "addr:street": "Strada Bucegi",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "roman_catholic",
+      "name": "Biserica „Sfântul Anton de Padova\"",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-700729260",
@@ -139,8 +230,15 @@
     "lat": 44.4105826,
     "lng": 27.8212091,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Fetești-Gară",
+      "addr:street": "Strada Sirenei",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica Sf. Ilie",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1148164497",
@@ -150,8 +248,12 @@
     "lat": 44.4088249,
     "lng": 27.8272885,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "hospital",
+      "building": "hospital",
+      "healthcare": "hospital",
+      "name": "Policlinica Fetești"
+    }
   },
   {
     "id": "way-1164301706",
@@ -161,8 +263,22 @@
     "lat": 44.3784208,
     "lng": 27.8453273,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Fetești",
+      "addr:street": "Strada Constantin Brâncoveanu",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "heritage": "2",
+      "heritage:operator": "lmi",
+      "is_in:city": "Fetești",
+      "is_in:country": "România",
+      "is_in:county": "Ialomița",
+      "name": "Biserica „Adormirea Maicii Domnului”",
+      "ref:RO:lmi": "IL-II-m-B-14118",
+      "religion": "christian",
+      "start_date": "1882"
+    }
   },
   {
     "id": "way-1164301711",
@@ -172,8 +288,23 @@
     "lat": 44.3691617,
     "lng": 27.833352,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Fetești",
+      "addr:housenumber": "1",
+      "addr:street": "Strada Plevnei",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "heritage": "2",
+      "heritage:operator": "lmi",
+      "is_in:city": "Fetești",
+      "is_in:country": "România",
+      "is_in:county": "Ialomița",
+      "name": "Biserica Ortodoxă „Sfântul Nicolae”",
+      "ref:RO:lmi": "IL-II-m-B-14120",
+      "religion": "christian",
+      "start_date": "1884"
+    }
   },
   {
     "id": "way-1164301716",
@@ -183,8 +314,17 @@
     "lat": 44.4187077,
     "lng": 27.8299273,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Fetești-Gară",
+      "addr:street": "Strada Țăndărei",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "is_in:country": "România",
+      "is_in:county": "Ialomița",
+      "name": "Biserica Ortodoxă „Adormirea Maicii Domnului”",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1164301719",
@@ -194,8 +334,12 @@
     "lat": 44.4269826,
     "lng": 27.8249003,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1164301723",
@@ -205,8 +349,16 @@
     "lat": 44.3939464,
     "lng": 27.8489591,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "is_in:country": "România",
+      "is_in:county": "Ialomița",
+      "name": "Biserica „Nașterea Maicii Domnului\"",
+      "name:en": "Nativity Church Fetești",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1471609983",
@@ -216,7 +368,9 @@
     "lat": 44.4158968,
     "lng": 27.876523,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "childcare",
+      "building": "yes"
+    }
   }
 ]

@@ -1,1531 +1,4196 @@
-{
-  "city": "Turda",
-  "generated_at": "2026-04-23T10:21:59.127Z",
-  "counts": {
-    "total": 91,
-    "schools": 43,
-    "churches": 48
-  },
-  "pois": [
-    {
-      "id": "node/5490561192",
-      "osm_id": 5490561192,
-      "osm_type": "node",
-      "name": "Grădinița \"Casuța Piticilor\" Structura I",
-      "category": "education",
-      "lat": 46.5713877,
-      "lon": 23.7876843,
-      "tags": {
-        "amenity": "kindergarten",
-        "name": "Grădinița \"Casuța Piticilor\" Structura I"
-      }
-    },
-    {
-      "id": "node/5552925973",
-      "osm_id": 5552925973,
-      "osm_type": "node",
-      "name": "Școala Gimnazială \"Andrei Șaguna\"",
-      "category": "education",
-      "lat": 46.5734484,
-      "lon": 23.7884094,
-      "tags": {
-        "amenity": "school",
-        "name": "Școala Gimnazială \"Andrei Șaguna\""
-      }
-    },
-    {
-      "id": "node/5582135861",
-      "osm_id": 5582135861,
-      "osm_type": "node",
-      "name": "Colegiul tehnic \"Dr. Ioan Rațiu\"",
-      "category": "education",
-      "lat": 46.5692021,
-      "lon": 23.7869293,
-      "tags": {
-        "amenity": "school",
-        "name": "Colegiul tehnic \"Dr. Ioan Rațiu\""
-      }
-    },
-    {
-      "id": "node/5779422347",
-      "osm_id": 5779422347,
-      "osm_type": "node",
-      "name": "Colegiul tehnic Turda",
-      "category": "education",
-      "lat": 46.5805113,
-      "lon": 23.7708193,
-      "tags": {
-        "amenity": "school",
-        "name": "Colegiul tehnic Turda",
-        "operator:type": "public"
-      }
-    },
-    {
-      "id": "way/211448109",
-      "osm_id": 211448109,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 46.5751517,
-      "lon": 23.7782499,
-      "tags": {
-        "building": "school"
-      }
-    },
-    {
-      "id": "way/484206010",
-      "osm_id": 484206010,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 46.5711985,
-      "lon": 23.7840653,
-      "tags": {
-        "building": "school"
-      }
-    },
-    {
-      "id": "way/484206016",
-      "osm_id": 484206016,
-      "osm_type": "way",
-      "name": "Școala Gimnazială \"Teodor Murășanu\"",
-      "category": "education",
-      "lat": 46.5710656,
-      "lon": 23.7818157,
-      "tags": {
-        "addr:city": "Turda",
-        "addr:housenumber": "53",
-        "addr:postcode": "401150",
-        "addr:street": "Strada Doctor Ioan Rațiu",
-        "amenity": "school",
-        "building": "school",
-        "name": "Școala Gimnazială \"Teodor Murășanu\"",
-        "website": "https://www.tmturda.ro/"
-      }
-    },
-    {
-      "id": "way/493782330",
-      "osm_id": 493782330,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 46.5586134,
-      "lon": 23.8006687,
-      "tags": {
-        "building": "school"
-      }
-    },
-    {
-      "id": "way/493782372",
-      "osm_id": 493782372,
-      "osm_type": "way",
-      "name": "Școala Gimnazială \"Horea, Cloșca și Crișan\"",
-      "category": "education",
-      "lat": 46.556427,
-      "lon": 23.8149175,
-      "tags": {
-        "addr:city": "Turda",
-        "addr:housenumber": "7",
-        "addr:street": "Strada Lotus",
-        "amenity": "school",
-        "building": "school",
-        "name": "Școala Gimnazială \"Horea, Cloșca și Crișan\"",
-        "operator:type": "public",
-        "website": "https://schoreacloscasicrisan.ro/"
-      }
-    },
-    {
-      "id": "way/493782373",
-      "osm_id": 493782373,
-      "osm_type": "way",
-      "name": "Grădinița \"Casuța Piticilor\"",
-      "category": "education",
-      "lat": 46.5574605,
-      "lon": 23.8156859,
-      "tags": {
-        "addr:city": "Turda",
-        "addr:housenumber": "17",
-        "addr:street": "Strada Lianelor",
-        "amenity": "kindergarten",
-        "building": "school",
-        "name": "Grădinița \"Casuța Piticilor\"",
-        "operator:type": "public"
-      }
-    },
-    {
-      "id": "way/493782375",
-      "osm_id": 493782375,
-      "osm_type": "way",
-      "name": "Grădinița cu program prelungit \"Casuța Piticilor\"",
-      "category": "education",
-      "lat": 46.5572608,
-      "lon": 23.8151703,
-      "tags": {
-        "addr:city": "Turda",
-        "addr:housenumber": "15",
-        "addr:street": "Strada Lianelor",
-        "amenity": "kindergarten",
-        "building": "school",
-        "name": "Grădinița cu program prelungit \"Casuța Piticilor\"",
-        "operator:type": "public"
-      }
-    },
-    {
-      "id": "way/494292514",
-      "osm_id": 494292514,
-      "osm_type": "way",
-      "name": "Colegiul Tehnic Dr. Ioan Rațiu",
-      "category": "education",
-      "lat": 46.5634536,
-      "lon": 23.7835855,
-      "tags": {
-        "building": "school",
-        "name": "Colegiul Tehnic Dr. Ioan Rațiu"
-      }
-    },
-    {
-      "id": "way/494771942",
-      "osm_id": 494771942,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 46.5734497,
-      "lon": 23.7883841,
-      "tags": {
-        "building": "school"
-      }
-    },
-    {
-      "id": "way/518098536",
-      "osm_id": 518098536,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 46.5747054,
-      "lon": 23.7781452,
-      "tags": {
-        "building": "school"
-      }
-    },
-    {
-      "id": "way/518098540",
-      "osm_id": 518098540,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 46.5752657,
-      "lon": 23.7776841,
-      "tags": {
-        "building": "school"
-      }
-    },
-    {
-      "id": "way/522338037",
-      "osm_id": 522338037,
-      "osm_type": "way",
-      "name": "Colegiul Național Mihai Viteazul",
-      "category": "education",
-      "lat": 46.5748407,
-      "lon": 23.7773866,
-      "tags": {
-        "addr:city": "Turda",
-        "addr:housenumber": "111",
-        "addr:street": "Strada Doctor Ioan Rațiu",
-        "amenity": "school",
-        "name": "Colegiul Național Mihai Viteazul"
-      }
-    },
-    {
-      "id": "way/528111715",
-      "osm_id": 528111715,
-      "osm_type": "way",
-      "name": "Liceul Teoretic Liviu Rebreanu",
-      "category": "education",
-      "lat": 46.5556506,
-      "lon": 23.8076752,
-      "tags": {
-        "addr:city": "Turda",
-        "addr:housenumber": "6",
-        "addr:postcode": "401040",
-        "addr:street": "Strada Tineretului",
-        "amenity": "school",
-        "building": "school",
-        "name": "Liceul Teoretic Liviu Rebreanu"
-      }
-    },
-    {
-      "id": "way/528204273",
-      "osm_id": 528204273,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 46.5608435,
-      "lon": 23.8308443,
-      "tags": {
-        "building": "school"
-      }
-    },
-    {
-      "id": "way/528204274",
-      "osm_id": 528204274,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 46.5606469,
-      "lon": 23.8308794,
-      "tags": {
-        "building": "school"
-      }
-    },
-    {
-      "id": "way/528204275",
-      "osm_id": 528204275,
-      "osm_type": "way",
-      "name": "Școala profesională Poiana Turda",
-      "category": "education",
-      "lat": 46.5607424,
-      "lon": 23.8312608,
-      "tags": {
-        "addr:city": "Turda",
-        "addr:housenumber": "51",
-        "addr:postcode": "401071",
-        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
-        "addr:street": "Strada Câmpiei",
-        "amenity": "school",
-        "name": "Școala profesională Poiana Turda"
-      }
-    },
-    {
-      "id": "way/528204276",
-      "osm_id": 528204276,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 46.5607811,
-      "lon": 23.8314969,
-      "tags": {
-        "building": "school"
-      }
-    },
-    {
-      "id": "way/528204277",
-      "osm_id": 528204277,
-      "osm_type": "way",
-      "name": "Scoala Gimnaziala Ioan Opris",
-      "category": "education",
-      "lat": 46.5597664,
-      "lon": 23.8110075,
-      "tags": {
-        "addr:city": "Turda",
-        "addr:housenumber": "1",
-        "addr:postcode": "401024",
-        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
-        "addr:street": "Strada Aviatorilor",
-        "building": "school",
-        "building:levels": "3",
-        "name": "Scoala Gimnaziala Ioan Opris",
-        "website": "http://www.ioanopris.ro/"
-      }
-    },
-    {
-      "id": "way/531522429",
-      "osm_id": 531522429,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 46.5767525,
-      "lon": 23.7708757,
-      "tags": {
-        "building": "school"
-      }
-    },
-    {
-      "id": "way/573104341",
-      "osm_id": 573104341,
-      "osm_type": "way",
-      "name": "Gradinița \"Poiana cu castani\"",
-      "category": "education",
-      "lat": 46.5753683,
-      "lon": 23.7809474,
-      "tags": {
-        "addr:city": "Turda",
-        "addr:housenumber": "21",
-        "addr:street": "Strada Mihai Eminescu",
-        "amenity": "kindergarten",
-        "building": "school",
-        "name": "Gradinița \"Poiana cu castani\""
-      }
-    },
-    {
-      "id": "way/579977129",
-      "osm_id": 579977129,
-      "osm_type": "way",
-      "name": "Școala Gimnazială \"Andrei Șaguna\" Structura Waldorf",
-      "category": "education",
-      "lat": 46.5748637,
-      "lon": 23.7872851,
-      "tags": {
-        "addr:city": "Turda",
-        "addr:housenumber": "25",
-        "addr:postcode": "401078",
-        "addr:street": "Strada Axente Sever",
-        "amenity": "school",
-        "building": "school",
-        "name": "Școala Gimnazială \"Andrei Șaguna\" Structura Waldorf"
-      }
-    },
-    {
-      "id": "way/579983060",
-      "osm_id": 579983060,
-      "osm_type": "way",
-      "name": "Grădinița cu program normal \"Dr. Ioan Rațiu\" Structura II",
-      "category": "education",
-      "lat": 46.5618689,
-      "lon": 23.7760004,
-      "tags": {
-        "addr:city": "Turda",
-        "addr:housenumber": "11",
-        "addr:street": "Strada Cheii",
-        "amenity": "kindergarten",
-        "building": "school",
-        "name": "Grădinița cu program normal \"Dr. Ioan Rațiu\" Structura II",
-        "website": "https://gradinita-ratiu-turda.ro/"
-      }
-    },
-    {
-      "id": "way/584107986",
-      "osm_id": 584107986,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 46.5692353,
-      "lon": 23.7869138,
-      "tags": {
-        "addr:city": "Turda",
-        "addr:housenumber": "3",
-        "addr:postcode": "401187",
-        "addr:street": "Strada Aurel Vlaicu",
-        "building": "school"
-      }
-    },
-    {
-      "id": "way/585408783",
-      "osm_id": 585408783,
-      "osm_type": "way",
-      "name": "Colegiul Emil Negrutiu",
-      "category": "education",
-      "lat": 46.5808787,
-      "lon": 23.786428,
-      "tags": {
-        "building": "school",
-        "name": "Colegiul Emil Negrutiu"
-      }
-    },
-    {
-      "id": "way/588849508",
-      "osm_id": 588849508,
-      "osm_type": "way",
-      "name": "Grădinița cu program prelungit \"Dr. Ioan Rațiu\"",
-      "category": "education",
-      "lat": 46.5727292,
-      "lon": 23.781303,
-      "tags": {
-        "addr:city": "Turda",
-        "addr:housenumber": "71",
-        "addr:postcode": "401150",
-        "addr:street": "Strada Doctor Ioan Rațiu",
-        "amenity": "kindergarten",
-        "building": "kindergarten",
-        "name": "Grădinița cu program prelungit \"Dr. Ioan Rațiu\"",
-        "operator:type": "public"
-      }
-    },
-    {
-      "id": "way/599364999",
-      "osm_id": 599364999,
-      "osm_type": "way",
-      "name": "Școala profesională Poiana, Grădinița cu program normal",
-      "category": "education",
-      "lat": 46.5600815,
-      "lon": 23.8342015,
-      "tags": {
-        "amenity": "kindergarten",
-        "building": "school",
-        "name": "Școala profesională Poiana, Grădinița cu program normal",
-        "operator:type": "public"
-      }
-    },
-    {
-      "id": "way/621754547",
-      "osm_id": 621754547,
-      "osm_type": "way",
-      "name": "Grădinița cu program prelungit \"Sfânta Maria\"",
-      "category": "education",
-      "lat": 46.5579386,
-      "lon": 23.8038198,
-      "tags": {
-        "amenity": "kindergarten",
-        "building": "school",
-        "name": "Grădinița cu program prelungit \"Sfânta Maria\"",
-        "operator:type": "public"
-      }
-    },
-    {
-      "id": "way/677421004",
-      "osm_id": 677421004,
-      "osm_type": "way",
-      "name": "Școala Gimnazială Avram Iancu",
-      "category": "education",
-      "lat": 46.558616,
-      "lon": 23.8008573,
-      "tags": {
-        "addr:city": "Turda",
-        "addr:housenumber": "1",
-        "addr:street": "Strada Rapsodiei",
-        "amenity": "school",
-        "name": "Școala Gimnazială Avram Iancu",
-        "operator:type": "public",
-        "website": "http://avramiancuturda.ro/"
-      }
-    },
-    {
-      "id": "way/677682514",
-      "osm_id": 677682514,
-      "osm_type": "way",
-      "name": "Școala Gheorghe Barițiu",
-      "category": "education",
-      "lat": 46.5765757,
-      "lon": 23.7706891,
-      "tags": {
-        "addr:city": "Turda",
-        "addr:housenumber": "65",
-        "addr:street": "Strada Gheorghe Barițiu",
-        "amenity": "school",
-        "name": "Școala Gheorghe Barițiu",
-        "operator:type": "public"
-      }
-    },
-    {
-      "id": "way/684996592",
-      "osm_id": 684996592,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 46.5583812,
-      "lon": 23.8012614,
-      "tags": {
-        "building": "school"
-      }
-    },
-    {
-      "id": "way/691483022",
-      "osm_id": 691483022,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 46.5769259,
-      "lon": 23.7705186,
-      "tags": {
-        "building": "school"
-      }
-    },
-    {
-      "id": "way/722805423",
-      "osm_id": 722805423,
-      "osm_type": "way",
-      "name": "Liceul Teoretic Jósika Miklós",
-      "category": "education",
-      "lat": 46.5714434,
-      "lon": 23.7841248,
-      "tags": {
-        "addr:city": "Turda",
-        "amenity": "school",
-        "name": "Liceul Teoretic Jósika Miklós",
-        "name:hu": "Jósika Miklós Elméleti Líceum"
-      }
-    },
-    {
-      "id": "way/743124673",
-      "osm_id": 743124673,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 46.5552336,
-      "lon": 23.8070642,
-      "tags": {
-        "amenity": "school"
-      }
-    },
-    {
-      "id": "way/759121338",
-      "osm_id": 759121338,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 46.5715987,
-      "lon": 23.7843388,
-      "tags": {
-        "addr:city": "Turda",
-        "addr:housenumber": "4",
-        "addr:street": "Strada Bogdan Petriceicu Hașdeu",
-        "amenity": "school",
-        "building": "school"
-      }
-    },
-    {
-      "id": "way/895151347",
-      "osm_id": 895151347,
-      "osm_type": "way",
-      "name": "Școala Gimnazială Ioan Opriș",
-      "category": "education",
-      "lat": 46.5598258,
-      "lon": 23.8110634,
-      "tags": {
-        "amenity": "school",
-        "name": "Școala Gimnazială Ioan Opriș"
-      }
-    },
-    {
-      "id": "way/895177034",
-      "osm_id": 895177034,
-      "osm_type": "way",
-      "name": "Scoala Gimnaziala Teodor Murasanu",
-      "category": "education",
-      "lat": 46.5711041,
-      "lon": 23.7817608,
-      "tags": {
-        "amenity": "school",
-        "name": "Scoala Gimnaziala Teodor Murasanu"
-      }
-    },
-    {
-      "id": "way/895180521",
-      "osm_id": 895180521,
-      "osm_type": "way",
-      "name": "Colegiul Emil Negrutiu",
-      "category": "education",
-      "lat": 46.5806132,
-      "lon": 23.7861982,
-      "tags": {
-        "amenity": "school",
-        "name": "Colegiul Emil Negrutiu"
-      }
-    },
-    {
-      "id": "way/984842130",
-      "osm_id": 984842130,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 46.5624495,
-      "lon": 23.7867185,
-      "tags": {
-        "amenity": "school"
-      }
-    },
-    {
-      "id": "way/988817814",
-      "osm_id": 988817814,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 46.5634498,
-      "lon": 23.7835987,
-      "tags": {
-        "amenity": "school"
-      }
-    },
-    {
-      "id": "node/2212904827",
-      "osm_id": 2212904827,
-      "osm_type": "node",
-      "name": "Biserica Ortodoxă Sfinții Arhangheli",
-      "category": "place_of_worship",
-      "lat": 46.5704451,
-      "lon": 23.786575,
-      "tags": {
-        "addr:city": "Turda",
-        "addr:housenumber": "2",
-        "addr:street": "Strada Andrei Șaguna",
-        "amenity": "place_of_worship",
-        "denomination": "romanian_orthodox",
-        "name": "Biserica Ortodoxă Sfinții Arhangheli",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "node/2213086062",
-      "osm_id": 2213086062,
-      "osm_type": "node",
-      "name": "Biserica Ortodoxă \"Pogorârea Sfântului Duh\"",
-      "category": "place_of_worship",
-      "lat": 46.5783161,
-      "lon": 23.7951046,
-      "tags": {
-        "addr:city": "Turda",
-        "addr:housenumber": "32",
-        "addr:street": "Strada Frăgăriște",
-        "amenity": "place_of_worship",
-        "denomination": "orthodox",
-        "name": "Biserica Ortodoxă \"Pogorârea Sfântului Duh\"",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "node/5536006412",
-      "osm_id": 5536006412,
-      "osm_type": "node",
-      "name": "Sala Regatului a Martirilor lui Iehova",
-      "category": "place_of_worship",
-      "lat": 46.555227,
-      "lon": 23.8002803,
-      "tags": {
-        "amenity": "place_of_worship",
-        "building": "church",
-        "denomination": "jehovahs_witness",
-        "name": "Sala Regatului a Martirilor lui Iehova",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "node/5586485952",
-      "osm_id": 5586485952,
-      "osm_type": "node",
-      "name": "Crucea Eroilor",
-      "category": "place_of_worship",
-      "lat": 46.5689641,
-      "lon": 23.7855675,
-      "tags": {
-        "denomination": "orthodox",
-        "historic": "wayside_cross",
-        "name": "Crucea Eroilor",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "node/5702381233",
-      "osm_id": 5702381233,
-      "osm_type": "node",
-      "name": "Biserica Sf. Gheorghe",
-      "category": "place_of_worship",
-      "lat": 46.5593656,
-      "lon": 23.828075,
-      "tags": {
-        "addr:city": "Turda",
-        "addr:housenumber": "49",
-        "addr:street": "Strada Poiana",
-        "amenity": "place_of_worship",
-        "denomination": "romanian_orthodox",
-        "name": "Biserica Sf. Gheorghe",
-        "name:hu": "Szent György-templom",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "node/5792759827",
-      "osm_id": 5792759827,
-      "osm_type": "node",
-      "name": "Biserica nouă apostolică",
-      "category": "place_of_worship",
-      "lat": 46.5708632,
-      "lon": 23.7847148,
-      "tags": {
-        "amenity": "place_of_worship",
-        "denomination": "new_apostolic",
-        "name": "Biserica nouă apostolică",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "node/5989598635",
-      "osm_id": 5989598635,
-      "osm_type": "node",
-      "name": "Fără nume",
-      "category": "place_of_worship",
-      "lat": 46.5360024,
-      "lon": 23.7945748,
-      "tags": {
-        "denomination": "orthodox",
-        "historic": "wayside_cross",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "node/6012841135",
-      "osm_id": 6012841135,
-      "osm_type": "node",
-      "name": "Biserica Baptistă",
-      "category": "place_of_worship",
-      "lat": 46.5522316,
-      "lon": 23.8085648,
-      "tags": {
-        "addr:city": "Turda",
-        "addr:housenumber": "40",
-        "addr:postcode": "401040",
-        "addr:street": "Strada Tineretului",
-        "amenity": "place_of_worship",
-        "denomination": "baptist",
-        "name": "Biserica Baptistă",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "node/6487776000",
-      "osm_id": 6487776000,
-      "osm_type": "node",
-      "name": "Casa de rugăciune baptistă",
-      "category": "place_of_worship",
-      "lat": 46.5794498,
-      "lon": 23.7701676,
-      "tags": {
-        "amenity": "place_of_worship",
-        "denomination": "baptist",
-        "name": "Casa de rugăciune baptistă",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "node/6490470696",
-      "osm_id": 6490470696,
-      "osm_type": "node",
-      "name": "Fără nume",
-      "category": "place_of_worship",
-      "lat": 46.5785678,
-      "lon": 23.7816945,
-      "tags": {
-        "denomination": "roman_catholic",
-        "historic": "wayside_cross",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "node/6490470707",
-      "osm_id": 6490470707,
-      "osm_type": "node",
-      "name": "Reuniunea Sfânta Maria Turda Nouă, Anul sfânt 1933",
-      "category": "place_of_worship",
-      "lat": 46.5791476,
-      "lon": 23.7813558,
-      "tags": {
-        "denomination": "catholic",
-        "historic": "memorial",
-        "name": "Reuniunea Sfânta Maria Turda Nouă, Anul sfânt 1933",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/281162720",
-      "osm_id": 281162720,
-      "osm_type": "way",
-      "name": "Biserica Romano Catolică",
-      "category": "place_of_worship",
-      "lat": 46.5745152,
-      "lon": 23.7849756,
-      "tags": {
-        "addr:city": "Turda",
-        "addr:housenumber": "54",
-        "addr:street": "Piața Republicii",
-        "amenity": "place_of_worship",
-        "building": "church",
-        "denomination": "roman_catholic",
-        "name": "Biserica Romano Catolică",
-        "name:hu": "Kisboldogasszony római katolikus templom",
-        "religion": "christian",
-        "source": "Bing",
-        "url:miserend": "https://miserend.hu/templom/3434"
-      }
-    },
-    {
-      "id": "way/487203495",
-      "osm_id": 487203495,
-      "osm_type": "way",
-      "name": "Biserica Reformată-cetate",
-      "category": "place_of_worship",
-      "lat": 46.57154,
-      "lon": 23.7850917,
-      "tags": {
-        "addr:city": "Turda",
-        "addr:housenumber": "1",
-        "addr:street": "Strada Bogdan Petriceicu Hașdeu",
-        "amenity": "place_of_worship",
-        "building": "church",
-        "denomination": "reformed",
-        "name": "Biserica Reformată-cetate",
-        "name:hu": "Ótordai református templom",
-        "religion": "christian",
-        "wikipedia": "ro:Biserica Reformată-Calvină din Turda-Veche"
-      }
-    },
-    {
-      "id": "way/487203501",
-      "osm_id": 487203501,
-      "osm_type": "way",
-      "name": "Biserica Sfinții Voievozi",
-      "category": "place_of_worship",
-      "lat": 46.5386573,
-      "lon": 23.799322,
-      "tags": {
-        "amenity": "place_of_worship",
-        "building": "church",
-        "denomination": "romanian_orthodox",
-        "name": "Biserica Sfinții Voievozi",
-        "religion": "christian",
-        "source": "jonutzu@gpszone.ro",
-        "start_date": "2001"
-      }
-    },
-    {
-      "id": "way/494769196",
-      "osm_id": 494769196,
-      "osm_type": "way",
-      "name": "Biserica Sf. Ioan Botezătorul",
-      "category": "place_of_worship",
-      "lat": 46.5587303,
-      "lon": 23.7852549,
-      "tags": {
-        "amenity": "place_of_worship",
-        "building": "church",
-        "denomination": "orthodox",
-        "name": "Biserica Sf. Ioan Botezătorul",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/524115268",
-      "osm_id": 524115268,
-      "osm_type": "way",
-      "name": "Biserica creștină baptistă \"Speranța\"",
-      "category": "place_of_worship",
-      "lat": 46.5725302,
-      "lon": 23.7831869,
-      "tags": {
-        "addr:city": "Turda",
-        "addr:housenumber": "9",
-        "addr:postcode": "401150",
-        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
-        "addr:street": "Strada George Coșbuc",
-        "amenity": "place_of_worship",
-        "building": "church",
-        "denomination": "baptist",
-        "name": "Biserica creștină baptistă \"Speranța\"",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/524115271",
-      "osm_id": 524115271,
-      "osm_type": "way",
-      "name": "Parohia unitariană Turda",
-      "category": "place_of_worship",
-      "lat": 46.5728708,
-      "lon": 23.7828662,
-      "tags": {
-        "addr:city": "Turda",
-        "addr:housenumber": "12",
-        "addr:postcode": "401150",
-        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
-        "addr:street": "Strada George Coșbuc",
-        "building": "yes",
-        "denomination": "unitarian",
-        "name": "Parohia unitariană Turda",
-        "name:hu": "Tordai unitárius lelkészi hivatal",
-        "name:it": "Parohia Unitariana",
-        "office": "parish",
-        "opening_hours": "Tu, We 09:00-14:00; Th 16:00-18:00; Fr 09:00-14:00",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/524115272",
-      "osm_id": 524115272,
-      "osm_type": "way",
-      "name": "Biserica Unitariană",
-      "category": "place_of_worship",
-      "lat": 46.573862,
-      "lon": 23.7831685,
-      "tags": {
-        "addr:city": "Turda",
-        "addr:housenumber": "3",
-        "addr:postcode": "401149",
-        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
-        "addr:street": "Strada Dacia",
-        "amenity": "place_of_worship",
-        "building": "church",
-        "denomination": "unitarian",
-        "name": "Biserica Unitariană",
-        "name:hu": "Unitárius templom",
-        "religion": "christian",
-        "wikipedia": "ro:Biserica Unitariană din Turda-Veche"
-      }
-    },
-    {
-      "id": "way/528204262",
-      "osm_id": 528204262,
-      "osm_type": "way",
-      "name": "Oficiul protopial reformat Turda",
-      "category": "place_of_worship",
-      "lat": 46.5600577,
-      "lon": 23.829375,
-      "tags": {
-        "building": "yes",
-        "denomination": "reformed",
-        "name": "Oficiul protopial reformat Turda",
-        "name:hu": "Tordai református egyházmegye esperesi hivatal",
-        "office": "parish",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/528604190",
-      "osm_id": 528604190,
-      "osm_type": "way",
-      "name": "Centrul de îngrijire și asistență pentru vârstnici \"Acoperământul Maicii Domnului\"",
-      "category": "place_of_worship",
-      "lat": 46.5599948,
-      "lon": 23.8138937,
-      "tags": {
-        "addr:city": "Turda",
-        "addr:housenumber": "7",
-        "addr:postcode": "401009",
-        "addr:street": "Aleea Plopilor",
-        "amenity": "social_facility",
-        "building": "yes",
-        "denomination": "orthodox",
-        "name": "Centrul de îngrijire și asistență pentru vârstnici \"Acoperământul Maicii Domnului\"",
-        "religion": "christian",
-        "social_facility": "group_home",
-        "social_facility:for": "senior"
-      }
-    },
-    {
-      "id": "way/531713799",
-      "osm_id": 531713799,
-      "osm_type": "way",
-      "name": "Biserica Reformată",
-      "category": "place_of_worship",
-      "lat": 46.560676,
-      "lon": 23.8299653,
-      "tags": {
-        "addr:city": "Turda",
-        "addr:housenumber": "57",
-        "addr:street": "Strada Câmpiei",
-        "amenity": "place_of_worship",
-        "building": "church",
-        "denomination": "reformed",
-        "name": "Biserica Reformată",
-        "name:hu": "Református templom",
-        "religion": "christian",
-        "wikipedia": "ro:Biserica reformată-calvină din Turda-Poiana"
-      }
-    },
-    {
-      "id": "way/562828918",
-      "osm_id": 562828918,
-      "osm_type": "way",
-      "name": "Biserica adventistă de Ziua a șapte \"Speranta\"",
-      "category": "place_of_worship",
-      "lat": 46.555932,
-      "lon": 23.8049296,
-      "tags": {
-        "addr:city": "Turda",
-        "addr:housenumber": "4C",
-        "addr:street": "Strada Mihai Viteazul",
-        "amenity": "place_of_worship",
-        "building": "church",
-        "denomination": "seventh_day_adventist",
-        "name": "Biserica adventistă de Ziua a șapte \"Speranta\"",
-        "religion": "christian",
-        "wheelchair": "no"
-      }
-    },
-    {
-      "id": "way/566121740",
-      "osm_id": 566121740,
-      "osm_type": "way",
-      "name": "Biserica greco-catolică",
-      "category": "place_of_worship",
-      "lat": 46.573803,
-      "lon": 23.7839116,
-      "tags": {
-        "addr:city": "Turda",
-        "addr:housenumber": "2",
-        "addr:street": "Strada Dacia",
-        "amenity": "place_of_worship",
-        "building": "church",
-        "denomination": "greek_catholic",
-        "name": "Biserica greco-catolică",
-        "name:hu": "Görögkatolikus templom",
-        "religion": "christian",
-        "wheelchair": "yes"
-      }
-    },
-    {
-      "id": "way/568577243",
-      "osm_id": 568577243,
-      "osm_type": "way",
-      "name": "Biserica Ortodoxă „Învierea Domnului”",
-      "category": "place_of_worship",
-      "lat": 46.5596618,
-      "lon": 23.8140603,
-      "tags": {
-        "addr:city": "Turda",
-        "addr:housenumber": "31",
-        "addr:postcode": "401030",
-        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
-        "addr:street": "Calea Victoriei",
-        "amenity": "place_of_worship",
-        "building": "church",
-        "denomination": "orthodox",
-        "name": "Biserica Ortodoxă „Învierea Domnului”",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/571261847",
-      "osm_id": 571261847,
-      "osm_type": "way",
-      "name": "Biserica penticostală Alfa și Omega",
-      "category": "place_of_worship",
-      "lat": 46.5767543,
-      "lon": 23.7830005,
-      "tags": {
-        "addr:city": "Turda",
-        "addr:housenumber": "23",
-        "addr:postcode": "401096",
-        "addr:street": "Strada Avram Iancu",
-        "amenity": "place_of_worship",
-        "building": "church",
-        "denomination": "pentecostal",
-        "name": "Biserica penticostală Alfa și Omega",
-        "name:hu": "Alfa és Ómega pünkösdista templom",
-        "religion": "christian",
-        "website": "http://www.alfaomegaturda.com",
-        "wheelchair": "yes"
-      }
-    },
-    {
-      "id": "way/571261873",
-      "osm_id": 571261873,
-      "osm_type": "way",
-      "name": "Biserica romano-catolică franciscană",
-      "category": "place_of_worship",
-      "lat": 46.5784475,
-      "lon": 23.7817336,
-      "tags": {
-        "addr:city": "Turda",
-        "addr:housenumber": "49",
-        "addr:street": "Strada Avram Iancu",
-        "alt_name:hu": "tordai ferences templom",
-        "amenity": "place_of_worship",
-        "building": "church",
-        "denomination": "roman_catholic",
-        "name": "Biserica romano-catolică franciscană",
-        "name:hu": "Szent László király-templom",
-        "religion": "christian",
-        "url:miserend": "https://miserend.hu/templom/3435",
-        "wikipedia": "ro:Biserica franciscană din Turda"
-      }
-    },
-    {
-      "id": "way/572094224",
-      "osm_id": 572094224,
-      "osm_type": "way",
-      "name": "Biserica Evanghelică C.A.",
-      "category": "place_of_worship",
-      "lat": 46.572299,
-      "lon": 23.7806091,
-      "tags": {
-        "addr:city": "Turda",
-        "addr:housenumber": "12",
-        "addr:postcode": "401085",
-        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
-        "addr:street": "Strada Vasile Alecsandri",
-        "amenity": "place_of_worship",
-        "building": "church",
-        "denomination": "evangelical",
-        "name": "Biserica Evanghelică C.A.",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/573104352",
-      "osm_id": 573104352,
-      "osm_type": "way",
-      "name": "Sinagoga din Turda",
-      "category": "place_of_worship",
-      "lat": 46.5759413,
-      "lon": 23.7820241,
-      "tags": {
-        "addr:city": "Turda",
-        "addr:housenumber": "26",
-        "addr:street": "Strada Mihai Eminescu",
-        "amenity": "place_of_worship",
-        "building": "synagogue",
-        "name": "Sinagoga din Turda",
-        "name:hu": "Tordai zsimagóga",
-        "religion": "jewish",
-        "wikipedia": "ro:Sinagoga din Turda"
-      }
-    },
-    {
-      "id": "way/579977074",
-      "osm_id": 579977074,
-      "osm_type": "way",
-      "name": "Parohia Ortodoxă Romană",
-      "category": "place_of_worship",
-      "lat": 46.5707051,
-      "lon": 23.7884877,
-      "tags": {
-        "addr:city": "Turda",
-        "addr:housenumber": "21",
-        "addr:street": "Strada Gheorghe Lazăr",
-        "building": "yes",
-        "denomination": "orthodox",
-        "name": "Parohia Ortodoxă Romană",
-        "office": "parish",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/584683657",
-      "osm_id": 584683657,
-      "osm_type": "way",
-      "name": "Biserica Baptistă Maghiară Turda",
-      "category": "place_of_worship",
-      "lat": 46.5698621,
-      "lon": 23.7874261,
-      "tags": {
-        "addr:city": "Turda",
-        "addr:housenumber": "5",
-        "addr:street": "Strada Gelu",
-        "amenity": "place_of_worship",
-        "building": "church",
-        "denomination": "baptist",
-        "name": "Biserica Baptistă Maghiară Turda",
-        "name:en": "Hungarian Baptist Church",
-        "name:hu": "Tordai Magyar Baptista Imaház",
-        "name:ro": "Biserica Baptistă Maghiară Turdă",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/585734855",
-      "osm_id": 585734855,
-      "osm_type": "way",
-      "name": "Petőfi Sándor Emlékház",
-      "category": "place_of_worship",
-      "lat": 46.5704964,
-      "lon": 23.7824949,
-      "tags": {
-        "addr:city": "Turda",
-        "addr:housenumber": "44",
-        "addr:postcode": "401150",
-        "addr:street": "Strada Doctor Ioan Rațiu",
-        "denomination": "reformed",
-        "landuse": "religious",
-        "name": "Petőfi Sándor Emlékház",
-        "name:hu": "Tordai református parókia",
-        "religion": "christian",
-        "wikidata": "Q12723567",
-        "wikipedia": "hu:Petőfi Sándor Emlékház (Torda)"
-      }
-    },
-    {
-      "id": "way/588849534",
-      "osm_id": 588849534,
-      "osm_type": "way",
-      "name": "Sala Regatului Martorilor lui Iehova",
-      "category": "place_of_worship",
-      "lat": 46.5769515,
-      "lon": 23.7774638,
-      "tags": {
-        "addr:housenumber": "44A",
-        "addr:street": "Strada Nicolae Iorga",
-        "amenity": "place_of_worship",
-        "building": "church",
-        "denomination": "jehovahs_witness",
-        "name": "Sala Regatului Martorilor lui Iehova",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/595917199",
-      "osm_id": 595917199,
-      "osm_type": "way",
-      "name": "Biserica Dintre Români",
-      "category": "place_of_worship",
-      "lat": 46.5681901,
-      "lon": 23.7898703,
-      "tags": {
-        "addr:city": "Turda",
-        "addr:housenumber": "17",
-        "addr:street": "Strada Sirenei",
-        "amenity": "place_of_worship",
-        "building": "church",
-        "denomination": "orthodox",
-        "name": "Biserica Dintre Români",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/598452586",
-      "osm_id": 598452586,
-      "osm_type": "way",
-      "name": "Biserica Înălțarea Sfintei Cruci",
-      "category": "place_of_worship",
-      "lat": 46.5545791,
-      "lon": 23.8146746,
-      "tags": {
-        "amenity": "place_of_worship",
-        "building": "church",
-        "denomination": "orthodox",
-        "name": "Biserica Înălțarea Sfintei Cruci",
-        "religion": "christian",
-        "wheelchair": "no"
-      }
-    },
-    {
-      "id": "way/621754553",
-      "osm_id": 621754553,
-      "osm_type": "way",
-      "name": "Biserica Greco-Catolică Sf Ap Petru și Pavel",
-      "category": "place_of_worship",
-      "lat": 46.5574109,
-      "lon": 23.8024876,
-      "tags": {
-        "amenity": "place_of_worship",
-        "building": "church",
-        "denomination": "greek_catholic",
-        "name": "Biserica Greco-Catolică Sf Ap Petru și Pavel",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/633850427",
-      "osm_id": 633850427,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "place_of_worship",
-      "lat": 46.5714661,
-      "lon": 23.7852182,
-      "tags": {
-        "building": "church",
-        "man_made": "tower",
-        "tower:type": "bell_tower"
-      }
-    },
-    {
-      "id": "way/635456911",
-      "osm_id": 635456911,
-      "osm_type": "way",
-      "name": "Biserica Greco-Catolică Poiana",
-      "category": "place_of_worship",
-      "lat": 46.5605104,
-      "lon": 23.8351312,
-      "tags": {
-        "addr:city": "Turda",
-        "addr:housenumber": "69",
-        "addr:street": "Strada Câmpiei",
-        "amenity": "place_of_worship",
-        "building": "church",
-        "denomination": "greek_catholic",
-        "name": "Biserica Greco-Catolică Poiana",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/689067557",
-      "osm_id": 689067557,
-      "osm_type": "way",
-      "name": "Biserica Sfânta Treime",
-      "category": "place_of_worship",
-      "lat": 46.580125,
-      "lon": 23.7811212,
-      "tags": {
-        "addr:city": "Turda",
-        "addr:housenumber": "10",
-        "addr:street": "Strada Salinelor",
-        "alt_name": "Biserica Șovagăilor",
-        "amenity": "place_of_worship",
-        "building": "church",
-        "denomination": "romanian_orthodox",
-        "name": "Biserica Sfânta Treime",
-        "religion": "christian",
-        "wikipedia": "ro:Biserica Șovagăilor din Turda"
-      }
-    },
-    {
-      "id": "way/721061037",
-      "osm_id": 721061037,
-      "osm_type": "way",
-      "name": "Biserica Sfântul Grigore Teologul",
-      "category": "place_of_worship",
-      "lat": 46.5632772,
-      "lon": 23.7847287,
-      "tags": {
-        "amenity": "place_of_worship",
-        "building": "church",
-        "denomination": "orthodox",
-        "name": "Biserica Sfântul Grigore Teologul",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/762686489",
-      "osm_id": 762686489,
-      "osm_type": "way",
-      "name": "Mănăstirea Mihai Vodă",
-      "category": "place_of_worship",
-      "lat": 46.53857,
-      "lon": 23.7990932,
-      "tags": {
-        "amenity": "monastery",
-        "denomination": "orthodox",
-        "landuse": "religious",
-        "name": "Mănăstirea Mihai Vodă",
-        "religion": "christian",
-        "source": "jonutzu@gpszone.ro",
-        "start_date": "2001"
-      }
-    },
-    {
-      "id": "way/763307844",
-      "osm_id": 763307844,
-      "osm_type": "way",
-      "name": "Biserica reformată-calvină",
-      "category": "place_of_worship",
-      "lat": 46.5799885,
-      "lon": 23.7729592,
-      "tags": {
-        "amenity": "place_of_worship",
-        "building": "church",
-        "denomination": "reformed",
-        "name": "Biserica reformată-calvină",
-        "name:hu": "Újtordai református templom",
-        "name:ro": "Biserica reformată-calvină",
-        "religion": "christian",
-        "wikipedia": "ro:Biserica reformată-calvină din Turda-Nouă"
-      }
-    },
-    {
-      "id": "way/763436116",
-      "osm_id": 763436116,
-      "osm_type": "way",
-      "name": "Biserica Adventistă Turda",
-      "category": "place_of_worship",
-      "lat": 46.5754459,
-      "lon": 23.7880073,
-      "tags": {
-        "addr:city": "Turda",
-        "addr:housenumber": "38",
-        "addr:postcode": "401078",
-        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
-        "addr:street": "Strada Axente Sever",
-        "amenity": "place_of_worship",
-        "building": "detached",
-        "denomination": "seventh_day_adventist",
-        "name": "Biserica Adventistă Turda",
-        "name:hu": "Tordai Adventista Imaház",
-        "name:ro": "Biserica Adventistă Turda",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/764263378",
-      "osm_id": 764263378,
-      "osm_type": "way",
-      "name": "Biserica Maica Domnului",
-      "category": "place_of_worship",
-      "lat": 46.5576666,
-      "lon": 23.8054105,
-      "tags": {
-        "amenity": "place_of_worship",
-        "building": "church",
-        "denomination": "orthodox",
-        "name": "Biserica Maica Domnului",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/764505117",
-      "osm_id": 764505117,
-      "osm_type": "way",
-      "name": "Biserica Ortodoxă Înălțarea Domnului",
-      "category": "place_of_worship",
-      "lat": 46.5819007,
-      "lon": 23.7629919,
-      "tags": {
-        "addr:city": "Turda",
-        "addr:housenumber": "29",
-        "addr:postcode": "401179",
-        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
-        "addr:street": "Strada Rândunicii",
-        "amenity": "place_of_worship",
-        "building": "church",
-        "denomination": "orthodox",
-        "name": "Biserica Ortodoxă Înălțarea Domnului",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/835432640",
-      "osm_id": 835432640,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "place_of_worship",
-      "lat": 46.5704651,
-      "lon": 23.7864879,
-      "tags": {
-        "building": "church"
-      }
-    },
-    {
-      "id": "way/835432641",
-      "osm_id": 835432641,
-      "osm_type": "way",
-      "name": "Biserica Ortodoxă Turda Veche, a Răteștilor",
-      "category": "place_of_worship",
-      "lat": 46.5710921,
-      "lon": 23.7884212,
-      "tags": {
-        "addr:city": "Turda",
-        "addr:housenumber": "19A",
-        "addr:postcode": "401077",
-        "addr:street": "Strada Gheorghe Lazăr",
-        "amenity": "place_of_worship",
-        "building": "church",
-        "denomination": "greek_catholic",
-        "email": "cocan.marius@yahoo.com",
-        "image": "https://photos.app.goo.gl/4fBT8FEVpdcZ3HU97",
-        "name": "Biserica Ortodoxă Turda Veche, a Răteștilor",
-        "phone": "0755033176",
-        "religion": "christian",
-        "wikipedia": "ro:Biserica Rățeștilor din Turda"
-      }
-    },
-    {
-      "id": "way/835433706",
-      "osm_id": 835433706,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "place_of_worship",
-      "lat": 46.5783339,
-      "lon": 23.7950747,
-      "tags": {
-        "building": "church"
-      }
-    },
-    {
-      "id": "way/835434768",
-      "osm_id": 835434768,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "place_of_worship",
-      "lat": 46.5593623,
-      "lon": 23.8280764,
-      "tags": {
-        "building": "church"
-      }
+[
+  {
+    "id": "node-1316062804",
+    "name": "Mănăstirea Schimbarea la Față",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.535342,
+    "lng": 23.6412745,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Mănăstirea Schimbarea la Față",
+      "religion": "christian",
+      "source": "jonutzu@gpszone.ro"
     }
-  ]
-}
+  },
+  {
+    "id": "node-1797044734",
+    "name": "Biserica Sf Mihail și Gavril",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.710832,
+    "lng": 23.7809141,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Boju",
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Sf Mihail și Gavril",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-1801693643",
+    "name": "Biserica Rediu",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.67936,
+    "lng": 23.6877182,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Rediu",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-1801705247",
+    "name": "Biserica Mărtinești",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.6606015,
+    "lng": 23.6822894,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Mărtinești",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-1802740250",
+    "name": "Biserica Vâlcele",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.6883967,
+    "lng": 23.6534412,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Vâlcele",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-2189714086",
+    "name": "Biserica Ortodoxă",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.428216,
+    "lng": 23.9092273,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "check_date": "2025-04-12",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-2190876864",
+    "name": "Biserica de lemn din Lunca Mureșului",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.429396,
+    "lng": 23.9063622,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica de lemn din Lunca Mureșului",
+      "name:en": "The Wooden Church of Lunca Mureșului",
+      "name:ro": "Biserica de lemn din Lunca Mureșului",
+      "religion": "christian",
+      "tourism": "attraction",
+      "wikidata": "Q18541589",
+      "wikipedia": "ro:Biserica de lemn din Lunca Mureșului"
+    }
+  },
+  {
+    "id": "node-2199693516",
+    "name": "Biserica Ortodoxă",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.5062071,
+    "lng": 23.9187058,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-2201732257",
+    "name": "Biserica Independentă",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.5430321,
+    "lng": 23.8916075,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "independent",
+      "name": "Biserica Independentă",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-2201732262",
+    "name": "Biserica Sf Arhangheli Mihail si Gavril",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.5377076,
+    "lng": 23.8921975,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Câmpia Turzii",
+      "addr:housenumber": "57",
+      "addr:street": "Strada 1 Decembrie 1918",
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Sf Arhangheli Mihail si Gavril",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-2208195541",
+    "name": "Biserica Sfântul Gheorghe",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.544504,
+    "lng": 23.8730925,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Sfântul Gheorghe",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-2212904827",
+    "name": "Biserica Ortodoxă Sfinții Arhangheli",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.5704451,
+    "lng": 23.786575,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Turda",
+      "addr:housenumber": "2",
+      "addr:street": "Strada Andrei Șaguna",
+      "amenity": "place_of_worship",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica Ortodoxă Sfinții Arhangheli",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-2213086062",
+    "name": "Biserica Ortodoxă \"Pogorârea Sfântului Duh\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.5783161,
+    "lng": 23.7951046,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Turda",
+      "addr:housenumber": "32",
+      "addr:street": "Strada Frăgăriște",
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă \"Pogorârea Sfântului Duh\"",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-2214722218",
+    "name": "Biserica Copăceni",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.5971185,
+    "lng": 23.734878,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Copăceni",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-2216463417",
+    "name": "Biserica Fortificată",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.498078,
+    "lng": 23.7355332,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "unitarian",
+      "name": "Biserica Fortificată",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-2216523199",
+    "name": "Biserica Fortificată",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.4987039,
+    "lng": 23.7100897,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "unitarian",
+      "name": "Biserica Fortificată",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-2217248385",
+    "name": "Biserica Ortodoxă Înălțarea Sfintei Cruci",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.4976958,
+    "lng": 23.6573174,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă Înălțarea Sfintei Cruci",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-2217293035",
+    "name": "Biserica Ortodoxă Pietroasa",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.4635971,
+    "lng": 23.6289209,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă Pietroasa",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-2217293207",
+    "name": "Biserica Unitariană Pietroasa",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.4636321,
+    "lng": 23.6357175,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "unitarian",
+      "name": "Biserica Unitariană Pietroasa",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-2219188024",
+    "name": "Ref Templom",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.4638941,
+    "lng": 23.7351818,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "reformed",
+      "name": "Ref Templom",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-2219188455",
+    "name": "Ort Templom",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.4623338,
+    "lng": 23.73847,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Ort Templom",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-2219495771",
+    "name": "Biserica Reformată",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.410976,
+    "lng": 23.8673852,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "reformed",
+      "name": "Biserica Reformată",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-2219496082",
+    "name": "Biserica Ortodoxă",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.4127846,
+    "lng": 23.8703838,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-2229473467",
+    "name": "Biserica Reformată",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.4458109,
+    "lng": 23.741271,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "reformed",
+      "name": "Biserica Reformată",
+      "name:hu": "Református templom",
+      "name:ro": "Biserica Reformată",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-2229473724",
+    "name": "Biserica Sfânta Treime",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.4458933,
+    "lng": 23.74218,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica Sfânta Treime",
+      "name:hu": "Szentháromság-templom",
+      "name:ro": "Biserica Sfânta Treime",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-2231253435",
+    "name": "Biserica Dumbrava",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.4345684,
+    "lng": 23.7714578,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Dumbrava",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-2231916292",
+    "name": "Biserica Ortodoxă Ciugudu de Jos",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.4176246,
+    "lng": 23.743245,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă Ciugudu de Jos",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-3080117847",
+    "name": "Gradinita \"Lumea princhindeilor\"",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 46.546295,
+    "lng": 23.889105,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Câmpia Turzii",
+      "addr:postcode": "405100",
+      "amenity": "kindergarten",
+      "name": "Gradinita \"Lumea princhindeilor\""
+    }
+  },
+  {
+    "id": "node-3081896633",
+    "name": "Biserica Sfântul Ilie",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.5351766,
+    "lng": 23.8844433,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Sfântul Ilie",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-3214082485",
+    "name": "Biserica din Deleni",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.6072393,
+    "lng": 23.641042,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica din Deleni",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-4350666992",
+    "name": "Biserica Creștină Baptistă",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.5412,
+    "lng": 23.8890138,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Câmpia Turzii",
+      "addr:country": "RO",
+      "addr:housenumber": "14",
+      "addr:street": "Strada Păcii",
+      "amenity": "place_of_worship",
+      "denomination": "baptist",
+      "name": "Biserica Creștină Baptistă",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-4637514991",
+    "name": "Școala Generală Mihai Viteazu",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.5403721,
+    "lng": 23.7477435,
+    "osmType": "node",
+    "tags": {
+      "amenity": "school",
+      "name": "Școala Generală Mihai Viteazu"
+    }
+  },
+  {
+    "id": "node-4797116902",
+    "name": "Stanleybet",
+    "type": "betting",
+    "subcategory": "Stanleybet",
+    "lat": 46.572563,
+    "lng": 23.7852969,
+    "osmType": "node",
+    "tags": {
+      "brand": "Stanleybet",
+      "brand:wikidata": "Q25466489",
+      "name": "Stanleybet",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-4823515098",
+    "name": "Betel",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.493957,
+    "lng": 23.7376717,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "seventh_day_adventist",
+      "name": "Betel",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-4823515100",
+    "name": "Biserica Baptistă",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.4895096,
+    "lng": 23.7368912,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "baptist",
+      "name": "Biserica Baptistă",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-4830777271",
+    "name": "Református Imahaz",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.5161549,
+    "lng": 23.8118339,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "reformed",
+      "name": "Református Imahaz",
+      "name:hu": "Református Imahaz",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-4830777274",
+    "name": "Școala gimnazială Călărași Structura Bogata",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.5134803,
+    "lng": 23.8146345,
+    "osmType": "node",
+    "tags": {
+      "amenity": "school",
+      "name": "Școala gimnazială Călărași Structura Bogata"
+    }
+  },
+  {
+    "id": "node-4838306861",
+    "name": "Școala primară Plăiesti",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.4977651,
+    "lng": 23.7089884,
+    "osmType": "node",
+    "tags": {
+      "amenity": "school",
+      "name": "Școala primară Plăiesti",
+      "name:hu": "Kövend Elemi Iskola"
+    }
+  },
+  {
+    "id": "node-4838601543",
+    "name": "Școala gimazială Moldovenești",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.4989478,
+    "lng": 23.6757922,
+    "osmType": "node",
+    "tags": {
+      "amenity": "school",
+      "name": "Școala gimazială Moldovenești"
+    }
+  },
+  {
+    "id": "node-4844498621",
+    "name": "Biserica Reformată",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.4882215,
+    "lng": 23.7377697,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "reformed",
+      "name": "Biserica Reformată",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-4844499087",
+    "name": "Școala generală Bădeni",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.4890073,
+    "lng": 23.7369382,
+    "osmType": "node",
+    "tags": {
+      "amenity": "school",
+      "name": "Școala generală Bădeni"
+    }
+  },
+  {
+    "id": "node-4871689200",
+    "name": "Școala Generală Feleacu",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.7165844,
+    "lng": 23.6256374,
+    "osmType": "node",
+    "tags": {
+      "amenity": "school",
+      "name": "Școala Generală Feleacu"
+    }
+  },
+  {
+    "id": "node-4895924245",
+    "name": "Școala gimnazială Moldovenești",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.4989388,
+    "lng": 23.6739372,
+    "osmType": "node",
+    "tags": {
+      "amenity": "school",
+      "name": "Școala gimnazială Moldovenești",
+      "name:hu": "Várfalvi általanos iskola",
+      "name:ro": "Școala gimnazială Moldovenești"
+    }
+  },
+  {
+    "id": "node-4895924286",
+    "name": "Biserica Română cu unită",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.4256125,
+    "lng": 23.6428973,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "greek_catholic",
+      "name": "Biserica Română cu unită",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-4895924306",
+    "name": "Biserica Ciugudu de Sus",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.4253139,
+    "lng": 23.7107143,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Ciugudu de Sus",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-4931896583",
+    "name": "Biserica Ortodoxă Sfinții Mihail și Gavril",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.6424988,
+    "lng": 23.8480921,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă Sfinții Mihail și Gavril",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-5030771759",
+    "name": "Școala gimnazială \"Mihai Vodă\"",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.5405222,
+    "lng": 23.7452839,
+    "osmType": "node",
+    "tags": {
+      "amenity": "school",
+      "name": "Școala gimnazială \"Mihai Vodă\"",
+      "operator:type": "public"
+    }
+  },
+  {
+    "id": "node-5088951191",
+    "name": "Medcenter",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 46.5405076,
+    "lng": 23.7519888,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Mihai Viteazu",
+      "addr:housenumber": "1114",
+      "addr:place": "Mihai Viteazu",
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "name": "Medcenter"
+    }
+  },
+  {
+    "id": "node-5106789815",
+    "name": "Biserica Ortodoxă Sfinții Arhangheli",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.5234892,
+    "lng": 23.6951052,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă Sfinții Arhangheli",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-5106793194",
+    "name": "Biserica Romano Catolică Sfânta Tereza",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.525389,
+    "lng": 23.6963288,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "roman_catholic",
+      "name": "Biserica Romano Catolică Sfânta Tereza",
+      "name:hu": "Nagyboldogasszony templom",
+      "religion": "christian",
+      "url:miserend": "https://miserend.hu/templom/3433"
+    }
+  },
+  {
+    "id": "node-5109161559",
+    "name": "Biserica unitariană",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.5214659,
+    "lng": 23.6867559,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "unitarian",
+      "name": "Biserica unitariană",
+      "name:hu": "Sinfalvi unitária eklesia",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-5109161564",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 46.5212024,
+    "lng": 23.6863647,
+    "osmType": "node",
+    "tags": {
+      "amenity": "kindergarten",
+      "level": "0"
+    }
+  },
+  {
+    "id": "node-5109161569",
+    "name": "Școala gimazială \"Mihai Vodă\"",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.5211609,
+    "lng": 23.6862734,
+    "osmType": "node",
+    "tags": {
+      "amenity": "school",
+      "name": "Școala gimazială \"Mihai Vodă\""
+    }
+  },
+  {
+    "id": "node-5133680678",
+    "name": "Biserica Ortodoxă Valea Florilor",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.6646499,
+    "lng": 23.8628639,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Valea Florilor",
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă Valea Florilor",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-5135709701",
+    "name": "Dr. Vlas Smaranda",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 46.5573397,
+    "lng": 23.7996932,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Turda",
+      "addr:housenumber": "34",
+      "addr:postcode": "401013",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Calea Victoriei",
+      "amenity": "doctors",
+      "name": "Dr. Vlas Smaranda",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "id": "node-5135709717",
+    "name": "Seven",
+    "type": "betting",
+    "subcategory": "Seven",
+    "lat": 46.5571138,
+    "lng": 23.8080053,
+    "osmType": "node",
+    "tags": {
+      "level": "0",
+      "name": "Seven",
+      "operator": "Seven",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-5135710426",
+    "name": "Dr. Nicoara Liviu",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 46.5569171,
+    "lng": 23.8033584,
+    "osmType": "node",
+    "tags": {
+      "amenity": "doctors",
+      "healthcare:speciality": "gynaecology",
+      "name": "Dr. Nicoara Liviu",
+      "opening_hours": "Tu 17:00-20:00, Th 17:00-20:00",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "id": "node-5145431272",
+    "name": "Dispensar TBC",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 46.5529745,
+    "lng": 23.8756118,
+    "osmType": "node",
+    "tags": {
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "name": "Dispensar TBC",
+      "operator": "Spitalul municipial \"Dr. Cornel Igna\""
+    }
+  },
+  {
+    "id": "node-5338636818",
+    "name": "Școala Generală Călărași",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.4842195,
+    "lng": 23.8544457,
+    "osmType": "node",
+    "tags": {
+      "amenity": "school",
+      "name": "Școala Generală Călărași"
+    }
+  },
+  {
+    "id": "node-5420473296",
+    "name": "Seven",
+    "type": "gaming",
+    "subcategory": "Seven",
+    "lat": 46.5498449,
+    "lng": 23.8864703,
+    "osmType": "node",
+    "tags": {
+      "leisure": "adult_gaming_centre",
+      "name": "Seven",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "id": "node-5424379723",
+    "name": "Casa Pariurilor",
+    "type": "betting",
+    "subcategory": "Casa Pariurilor",
+    "lat": 46.5566963,
+    "lng": 23.8056971,
+    "osmType": "node",
+    "tags": {
+      "level": "0",
+      "name": "Casa Pariurilor",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-5473292419",
+    "name": "Dr. Orbean Liana",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 46.562575,
+    "lng": 23.7880723,
+    "osmType": "node",
+    "tags": {
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "name": "Dr. Orbean Liana"
+    }
+  },
+  {
+    "id": "node-5475880407",
+    "name": "Justilmed",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 46.5516025,
+    "lng": 23.88111,
+    "osmType": "node",
+    "tags": {
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "healthcare:speciality": "ophthalmology;urology;endocrinology",
+      "name": "Justilmed",
+      "opening_hours": "Mo-Fr 08:00-16:00; Sa-Su off",
+      "website": "http://www.justilmed.ro/",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "id": "node-5475880416",
+    "name": "Dr. Alajmi Mahmoud",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 46.5468213,
+    "lng": 23.8813153,
+    "osmType": "node",
+    "tags": {
+      "alt_name": "Ajmi Med",
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "healthcare:speciality": "gynaecology",
+      "name": "Dr. Alajmi Mahmoud"
+    }
+  },
+  {
+    "id": "node-5480739665",
+    "name": "Opticline",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 46.5676872,
+    "lng": 23.7836697,
+    "osmType": "node",
+    "tags": {
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "healthcare:speciality": "ophthalmology",
+      "name": "Opticline"
+    }
+  },
+  {
+    "id": "node-5490561192",
+    "name": "Grădinița \"Casuța Piticilor\" Structura I",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 46.5713877,
+    "lng": 23.7876843,
+    "osmType": "node",
+    "tags": {
+      "amenity": "kindergarten",
+      "name": "Grădinița \"Casuța Piticilor\" Structura I"
+    }
+  },
+  {
+    "id": "node-5496176639",
+    "name": "Dr. Daniela Powell",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 46.5723253,
+    "lng": 23.7815452,
+    "osmType": "node",
+    "tags": {
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "healthcare:speciality": "general",
+      "name": "Dr. Daniela Powell",
+      "opening_hours": "Mo 08:30-13:30; Tu 08:30-13:30; We 12:00-17:00; Th-Fr 08:30-13:30; Sa-Su off",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "id": "node-5502932418",
+    "name": "Harsan Carmen Liliana",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 46.5797503,
+    "lng": 23.764646,
+    "osmType": "node",
+    "tags": {
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "healthcare:speciality": "psychiatry",
+      "name": "Harsan Carmen Liliana"
+    }
+  },
+  {
+    "id": "node-5535975028",
+    "name": "Clinic Med Diagnosis",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 46.557097,
+    "lng": 23.8145905,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Turda",
+      "addr:housenumber": "13",
+      "addr:postcode": "401047",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Lianelor",
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "healthcare:speciality": "general;cardiology;neurology;gynaecology",
+      "level": "0;1",
+      "name": "Clinic Med Diagnosis",
+      "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-14:00; Su off",
+      "operator:type": "private",
+      "website": "https://diagnosisturda.ro/",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "id": "node-5536006412",
+    "name": "Sala Regatului a Martirilor lui Iehova",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.555227,
+    "lng": 23.8002803,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "jehovahs_witness",
+      "name": "Sala Regatului a Martirilor lui Iehova",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-5552925973",
+    "name": "Școala Gimnazială \"Andrei Șaguna\"",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.5734484,
+    "lng": 23.7884094,
+    "osmType": "node",
+    "tags": {
+      "amenity": "school",
+      "name": "Școala Gimnazială \"Andrei Șaguna\""
+    }
+  },
+  {
+    "id": "node-5579796954",
+    "name": "Dr. Creteanu Razvan",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 46.5467549,
+    "lng": 23.8859922,
+    "osmType": "node",
+    "tags": {
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "name": "Dr. Creteanu Razvan"
+    }
+  },
+  {
+    "id": "node-5579796962",
+    "name": "Baum Games",
+    "type": "gaming",
+    "subcategory": "Baum Games",
+    "lat": 46.5470759,
+    "lng": 23.8857718,
+    "osmType": "node",
+    "tags": {
+      "leisure": "adult_gaming_centre",
+      "name": "Baum Games"
+    }
+  },
+  {
+    "id": "node-5579796966",
+    "name": "Surgent Medical Center",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 46.5466113,
+    "lng": 23.8847606,
+    "osmType": "node",
+    "tags": {
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "name": "Surgent Medical Center",
+      "name:it": "Surgent"
+    }
+  },
+  {
+    "id": "node-5581993864",
+    "name": "Casa Pariurilor",
+    "type": "betting",
+    "subcategory": "Casa Pariurilor",
+    "lat": 46.5477541,
+    "lng": 23.8884881,
+    "osmType": "node",
+    "tags": {
+      "name": "Casa Pariurilor",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-5582135861",
+    "name": "Colegiul tehnic \"Dr. Ioan Rațiu\"",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.5692021,
+    "lng": 23.7869293,
+    "osmType": "node",
+    "tags": {
+      "amenity": "school",
+      "name": "Colegiul tehnic \"Dr. Ioan Rațiu\""
+    }
+  },
+  {
+    "id": "node-5582171263",
+    "name": "Baum Games",
+    "type": "gaming",
+    "subcategory": "Baum Games",
+    "lat": 46.5722621,
+    "lng": 23.7853226,
+    "osmType": "node",
+    "tags": {
+      "amenity": "casino",
+      "name": "Baum Games"
+    }
+  },
+  {
+    "id": "node-5596413461",
+    "name": "Dr. Deák Éva",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 46.5673339,
+    "lng": 23.7817105,
+    "osmType": "node",
+    "tags": {
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "healthcare:speciality": "cardiology",
+      "name": "Dr. Deák Éva",
+      "opening_hours": "Mo, We, Fr 12:00-20:00; Tu, Th 10:00-18:00; Sa-Su off",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "id": "node-5664520753",
+    "name": "Biserica Crairât",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.6578231,
+    "lng": 23.8151149,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Crairât",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-5672801575",
+    "name": "Dr. Varga Csilla",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 46.5725966,
+    "lng": 23.7868596,
+    "osmType": "node",
+    "tags": {
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "healthcare:speciality": "dermatology",
+      "name": "Dr. Varga Csilla"
+    }
+  },
+  {
+    "id": "node-5673643331",
+    "name": "Casa Pariurilor",
+    "type": "betting",
+    "subcategory": "Casa Pariurilor",
+    "lat": 46.5559525,
+    "lng": 23.8118151,
+    "osmType": "node",
+    "tags": {
+      "name": "Casa Pariurilor",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-5673643369",
+    "name": "Medicis",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 46.5554724,
+    "lng": 23.8100876,
+    "osmType": "node",
+    "tags": {
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "healthcare:speciality": "cardiology;paediatrics",
+      "name": "Medicis"
+    }
+  },
+  {
+    "id": "node-5702381233",
+    "name": "Biserica Sf. Gheorghe",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.5593656,
+    "lng": 23.828075,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Turda",
+      "addr:housenumber": "49",
+      "addr:street": "Strada Poiana",
+      "amenity": "place_of_worship",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica Sf. Gheorghe",
+      "name:hu": "Szent György-templom",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-5721144534",
+    "name": "Dr. Șasa Mihaela Teodora",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 46.5597868,
+    "lng": 23.8284713,
+    "osmType": "node",
+    "tags": {
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "healthcare:speciality": "general",
+      "name": "Dr. Șasa Mihaela Teodora"
+    }
+  },
+  {
+    "id": "node-5779422347",
+    "name": "Colegiul tehnic Turda",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.5805113,
+    "lng": 23.7708193,
+    "osmType": "node",
+    "tags": {
+      "amenity": "school",
+      "name": "Colegiul tehnic Turda",
+      "operator:type": "public"
+    }
+  },
+  {
+    "id": "node-5779424158",
+    "name": "Dr. Angela Opincariu",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 46.5755661,
+    "lng": 23.7825151,
+    "osmType": "node",
+    "tags": {
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "healthcare:speciality": "ophthalmology",
+      "name": "Dr. Angela Opincariu",
+      "website": "https://www.oculens.ro/"
+    }
+  },
+  {
+    "id": "node-5779676050",
+    "name": "Pediprax",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 46.5779183,
+    "lng": 23.7822417,
+    "osmType": "node",
+    "tags": {
+      "alt_name": "Dr. Bica Antonica Georgeta",
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "healthcare:speciality": "paediatrics",
+      "name": "Pediprax",
+      "opening_hours": "Mo-Fr 18:00-20:00; Sa-Su off"
+    }
+  },
+  {
+    "id": "node-5792759827",
+    "name": "Biserica nouă apostolică",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.5708632,
+    "lng": 23.7847148,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "new_apostolic",
+      "name": "Biserica nouă apostolică",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-5794922789",
+    "name": "Seven",
+    "type": "betting",
+    "subcategory": "Seven",
+    "lat": 46.5709847,
+    "lng": 23.7859233,
+    "osmType": "node",
+    "tags": {
+      "name": "Seven",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-5795128498",
+    "name": "Monaco",
+    "type": "gaming",
+    "subcategory": "Monaco",
+    "lat": 46.5659507,
+    "lng": 23.7813254,
+    "osmType": "node",
+    "tags": {
+      "leisure": "adult_gaming_centre",
+      "name": "Monaco"
+    }
+  },
+  {
+    "id": "node-5797839082",
+    "name": "Casa Pariurilor",
+    "type": "betting",
+    "subcategory": "Casa Pariurilor",
+    "lat": 46.5662212,
+    "lng": 23.781522,
+    "osmType": "node",
+    "tags": {
+      "name": "Casa Pariurilor",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "shop": "bookmaker",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "id": "node-5797839097",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet",
+    "lat": 46.5664728,
+    "lng": 23.7819904,
+    "osmType": "node",
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "shop": "bookmaker",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "id": "node-5801265225",
+    "name": "Casa Pariurilor",
+    "type": "betting",
+    "subcategory": "Casa Pariurilor",
+    "lat": 46.5733482,
+    "lng": 23.7858523,
+    "osmType": "node",
+    "tags": {
+      "name": "Casa Pariurilor",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-5806166557",
+    "name": "Dr. Selistean Mariana",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 46.5723153,
+    "lng": 23.7850045,
+    "osmType": "node",
+    "tags": {
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "healthcare:speciality": "general",
+      "name": "Dr. Selistean Mariana"
+    }
+  },
+  {
+    "id": "node-5863203490",
+    "name": "Ginosan",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 46.5602902,
+    "lng": 23.8099747,
+    "osmType": "node",
+    "tags": {
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "healthcare:speciality": "gynaecology",
+      "name": "Ginosan"
+    }
+  },
+  {
+    "id": "node-5863203524",
+    "name": "Endocard",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 46.5578051,
+    "lng": 23.7987461,
+    "osmType": "node",
+    "tags": {
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "healthcare:speciality": "cardiology;internal",
+      "name": "Endocard",
+      "opening_hours": "Mo 09:00-18:00; Tu-We 09:00-20:00; Th 09:00-18:00; Fr 09:00-15:00; Sa-Su off"
+    }
+  },
+  {
+    "id": "node-5865660973",
+    "name": "Aesthetix",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 46.5705539,
+    "lng": 23.7851692,
+    "osmType": "node",
+    "tags": {
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "healthcare:speciality": "dermatology;plastic_surgery",
+      "name": "Aesthetix"
+    }
+  },
+  {
+    "id": "node-5899224681",
+    "name": "Dr. Moga Georgeta & Eliade",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 46.5730148,
+    "lng": 23.7832568,
+    "osmType": "node",
+    "tags": {
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "healthcare:speciality": "internal",
+      "name": "Dr. Moga Georgeta & Eliade"
+    }
+  },
+  {
+    "id": "node-5899314982",
+    "name": "Fun Kids",
+    "type": "school",
+    "subcategory": "childcare",
+    "lat": 46.5690464,
+    "lng": 23.7844796,
+    "osmType": "node",
+    "tags": {
+      "amenity": "childcare",
+      "name": "Fun Kids"
+    }
+  },
+  {
+    "id": "node-5899315990",
+    "name": "Valeria Serban, MD, Ph.D.",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 46.5701952,
+    "lng": 23.7851261,
+    "osmType": "node",
+    "tags": {
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "healthcare:speciality": "neurology",
+      "name": "Valeria Serban, MD, Ph.D."
+    }
+  },
+  {
+    "id": "node-5899316004",
+    "name": "Dr. Vlad Macec",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 46.5705903,
+    "lng": 23.7851372,
+    "osmType": "node",
+    "tags": {
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "healthcare:speciality": "orthopaedics",
+      "name": "Dr. Vlad Macec",
+      "opening_hours": "Mo-Fr 14:00-18:00; Sa-Su off"
+    }
+  },
+  {
+    "id": "node-5899316008",
+    "name": "Dr. Zăhan Octavia",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 46.5705673,
+    "lng": 23.7852292,
+    "osmType": "node",
+    "tags": {
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "healthcare:speciality": "general",
+      "name": "Dr. Zăhan Octavia"
+    }
+  },
+  {
+    "id": "node-5957539381",
+    "name": "Dr. Pamfilie Ioana",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 46.5792651,
+    "lng": 23.7799087,
+    "osmType": "node",
+    "tags": {
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "name": "Dr. Pamfilie Ioana"
+    }
+  },
+  {
+    "id": "node-5957540495",
+    "name": "Felia Fonoage",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 46.577963,
+    "lng": 23.7789058,
+    "osmType": "node",
+    "tags": {
+      "amenity": "doctors",
+      "healthcare": "alternative",
+      "name": "Felia Fonoage"
+    }
+  },
+  {
+    "id": "node-5957540505",
+    "name": "Dr. Szasz Elisabeta Maria",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 46.5792621,
+    "lng": 23.7799619,
+    "osmType": "node",
+    "tags": {
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "healthcare:speciality": "psychiatry",
+      "name": "Dr. Szasz Elisabeta Maria"
+    }
+  },
+  {
+    "id": "node-5981387960",
+    "name": "Stanleybet",
+    "type": "betting",
+    "subcategory": "Stanleybet",
+    "lat": 46.5576055,
+    "lng": 23.8079651,
+    "osmType": "node",
+    "tags": {
+      "brand": "Stanleybet",
+      "brand:wikidata": "Q25466489",
+      "name": "Stanleybet",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-5998147467",
+    "name": "Biserica Ungurească",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.5802584,
+    "lng": 23.7203488,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "protestant",
+      "name": "Biserica Ungurească",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-6012841135",
+    "name": "Biserica Baptistă",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.5522316,
+    "lng": 23.8085648,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Turda",
+      "addr:housenumber": "40",
+      "addr:postcode": "401040",
+      "addr:street": "Strada Tineretului",
+      "amenity": "place_of_worship",
+      "denomination": "baptist",
+      "name": "Biserica Baptistă",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-6342810175",
+    "name": "Fără nume",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 46.5588817,
+    "lng": 23.8017533,
+    "osmType": "node",
+    "tags": {
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "healthcare:speciality": "general"
+    }
+  },
+  {
+    "id": "node-6344752980",
+    "name": "Dr. Pascal Daniela",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 46.6822004,
+    "lng": 23.7364209,
+    "osmType": "node",
+    "tags": {
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "healthcare:speciality": "general",
+      "name": "Dr. Pascal Daniela"
+    }
+  },
+  {
+    "id": "node-6487776000",
+    "name": "Casa de rugăciune baptistă",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.5794498,
+    "lng": 23.7701676,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "baptist",
+      "name": "Casa de rugăciune baptistă",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-6488374910",
+    "name": "Dr. Jecan Voichița",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 46.5781671,
+    "lng": 23.7751743,
+    "osmType": "node",
+    "tags": {
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "healthcare:speciality": "general;psychiatry",
+      "name": "Dr. Jecan Voichița",
+      "opening_hours": "Mo, We, Fr 08:00-13:00; Tu, Th 13:00-18:00; Sa-Su off",
+      "phone": "+40745636163"
+    }
+  },
+  {
+    "id": "node-6490431417",
+    "name": "Dr. Chișiu Minodora",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 46.579827,
+    "lng": 23.7758334,
+    "osmType": "node",
+    "tags": {
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "healthcare:speciality": "general",
+      "name": "Dr. Chișiu Minodora"
+    }
+  },
+  {
+    "id": "node-6579695286",
+    "name": "Școala Gimnazială \"Simion Lazăr\"",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.4273502,
+    "lng": 23.9054628,
+    "osmType": "node",
+    "tags": {
+      "addr:housenumber": "241 A",
+      "addr:postcode": "517405",
+      "addr:street": "Strada Gării",
+      "amenity": "school",
+      "check_date": "2025-04-12",
+      "email": "sc.luncam@email.albanet.ro",
+      "name": "Școala Gimnazială \"Simion Lazăr\"",
+      "reviewed": "no",
+      "school_type": "Unitate de învăţământ"
+    }
+  },
+  {
+    "id": "node-8628401559",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet",
+    "lat": 46.5671978,
+    "lng": 23.7817258,
+    "osmType": "node",
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-8628417525",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet",
+    "lat": 46.5559066,
+    "lng": 23.8142546,
+    "osmType": "node",
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-8628417612",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet",
+    "lat": 46.545181,
+    "lng": 23.887029,
+    "osmType": "node",
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-8628417619",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet Betting & Gaming SA",
+    "lat": 46.539045,
+    "lng": 23.886171,
+    "osmType": "node",
+    "tags": {
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-8628418087",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet",
+    "lat": 46.557466,
+    "lng": 23.8096502,
+    "osmType": "node",
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-9199485594",
+    "name": "Biserica Ortodox Sfântul Ioan",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.7240559,
+    "lng": 23.7465352,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Pata",
+      "air_conditioning": "no",
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodox Sfântul Ioan",
+      "name:hu": "Szent János ortodox templom",
+      "name:ro": "Biserica Sfântul Ioan",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-9199505346",
+    "name": "Biserica Reformată Pata",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.7269212,
+    "lng": 23.7465437,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Pata",
+      "amenity": "place_of_worship",
+      "denomination": "reformed",
+      "name": "Biserica Reformată Pata",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-10822405182",
+    "name": "Black Star",
+    "type": "gaming",
+    "subcategory": "Black Star",
+    "lat": 46.5475821,
+    "lng": 23.886213,
+    "osmType": "node",
+    "tags": {
+      "leisure": "adult_gaming_centre",
+      "name": "Black Star"
+    }
+  },
+  {
+    "id": "node-10898500719",
+    "name": "Psihologic",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 46.5422403,
+    "lng": 23.8882591,
+    "osmType": "node",
+    "tags": {
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "healthcare:speciality": "psychiatry",
+      "name": "Psihologic"
+    }
+  },
+  {
+    "id": "node-12463429270",
+    "name": "Fără nume",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 46.5541607,
+    "lng": 23.9027937,
+    "osmType": "node",
+    "tags": {
+      "amenity": "clinic",
+      "healthcare": "clinic"
+    }
+  },
+  {
+    "id": "node-12463528540",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.558713,
+    "lng": 23.9058962,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-12473422206",
+    "name": "Sala Regatului Martorii lui Iehova",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.5554388,
+    "lng": 23.9095629,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "jehovahs_witness",
+      "name": "Sala Regatului Martorii lui Iehova",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-13243272279",
+    "name": "Biserica reformată din Noșlac",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.4090181,
+    "lng": 23.9321695,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "reformed",
+      "historic": "monument",
+      "name": "Biserica reformată din Noșlac",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-209791007",
+    "name": "Școala gimnazială Luna",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.5068974,
+    "lng": 23.9170849,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school",
+      "building": "school",
+      "education": "school",
+      "name": "Școala gimnazială Luna"
+    }
+  },
+  {
+    "id": "way-209791034",
+    "name": "Sala de Sport",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.5073476,
+    "lng": 23.9173132,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school",
+      "building": "school",
+      "education": "school",
+      "name": "Sala de Sport"
+    }
+  },
+  {
+    "id": "way-281162720",
+    "name": "Biserica Romano Catolică",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.5745152,
+    "lng": 23.7849756,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Turda",
+      "addr:housenumber": "54",
+      "addr:street": "Piața Republicii",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "roman_catholic",
+      "name": "Biserica Romano Catolică",
+      "name:hu": "Kisboldogasszony római katolikus templom",
+      "religion": "christian",
+      "source": "Bing",
+      "url:miserend": "https://miserend.hu/templom/3434"
+    }
+  },
+  {
+    "id": "way-286580874",
+    "name": "Biserica Ortodoxă Sfântul Ilie Podeni",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.4279179,
+    "lng": 23.6431212,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă Sfântul Ilie Podeni",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-302328265",
+    "name": "Biserica Sf Parascheva",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.6988876,
+    "lng": 23.9130976,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica Sf Parascheva",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-338023352",
+    "name": "Grădiniță",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 46.7149194,
+    "lng": 23.6846682,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Gheorghieni",
+      "addr:country": "RO",
+      "addr:housenumber": "145",
+      "addr:place": "Gheorghieni",
+      "addr:postcode": "407272",
+      "amenity": "kindergarten",
+      "building": "school",
+      "education": "kindergarten",
+      "name": "Grădiniță"
+    }
+  },
+  {
+    "id": "way-338023353",
+    "name": "Școala Generală",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.71474,
+    "lng": 23.684796,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Gheorghieni",
+      "addr:country": "RO",
+      "addr:housenumber": "145",
+      "addr:place": "Gheorghieni",
+      "addr:postcode": "407272",
+      "amenity": "school",
+      "building": "school",
+      "education": "school",
+      "name": "Școala Generală"
+    }
+  },
+  {
+    "id": "way-338023354",
+    "name": "Biserica Parohia Ortodoxa \"Sfintii Arhangheli Mihail si Gavriil si Sfanta Treime\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.7144306,
+    "lng": 23.6856018,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Gheorghieni",
+      "addr:housenumber": "165",
+      "addr:postcode": "407272",
+      "addr:street": "Principala",
+      "air_conditioning": "yes",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "orthodox",
+      "email": "parohiagheorghiei@gmail.com",
+      "internet_access": "wlan",
+      "mobile": "+40744272447",
+      "name": "Biserica Parohia Ortodoxa \"Sfintii Arhangheli Mihail si Gavriil si Sfanta Treime\"",
+      "name:hu": "Ortodox templom",
+      "religion": "christian",
+      "service_times": "24hours"
+    }
+  },
+  {
+    "id": "way-338023356",
+    "name": "Biserica Reformată",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.7095871,
+    "lng": 23.691407,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "reformed",
+      "name": "Biserica Reformată",
+      "name:hu": "Református templom",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-338023357",
+    "name": "Biserica Romano-Catolică",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.710905,
+    "lng": 23.6932434,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "roman_catholic",
+      "name": "Biserica Romano-Catolică",
+      "name:hu": "Szent György vértanú templom",
+      "religion": "christian",
+      "url:miserend": "https://miserend.hu/templom/3388"
+    }
+  },
+  {
+    "id": "way-338023944",
+    "name": "Baptista Imaház",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.7096568,
+    "lng": 23.6897258,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Gheorghieni",
+      "addr:country": "RO",
+      "addr:housenumber": "418",
+      "addr:place": "Gheorghieni",
+      "addr:postcode": "407272",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "baptist",
+      "name": "Baptista Imaház",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-338024615",
+    "name": "Dispensar",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 46.717833,
+    "lng": 23.6787082,
+    "osmType": "way",
+    "tags": {
+      "amenity": "doctors",
+      "building": "yes",
+      "healthcare": "doctor",
+      "name": "Dispensar",
+      "name:hu": "Orvosi rendelő"
+    }
+  },
+  {
+    "id": "way-345962544",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.6222796,
+    "lng": 23.7017939,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school"
+    }
+  },
+  {
+    "id": "way-345984792",
+    "name": "Biserica ortodoxă",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.6200497,
+    "lng": 23.6975434,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica ortodoxă",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-345984793",
+    "name": "Biserica romano-catolică",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.6168559,
+    "lng": 23.6992642,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "roman_catholic",
+      "name": "Biserica romano-catolică",
+      "name:hu": "Szent Kereszt felmagasztalása templom",
+      "religion": "christian",
+      "url:miserend": "https://miserend.hu/templom/3398"
+    }
+  },
+  {
+    "id": "way-345984795",
+    "name": "Biserica unitariană",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.6219056,
+    "lng": 23.7011663,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "unitarian",
+      "name": "Biserica unitariană",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-345987253",
+    "name": "Biserica reformată",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.6192643,
+    "lng": 23.701219,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "reformed",
+      "name": "Biserica reformată",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-479893687",
+    "name": "Biserica Ortodoxă",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.4835483,
+    "lng": 23.8526127,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-484206002",
+    "name": "Sala Regatului a Martirilor lui Iehova",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.5406523,
+    "lng": 23.7688546,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Mihai Viteazul",
+      "addr:housenumber": "1319A",
+      "addr:street": "Strada Principală",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "jehovahs_witness",
+      "name": "Sala Regatului a Martirilor lui Iehova",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-484206016",
+    "name": "Școala Gimnazială \"Teodor Murășanu\"",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.5710656,
+    "lng": 23.7818157,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Turda",
+      "addr:housenumber": "53",
+      "addr:postcode": "401150",
+      "addr:street": "Strada Doctor Ioan Rațiu",
+      "amenity": "school",
+      "building": "school",
+      "name": "Școala Gimnazială \"Teodor Murășanu\"",
+      "website": "https://www.tmturda.ro/"
+    }
+  },
+  {
+    "id": "way-484206035",
+    "name": "Sala de Congrese a Martorilor lui Iehova Turda",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.5534209,
+    "lng": 23.772774,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "jehovahs_witness",
+      "name": "Sala de Congrese a Martorilor lui Iehova Turda",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-484206041",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.5387587,
+    "lng": 23.7648523,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "chapel",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-486232454",
+    "name": "Dispensar",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 46.5407308,
+    "lng": 23.7418558,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Mihai Viteazu",
+      "addr:housenumber": "555",
+      "addr:place": "Mihai Viteazu",
+      "amenity": "doctors",
+      "building": "public",
+      "healthcare": "doctor",
+      "name": "Dispensar"
+    }
+  },
+  {
+    "id": "way-487203479",
+    "name": "Cultul pentecostal Biserica lui Dumnezeu Speranța",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.5400282,
+    "lng": 23.7629263,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Mihai Viteazu",
+      "addr:housenumber": "1183",
+      "addr:place": "Mihai Viteazu",
+      "addr:street": "Strada Coloniei",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "pentecostal",
+      "name": "Cultul pentecostal Biserica lui Dumnezeu Speranța",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-487203495",
+    "name": "Biserica Reformată-cetate",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.57154,
+    "lng": 23.7850917,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Turda",
+      "addr:housenumber": "1",
+      "addr:street": "Strada Bogdan Petriceicu Hașdeu",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "reformed",
+      "name": "Biserica Reformată-cetate",
+      "name:hu": "Ótordai református templom",
+      "religion": "christian",
+      "wikipedia": "ro:Biserica Reformată-Calvină din Turda-Veche"
+    }
+  },
+  {
+    "id": "way-487203501",
+    "name": "Biserica Sfinții Voievozi",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.5386573,
+    "lng": 23.799322,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica Sfinții Voievozi",
+      "religion": "christian",
+      "source": "jonutzu@gpszone.ro",
+      "start_date": "2001"
+    }
+  },
+  {
+    "id": "way-490937175",
+    "name": "Casa de rugăciune Biserica creștină penticostală \"Betel\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.5390707,
+    "lng": 23.8917996,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Câmpia Turzii",
+      "addr:housenumber": "14",
+      "addr:postcode": "405100",
+      "addr:street": "Strada Tudor Vladimirescu",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "pentecostal",
+      "name": "Casa de rugăciune Biserica creștină penticostală \"Betel\"",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-490937335",
+    "name": "Biserica Sf. Arh. Mihail și Gavriil",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.5142263,
+    "lng": 23.8139404,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "orthodox",
+      "name": "Biserica Sf. Arh. Mihail și Gavriil",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-491322445",
+    "name": "Biserica creștină adventistă",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.5487991,
+    "lng": 23.8845969,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Câmpia Turzii",
+      "addr:housenumber": "19",
+      "addr:street": "Strada Horea",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "seventh_day_adventist",
+      "name": "Biserica creștină adventistă",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-491322522",
+    "name": "Biserica Reformată-Calvină",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.5451865,
+    "lng": 23.886327,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Câmpia Turzii",
+      "addr:housenumber": "1",
+      "addr:street": "Piața Mihai Viteazu",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "check_date": "2024-12-30",
+      "denomination": "reformed",
+      "name": "Biserica Reformată-Calvină",
+      "religion": "christian",
+      "wikipedia": "ro:Biserica reformată-calvină din Câmpia Turzii"
+    }
+  },
+  {
+    "id": "way-491775836",
+    "name": "Biserica Unitariană",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.4971771,
+    "lng": 23.6783058,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Moldovenești",
+      "addr:place": "Moldovenești",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "unitarian",
+      "name": "Biserica Unitariană",
+      "name:de": "Unitarische Kirche",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-493782372",
+    "name": "Școala Gimnazială \"Horea, Cloșca și Crișan\"",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.556427,
+    "lng": 23.8149175,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Turda",
+      "addr:housenumber": "7",
+      "addr:street": "Strada Lotus",
+      "amenity": "school",
+      "building": "school",
+      "name": "Școala Gimnazială \"Horea, Cloșca și Crișan\"",
+      "operator:type": "public",
+      "website": "https://schoreacloscasicrisan.ro/"
+    }
+  },
+  {
+    "id": "way-493782373",
+    "name": "Grădinița \"Casuța Piticilor\"",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 46.5574605,
+    "lng": 23.8156859,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Turda",
+      "addr:housenumber": "17",
+      "addr:street": "Strada Lianelor",
+      "amenity": "kindergarten",
+      "building": "school",
+      "name": "Grădinița \"Casuța Piticilor\"",
+      "operator:type": "public"
+    }
+  },
+  {
+    "id": "way-493782374",
+    "name": "Dispensarul medical urban nr. VI adulți-copii",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 46.5574637,
+    "lng": 23.8148034,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Turda",
+      "addr:housenumber": "11",
+      "addr:street": "Strada Lianelor",
+      "amenity": "clinic",
+      "building": "hospital",
+      "healthcare": "clinic",
+      "level": "0;1",
+      "name": "Dispensarul medical urban nr. VI adulți-copii",
+      "operator": "Direcția sanitară a județului Cluj, Spitalul municipal Turda",
+      "operator:type": "public"
+    }
+  },
+  {
+    "id": "way-493782375",
+    "name": "Grădinița cu program prelungit \"Casuța Piticilor\"",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 46.5572608,
+    "lng": 23.8151703,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Turda",
+      "addr:housenumber": "15",
+      "addr:street": "Strada Lianelor",
+      "amenity": "kindergarten",
+      "building": "school",
+      "name": "Grădinița cu program prelungit \"Casuța Piticilor\"",
+      "operator:type": "public"
+    }
+  },
+  {
+    "id": "way-494769196",
+    "name": "Biserica Sf. Ioan Botezătorul",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.5587303,
+    "lng": 23.7852549,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "orthodox",
+      "name": "Biserica Sf. Ioan Botezătorul",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-509823307",
+    "name": "Biserica Reformată Pata",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.7268985,
+    "lng": 23.7465616,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "reformed",
+      "name": "Biserica Reformată Pata",
+      "name:hu": "Patai Reformatus Templom",
+      "name:ro": "Biserica Reformată Pata",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-509823308",
+    "name": "Biserica Ortodoxă Sfântul Ioan",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.7240483,
+    "lng": 23.7466088,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Pata",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă Sfântul Ioan",
+      "name:hu": "Szent János Ortodox Templom",
+      "name:ro": "Biserica Ortodoxă Sfântul Ioan",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-512581391",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.4395016,
+    "lng": 23.7959575,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "romanian_orthodox",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-512581409",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.4390746,
+    "lng": 23.7957981,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "romanian_orthodox",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-522338037",
+    "name": "Colegiul Național Mihai Viteazul",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.5748407,
+    "lng": 23.7773866,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Turda",
+      "addr:housenumber": "111",
+      "addr:street": "Strada Doctor Ioan Rațiu",
+      "amenity": "school",
+      "name": "Colegiul Național Mihai Viteazul"
+    }
+  },
+  {
+    "id": "way-522338061",
+    "name": "Spitalul Municipal Turda",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 46.5789227,
+    "lng": 23.7769408,
+    "osmType": "way",
+    "tags": {
+      "amenity": "hospital",
+      "emergency": "yes",
+      "healthcare": "hospital",
+      "name": "Spitalul Municipal Turda",
+      "website": "https://spitalturda.ro/"
+    }
+  },
+  {
+    "id": "way-523439059",
+    "name": "Biserica Unitariană",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.5405411,
+    "lng": 23.7435147,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Mihai Viteazu",
+      "addr:housenumber": "477",
+      "addr:place": "Mihai Viteazu",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "unitarian",
+      "name": "Biserica Unitariană",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-524115268",
+    "name": "Biserica creștină baptistă \"Speranța\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.5725302,
+    "lng": 23.7831869,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Turda",
+      "addr:housenumber": "9",
+      "addr:postcode": "401150",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada George Coșbuc",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "baptist",
+      "name": "Biserica creștină baptistă \"Speranța\"",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-524115272",
+    "name": "Biserica Unitariană",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.573862,
+    "lng": 23.7831685,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Turda",
+      "addr:housenumber": "3",
+      "addr:postcode": "401149",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Dacia",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "unitarian",
+      "name": "Biserica Unitariană",
+      "name:hu": "Unitárius templom",
+      "religion": "christian",
+      "wikipedia": "ro:Biserica Unitariană din Turda-Veche"
+    }
+  },
+  {
+    "id": "way-528111715",
+    "name": "Liceul Teoretic Liviu Rebreanu",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.5556506,
+    "lng": 23.8076752,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Turda",
+      "addr:housenumber": "6",
+      "addr:postcode": "401040",
+      "addr:street": "Strada Tineretului",
+      "amenity": "school",
+      "building": "school",
+      "name": "Liceul Teoretic Liviu Rebreanu"
+    }
+  },
+  {
+    "id": "way-528204275",
+    "name": "Școala profesională Poiana Turda",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.5607424,
+    "lng": 23.8312608,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Turda",
+      "addr:housenumber": "51",
+      "addr:postcode": "401071",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Câmpiei",
+      "amenity": "school",
+      "name": "Școala profesională Poiana Turda"
+    }
+  },
+  {
+    "id": "way-529087163",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.5383446,
+    "lng": 23.7473865,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "roman_catholic",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-531713799",
+    "name": "Biserica Reformată",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.560676,
+    "lng": 23.8299653,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Turda",
+      "addr:housenumber": "57",
+      "addr:street": "Strada Câmpiei",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "reformed",
+      "name": "Biserica Reformată",
+      "name:hu": "Református templom",
+      "religion": "christian",
+      "wikipedia": "ro:Biserica reformată-calvină din Turda-Poiana"
+    }
+  },
+  {
+    "id": "way-562309131",
+    "name": "Biserica Ortodoxă Veche",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.5496525,
+    "lng": 23.8863851,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Câmpia Turzii",
+      "addr:housenumber": "30",
+      "addr:postcode": "405100",
+      "addr:street": "Strada Laminoriștilor",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă Veche",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-562828918",
+    "name": "Biserica adventistă de Ziua a șapte \"Speranta\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.555932,
+    "lng": 23.8049296,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Turda",
+      "addr:housenumber": "4C",
+      "addr:street": "Strada Mihai Viteazul",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "seventh_day_adventist",
+      "name": "Biserica adventistă de Ziua a șapte \"Speranta\"",
+      "religion": "christian",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "id": "way-566121740",
+    "name": "Biserica greco-catolică",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.573803,
+    "lng": 23.7839116,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Turda",
+      "addr:housenumber": "2",
+      "addr:street": "Strada Dacia",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "greek_catholic",
+      "name": "Biserica greco-catolică",
+      "name:hu": "Görögkatolikus templom",
+      "religion": "christian",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "id": "way-568577243",
+    "name": "Biserica Ortodoxă „Învierea Domnului”",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.5596618,
+    "lng": 23.8140603,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Turda",
+      "addr:housenumber": "31",
+      "addr:postcode": "401030",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Calea Victoriei",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă „Învierea Domnului”",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-571261847",
+    "name": "Biserica penticostală Alfa și Omega",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.5767543,
+    "lng": 23.7830005,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Turda",
+      "addr:housenumber": "23",
+      "addr:postcode": "401096",
+      "addr:street": "Strada Avram Iancu",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "pentecostal",
+      "name": "Biserica penticostală Alfa și Omega",
+      "name:hu": "Alfa és Ómega pünkösdista templom",
+      "religion": "christian",
+      "website": "http://www.alfaomegaturda.com",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "id": "way-571261873",
+    "name": "Biserica romano-catolică franciscană",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.5784475,
+    "lng": 23.7817336,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Turda",
+      "addr:housenumber": "49",
+      "addr:street": "Strada Avram Iancu",
+      "alt_name:hu": "tordai ferences templom",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "roman_catholic",
+      "name": "Biserica romano-catolică franciscană",
+      "name:hu": "Szent László király-templom",
+      "religion": "christian",
+      "url:miserend": "https://miserend.hu/templom/3435",
+      "wikipedia": "ro:Biserica franciscană din Turda"
+    }
+  },
+  {
+    "id": "way-572094224",
+    "name": "Biserica Evanghelică C.A.",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.572299,
+    "lng": 23.7806091,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Turda",
+      "addr:housenumber": "12",
+      "addr:postcode": "401085",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Vasile Alecsandri",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "evangelical",
+      "name": "Biserica Evanghelică C.A.",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-572629779",
+    "name": "Biserica Reformată",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.4992266,
+    "lng": 23.6727972,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "reformed",
+      "name": "Biserica Reformată",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-572629924",
+    "name": "Grădinița cu program normal Moldovenești",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 46.4997813,
+    "lng": 23.6605635,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Moldovenești",
+      "addr:housenumber": "124",
+      "addr:place": "Moldovenești",
+      "amenity": "kindergarten",
+      "building": "school",
+      "name": "Grădinița cu program normal Moldovenești",
+      "name:hu": "Várfavi Óvoda",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "id": "way-573104341",
+    "name": "Gradinița \"Poiana cu castani\"",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 46.5753683,
+    "lng": 23.7809474,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Turda",
+      "addr:housenumber": "21",
+      "addr:street": "Strada Mihai Eminescu",
+      "amenity": "kindergarten",
+      "building": "school",
+      "name": "Gradinița \"Poiana cu castani\""
+    }
+  },
+  {
+    "id": "way-573104352",
+    "name": "Sinagoga din Turda",
+    "type": "church",
+    "subcategory": "jewish",
+    "lat": 46.5759413,
+    "lng": 23.7820241,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Turda",
+      "addr:housenumber": "26",
+      "addr:street": "Strada Mihai Eminescu",
+      "amenity": "place_of_worship",
+      "building": "synagogue",
+      "name": "Sinagoga din Turda",
+      "name:hu": "Tordai zsimagóga",
+      "religion": "jewish",
+      "wikipedia": "ro:Sinagoga din Turda"
+    }
+  },
+  {
+    "id": "way-579977129",
+    "name": "Școala Gimnazială \"Andrei Șaguna\" Structura Waldorf",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.5748637,
+    "lng": 23.7872851,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Turda",
+      "addr:housenumber": "25",
+      "addr:postcode": "401078",
+      "addr:street": "Strada Axente Sever",
+      "amenity": "school",
+      "building": "school",
+      "name": "Școala Gimnazială \"Andrei Șaguna\" Structura Waldorf"
+    }
+  },
+  {
+    "id": "way-579983060",
+    "name": "Grădinița cu program normal \"Dr. Ioan Rațiu\" Structura II",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 46.5618689,
+    "lng": 23.7760004,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Turda",
+      "addr:housenumber": "11",
+      "addr:street": "Strada Cheii",
+      "amenity": "kindergarten",
+      "building": "school",
+      "name": "Grădinița cu program normal \"Dr. Ioan Rațiu\" Structura II",
+      "website": "https://gradinita-ratiu-turda.ro/"
+    }
+  },
+  {
+    "id": "way-584108021",
+    "name": "Biserica penticostala \"Bunul Samaritean\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.5435074,
+    "lng": 23.8893987,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Câmpia Turzii",
+      "addr:housenumber": "3A",
+      "addr:postcode": "405200",
+      "addr:street": "Strada Parcului",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "pentecostal",
+      "name": "Biserica penticostala \"Bunul Samaritean\"",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-584683657",
+    "name": "Biserica Baptistă Maghiară Turda",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.5698621,
+    "lng": 23.7874261,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Turda",
+      "addr:housenumber": "5",
+      "addr:street": "Strada Gelu",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "baptist",
+      "name": "Biserica Baptistă Maghiară Turda",
+      "name:en": "Hungarian Baptist Church",
+      "name:hu": "Tordai Magyar Baptista Imaház",
+      "name:ro": "Biserica Baptistă Maghiară Turdă",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-588849508",
+    "name": "Grădinița cu program prelungit \"Dr. Ioan Rațiu\"",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 46.5727292,
+    "lng": 23.781303,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Turda",
+      "addr:housenumber": "71",
+      "addr:postcode": "401150",
+      "addr:street": "Strada Doctor Ioan Rațiu",
+      "amenity": "kindergarten",
+      "building": "kindergarten",
+      "name": "Grădinița cu program prelungit \"Dr. Ioan Rațiu\"",
+      "operator:type": "public"
+    }
+  },
+  {
+    "id": "way-588849534",
+    "name": "Sala Regatului Martorilor lui Iehova",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.5769515,
+    "lng": 23.7774638,
+    "osmType": "way",
+    "tags": {
+      "addr:housenumber": "44A",
+      "addr:street": "Strada Nicolae Iorga",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "jehovahs_witness",
+      "name": "Sala Regatului Martorilor lui Iehova",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-595917199",
+    "name": "Biserica Dintre Români",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.5681901,
+    "lng": 23.7898703,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Turda",
+      "addr:housenumber": "17",
+      "addr:street": "Strada Sirenei",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "orthodox",
+      "name": "Biserica Dintre Români",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-596145253",
+    "name": "Biserica ortodoxă",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.5666147,
+    "lng": 23.6557443,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "orthodox",
+      "name": "Biserica ortodoxă",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-596160242",
+    "name": "Biserica Ortodoxă",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.5483995,
+    "lng": 23.6478193,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-596375173",
+    "name": "Biserica de lemn Comșești",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.6322413,
+    "lng": 23.6647393,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "orthodox",
+      "name": "Biserica de lemn Comșești",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-596375183",
+    "name": "Biserica Sf Arhangheli",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.6420388,
+    "lng": 23.7068189,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Biserica Sf Arhangheli",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-596375201",
+    "name": "Biserica Ortodoxă Comșești",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.6318579,
+    "lng": 23.6662092,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă Comșești",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-596375294",
+    "name": "Biserica Ortodoxă",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.5804914,
+    "lng": 23.6545384,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "orthodox",
+      "image": "https://photos.app.goo.gl/9Ei5tWKWVGb2dXbz9",
+      "name": "Biserica Ortodoxă",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-598452586",
+    "name": "Biserica Înălțarea Sfintei Cruci",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.5545791,
+    "lng": 23.8146746,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "orthodox",
+      "name": "Biserica Înălțarea Sfintei Cruci",
+      "religion": "christian",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "id": "way-598457937",
+    "name": "Biserica Sf. Ilie",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.6964342,
+    "lng": 23.8360543,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "orthodox",
+      "name": "Biserica Sf. Ilie",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-599364999",
+    "name": "Școala profesională Poiana, Grădinița cu program normal",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 46.5600815,
+    "lng": 23.8342015,
+    "osmType": "way",
+    "tags": {
+      "amenity": "kindergarten",
+      "building": "school",
+      "name": "Școala profesională Poiana, Grădinița cu program normal",
+      "operator:type": "public"
+    }
+  },
+  {
+    "id": "way-621754547",
+    "name": "Grădinița cu program prelungit \"Sfânta Maria\"",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 46.5579386,
+    "lng": 23.8038198,
+    "osmType": "way",
+    "tags": {
+      "amenity": "kindergarten",
+      "building": "school",
+      "name": "Grădinița cu program prelungit \"Sfânta Maria\"",
+      "operator:type": "public"
+    }
+  },
+  {
+    "id": "way-621754553",
+    "name": "Biserica Greco-Catolică Sf Ap Petru și Pavel",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.5574109,
+    "lng": 23.8024876,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "greek_catholic",
+      "name": "Biserica Greco-Catolică Sf Ap Petru și Pavel",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-635456911",
+    "name": "Biserica Greco-Catolică Poiana",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.5605104,
+    "lng": 23.8351312,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Turda",
+      "addr:housenumber": "69",
+      "addr:street": "Strada Câmpiei",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "greek_catholic",
+      "name": "Biserica Greco-Catolică Poiana",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-636369689",
+    "name": "Biserica Ortodoxă",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.5439573,
+    "lng": 23.7472126,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-641644933",
+    "name": "Liceul Teoretic Pavel Dan",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.5427592,
+    "lng": 23.8893829,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Câmpia Turzii",
+      "addr:housenumber": "17",
+      "addr:postcode": "405100",
+      "addr:street": "Strada 1 Decembrie 1918",
+      "amenity": "school",
+      "name": "Liceul Teoretic Pavel Dan",
+      "operator:type": "public"
+    }
+  },
+  {
+    "id": "way-641668800",
+    "name": "Grădinița Pinocchio",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 46.5415527,
+    "lng": 23.8916768,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Câmpia Turzii",
+      "addr:housenumber": "10",
+      "addr:postcode": "405100",
+      "addr:street": "Strada Teilor",
+      "amenity": "kindergarten",
+      "name": "Grădinița Pinocchio"
+    }
+  },
+  {
+    "id": "way-642181827",
+    "name": "Școala Gimnazială Avram Iancu",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.5460294,
+    "lng": 23.8832801,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Câmpia Turzii",
+      "addr:housenumber": "8",
+      "addr:postcode": "405100",
+      "addr:street": "Strada Nouă",
+      "amenity": "school",
+      "name": "Școala Gimnazială Avram Iancu",
+      "operator:type": "public"
+    }
+  },
+  {
+    "id": "way-648482096",
+    "name": "Biserica Ortodoxă Nouă",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.5440536,
+    "lng": 23.8862321,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Câmpia Turzii",
+      "addr:housenumber": "9",
+      "addr:postcode": "405100",
+      "addr:street": "Piața Mihai Viteazu",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă Nouă",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-659740751",
+    "name": "Biserica Greco-Catolică Bunavestire",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.5460279,
+    "lng": 23.8873234,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "greek_catholic",
+      "name": "Biserica Greco-Catolică Bunavestire",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-677421004",
+    "name": "Școala Gimnazială Avram Iancu",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.558616,
+    "lng": 23.8008573,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Turda",
+      "addr:housenumber": "1",
+      "addr:street": "Strada Rapsodiei",
+      "amenity": "school",
+      "name": "Școala Gimnazială Avram Iancu",
+      "operator:type": "public",
+      "website": "http://avramiancuturda.ro/"
+    }
+  },
+  {
+    "id": "way-677675848",
+    "name": "Biserica Reformată",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.681562,
+    "lng": 23.7370442,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "reformed",
+      "name": "Biserica Reformată",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-677675864",
+    "name": "Școala generală Aiton",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.6820152,
+    "lng": 23.7343929,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school",
+      "building": "school",
+      "education": "school",
+      "name": "Școala generală Aiton",
+      "operator:type": "public"
+    }
+  },
+  {
+    "id": "way-677675869",
+    "name": "Biserica Greco-Catolică „Sfântul Nicolae”",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.6794863,
+    "lng": 23.7332616,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "greek_catholic",
+      "name": "Biserica Greco-Catolică „Sfântul Nicolae”",
+      "name:en": "Saint Nicholas Greek-Catholic Church",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-677682514",
+    "name": "Școala Gheorghe Barițiu",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.5765757,
+    "lng": 23.7706891,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Turda",
+      "addr:housenumber": "65",
+      "addr:street": "Strada Gheorghe Barițiu",
+      "amenity": "school",
+      "name": "Școala Gheorghe Barițiu",
+      "operator:type": "public"
+    }
+  },
+  {
+    "id": "way-684996607",
+    "name": "Creșa de cartier Nr. 5",
+    "type": "school",
+    "subcategory": "childcare",
+    "lat": 46.5578361,
+    "lng": 23.8035815,
+    "osmType": "way",
+    "tags": {
+      "amenity": "childcare",
+      "building": "yes",
+      "name": "Creșa de cartier Nr. 5",
+      "operator:type": "public"
+    }
+  },
+  {
+    "id": "way-686282460",
+    "name": "Biserica Reformată",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.5400044,
+    "lng": 23.7436284,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Mihai Viteazu",
+      "addr:housenumber": "928",
+      "addr:place": "Mihai Viteazu",
+      "addr:street": "Strada Reformată",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "reformed",
+      "name": "Biserica Reformată",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-689067557",
+    "name": "Biserica Sfânta Treime",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.580125,
+    "lng": 23.7811212,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Turda",
+      "addr:housenumber": "10",
+      "addr:street": "Strada Salinelor",
+      "alt_name": "Biserica Șovagăilor",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica Sfânta Treime",
+      "religion": "christian",
+      "wikipedia": "ro:Biserica Șovagăilor din Turda"
+    }
+  },
+  {
+    "id": "way-710426446",
+    "name": "Biserica Romano Catolică",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.5407062,
+    "lng": 23.8896732,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "check_date": "2024-12-30",
+      "denomination": "roman_catholic",
+      "name": "Biserica Romano Catolică",
+      "name:hu": "Jézus Szent Szíve-templom",
+      "religion": "christian",
+      "url:miserend": "https://miserend.hu/templom/3427"
+    }
+  },
+  {
+    "id": "way-721061037",
+    "name": "Biserica Sfântul Grigore Teologul",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.5632772,
+    "lng": 23.7847287,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "orthodox",
+      "name": "Biserica Sfântul Grigore Teologul",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-722805423",
+    "name": "Liceul Teoretic Jósika Miklós",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.5714434,
+    "lng": 23.7841248,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Turda",
+      "amenity": "school",
+      "name": "Liceul Teoretic Jósika Miklós",
+      "name:hu": "Jósika Miklós Elméleti Líceum"
+    }
+  },
+  {
+    "id": "way-743124673",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.5552336,
+    "lng": 23.8070642,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school"
+    }
+  },
+  {
+    "id": "way-759121338",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.5715987,
+    "lng": 23.7843388,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Turda",
+      "addr:housenumber": "4",
+      "addr:street": "Strada Bogdan Petriceicu Hașdeu",
+      "amenity": "school",
+      "building": "school"
+    }
+  },
+  {
+    "id": "way-763307844",
+    "name": "Biserica reformată-calvină",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.5799885,
+    "lng": 23.7729592,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "reformed",
+      "name": "Biserica reformată-calvină",
+      "name:hu": "Újtordai református templom",
+      "name:ro": "Biserica reformată-calvină",
+      "religion": "christian",
+      "wikipedia": "ro:Biserica reformată-calvină din Turda-Nouă"
+    }
+  },
+  {
+    "id": "way-763436116",
+    "name": "Biserica Adventistă Turda",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.5754459,
+    "lng": 23.7880073,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Turda",
+      "addr:housenumber": "38",
+      "addr:postcode": "401078",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Axente Sever",
+      "amenity": "place_of_worship",
+      "building": "detached",
+      "denomination": "seventh_day_adventist",
+      "name": "Biserica Adventistă Turda",
+      "name:hu": "Tordai Adventista Imaház",
+      "name:ro": "Biserica Adventistă Turda",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-763918892",
+    "name": "Școala gimnazială Luna",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.5068673,
+    "lng": 23.9178412,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school",
+      "building": "school",
+      "education": "school",
+      "name": "Școala gimnazială Luna"
+    }
+  },
+  {
+    "id": "way-764263378",
+    "name": "Biserica Maica Domnului",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.5576666,
+    "lng": 23.8054105,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "orthodox",
+      "name": "Biserica Maica Domnului",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-764505117",
+    "name": "Biserica Ortodoxă Înălțarea Domnului",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.5819007,
+    "lng": 23.7629919,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Turda",
+      "addr:housenumber": "29",
+      "addr:postcode": "401179",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Rândunicii",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă Înălțarea Domnului",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-829957102",
+    "name": "Biserica Unitariană Fortificată",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.5020659,
+    "lng": 23.6591059,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "unitarian",
+      "name": "Biserica Unitariană Fortificată",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-835432641",
+    "name": "Biserica Ortodoxă Turda Veche, a Răteștilor",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.5710921,
+    "lng": 23.7884212,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Turda",
+      "addr:housenumber": "19A",
+      "addr:postcode": "401077",
+      "addr:street": "Strada Gheorghe Lazăr",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "greek_catholic",
+      "email": "cocan.marius@yahoo.com",
+      "image": "https://photos.app.goo.gl/4fBT8FEVpdcZ3HU97",
+      "name": "Biserica Ortodoxă Turda Veche, a Răteștilor",
+      "phone": "0755033176",
+      "religion": "christian",
+      "wikipedia": "ro:Biserica Rățeștilor din Turda"
+    }
+  },
+  {
+    "id": "way-894491500",
+    "name": "Colegiul Tehnic Victor Ungureanu",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.5529053,
+    "lng": 23.8778666,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school",
+      "name": "Colegiul Tehnic Victor Ungureanu"
+    }
+  },
+  {
+    "id": "way-894492833",
+    "name": "Liceul Teoretic Pavel Dan",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.5439245,
+    "lng": 23.8746385,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school",
+      "name": "Liceul Teoretic Pavel Dan"
+    }
+  },
+  {
+    "id": "way-894849266",
+    "name": "Spitalul Municipal Dr Cornel Igna",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 46.546864,
+    "lng": 23.8824078,
+    "osmType": "way",
+    "tags": {
+      "amenity": "hospital",
+      "check_date": "2024-12-30",
+      "healthcare": "hospital",
+      "name": "Spitalul Municipal Dr Cornel Igna"
+    }
+  },
+  {
+    "id": "way-895151347",
+    "name": "Școala Gimnazială Ioan Opriș",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.5598258,
+    "lng": 23.8110634,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school",
+      "name": "Școala Gimnazială Ioan Opriș"
+    }
+  },
+  {
+    "id": "way-895177034",
+    "name": "Scoala Gimnaziala Teodor Murasanu",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.5711041,
+    "lng": 23.7817608,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school",
+      "name": "Scoala Gimnaziala Teodor Murasanu"
+    }
+  },
+  {
+    "id": "way-895180521",
+    "name": "Colegiul Emil Negrutiu",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.5806132,
+    "lng": 23.7861982,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school",
+      "name": "Colegiul Emil Negrutiu"
+    }
+  },
+  {
+    "id": "way-953642682",
+    "name": "Biserica Ortodoxă Sfinții Arhangheli Mihail și Gavril",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.683078,
+    "lng": 23.7394917,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica Ortodoxă Sfinții Arhangheli Mihail și Gavril",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-964084652",
+    "name": "Şcoala Gimnazială Viişoara",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.5555513,
+    "lng": 23.9072826,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school",
+      "education": "school",
+      "name": "Şcoala Gimnazială Viişoara"
+    }
+  },
+  {
+    "id": "way-964216657",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.5587175,
+    "lng": 23.9058832,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "romanian_orthodox",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-964256669",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.5562492,
+    "lng": 23.9047276,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-964264382",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.5610937,
+    "lng": 23.9073677,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "baptist",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-965537073",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.5592855,
+    "lng": 23.9056536,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school"
+    }
+  },
+  {
+    "id": "way-980862410",
+    "name": "Școala Gimnazială Mihai Viteazul",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.5370959,
+    "lng": 23.886794,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school",
+      "name": "Școala Gimnazială Mihai Viteazul"
+    }
+  },
+  {
+    "id": "way-984842130",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.5624495,
+    "lng": 23.7867185,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school"
+    }
+  },
+  {
+    "id": "way-988817814",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.5634498,
+    "lng": 23.7835987,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school"
+    }
+  },
+  {
+    "id": "way-1010088995",
+    "name": "Biserica Reformată",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.4838821,
+    "lng": 23.8556765,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "reformed",
+      "name": "Biserica Reformată",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1010089308",
+    "name": "Biserica Catolică",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.4828647,
+    "lng": 23.851321,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "roman_catholic",
+      "name": "Biserica Catolică",
+      "name:hu": "Szentháromság templom",
+      "religion": "christian",
+      "url:miserend": "https://miserend.hu/templom/3429"
+    }
+  },
+  {
+    "id": "way-1211663131",
+    "name": "Capela Sf Cruce",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.7211248,
+    "lng": 23.6264207,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "greek_catholic",
+      "name": "Capela Sf Cruce",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1245058446",
+    "name": "Biserica Greco-Catolică „Nașterea Maicii Domnului”",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.6817621,
+    "lng": 23.6953203,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "greek_catholic",
+      "name": "Biserica Greco-Catolică „Nașterea Maicii Domnului”",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1347369771",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.5552019,
+    "lng": 23.9050827,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "reformed",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1348047279",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.5541019,
+    "lng": 23.9098251,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "catholic",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1417693306",
+    "name": "Biserica Căptălan",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.4093852,
+    "lng": 23.9418308,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Biserica Căptălan",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "relation-11895969",
+    "name": "Liceul teoretic \"Pavel Dan\"",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.538994,
+    "lng": 23.8938485,
+    "osmType": "relation",
+    "tags": {
+      "amenity": "school",
+      "name": "Liceul teoretic \"Pavel Dan\"",
+      "type": "multipolygon"
+    }
+  }
+]

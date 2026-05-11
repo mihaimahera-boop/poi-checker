@@ -1,0 +1,684 @@
+[
+  {
+    "id": "node-1678293041",
+    "name": "Biserica Sf Vineri",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 43.751003,
+    "lng": 24.8678259,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Sf Vineri",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-1679603486",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 43.7557861,
+    "lng": 24.87067,
+    "osmType": "node",
+    "tags": {
+      "amenity": "school"
+    }
+  },
+  {
+    "id": "node-1679632325",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 43.7510177,
+    "lng": 24.8850448,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-1932324123",
+    "name": "Biserica Sfinții Trei Ierarhi Islaz",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 43.7203186,
+    "lng": 24.7661923,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Islaz",
+      "addr:housenumber": "362",
+      "addr:street": "Strada Popa Șapcă",
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Sfinții Trei Ierarhi Islaz",
+      "religion": "christian",
+      "wikidata": "Q97191429",
+      "wikipedia": "ro:Biserica „Sf. Trei Ierarhi” din Islaz"
+    }
+  },
+  {
+    "id": "node-1932324553",
+    "name": "Biserica Sf. Nicolae",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 43.7315405,
+    "lng": 24.7534425,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Sf. Nicolae",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-1933610278",
+    "name": "Biserica",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 43.7584383,
+    "lng": 24.9349878,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-1933881225",
+    "name": "Biserica",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 43.766858,
+    "lng": 25.0023205,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-3202384083",
+    "name": "Grupul Școlar Marin Preda",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 43.7489401,
+    "lng": 24.8734204,
+    "osmType": "node",
+    "tags": {
+      "amenity": "school",
+      "name": "Grupul Școlar Marin Preda",
+      "name:ro": "Grupul Școlar Marin Preda"
+    }
+  },
+  {
+    "id": "node-3202426406",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 43.7493179,
+    "lng": 24.8728437,
+    "osmType": "node",
+    "tags": {
+      "amenity": "kindergarten"
+    }
+  },
+  {
+    "id": "node-3202437764",
+    "name": "Policlinica",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 43.751701,
+    "lng": 24.8697029,
+    "osmType": "node",
+    "tags": {
+      "amenity": "hospital",
+      "name": "Policlinica"
+    }
+  },
+  {
+    "id": "node-3202501973",
+    "name": "Biserica Creștin Ortodoxă",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 43.7681389,
+    "lng": 24.844545,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Creștin Ortodoxă",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-3202501974",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 43.7663182,
+    "lng": 24.8500274,
+    "osmType": "node",
+    "tags": {
+      "amenity": "kindergarten"
+    }
+  },
+  {
+    "id": "node-3204186261",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 43.7527931,
+    "lng": 24.8822967,
+    "osmType": "node",
+    "tags": {
+      "amenity": "school"
+    }
+  },
+  {
+    "id": "node-3769278181",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 43.8389535,
+    "lng": 24.7691986,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-3778616113",
+    "name": "Biserică",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 43.7959822,
+    "lng": 24.8197944,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserică",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-5106780508",
+    "name": "Biserica Sf. Nicolae",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 43.8489279,
+    "lng": 24.7475626,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Pleașov",
+      "addr:street": "Strada Principală",
+      "amenity": "place_of_worship",
+      "name": "Biserica Sf. Nicolae",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-5106780509",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 43.8588626,
+    "lng": 24.7255228,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-5628940221",
+    "name": "Biserică",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 43.8838087,
+    "lng": 25.0183632,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserică",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-5650146916",
+    "name": "Școala generală nr. 1",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 43.7205577,
+    "lng": 24.7645791,
+    "osmType": "node",
+    "tags": {
+      "amenity": "school",
+      "education": "school",
+      "name": "Școala generală nr. 1"
+    }
+  },
+  {
+    "id": "node-6155428488",
+    "name": "Grădiniță",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 43.7203987,
+    "lng": 24.765163,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Islaz",
+      "amenity": "kindergarten",
+      "name": "Grădiniță"
+    }
+  },
+  {
+    "id": "node-7904356516",
+    "name": "Д-р Сюзан Арифова",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 43.6367033,
+    "lng": 24.8517366,
+    "osmType": "node",
+    "tags": {
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "name": "Д-р Сюзан Арифова"
+    }
+  },
+  {
+    "id": "node-8628418231",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet Betting & Gaming SA",
+    "lat": 43.748025,
+    "lng": 24.87066,
+    "osmType": "node",
+    "tags": {
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-12785621226",
+    "name": "Inbet",
+    "type": "betting",
+    "subcategory": "Inbet",
+    "lat": 43.7060604,
+    "lng": 24.8948252,
+    "osmType": "node",
+    "tags": {
+      "name": "Inbet",
+      "opening_hours": "Mo-Fr 08:00-23:00; Sa,Su 09:00-23:00",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "way-329068302",
+    "name": "Здравна Служба",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 43.6026,
+    "lng": 24.9967154,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Лозица",
+      "addr:postcode": "5954",
+      "addr:street": "Борис Ганев",
+      "amenity": "doctors",
+      "building": "yes",
+      "check_date:opening_hours": "2026-01-25",
+      "healthcare": "doctor",
+      "name": "Здравна Служба",
+      "opening_hours:signed": "no"
+    }
+  },
+  {
+    "id": "way-373743050",
+    "name": "Catedrala Sfântul Haralambie",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 43.7470713,
+    "lng": 24.8701943,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Catedrala Sfântul Haralambie",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-376837801",
+    "name": "Biserica Sfânta Vineri",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 43.7510364,
+    "lng": 24.8677951,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Biserica Sfânta Vineri",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-429080376",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "muslim",
+    "lat": 43.7031476,
+    "lng": 24.8992359,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "sunni",
+      "religion": "muslim"
+    }
+  },
+  {
+    "id": "way-429083104",
+    "name": "Св. Св. Кирил и Методи",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 43.6048093,
+    "lng": 25.0004891,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Лозица",
+      "amenity": "school",
+      "check_date": "2026-01-25",
+      "name": "Св. Св. Кирил и Методи",
+      "name:etymology:wikidata": "Q239925"
+    }
+  },
+  {
+    "id": "way-525028259",
+    "name": "Успение Пресвета Богородица",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 43.698346,
+    "lng": 24.8925906,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Успение Пресвета Богородица",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-534809844",
+    "name": "Școala Nr.4",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 43.758172,
+    "lng": 24.867427,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school",
+      "building": "school",
+      "building:levels": "3",
+      "name": "Școala Nr.4"
+    }
+  },
+  {
+    "id": "way-542138047",
+    "name": "Църква Свети Николай Чудотворец",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 43.6334703,
+    "lng": 24.8525371,
+    "osmType": "way",
+    "tags": {
+      "addr:street": "ул. Г. Димитров",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "check_date": "2025-12-21",
+      "denomination": "orthodox",
+      "name": "Църква Свети Николай Чудотворец",
+      "name:en": "Church of St. Nicholas the Wonderworker",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-837343850",
+    "name": "Здравна служба",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 43.6123061,
+    "lng": 24.9416456,
+    "osmType": "way",
+    "tags": {
+      "amenity": "doctors",
+      "building": "yes",
+      "healthcare": "doctor",
+      "name": "Здравна служба",
+      "opening_hours:signed": "no"
+    }
+  },
+  {
+    "id": "way-1153218171",
+    "name": "Gradinita Nr. 2 Islaz",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 43.7306611,
+    "lng": 24.753464,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Islaz",
+      "addr:street": "Strada Dunării",
+      "amenity": "kindergarten",
+      "education": "kindergarten",
+      "name": "Gradinita Nr. 2 Islaz"
+    }
+  },
+  {
+    "id": "way-1153218173",
+    "name": "Scoala Gimnaziala Nr. 2",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 43.7313456,
+    "lng": 24.7522142,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Islaz",
+      "addr:street": "Strada Dunării",
+      "amenity": "school",
+      "education": "school",
+      "name": "Scoala Gimnaziala Nr. 2"
+    }
+  },
+  {
+    "id": "way-1153221887",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 43.7205753,
+    "lng": 24.7646393,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school",
+      "education": "school"
+    }
+  },
+  {
+    "id": "way-1197233727",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 43.7582596,
+    "lng": 24.8743809,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "orthodox",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1221064134",
+    "name": "Biserica Putineiu",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 43.9013714,
+    "lng": 24.9626697,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Putineiu",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "name": "Biserica Putineiu",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1222724566",
+    "name": "Biserica Florica",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 43.8838259,
+    "lng": 25.0184301,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Florica",
+      "addr:street": "Strada Principală",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "name": "Biserica Florica",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1228233222",
+    "name": "Biserica Veche Moldoveni - Sfântul Ioan Botezătorul și Sfântul Nicolae",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 43.7743329,
+    "lng": 24.7271433,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Moldoveni",
+      "addr:housenumber": "87",
+      "addr:street": "Strada Șoseaua Islazului",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "name": "Biserica Veche Moldoveni - Sfântul Ioan Botezătorul și Sfântul Nicolae",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1274490867",
+    "name": "Liceul Tehnologic „Sfântul Haralambie”",
+    "type": "school",
+    "subcategory": "college",
+    "lat": 43.7474239,
+    "lng": 24.8712498,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Turnu Măgurele",
+      "addr:housenumber": "11",
+      "addr:postcode": "145200",
+      "addr:street": "Strada Oituz",
+      "amenity": "college",
+      "name": "Liceul Tehnologic „Sfântul Haralambie”",
+      "website": "http://lthara.weebly.com/"
+    }
+  },
+  {
+    "id": "way-1394099676",
+    "name": "Spitalul Municipal Turnu Măgurele",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 43.743527,
+    "lng": 24.8687797,
+    "osmType": "way",
+    "tags": {
+      "amenity": "hospital",
+      "healthcare": "hospital",
+      "name": "Spitalul Municipal Turnu Măgurele"
+    }
+  },
+  {
+    "id": "way-1394100516",
+    "name": "Colegiul Național Unirea",
+    "type": "school",
+    "subcategory": "college",
+    "lat": 43.744434,
+    "lng": 24.868437,
+    "osmType": "way",
+    "tags": {
+      "amenity": "college",
+      "name": "Colegiul Național Unirea"
+    }
+  },
+  {
+    "id": "way-1394101793",
+    "name": "Școala Gimnazială „Mircea cel Bătrân”",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 43.7517246,
+    "lng": 24.8713257,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school",
+      "name": "Școala Gimnazială „Mircea cel Bătrân”"
+    }
+  },
+  {
+    "id": "way-1394102205",
+    "name": "Grădinița cu program prelungit Nr.1",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 43.7522666,
+    "lng": 24.8713486,
+    "osmType": "way",
+    "tags": {
+      "amenity": "kindergarten",
+      "name": "Grădinița cu program prelungit Nr.1"
+    }
+  },
+  {
+    "id": "way-1435035671",
+    "name": "Св.Петър и Павел",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 43.7043606,
+    "lng": 24.8959485,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "description": "средновековна църква /XIIIв./",
+      "name": "Св.Петър и Павел",
+      "religion": "christian"
+    }
+  }
+]

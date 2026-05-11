@@ -7,8 +7,10 @@
     "lat": 43.8963109,
     "lng": 25.9548116,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "name": "Școala generală nr. 3"
+    }
   },
   {
     "id": "node-506967991",
@@ -18,8 +20,10 @@
     "lat": 43.8878397,
     "lng": 25.9677759,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "kindergarten",
+      "name": "Grădinița cu program normal Nr. 2"
+    }
   },
   {
     "id": "node-512788450",
@@ -29,8 +33,14 @@
     "lat": 43.89822,
     "lng": 25.9683241,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Giurgiu",
+      "addr:street": "Șoseaua București",
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Eroilor",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-1316063364",
@@ -40,8 +50,13 @@
     "lat": 43.91976,
     "lng": 25.97244,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Mănăstirea Sfântul Gheorghe",
+      "religion": "christian",
+      "source": "jonutzu@gpszone.ro"
+    }
   },
   {
     "id": "node-5128369321",
@@ -51,8 +66,11 @@
     "lat": 43.8724774,
     "lng": 25.9007025,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:street": "Drumul Mănăstirii",
+      "amenity": "place_of_worship",
+      "name": "Mănăstirea \" Sf. Ioan Rusu\""
+    }
   },
   {
     "id": "node-5586818876",
@@ -62,8 +80,16 @@
     "lat": 43.8591977,
     "lng": 25.9720966,
     "osmType": "node",
-    "brand": null,
-    "operator": "Частна профилирана гимназия \"Джордж Байрон\" - гр. Русе"
+    "tags": {
+      "addr:city": "Русе",
+      "addr:street": "Доростол",
+      "amenity": "school",
+      "name": "Русенската Частна Английска гимназия \"Джордж Байрон\"",
+      "name:en": "Private English School Ruse",
+      "name:ro": "Școala privată de limba engleză Ruse",
+      "operator": "Частна профилирана гимназия \"Джордж Байрон\" - гр. Русе",
+      "website": "http://www.lordbyronruse.eu.s3-website-us-east-1.amazonaws.com/"
+    }
   },
   {
     "id": "node-8259022917",
@@ -73,30 +99,60 @@
     "lat": 43.8943236,
     "lng": 25.9571133,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Giurgiu",
+      "addr:street": "Șoseaua Alexandriei",
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "name": "Policlinică",
+      "name:en": "Polyclinc"
+    }
   },
   {
     "id": "node-8628401599",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet",
     "lat": 43.8942516,
     "lng": 25.9629418,
     "osmType": "node",
-    "brand": "Superbet",
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-8628417695",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet",
     "lat": 43.9083666,
     "lng": 25.9718165,
     "osmType": "node",
-    "brand": "Superbet",
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-11951997252",
@@ -106,8 +162,26 @@
     "lat": 43.8914797,
     "lng": 25.9665861,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "clinic",
+      "health_facility:type": "office",
+      "healthcare": "clinic",
+      "name": "Synevo Analize Medicale",
+      "opening_hours": "Mo-Fr 07:00-15:00"
+    }
+  },
+  {
+    "id": "node-11953235620",
+    "name": "Princess",
+    "type": "gaming",
+    "subcategory": "Princess",
+    "lat": 43.8591752,
+    "lng": 26.0155175,
+    "osmType": "node",
+    "tags": {
+      "amenity": "casino",
+      "name": "Princess"
+    }
   },
   {
     "id": "node-12091976436",
@@ -117,8 +191,13 @@
     "lat": 43.8938921,
     "lng": 25.9695132,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "clinic",
+      "name": "Clinica Sante Analize Medicale",
+      "opening_hours": "Mo-Fr 07:00-15:00",
+      "phone": "0246213873",
+      "website": "https://www.clinica-sante.ro/"
+    }
   },
   {
     "id": "node-12091991911",
@@ -128,8 +207,10 @@
     "lat": 43.8944182,
     "lng": 25.9685616,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "clinic",
+      "name": "Centrul Medical Ema"
+    }
   },
   {
     "id": "node-12150067042",
@@ -139,8 +220,11 @@
     "lat": 43.9020072,
     "lng": 25.969978,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "doctors",
+      "description": "Medic de Familie ",
+      "name": "Dr. Tudor Olec"
+    }
   },
   {
     "id": "node-12150073283",
@@ -150,8 +234,13 @@
     "lat": 43.9046915,
     "lng": 25.9702813,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "doctors",
+      "description": "Medicina de Familie",
+      "name": "Dr. Ghițoiu Gherghina",
+      "opening_hours": "Mo, We, Fr 08:00-13:00; Tu, Th 12:30-17:30",
+      "phone": "+40 783 070 873"
+    }
   },
   {
     "id": "node-12150178145",
@@ -161,8 +250,24 @@
     "lat": 43.898799,
     "lng": 25.9723893,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "doctors",
+      "description": "Laborator Servicii medicale ",
+      "name": "IXIA Medica"
+    }
+  },
+  {
+    "id": "node-12213722182",
+    "name": "Bet Men",
+    "type": "betting",
+    "subcategory": "Bet Men",
+    "lat": 43.9087447,
+    "lng": 25.9710811,
+    "osmType": "node",
+    "tags": {
+      "name": "Bet Men",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-12238330334",
@@ -172,41 +277,430 @@
     "lat": 43.8996652,
     "lng": 25.9635065,
     "osmType": "node",
-    "brand": null,
-    "operator": "Medima Health SA"
+    "tags": {
+      "addr:city": "Giurgiu",
+      "addr:country": "RO",
+      "addr:housenumber": "5",
+      "addr:postcode": "080181",
+      "addr:street": "Bulevardul Mihai Viteazul",
+      "amenity": "clinic",
+      "email": "giurgiu@medima.ro",
+      "healthcare": "clinic",
+      "healthcare:speciality": "radiology",
+      "level": "1",
+      "name": "Medima",
+      "opening_hours": "Mo-Fr 08:00-21:00",
+      "operator": "Medima Health SA",
+      "phone": "+40 373 301 134",
+      "website": "https://medima.ro/servicii-si-preturi/giurgiu/medima-giurgiu"
+    }
   },
   {
     "id": "node-12770278030",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet",
     "lat": 43.9088817,
     "lng": 25.97186,
     "osmType": "node",
-    "brand": "Superbet",
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-13694085674",
+    "name": "Winner",
+    "type": "betting",
+    "subcategory": "Winner",
+    "lat": 43.8944616,
+    "lng": 25.9627754,
+    "osmType": "node",
+    "tags": {
+      "name": "Winner",
+      "operator": "Winner",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-13694085675",
+    "name": "Fortuna",
+    "type": "betting",
+    "subcategory": "Fortuna",
+    "lat": 43.8909474,
+    "lng": 25.9666457,
+    "osmType": "node",
+    "tags": {
+      "brand": "Fortuna",
+      "brand:wikidata": "Q12016781",
+      "name": "Fortuna",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-13694085676",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet",
     "lat": 43.8910069,
     "lng": 25.9666823,
     "osmType": "node",
-    "brand": "Superbet",
-    "operator": null
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "name": "Superbet",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-13694085677",
+    "name": "Sala de Jocuri",
+    "type": "gaming",
+    "subcategory": "Sala de Jocuri",
+    "lat": 43.891058,
+    "lng": 25.9667179,
+    "osmType": "node",
+    "tags": {
+      "leisure": "adult_gaming_centre",
+      "name": "Sala de Jocuri"
+    }
+  },
+  {
+    "id": "node-13694085678",
+    "name": "Winner",
+    "type": "betting",
+    "subcategory": "Winner",
+    "lat": 43.8911212,
+    "lng": 25.9667503,
+    "osmType": "node",
+    "tags": {
+      "name": "Winner",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-13694085679",
+    "name": "Lucky Seven",
+    "type": "gaming",
+    "subcategory": "Lucky Seven",
+    "lat": 43.8919906,
+    "lng": 25.967701,
+    "osmType": "node",
+    "tags": {
+      "leisure": "adult_gaming_centre",
+      "name": "Lucky Seven"
+    }
+  },
+  {
+    "id": "node-13694085680",
+    "name": "Fortuna",
+    "type": "betting",
+    "subcategory": "Fortuna",
+    "lat": 43.9025038,
+    "lng": 25.9784852,
+    "osmType": "node",
+    "tags": {
+      "brand": "Fortuna",
+      "brand:wikidata": "Q12016781",
+      "name": "Fortuna",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-13694085681",
+    "name": "Statia Cu Noroc",
+    "type": "gaming",
+    "subcategory": "Statia Cu Noroc",
+    "lat": 43.9038241,
+    "lng": 25.9785421,
+    "osmType": "node",
+    "tags": {
+      "leisure": "adult_gaming_centre",
+      "name": "Statia Cu Noroc"
+    }
+  },
+  {
+    "id": "node-13694085682",
+    "name": "Admiral",
+    "type": "gaming",
+    "subcategory": "Admiral",
+    "lat": 43.9065779,
+    "lng": 25.9800136,
+    "osmType": "node",
+    "tags": {
+      "brand": "Admiral",
+      "brand:wikidata": "Q25205850",
+      "gambling": "slot_machines",
+      "leisure": "adult_gaming_centre",
+      "name": "Admiral"
+    }
+  },
+  {
+    "id": "node-13694085683",
+    "name": "Tip & Cash",
+    "type": "betting",
+    "subcategory": "Tip & Cash",
+    "lat": 43.906597,
+    "lng": 25.9799464,
+    "osmType": "node",
+    "tags": {
+      "name": "Tip & Cash",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-13694085684",
+    "name": "Sala de Jocuri",
+    "type": "gaming",
+    "subcategory": "Sala de Jocuri",
+    "lat": 43.9077739,
+    "lng": 25.9763161,
+    "osmType": "node",
+    "tags": {
+      "leisure": "adult_gaming_centre",
+      "name": "Sala de Jocuri"
+    }
+  },
+  {
+    "id": "node-13694085685",
+    "name": "Pariuri Sportive",
+    "type": "betting",
+    "subcategory": "Pariuri Sportive",
+    "lat": 43.9079364,
+    "lng": 25.975481,
+    "osmType": "node",
+    "tags": {
+      "name": "Pariuri Sportive",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-13694085687",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet",
     "lat": 43.9079135,
     "lng": 25.9717214,
     "osmType": "node",
-    "brand": "Superbet",
-    "operator": null
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "name": "Superbet",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-13694085688",
+    "name": "Admiral",
+    "type": "gaming",
+    "subcategory": "Admiral",
+    "lat": 43.9081355,
+    "lng": 25.9727929,
+    "osmType": "node",
+    "tags": {
+      "brand": "Admiral",
+      "brand:wikidata": "Q25205850",
+      "gambling": "slot_machines",
+      "leisure": "adult_gaming_centre",
+      "name": "Admiral"
+    }
+  },
+  {
+    "id": "node-13694085689",
+    "name": "Fortuna",
+    "type": "betting",
+    "subcategory": "Fortuna",
+    "lat": 43.9081407,
+    "lng": 25.9750639,
+    "osmType": "node",
+    "tags": {
+      "brand": "Fortuna",
+      "brand:wikidata": "Q12016781",
+      "name": "Fortuna",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-13694085691",
+    "name": "Sala de Jocuri",
+    "type": "gaming",
+    "subcategory": "Sala de Jocuri",
+    "lat": 43.908919,
+    "lng": 25.9718653,
+    "osmType": "node",
+    "tags": {
+      "leisure": "adult_gaming_centre",
+      "name": "Sala de Jocuri"
+    }
+  },
+  {
+    "id": "node-13694085692",
+    "name": "Stanleybet",
+    "type": "betting",
+    "subcategory": "Stanleybet",
+    "lat": 43.909058,
+    "lng": 25.9719653,
+    "osmType": "node",
+    "tags": {
+      "brand": "Stanleybet",
+      "brand:wikidata": "Q25466489",
+      "name": "Stanleybet",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-13694085693",
+    "name": "Winner",
+    "type": "betting",
+    "subcategory": "Winner",
+    "lat": 43.9076492,
+    "lng": 25.9716775,
+    "osmType": "node",
+    "tags": {
+      "name": "Winner",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-13694085694",
+    "name": "Champion",
+    "type": "gaming",
+    "subcategory": "Champion",
+    "lat": 43.9057292,
+    "lng": 25.9706283,
+    "osmType": "node",
+    "tags": {
+      "leisure": "adult_gaming_centre",
+      "name": "Champion"
+    }
+  },
+  {
+    "id": "node-13694085695",
+    "name": "Fabulous Games",
+    "type": "gaming",
+    "subcategory": "Fabulous Games",
+    "lat": 43.9048761,
+    "lng": 25.9711086,
+    "osmType": "node",
+    "tags": {
+      "leisure": "adult_gaming_centre",
+      "name": "Fabulous Games"
+    }
+  },
+  {
+    "id": "node-13694085696",
+    "name": "Betco",
+    "type": "gaming",
+    "subcategory": "Betco",
+    "lat": 43.9048423,
+    "lng": 25.9710879,
+    "osmType": "node",
+    "tags": {
+      "leisure": "adult_gaming_centre",
+      "name": "Betco"
+    }
+  },
+  {
+    "id": "node-13694085697",
+    "name": "Fortuna",
+    "type": "betting",
+    "subcategory": "Fortuna",
+    "lat": 43.904812,
+    "lng": 25.9710692,
+    "osmType": "node",
+    "tags": {
+      "brand": "Fortuna",
+      "brand:wikidata": "Q12016781",
+      "name": "Fortuna",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-13694085698",
+    "name": "Winner",
+    "type": "betting",
+    "subcategory": "Winner",
+    "lat": 43.9033625,
+    "lng": 25.9697388,
+    "osmType": "node",
+    "tags": {
+      "name": "Winner",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-13694085699",
+    "name": "Stanleybet",
+    "type": "betting",
+    "subcategory": "Stanleybet",
+    "lat": 43.9031349,
+    "lng": 25.9696695,
+    "osmType": "node",
+    "tags": {
+      "brand": "Stanleybet",
+      "brand:wikidata": "Q25466489",
+      "name": "Stanleybet",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-13694085700",
+    "name": "Las Vegas",
+    "type": "gaming",
+    "subcategory": "Las Vegas",
+    "lat": 43.901699,
+    "lng": 25.9692366,
+    "osmType": "node",
+    "tags": {
+      "leisure": "adult_gaming_centre",
+      "name": "Las Vegas"
+    }
+  },
+  {
+    "id": "node-13694130701",
+    "name": "Lucky Bet",
+    "type": "gaming",
+    "subcategory": "Lucky Bet",
+    "lat": 43.9005664,
+    "lng": 25.9696302,
+    "osmType": "node",
+    "tags": {
+      "leisure": "adult_gaming_centre",
+      "name": "Lucky Bet"
+    }
+  },
+  {
+    "id": "node-13742016611",
+    "name": "Fortuna",
+    "type": "betting",
+    "subcategory": "Fortuna",
+    "lat": 43.8984867,
+    "lng": 25.9647915,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Giurgiu",
+      "addr:country": "RO",
+      "addr:housenumber": "57A",
+      "addr:postcode": "080044",
+      "addr:street": "Bulevardul București",
+      "brand": "Fortuna",
+      "brand:wikidata": "Q12016781",
+      "level": "1",
+      "name": "Fortuna",
+      "opening_hours": "Mo-Su 10:00-20:00",
+      "shop": "bookmaker",
+      "wheelchair": "yes"
+    }
   },
   {
     "id": "way-88735349",
@@ -216,8 +710,11 @@
     "lat": 43.8925776,
     "lng": 25.9667635,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "college",
+      "name": "Colegiul Național Ion Maiorescu",
+      "operator:type": "public"
+    }
   },
   {
     "id": "way-295981772",
@@ -227,8 +724,15 @@
     "lat": 43.8583507,
     "lng": 25.9612738,
     "osmType": "way",
-    "brand": null,
-    "operator": "МЗ-УМБАЛ \"Канев\" АД"
+    "tags": {
+      "addr:city": "Русе",
+      "amenity": "hospital",
+      "emergency": "yes",
+      "healthcare:speciality": "general",
+      "name": "УМБАЛ \"Канев\" - Русе",
+      "operator": "МЗ-УМБАЛ \"Канев\" АД",
+      "wheelchair": "yes"
+    }
   },
   {
     "id": "way-427068431",
@@ -238,8 +742,16 @@
     "lat": 43.9051483,
     "lng": 25.977956,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Giurgiu",
+      "addr:housenumber": "83",
+      "addr:postcode": "080461",
+      "addr:street": "Strada 1 Decembrie 1918",
+      "amenity": "school",
+      "building": "yes",
+      "name": "Școala Gimnazială Specială Nr. 1 Giurgiu",
+      "wheelchair": "designated"
+    }
   },
   {
     "id": "way-550944499",
@@ -249,8 +761,13 @@
     "lat": 43.8650929,
     "lng": 25.9880241,
     "osmType": "way",
-    "brand": null,
-    "operator": "Център за психично здраве - Русе - ЕООД"
+    "tags": {
+      "amenity": "hospital",
+      "description": "Областен диспансер за психични заболявания-Русе",
+      "healthcare": "hospital",
+      "name": "Регионален психодиспансер",
+      "operator": "Център за психично здраве - Русе - ЕООД"
+    }
   },
   {
     "id": "way-582483047",
@@ -260,8 +777,23 @@
     "lat": 43.8851126,
     "lng": 25.9619461,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Giurgiu",
+      "addr:housenumber": "38",
+      "addr:street": "Strada Mircea cel Bătrân",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "heritage": "2",
+      "heritage:operator": "lmi",
+      "image": "https://photos.app.goo.gl/V1dp2YQErmsqeteR6",
+      "name": "Biserica Sfântul Nicolae",
+      "ref:RO:lmi": "GR-II-m-B-14890",
+      "religion": "christian",
+      "start_date": "1830",
+      "wikidata": "Q42914561",
+      "wikipedia": "ro:Biserica Sfântul Nicolae din Giurgiu"
+    }
   },
   {
     "id": "way-584619064",
@@ -271,8 +803,10 @@
     "lat": 43.8595165,
     "lng": 25.9722962,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "name": "ОУ \"Братя Миладинови\""
+    }
   },
   {
     "id": "way-986969680",
@@ -282,8 +816,19 @@
     "lat": 43.8879751,
     "lng": 25.9659976,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "catholic",
+      "heritage": "2",
+      "heritage:operator": "lmi",
+      "historic": "yes",
+      "name": "Biserica romano-catolică din Giurgiu",
+      "ref:RO:lmi": "GR-II-m-B-14861",
+      "religion": "christian",
+      "wikidata": "Q21501699",
+      "wikipedia": "ro:Biserica romano-catolică din Giurgiu"
+    }
   },
   {
     "id": "way-1034269144",
@@ -293,8 +838,21 @@
     "lat": 43.8916968,
     "lng": 25.9660984,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "heritage": "2",
+      "heritage:operator": "lmi",
+      "image": "https://photos.app.goo.gl/BaBeDLDe5UsaaGCS6",
+      "name": "Catedrala Adormirea Maicii Domnului",
+      "name:en": "Dormition of the Theotokos Cathedral",
+      "ref:RO:lmi": "GR-II-m-B-14864",
+      "religion": "christian",
+      "wheelchair": "yes",
+      "wikidata": "Q5298086",
+      "wikipedia": "ro:Catedrala Adormirea Maicii Domnului din Giurgiu"
+    }
   },
   {
     "id": "way-1115144215",
@@ -304,8 +862,14 @@
     "lat": 43.8631069,
     "lng": 25.9891713,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Русе",
+      "addr:housenumber": "41",
+      "addr:postcode": "7003",
+      "addr:street": "Искър",
+      "amenity": "kindergarten",
+      "name": "СДГ „Ралица“"
+    }
   },
   {
     "id": "way-1116503217",
@@ -315,8 +879,23 @@
     "lat": 43.8948318,
     "lng": 25.9693144,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Giurgiu",
+      "addr:housenumber": "17",
+      "addr:postcode": "080115",
+      "addr:street": "Bulevardul Independenței",
+      "amenity": "place_of_worship",
+      "building": "kingdom_hall",
+      "denomination": "jehovahs_witness",
+      "name": "Sala Regatului a Martorilor lui Iehova",
+      "name:en": "Kingdom Hall of Jehovah's Witnesses",
+      "name:ro": "Sala Regatului a Martorilor lui Iehova",
+      "opening_hours": "Tu 18:00-20:00; Su 10:00-12:00",
+      "religion": "christian",
+      "start_date": "2004",
+      "website": "https://www.jw.org/ro/",
+      "wheelchair": "yes"
+    }
   },
   {
     "id": "way-1305574017",
@@ -326,8 +905,11 @@
     "lat": 43.8934972,
     "lng": 25.9684473,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "check_date": "2024-05-17",
+      "name": "Școala generală nr. 4 Mihai Eminescu"
+    }
   },
   {
     "id": "way-1306175937",
@@ -337,8 +919,9 @@
     "lat": 43.8607606,
     "lng": 25.9800501,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "kindergarten"
+    }
   },
   {
     "id": "way-1364822478",
@@ -348,8 +931,13 @@
     "lat": 43.8851933,
     "lng": 25.9476485,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica Sf. Haralambie",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1365790098",
@@ -359,8 +947,15 @@
     "lat": 43.8889501,
     "lng": 25.9635677,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "greek_orthodox",
+      "image": "https://photos.app.goo.gl/RB5NGuRDreRYYJBC7",
+      "name": "Biserica Buna Vestire (Grecească)",
+      "religion": "christian",
+      "wheelchair": "limited"
+    }
   },
   {
     "id": "way-1365793939",
@@ -370,8 +965,14 @@
     "lat": 43.8935056,
     "lng": 25.977033,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica Ortodoxă Sfânta Treime (Smârda)",
+      "religion": "christian",
+      "wheelchair": "limited"
+    }
   },
   {
     "id": "way-1366071719",
@@ -381,8 +982,19 @@
     "lat": 43.9129311,
     "lng": 25.9505932,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "building:architecture": "neo-byzantine",
+      "building:use": "religious",
+      "denomination": "orthodox",
+      "name": "Biserica Sf. Gheorghe",
+      "religion": "christian",
+      "roof:colour": "grey",
+      "roof:material": "metal",
+      "roof:shape": "dome",
+      "wheelchair": "limited"
+    }
   },
   {
     "id": "way-1367121209",
@@ -392,8 +1004,11 @@
     "lat": 43.8914066,
     "lng": 25.9659695,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "chapel",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1367945466",
@@ -403,8 +1018,12 @@
     "lat": 43.9039949,
     "lng": 25.968357,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "name": "Școala Generală cu clasele I-VIII Nr. 8 ,,Academician Marin Voiculescu\"",
+      "operator:type": "public",
+      "wheelchair": "yes"
+    }
   },
   {
     "id": "way-1370269320",
@@ -414,8 +1033,18 @@
     "lat": 43.891682,
     "lng": 25.9605476,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Giurgiu",
+      "addr:housenumber": "26",
+      "addr:street": "Strada Gheorghe Doja",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "seventh_day_adventist",
+      "name": "Biserica Adventistă De Ziua A Șaptea ,, Speranța\"",
+      "opening_hours": "Sa 09:00-13:00,17:00-19:00; Fr 19:00-21:00",
+      "religion": "christian",
+      "wheelchair": "limited"
+    }
   },
   {
     "id": "way-1370269331",
@@ -425,8 +1054,18 @@
     "lat": 43.8921926,
     "lng": 25.9609017,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Giurgiu",
+      "addr:housenumber": "35",
+      "addr:street": "Strada Victoriei",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "evangelical",
+      "name": "Biserica Creștină după Evanghelie ,,Betel\"",
+      "opening_hours": "Th,Su 08:00-18:00",
+      "religion": "christian",
+      "wheelchair": "limited"
+    }
   },
   {
     "id": "way-1370794483",
@@ -436,8 +1075,15 @@
     "lat": 43.8897036,
     "lng": 25.959247,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Giurgiu",
+      "addr:housenumber": "2",
+      "addr:street": "Strada Tudor Vianu",
+      "amenity": "school",
+      "name": "Scoala Gimnazială Nr. 1 ,,Sfantul Gheorghe\"",
+      "operator:type": "public",
+      "wheelchair": "limited"
+    }
   },
   {
     "id": "way-1370817363",
@@ -447,8 +1093,13 @@
     "lat": 43.8892632,
     "lng": 25.95904,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "name": "Biserica Sfântul Gheorghe",
+      "religion": "christian",
+      "wheelchair": "limited"
+    }
   },
   {
     "id": "way-1374689345",
@@ -458,8 +1109,13 @@
     "lat": 43.8943475,
     "lng": 25.9570071,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "clinic",
+      "building": "yes",
+      "healthcare": "clinic",
+      "height": "9",
+      "name": "Policlinică"
+    }
   },
   {
     "id": "way-1375063395",
@@ -469,8 +1125,12 @@
     "lat": 43.8962134,
     "lng": 25.9547309,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Giurgiu",
+      "amenity": "school",
+      "building": "yes",
+      "name": "Școala generală nr. 3"
+    }
   },
   {
     "id": "way-1375931210",
@@ -480,8 +1140,14 @@
     "lat": 43.8974353,
     "lng": 25.9680985,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica de lemn a spitalului",
+      "religion": "christian",
+      "wheelchair": "limited"
+    }
   },
   {
     "id": "way-1379027695",
@@ -491,8 +1157,14 @@
     "lat": 43.908777,
     "lng": 25.9757035,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:housenumber": "24",
+      "addr:street": "Strada Tineretului",
+      "amenity": "school",
+      "name": "Școala Gimnazială Nr. 10",
+      "operator:type": "public",
+      "wheelchair": "limited"
+    }
   },
   {
     "id": "way-1379104462",
@@ -502,8 +1174,20 @@
     "lat": 43.9098933,
     "lng": 25.9731751,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Giurgiu",
+      "addr:housenumber": "15 A",
+      "addr:street": "Strada Tineretului",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "romanian_orthodox",
+      "email": "sfintiibrancoveni@gmail.com",
+      "name": "Biserica Sfinții Martiri Brâncoveni",
+      "phone": "+40 723 791 031",
+      "religion": "christian",
+      "website": "https://www.sfintiibrancoveni.ro",
+      "wheelchair": "limited"
+    }
   },
   {
     "id": "way-1379351692",
@@ -513,8 +1197,18 @@
     "lat": 43.9051618,
     "lng": 25.9786671,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Giurgiu",
+      "addr:housenumber": "81",
+      "addr:postcode": "080461",
+      "addr:street": "Strada 1 Decembrie 1918",
+      "amenity": "school",
+      "building": "yes",
+      "email": "savinpopescu6@yahoo.com",
+      "name": "Școala Gimnazială Nr. 6 „Savin Popescu“",
+      "phone": "+40 246 230 933",
+      "wheelchair": "limited"
+    }
   },
   {
     "id": "way-1379351718",
@@ -524,8 +1218,21 @@
     "lat": 43.9057579,
     "lng": 25.9788959,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Giurgiu",
+      "addr:housenumber": "83",
+      "addr:postcode": "080461",
+      "addr:street": "Strada 1 Decembrie 1918",
+      "amenity": "school",
+      "building": "yes",
+      "email": "liceul_ionbarbu@yahoo.com",
+      "name": "Liceul Tehnologic „Ion Barbu“",
+      "operator:type": "public",
+      "phone": "+40 246 221 193",
+      "school:gender": "mixed",
+      "website": "https://liceulionbarbugiurgiu.ro",
+      "wheelchair": "limited"
+    }
   },
   {
     "id": "way-1380224467",
@@ -535,8 +1242,10 @@
     "lat": 43.9072116,
     "lng": 25.9794659,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "kindergarten",
+      "name": "Grădinița program prelungit Nr. 3"
+    }
   },
   {
     "id": "way-1381589888",
@@ -546,8 +1255,10 @@
     "lat": 43.9068587,
     "lng": 25.972741,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "name": "Școala Gimnazială Nr. 5 cu clasele I-VIII Emil Gulian"
+    }
   },
   {
     "id": "way-1381589893",
@@ -557,8 +1268,10 @@
     "lat": 43.90664,
     "lng": 25.9748514,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "kindergarten",
+      "name": "Grădinița cu pr. prelungit \"Căsuța Fermecată\""
+    }
   },
   {
     "id": "way-1382282921",
@@ -568,8 +1281,17 @@
     "lat": 43.8884802,
     "lng": 25.9678555,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Giurgiu",
+      "addr:housenumber": "21",
+      "addr:postcode": "080461",
+      "addr:street": "Strada Episcopiei",
+      "amenity": "school",
+      "email": "scoalagenerala7@yahoo.com",
+      "name": "Şcoala Gimnazială Nr. 7",
+      "operator:type": "public",
+      "phone": "+40 246 214 920"
+    }
   },
   {
     "id": "way-1386882612",
@@ -579,8 +1301,11 @@
     "lat": 43.8912899,
     "lng": 25.9568093,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "name": "Liceul Teoretic ,,Tudor Vianu\"",
+      "operator:type": "public"
+    }
   },
   {
     "id": "way-1388099845",
@@ -590,8 +1315,13 @@
     "lat": 43.8871949,
     "lng": 25.9618635,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Giurgiu",
+      "addr:housenumber": "3",
+      "addr:street": "Strada Libertății",
+      "amenity": "kindergarten",
+      "name": "Grădinița cu program prelungit ,,Prichindeii\""
+    }
   },
   {
     "id": "way-1389431730",
@@ -601,8 +1331,10 @@
     "lat": 43.8875083,
     "lng": 25.9576544,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "name": "Școala Gimnazială Nr. 2 ,,Mircea cel Bătrân\""
+    }
   },
   {
     "id": "way-1389431731",
@@ -612,8 +1344,13 @@
     "lat": 43.8867007,
     "lng": 25.957928,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Giurgiu",
+      "addr:housenumber": "39",
+      "addr:street": "Strada Nicolae Iorga",
+      "amenity": "kindergarten",
+      "name": "Grădinița cu program normal Nr. 7"
+    }
   },
   {
     "id": "way-1391681048",
@@ -623,8 +1360,13 @@
     "lat": 43.9222471,
     "lng": 25.9185745,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Bălanu",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "name": "Biserica Sfânta Cuvioasă Parascheva Bălanu",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1394899337",
@@ -634,8 +1376,11 @@
     "lat": 43.888132,
     "lng": 25.9638751,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "name": "Școala de muzică și arte plastice „Victor Karpis”",
+      "wheelchair": "limited"
+    }
   },
   {
     "id": "way-1396211700",
@@ -645,8 +1390,17 @@
     "lat": 43.8953605,
     "lng": 25.9591118,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Giurgiu",
+      "addr:housenumber": "126",
+      "addr:street": "Strada Gării",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica Sf. Andrei",
+      "religion": "christian",
+      "wheelchair": "limited"
+    }
   },
   {
     "id": "way-1410164988",
@@ -656,8 +1410,11 @@
     "lat": 43.8917015,
     "lng": 25.9696376,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "kindergarten",
+      "name": "Grădinița cu program Prelungit „Scufița Roşie“",
+      "wheelchair": "yes"
+    }
   },
   {
     "id": "way-1411450740",
@@ -667,8 +1424,15 @@
     "lat": 43.8978063,
     "lng": 25.9686889,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Giurgiu",
+      "addr:housenumber": "16",
+      "addr:street": "Bulevardul București",
+      "amenity": "hospital",
+      "emergency": "yes",
+      "healthcare": "hospital",
+      "name": "Spitalul Județean de Urgență Giurgiu"
+    }
   },
   {
     "id": "way-1423237904",
@@ -678,8 +1442,13 @@
     "lat": 43.9194363,
     "lng": 25.971929,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "cathedral",
+      "denomination": "romanian_orthodox",
+      "name": "Noua Catedrală Episcopală „Sfântul Mare Mucenic Gheorghe”",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1423477500",
@@ -689,8 +1458,14 @@
     "lat": 43.9359244,
     "lng": 25.9766602,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Remuș",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica Sfântul Pantelimon",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1424101609",
@@ -700,8 +1475,13 @@
     "lat": 43.9122317,
     "lng": 25.9770543,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Schitul „Sfântul Ierarh Nicolae”",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1451844202",
@@ -711,8 +1491,13 @@
     "lat": 43.8897024,
     "lng": 25.9669712,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Giurgiu",
+      "addr:housenumber": "4",
+      "addr:street": "Strada Nicolae Bălănescu",
+      "amenity": "kindergarten",
+      "name": "Grădinița Albă ca Zăpada"
+    }
   },
   {
     "id": "way-1500798133",
@@ -722,7 +1507,10 @@
     "lat": 43.8980326,
     "lng": 25.9916107,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "religion": "christian"
+    }
   }
 ]

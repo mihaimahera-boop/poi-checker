@@ -10,7 +10,7 @@ const OVERPASS_URLS = [
 const NOMINATIM_URL = "https://nominatim.openstreetmap.org/search";
 
 // MODIFICI DOAR ORAȘUL AICI
-const CITY_NAME = "Băicoi";
+const CITY_NAME = "Sighetu Marmației";
 
 function slugify(value = "") {
   return value
@@ -22,38 +22,52 @@ function slugify(value = "") {
     .replace(/^-+|-+$/g, "");
 }
 
-const OUTPUT_FILE = path.join(
-  __dirname,
-  "data",
-  `poi-${slugify(CITY_NAME)}.json`
-);
+const OUTPUT_FILE = path.join(__dirname, "data", `poi-${slugify(CITY_NAME)}.json`);
 
 function ensureDataFolder() {
   const dataDir = path.join(__dirname, "data");
-
   if (!fs.existsSync(dataDir)) {
     fs.mkdirSync(dataDir, { recursive: true });
   }
 }
 
-function normalizeType(tags = {}) {
-  const amenity = tags.amenity;
-  const healthcare = tags.healthcare;
-  const brand = (tags.brand || "").toLowerCase();
-  const name = (tags.name || "").toLowerCase();
-  const operator = (tags.operator || "").toLowerCase();
+function textIncludesAny(text, words) {
+  const value = String(text || "").toLowerCase();
+  return words.some((word) => value.includes(word));
+}
 
-  // SUPERBET
-  if (
-    brand.includes("superbet") ||
-    name.includes("superbet") ||
-    operator.includes("superbet")
-  ) {
-    return {
-      type: "superbet",
-      subcategory: "betting"
-    };
-  }
+function normalizeType(tags = {}) {
+  const amenity = String(tags.amenity || "").toLowerCase();
+  const healthcare = String(tags.healthcare || "").toLowerCase();
+  const shop = String(tags.shop || "").toLowerCase();
+  const office = String(tags.office || "").toLowerCase();
+  const leisure = String(tags.leisure || "").toLowerCase();
+
+  const name = String(tags.name || "").toLowerCase();
+  const brand = String(tags.brand || "").toLowerCase();
+  const operator = String(tags.operator || "").toLowerCase();
+
+  const allText = `${name} ${brand} ${operator}`;
+
+  const bettingBrands = [
+    "superbet",
+    "fortuna",
+    "casa pariurilor",
+    "stanleybet",
+    "get's bet",
+    "gets bet",
+    "getsbet"
+  ];
+
+  const gamingBrands = [
+    "maxbet",
+    "magic",
+    "million",
+    "bonus",
+    "winbet",
+    "winboss",
+    "magnum"
+  ];
 
   if (["school", "kindergarten", "college", "university", "childcare"].includes(amenity)) {
     return {
@@ -76,6 +90,30 @@ function normalizeType(tags = {}) {
     return {
       type: "medical",
       subcategory: amenity || healthcare
+    };
+  }
+
+  if (
+    textIncludesAny(allText, gamingBrands) ||
+    amenity === "casino" ||
+    leisure === "adult_gaming_centre" ||
+    leisure === "amusement_arcade"
+  ) {
+    return {
+      type: "gaming",
+      subcategory: tags.brand || tags.operator || tags.name || amenity || leisure || "gaming"
+    };
+  }
+
+  if (
+    textIncludesAny(allText, bettingBrands) ||
+    amenity === "gambling" ||
+    shop === "bookmaker" ||
+    office === "bookmaker"
+  ) {
+    return {
+      type: "betting",
+      subcategory: tags.brand || tags.operator || tags.name || amenity || shop || "betting"
     };
   }
 
@@ -125,7 +163,6 @@ async function getCityBbox(cityName) {
   }
 
   const [south, north, west, east] = data[0].boundingbox;
-
   return `${south},${west},${north},${east}`;
 }
 
@@ -149,17 +186,33 @@ function buildQuery(bbox) {
   way["healthcare"~"hospital|clinic|doctor"](${bbox});
   relation["healthcare"~"hospital|clinic|doctor"](${bbox});
 
-  node["brand"~"^Superbet$", i](${bbox});
-  way["brand"~"^Superbet$", i](${bbox});
-  relation["brand"~"^Superbet$", i](${bbox});
+  node["amenity"~"gambling|casino"](${bbox});
+  way["amenity"~"gambling|casino"](${bbox});
+  relation["amenity"~"gambling|casino"](${bbox});
 
-  node["name"~"Superbet", i](${bbox});
-  way["name"~"Superbet", i](${bbox});
-  relation["name"~"Superbet", i](${bbox});
+  node["shop"="bookmaker"](${bbox});
+  way["shop"="bookmaker"](${bbox});
+  relation["shop"="bookmaker"](${bbox});
 
-  node["operator"~"Superbet", i](${bbox});
-  way["operator"~"Superbet", i](${bbox});
-  relation["operator"~"Superbet", i](${bbox});
+  node["office"="bookmaker"](${bbox});
+  way["office"="bookmaker"](${bbox});
+  relation["office"="bookmaker"](${bbox});
+
+  node["leisure"~"adult_gaming_centre|amusement_arcade"](${bbox});
+  way["leisure"~"adult_gaming_centre|amusement_arcade"](${bbox});
+  relation["leisure"~"adult_gaming_centre|amusement_arcade"](${bbox});
+
+  node["name"~"Superbet|Fortuna|Casa Pariurilor|Stanleybet|Get'?s Bet|Maxbet|Magic|Million|Bonus|Winbet|Winboss|Magnum",i](${bbox});
+  way["name"~"Superbet|Fortuna|Casa Pariurilor|Stanleybet|Get'?s Bet|Maxbet|Magic|Million|Bonus|Winbet|Winboss|Magnum",i](${bbox});
+  relation["name"~"Superbet|Fortuna|Casa Pariurilor|Stanleybet|Get'?s Bet|Maxbet|Magic|Million|Bonus|Winbet|Winboss|Magnum",i](${bbox});
+
+  node["brand"~"Superbet|Fortuna|Casa Pariurilor|Stanleybet|Get'?s Bet|Maxbet|Magic|Million|Bonus|Winbet|Winboss|Magnum",i](${bbox});
+  way["brand"~"Superbet|Fortuna|Casa Pariurilor|Stanleybet|Get'?s Bet|Maxbet|Magic|Million|Bonus|Winbet|Winboss|Magnum",i](${bbox});
+  relation["brand"~"Superbet|Fortuna|Casa Pariurilor|Stanleybet|Get'?s Bet|Maxbet|Magic|Million|Bonus|Winbet|Winboss|Magnum",i](${bbox});
+
+  node["operator"~"Superbet|Fortuna|Casa Pariurilor|Stanleybet|Get'?s Bet|Maxbet|Magic|Million|Bonus|Winbet|Winboss|Magnum",i](${bbox});
+  way["operator"~"Superbet|Fortuna|Casa Pariurilor|Stanleybet|Get'?s Bet|Maxbet|Magic|Million|Bonus|Winbet|Winboss|Magnum",i](${bbox});
+  relation["operator"~"Superbet|Fortuna|Casa Pariurilor|Stanleybet|Get'?s Bet|Maxbet|Magic|Million|Bonus|Winbet|Winboss|Magnum",i](${bbox});
 );
 out center tags;
 `;
@@ -223,14 +276,13 @@ async function fetchPOI() {
 
     pois.push({
       id: `${element.type}-${element.id}`,
-      name: tags.name || tags.brand || "Fără nume",
+      name: tags.name || tags.brand || tags.operator || "Fără nume",
       type: typeData.type,
       subcategory: typeData.subcategory,
       lat: center.lat,
       lng: center.lng,
       osmType: element.type,
-      brand: tags.brand || null,
-      operator: tags.operator || null
+      tags
     });
   }
 
@@ -248,19 +300,15 @@ async function fetchPOI() {
 
   fs.writeFileSync(OUTPUT_FILE, JSON.stringify(unique, null, 2), "utf8");
 
-  const schools = unique.filter((p) => p.type === "school").length;
-  const churches = unique.filter((p) => p.type === "church").length;
-  const medical = unique.filter((p) => p.type === "medical").length;
-  const superbet = unique.filter((p) => p.type === "superbet").length;
-
   console.log("");
   console.log("=== GATA ===");
   console.log(`Oraș: ${CITY_NAME}`);
   console.log(`Total POI: ${unique.length}`);
-  console.log(`Școli / creșe / grădinițe: ${schools}`);
-  console.log(`Biserici: ${churches}`);
-  console.log(`Medical: ${medical}`);
-  console.log(`Superbet: ${superbet}`);
+  console.log(`Școli / creșe / grădinițe: ${unique.filter((p) => p.type === "school").length}`);
+  console.log(`Biserici: ${unique.filter((p) => p.type === "church").length}`);
+  console.log(`Medical: ${unique.filter((p) => p.type === "medical").length}`);
+  console.log(`Pariuri: ${unique.filter((p) => p.type === "betting").length}`);
+  console.log(`Gaming / Casino: ${unique.filter((p) => p.type === "gaming").length}`);
   console.log(`Fișier: ${OUTPUT_FILE}`);
 }
 

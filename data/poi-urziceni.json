@@ -1,247 +1,510 @@
-{
-  "city": "Urziceni",
-  "generated_at": "2026-04-23T10:23:01.849Z",
-  "counts": {
-    "total": 16,
-    "schools": 10,
-    "churches": 6
-  },
-  "pois": [
-    {
-      "id": "way/149836874",
-      "osm_id": 149836874,
-      "osm_type": "way",
-      "name": "Școala Generală nr.1 Alexandru Odobescu",
-      "category": "education",
-      "lat": 44.7129917,
-      "lon": 26.6416794,
-      "tags": {
-        "addr:housename": "Școala Generală nr.1 Alexandru Odobescu",
-        "addr:housenumber": "8",
-        "addr:postcode": "925300",
-        "addr:street": "Strada Aurora",
-        "amenity": "school",
-        "building": "yes",
-        "name": "Școala Generală nr.1 Alexandru Odobescu"
-      }
-    },
-    {
-      "id": "way/1286047153",
-      "osm_id": 1286047153,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 44.7243967,
-      "lon": 26.6390604,
-      "tags": {
-        "building": "school"
-      }
-    },
-    {
-      "id": "way/1286047154",
-      "osm_id": 1286047154,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 44.7245352,
-      "lon": 26.6387316,
-      "tags": {
-        "building": "school"
-      }
-    },
-    {
-      "id": "way/1286047155",
-      "osm_id": 1286047155,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 44.7246567,
-      "lon": 26.6384756,
-      "tags": {
-        "building": "school"
-      }
-    },
-    {
-      "id": "way/1286047156",
-      "osm_id": 1286047156,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 44.7248445,
-      "lon": 26.6393733,
-      "tags": {
-        "building": "school"
-      }
-    },
-    {
-      "id": "way/1286047157",
-      "osm_id": 1286047157,
-      "osm_type": "way",
-      "name": "Liceul Tehnologic Urziceni",
-      "category": "education",
-      "lat": 44.7245542,
-      "lon": 26.638917,
-      "tags": {
-        "addr:city": "Urziceni",
-        "addr:housenumber": "16",
-        "addr:street": "Strada Petroliștilor",
-        "amenity": "school",
-        "name": "Liceul Tehnologic Urziceni"
-      }
-    },
-    {
-      "id": "way/1286055519",
-      "osm_id": 1286055519,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 44.7153646,
-      "lon": 26.640683,
-      "tags": {
-        "amenity": "school"
-      }
-    },
-    {
-      "id": "way/1286055520",
-      "osm_id": 1286055520,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 44.7160577,
-      "lon": 26.6418384,
-      "tags": {
-        "amenity": "kindergarten"
-      }
-    },
-    {
-      "id": "way/1286055523",
-      "osm_id": 1286055523,
-      "osm_type": "way",
-      "name": "Școala Generală Ion Heliade Rădulescu",
-      "category": "education",
-      "lat": 44.7146143,
-      "lon": 26.6481146,
-      "tags": {
-        "addr:housenumber": "102",
-        "addr:street": "Calea București",
-        "amenity": "school",
-        "name": "Școala Generală Ion Heliade Rădulescu"
-      }
-    },
-    {
-      "id": "way/1286274761",
-      "osm_id": 1286274761,
-      "osm_type": "way",
-      "name": "Liceul Teoretic „Grigore Moisil” Urziceni",
-      "category": "education",
-      "lat": 44.7112566,
-      "lon": 26.6472183,
-      "tags": {
-        "amenity": "college",
-        "name": "Liceul Teoretic „Grigore Moisil” Urziceni"
-      }
-    },
-    {
-      "id": "node/1979833800",
-      "osm_id": 1979833800,
-      "osm_type": "node",
-      "name": "Biserica Romano-Catolică Urziceni",
-      "category": "place_of_worship",
-      "lat": 47.7361466,
-      "lon": 22.4003781,
-      "tags": {
-        "amenity": "place_of_worship",
-        "building": "church",
-        "denomination": "roman_catholic",
-        "name": "Biserica Romano-Catolică Urziceni",
-        "name:hu": "Szent Kereszt megtalálása templom",
-        "religion": "christian",
-        "url:miserend": "https://miserend.hu/templom/4638"
-      }
-    },
-    {
-      "id": "node/4984736023",
-      "osm_id": 4984736023,
-      "osm_type": "node",
+[
+  {
+    "id": "node-4984736023",
+    "name": "Sala Regatului a Martorilor lui Iehova",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.7180163,
+    "lng": 26.6397197,
+    "osmType": "node",
+    "tags": {
+      "addr:housenumber": "82",
+      "addr:street": "Strada Regele Ferdinand",
+      "amenity": "place_of_worship",
+      "denomination": "jehovahs_witness",
       "name": "Sala Regatului a Martorilor lui Iehova",
-      "category": "place_of_worship",
-      "lat": 44.7180163,
-      "lon": 26.6397197,
-      "tags": {
-        "addr:housenumber": "82",
-        "addr:street": "Strada Regele Ferdinand",
-        "amenity": "place_of_worship",
-        "denomination": "jehovahs_witness",
-        "name": "Sala Regatului a Martorilor lui Iehova",
-        "religion": "christian",
-        "website": "https://www.jw.org/"
-      }
-    },
-    {
-      "id": "node/9587297318",
-      "osm_id": 9587297318,
-      "osm_type": "node",
-      "name": "Biserica Sfânta Treime",
-      "category": "place_of_worship",
-      "lat": 44.7140159,
-      "lon": 26.6349129,
-      "tags": {
-        "amenity": "place_of_worship",
-        "denomination": "romanian_orthodox",
-        "name": "Biserica Sfânta Treime",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/149836848",
-      "osm_id": 149836848,
-      "osm_type": "way",
-      "name": "Cimitirul Municipal",
-      "category": "place_of_worship",
-      "lat": 44.7110097,
-      "lon": 26.6403205,
-      "tags": {
-        "denomination": "romanian_orthodox",
-        "landuse": "cemetery",
-        "name": "Cimitirul Municipal",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/1163749825",
-      "osm_id": 1163749825,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "place_of_worship",
-      "lat": 44.7172886,
-      "lon": 26.6375599,
-      "tags": {
-        "amenity": "place_of_worship",
-        "building": "yes",
-        "denomination": "romanian_orthodox",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/1286047249",
-      "osm_id": 1286047249,
-      "osm_type": "way",
-      "name": "Biserica Ortodoxă „Sfinții Împărați Constantin și Elena” Urziceni",
-      "category": "place_of_worship",
-      "lat": 44.7154697,
-      "lon": 26.645348,
-      "tags": {
-        "addr:city": "Urziceni",
-        "addr:street": "Strada Revoluției",
-        "amenity": "place_of_worship",
-        "building": "yes",
-        "denomination": "romanian_orthodox",
-        "is_in:city": "Urziceni",
-        "is_in:country": "România",
-        "is_in:county": "Ialomița",
-        "name": "Biserica Ortodoxă „Sfinții Împărați Constantin și Elena” Urziceni",
-        "religion": "christian"
-      }
+      "religion": "christian",
+      "website": "https://www.jw.org/"
     }
-  ]
-}
+  },
+  {
+    "id": "node-8628418047",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet",
+    "lat": 44.7151243,
+    "lng": 26.6472753,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Urziceni",
+      "addr:street": "Calea București",
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-8628418348",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet",
+    "lat": 44.714736,
+    "lng": 26.642951,
+    "osmType": "node",
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-9587297318",
+    "name": "Biserica Sfânta Treime",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.7140159,
+    "lng": 26.6349129,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica Sfânta Treime",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-10732041680",
+    "name": "Stanleybet",
+    "type": "betting",
+    "subcategory": "Stanleybet",
+    "lat": 44.7138161,
+    "lng": 26.6418318,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Urziceni",
+      "addr:street": "Calea București",
+      "brand": "Stanleybet",
+      "brand:wikidata": "Q25466489",
+      "name": "Stanleybet",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-11930738782",
+    "name": "Atu Casino",
+    "type": "gaming",
+    "subcategory": "Atu Casino",
+    "lat": 44.7151776,
+    "lng": 26.6460089,
+    "osmType": "node",
+    "tags": {
+      "amenity": "casino",
+      "name": "Atu Casino"
+    }
+  },
+  {
+    "id": "way-149836874",
+    "name": "Școala Generală nr.1 Alexandru Odobescu",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.7129917,
+    "lng": 26.6416794,
+    "osmType": "way",
+    "tags": {
+      "addr:housename": "Școala Generală nr.1 Alexandru Odobescu",
+      "addr:housenumber": "8",
+      "addr:postcode": "925300",
+      "addr:street": "Strada Aurora",
+      "amenity": "school",
+      "building": "yes",
+      "name": "Școala Generală nr.1 Alexandru Odobescu"
+    }
+  },
+  {
+    "id": "way-285184972",
+    "name": "ProfDIAGNOSIS",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 44.711134,
+    "lng": 26.638006,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Urziceni",
+      "addr:housenumber": "11",
+      "addr:postcode": "925300",
+      "addr:street": "Strada Mihai Eminescu",
+      "amenity": "hospital",
+      "building": "yes",
+      "emergency": "no",
+      "healthcare": "hospital",
+      "name": "ProfDIAGNOSIS",
+      "phone": "0243.257755;0372.920755;0727.711170;0731.315407",
+      "website": "http://www.profdiagnosis.ro"
+    }
+  },
+  {
+    "id": "way-390829607",
+    "name": "Dispensar",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 44.7050237,
+    "lng": 26.6656459,
+    "osmType": "way",
+    "tags": {
+      "amenity": "doctors",
+      "building": "yes",
+      "healthcare": "doctor",
+      "level": "1",
+      "name": "Dispensar"
+    }
+  },
+  {
+    "id": "way-390833138",
+    "name": "Biserica „Înălțarea Domnului”",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.7052984,
+    "lng": 26.667084,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "heritage": "2",
+      "heritage:operator": "lmi",
+      "level": "2",
+      "name": "Biserica „Înălțarea Domnului”",
+      "ref:RO:lmi": "IL-II-m-A-14144",
+      "religion": "christian",
+      "start_date": "1852"
+    }
+  },
+  {
+    "id": "way-542841103",
+    "name": "Dispensarul Malu Roșu",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 44.7769701,
+    "lng": 26.5749462,
+    "osmType": "way",
+    "tags": {
+      "amenity": "doctors",
+      "building": "yes",
+      "building:levels": "1",
+      "name": "Dispensarul Malu Roșu",
+      "roof:shape": "hipped"
+    }
+  },
+  {
+    "id": "way-542841108",
+    "name": "Școala Generală",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.7766939,
+    "lng": 26.574678,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school",
+      "name": "Școala Generală"
+    }
+  },
+  {
+    "id": "way-542841111",
+    "name": "Școala Generală",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.7765304,
+    "lng": 26.5752506,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school",
+      "name": "Școala Generală"
+    }
+  },
+  {
+    "id": "way-542841942",
+    "name": "Școala Generală",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.7757321,
+    "lng": 26.5757951,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school",
+      "name": "Școala Generală"
+    }
+  },
+  {
+    "id": "way-739460649",
+    "name": "Biserica Ortodoxă Sfântul Ioan Botezătorul, Cotorca",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.7783734,
+    "lng": 26.6610163,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica Ortodoxă Sfântul Ioan Botezătorul, Cotorca",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1163672615",
+    "name": "Biserica „Sfântul Gheorghe”",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.7464799,
+    "lng": 26.5860036,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Armășești",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "heritage": "2",
+      "heritage:operator": "lmi",
+      "moved": "yes",
+      "name": "Biserica „Sfântul Gheorghe”",
+      "ref:RO:lmi": "IL-II-m-A-14079",
+      "religion": "christian",
+      "start_date": "1778"
+    }
+  },
+  {
+    "id": "way-1163672623",
+    "name": "Școala Agricolă „Iordache Zossima”",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.7474568,
+    "lng": 26.5871314,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school",
+      "name": "Școala Agricolă „Iordache Zossima”"
+    }
+  },
+  {
+    "id": "way-1163672633",
+    "name": "Biserica „Sfântul Nicolae\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.7763716,
+    "lng": 26.5761065,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Malu Roșu",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Sfântul Nicolae\"",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1163749825",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.7172886,
+    "lng": 26.6375599,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1163849092",
+    "name": "Biserica „Sfântul Nicolae”",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.7250567,
+    "lng": 26.5970522,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "heritage": "2",
+      "heritage:operator": "lmi",
+      "name": "Biserica „Sfântul Nicolae”",
+      "name:en": "Saint Nicholas Church",
+      "ref:RO:lmi": "IL-II-m-B-14084",
+      "ref:RO:ran": "100898.01",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1282193080",
+    "name": "Scoala Gimnaziala Barbulesti",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.7258078,
+    "lng": 26.5963474,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school",
+      "building": "yes",
+      "name": "Scoala Gimnaziala Barbulesti"
+    }
+  },
+  {
+    "id": "way-1282193081",
+    "name": "Biserica Penticostala Calator Spre Cer",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.7238322,
+    "lng": 26.6042184,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "pentecostal",
+      "name": "Biserica Penticostala Calator Spre Cer",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1286047133",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.7784486,
+    "lng": 26.6598107,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school"
+    }
+  },
+  {
+    "id": "way-1286047157",
+    "name": "Liceul Tehnologic Urziceni",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.7245542,
+    "lng": 26.638917,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Urziceni",
+      "addr:housenumber": "16",
+      "addr:street": "Strada Petroliștilor",
+      "amenity": "school",
+      "name": "Liceul Tehnologic Urziceni"
+    }
+  },
+  {
+    "id": "way-1286047249",
+    "name": "Biserica Ortodoxă „Sfinții Împărați Constantin și Elena” Urziceni",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.7154697,
+    "lng": 26.645348,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Urziceni",
+      "addr:street": "Strada Revoluției",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "is_in:city": "Urziceni",
+      "is_in:country": "România",
+      "is_in:county": "Ialomița",
+      "name": "Biserica Ortodoxă „Sfinții Împărați Constantin și Elena” Urziceni",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1286055519",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.7153646,
+    "lng": 26.640683,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school"
+    }
+  },
+  {
+    "id": "way-1286055520",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 44.7160577,
+    "lng": 26.6418384,
+    "osmType": "way",
+    "tags": {
+      "amenity": "kindergarten"
+    }
+  },
+  {
+    "id": "way-1286055523",
+    "name": "Școala Generală Ion Heliade Rădulescu",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.7146143,
+    "lng": 26.6481146,
+    "osmType": "way",
+    "tags": {
+      "addr:housenumber": "102",
+      "addr:street": "Calea București",
+      "amenity": "school",
+      "name": "Școala Generală Ion Heliade Rădulescu"
+    }
+  },
+  {
+    "id": "way-1286274758",
+    "name": "Spitalul Municipal Urziceni",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 44.7109004,
+    "lng": 26.6493562,
+    "osmType": "way",
+    "tags": {
+      "amenity": "hospital",
+      "healthcare": "hospital",
+      "name": "Spitalul Municipal Urziceni"
+    }
+  },
+  {
+    "id": "way-1286274761",
+    "name": "Liceul Teoretic „Grigore Moisil” Urziceni",
+    "type": "school",
+    "subcategory": "college",
+    "lat": 44.7112566,
+    "lng": 26.6472183,
+    "osmType": "way",
+    "tags": {
+      "amenity": "college",
+      "name": "Liceul Teoretic „Grigore Moisil” Urziceni"
+    }
+  },
+  {
+    "id": "way-1307274553",
+    "name": "Biserica Evanghelică Armăşeşti",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.7487202,
+    "lng": 26.5802667,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "evangelical",
+      "name": "Biserica Evanghelică Armăşeşti",
+      "religion": "christian"
+    }
+  }
+]

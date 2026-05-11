@@ -1,0 +1,270 @@
+[
+  {
+    "id": "node-1316062639",
+    "name": "Mănăstirea Axiopolis",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.33457,
+    "lng": 28.02075,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Mănăstirea Axiopolis",
+      "religion": "christian",
+      "source": "jonutzu@gpszone.ro",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "id": "node-1316063358",
+    "name": "Mănăstirea Mircea Vodă",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.2692805,
+    "lng": 28.1395347,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Mănăstirea Mircea Vodă",
+      "religion": "christian",
+      "source": "jonutzu@gpszone.ro"
+    }
+  },
+  {
+    "id": "node-4984729922",
+    "name": "Sala Regatului a Martorilor lui Iehova",
+    "type": "church",
+    "subcategory": "place_of_worship",
+    "lat": 44.3432402,
+    "lng": 28.0359098,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Sala Regatului a Martorilor lui Iehova",
+      "name:ro": "Sala Regatului a Martorilor lui Iehova"
+    }
+  },
+  {
+    "id": "node-5222324021",
+    "name": "Sala Regatului a Martorilor lui Iehova",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.3430431,
+    "lng": 28.0323077,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "jehovahs_witness",
+      "name": "Sala Regatului a Martorilor lui Iehova",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-8628417538",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet",
+    "lat": 44.337175,
+    "lng": 28.033558,
+    "osmType": "node",
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-8628418000",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet Betting & Gaming SA",
+    "lat": 44.3416409,
+    "lng": 28.0307069,
+    "osmType": "node",
+    "tags": {
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "way-271708687",
+    "name": "Biserica „Sfântul Andrei\", „Sfântul Ilie Tesviteanul\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.3336798,
+    "lng": 28.0355658,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Cernavodă",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "building:material": "wood",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Sfântul Andrei\", „Sfântul Ilie Tesviteanul\"",
+      "religion": "christian",
+      "start_date": "2003"
+    }
+  },
+  {
+    "id": "way-277704185",
+    "name": "Biserica „Sfinții Împărați Constantin și Elena\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.3433403,
+    "lng": 28.0299629,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Cernavodă",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "heritage": "2",
+      "heritage:operator": "lmi",
+      "name": "Biserica „Sfinții Împărați Constantin și Elena\"",
+      "ref:RO:lmi": "CT-II-m-A-02873",
+      "religion": "christian",
+      "start_date": "1895"
+    }
+  },
+  {
+    "id": "way-277706359",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "muslim",
+    "lat": 44.3388344,
+    "lng": 28.0320394,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Cernavodă",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "sunni",
+      "heritage": "2",
+      "heritage:operator": "lmi",
+      "ref:RO:lmi": "CT-II-m-A-02874",
+      "religion": "muslim",
+      "start_date": "1756"
+    }
+  },
+  {
+    "id": "way-1106536289",
+    "name": "Biserica „Sfântul Chiril\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.3465837,
+    "lng": 28.0370132,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Cernavodă",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Sfântul Chiril\"",
+      "religion": "christian",
+      "start_date": "2000"
+    }
+  },
+  {
+    "id": "way-1131990484",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.2804657,
+    "lng": 28.1059712,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "chapel",
+      "denomination": "lutheran",
+      "historic": "church",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1131991738",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.2823939,
+    "lng": 28.0897533,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Saligny",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1175735168",
+    "name": "Biserica „Nașterea Sfântului Ioan Botezătorul\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.3439381,
+    "lng": 28.0302701,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Cernavodă",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "roman_catholic",
+      "name": "Biserica „Nașterea Sfântului Ioan Botezătorul\"",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1175735169",
+    "name": "Biserica „Adormirea Maicii Domnului”",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.3531176,
+    "lng": 28.0344807,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Cernavodă",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "building:material": "wood",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Adormirea Maicii Domnului”",
+      "religion": "christian",
+      "start_date": "2012"
+    }
+  },
+  {
+    "id": "way-1185577546",
+    "name": "Biserica „Adormirea Maicii Domnului”",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.2808021,
+    "lng": 28.1060507,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Adormirea Maicii Domnului”",
+      "religion": "christian"
+    }
+  }
+]

@@ -1,0 +1,328 @@
+[
+  {
+    "id": "node-1316063393",
+    "name": "Mănăstirea Călugăra",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.0225457,
+    "lng": 21.7648009,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Mănăstirea Călugăra",
+      "religion": "christian",
+      "source": "jonutzu@gpszone.ro",
+      "wikidata": "Q18539547",
+      "wikipedia": "ro:Mănăstirea Călugăra"
+    }
+  },
+  {
+    "id": "node-2792230924",
+    "name": "Sanatoriul Marila",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 45.0595983,
+    "lng": 21.7768512,
+    "osmType": "node",
+    "tags": {
+      "amenity": "hospital",
+      "healthcare": "hospital",
+      "name": "Sanatoriul Marila"
+    }
+  },
+  {
+    "id": "node-3678688904",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.0616887,
+    "lng": 21.6772591,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-3678689086",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.108305,
+    "lng": 21.6948153,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-8628418034",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet",
+    "lat": 45.0374553,
+    "lng": 21.685983,
+    "osmType": "node",
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-10273467662",
+    "name": "Biserica Penticostală Maranatha",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.0362596,
+    "lng": 21.6884252,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Biserica Penticostală Maranatha",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1123346832",
+    "name": "Biserica Înălțarea Sfintei Cruci",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.0397743,
+    "lng": 21.7164662,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "name": "Biserica Înălțarea Sfintei Cruci",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1123348067",
+    "name": "Spitalul Orașenesc Oravița",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 45.0361846,
+    "lng": 21.689883,
+    "osmType": "way",
+    "tags": {
+      "amenity": "hospital",
+      "healthcare": "hospital",
+      "name": "Spitalul Orașenesc Oravița"
+    }
+  },
+  {
+    "id": "way-1131242269",
+    "name": "Liceul Teoretic General Dragalina",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.0354728,
+    "lng": 21.7117345,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school",
+      "name": "Liceul Teoretic General Dragalina"
+    }
+  },
+  {
+    "id": "way-1147953314",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.0097088,
+    "lng": 21.7059612,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1214974395",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.0234291,
+    "lng": 21.7288795,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1214974396",
+    "name": "Maria Ciclova",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.0222072,
+    "lng": 21.7250729,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "name": "Maria Ciclova",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1227149555",
+    "name": "Biserica Pogorârea Duhului Sfânt",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.0407286,
+    "lng": 21.6825117,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "name": "Biserica Pogorârea Duhului Sfânt",
+      "name:en": "Church of the Descent of the Holy Spirit",
+      "name:ro": "Biserica Pogorârea Duhului Sfânt",
+      "name:sr": "Црква Силаска Светог Духа",
+      "name:sr-Latn": "Crkva Silaska Svetog Duha",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1227149561",
+    "name": "Școala Gimnazială Romul Ladea",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.0399422,
+    "lng": 21.6835629,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school",
+      "name": "Școala Gimnazială Romul Ladea",
+      "name:sr": "Средња школа Ромул Ладеа",
+      "name:sr-Latn": "Srednja škola Romul Ladea"
+    }
+  },
+  {
+    "id": "way-1227149566",
+    "name": "Liceul Tehnologic Mihai Novac",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.0348818,
+    "lng": 21.6839196,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school",
+      "name": "Liceul Tehnologic Mihai Novac"
+    }
+  },
+  {
+    "id": "way-1227149567",
+    "name": "Biserica Ortodoxă Adormirea Maicii Domnului",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.0349241,
+    "lng": 21.7108224,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "name": "Biserica Ortodoxă Adormirea Maicii Domnului",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1472811629",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.1222662,
+    "lng": 21.5937386,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1472812658",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.1225803,
+    "lng": 21.5935013,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school"
+    }
+  },
+  {
+    "id": "way-1483528864",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.9926971,
+    "lng": 21.6246103,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1498524393",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 45.0866032,
+    "lng": 21.6146084,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school"
+    }
+  },
+  {
+    "id": "way-1498524400",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.0862609,
+    "lng": 21.6155593,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1498524876",
+    "name": "Biserica lui Isus Hristos",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 45.0910837,
+    "lng": 21.6152717,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "name": "Biserica lui Isus Hristos",
+      "religion": "christian"
+    }
+  }
+]

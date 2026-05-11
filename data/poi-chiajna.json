@@ -1,317 +1,1248 @@
-{
-  "city": "Chiajna",
-  "generated_at": "2026-04-23T09:38:45.190Z",
-  "counts": {
-    "total": 17,
-    "schools": 7,
-    "churches": 10
-  },
-  "pois": [
-    {
-      "id": "node/268246356",
-      "osm_id": 268246356,
-      "osm_type": "node",
-      "name": "Școala nr.158 Liceul Tehnologic \"Doamna Chiajna\"",
-      "category": "education",
-      "lat": 44.4511825,
-      "lon": 26.0123467,
-      "tags": {
-        "addr:city": "Roșu, Chiajna, Ilfov",
-        "addr:housenumber": "90",
-        "addr:postcode": "077042",
-        "addr:street": "Strada 1 Decembrie 1918",
-        "amenity": "school",
-        "int_name": "School no. 158",
-        "name": "Școala nr.158 Liceul Tehnologic \"Doamna Chiajna\""
-      }
-    },
-    {
-      "id": "way/238795449",
-      "osm_id": 238795449,
-      "osm_type": "way",
-      "name": "Kids Club",
-      "category": "education",
-      "lat": 44.4429247,
-      "lon": 25.9876676,
-      "tags": {
-        "addr:city": "Roșu",
-        "addr:country": "RO",
-        "addr:housenumber": "91A",
-        "addr:postcode": "077040",
-        "addr:street": "Strada Rezervelor",
-        "amenity": "kindergarten",
-        "building": "kindergarten",
-        "building:levels": "6",
-        "building:levels:underground": "1",
-        "name": "Kids Club",
-        "source": "survey",
-        "start_date": "2011"
-      }
-    },
-    {
-      "id": "way/282894767",
-      "osm_id": 282894767,
-      "osm_type": "way",
-      "name": "Școala Gimnazială \"Alexandru Odobescu\"",
-      "category": "education",
-      "lat": 44.4580701,
-      "lon": 25.9774713,
-      "tags": {
-        "addr:city": "Chiajna",
-        "addr:housenumber": "72",
-        "addr:postcode": "077040",
-        "addr:street": "Strada Păcii",
-        "amenity": "school",
-        "barrier": "fence",
-        "education": "school",
-        "name": "Școala Gimnazială \"Alexandru Odobescu\""
-      }
-    },
-    {
-      "id": "way/282894769",
-      "osm_id": 282894769,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 44.4578763,
-      "lon": 25.9775408,
-      "tags": {
-        "addr:city": "Chiajna",
-        "addr:housenumber": "72",
-        "addr:postcode": "077040",
-        "addr:street": "Strada Păcii",
-        "building": "school",
-        "building:levels": "2"
-      }
-    },
-    {
-      "id": "way/919398098",
-      "osm_id": 919398098,
-      "osm_type": "way",
-      "name": "Grădinița David Mihai",
-      "category": "education",
-      "lat": 44.4438718,
-      "lon": 26.0044193,
-      "tags": {
-        "addr:city": "Roșu",
-        "addr:housenumber": "46B",
-        "addr:postcode": "077042",
-        "addr:street": "Strada Drumul Bacriului",
-        "building": "kindergarten",
-        "building:levels": "4",
-        "name": "Grădinița David Mihai",
-        "start_date": "2012"
-      }
-    },
-    {
-      "id": "way/1056875394",
-      "osm_id": 1056875394,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 44.4506763,
-      "lon": 25.9847718,
-      "tags": {
-        "building": "school"
-      }
-    },
-    {
-      "id": "way/1460718788",
-      "osm_id": 1460718788,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 44.4503751,
-      "lon": 25.9851447,
-      "tags": {
-        "amenity": "school",
-        "education": "school"
-      }
-    },
-    {
-      "id": "node/5088157877",
-      "osm_id": 5088157877,
-      "osm_type": "node",
-      "name": "Capela Sfinții Arhangheli Mihail și Gavril",
-      "category": "place_of_worship",
-      "lat": 44.4382834,
-      "lon": 25.9531348,
-      "tags": {
-        "amenity": "place_of_worship",
-        "building": "chapel",
-        "denomination": "orthodox",
-        "name": "Capela Sfinții Arhangheli Mihail și Gavril",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "node/9601380052",
-      "osm_id": 9601380052,
-      "osm_type": "node",
-      "name": "Funerare Ieftine",
-      "category": "place_of_worship",
-      "lat": 44.4458878,
-      "lon": 26.0081205,
-      "tags": {
-        "addr:city": "Roșu",
-        "addr:housenumber": "35",
-        "addr:street": "Strada Drumul Bacriului",
-        "denomination": "roman_catholic",
-        "name": "Funerare Ieftine",
-        "opening_hours": "24/7",
-        "operator": "ONE MARCK INTERNATIONAL SRL",
-        "payment:cash": "yes",
-        "payment:credit_cards": "yes",
-        "phone": "0733863727",
-        "religion": "christian",
-        "shop": "funeral_directors",
-        "website": "https://www.funerare-ieftine.ro/"
-      }
-    },
-    {
-      "id": "way/26322312",
-      "osm_id": 26322312,
-      "osm_type": "way",
-      "name": "Cimitirul ortodox Sfinții Mihail și Gavril",
-      "category": "place_of_worship",
-      "lat": 44.4388223,
-      "lon": 25.95301,
-      "tags": {
-        "denomination": "orthodox",
-        "landuse": "cemetery",
-        "name": "Cimitirul ortodox Sfinții Mihail și Gavril",
-        "religion": "christian",
-        "website": "https://www.cimitir.ro/"
-      }
-    },
-    {
-      "id": "way/230862098",
-      "osm_id": 230862098,
-      "osm_type": "way",
-      "name": "Cimitirul Chiajna",
-      "category": "place_of_worship",
-      "lat": 44.4623094,
-      "lon": 25.9835353,
-      "tags": {
-        "denomination": "romanian_orthodox",
-        "landuse": "cemetery",
-        "name": "Cimitirul Chiajna",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/230870391",
-      "osm_id": 230870391,
-      "osm_type": "way",
-      "name": "Cimitirul Roșu",
-      "category": "place_of_worship",
-      "lat": 44.4554575,
-      "lon": 26.0080979,
-      "tags": {
-        "denomination": "greek_orthodox",
-        "landuse": "cemetery",
-        "name": "Cimitirul Roșu",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/423689891",
-      "osm_id": 423689891,
-      "osm_type": "way",
-      "name": "Biserica „Sfântul Nicolae\"",
-      "category": "place_of_worship",
-      "lat": 44.4617658,
-      "lon": 25.9769126,
-      "tags": {
-        "addr:city": "Chiajna",
-        "addr:street": "Strada Sfântul Nicolae",
-        "amenity": "place_of_worship",
-        "building": "church",
-        "denomination": "romanian_orthodox",
-        "heritage": "2",
-        "heritage:operator": "lmi",
-        "name": "Biserica „Sfântul Nicolae\"",
-        "ref:RO:lmi": "IF-II-m-B-15269",
-        "religion": "christian",
-        "start_date": "1831",
-        "wikidata": "Q42957570",
-        "wikipedia": "ro:Biserica Sfântul Nicolae din Chiajna"
-      }
-    },
-    {
-      "id": "way/473347215",
-      "osm_id": 473347215,
-      "osm_type": "way",
-      "name": "Biserica Acoperământul Maicii Domnului",
-      "category": "place_of_worship",
-      "lat": 44.4434664,
-      "lon": 26.0040045,
-      "tags": {
-        "addr:city": "Roșu",
-        "addr:postcode": "077042",
-        "addr:street": "Drumul Bacriului",
-        "amenity": "place_of_worship",
-        "building": "yes",
-        "denomination": "orthodox",
-        "name": "Biserica Acoperământul Maicii Domnului",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/541651542",
-      "osm_id": 541651542,
-      "osm_type": "way",
-      "name": "Biserica Nasterea Maicii Domnului - Chiajna",
-      "category": "place_of_worship",
-      "lat": 44.4483611,
-      "lon": 25.988577,
-      "tags": {
-        "addr:city": "Roșu",
-        "addr:housenumber": "47",
-        "addr:street": "Strada Apeductului",
-        "amenity": "place_of_worship",
-        "building": "church",
-        "denomination": "orthodox",
-        "name": "Biserica Nasterea Maicii Domnului - Chiajna",
-        "religion": "christian",
-        "service_times": "08:00-20:00"
-      }
-    },
-    {
-      "id": "way/542819119",
-      "osm_id": 542819119,
-      "osm_type": "way",
-      "name": "Biserica „Sfântul Gheorghe”",
-      "category": "place_of_worship",
-      "lat": 44.455431,
-      "lon": 25.9893434,
-      "tags": {
-        "addr:street": "Strada Bisericii",
-        "amenity": "place_of_worship",
-        "building": "yes",
-        "denomination": "romanian_orthodox",
-        "heritage": "2",
-        "heritage:operator": "lmi",
-        "name": "Biserica „Sfântul Gheorghe”",
-        "ref:RO:lmi": "IF-II-m-B-15284",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/1169398189",
-      "osm_id": 1169398189,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "place_of_worship",
-      "lat": 44.4618924,
-      "lon": 25.9770502,
-      "tags": {
-        "addr:city": "Chiajna",
-        "amenity": "place_of_worship",
-        "building": "yes",
-        "denomination": "romanian_orthodox",
-        "religion": "christian"
-      }
+[
+  {
+    "id": "node-268246356",
+    "name": "Școala nr.158 Liceul Tehnologic \"Doamna Chiajna\"",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.4511825,
+    "lng": 26.0123467,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Roșu, Chiajna, Ilfov",
+      "addr:housenumber": "90",
+      "addr:postcode": "077042",
+      "addr:street": "Strada 1 Decembrie 1918",
+      "amenity": "school",
+      "int_name": "School no. 158",
+      "name": "Școala nr.158 Liceul Tehnologic \"Doamna Chiajna\""
     }
-  ]
-}
+  },
+  {
+    "id": "node-3757927663",
+    "name": "Milena",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 44.4425738,
+    "lng": 25.9878153,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "București",
+      "addr:housenumber": "93A",
+      "addr:postcode": "077042",
+      "addr:street": "Strada Rezervelor",
+      "alt_name:en": "Milena Medical Center",
+      "amenity": "clinic",
+      "name": "Milena",
+      "website": "https://www.milenamedical.ro/"
+    }
+  },
+  {
+    "id": "node-4073644712",
+    "name": "Magic Farm",
+    "type": "gaming",
+    "subcategory": "Magic Farm",
+    "lat": 44.433524,
+    "lng": 26.0052456,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "București",
+      "addr:country": "RO",
+      "addr:housenumber": "97",
+      "addr:postcode": "061093",
+      "addr:street": "Bulevardul Iuliu Maniu",
+      "amenity": "pharmacy",
+      "healthcare": "pharmacy",
+      "name": "Magic Farm",
+      "opening_hours": "Mo-Fr 08:00-21:30; Sa 08:00-17:00; Su 08:00-14:00",
+      "phone": "+40214348834",
+      "source:addr:housenumber": "survey",
+      "source:addr:street": "survey",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "id": "node-5088157877",
+    "name": "Capela Sfinții Arhangheli Mihail și Gavril",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.4382834,
+    "lng": 25.9531348,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "chapel",
+      "denomination": "orthodox",
+      "name": "Capela Sfinții Arhangheli Mihail și Gavril",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-5278606623",
+    "name": "Pizzeria Fortuna",
+    "type": "betting",
+    "subcategory": "Pizzeria Fortuna",
+    "lat": 44.4359582,
+    "lng": 26.0127368,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "București",
+      "addr:housenumber": "82",
+      "addr:street": "Strada Apusului",
+      "amenity": "fast_food",
+      "cuisine": "pizza",
+      "internet_access": "wlan",
+      "name": "Pizzeria Fortuna",
+      "opening_hours": "Mo-Su 10:00-23:00",
+      "phone": "0764725328",
+      "source:addr:housenumber": "survey",
+      "source:addr:street": "survey",
+      "website": "https://www.pizzafortuna.ro/"
+    }
+  },
+  {
+    "id": "node-6053554485",
+    "name": "Mathnasium",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.4341689,
+    "lng": 26.0161462,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "București",
+      "addr:housenumber": "158A",
+      "addr:postcode": "061117",
+      "addr:street": "Bulevardul Iuliu Maniu",
+      "amenity": "school",
+      "name": "Mathnasium",
+      "source:addr:housenumber": "survey",
+      "source:addr:street": "survey"
+    }
+  },
+  {
+    "id": "node-6053554488",
+    "name": "Las Vegas",
+    "type": "gaming",
+    "subcategory": "Las Vegas",
+    "lat": 44.4337901,
+    "lng": 26.0192576,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "București",
+      "addr:country": "RO",
+      "addr:housenumber": "67",
+      "addr:postcode": "061086",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Bulevardul Iuliu Maniu",
+      "gambling": "slot_machines",
+      "leisure": "adult_gaming_centre",
+      "name": "Las Vegas",
+      "opening_hours": "24/7",
+      "source:addr:housenumber": "survey",
+      "source:addr:street": "survey",
+      "website": "https://lasvegas-games.ro/"
+    }
+  },
+  {
+    "id": "node-6053554490",
+    "name": "WinBoss",
+    "type": "gaming",
+    "subcategory": "WinBoss",
+    "lat": 44.4337959,
+    "lng": 26.0197267,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "București",
+      "addr:country": "RO",
+      "addr:housenumber": "67",
+      "addr:postcode": "061086",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Bulevardul Iuliu Maniu",
+      "amenity": "adult_gaming_centre",
+      "gambling": "slot_machines",
+      "leisure": "adult_gaming_centre",
+      "name": "WinBoss",
+      "opening_hours": "24/7",
+      "phone": "+40 758 234 430",
+      "source:addr:housenumber": "survey",
+      "source:addr:street": "survey",
+      "website": "https://www.winboss.ro/"
+    }
+  },
+  {
+    "id": "node-6470645208",
+    "name": "Million",
+    "type": "gaming",
+    "subcategory": "Million",
+    "lat": 44.4462178,
+    "lng": 25.9876625,
+    "osmType": "node",
+    "tags": {
+      "amenity": "casino",
+      "name": "Million"
+    }
+  },
+  {
+    "id": "node-6879839659",
+    "name": "Sanador",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 44.4334744,
+    "lng": 26.0042417,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "București",
+      "addr:country": "RO",
+      "addr:housenumber": "101",
+      "addr:postcode": "061094",
+      "addr:street": "Bulevardul Iuliu Maniu",
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "name": "Sanador",
+      "source:addr:housenumber": "survey",
+      "source:addr:street": "survey"
+    }
+  },
+  {
+    "id": "node-8628417603",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet",
+    "lat": 44.4391769,
+    "lng": 25.9571749,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Chiajna",
+      "addr:postcode": "077040",
+      "addr:street": "Autostrada București-Pitești",
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 09:00-21:30",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-8628417642",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet Betting & Gaming SA",
+    "lat": 44.447449,
+    "lng": 25.987285,
+    "osmType": "node",
+    "tags": {
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-8628417806",
+    "name": "Superbet",
+    "type": "gaming",
+    "subcategory": "Superbet Betting & Gaming SA",
+    "lat": 44.4318638,
+    "lng": 26.0144433,
+    "osmType": "node",
+    "tags": {
+      "amenity": "casino",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA"
+    }
+  },
+  {
+    "id": "node-8628417832",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet",
+    "lat": 44.4336246,
+    "lng": 26.0086564,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "București",
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-8628417895",
+    "name": "Superbet",
+    "type": "gaming",
+    "subcategory": "Superbet Betting & Gaming SA",
+    "lat": 44.4341317,
+    "lng": 26.0111455,
+    "osmType": "node",
+    "tags": {
+      "amenity": "casino",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA"
+    }
+  },
+  {
+    "id": "node-8628418017",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet",
+    "lat": 44.442938,
+    "lng": 25.98839,
+    "osmType": "node",
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-8628418080",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet",
+    "lat": 44.4342373,
+    "lng": 26.0180445,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "București",
+      "addr:housenumber": "152",
+      "addr:postcode": "032731",
+      "addr:street": "Bulevardul Iuliu Maniu",
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker",
+      "source:addr:housenumber": "survey",
+      "source:addr:street": "survey"
+    }
+  },
+  {
+    "id": "node-8628418081",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet",
+    "lat": 44.4412566,
+    "lng": 26.0179209,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "București",
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-10934144816",
+    "name": "Fortuna",
+    "type": "betting",
+    "subcategory": "Fortuna",
+    "lat": 44.4334134,
+    "lng": 25.9985973,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "București",
+      "addr:housenumber": "109",
+      "addr:postcode": "061096",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Bulevardul Iuliu Maniu",
+      "brand": "Fortuna",
+      "brand:wikidata": "Q25857973",
+      "name": "Fortuna",
+      "opening_hours": "Mo-Fr 10:00-22:00",
+      "shop": "bookmaker",
+      "source:addr:housenumber": "survey",
+      "source:addr:street": "survey"
+    }
+  },
+  {
+    "id": "node-11825001215",
+    "name": "MaxBet",
+    "type": "gaming",
+    "subcategory": "Max Bet SRL",
+    "lat": 44.433748,
+    "lng": 26.0186137,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "București",
+      "addr:country": "RO",
+      "addr:housenumber": "67",
+      "addr:postcode": "061086",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Bulevardul Iuliu Maniu",
+      "alt_name": "Maxbet",
+      "amenity": "casino",
+      "branch": "Gorjului",
+      "contact:email": "office@maxbetromania.com",
+      "contact:phone": "+40 21 323 2174;+40 31 405 2949",
+      "contact:website": "https://maxbetgroup.ro",
+      "gambling": "slot_machines",
+      "name": "MaxBet",
+      "name:ro": "MaxBet",
+      "opening_hours": "24/7",
+      "operator": "Max Bet SRL"
+    }
+  },
+  {
+    "id": "node-12042437020",
+    "name": "Fortuna",
+    "type": "betting",
+    "subcategory": "Fortuna",
+    "lat": 44.4412426,
+    "lng": 26.0170827,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "București",
+      "addr:country": "RO",
+      "addr:housenumber": "32",
+      "addr:postcode": "062285",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Apusului",
+      "brand": "Fortuna",
+      "brand:wikidata": "Q25857973",
+      "name": "Fortuna",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "phone": "+40 31 437 8580",
+      "shop": "bookmaker",
+      "website": "https://efortuna.ro/"
+    }
+  },
+  {
+    "id": "node-12324393224",
+    "name": "Stanleybet",
+    "type": "betting",
+    "subcategory": "Stanleybet",
+    "lat": 44.433752,
+    "lng": 26.0188759,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "București",
+      "addr:country": "RO",
+      "addr:housenumber": "67",
+      "addr:postcode": "061086",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Bulevardul Iuliu Maniu",
+      "brand": "Stanleybet",
+      "brand:wikidata": "Q25466489",
+      "name": "Stanleybet",
+      "opening_hours": "Mo-Su 09:00-00:00",
+      "phone": "021 9082",
+      "shop": "bookmaker",
+      "source:addr:housenumber": "survey",
+      "source:addr:street": "survey",
+      "website": "https://www.stanleybet.ro/"
+    }
+  },
+  {
+    "id": "node-12324393267",
+    "name": "YTS Dental Viewdental radi",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 44.4341923,
+    "lng": 26.0152278,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "București",
+      "addr:housenumber": "166",
+      "addr:postcode": "061119",
+      "addr:street": "Bulevardul Iuliu Maniu",
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "healthcare:speciality": "radiology",
+      "name": "YTS Dental Viewdental radi",
+      "source:addr:housenumber": "survey",
+      "source:addr:street": "survey"
+    }
+  },
+  {
+    "id": "node-12326802882",
+    "name": "Maxim",
+    "type": "gaming",
+    "subcategory": "Maxim",
+    "lat": 44.4341672,
+    "lng": 26.0133407,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "București",
+      "addr:country": "RO",
+      "addr:housenumber": "170A",
+      "addr:postcode": "061121",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Bulevardul Iuliu Maniu",
+      "gambling": "slot_machines",
+      "leisure": "adult_gaming_centre",
+      "name": "Maxim",
+      "opening_hours": "24/7",
+      "source:addr:housenumber": "survey",
+      "source:addr:street": "survey"
+    }
+  },
+  {
+    "id": "node-12735477308",
+    "name": "Cabinete Medicale Individuale",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 44.4329652,
+    "lng": 26.0154446,
+    "osmType": "node",
+    "tags": {
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "healthcare:speciality": "general",
+      "name": "Cabinete Medicale Individuale"
+    }
+  },
+  {
+    "id": "way-23606233",
+    "name": "Institutul Teologic Penticostal",
+    "type": "school",
+    "subcategory": "university",
+    "lat": 44.4444781,
+    "lng": 26.0196338,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "București",
+      "addr:housenumber": "210-220",
+      "addr:postcode": "060946",
+      "addr:street": "Bulevardul Uverturii",
+      "amenity": "university",
+      "name": "Institutul Teologic Penticostal"
+    }
+  },
+  {
+    "id": "way-144932693",
+    "name": "Mănăstirea stilistă „Adormirea Maicii Domnului” București",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.4415599,
+    "lng": 26.0089645,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "București",
+      "addr:housenumber": "13-15",
+      "addr:postcode": "062361",
+      "addr:street": "Strada Televiziunii",
+      "alt_name": "Mănăstirea pe stil vechi „Adormirea Maicii Domnului” București",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "old_calendar_romanian_orthodox",
+      "name": "Mănăstirea stilistă „Adormirea Maicii Domnului” București",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-144932695",
+    "name": "Biserica „Sfânta Treime”",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.434488,
+    "lng": 26.0082154,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "București",
+      "addr:street": "Strada Ametistului",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "romanian_orthodox",
+      "is_in:city": "București",
+      "name": "Biserica „Sfânta Treime”",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-148473107",
+    "name": "Colegiul Tehnic \"Iuliu Maniu\"",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.4349354,
+    "lng": 25.9755913,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "București",
+      "addr:housenumber": "381-391",
+      "addr:postcode": "061101",
+      "addr:street": "Bulevardul Iuliu Maniu",
+      "alt_name": "Liceul Tehnic Iuliu Maniu",
+      "amenity": "school",
+      "name": "Colegiul Tehnic \"Iuliu Maniu\"",
+      "source": "survey",
+      "source:addr:housenumber": "survey",
+      "source:addr:street": "survey"
+    }
+  },
+  {
+    "id": "way-151833325",
+    "name": "Dispensarul Apusului",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 44.4380178,
+    "lng": 26.0151873,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "București",
+      "addr:housenumber": "63",
+      "addr:postcode": "062282",
+      "addr:street": "Strada Apusului",
+      "alt_name": "Policlinica Apusului",
+      "amenity": "clinic",
+      "building": "yes",
+      "building:levels": "2",
+      "healthcare": "clinic",
+      "healthcare:speciality": "paediatrics",
+      "name": "Dispensarul Apusului",
+      "source:addr:housenumber": "survey",
+      "source:addr:street": "survey"
+    }
+  },
+  {
+    "id": "way-225441845",
+    "name": "Cafea Fortuna",
+    "type": "betting",
+    "subcategory": "Cafea Fortuna",
+    "lat": 44.4413988,
+    "lng": 25.9442537,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Dragomirești-Deal",
+      "addr:country": "RO",
+      "addr:housenumber": "3",
+      "addr:postcode": "077096",
+      "addr:street": "Viilor",
+      "building": "yes",
+      "man_made": "works",
+      "name": "Cafea Fortuna",
+      "start_date": "2006"
+    }
+  },
+  {
+    "id": "way-238795449",
+    "name": "Kids Club",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 44.4429247,
+    "lng": 25.9876676,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Roșu",
+      "addr:country": "RO",
+      "addr:housenumber": "91A",
+      "addr:postcode": "077040",
+      "addr:street": "Strada Rezervelor",
+      "amenity": "kindergarten",
+      "building": "kindergarten",
+      "building:levels": "6",
+      "building:levels:underground": "1",
+      "name": "Kids Club",
+      "source": "survey",
+      "start_date": "2011"
+    }
+  },
+  {
+    "id": "way-259042240",
+    "name": "Biserica Ortodoxă „Adormirea Maicii Domnului - Giulești Sărindar”",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.4661981,
+    "lng": 26.0156943,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "București",
+      "addr:housenumber": "455",
+      "addr:postcode": "060251",
+      "addr:street": "Calea Giulești",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica Ortodoxă „Adormirea Maicii Domnului - Giulești Sărindar”",
+      "religion": "christian",
+      "website": "http://www.parohiagiulestisarindar.ro/"
+    }
+  },
+  {
+    "id": "way-282894767",
+    "name": "Școala Gimnazială \"Alexandru Odobescu\"",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.4580701,
+    "lng": 25.9774713,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Chiajna",
+      "addr:housenumber": "72",
+      "addr:postcode": "077040",
+      "addr:street": "Strada Păcii",
+      "amenity": "school",
+      "barrier": "fence",
+      "education": "school",
+      "name": "Școala Gimnazială \"Alexandru Odobescu\""
+    }
+  },
+  {
+    "id": "way-380536747",
+    "name": "Centrul Medical Humanitas",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 44.4365396,
+    "lng": 26.0157379,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "București",
+      "addr:housenumber": "13",
+      "addr:postcode": "062272",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Spartachiadei",
+      "amenity": "clinic",
+      "building": "yes",
+      "building:levels": "3",
+      "emergency": "no",
+      "healthcare": "clinic",
+      "name": "Centrul Medical Humanitas",
+      "source:addr:housenumber": "survey",
+      "source:addr:street": "survey"
+    }
+  },
+  {
+    "id": "way-394216580",
+    "name": "Biserica Giulești Sârbi",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.4714924,
+    "lng": 26.001005,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Biserica Giulești Sârbi",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-394354988",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.4705985,
+    "lng": 26.0027793,
+    "osmType": "way",
+    "tags": {
+      "addr:street": "Calea Giulești",
+      "amenity": "school"
+    }
+  },
+  {
+    "id": "way-423689891",
+    "name": "Biserica „Sfântul Nicolae\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.4617658,
+    "lng": 25.9769126,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Chiajna",
+      "addr:street": "Strada Sfântul Nicolae",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "romanian_orthodox",
+      "heritage": "2",
+      "heritage:operator": "lmi",
+      "name": "Biserica „Sfântul Nicolae\"",
+      "ref:RO:lmi": "IF-II-m-B-15269",
+      "religion": "christian",
+      "start_date": "1831",
+      "wikidata": "Q42957570",
+      "wikipedia": "ro:Biserica Sfântul Nicolae din Chiajna"
+    }
+  },
+  {
+    "id": "way-473347215",
+    "name": "Biserica Acoperământul Maicii Domnului",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.4434664,
+    "lng": 26.0040045,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Roșu",
+      "addr:postcode": "077042",
+      "addr:street": "Drumul Bacriului",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Biserica Acoperământul Maicii Domnului",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-541651542",
+    "name": "Biserica Nasterea Maicii Domnului - Chiajna",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.4483611,
+    "lng": 25.988577,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Roșu",
+      "addr:housenumber": "47",
+      "addr:street": "Strada Apeductului",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "orthodox",
+      "name": "Biserica Nasterea Maicii Domnului - Chiajna",
+      "religion": "christian",
+      "service_times": "08:00-20:00"
+    }
+  },
+  {
+    "id": "way-542819119",
+    "name": "Biserica „Sfântul Gheorghe”",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.455431,
+    "lng": 25.9893434,
+    "osmType": "way",
+    "tags": {
+      "addr:street": "Strada Bisericii",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "heritage": "2",
+      "heritage:operator": "lmi",
+      "name": "Biserica „Sfântul Gheorghe”",
+      "ref:RO:lmi": "IF-II-m-B-15284",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-731847302",
+    "name": "Școala Gimnazială Nr. 309",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.4314824,
+    "lng": 26.0194929,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "București",
+      "addr:country": "RO",
+      "addr:housenumber": "9",
+      "addr:postcode": "061231",
+      "addr:street": "Strada Moinești",
+      "alt_name": "Școala Gimnazială Numărul 309",
+      "amenity": "school",
+      "grades": "0-8",
+      "isced:level": "2",
+      "name": "Școala Gimnazială Nr. 309",
+      "phone": "+40214340426",
+      "source:addr:housenumber": "survey",
+      "source:addr:street": "survey",
+      "website": "https://www.scoala309.ro/"
+    }
+  },
+  {
+    "id": "way-734616693",
+    "name": "Dia Medical Port",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 44.4347188,
+    "lng": 25.9909466,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "București",
+      "addr:country": "RO",
+      "addr:housenumber": "448",
+      "addr:postcode": "061099",
+      "addr:street": "Bulevardul Iuliu Maniu",
+      "amenity": "clinic",
+      "building": "yes",
+      "healthcare": "clinic",
+      "name": "Dia Medical Port",
+      "source:addr:housenumber": "survey",
+      "source:addr:street": "survey"
+    }
+  },
+  {
+    "id": "way-757342708",
+    "name": "Liceul Tehnologic Petru Poni",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.4328385,
+    "lng": 25.9899432,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "București",
+      "addr:housenumber": "18",
+      "addr:postcode": "062203",
+      "addr:street": "Strada Preciziei",
+      "amenity": "school",
+      "barrier": "wall",
+      "name": "Liceul Tehnologic Petru Poni",
+      "source:addr:housenumber": "survey",
+      "source:addr:street": "survey"
+    }
+  },
+  {
+    "id": "way-772501804",
+    "name": "Școala Gimnazială Regina Maria",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.436815,
+    "lng": 26.0143307,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "București",
+      "addr:country": "RO",
+      "addr:housenumber": "73",
+      "addr:postcode": "062282",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Apusului",
+      "alt_name": "Școala Generală nr. 198",
+      "amenity": "school",
+      "barrier": "fence",
+      "education": "school",
+      "name": "Școala Gimnazială Regina Maria",
+      "source:addr:housenumber": "survey",
+      "source:addr:street": "survey"
+    }
+  },
+  {
+    "id": "way-772501806",
+    "name": "Gradinița Dumbrava Minunilor",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.4364659,
+    "lng": 26.0148192,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "București",
+      "addr:country": "RO",
+      "addr:housenumber": "3",
+      "addr:postcode": "062272",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Spartachiadei",
+      "alt_name": "Gradinița nr. 198",
+      "amenity": "school",
+      "barrier": "fence",
+      "name": "Gradinița Dumbrava Minunilor",
+      "source:addr:housenumber": "survey",
+      "source:addr:street": "survey"
+    }
+  },
+  {
+    "id": "way-772767683",
+    "name": "Grădinița Paradisul Piticilor",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 44.4311297,
+    "lng": 26.0195292,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "București",
+      "addr:country": "RO",
+      "addr:housenumber": "2",
+      "addr:postcode": "061231",
+      "addr:street": "Intrarea Viforului",
+      "amenity": "kindergarten",
+      "isced:level": "1",
+      "name": "Grădinița Paradisul Piticilor",
+      "source:addr:housenumber": "survey",
+      "source:addr:street": "survey"
+    }
+  },
+  {
+    "id": "way-772767689",
+    "name": "Școala Gimnazială Ion Dumitriu",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.4323622,
+    "lng": 26.0128718,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "București",
+      "addr:housenumber": "4",
+      "addr:postcode": "062164",
+      "addr:street": "Strada Hanul Ancuței",
+      "alt_name": "Școala Generală nr. 157",
+      "amenity": "school",
+      "building:levels": "6",
+      "name": "Școala Gimnazială Ion Dumitriu",
+      "source:addr:housenumber": "survey",
+      "source:addr:street": "survey"
+    }
+  },
+  {
+    "id": "way-772767690",
+    "name": "Grădinița Prichindel",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 44.4325848,
+    "lng": 26.0122149,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "București",
+      "addr:housenumber": "8-10",
+      "addr:postcode": "061089",
+      "addr:street": "Strada Roșiori de Vede",
+      "alt_name": "Grădinița nr. 195",
+      "amenity": "kindergarten",
+      "building:levels": "6",
+      "name": "Grădinița Prichindel",
+      "source:addr:housenumber": "survey",
+      "source:addr:street": "survey"
+    }
+  },
+  {
+    "id": "way-772981870",
+    "name": "Școala Gimnazială Sfânta Treime",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.4398976,
+    "lng": 26.0129276,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "București",
+      "addr:housenumber": "7",
+      "addr:postcode": "062249",
+      "addr:street": "Aleea Ghirlandei",
+      "alt_name": "Școala Generală nr. 160",
+      "amenity": "school",
+      "name": "Școala Gimnazială Sfânta Treime"
+    }
+  },
+  {
+    "id": "way-905092658",
+    "name": "Școala Internațională King George",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.4326473,
+    "lng": 26.0167326,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "București",
+      "addr:housenumber": "9-11",
+      "addr:postcode": "062159",
+      "addr:street": "Intrarea Capelei",
+      "amenity": "school",
+      "name": "Școala Internațională King George",
+      "source:addr:housenumber": "survey",
+      "source:addr:street": "survey"
+    }
+  },
+  {
+    "id": "way-1014458884",
+    "name": "Clinica Domnița Chiajna",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 44.4451427,
+    "lng": 25.9874807,
+    "osmType": "way",
+    "tags": {
+      "addr:country": "RO",
+      "addr:housenumber": "67",
+      "addr:postcode": "077042",
+      "addr:street": "Strada Rezervelor",
+      "amenity": "clinic",
+      "building": "yes",
+      "building:levels": "3",
+      "name": "Clinica Domnița Chiajna"
+    }
+  },
+  {
+    "id": "way-1169398189",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.4618924,
+    "lng": 25.9770502,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Chiajna",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1171323391",
+    "name": "Biserica „Adormirea Maicii Domnului”",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.4648807,
+    "lng": 25.9411923,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Dragomirești - Deal",
+      "addr:housenumber": "47",
+      "addr:street": "Strada Păcii",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "heritage": "2",
+      "heritage:operator": "lmi",
+      "name": "Biserica „Adormirea Maicii Domnului”",
+      "ref:RO:lmi": "IF-II-m-B-15283",
+      "ref:RO:ran": "102623.01",
+      "religion": "christian",
+      "start_date": "1760"
+    }
+  },
+  {
+    "id": "way-1176263181",
+    "name": "CITAM Romania",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.4317094,
+    "lng": 25.9909788,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "București",
+      "addr:housenumber": "12B",
+      "addr:postcode": "062203",
+      "addr:street": "Strada Preciziei",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "building:levels": "3",
+      "denomination": "neo-pentecostal",
+      "name": "CITAM Romania",
+      "religion": "christian",
+      "website": "https://www.citam.ro/"
+    }
+  },
+  {
+    "id": "way-1282036688",
+    "name": "Biserica Ortodoxă Sfântul Ioan Botezătorul - Militari",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.4331726,
+    "lng": 26.0158781,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "București",
+      "addr:street": "Strada Valea Lungă",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica Ortodoxă Sfântul Ioan Botezătorul - Militari",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1302088577",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 44.4466559,
+    "lng": 26.0195595,
+    "osmType": "way",
+    "tags": {
+      "amenity": "kindergarten"
+    }
+  },
+  {
+    "id": "way-1302088581",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 44.447457,
+    "lng": 26.0198066,
+    "osmType": "way",
+    "tags": {
+      "amenity": "kindergarten"
+    }
+  },
+  {
+    "id": "way-1327525076",
+    "name": "Las Vegas Games",
+    "type": "gaming",
+    "subcategory": "Las Vegas Games",
+    "lat": 44.4363011,
+    "lng": 25.9826756,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "București",
+      "addr:country": "RO",
+      "addr:housenumber": "546-560",
+      "addr:postcode": "061129",
+      "addr:street": "Bulevardul Iuliu Maniu",
+      "building:part": "yes",
+      "leisure": "adult_gaming_centre",
+      "name": "Las Vegas Games",
+      "opening_hours": "24/7",
+      "source:addr:housenumber:ref": "survey",
+      "source:postcode": "survey",
+      "website": "https://lasvegas-games.ro/"
+    }
+  },
+  {
+    "id": "way-1460718788",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.4503751,
+    "lng": 25.9851447,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school",
+      "education": "school"
+    }
+  }
+]

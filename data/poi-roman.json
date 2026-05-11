@@ -1,0 +1,361 @@
+[
+  {
+    "id": "node-844957560",
+    "name": "Biserica Ortodoxă Precista Mare",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9198534,
+    "lng": 26.9278898,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă Precista Mare",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-2433993271",
+    "name": "Biserica Horia",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9102357,
+    "lng": 26.9174761,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Horia",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-2826176096",
+    "name": "Biserica ortodoxă Sfântul Gheorghe",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9204113,
+    "lng": 26.9342402,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica ortodoxă Sfântul Gheorghe",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-3068113610",
+    "name": "Biserica Romano-Catolică Inima neprihănită a Mariei Roman",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9228905,
+    "lng": 26.9422912,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "catholic",
+      "name": "Biserica Romano-Catolică Inima neprihănită a Mariei Roman",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-5377462821",
+    "name": "Școala Vasile Alecsandri",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.9235382,
+    "lng": 26.9329676,
+    "osmType": "node",
+    "tags": {
+      "addr:street": "Strada Tineretului",
+      "amenity": "school",
+      "check_date": "2026-01-28",
+      "name": "Școala Vasile Alecsandri"
+    }
+  },
+  {
+    "id": "node-8628401582",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet",
+    "lat": 46.9277856,
+    "lng": 26.9391928,
+    "osmType": "node",
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-8628401602",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet",
+    "lat": 46.937905,
+    "lng": 26.923124,
+    "osmType": "node",
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-8628417524",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet Betting & Gaming SA",
+    "lat": 46.9369586,
+    "lng": 26.9358292,
+    "osmType": "node",
+    "tags": {
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-8628417591",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet",
+    "lat": 46.929821,
+    "lng": 26.92749,
+    "osmType": "node",
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-8628417758",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet Betting & Gaming SA",
+    "lat": 46.924365,
+    "lng": 26.92972,
+    "osmType": "node",
+    "tags": {
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "not:brand:wikidata": "Q61082636",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-8628417973",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet Betting & Gaming SA",
+    "lat": 46.92289,
+    "lng": 26.925328,
+    "osmType": "node",
+    "tags": {
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-11287947337",
+    "name": "Biserica Sfântul Ștefan cel Mare",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9240599,
+    "lng": 26.9414532,
+    "osmType": "node",
+    "tags": {
+      "addr:street": "Strada Smirodava",
+      "amenity": "place_of_worship",
+      "name": "Biserica Sfântul Ștefan cel Mare",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-11287947677",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9330841,
+    "lng": 26.936827,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-11294705453",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "jewish",
+    "lat": 46.9215366,
+    "lng": 26.9239284,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Roman",
+      "addr:housenumber": "16",
+      "addr:street": "Strada Bradului",
+      "amenity": "place_of_worship",
+      "name:de": "Leipzinger Synagoge",
+      "name:en": "Leipzinger Synagogue",
+      "religion": "jewish",
+      "wikidata": "Q107314186"
+    }
+  },
+  {
+    "id": "node-13120357501",
+    "name": "Spitalul Municipal de Urgență Roman",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 46.9278349,
+    "lng": 26.9310269,
+    "osmType": "node",
+    "tags": {
+      "addr:street": "Strada Tineretului",
+      "amenity": "hospital",
+      "healthcare": "hospital",
+      "name": "Spitalul Municipal de Urgență Roman"
+    }
+  },
+  {
+    "id": "node-13300155387",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9258897,
+    "lng": 26.9553279,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-69971556",
+    "name": "Catedrala Arhiepiscopală",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9175618,
+    "lng": 26.9299965,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Catedrala Arhiepiscopală",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-302563207",
+    "name": "Grădinița cu program prelungit nr. 5 Roman",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 46.9233287,
+    "lng": 26.9360973,
+    "osmType": "way",
+    "tags": {
+      "amenity": "kindergarten",
+      "building": "yes",
+      "name": "Grădinița cu program prelungit nr. 5 Roman"
+    }
+  },
+  {
+    "id": "way-932542034",
+    "name": "Biserica Albă „Sfinții Voievozi”",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9239743,
+    "lng": 26.9292301,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "name": "Biserica Albă „Sfinții Voievozi”",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1219319930",
+    "name": "Biserica Ortodoxă Sfântul Mare Mucenic Dimitrie",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9364254,
+    "lng": 26.9386646,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "name": "Biserica Ortodoxă Sfântul Mare Mucenic Dimitrie",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1329194782",
+    "name": "Biserica Ortodoxă Sfinții Împărați Constantin și Elena",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9293787,
+    "lng": 26.9401728,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica Ortodoxă Sfinții Împărați Constantin și Elena",
+      "religion": "christian"
+    }
+  }
+]

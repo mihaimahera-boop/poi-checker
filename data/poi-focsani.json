@@ -6,7 +6,11 @@
     "subcategory": "college",
     "lat": 45.6882125,
     "lng": 27.1909599,
-    "osmType": "node"
+    "osmType": "node",
+    "tags": {
+      "amenity": "college",
+      "name": "Liceul nr. 1"
+    }
   },
   {
     "id": "node-606327801",
@@ -15,7 +19,11 @@
     "subcategory": "university",
     "lat": 45.6774701,
     "lng": 27.1766953,
-    "osmType": "node"
+    "osmType": "node",
+    "tags": {
+      "amenity": "university",
+      "name": "Universitatea \"George Barițiu\""
+    }
   },
   {
     "id": "node-4196585212",
@@ -24,7 +32,11 @@
     "subcategory": "college",
     "lat": 45.6883312,
     "lng": 27.1901398,
-    "osmType": "node"
+    "osmType": "node",
+    "tags": {
+      "amenity": "college",
+      "name": "Colegiul Tehnic \"Edmund Nicolau\""
+    }
   },
   {
     "id": "node-4212308690",
@@ -33,7 +45,16 @@
     "subcategory": "clinic",
     "lat": 45.6893734,
     "lng": 27.1873752,
-    "osmType": "node"
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Focșani",
+      "addr:housenumber": "28",
+      "addr:postcode": "620117",
+      "addr:street": "Strada Bucegi",
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "name": "Policlinica 2"
+    }
   },
   {
     "id": "node-7176822585",
@@ -42,7 +63,131 @@
     "subcategory": "clinic",
     "lat": 45.6919894,
     "lng": 27.1877328,
-    "osmType": "node"
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Focșani",
+      "addr:flats": "83",
+      "addr:housename": "8",
+      "addr:postcode": "620117",
+      "addr:street": "Strada Bucegi",
+      "air_conditioning": "yes",
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "healthcare:speciality": "neurology",
+      "name": "Cabinet Medical Neurologie - dr. Buleu Mariana",
+      "opening_hours": "Mo-Fr 16:00-19:30, Sa 10:00-13:00",
+      "operator": "Neurologica SRL",
+      "operator:type": "private"
+    }
+  },
+  {
+    "id": "node-8628401592",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet Betting & Gaming SA",
+    "lat": 45.7038147,
+    "lng": 27.1828858,
+    "osmType": "node",
+    "tags": {
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-8628417570",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet Betting & Gaming SA",
+    "lat": 45.692744,
+    "lng": 27.185342,
+    "osmType": "node",
+    "tags": {
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-8628417946",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet",
+    "lat": 45.681022,
+    "lng": 27.181592,
+    "osmType": "node",
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-8628418084",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet Betting & Gaming SA",
+    "lat": 45.700616,
+    "lng": 27.183861,
+    "osmType": "node",
+    "tags": {
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-8628418242",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet",
+    "lat": 45.6978696,
+    "lng": 27.1836868,
+    "osmType": "node",
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-8754914563",
@@ -51,7 +196,11 @@
     "subcategory": "school",
     "lat": 45.6635592,
     "lng": 27.1649362,
-    "osmType": "node"
+    "osmType": "node",
+    "tags": {
+      "amenity": "school",
+      "name": "Școala Generală Golești"
+    }
   },
   {
     "id": "node-8911007856",
@@ -60,7 +209,64 @@
     "subcategory": "hospital",
     "lat": 45.6961611,
     "lng": 27.1825962,
-    "osmType": "node"
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Focșani",
+      "addr:housenumber": "1",
+      "addr:postcode": "630076",
+      "addr:street": "Strada Popa Sapca",
+      "amenity": "hospital",
+      "check_date": "2025-06-19",
+      "healthcare": "hospital",
+      "healthcare:speciality": "psychiatry",
+      "name": "Cabinet medical Psihomedicus Clinic"
+    }
+  },
+  {
+    "id": "node-9424513959",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet",
+    "lat": 45.7049034,
+    "lng": 27.1715817,
+    "osmType": "node",
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-9424549175",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet",
+    "lat": 45.6886857,
+    "lng": 27.195754,
+    "osmType": "node",
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "24/7",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-10776484033",
@@ -69,7 +275,26 @@
     "subcategory": "doctors",
     "lat": 45.6893569,
     "lng": 27.1816044,
-    "osmType": "node"
+    "osmType": "node",
+    "tags": {
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "healthcare:speciality": "urology",
+      "name": "CMI. Dr. Gavriliță Maxim"
+    }
+  },
+  {
+    "id": "node-10872891903",
+    "name": "Games",
+    "type": "betting",
+    "subcategory": "Games",
+    "lat": 45.6990715,
+    "lng": 27.1846797,
+    "osmType": "node",
+    "tags": {
+      "amenity": "gambling",
+      "name": "Games"
+    }
   },
   {
     "id": "node-11254642053",
@@ -78,7 +303,15 @@
     "subcategory": "clinic",
     "lat": 45.7108056,
     "lng": 27.1834963,
-    "osmType": "node"
+    "osmType": "node",
+    "tags": {
+      "amenity": "clinic",
+      "contact:email": "focsani@affidea.com",
+      "contact:phone": "+40 21 9338",
+      "contact:website": "https://affidea.ro/centre-medicale/affidea-focsani",
+      "name": "Affidea",
+      "opening_hours": "Mo-Fr 08:00-20:00"
+    }
   },
   {
     "id": "node-13230444072",
@@ -87,7 +320,13 @@
     "subcategory": "doctors",
     "lat": 45.7030769,
     "lng": 27.1714436,
-    "osmType": "node"
+    "osmType": "node",
+    "tags": {
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "healthcare:speciality": "paediatrics",
+      "name": "CMI Iacob"
+    }
   },
   {
     "id": "way-414686412",
@@ -96,7 +335,23 @@
     "subcategory": "christian",
     "lat": 45.696056,
     "lng": 27.1852612,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Focșani",
+      "addr:housenumber": "5",
+      "addr:street": "Piața Unirii",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "romanian_orthodox",
+      "heritage": "2",
+      "heritage:operator": "lmi",
+      "name": "Biserica „Nașterea Sfântului Ioan Botezătorul”",
+      "ref:RO:lmi": "VN-II-m-A-06489",
+      "religion": "christian",
+      "start_date": "1664",
+      "wikidata": "Q28725940",
+      "wikipedia": "ro:Biserica „Nașterea Sfântului Ioan Botezătorul” din Focșani"
+    }
   },
   {
     "id": "way-414686437",
@@ -105,7 +360,22 @@
     "subcategory": "christian",
     "lat": 45.6959145,
     "lng": 27.1823204,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Focșani",
+      "addr:housenumber": "1",
+      "addr:street": "Strada Cotești",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "check_date": "2025-06-20",
+      "denomination": "romanian_orthodox",
+      "heritage": "2",
+      "heritage:operator": "lmi",
+      "name": "Biserica „Sfântul Nicolae” - Vechi",
+      "ref:RO:lmi": "VN-II-m-A-06411",
+      "religion": "christian",
+      "start_date": "1716"
+    }
   },
   {
     "id": "way-414686441",
@@ -114,7 +384,12 @@
     "subcategory": "school",
     "lat": 45.6910252,
     "lng": 27.183606,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "amenity": "school",
+      "grades": "1-8",
+      "name": "Școala Generală Nr. 10 „Duliu Zamfirescu\""
+    }
   },
   {
     "id": "way-414686463",
@@ -123,7 +398,22 @@
     "subcategory": "christian",
     "lat": 45.6946176,
     "lng": 27.186962,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Focșani",
+      "addr:housenumber": "6",
+      "addr:street": "Strada Maior Gheorghe Pastia",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "check_date": "2025-06-20",
+      "denomination": "romanian_orthodox",
+      "heritage": "2",
+      "heritage:operator": "lmi",
+      "name": "Biserica „Adormirea Maicii Domnului” - Donie",
+      "ref:RO:lmi": "VN-II-m-B-06453",
+      "religion": "christian",
+      "start_date": "1712"
+    }
   },
   {
     "id": "way-414755081",
@@ -132,7 +422,10 @@
     "subcategory": "kindergarten",
     "lat": 45.6914176,
     "lng": 27.1884467,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "amenity": "kindergarten"
+    }
   },
   {
     "id": "way-414755115",
@@ -141,7 +434,20 @@
     "subcategory": "christian",
     "lat": 45.699008,
     "lng": 27.1917467,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Focșani",
+      "addr:housenumber": "5",
+      "addr:street": "Strada Moldova",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "heritage": "2",
+      "heritage:operator": "lmi",
+      "name": "Biserica „Sfinții Voievozi” - Stamatinești",
+      "ref:RO:lmi": "VN-II-a-B-06449",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-414755118",
@@ -150,7 +456,11 @@
     "subcategory": "college",
     "lat": 45.6979453,
     "lng": 27.1915716,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "amenity": "college",
+      "name": "Colegiul Național „Unirea\""
+    }
   },
   {
     "id": "way-415117004",
@@ -159,7 +469,22 @@
     "subcategory": "christian",
     "lat": 45.692531,
     "lng": 27.1853956,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Focșani",
+      "addr:housenumber": "22",
+      "addr:street": "Bulevardul Unirii",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "check_date": "2025-06-21",
+      "denomination": "romanian_orthodox",
+      "heritage": "2",
+      "heritage:operator": "lmi",
+      "name": "Biserica „Sfinții Împărați Constantin și Elena”",
+      "ref:RO:lmi": "VN-II-a-A-06485",
+      "religion": "christian",
+      "start_date": "1815"
+    }
   },
   {
     "id": "way-415118962",
@@ -168,7 +493,12 @@
     "subcategory": "school",
     "lat": 45.6945171,
     "lng": 27.1915602,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "amenity": "school",
+      "grades": "1-8",
+      "name": "Școala Generală Nr. 3 „Oana-Diana Renea\""
+    }
   },
   {
     "id": "way-415254961",
@@ -177,7 +507,15 @@
     "subcategory": "school",
     "lat": 45.6983333,
     "lng": 27.1816289,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Focșani",
+      "addr:housenumber": "12",
+      "addr:street": "Strada Ștefan cel Mare",
+      "amenity": "school",
+      "check_date": "2025-06-21",
+      "name": "Școala Generală Nr. 9 „Ștefan cel Mare\""
+    }
   },
   {
     "id": "way-415263306",
@@ -186,7 +524,11 @@
     "subcategory": "school",
     "lat": 45.67896,
     "lng": 27.1823512,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "amenity": "school",
+      "name": "Școala Generală Nr. 8 „Alexandru Vlahuță\""
+    }
   },
   {
     "id": "way-714736570",
@@ -195,7 +537,16 @@
     "subcategory": "childcare",
     "lat": 45.7039918,
     "lng": 27.1867849,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Focșani",
+      "addr:housenumber": "2",
+      "addr:street": "Fundătura Alexandru Sahia",
+      "amenity": "childcare",
+      "building": "yes",
+      "check_date": "2025-06-20",
+      "name": "Grădinița cu Program Normal Nr. 4"
+    }
   },
   {
     "id": "way-714736576",
@@ -204,7 +555,21 @@
     "subcategory": "christian",
     "lat": 45.7015935,
     "lng": 27.1882487,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Focșani",
+      "addr:housenumber": "13",
+      "addr:street": "Strada Duiliu Zamfirescu",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "romanian_orthodox",
+      "heritage": "2",
+      "heritage:operator": "lmi",
+      "name": "Biserica „Sfântul Nicolae\" Stroe",
+      "ref:RO:lmi": "VN-II-m-B-06491",
+      "religion": "christian",
+      "start_date": "1839"
+    }
   },
   {
     "id": "way-714736599",
@@ -213,7 +578,22 @@
     "subcategory": "christian",
     "lat": 45.6974877,
     "lng": 27.1836918,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Focșani",
+      "addr:housenumber": "42",
+      "addr:street": "Bulevardul Unirii",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "check_date": "2025-06-20",
+      "denomination": "romanian_orthodox",
+      "heritage": "2",
+      "heritage:operator": "lmi",
+      "name": "Biserica „Adormirea Maicii Domnului” - Precista",
+      "ref:RO:lmi": "VN-II-m-B-06486",
+      "religion": "christian",
+      "start_date": "1716"
+    }
   },
   {
     "id": "way-714736600",
@@ -222,7 +602,22 @@
     "subcategory": "christian",
     "lat": 45.7033777,
     "lng": 27.1827927,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Focșani",
+      "addr:housenumber": "20",
+      "addr:street": "Bulevardul Independenței",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "check_date": "2025-06-19",
+      "denomination": "romanian_orthodox",
+      "heritage": "2",
+      "heritage:operator": "lmi",
+      "name": "Biserica „Sfântul Gheorghe” - Nord",
+      "ref:RO:lmi": "VN-II-a-B-06439",
+      "religion": "christian",
+      "start_date": "1819"
+    }
   },
   {
     "id": "way-714736601",
@@ -231,7 +626,20 @@
     "subcategory": "christian",
     "lat": 45.7042591,
     "lng": 27.1855098,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Focșani",
+      "addr:housenumber": "28",
+      "addr:street": "Strada Mare a Unirii",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "romanian_orthodox",
+      "heritage": "2",
+      "heritage:operator": "lmi",
+      "name": "Biserica „Proorocul Samuil”",
+      "ref:RO:lmi": "VN-II-a-A-06447",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-714736602",
@@ -240,7 +648,21 @@
     "subcategory": "christian",
     "lat": 45.694825,
     "lng": 27.1837625,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Focșani",
+      "addr:housenumber": "7",
+      "addr:street": "Strada Popa Șapcă",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "check_date": "2025-06-20",
+      "denomination": "romanian_orthodox",
+      "heritage": "2",
+      "heritage:operator": "lmi",
+      "name": "Biserica „Sfântul Nicolae” - Nou",
+      "ref:RO:lmi": "VN-II-m-A-06454",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-714736603",
@@ -249,7 +671,21 @@
     "subcategory": "christian",
     "lat": 45.6959785,
     "lng": 27.1797864,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Focșani",
+      "addr:housenumber": "22",
+      "addr:street": "Strada Cotești",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "romanian_orthodox",
+      "heritage": "2",
+      "heritage:operator": "lmi",
+      "name": "Biserica Armenească „Sfântul Gheorghe”",
+      "ref:RO:lmi": "VN-II-m-B-06413",
+      "religion": "christian",
+      "start_date": "1789"
+    }
   },
   {
     "id": "way-714764363",
@@ -258,7 +694,21 @@
     "subcategory": "christian",
     "lat": 45.6988378,
     "lng": 27.1883519,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Focșani",
+      "addr:housenumber": "1",
+      "addr:street": "Strada Simion Bărnuțiu",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "romanian_orthodox",
+      "heritage": "2",
+      "heritage:operator": "lmi",
+      "name": "Biserica „Nașterea Maicii Domnului” - Săpunaru",
+      "ref:RO:lmi": "VN-II-m-A-06402",
+      "religion": "christian",
+      "start_date": "1783"
+    }
   },
   {
     "id": "way-935051596",
@@ -267,7 +717,19 @@
     "subcategory": "christian",
     "lat": 45.700204,
     "lng": 27.1902746,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Focșani",
+      "addr:housenumber": "38",
+      "addr:street": "Strada Cuza-Vodă",
+      "alt_name": "Biserica Catolică",
+      "amenity": "place_of_worship",
+      "building": "cathedral",
+      "denomination": "roman_catholic",
+      "name": "Biserica „Sfinții Apostoli Petru și Paul\"",
+      "religion": "christian",
+      "start_date": "2001"
+    }
   },
   {
     "id": "way-1082689490",
@@ -276,7 +738,13 @@
     "subcategory": "christian",
     "lat": 45.7137359,
     "lng": 27.2666024,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "name": "Biserica \"Sfântul Nicolae\"",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1082743965",
@@ -285,7 +753,20 @@
     "subcategory": "christian",
     "lat": 45.6976695,
     "lng": 27.1853955,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Focșani",
+      "addr:housenumber": "4",
+      "addr:street": "Strada Eroilor",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "heritage": "2",
+      "heritage:operator": "lmi",
+      "name": "Biserica „Sfântul Dumitru\"",
+      "ref:RO:lmi": "VN-II-m-B-06427",
+      "religion": "christian",
+      "start_date": "1700"
+    }
   },
   {
     "id": "way-1082743966",
@@ -294,7 +775,22 @@
     "subcategory": "christian",
     "lat": 45.6934726,
     "lng": 27.1749353,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Focșani",
+      "addr:housenumber": "3",
+      "addr:street": "Strada Rodnei",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "check_date": "2025-06-20",
+      "denomination": "romanian_orthodox",
+      "heritage": "2",
+      "heritage:operator": "lmi",
+      "name": "Biserica „Adormirea Maicii Domnului”",
+      "ref:RO:lmi": "VN-II-m-B-06464",
+      "religion": "christian",
+      "start_date": "1770"
+    }
   },
   {
     "id": "way-1082743967",
@@ -303,7 +799,21 @@
     "subcategory": "christian",
     "lat": 45.6962649,
     "lng": 27.1770049,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Focșani",
+      "addr:housenumber": "11",
+      "addr:street": "Strada Ovidenia",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "heritage": "2",
+      "heritage:operator": "lmi",
+      "name": "Biserica „Intrarea Maicii Domnului în Biserică”",
+      "ref:RO:lmi": "VN-II-m-B-06452",
+      "religion": "christian",
+      "start_date": "1687"
+    }
   },
   {
     "id": "way-1082743968",
@@ -312,7 +822,21 @@
     "subcategory": "christian",
     "lat": 45.6983917,
     "lng": 27.1810706,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Focșani",
+      "addr:housenumber": "3",
+      "addr:street": "Strada Făgăraș",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "check_date": "2025-06-21",
+      "denomination": "romanian_orthodox",
+      "heritage": "2",
+      "heritage:operator": "lmi",
+      "name": "Biserica „Intrarea Maicii Domnului în Biserică”, „Ovidenia”",
+      "ref:RO:lmi": "VN-II-m-B-06428",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1082743969",
@@ -321,7 +845,22 @@
     "subcategory": "christian",
     "lat": 45.7079088,
     "lng": 27.1834215,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Focșani",
+      "addr:housenumber": "46",
+      "addr:street": "Bulevardul Independenței",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "check_date": "2025-06-20",
+      "denomination": "romanian_orthodox",
+      "heritage": "2",
+      "heritage:operator": "lmi",
+      "name": "Biserica „Sfinții Apostoli Petru și Pavel\"",
+      "ref:RO:lmi": "VN-II-m-B-06440",
+      "religion": "christian",
+      "start_date": "1850"
+    }
   },
   {
     "id": "way-1082743970",
@@ -330,7 +869,21 @@
     "subcategory": "christian",
     "lat": 45.6934908,
     "lng": 27.1662826,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Focșani",
+      "addr:housenumber": "17",
+      "addr:street": "Strada Vîlcele",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "heritage": "2",
+      "heritage:operator": "lmi",
+      "name": "Biserica „Sfântul Gheorghe” - Sud",
+      "ref:RO:lmi": "VN-II-m-B-06490",
+      "religion": "christian",
+      "start_date": "1742"
+    }
   },
   {
     "id": "way-1082743971",
@@ -339,7 +892,20 @@
     "subcategory": "christian",
     "lat": 45.6950855,
     "lng": 27.1733258,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Focșani",
+      "addr:housenumber": "9",
+      "addr:street": "Strada Ghioceilor",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "heritage": "2",
+      "heritage:operator": "lmi",
+      "name": "Biserica „Sfântul Nicolae”",
+      "ref:RO:lmi": "VN-II-m-B-06437",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1082743972",
@@ -348,7 +914,21 @@
     "subcategory": "christian",
     "lat": 45.6952621,
     "lng": 27.1709381,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Focșani",
+      "addr:housenumber": "41",
+      "addr:street": "Strada Tăbăcari",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "heritage": "2",
+      "heritage:operator": "lmi",
+      "name": "Biserica „Sfântul Spiridon”",
+      "ref:RO:lmi": "VN-II-m-B-06479",
+      "religion": "christian",
+      "start_date": "1826"
+    }
   },
   {
     "id": "way-1082743973",
@@ -357,7 +937,21 @@
     "subcategory": "christian",
     "lat": 45.6982294,
     "lng": 27.1720068,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Focșani",
+      "addr:housenumber": "7",
+      "addr:street": "Strada Garofiței",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "heritage": "2",
+      "heritage:operator": "lmi",
+      "name": "Biserica „Sfinții Voievozi”",
+      "ref:RO:lmi": "VN-II-m-B-06429",
+      "religion": "christian",
+      "start_date": "1746"
+    }
   },
   {
     "id": "way-1088934510",
@@ -366,7 +960,15 @@
     "subcategory": "christian",
     "lat": 45.6915447,
     "lng": 27.1929647,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Focșani",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Sfântul Andrei\"",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1122161254",
@@ -375,7 +977,16 @@
     "subcategory": "christian",
     "lat": 45.6625254,
     "lng": 27.1621783,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Golești",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Sfântul Nicolae\"",
+      "religion": "christian",
+      "start_date": "1862"
+    }
   },
   {
     "id": "way-1126681513",
@@ -384,7 +995,13 @@
     "subcategory": "christian",
     "lat": 45.7317704,
     "lng": 27.2243113,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1143659826",
@@ -393,7 +1010,16 @@
     "subcategory": "christian",
     "lat": 45.6993298,
     "lng": 27.1783364,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Focșani",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica Armenească „Sfânta Maria\"",
+      "religion": "christian",
+      "start_date": "1780"
+    }
   },
   {
     "id": "way-1143659827",
@@ -402,7 +1028,16 @@
     "subcategory": "christian",
     "lat": 45.6998179,
     "lng": 27.1830529,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Focșani",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "check_date": "2025-06-19",
+      "denomination": "romanian_orthodox",
+      "name": "Catedrala \"Sfânta Parascheva\"",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1143728562",
@@ -411,7 +1046,12 @@
     "subcategory": "school",
     "lat": 45.7231943,
     "lng": 27.2320068,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "amenity": "school",
+      "building": "house",
+      "name": "Școala Nereju"
+    }
   },
   {
     "id": "way-1146098030",
@@ -420,7 +1060,18 @@
     "subcategory": "childcare",
     "lat": 45.7023133,
     "lng": 27.1780159,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Focșani",
+      "addr:housenumber": "22",
+      "addr:street": "Strada Nicolae Bălcescu",
+      "amenity": "childcare",
+      "building": "yes",
+      "heritage": "2",
+      "heritage:operator": "lmi",
+      "name": "Grădinița cu Program Prelungit Nr. 23",
+      "ref:RO:lmi": "VN-II-m-B-06401"
+    }
   },
   {
     "id": "way-1146098052",
@@ -429,7 +1080,20 @@
     "subcategory": "school",
     "lat": 45.7020711,
     "lng": 27.1908452,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Focșani",
+      "addr:housenumber": "46",
+      "addr:street": "Strada Cuza-Vodă",
+      "amenity": "school",
+      "building": "school",
+      "building:levels": "1",
+      "grades": "9-12",
+      "heritage": "2",
+      "heritage:operator": "lmi",
+      "ref:RO:lmi": "VN-II-m-B-06423",
+      "start_date": "1845"
+    }
   },
   {
     "id": "way-1146098055",
@@ -438,7 +1102,16 @@
     "subcategory": "school",
     "lat": 45.7029517,
     "lng": 27.1913894,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Focșani",
+      "addr:housenumber": "46",
+      "addr:street": "Strada Cuza-Vodă",
+      "amenity": "school",
+      "building": "school",
+      "grades": "9-12",
+      "start_date": "1965"
+    }
   },
   {
     "id": "way-1146098059",
@@ -447,7 +1120,15 @@
     "subcategory": "childcare",
     "lat": 45.7016849,
     "lng": 27.1924464,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Focșani",
+      "addr:housenumber": "6",
+      "addr:street": "Strada Alecu Sihleanu",
+      "amenity": "childcare",
+      "building": "yes",
+      "name": "Grădinița cu Program Prelungit Nr. 2"
+    }
   },
   {
     "id": "way-1146098060",
@@ -456,7 +1137,14 @@
     "subcategory": "school",
     "lat": 45.7013551,
     "lng": 27.192653,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Focșani",
+      "addr:street": "Strada Alecu Sihleanu",
+      "amenity": "school",
+      "building": "school",
+      "grades": "9-12"
+    }
   },
   {
     "id": "way-1146098062",
@@ -465,7 +1153,15 @@
     "subcategory": "christian",
     "lat": 45.7041538,
     "lng": 27.1919022,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Focșani",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Sfântul Pantelimon\"",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1146098072",
@@ -474,7 +1170,15 @@
     "subcategory": "childcare",
     "lat": 45.6944206,
     "lng": 27.1832153,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Focșani",
+      "amenity": "childcare",
+      "building": "yes",
+      "check_date": "2025-06-20",
+      "name": "Grădinița cu Program Prelungit Nr. 18",
+      "start_date": "1982"
+    }
   },
   {
     "id": "way-1146098078",
@@ -483,7 +1187,19 @@
     "subcategory": "university",
     "lat": 45.6993317,
     "lng": 27.1868597,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Focșani",
+      "addr:housenumber": "71",
+      "addr:street": "Strada Republicii",
+      "amenity": "university",
+      "architect": "Daniel Renard",
+      "building": "yes",
+      "heritage": "2",
+      "heritage:operator": "lmi",
+      "ref:RO:lmi": "VN-II-m-A-06461",
+      "start_date": "1926"
+    }
   },
   {
     "id": "way-1146098123",
@@ -492,7 +1208,18 @@
     "subcategory": "christian",
     "lat": 45.6957967,
     "lng": 27.1994398,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Focșani",
+      "addr:housenumber": "30",
+      "addr:street": "Strada Bistrița",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Sfântul Mina\"",
+      "religion": "christian",
+      "start_date": "1977"
+    }
   },
   {
     "id": "way-1146098126",
@@ -501,7 +1228,16 @@
     "subcategory": "christian",
     "lat": 45.6924046,
     "lng": 27.2022739,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Focșani",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Sfântul Dumitru\" - Bahne",
+      "religion": "christian",
+      "start_date": "1910"
+    }
   },
   {
     "id": "way-1148562774",
@@ -510,7 +1246,13 @@
     "subcategory": "christian",
     "lat": 45.6595095,
     "lng": 27.2531444,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1150559348",
@@ -519,7 +1261,13 @@
     "subcategory": "hospital",
     "lat": 45.7044843,
     "lng": 27.1940929,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "amenity": "hospital",
+      "building": "yes",
+      "healthcare": "hospital",
+      "healthcare:speciality": "paediatrics"
+    }
   },
   {
     "id": "way-1150559359",
@@ -528,7 +1276,13 @@
     "subcategory": "hospital",
     "lat": 45.7037599,
     "lng": 27.1950049,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "amenity": "hospital",
+      "building": "yes",
+      "healthcare": "hospital",
+      "healthcare:speciality": "pulmonology"
+    }
   },
   {
     "id": "way-1150559360",
@@ -537,7 +1291,14 @@
     "subcategory": "hospital",
     "lat": 45.7049326,
     "lng": 27.1953938,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "amenity": "hospital",
+      "building": "yes",
+      "healthcare": "hospital",
+      "healthcare:speciality": "infectious_diseases",
+      "name": "Spitalul de Boli Infecțioase"
+    }
   },
   {
     "id": "way-1150559394",
@@ -546,7 +1307,17 @@
     "subcategory": "school",
     "lat": 45.6988686,
     "lng": 27.1930342,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Focșani",
+      "addr:housenumber": "8",
+      "addr:street": "Strada Moldova",
+      "amenity": "school",
+      "education": "school",
+      "grades": "1-8",
+      "name": "Școala Gimnazială Nr. 5 „Anghel Saligny\"",
+      "website": "https://scoala5focsani.coresi20.ro/"
+    }
   },
   {
     "id": "way-1150559397",
@@ -555,7 +1326,16 @@
     "subcategory": "school",
     "lat": 45.6995921,
     "lng": 27.1919129,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Focșani",
+      "addr:housenumber": "9",
+      "addr:street": "Strada Moldova",
+      "amenity": "school",
+      "grades": "9-12",
+      "name": "Colegiul Tehnic „Gheorghe Asachi”",
+      "website": "https://ctasachifocsani.ro/"
+    }
   },
   {
     "id": "way-1150559406",
@@ -564,7 +1344,15 @@
     "subcategory": "school",
     "lat": 45.7046975,
     "lng": 27.1853129,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Focșani",
+      "addr:housenumber": "64",
+      "addr:street": "Strada Mare a Unirii",
+      "amenity": "school",
+      "grades": "1-8",
+      "name": "Școala Generală Nr. 2 „Ion Basgan\""
+    }
   },
   {
     "id": "way-1150559427",
@@ -573,7 +1361,15 @@
     "subcategory": "school",
     "lat": 45.7026145,
     "lng": 27.1912826,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Focșani",
+      "addr:housenumber": "46",
+      "addr:street": "Strada Cuza-Vodă",
+      "amenity": "school",
+      "grades": "9-12",
+      "name": "Colegiul Tehnic „Valeriu D. Cotea\""
+    }
   },
   {
     "id": "way-1150559438",
@@ -582,7 +1378,12 @@
     "subcategory": "school",
     "lat": 45.7069863,
     "lng": 27.1937972,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "amenity": "school",
+      "name": "Centrul Școlar pentru Educație Incluzivă „Elena Doamna\"",
+      "name:en": "School Center for Inclusive Education \"Lady Elena\""
+    }
   },
   {
     "id": "way-1150559440",
@@ -591,7 +1392,13 @@
     "subcategory": "school",
     "lat": 45.6939675,
     "lng": 27.1910227,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "amenity": "school",
+      "grades": "9-12",
+      "name": "Liceul de Artă „Gheorghe Tattarescu\"",
+      "name:en": "\"Gheorghe Tattarescu\" Art High School"
+    }
   },
   {
     "id": "way-1150559443",
@@ -600,7 +1407,12 @@
     "subcategory": "school",
     "lat": 45.6934795,
     "lng": 27.1762279,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "amenity": "school",
+      "grades": "9-12",
+      "name": "Colegiul Tehnic Auto „Traian Vuia\""
+    }
   },
   {
     "id": "way-1150559444",
@@ -609,7 +1421,15 @@
     "subcategory": "school",
     "lat": 45.7032862,
     "lng": 27.1737534,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Focșani",
+      "addr:housenumber": "47",
+      "addr:street": "Strada Aleea Școlii",
+      "amenity": "school",
+      "check_date": "2025-06-20",
+      "name": "Școala Generală Nr. 7 „Adrian Păunescu\""
+    }
   },
   {
     "id": "way-1150559447",
@@ -618,7 +1438,14 @@
     "subcategory": "school",
     "lat": 45.7063382,
     "lng": 27.173723,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Focșani",
+      "addr:housenumber": "9",
+      "addr:street": "Strada Gloriei",
+      "amenity": "school",
+      "name": "Școala Postliceală Sanitară „Vasile Alecsandri\""
+    }
   },
   {
     "id": "way-1150559448",
@@ -627,7 +1454,14 @@
     "subcategory": "school",
     "lat": 45.7064821,
     "lng": 27.173752,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Focșani",
+      "addr:housenumber": "11",
+      "addr:street": "Strada Gloriei",
+      "amenity": "school",
+      "name": "Școala Postliceală „Ana Aslan\""
+    }
   },
   {
     "id": "way-1150559449",
@@ -636,7 +1470,15 @@
     "subcategory": "school",
     "lat": 45.7096653,
     "lng": 27.1855265,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Focșani",
+      "addr:housenumber": "50",
+      "addr:street": "Strada Mărășești",
+      "amenity": "school",
+      "grades": "9-12",
+      "name": "Liceul Tehnologic „G.G. Longinescu\""
+    }
   },
   {
     "id": "way-1150559450",
@@ -645,7 +1487,15 @@
     "subcategory": "school",
     "lat": 45.6996875,
     "lng": 27.1720272,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Focșani",
+      "addr:housenumber": "25",
+      "addr:street": "Bulevardul Gării",
+      "amenity": "school",
+      "grades": "9-12",
+      "name": "Colegiul Economic „Mihail Kogălniceanu\""
+    }
   },
   {
     "id": "way-1150559452",
@@ -654,7 +1504,15 @@
     "subcategory": "school",
     "lat": 45.6912401,
     "lng": 27.1799045,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Focșani",
+      "addr:housenumber": "2",
+      "addr:street": "Strada Timotei Cipariu",
+      "amenity": "school",
+      "grades": "9-12",
+      "name": "Colegiul Național Pedagogic „Spiru Haret\""
+    }
   },
   {
     "id": "way-1150559456",
@@ -663,7 +1521,18 @@
     "subcategory": "school",
     "lat": 45.6883351,
     "lng": 27.1918098,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Focșani",
+      "addr:housenumber": "32",
+      "addr:postcode": "620124",
+      "addr:street": "Strada 1 Decembrie 1918",
+      "amenity": "school",
+      "grades": "9-12",
+      "name": "Colegiul Tehnic „Ion Mincu\"",
+      "opening_hours": "Mo-Fr 07:00-19:00",
+      "website": "http://www.ctmincufocsani.ro"
+    }
   },
   {
     "id": "way-1150559457",
@@ -672,7 +1541,16 @@
     "subcategory": "childcare",
     "lat": 45.6793565,
     "lng": 27.181242,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Focșani",
+      "addr:housenumber": "1",
+      "addr:street": "Aleea 1 Iunie",
+      "amenity": "childcare",
+      "building": "yes",
+      "name": "Grădinița cu Program Prelungit Nr. 1",
+      "start_date": "1973"
+    }
   },
   {
     "id": "way-1150562820",
@@ -681,7 +1559,15 @@
     "subcategory": "hospital",
     "lat": 45.696796,
     "lng": 27.1905659,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Focșani",
+      "addr:housenumber": "3-5",
+      "addr:street": "Strada Cezar Bolliac",
+      "amenity": "hospital",
+      "healthcare": "hospital",
+      "name": "Spitalul Militar de Urgenţă „Dr. Alexandru Popescu”"
+    }
   },
   {
     "id": "way-1150955321",
@@ -690,7 +1576,16 @@
     "subcategory": "childcare",
     "lat": 45.6976183,
     "lng": 27.1755539,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Focșani",
+      "addr:housenumber": "9",
+      "addr:street": "Strada Profesor Dimitrie Caian",
+      "amenity": "childcare",
+      "building": "yes",
+      "name": "Grădinița cu Program Normal Nr. 3",
+      "start_date": "1948"
+    }
   },
   {
     "id": "way-1150955323",
@@ -699,7 +1594,12 @@
     "subcategory": "childcare",
     "lat": 45.6900821,
     "lng": 27.1833044,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "amenity": "childcare",
+      "building": "yes",
+      "name": "Grădinița cu Program Prelungit Nr. 7"
+    }
   },
   {
     "id": "way-1150955324",
@@ -708,7 +1608,12 @@
     "subcategory": "childcare",
     "lat": 45.6777544,
     "lng": 27.1834415,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "amenity": "childcare",
+      "building": "yes",
+      "name": "Grădinița cu Program Prelungit Nr. 13"
+    }
   },
   {
     "id": "way-1150955376",
@@ -717,7 +1622,14 @@
     "subcategory": "christian",
     "lat": 45.6785354,
     "lng": 27.1811766,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Înălțarea Domnului\"",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1150955383",
@@ -726,7 +1638,14 @@
     "subcategory": "childcare",
     "lat": 45.7053801,
     "lng": 27.1723692,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "amenity": "childcare",
+      "building": "yes",
+      "check_date": "2025-06-20",
+      "name": "Grădinița cu Program Prelungit Nr. 15",
+      "start_date": "1974"
+    }
   },
   {
     "id": "way-1150955385",
@@ -735,7 +1654,14 @@
     "subcategory": "childcare",
     "lat": 45.6937357,
     "lng": 27.1938235,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "amenity": "childcare",
+      "building": "yes",
+      "check_date": "2025-06-21",
+      "name": "Grădinița cu Program Prelungit Nr. 16",
+      "start_date": "1974"
+    }
   },
   {
     "id": "way-1158031725",
@@ -744,7 +1670,16 @@
     "subcategory": "christian",
     "lat": 45.7033007,
     "lng": 27.1745796,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "check_date": "2025-06-20",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Sfinții Trei Ierarhi\"",
+      "religion": "christian",
+      "start_date": "2009"
+    }
   },
   {
     "id": "way-1158031753",
@@ -753,7 +1688,13 @@
     "subcategory": "christian",
     "lat": 45.678111,
     "lng": 27.1761087,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1158031761",
@@ -762,7 +1703,17 @@
     "subcategory": "jewish",
     "lat": 45.7005339,
     "lng": 27.1864832,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Focșani",
+      "addr:housenumber": "4",
+      "addr:street": "Strada Oituz",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "name": "Sinagoga „Ahai Vereai\"",
+      "religion": "jewish",
+      "start_date": "1859"
+    }
   },
   {
     "id": "way-1158526419",
@@ -771,7 +1722,14 @@
     "subcategory": "christian",
     "lat": 45.6980906,
     "lng": 27.1719791,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Focșani",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1158526507",
@@ -780,7 +1738,16 @@
     "subcategory": "christian",
     "lat": 45.6899462,
     "lng": 27.1934184,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Focșani",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "check_date": "2025-06-21",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Sfinții Antonie și Sava\"",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1158750551",
@@ -789,7 +1756,15 @@
     "subcategory": "christian",
     "lat": 45.6800637,
     "lng": 27.1868046,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Focșani",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Ștefan cel Mare și Sfântul Ierarh Nicolae\"",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1158750634",
@@ -798,7 +1773,16 @@
     "subcategory": "christian",
     "lat": 45.6781862,
     "lng": 27.187095,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Focșani",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Tuturor Sfinților\"",
+      "religion": "christian",
+      "start_date": "2010"
+    }
   },
   {
     "id": "way-1158750737",
@@ -807,7 +1791,17 @@
     "subcategory": "christian",
     "lat": 45.6744617,
     "lng": 27.1807086,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Focșani",
+      "addr:housenumber": "3",
+      "addr:street": "Aleea Sudului",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Pogorârea Sfântului Duh\"",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1158960503",
@@ -816,7 +1810,18 @@
     "subcategory": "christian",
     "lat": 45.6966862,
     "lng": 27.1745929,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Focșani",
+      "addr:housenumber": "24",
+      "addr:street": "Strada Tăbăcari",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "baptist",
+      "name": "Biserica Baptistă Betania",
+      "name:ro": "Biserica Baptistă Betania",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1161796535",
@@ -825,7 +1830,15 @@
     "subcategory": "christian",
     "lat": 45.6857783,
     "lng": 27.1847944,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Focșani",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Capela Militară „Sfântul Prooroc Ilie Tesviteanul\"",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1190781232",
@@ -834,7 +1847,14 @@
     "subcategory": "christian",
     "lat": 45.6613165,
     "lng": 27.1670504,
-    "osmType": "way"
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Golești",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "religion": "christian"
+    }
   },
   {
     "id": "relation-13292032",
@@ -843,7 +1863,13 @@
     "subcategory": "hospital",
     "lat": 45.7044549,
     "lng": 27.1933158,
-    "osmType": "relation"
+    "osmType": "relation",
+    "tags": {
+      "amenity": "hospital",
+      "building": "yes",
+      "healthcare": "hospital",
+      "type": "multipolygon"
+    }
   },
   {
     "id": "relation-15547445",
@@ -852,7 +1878,13 @@
     "subcategory": "hospital",
     "lat": 45.7041539,
     "lng": 27.1938359,
-    "osmType": "relation"
+    "osmType": "relation",
+    "tags": {
+      "amenity": "hospital",
+      "healthcare": "hospital",
+      "name": "Spitalul Județean de Urgență „Sfântul Pantelimon\"",
+      "type": "multipolygon"
+    }
   },
   {
     "id": "relation-15547446",
@@ -861,6 +1893,13 @@
     "subcategory": "college",
     "lat": 45.7026087,
     "lng": 27.1902032,
-    "osmType": "relation"
+    "osmType": "relation",
+    "tags": {
+      "addr:city": "Focșani",
+      "addr:street": "Strada Cuza-Vodă",
+      "amenity": "college",
+      "name": "Colegiul Național „Alexandru Ioan Cuza\"",
+      "type": "multipolygon"
+    }
   }
 ]

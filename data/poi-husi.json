@@ -7,8 +7,16 @@
     "lat": 46.67665,
     "lng": 28.05798,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Catedrala Episcopală Huși",
+      "religion": "christian",
+      "source": "jonutzu@gpszone.ro",
+      "tourism": "attraction",
+      "wikidata": "Q12723692",
+      "wikipedia": "ro:Catedrala Episcopală din Huși"
+    }
   },
   {
     "id": "node-1316063366",
@@ -18,8 +26,13 @@
     "lat": 46.67281,
     "lng": 28.02129,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Mănăstirea Schimbarea la Față",
+      "religion": "christian",
+      "source": "jonutzu@gpszone.ro"
+    }
   },
   {
     "id": "node-4865156295",
@@ -29,8 +42,11 @@
     "lat": 46.6659366,
     "lng": 28.0710705,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Biserică",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-4865669436",
@@ -40,8 +56,16 @@
     "lat": 46.672389,
     "lng": 28.0689999,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Huși",
+      "addr:street": "Strada Ștefan cel Mare",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "orthodox",
+      "name": "Biserica Sfântul Dumitru",
+      "name:pl": "Cerkiew św. Dymitra",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-4991627821",
@@ -51,8 +75,16 @@
     "lat": 46.6706666,
     "lng": 28.0638619,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:housenumber": "15",
+      "addr:postcode": "735100",
+      "addr:street": "Strada Maior Popovici",
+      "amenity": "kindergarten",
+      "name": "Grădinița nr.1",
+      "name:en": "Kindergarten no.1",
+      "name:ro": "Grădinița nr.1",
+      "opening_hours": "Mo-Fr 07:00-18:00"
+    }
   },
   {
     "id": "node-5180594553",
@@ -62,8 +94,12 @@
     "lat": 46.6736845,
     "lng": 28.0568337,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserică",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-5180840751",
@@ -73,8 +109,10 @@
     "lat": 46.6751099,
     "lng": 28.0502675,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "hospital",
+      "name": "Spitalul Municipal Huși"
+    }
   },
   {
     "id": "node-5180840775",
@@ -84,8 +122,10 @@
     "lat": 46.6718473,
     "lng": 28.047795,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "college",
+      "name": "Colegiul Agricol Dimitrie Cantemir -Huși"
+    }
   },
   {
     "id": "node-5189211102",
@@ -95,8 +135,12 @@
     "lat": 46.6739689,
     "lng": 28.0522026,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserică",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-5215729272",
@@ -106,41 +150,86 @@
     "lat": 46.6706869,
     "lng": 28.0652726,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Huși",
+      "addr:postcode": "735100",
+      "addr:street": "Strada Sfântul Gheorghe",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "orthodox",
+      "name": "Biserica Sfântul Gheorghe",
+      "name:pl": "Cerkiew św. Jerzego",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-8628417546",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet",
     "lat": 46.6708425,
     "lng": 28.0838849,
     "osmType": "node",
-    "brand": "Superbet",
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-8628417605",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet",
     "lat": 46.6726252,
     "lng": 28.0584598,
     "osmType": "node",
-    "brand": "Superbet",
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-8628417611",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet",
     "lat": 46.673753,
     "lng": 28.061888,
     "osmType": "node",
-    "brand": "Superbet",
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-10855406377",
@@ -150,8 +239,23 @@
     "lat": 46.6773576,
     "lng": 28.0220294,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-11819708720",
+    "name": "Royal Cafe",
+    "type": "betting",
+    "subcategory": "Royal Cafe",
+    "lat": 46.6719981,
+    "lng": 28.0820447,
+    "osmType": "node",
+    "tags": {
+      "name": "Royal Cafe",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "way-208575570",
@@ -161,8 +265,13 @@
     "lat": 46.674996,
     "lng": 28.0584931,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:housename": "Seminarul Teologic \"Sfântul Ioan Gură de Aur\" Huși",
+      "amenity": "school",
+      "building": "yes",
+      "designation": "Education",
+      "name": "Seminarul Teologic \"Sfântul Ioan Gură de Aur\" Huși"
+    }
   },
   {
     "id": "way-208575574",
@@ -172,8 +281,11 @@
     "lat": 46.6749104,
     "lng": 28.0572367,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "building": "yes",
+      "name": "Colegiul Național \"Cuza-Vodă\" Huși"
+    }
   },
   {
     "id": "way-208575579",
@@ -183,8 +295,15 @@
     "lat": 46.6743421,
     "lng": 28.0564322,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:housename": "Școala cu clasele I-VIII Nr.3 \"Anastasie Panu\" Huși",
+      "addr:housenumber": "15",
+      "addr:postcode": "735100",
+      "addr:street": "Strada Mihail Kogălniceanu",
+      "amenity": "school",
+      "building": "yes",
+      "name": "Școala cu clasele I-VIII Nr.3 \"Anastasie Panu\" Huși"
+    }
   },
   {
     "id": "way-208575586",
@@ -194,8 +313,17 @@
     "lat": 46.674864,
     "lng": 28.0558787,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:housename": "Colegiul Național \"Cuza-Vodă\" Huși",
+      "addr:housenumber": "11",
+      "addr:postcode": "735100",
+      "addr:street": "Strada Mihail Kogălniceanu",
+      "amenity": "school",
+      "building": "yes",
+      "designation": "Education",
+      "name": "Colegiul Național \"Cuza-Vodă\" Huși (corp nou)",
+      "source": "http://lcvhusi.licee.edu.ro"
+    }
   },
   {
     "id": "way-208575590",
@@ -205,8 +333,11 @@
     "lat": 46.6752751,
     "lng": 28.0578036,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "building": "yes",
+      "name": "Liceul Agricol \"Dimitrie Cantemir\" Huși"
+    }
   },
   {
     "id": "way-261088413",
@@ -216,8 +347,11 @@
     "lat": 46.7059436,
     "lng": 28.0390468,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "hospital",
+      "emergency": "no",
+      "name": "Dispensar medic de familie"
+    }
   },
   {
     "id": "way-1353495154",
@@ -227,8 +361,17 @@
     "lat": 46.6740027,
     "lng": 28.0591975,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Huși",
+      "addr:housenumber": "3",
+      "addr:postcode": "735100",
+      "addr:street": "Strada Alexandru Giugaru",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "martorii_lui_iehova",
+      "name": "Sala Regatului a Martorilor lui Iehova",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1426091526",
@@ -238,7 +381,10 @@
     "lat": 46.6739903,
     "lng": 28.0626314,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "religion": "christian"
+    }
   }
 ]

@@ -7,8 +7,28 @@
     "lat": 47.0595695,
     "lng": 22.0026115,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "orthodox",
+      "name": "Biserica Podgoria",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-505689231",
+    "name": "Biserica Greco-Catolică",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9967468,
+    "lng": 21.9967072,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "romanian_catholic",
+      "name": "Biserica Greco-Catolică",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-506504802",
@@ -18,8 +38,16 @@
     "lat": 47.0600859,
     "lng": 21.9315468,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "alt_name:hu": "Premontrei templom",
+      "amenity": "place_of_worship",
+      "denomination": "roman_catholic",
+      "name": "Biserica Mănăstirii Premonstratense Maica Îndurerată",
+      "name:hu": "Fájdalmas anya templom",
+      "religion": "christian",
+      "url:miserend": "https://miserend.hu/templom/3684",
+      "wheelchair": "no"
+    }
   },
   {
     "id": "node-516102303",
@@ -29,8 +57,10 @@
     "lat": 47.050467,
     "lng": 21.9199967,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "name": "Școala Sportivă"
+    }
   },
   {
     "id": "node-703825870",
@@ -40,8 +70,19 @@
     "lat": 47.0570222,
     "lng": 21.922709,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:housenumber": "27",
+      "addr:postcode": "410209",
+      "addr:street": "Strada Primăriei",
+      "amenity": "university",
+      "email": "partium@partium.ro",
+      "name": "Universitatea Creștină Partium - Clădirea Sulyok",
+      "name:en": "Partium Christian University",
+      "name:hu": "Partiumi Keresztény Egyetem - Sulyok épület",
+      "opening_hours": "Mo-Su 07:00-21:00",
+      "phone": "0040-259-418252",
+      "website": "https://www.partium.ro/"
+    }
   },
   {
     "id": "node-703829100",
@@ -51,8 +92,16 @@
     "lat": 47.0577192,
     "lng": 21.9323101,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:housenumber": "4",
+      "addr:street": "Strada Republicii",
+      "amenity": "place_of_worship",
+      "denomination": "roman_catholic",
+      "name": "Biserica Sfânta Ana (Mănăstirea Ursulinelor)",
+      "name:hu": "Szent Anna templom",
+      "religion": "christian",
+      "url:miserend": "https://miserend.hu/templom/3686"
+    }
   },
   {
     "id": "node-1316063317",
@@ -62,8 +111,134 @@
     "lat": 47.1033301,
     "lng": 21.8876023,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:housenumber": "234A",
+      "addr:postcode": "410133",
+      "addr:street": "Strada Matei Corvin",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "orthodox",
+      "name": "Mănăstirea Buna Vestire",
+      "religion": "christian",
+      "source": "local knowledge"
+    }
+  },
+  {
+    "id": "node-1492545118",
+    "name": "Betesda",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9866367,
+    "lng": 21.9819711,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "baptist",
+      "name": "Betesda",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-1492545124",
+    "name": "Bethesda",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9876769,
+    "lng": 21.9850575,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "pentecostal",
+      "name": "Bethesda",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-1493556655",
+    "name": "Biserica ortodoxă română Băile Felix",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9903641,
+    "lng": 21.9778587,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica ortodoxă română Băile Felix",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-1493556657",
+    "name": "Pogorârea Sfântului Spirit",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9903652,
+    "lng": 21.979303,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "greek_catholic",
+      "name": "Pogorârea Sfântului Spirit",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-1493556658",
+    "name": "Policlinica Băile Felix",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 46.9901319,
+    "lng": 21.9776925,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Băile Felix",
+      "amenity": "clinic",
+      "name": "Policlinica Băile Felix"
+    }
+  },
+  {
+    "id": "node-1493556722",
+    "name": "Biserica Ortodoxă (fostă catolică)",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9918649,
+    "lng": 21.9788136,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă (fostă catolică)",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-1734265241",
+    "name": "Biserica Sf Arhangheli",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9944491,
+    "lng": 21.9965478,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Sf Arhangheli",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-1734273081",
+    "name": "Centrul de Recuperare",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 46.9962315,
+    "lng": 22.0005,
+    "osmType": "node",
+    "tags": {
+      "amenity": "doctors",
+      "name": "Centrul de Recuperare"
+    }
   },
   {
     "id": "node-1737744565",
@@ -73,8 +248,59 @@
     "lat": 47.1033231,
     "lng": 21.8832676,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Sf. Arhangheli Mihai și Gavril",
+      "religion": "christian",
+      "source": "local knowledge"
+    }
+  },
+  {
+    "id": "node-1997615084",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.1438575,
+    "lng": 21.9986736,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-1997705392",
+    "name": "Biserica Romano-Catolică",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.1570693,
+    "lng": 22.0326299,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "roman_catholic",
+      "name": "Biserica Romano-Catolică",
+      "name:hu": "Szent József-templom",
+      "religion": "christian",
+      "url:miserend": "https://miserend.hu/templom/4851"
+    }
+  },
+  {
+    "id": "node-1997705425",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.1564163,
+    "lng": 22.0712803,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-1999225317",
@@ -84,8 +310,11 @@
     "lat": 47.1145298,
     "lng": 21.9571351,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "reformed",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-2000492192",
@@ -95,8 +324,12 @@
     "lat": 47.0854481,
     "lng": 21.9276267,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "baptist",
+      "name": "Biserica Baptistă",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-2000492353",
@@ -106,8 +339,12 @@
     "lat": 47.086175,
     "lng": 21.9250032,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-2001715472",
@@ -117,8 +354,16 @@
     "lat": 47.1034188,
     "lng": 21.9003973,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "alt_name:hu": "Szent Lőrinc Biharpüspöki római katolikus templom",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "roman_catholic",
+      "name": "Biserica Catolică Episcopia Bihor",
+      "name:hu": "Szent Lőrinc diakónus, vértanú templom",
+      "religion": "christian",
+      "url:miserend": "https://miserend.hu/templom/3697"
+    }
   },
   {
     "id": "node-2005216124",
@@ -128,8 +373,57 @@
     "lat": 47.090572,
     "lng": 21.9790099,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-2005299631",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.0851597,
+    "lng": 22.0677078,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-2007100834",
+    "name": "Biserica",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.167631,
+    "lng": 21.836267,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "fixme": "possible duplicated amenity (POI & poly)",
+      "name": "Biserica",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-2007101618",
+    "name": "Biserica",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.169393,
+    "lng": 21.8390285,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "fixme": "possible duplicated amenity (POI & poly)",
+      "name": "Biserica",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-2011414125",
@@ -139,8 +433,22 @@
     "lat": 47.0744392,
     "lng": 21.9128272,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:floor": "G",
+      "addr:housenumber": "F7",
+      "addr:street": "Strada Ṣelimbărului",
+      "air_conditioning": "no",
+      "amenity": "place_of_worship",
+      "baby_feeding": "no",
+      "check_date": "2023-11-09",
+      "denomination": "orthodox",
+      "internet_access": "no",
+      "name": "Biserica Sf Trei Ierarhi",
+      "name:ro": "Biserica Sf Trei Ierarhi",
+      "religion": "christian",
+      "source": "survey",
+      "wheelchair": "limited"
+    }
   },
   {
     "id": "node-2011414374",
@@ -150,8 +458,15 @@
     "lat": 47.0728056,
     "lng": 21.9221787,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "roman_catholic",
+      "name": "Adormirea Maicii Domnului",
+      "name:hu": "Csodásérmű Boldogasszony templom",
+      "religion": "christian",
+      "url:miserend": "https://miserend.hu/templom/3694"
+    }
   },
   {
     "id": "node-2015477558",
@@ -161,8 +476,62 @@
     "lat": 47.0530011,
     "lng": 21.9006057,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Sfinții Apostoli Petru și Pavel",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-2017968950",
+    "name": "Biserica Ortodoxă Sânmartin",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.0057296,
+    "lng": 21.9754934,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Sânmartin",
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă Sânmartin",
+      "name:ro": "Biserica Ortodoxă Sânmartin",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-2019494901",
+    "name": "Biserica Sf Arhangheli",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9987389,
+    "lng": 21.9525349,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Sf Arhangheli",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-2019571779",
+    "name": "Biserica Romano-Catolică",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.0040701,
+    "lng": 21.9770455,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "roman_catholic",
+      "name": "Biserica Romano-Catolică",
+      "name:hu": "Szent István első vértanú templom",
+      "religion": "christian",
+      "url:miserend": "https://miserend.hu/templom/4766"
+    }
   },
   {
     "id": "node-2019583040",
@@ -172,8 +541,99 @@
     "lat": 47.0127714,
     "lng": 22.0204921,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-2022013725",
+    "name": "Biserica Ortodoxă Înâlțarea Domnului",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.0766714,
+    "lng": 21.7778979,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă Înâlțarea Domnului",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-2022077131",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.0097784,
+    "lng": 21.8059916,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Livada de Bihor",
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-2023674009",
+    "name": "Biserica Ortodoxa \"Adormirea Maicii Domnului\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9938164,
+    "lng": 21.8814573,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxa \"Adormirea Maicii Domnului\"",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-2023674182",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9998351,
+    "lng": 21.8834077,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-2025281786",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9700844,
+    "lng": 22.0228074,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-2026937795",
+    "name": "Biserica Alparea",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.030307,
+    "lng": 22.0470917,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Alparea",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-2026937841",
@@ -183,8 +643,12 @@
     "lat": 47.0449927,
     "lng": 22.0303014,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Nouă",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-2026937985",
@@ -194,8 +658,12 @@
     "lat": 47.0451609,
     "lng": 22.0298883,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Veche",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-2026937996",
@@ -205,8 +673,54 @@
     "lat": 47.0441933,
     "lng": 22.0285743,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "reformed",
+      "name": "Biserica Reformată",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-2026962663",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.056667,
+    "lng": 22.0447209,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-2027781333",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.995848,
+    "lng": 22.0773212,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-2032185675",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9499362,
+    "lng": 22.0520902,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-2034618952",
@@ -216,8 +730,10 @@
     "lat": 47.0759866,
     "lng": 21.9105832,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "kindergarten",
+      "name": "Grădinița 20"
+    }
   },
   {
     "id": "node-2034618953",
@@ -227,8 +743,217 @@
     "lat": 47.0759939,
     "lng": 21.9119511,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "name": "Liceul Lucian Blaga"
+    }
+  },
+  {
+    "id": "node-2117812836",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9078358,
+    "lng": 22.0789812,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-2118210727",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9092788,
+    "lng": 22.0663481,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-2118244841",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.904302,
+    "lng": 22.0673518,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-2148853720",
+    "name": "Biserica Romano-Catolică",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9054345,
+    "lng": 21.7877768,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "roman_catholic",
+      "name": "Biserica Romano-Catolică",
+      "name:hu": "Szent László király-templom",
+      "religion": "christian",
+      "url:miserend": "https://miserend.hu/templom/4814"
+    }
+  },
+  {
+    "id": "node-2148853773",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9019399,
+    "lng": 21.7906254,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-2156359102",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9260957,
+    "lng": 21.7803122,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-2177652122",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9479756,
+    "lng": 21.8673975,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Păușa",
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-2177652124",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9466865,
+    "lng": 21.8695974,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-2178793944",
+    "name": "Biserica",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9153742,
+    "lng": 22.0143754,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-2374550835",
+    "name": "Reformed Church",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.1528738,
+    "lng": 21.9211071,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "reformed",
+      "name": "Reformed Church",
+      "religion": "christian",
+      "wikimedia_commons": "Category:Reformed church in Biharia"
+    }
+  },
+  {
+    "id": "node-2374555901",
+    "name": "Catholic Church",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.1528045,
+    "lng": 21.920214,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "roman_catholic",
+      "name": "Catholic Church",
+      "name:hu": "Nagyboldogasszony templom",
+      "religion": "christian",
+      "url:miserend": "https://miserend.hu/templom/4736",
+      "wikimedia_commons": "Category:Roman Catholic church in Biharia"
+    }
+  },
+  {
+    "id": "node-2374559749",
+    "name": "Orthodox Church",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.1518614,
+    "lng": 21.9191491,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Orthodox Church",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-2374561937",
+    "name": "Fără nume",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 47.152146,
+    "lng": 21.9198089,
+    "osmType": "node",
+    "tags": {
+      "amenity": "hospital",
+      "emergency": "yes"
+    }
+  },
+  {
+    "id": "node-3180509726",
+    "name": "Eldorado Casino",
+    "type": "gaming",
+    "subcategory": "Eldorado Casino",
+    "lat": 47.0514028,
+    "lng": 21.93904,
+    "osmType": "node",
+    "tags": {
+      "leisure": "adult_gaming_centre",
+      "name": "Eldorado Casino"
+    }
   },
   {
     "id": "node-3501759561",
@@ -238,8 +963,28 @@
     "lat": 47.0723182,
     "lng": 21.9330475,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "reformed",
+      "name": "Biserică reformată",
+      "name:hu": "Réti református templom",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-4341135727",
+    "name": "Red Sevens",
+    "type": "gaming",
+    "subcategory": "Red Sevens",
+    "lat": 47.080625,
+    "lng": 21.9215278,
+    "osmType": "node",
+    "tags": {
+      "amenity": "casino",
+      "check_date": "2022-11-07",
+      "name": "Red Sevens",
+      "name:ro": "Red Sevens"
+    }
   },
   {
     "id": "node-4347914531",
@@ -249,8 +994,33 @@
     "lat": 47.0693104,
     "lng": 21.8526957,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "greek_catholic",
+      "name": "Biserica Greco-Catolică Sfinții Arhangheli",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-4360452290",
+    "name": "Biserica Crestina Maghiara Biharia",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.1516769,
+    "lng": 21.9220737,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Biharia",
+      "addr:housenumber": "38",
+      "addr:postcode": "417050",
+      "addr:street": "Arany János",
+      "amenity": "place_of_worship",
+      "denomination": "baptist",
+      "name": "Biserica Crestina Maghiara Biharia",
+      "name:hu": "Bihari Magyar Baptista Imaház",
+      "name:ro": "Biserica Crestina Maghiara Biharia",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-4540081520",
@@ -260,8 +1030,14 @@
     "lat": 47.076659,
     "lng": 21.9188031,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:housenumber": "10",
+      "addr:street": "Strada Mihail Sadoveanu",
+      "amenity": "kindergarten",
+      "name": "Gradinita cu program prelungit Nr. 35",
+      "name:ro": "Gradinita cu program prelungit Nr. 35",
+      "opening_hours": "Mo-Fr 06:00-17:30"
+    }
   },
   {
     "id": "node-4564154290",
@@ -271,8 +1047,43 @@
     "lat": 47.0333909,
     "lng": 21.9459427,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:housenumber": "18",
+      "addr:street": "Strada episcop Nicolae Popovici",
+      "amenity": "doctors",
+      "internet_access": "wlan",
+      "name": "Cabinet stomatologic",
+      "name:ro": "Cabinet stomatologic"
+    }
+  },
+  {
+    "id": "node-4825351153",
+    "name": "Jackpot Club",
+    "type": "gaming",
+    "subcategory": "Jackpot Club",
+    "lat": 47.0624894,
+    "lng": 21.9378031,
+    "osmType": "node",
+    "tags": {
+      "amenity": "casino",
+      "min_age": "18",
+      "name": "Jackpot Club"
+    }
+  },
+  {
+    "id": "node-4932619946",
+    "name": "Biserica Sf Treime",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9332719,
+    "lng": 22.048397,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica Sf Treime",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-4938688434",
@@ -282,8 +1093,21 @@
     "lat": 47.0577828,
     "lng": 21.9223764,
     "osmType": "node",
-    "brand": null,
-    "operator": "Partiumi Keresztény Egyetem"
+    "tags": {
+      "addr:housenumber": "16",
+      "addr:postcode": "410202",
+      "addr:street": "Strada Episcop Sulyok István",
+      "amenity": "school",
+      "email": "partium@partium.ro",
+      "name": "Universitatea Creștină Partium - Clădirea Partium",
+      "name:en": "Partium Christian University",
+      "name:hu": "Partiumi Keresztény Egyetem - Partium épület",
+      "name:ro": "Universitatea Creștină Partium - Clădirea Partium",
+      "opening_hours": "Mo-Su 07:00-21:00",
+      "operator": "Partiumi Keresztény Egyetem",
+      "phone": "0040259451430",
+      "website": "https://www.partium.ro/"
+    }
   },
   {
     "id": "node-5052961321",
@@ -293,8 +1117,40 @@
     "lat": 47.0622358,
     "lng": 21.9313387,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:housenumber": "28",
+      "addr:postcode": "410101",
+      "addr:street": "Strada Mihai Eminescu",
+      "amenity": "school",
+      "name": "Școala cu clasele I - VIII \"Szacsvay Imre\"",
+      "opening_hours": "Mo-Fr 08:00-16:00",
+      "website": "https://www.scoala-szacsvay-iskola.ro/"
+    }
+  },
+  {
+    "id": "node-5461989139",
+    "name": "Școala Generală Eugen Jianu",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 47.0735038,
+    "lng": 21.7803751,
+    "osmType": "node",
+    "tags": {
+      "amenity": "school",
+      "name": "Școala Generală Eugen Jianu"
+    }
+  },
+  {
+    "id": "node-5637238423",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 47.1553327,
+    "lng": 21.9210748,
+    "osmType": "node",
+    "tags": {
+      "amenity": "school"
+    }
   },
   {
     "id": "node-7981182385",
@@ -304,8 +1160,13 @@
     "lat": 47.0433001,
     "lng": 21.9195374,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica de lemn",
+      "name:en": "Wooden Church",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-7981215885",
@@ -315,8 +1176,10 @@
     "lat": 47.0473425,
     "lng": 21.9233733,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "name:en": "Wooden Church Militara"
+    }
   },
   {
     "id": "node-8516264332",
@@ -326,162 +1189,411 @@
     "lat": 47.0602358,
     "lng": 21.9378721,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "alt_name:hu": "Irgalmasrendiek temploma",
+      "amenity": "place_of_worship",
+      "denomination": "roman_catholic",
+      "name": "Biserica Mizericordienilor",
+      "name:hu": "Őrangyalok-templom",
+      "religion": "christian",
+      "url:miserend": "https://miserend.hu/templom/3685"
+    }
+  },
+  {
+    "id": "node-8547094038",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9334207,
+    "lng": 22.0532262,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-8628401578",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet Betting & Gaming SA",
     "lat": 47.0747144,
     "lng": 21.9016823,
     "osmType": "node",
-    "brand": null,
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-8628417614",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet Betting & Gaming SA",
     "lat": 47.06984,
     "lng": 21.934639,
     "osmType": "node",
-    "brand": null,
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-8628417647",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet",
+    "lat": 47.0048081,
+    "lng": 21.9756335,
+    "osmType": "node",
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-8628417822",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet",
     "lat": 47.032969,
     "lng": 21.949385,
     "osmType": "node",
-    "brand": "Superbet",
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-8628417855",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet",
     "lat": 47.0568901,
     "lng": 21.917738,
     "osmType": "node",
-    "brand": "Superbet",
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-8628417880",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet Betting & Gaming SA",
     "lat": 47.056565,
     "lng": 21.867943,
     "osmType": "node",
-    "brand": null,
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-8628417971",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet",
     "lat": 47.0367563,
     "lng": 21.9435396,
     "osmType": "node",
-    "brand": "Superbet",
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-8628418039",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet",
     "lat": 47.072739,
     "lng": 21.9172324,
     "osmType": "node",
-    "brand": "Superbet",
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-8628418056",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet",
     "lat": 47.0648547,
     "lng": 21.9103673,
     "osmType": "node",
-    "brand": "Superbet",
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-8628418091",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet",
     "lat": 47.0484618,
     "lng": 21.940282,
     "osmType": "node",
-    "brand": "Superbet",
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-8628418156",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet",
     "lat": 47.053425,
     "lng": 21.92825,
     "osmType": "node",
-    "brand": "Superbet",
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-8628418204",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet",
     "lat": 47.0501042,
     "lng": 21.9054,
     "osmType": "node",
-    "brand": "Superbet",
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "addr:city": "Oradea",
+      "addr:housenumber": "40",
+      "addr:street": "Calea Aradului",
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-8628418358",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet Betting & Gaming SA",
     "lat": 47.0794928,
     "lng": 21.9188833,
     "osmType": "node",
-    "brand": null,
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-8628418393",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet",
     "lat": 47.0323893,
     "lng": 21.9495249,
     "osmType": "node",
-    "brand": "Superbet",
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-8628418400",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet Betting & Gaming SA",
     "lat": 47.069022,
     "lng": 21.9240627,
     "osmType": "node",
-    "brand": null,
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-9900436067",
+    "name": "scoala",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.928281,
+    "lng": 21.7856985,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Gepiu",
+      "addr:place": "Gepiu",
+      "amenity": "school",
+      "name": "scoala"
+    }
+  },
+  {
+    "id": "node-9900436073",
+    "name": "gradinita",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 46.928189,
+    "lng": 21.7833511,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Gepiu",
+      "addr:place": "Gepiu",
+      "amenity": "kindergarten",
+      "name": "gradinita"
+    }
+  },
+  {
+    "id": "node-9900436567",
+    "name": "scoala",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.9019591,
+    "lng": 21.7864067,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Gepiu",
+      "addr:place": "Bicaci",
+      "amenity": "school",
+      "name": "scoala"
+    }
   },
   {
     "id": "node-9943134195",
@@ -491,8 +1603,11 @@
     "lat": 47.0563209,
     "lng": 21.9404042,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "name": "Lavinia Davidescu"
+    }
   },
   {
     "id": "node-9943173919",
@@ -502,8 +1617,10 @@
     "lat": 47.0583577,
     "lng": 21.9403182,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "doctors",
+      "healthcare": "doctor"
+    }
   },
   {
     "id": "node-9943204798",
@@ -513,8 +1630,10 @@
     "lat": 47.0570079,
     "lng": 21.9334962,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "doctors",
+      "healthcare": "doctor"
+    }
   },
   {
     "id": "node-9945497409",
@@ -524,8 +1643,142 @@
     "lat": 47.0547876,
     "lng": 21.9362826,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "doctors"
+    }
+  },
+  {
+    "id": "node-10164990923",
+    "name": "El Dorado",
+    "type": "betting",
+    "subcategory": "El Dorado",
+    "lat": 47.0781438,
+    "lng": 21.9181535,
+    "osmType": "node",
+    "tags": {
+      "addr:housenumber": "21",
+      "addr:street": "Strada Transilvaniei",
+      "amenity": "gambling",
+      "check_date": "2022-11-07",
+      "internet_access": "wlan",
+      "internet_access:fee": "customers",
+      "name": "El Dorado",
+      "name:ro": "El Dorado",
+      "opening_hours": "24/7",
+      "payment:mastercard": "yes",
+      "payment:visa": "yes",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "id": "node-10164997076",
+    "name": "77777",
+    "type": "betting",
+    "subcategory": "77777",
+    "lat": 47.0794705,
+    "lng": 21.9174307,
+    "osmType": "node",
+    "tags": {
+      "amenity": "gambling",
+      "check_date": "2022-11-07",
+      "name": "77777",
+      "name:ro": "77777"
+    }
+  },
+  {
+    "id": "node-10165806963",
+    "name": "Las Vegas Games",
+    "type": "betting",
+    "subcategory": "Las Vegas Games",
+    "lat": 47.0777118,
+    "lng": 21.9162718,
+    "osmType": "node",
+    "tags": {
+      "amenity": "gambling",
+      "check_date": "2022-11-07",
+      "name": "Las Vegas Games",
+      "name:ro": "Las Vegas Games",
+      "opening_hours": "24/7",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "id": "node-10165835112",
+    "name": "Jackpot",
+    "type": "betting",
+    "subcategory": "Jackpot",
+    "lat": 47.0770508,
+    "lng": 21.9162496,
+    "osmType": "node",
+    "tags": {
+      "amenity": "gambling",
+      "check_date": "2022-11-07",
+      "name": "Jackpot",
+      "name:ro": "Jackpot",
+      "opening_hours": "24/7"
+    }
+  },
+  {
+    "id": "node-10165920347",
+    "name": "Farmacia Fortuna",
+    "type": "betting",
+    "subcategory": "Farmacia Fortuna",
+    "lat": 47.0777292,
+    "lng": 21.9161636,
+    "osmType": "node",
+    "tags": {
+      "amenity": "pharmacy",
+      "check_date": "2022-11-07",
+      "healthcare": "pharmacy",
+      "name": "Farmacia Fortuna",
+      "name:ro": "Farmacia Fortuna",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "id": "node-10166131795",
+    "name": "Las Vegas",
+    "type": "betting",
+    "subcategory": "Las Vegas",
+    "lat": 47.0810667,
+    "lng": 21.9210598,
+    "osmType": "node",
+    "tags": {
+      "amenity": "gambling",
+      "check_date": "2022-11-07",
+      "name": "Las Vegas",
+      "name:ro": "Las Vegas"
+    }
+  },
+  {
+    "id": "node-10166152738",
+    "name": "Casa Pariurilor",
+    "type": "betting",
+    "subcategory": "Casa Pariurilor",
+    "lat": 47.0805721,
+    "lng": 21.9213459,
+    "osmType": "node",
+    "tags": {
+      "check_date": "2022-11-07",
+      "name": "Casa Pariurilor",
+      "name:ro": "Casa Pariurilor",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-10166315981",
+    "name": "Fortuna",
+    "type": "betting",
+    "subcategory": "Fortuna",
+    "lat": 47.0735298,
+    "lng": 21.9255241,
+    "osmType": "node",
+    "tags": {
+      "check_date": "2022-11-07",
+      "name": "Fortuna",
+      "name:ro": "Fortuna",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-10167110667",
@@ -535,8 +1788,59 @@
     "lat": 47.0552584,
     "lng": 21.9244512,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Oradea",
+      "addr:housenumber": "26",
+      "addr:postcode": "410660",
+      "addr:street": "Strada Episcop Mihai Pavel",
+      "amenity": "place_of_worship",
+      "check_date": "2025-09-02",
+      "denomination": "mormon",
+      "name": "Biserica lui Isus Hristos a Sfintilor din Zilele din Urma",
+      "name:en": "Church of Jesus Christ of Latter-day Saints",
+      "religion": "christian",
+      "service_times": "Sun 10:00 am Sacrament meets first"
+    }
+  },
+  {
+    "id": "node-10801029850",
+    "name": "Magic House",
+    "type": "gaming",
+    "subcategory": "Magic House",
+    "lat": 47.0418404,
+    "lng": 21.9253807,
+    "osmType": "node",
+    "tags": {
+      "name": "Magic House",
+      "shop": "collector"
+    }
+  },
+  {
+    "id": "node-10801087843",
+    "name": "Las Vegas Games",
+    "type": "betting",
+    "subcategory": "Las Vegas Games",
+    "lat": 47.0418963,
+    "lng": 21.9252074,
+    "osmType": "node",
+    "tags": {
+      "name": "Las Vegas Games",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-11228495219",
+    "name": "Club 5",
+    "type": "betting",
+    "subcategory": "Club 5",
+    "lat": 47.080884,
+    "lng": 21.9210147,
+    "osmType": "node",
+    "tags": {
+      "fixme": "Confirm if it's still open.",
+      "name": "Club 5",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-11254642058",
@@ -546,8 +1850,14 @@
     "lat": 47.0598868,
     "lng": 21.9385546,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "clinic",
+      "contact:email": "oradea@affidea.com",
+      "contact:phone": "+40 259 268 720",
+      "contact:website": "https://affidea.ro/centre-medicale/affidea-hiperdia-oradea",
+      "name": "Affidea",
+      "opening_hours": "Mo-Fr 08:00-20:00"
+    }
   },
   {
     "id": "node-11510831327",
@@ -557,8 +1867,14 @@
     "lat": 47.1172854,
     "lng": 21.9942575,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Uileacu de Munte",
+      "addr:housenumber": "4",
+      "addr:postcode": "417172",
+      "amenity": "place_of_worship",
+      "denomination": "baptist",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-11527411483",
@@ -568,8 +1884,31 @@
     "lat": 47.0502079,
     "lng": 21.9377932,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "name": "MedLife"
+    }
+  },
+  {
+    "id": "node-11556195174",
+    "name": "Spitalul de Recuperare",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 46.9903961,
+    "lng": 21.9831887,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Băile Felix",
+      "addr:housenumber": "30",
+      "addr:street": "Calea Beiușului",
+      "amenity": "hospital",
+      "healthcare": "hospital",
+      "healthcare:speciality": "trauma_recovery",
+      "name": "Spitalul de Recuperare",
+      "operator": "Municipal",
+      "operator:type": "public"
+    }
   },
   {
     "id": "node-11843037982",
@@ -579,8 +1918,27 @@
     "lat": 47.0399526,
     "lng": 21.927591,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:housenumber": "35",
+      "addr:street": "Strada Ceyrat 31, bloc WR12, parter",
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "healthcare:speciality": "psychiatry",
+      "name": "Dr Iova",
+      "opening_hours": "Mo-Fr 8:00-20:00"
+    }
+  },
+  {
+    "id": "node-12492765207",
+    "name": "Fără nume",
+    "type": "gaming",
+    "subcategory": "adult_gaming_centre",
+    "lat": 47.0660551,
+    "lng": 21.9238544,
+    "osmType": "node",
+    "tags": {
+      "leisure": "adult_gaming_centre"
+    }
   },
   {
     "id": "node-13476045110",
@@ -590,8 +1948,80 @@
     "lat": 47.0458976,
     "lng": 21.93947,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Oradea",
+      "addr:housenumber": "2/A",
+      "addr:postcode": "410477",
+      "addr:street": "Strada Beiușului",
+      "amenity": "place_of_worship",
+      "denomination": "baptist",
+      "name": "Biserica Baptistă Maghiară Betlehem",
+      "name:hu": "Betlehem Magyar Baptista Gyülekezet",
+      "name:ro": "Biserica Baptistă Maghiară Betlehem",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-13524278209",
+    "name": "Școala Gimnazială ,, D. R. Popescu\" Nojorid",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.9940859,
+    "lng": 21.8825031,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Nojorid",
+      "addr:housenumber": "185",
+      "addr:postcode": "417345",
+      "addr:street": "Strada Principala",
+      "amenity": "school",
+      "name": "Școala Gimnazială ,, D. R. Popescu\" Nojorid"
+    }
+  },
+  {
+    "id": "node-13524278219",
+    "name": "Biserica Baptista \"Emanuel\" Oradea",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9992151,
+    "lng": 21.8829707,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "baptist",
+      "name": "Biserica Baptista \"Emanuel\" Oradea",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-13584860758",
+    "name": "Vitalogy",
+    "type": "medical",
+    "subcategory": "pharmacy",
+    "lat": 47.0047326,
+    "lng": 21.9756878,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Sânmartin",
+      "addr:street": "Strada Samuil Micu Klein",
+      "amenity": "pharmacy",
+      "healthcare": "hospital",
+      "name": "Vitalogy"
+    }
+  },
+  {
+    "id": "node-13584860765",
+    "name": "Farmacie",
+    "type": "medical",
+    "subcategory": "pharmacy",
+    "lat": 47.0046012,
+    "lng": 21.975503,
+    "osmType": "node",
+    "tags": {
+      "amenity": "pharmacy",
+      "healthcare": "hospital",
+      "name": "Farmacie"
+    }
   },
   {
     "id": "node-13595604601",
@@ -601,8 +2031,16 @@
     "lat": 47.0598944,
     "lng": 21.9407255,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Oradea",
+      "addr:housenumber": "33B",
+      "addr:street": "George Enescu",
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "healthcare:speciality": "general;medic_de_familie",
+      "name": "CMI DR. HIDI BERNADETT",
+      "phone": "+40259428866"
+    }
   },
   {
     "id": "node-13798934207",
@@ -612,8 +2050,27 @@
     "lat": 47.06187,
     "lng": 21.9191906,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "healthcare:speciality": "radiology;cardiology;neurology;gastroenterology;paediatrics;dermatology",
+      "name": "Raze",
+      "opening_hours": "Mo-Fr 07:00-20:00",
+      "website": "https://www.clinicaraze.ro/clinica-raze-decebal/"
+    }
+  },
+  {
+    "id": "node-13804384937",
+    "name": "Red Sevens 777",
+    "type": "betting",
+    "subcategory": "Red Sevens 777",
+    "lat": 47.0575714,
+    "lng": 21.926478,
+    "osmType": "node",
+    "tags": {
+      "amenity": "gambling",
+      "name": "Red Sevens 777"
+    }
   },
   {
     "id": "way-41293449",
@@ -623,8 +2080,10 @@
     "lat": 47.0657397,
     "lng": 21.9057217,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "name": "Școala Octavian Goga"
+    }
   },
   {
     "id": "way-41293455",
@@ -634,8 +2093,10 @@
     "lat": 47.0672006,
     "lng": 21.9018921,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "name": "Liceul Tehnologic \"Constantin Brâncuși\""
+    }
   },
   {
     "id": "way-41309511",
@@ -645,8 +2106,9 @@
     "lat": 47.0492894,
     "lng": 21.9331958,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school"
+    }
   },
   {
     "id": "way-41416611",
@@ -656,8 +2118,14 @@
     "lat": 47.0605659,
     "lng": 21.930562,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "college",
+      "check_date": "2025-09-14",
+      "is_in:city": "Oradea",
+      "name": "Colegiul Național Mihai Eminescu",
+      "name:en": "Mihai Eminescu National College",
+      "name:ro": "Colegiul Național Mihai Eminescu"
+    }
   },
   {
     "id": "way-190653989",
@@ -667,8 +2135,17 @@
     "lat": 47.0516034,
     "lng": 21.9433941,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "roman_catholic",
+      "name": "Biserica catolică",
+      "name:hu": "Helyőrségi templom",
+      "religion": "christian",
+      "url:miserend": "https://miserend.hu/templom/4801",
+      "wikidata": "Q42779099",
+      "wikipedia": "ro:Biserica romano-catolică din Cetatea Oradea"
+    }
   },
   {
     "id": "way-199191245",
@@ -678,8 +2155,13 @@
     "lat": 47.0749167,
     "lng": 21.917108,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "hospital",
+      "building": "yes",
+      "emergency": "no",
+      "healthcare": "hospital",
+      "name": "Spitalul Clinic Municipal Dr. Gavril Curteanu"
+    }
   },
   {
     "id": "way-199193080",
@@ -689,8 +2171,13 @@
     "lat": 47.0721563,
     "lng": 21.9151561,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:housename": "45",
+      "addr:housenumber": "100A",
+      "addr:street": "Strada Aluminei",
+      "amenity": "kindergarten",
+      "name": "Grădinița 45 cu program prelungit"
+    }
   },
   {
     "id": "way-199194115",
@@ -700,8 +2187,104 @@
     "lat": 47.0638051,
     "lng": 21.9450195,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "hospital",
+      "building": "yes",
+      "healthcare": "hospital",
+      "name": "Spitalul Clinic de Neurologie și Psihiatrie"
+    }
+  },
+  {
+    "id": "way-207629627",
+    "name": "Școală",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.9197291,
+    "lng": 22.0202159,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school",
+      "name": "Școală"
+    }
+  },
+  {
+    "id": "way-243194085",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9651872,
+    "lng": 21.9753174,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "orthodox",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-243196013",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9625205,
+    "lng": 21.834629,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "orthodox",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-243199125",
+    "name": "Biserica",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9689084,
+    "lng": 21.925892,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "orthodox",
+      "name": "Biserica",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-243199126",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9653421,
+    "lng": 21.8389615,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "orthodox",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-243201239",
+    "name": "Biserica Ortodoxă Chișirid",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9692246,
+    "lng": 21.8904091,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Chișirid",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă Chișirid",
+      "name:ro": "Biserica Ortodoxă Chișirid",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-261607829",
@@ -711,8 +2294,17 @@
     "lat": 47.0669165,
     "lng": 21.9251692,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Oradea",
+      "addr:housenumber": "19",
+      "addr:postcode": "410318",
+      "addr:street": "Strada Doina",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "pentecostal",
+      "name": "Biserica Betania",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-262027659",
@@ -722,8 +2314,20 @@
     "lat": 47.0501773,
     "lng": 21.9472812,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Oradea",
+      "addr:housenumber": "2",
+      "addr:street": "Strada Griviței",
+      "amenity": "school",
+      "building": "school",
+      "email": "lucretia_suciu2004@yahoo.com",
+      "fax": "+40 359 809 002",
+      "grades": "5-8",
+      "isced:level": "2",
+      "name": "Școala gimnazială „Lucreția Suciu”",
+      "phone": "+40 259 418 208",
+      "website": "http://www.scoalalucretiasuciu.ro/"
+    }
   },
   {
     "id": "way-262767448",
@@ -733,8 +2337,18 @@
     "lat": 47.0671287,
     "lng": 21.9061645,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Oradea",
+      "addr:housenumber": "49 E",
+      "addr:postcode": "410282",
+      "addr:street": "Strada Cazaban",
+      "amenity": "school",
+      "building": "yes",
+      "name": "Liceul Don Orione",
+      "phone": "0359 409729",
+      "website": "https://www.ldo.ro/",
+      "wheelchair": "yes"
+    }
   },
   {
     "id": "way-262768555",
@@ -744,8 +2358,18 @@
     "lat": 47.0661082,
     "lng": 21.9095492,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Oradea",
+      "addr:housenumber": "37",
+      "addr:postcode": "410272",
+      "addr:street": "Strada Alexandru Cazaban",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "orthodox",
+      "name": "Biserica Sfântul Duh Mângâietor",
+      "phone": "0359455055",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-262788659",
@@ -755,8 +2379,16 @@
     "lat": 47.0565524,
     "lng": 21.9159579,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Oradea",
+      "addr:housenumber": "45",
+      "addr:postcode": "410231",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Bulevardul Decebal",
+      "amenity": "school",
+      "building": "yes",
+      "name": "Liceul Teologic Baptist Emanuel"
+    }
   },
   {
     "id": "way-262832955",
@@ -766,8 +2398,24 @@
     "lat": 47.0690105,
     "lng": 21.9318817,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Oradea",
+      "addr:housenumber": "2",
+      "addr:postcode": "410161",
+      "addr:street": "Strada Șirul Canonicilor",
+      "alt_name": "Catedrala Barocă",
+      "amenity": "place_of_worship",
+      "building": "cathedral",
+      "denomination": "roman_catholic",
+      "name": "Bazilica Romano-Catolică",
+      "name:en": "Roman-Catholic Basilica",
+      "name:hu": "Nagyboldogasszony római katolikus székesegyház",
+      "name:it": "Cattedrale di Santa Maria",
+      "religion": "christian",
+      "url:miserend": "http://miserend.hu/?templom=3682",
+      "wikidata": "Q289562",
+      "wikipedia": "ro:Bazilica romano-catolică din Oradea"
+    }
   },
   {
     "id": "way-264909502",
@@ -777,8 +2425,16 @@
     "lat": 47.0672303,
     "lng": 21.906822,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Oradea",
+      "addr:housenumber": "49 E",
+      "addr:postcode": "410282",
+      "addr:street": "Strada Cazaban",
+      "amenity": "school",
+      "name": "Liceul Don Orione",
+      "phone": "0359 409729",
+      "website": "https://www.ldo.ro/"
+    }
   },
   {
     "id": "way-264910458",
@@ -788,8 +2444,14 @@
     "lat": 47.0654244,
     "lng": 21.9094525,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:housenumber": "33",
+      "addr:street": "Strada Alexandru Cazaban",
+      "amenity": "childcare",
+      "building": "apartments",
+      "building:levels": "4",
+      "name": "Gradinita nr. 50"
+    }
   },
   {
     "id": "way-264917565",
@@ -799,8 +2461,23 @@
     "lat": 47.0555433,
     "lng": 21.9287875,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Oradea",
+      "addr:housenumber": "9",
+      "addr:postcode": "410209",
+      "addr:street": "Strada Primăriei",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "roman_catholic",
+      "name": "Biserica Sfântul Ladislau",
+      "name:hu": "Szent László római katolikus templom",
+      "phone": "0259 131 652",
+      "religion": "christian",
+      "source": "http://www.biserici.org/index.php?menu=BI&code=789",
+      "url:miserend": "https://miserend.hu/templom/3688",
+      "wikidata": "Q18538027",
+      "wikipedia": "ro:Biserica Sfântul Ladislau din Oradea"
+    }
   },
   {
     "id": "way-272752548",
@@ -810,8 +2487,15 @@
     "lat": 47.0576408,
     "lng": 21.9166981,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Oradea",
+      "addr:housenumber": "43",
+      "addr:postcode": "410231",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Bulevardul Decebal",
+      "amenity": "kindergarten",
+      "building": "yes"
+    }
   },
   {
     "id": "way-286239555",
@@ -821,8 +2505,16 @@
     "lat": 47.049639,
     "lng": 21.9505968,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "alt_name:hu": "Várad-Velencei római katolikus templom",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "roman_catholic",
+      "name": "Biserica Concepție imaculată",
+      "name:hu": "Szeplőtelen fogantatás templom",
+      "religion": "christian",
+      "url:miserend": "https://miserend.hu/templom/3691"
+    }
   },
   {
     "id": "way-286239556",
@@ -832,8 +2524,13 @@
     "lat": 47.0484868,
     "lng": 21.9526908,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica Sfinții Arhangheli Mihail și Gavril",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-286239557",
@@ -843,8 +2540,14 @@
     "lat": 47.0522346,
     "lng": 21.9325418,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "synagogue",
+      "denomination": "orthodox",
+      "name": "Sinagoga ortodoxă",
+      "name:hu": "Ortodox zsinagóga",
+      "religion": "jewish"
+    }
   },
   {
     "id": "way-286245385",
@@ -854,8 +2557,22 @@
     "lat": 47.0541255,
     "lng": 21.9275188,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Oradea",
+      "addr:housenumber": "4",
+      "addr:postcode": "410104",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Iuliu Maniu",
+      "amenity": "place_of_worship",
+      "building": "cathedral",
+      "denomination": "greek_catholic",
+      "name": "Catedrala greco-catolică Sfântul Nicolae",
+      "name:de": "Nikolaikirche",
+      "name:hu": "Szent Miklós görög katolikus székesegyház",
+      "religion": "christian",
+      "wikidata": "Q18544581",
+      "wikipedia": "ro:Catedrala Sfântul Nicolae din Oradea"
+    }
   },
   {
     "id": "way-286245387",
@@ -865,8 +2582,17 @@
     "lat": 47.0565841,
     "lng": 21.9234937,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Oradea",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "check_date": "2025-09-02",
+      "denomination": "reformed",
+      "name": "Biserica reformată Orașul Nou",
+      "name:hu": "Újvárosi református templom",
+      "name:ro": "Biserica reformată Orașul Nou",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-286245390",
@@ -876,8 +2602,20 @@
     "lat": 47.052216,
     "lng": 21.939582,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "cathedral",
+      "denomination": "orthodox",
+      "name": "Catedrala Episcopală Oradea",
+      "name:de": "Orthodoxe Kathedrale",
+      "name:hu": "Ortodox székesegyház",
+      "name:ro": "Catedrala Episcopală Oradea",
+      "religion": "christian",
+      "source": "jonutzu@gpszone.ro, local info",
+      "wikidata": "Q25461526",
+      "wikimedia_commons": "Category:Episcopal Cathedral of Oradea",
+      "wikipedia": "ro:Catedrala Învierea Domnului din Oradea"
+    }
   },
   {
     "id": "way-286245391",
@@ -887,8 +2625,17 @@
     "lat": 47.0608918,
     "lng": 21.9371937,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:housenumber": "1",
+      "addr:street": "Strada Dunărea",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "roman_catholic",
+      "name": "Biserica \"Coborârea Sfântului Duh\"",
+      "name:hu": "Szentlélek kiáradása plébániatemplom, Olaszi városrész",
+      "religion": "christian",
+      "url:miserend": "https://miserend.hu/templom/3683"
+    }
   },
   {
     "id": "way-291005315",
@@ -898,8 +2645,19 @@
     "lat": 47.0711015,
     "lng": 21.9271676,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Oradea",
+      "addr:housenumber": "44",
+      "addr:postcode": "410151",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Olimpiadei",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "jehovahs_witness",
+      "name": "Sala Regatului a Martorilor lui Iehova",
+      "name:hu": "Jehova Tanúinak királyságterme",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-312206820",
@@ -909,8 +2667,67 @@
     "lat": 47.0565822,
     "lng": 21.939481,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "greek_catholic",
+      "name": "Biserica Seminatului",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-379458205",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.1428128,
+    "lng": 21.9986108,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "roman_catholic",
+      "name:hu": "Szűz Mária Neve templom",
+      "religion": "christian",
+      "url:miserend": "http://miserend.hu/?templom=4740"
+    }
+  },
+  {
+    "id": "way-379469505",
+    "name": "Biserica Sfânta Fecioară Maria",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.0719325,
+    "lng": 21.7786252,
+    "osmType": "way",
+    "tags": {
+      "alt_name": "TĂRIAN/Köröstarján",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "roman_catholic",
+      "name": "Biserica Sfânta Fecioară Maria",
+      "name:hu": "Szűz Mária Neve-templom",
+      "religion": "christian",
+      "url:miserend": "http://miserend.hu/?templom=4761"
+    }
+  },
+  {
+    "id": "way-380143514",
+    "name": "Biserica Sfântul Ioan Nepomuk",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.0446585,
+    "lng": 22.0346751,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "roman_catholic",
+      "name": "Biserica Sfântul Ioan Nepomuk",
+      "name:hu": "Nepomuki Szent János templom",
+      "religion": "christian",
+      "url:miserend": "http://miserend.hu/?templom=4738"
+    }
   },
   {
     "id": "way-380143518",
@@ -920,8 +2737,16 @@
     "lat": 47.1177553,
     "lng": 21.9963757,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "roman_catholic",
+      "name": "Nepomuki Szent János-templom",
+      "name:hu": "Nepomuki Szent János-templom",
+      "religion": "christian",
+      "roof:shape": "gabled",
+      "url:miserend": "http://miserend.hu/?templom=4742"
+    }
   },
   {
     "id": "way-385361492",
@@ -931,8 +2756,15 @@
     "lat": 47.0607546,
     "lng": 22.0050091,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "ecumenical",
+      "name": "Biserica ecumenica",
+      "name:hu": "Szentháromság templom",
+      "religion": "christian",
+      "url:miserend": "https://miserend.hu/templom/4739"
+    }
   },
   {
     "id": "way-420844002",
@@ -942,8 +2774,14 @@
     "lat": 47.0690495,
     "lng": 21.9188684,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "orthodox",
+      "name": "Biserica Sfântul Apostol Andrei",
+      "name:hu": "Szent András apostol templom",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-420902626",
@@ -953,8 +2791,18 @@
     "lat": 47.0654083,
     "lng": 21.9541795,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Oradea",
+      "addr:housenumber": "64",
+      "addr:street": "Strada Louis Pasteur",
+      "amenity": "clinic",
+      "building": "yes",
+      "healthcare": "doctor",
+      "healthcare:speciality": "physiatry",
+      "name": "Iasmed",
+      "opening_hours": "Mo-Fr 08:00-20:00",
+      "phone": "+40 770 102 887"
+    }
   },
   {
     "id": "way-421060544",
@@ -964,8 +2812,12 @@
     "lat": 47.0640899,
     "lng": 21.9539593,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "hospital",
+      "building": "yes",
+      "healthcare": "hospital",
+      "name": "Spitalul Clinic Judetean"
+    }
   },
   {
     "id": "way-421282171",
@@ -975,8 +2827,13 @@
     "lat": 47.0289784,
     "lng": 21.9533021,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica Sfântul Vasile cel Mare",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-421285030",
@@ -986,8 +2843,13 @@
     "lat": 47.0296479,
     "lng": 21.9471099,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "baptist",
+      "name": "Biserica Providența",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-421286567",
@@ -997,8 +2859,11 @@
     "lat": 47.0270143,
     "lng": 21.9555837,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "university",
+      "barrier": "fence",
+      "name": "Universitatea Emanuel"
+    }
   },
   {
     "id": "way-421766749",
@@ -1008,8 +2873,13 @@
     "lat": 47.0331649,
     "lng": 21.9491404,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "orthodox",
+      "name": "Biserica Nufărului",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-421767355",
@@ -1019,8 +2889,19 @@
     "lat": 47.0338486,
     "lng": 21.951081,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Oradea",
+      "addr:housenumber": "27",
+      "addr:postcode": "410586",
+      "addr:street": "Strada Constantin Noica",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "reformed",
+      "name": "Biserica Reformată Seleuș",
+      "name:hu": "Szőlősi Református templom",
+      "religion": "christian",
+      "service_times": "Vasárnap 10:00 és Csütörtök 17:00"
+    }
   },
   {
     "id": "way-421779708",
@@ -1030,8 +2911,18 @@
     "lat": 47.0351157,
     "lng": 21.9572766,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Oradea",
+      "addr:housename": "4",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "roman_catholic",
+      "name": "Biserica Catolică Sfânta Treime",
+      "name:hu": "Szentháromság templom",
+      "religion": "christian",
+      "source": "http://geoportal.ancpi.ro/geoportal/viewer/index.html",
+      "url:miserend": "https://miserend.hu/templom/3690"
+    }
   },
   {
     "id": "way-421961371",
@@ -1041,8 +2932,13 @@
     "lat": 47.0368756,
     "lng": 21.9448314,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă Sf. Ioan Iacob Hozevitul",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-421967047",
@@ -1052,8 +2948,15 @@
     "lat": 47.0437279,
     "lng": 21.945465,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Oradea",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxa Sf.Vineri",
+      "religion": "christian",
+      "source": "ANCPI INIS Viewer"
+    }
   },
   {
     "id": "way-422011201",
@@ -1063,8 +2966,13 @@
     "lat": 47.0430014,
     "lng": 21.955466,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "orthodox",
+      "name": "Biserica Schimbarea la Față",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-422175675",
@@ -1074,8 +2982,20 @@
     "lat": 47.037893,
     "lng": 21.9827421,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Oradea",
+      "addr:housenumber": "206",
+      "addr:street": "Calea Clujului",
+      "amenity": "place_of_worship",
+      "building": "chapel",
+      "denomination": "roman_catholic",
+      "loc_name": "Tokaji-telepi Szent Antal kápolna",
+      "name": "Szent Antal-kápolna",
+      "name:hu": "Szent Antal-kápolna",
+      "religion": "christian",
+      "start_date": "1932-09-25",
+      "url:miserend": "https://miserend.hu/templom/3692"
+    }
   },
   {
     "id": "way-422521523",
@@ -1085,8 +3005,13 @@
     "lat": 47.0409648,
     "lng": 21.977063,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-423118595",
@@ -1096,8 +3021,15 @@
     "lat": 47.0587154,
     "lng": 21.9406282,
     "osmType": "way",
-    "brand": null,
-    "operator": ", Oradea"
+    "tags": {
+      "addr:city": "Oradea",
+      "addr:housenumber": "26",
+      "addr:postcode": "410057",
+      "addr:street": "Strada General Gheorghe Magheru",
+      "amenity": "university",
+      "name": "Facultatea de Drept",
+      "operator": ", Oradea"
+    }
   },
   {
     "id": "way-423122942",
@@ -1107,8 +3039,16 @@
     "lat": 47.0526581,
     "lng": 21.9313876,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "alt_name:hu": "Kapucinus templom",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "roman_catholic",
+      "name": "Biserica Romano-Catolică",
+      "name:hu": "Sarlósboldogasszony templom",
+      "religion": "christian",
+      "url:miserend": "https://miserend.hu/templom/3695"
+    }
   },
   {
     "id": "way-423122948",
@@ -1118,8 +3058,16 @@
     "lat": 47.0549221,
     "lng": 21.9324012,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Oradea",
+      "addr:housenumber": "22",
+      "addr:street": "Strada Independenței",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "name": "Sinagoga neologă Sion",
+      "name:hu": "Neológ zsinagóga",
+      "religion": "jewish"
+    }
   },
   {
     "id": "way-423412051",
@@ -1129,8 +3077,123 @@
     "lat": 47.0523194,
     "lng": 21.967754,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Oradea",
+      "addr:street": "Strada Făcliei",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Mănăstirea Sfintei Cruci",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-432438187",
+    "name": "Biserica Reformată Sântion",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.095899,
+    "lng": 21.834452,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "reformed",
+      "name": "Biserica Reformată Sântion",
+      "name:hu": "Biharszentjánosi Református templom",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-432465450",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.1003953,
+    "lng": 21.835174,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "roman_catholic",
+      "name:hu": "Keresztelő Szent János templom",
+      "religion": "christian",
+      "url:miserend": "https://miserend.hu/templom/4892"
+    }
+  },
+  {
+    "id": "way-435011072",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 47.0975715,
+    "lng": 21.8367737,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school"
+    }
+  },
+  {
+    "id": "way-435226193",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 47.1135852,
+    "lng": 21.8128539,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school"
+    }
+  },
+  {
+    "id": "way-435338634",
+    "name": "Biserica Reformată",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.1165309,
+    "lng": 21.8145246,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Borș",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "protestant",
+      "name": "Biserica Reformată",
+      "name:hu": "Református templom",
+      "name:ro": "Biserica Reformată",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-436091299",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.169405,
+    "lng": 21.8390239,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "fixme": "possible duplicated amenity (POI & poly)",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-436095926",
+    "name": "Biserica Reformată",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.16763,
+    "lng": 21.8362874,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "fixme": "possible duplicated amenity (POI & poly)",
+      "name": "Biserica Reformată",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-436548036",
@@ -1140,8 +3203,13 @@
     "lat": 47.0710941,
     "lng": 21.8578052,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Biserica Nouă",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-436650618",
@@ -1151,8 +3219,18 @@
     "lat": 47.0759891,
     "lng": 21.9162861,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Oradea",
+      "addr:housenumber": "2",
+      "addr:postcode": "410354",
+      "addr:street": "Strada Corneliu Coposu",
+      "amenity": "hospital",
+      "building": "yes",
+      "healthcare": "hospital",
+      "name": "Spitalul Pelican",
+      "phone": "+40259444444",
+      "website": "https://www.spitalpelican.ro/"
+    }
   },
   {
     "id": "way-436834235",
@@ -1162,8 +3240,22 @@
     "lat": 47.078715,
     "lng": 21.9105434,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Oradea",
+      "addr:housenumber": "29",
+      "addr:postcode": "410370",
+      "addr:street": "Strada Podului",
+      "air_conditioning": "yes",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "baptist",
+      "description": "A Rogériuszi Magyar Baptista Gyülekezet Jézus Krisztust követő és szerető emberekből álló közösség. A ’90-es évek elején alakult a magyar baptista misszió keretein belül. Több mint 20 éve szolgálunk városunk lakói felé.",
+      "email": "church@rhbc.ro",
+      "name": "Biserica Baptistă Rogériusz",
+      "phone": "+40359199855",
+      "religion": "christian",
+      "website": "https://rhbc.ro/"
+    }
   },
   {
     "id": "way-436834261",
@@ -1173,8 +3265,17 @@
     "lat": 47.0777046,
     "lng": 21.9241137,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "roman_catholic",
+      "name": "Biserica romano-catolică „Sfântul Iosif”",
+      "name:hu": "Szent József-templom",
+      "photo": "Man0049880radea1.jpg",
+      "religion": "christian",
+      "url:miserend": "https://miserend.hu/templom/3693",
+      "wikidata": "Q129243410"
+    }
   },
   {
     "id": "way-437148076",
@@ -1184,8 +3285,9 @@
     "lat": 47.0659902,
     "lng": 21.8564744,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school"
+    }
   },
   {
     "id": "way-437149338",
@@ -1195,8 +3297,28 @@
     "lat": 47.069259,
     "lng": 21.8526951,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "greek_catholic",
+      "name": "Biserica Sfinții Mihail și Gavril",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-454105826",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.93743,
+    "lng": 21.912944,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "house",
+      "religion": "christian",
+      "url:miserend": "https://miserend.hu/templom/4813"
+    }
   },
   {
     "id": "way-489535792",
@@ -1206,8 +3328,15 @@
     "lat": 47.0437809,
     "lng": 21.9360621,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "chapel",
+      "denomination": "roman_catholic",
+      "name": "Capela Sf. Elisabeta",
+      "name:hu": "Szent Erzsébet kápolna",
+      "religion": "christian",
+      "url:miserend": "https://miserend.hu/templom/3689"
+    }
   },
   {
     "id": "way-526787674",
@@ -1217,8 +3346,10 @@
     "lat": 47.0798219,
     "lng": 21.914357,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "name": "Școala Gimnazială nr. 16"
+    }
   },
   {
     "id": "way-526790380",
@@ -1228,8 +3359,9 @@
     "lat": 47.0762057,
     "lng": 21.9119341,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school"
+    }
   },
   {
     "id": "way-526791484",
@@ -1239,8 +3371,9 @@
     "lat": 47.0516494,
     "lng": 21.9276295,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school"
+    }
   },
   {
     "id": "way-526935585",
@@ -1250,8 +3383,9 @@
     "lat": 47.068509,
     "lng": 21.9282129,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school"
+    }
   },
   {
     "id": "way-544489782",
@@ -1261,8 +3395,18 @@
     "lat": 47.0547069,
     "lng": 21.9126667,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Oradea",
+      "addr:housenumber": "56",
+      "addr:postcode": "410223",
+      "addr:street": "Calea Aradului",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Biserica Sf. Sebastian",
+      "phone": "+40259435761",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-544503067",
@@ -1272,8 +3416,15 @@
     "lat": 47.0560705,
     "lng": 21.9415235,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Oradea",
+      "addr:street": "Aleea Ștrandului",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "baptist",
+      "name": "Convenția Bisericilor Creștine Baptiste Maghiare din România",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-544505902",
@@ -1283,8 +3434,14 @@
     "lat": 47.0474185,
     "lng": 21.9580644,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Oradea",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxa Velența II",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-544645098",
@@ -1294,8 +3451,15 @@
     "lat": 47.0586289,
     "lng": 21.9016073,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "roman_catholic",
+      "name": "Biserica Romano-Catolică Sfânta Tereza",
+      "name:hu": "Lisieux-i Szent Teréz-templom",
+      "religion": "christian",
+      "url:miserend": "https://miserend.hu/templom/3696"
+    }
   },
   {
     "id": "way-544741748",
@@ -1305,8 +3469,13 @@
     "lat": 47.040241,
     "lng": 21.9210774,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Capela Ortodoxă",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-544741749",
@@ -1316,8 +3485,32 @@
     "lat": 47.0413714,
     "lng": 21.9186737,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "catholic",
+      "name": "Capela Catolică",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-624038692",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.060176,
+    "lng": 21.8219536,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Palota",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "roman_catholic",
+      "religion": "christian",
+      "url:miserend": "https://miserend.hu/templom/4767",
+      "wikidata": "Q42780019",
+      "wikipedia": "ro:Biserica romano-catolică din Palota"
+    }
   },
   {
     "id": "way-624042128",
@@ -1327,8 +3520,14 @@
     "lat": 47.0711982,
     "lng": 21.8592669,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Sântandrei",
+      "addr:housenumber": "9",
+      "addr:street": "Strada Triumfului",
+      "amenity": "kindergarten",
+      "building": "kindergarten",
+      "name": "Creșă"
+    }
   },
   {
     "id": "way-624265570",
@@ -1338,8 +3537,13 @@
     "lat": 47.0662613,
     "lng": 21.853622,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-651522972",
@@ -1349,8 +3553,20 @@
     "lat": 47.0536957,
     "lng": 21.9290046,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Oradea",
+      "addr:housenumber": "2",
+      "addr:postcode": "410072",
+      "addr:street": "Piața Unirii",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica cu Lună",
+      "name:hu": "Holdas templom",
+      "religion": "christian",
+      "wikidata": "Q12721991",
+      "wikipedia": "ro:Biserica cu Lună"
+    }
   },
   {
     "id": "way-674630005",
@@ -1360,8 +3576,17 @@
     "lat": 47.1150779,
     "lng": 21.9571398,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Paleu",
+      "addr:country": "RO",
+      "amenity": "place_of_worship",
+      "building": "chapel",
+      "denomination": "roman_catholic",
+      "name": "Biserica Romano-Catolică",
+      "name:hu": "Isteni irgalmasság templom",
+      "religion": "christian",
+      "url:miserend": "https://miserend.hu/templom/4741"
+    }
   },
   {
     "id": "way-708873958",
@@ -1371,8 +3596,12 @@
     "lat": 47.0670588,
     "lng": 21.9356638,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "hospital",
+      "building": "yes",
+      "healthcare": "hospital",
+      "name": "Spitalul Clinic Căi Ferate"
+    }
   },
   {
     "id": "way-708876663",
@@ -1382,8 +3611,13 @@
     "lat": 47.0615135,
     "lng": 21.9365972,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:housenumber": "3",
+      "addr:street": "Strada Dunărea",
+      "amenity": "hospital",
+      "healthcare": "hospital",
+      "name": "Spitalul Clinic de Urgență Avram Iancu"
+    }
   },
   {
     "id": "way-710472254",
@@ -1393,8 +3627,10 @@
     "lat": 47.0725363,
     "lng": 21.9112038,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "kindergarten",
+      "name": "Grădinița nr. 54"
+    }
   },
   {
     "id": "way-717090541",
@@ -1404,8 +3640,13 @@
     "lat": 47.0445553,
     "lng": 21.9216355,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă Militară",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-717090565",
@@ -1415,8 +3656,12 @@
     "lat": 47.0404903,
     "lng": 21.9267446,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "clinic",
+      "building": "yes",
+      "healthcare": "clinic",
+      "name": "Laser System"
+    }
   },
   {
     "id": "way-835601377",
@@ -1426,8 +3671,10 @@
     "lat": 47.0625381,
     "lng": 21.9400743,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "hospital",
+      "healthcare": "hospital"
+    }
   },
   {
     "id": "way-883258099",
@@ -1437,8 +3684,13 @@
     "lat": 47.0737185,
     "lng": 21.9180838,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "baptist",
+      "name": "Biserica Baptistă",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-885321773",
@@ -1448,8 +3700,9 @@
     "lat": 47.0620033,
     "lng": 21.9219003,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school"
+    }
   },
   {
     "id": "way-885324657",
@@ -1459,8 +3712,28 @@
     "lat": 47.0652312,
     "lng": 21.9266296,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "education": "school",
+      "name": "Liceul de Arte Oradea",
+      "website": "https://liceuldeartaoradea.ro/"
+    }
+  },
+  {
+    "id": "way-904648889",
+    "name": "Református templom",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.1863641,
+    "lng": 21.7968877,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "reformed",
+      "name": "Református templom",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-914060058",
@@ -1470,8 +3743,30 @@
     "lat": 47.0527353,
     "lng": 21.9680536,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "orthodox",
+      "name": "Biserica de lemn din Corbești",
+      "name:hu": "Szent Mihály és Gábriel arkangyalok fatemplom",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-920568286",
+    "name": "Biserica Baptistă \"Betania\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9477999,
+    "lng": 22.0206203,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "baptist",
+      "name": "Biserica Baptistă \"Betania\"",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-925805948",
@@ -1481,8 +3776,16 @@
     "lat": 47.0621119,
     "lng": 21.9309814,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "chapel",
+      "check_date": "2025-09-02",
+      "denomination": "roman_catholic",
+      "name": "Capela Romano-Catolică Sfântul Ladislau",
+      "name:hu": "Szent László kápolna",
+      "religion": "christian",
+      "url:miserend": "https://miserend.hu/templom/3687"
+    }
   },
   {
     "id": "way-1003402475",
@@ -1492,8 +3795,10 @@
     "lat": 47.0434959,
     "lng": 21.9221363,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "university",
+      "name": "Universitatea din Oradea, Campus B"
+    }
   },
   {
     "id": "way-1085760795",
@@ -1503,8 +3808,28 @@
     "lat": 47.064073,
     "lng": 21.9138434,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "clinic",
+      "building": "yes",
+      "healthcare": "clinic",
+      "name": "MedEuropa"
+    }
+  },
+  {
+    "id": "way-1100792443",
+    "name": "Biserica Romano-Catolică",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.0040557,
+    "lng": 21.9770524,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "roman_catholic",
+      "name": "Biserica Romano-Catolică",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1210617912",
@@ -1514,8 +3839,29 @@
     "lat": 47.0705855,
     "lng": 21.9246033,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "reformed",
+      "name": "Biserica reformată Rogerius",
+      "name:hu": "Rogériuszi református templom",
+      "religion": "christian",
+      "source": "microsoft/BuildingFootprints"
+    }
+  },
+  {
+    "id": "way-1283554643",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9811196,
+    "lng": 21.9855966,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1345006056",
@@ -1525,8 +3871,14 @@
     "lat": 47.05861,
     "lng": 21.9407973,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Oradea",
+      "addr:housenumber": "26",
+      "addr:postcode": "410057",
+      "addr:street": "Strada General Gheorghe Magheru",
+      "amenity": "university",
+      "name": "Faculty of Environmental Protection"
+    }
   },
   {
     "id": "way-1349500949",
@@ -1536,8 +3888,14 @@
     "lat": 47.0520627,
     "lng": 21.9056834,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Oradea",
+      "addr:housenumber": "2",
+      "addr:postcode": "410250",
+      "addr:street": "Strada Aviatorilor",
+      "amenity": "kindergarten",
+      "name": "Grădiniţa Program Prelungit NR. 44"
+    }
   },
   {
     "id": "way-1374968255",
@@ -1547,8 +3905,11 @@
     "lat": 47.0544336,
     "lng": 21.926719,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "building": "school",
+      "name": "Liceul Greco-Catolic Iuliu Maniu"
+    }
   },
   {
     "id": "way-1395145904",
@@ -1558,8 +3919,11 @@
     "lat": 47.0805156,
     "lng": 21.9151525,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "kindergarten",
+      "building": "yes",
+      "name": "Grădinița nr. 7 „Albă ca Zăpada”"
+    }
   },
   {
     "id": "way-1395145905",
@@ -1569,8 +3933,13 @@
     "lat": 47.0805184,
     "lng": 21.9155111,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Oradea",
+      "addr:housenumber": "4a",
+      "addr:street": "Strada Călugăreni",
+      "amenity": "kindergarten",
+      "name": "Grădinița cu program prelungit nr. 53"
+    }
   },
   {
     "id": "way-1395146712",
@@ -1580,8 +3949,10 @@
     "lat": 47.0790407,
     "lng": 21.9130543,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "kindergarten",
+      "name": "Grădinița cu program prelungit nr. 52;Creșa nr. 3 „Tărâmul Fermecat”"
+    }
   },
   {
     "id": "way-1455869295",
@@ -1591,8 +3962,18 @@
     "lat": 47.0577846,
     "lng": 21.9247046,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:street": "Strada Tudor Vladimirescu",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "lutheran",
+      "heritage": "2",
+      "heritage:operator": "lmi",
+      "name": "Biserica Evanghelică",
+      "ref:RO:lmi": "BH-II-m-B-01089",
+      "religion": "christian",
+      "wikidata": "Q42779527"
+    }
   },
   {
     "id": "relation-3530253",
@@ -1602,8 +3983,21 @@
     "lat": 47.0569364,
     "lng": 21.9164511,
     "osmType": "relation",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Oradea",
+      "addr:housenumber": "45",
+      "addr:postcode": "410231",
+      "addr:street": "Bulevardul Decebal",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "baptist",
+      "name": "Biserica Baptistă Emanuel",
+      "name:hu": "Emánuel baptista templom",
+      "name:ro": "Biserica Baptistă Emanuel",
+      "religion": "christian",
+      "type": "multipolygon",
+      "wheelchair": "yes"
+    }
   },
   {
     "id": "relation-11842368",
@@ -1613,7 +4007,11 @@
     "lat": 47.0445802,
     "lng": 21.9181619,
     "osmType": "relation",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "university",
+      "name": "Universitatea din Oradea, Campus A",
+      "name:hu": "Nagyváradi Egyetem",
+      "type": "multipolygon"
+    }
   }
 ]

@@ -91,17 +91,10 @@
       padding: 13px;
     }
 
-    button:hover {
-      background: #2f58bb;
-    }
+    button:hover { background: #2f58bb; }
 
-    .street-btn {
-      background: #111827;
-    }
-
-    .street-btn:hover {
-      background: #000;
-    }
+    .street-btn { background: #111827; }
+    .street-btn:hover { background: #000; }
 
     .status {
       margin-top: 12px;
@@ -191,18 +184,8 @@
       font-size: 15px;
     }
 
-    .good {
-      color: #16853b;
-      font-weight: 700;
-    }
-
-    .muted {
-      color: #5f6f88;
-    }
-
-    .small {
-      font-size: 13px;
-    }
+    .muted { color: #5f6f88; }
+    .small { font-size: 13px; }
 
     .filter-label {
       display: flex;
@@ -330,8 +313,13 @@
           </label>
 
           <label class="filter-label">
-            <input type="checkbox" id="toggleSuperbet" checked />
-            Superbet
+            <input type="checkbox" id="toggleBetting" checked />
+            Case pariuri în zonă
+          </label>
+
+          <label class="filter-label">
+            <input type="checkbox" id="toggleGaming" checked />
+            Săli jocuri / casino în zonă
           </label>
 
           <label class="filter-label">
@@ -383,8 +371,13 @@
         </div>
 
         <div class="section-box">
-          <h3>Cel mai apropiat Superbet</h3>
-          <div id="nearestSuperbet" class="muted">Nu există încă rezultat.</div>
+          <h3>Cea mai apropiată casă de pariuri</h3>
+          <div id="nearestBetting" class="muted">Nu există încă rezultat.</div>
+        </div>
+
+        <div class="section-box">
+          <h3>Cea mai apropiată sală jocuri / casino</h3>
+          <div id="nearestGaming" class="muted">Nu există încă rezultat.</div>
         </div>
 
         <div class="section-box">
@@ -403,8 +396,13 @@
         </div>
 
         <div class="section-box">
-          <h3>Superbet în zonă</h3>
-          <div id="superbetInside" class="muted">Nu există încă rezultat.</div>
+          <h3>Case de pariuri în zonă</h3>
+          <div id="bettingInside" class="muted">Nu există încă rezultat.</div>
+        </div>
+
+        <div class="section-box">
+          <h3>Săli jocuri / casino în zonă</h3>
+          <div id="gamingInside" class="muted">Nu există încă rezultat.</div>
         </div>
       </div>
 
@@ -453,7 +451,6 @@
     const churchThreshold = document.getElementById("churchThreshold");
     const medicalThreshold = document.getElementById("medicalThreshold");
     const zoneRadius = document.getElementById("zoneRadius");
-    const gridStep = document.getElementById("gridStep");
     const analyzeBtn = document.getElementById("analyzeBtn");
     const streetViewBtn = document.getElementById("streetViewBtn");
     const saveLocationBtn = document.getElementById("saveLocationBtn");
@@ -462,7 +459,8 @@
     const toggleSchools = document.getElementById("toggleSchools");
     const toggleChurches = document.getElementById("toggleChurches");
     const toggleMedical = document.getElementById("toggleMedical");
-    const toggleSuperbet = document.getElementById("toggleSuperbet");
+    const toggleBetting = document.getElementById("toggleBetting");
+    const toggleGaming = document.getElementById("toggleGaming");
     const toggleNearest = document.getElementById("toggleNearest");
     const toggleCandidates = document.getElementById("toggleCandidates");
     const toggleForbidden = document.getElementById("toggleForbidden");
@@ -480,11 +478,14 @@
     const nearestSchool = document.getElementById("nearestSchool");
     const nearestChurch = document.getElementById("nearestChurch");
     const nearestMedical = document.getElementById("nearestMedical");
-    const nearestSuperbet = document.getElementById("nearestSuperbet");
+    const nearestBetting = document.getElementById("nearestBetting");
+    const nearestGaming = document.getElementById("nearestGaming");
+
     const schoolsInside = document.getElementById("schoolsInside");
     const churchesInside = document.getElementById("churchesInside");
     const medicalInside = document.getElementById("medicalInside");
-    const superbetInside = document.getElementById("superbetInside");
+    const bettingInside = document.getElementById("bettingInside");
+    const gamingInside = document.getElementById("gamingInside");
     const savedLocations = document.getElementById("savedLocations");
 
     const map = L.map("map").setView([44.4268, 26.1025], 12);
@@ -496,11 +497,9 @@
 
     const layers = {
       basePoint: null,
-      zoneCircle: null,
       gridCandidates: [],
       poiMarkers: [],
       nearestMarkers: [],
-      candidateLines: [],
       forbiddenZones: []
     };
 
@@ -526,7 +525,7 @@
       </svg>
     `;
 
-    const defaultBlueIcon = new L.DivIcon({
+    const baseIcon = new L.DivIcon({
       className: "",
       html: greenPinSvg,
       iconSize: [44, 60],
@@ -552,35 +551,53 @@
       });
     }
 
+    function letterIcon(letter, color) {
+      return new L.DivIcon({
+        className: "",
+        html: `
+          <div style="
+            width: 30px;
+            height: 30px;
+            border-radius: 50%;
+            background: ${color};
+            border: 2px solid #ffffff;
+            box-shadow: 0 0 0 3px rgba(0,0,0,0.20);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: #ffffff;
+            font-weight: 900;
+            font-size: 18px;
+            font-family: Arial, sans-serif;
+            line-height: 1;
+          ">${letter}</div>
+        `,
+        iconSize: [30, 30],
+        iconAnchor: [15, 15],
+        popupAnchor: [0, -15]
+      });
+    }
+
     const greenIcon = dotIcon("#13a144", 16);
     const bigGreenIcon = dotIcon("#13a144", 24);
     const redIcon = dotIcon("#d12d2d", 30);
     const yellowIcon = dotIcon("#facc15", 18);
 
-    const superbetIcon = new L.DivIcon({
-      className: "",
-      html: `
-        <div style="
-          width: 30px;
-          height: 30px;
-          border-radius: 50%;
-          background: #d60000;
-          border: 2px solid #ffffff;
-          box-shadow: 0 0 0 3px rgba(0,0,0,0.20);
-          display: flex;
-          align-items: center;
-          justify-content: center;
-          color: #ffffff;
-          font-weight: 900;
-          font-size: 18px;
-          font-family: Arial, sans-serif;
-          line-height: 1;
-        ">S</div>
-      `,
-      iconSize: [30, 30],
-      iconAnchor: [15, 15],
-      popupAnchor: [0, -15]
-    });
+    const superbetIcon = letterIcon("S", "#d60000");
+    const bettingIcon = letterIcon("P", "#111827");
+    const gamingIcon = letterIcon("J", "#7c3aed");
+
+    function isSuperbetPoi(poi) {
+      const name = String(poi?.name || "").toLowerCase();
+      const brand = String(poi?.brand || poi?.tags?.brand || "").toLowerCase();
+      const operator = String(poi?.operator || poi?.tags?.operator || "").toLowerCase();
+
+      return (
+        name.includes("superbet") ||
+        brand.includes("superbet") ||
+        operator.includes("superbet")
+      );
+    }
 
     function clearMapLayers() {
       Object.values(layers).forEach((value) => {
@@ -594,11 +611,9 @@
       });
 
       layers.basePoint = null;
-      layers.zoneCircle = null;
       layers.gridCandidates = [];
       layers.poiMarkers = [];
       layers.nearestMarkers = [];
-      layers.candidateLines = [];
       layers.forbiddenZones = [];
     }
 
@@ -608,7 +623,7 @@
     }
 
     function formatMeters(value) {
-      if (!isFinite(value)) return "Infinity";
+      if (!isFinite(value)) return "-";
       if (value < 1000) return `${Math.round(value)} m`;
       return `${(value / 1000).toFixed(2)} km`;
     }
@@ -638,15 +653,10 @@
         headers: { "Accept": "application/json" }
       });
 
-      if (!response.ok) {
-        throw new Error("Geocodarea adresei a eșuat.");
-      }
+      if (!response.ok) throw new Error("Geocodarea adresei a eșuat.");
 
       const data = await response.json();
-
-      if (!data.length) {
-        throw new Error("Adresa nu a fost găsită.");
-      }
+      if (!data.length) throw new Error("Adresa nu a fost găsită.");
 
       return {
         lat: Number(data[0].lat),
@@ -658,10 +668,7 @@
     async function loadCities() {
       try {
         const response = await fetch("/api/cities");
-
-        if (!response.ok) {
-          throw new Error("Nu s-au putut încărca orașele.");
-        }
+        if (!response.ok) throw new Error("Nu s-au putut încărca orașele.");
 
         const cities = await response.json();
         citySelect.innerHTML = "";
@@ -692,36 +699,77 @@
       const type = String(poi.type || "").toLowerCase();
       const category = String(poi.category || "").toLowerCase();
       const subcategory = String(poi.subcategory || "").toLowerCase();
-      const amenity = String(poi?.tags?.amenity || "").toLowerCase();
-      const healthcare = String(poi?.tags?.healthcare || "").toLowerCase();
-      const brand = String(poi?.brand || poi?.tags?.brand || "").toLowerCase();
-      const operator = String(poi?.operator || poi?.tags?.operator || "").toLowerCase();
-      const name = String(poi?.name || "").toLowerCase();
+
+      const tags = poi.tags || {};
+      const amenity = String(tags.amenity || "").toLowerCase();
+      const healthcare = String(tags.healthcare || "").toLowerCase();
+      const shop = String(tags.shop || "").toLowerCase();
+      const office = String(tags.office || "").toLowerCase();
+      const leisure = String(tags.leisure || "").toLowerCase();
+
+      const brand = String(poi.brand || tags.brand || "").toLowerCase();
+      const operator = String(poi.operator || tags.operator || "").toLowerCase();
+      const name = String(poi.name || "").toLowerCase();
+
+      const bettingBrands = [
+        "superbet",
+        "fortuna",
+        "casa pariurilor",
+        "stanleybet",
+        "get's bet",
+        "gets bet",
+        "getsbet"
+      ];
+
+      const gamingBrands = [
+        "maxbet",
+        "magic",
+        "million",
+        "bonus",
+        "winbet",
+        "winboss",
+        "magnum"
+      ];
+
+      const isBettingBrand = bettingBrands.some((b) =>
+        name.includes(b) || brand.includes(b) || operator.includes(b)
+      );
+
+      const isGamingBrand = gamingBrands.some((b) =>
+        name.includes(b) || brand.includes(b) || operator.includes(b)
+      );
 
       if (type === "school" || category === "school") return "school";
       if (type === "church" || category === "church") return "church";
       if (type === "medical" || category === "medical") return "medical";
-      if (type === "superbet" || category === "superbet") return "superbet";
-
-      if (brand.includes("superbet") || operator.includes("superbet") || name.includes("superbet")) {
-        return "superbet";
-      }
+      if (type === "betting" || category === "betting") return "betting";
+      if (type === "gaming" || category === "gaming") return "gaming";
 
       if (
         ["school", "kindergarten", "college", "university", "childcare"].includes(amenity) ||
         subcategory === "childcare"
-      ) {
-        return "school";
-      }
+      ) return "school";
 
       if (amenity === "place_of_worship") return "church";
 
       if (
         ["hospital", "clinic", "doctors"].includes(amenity) ||
         ["hospital", "clinic", "doctor"].includes(healthcare)
-      ) {
-        return "medical";
-      }
+      ) return "medical";
+
+      if (
+        isGamingBrand ||
+        amenity === "casino" ||
+        leisure === "adult_gaming_centre" ||
+        leisure === "amusement_arcade"
+      ) return "gaming";
+
+      if (
+        isBettingBrand ||
+        amenity === "gambling" ||
+        shop === "bookmaker" ||
+        office === "bookmaker"
+      ) return "betting";
 
       return "other";
     }
@@ -730,7 +778,8 @@
       const schools = [];
       const churches = [];
       const medical = [];
-      const superbet = [];
+      const betting = [];
+      const gaming = [];
 
       for (const poi of pois) {
         const lat = Number(poi.lat);
@@ -744,10 +793,11 @@
         if (normalized === "school") schools.push(item);
         if (normalized === "church") churches.push(item);
         if (normalized === "medical") medical.push(item);
-        if (normalized === "superbet") superbet.push(item);
+        if (normalized === "betting") betting.push(item);
+        if (normalized === "gaming") gaming.push(item);
       }
 
-      return { schools, churches, medical, superbet };
+      return { schools, churches, medical, betting, gaming };
     }
 
     function getNearestPoi(baseLat, baseLon, list) {
@@ -756,10 +806,10 @@
       let nearest = null;
 
       for (const poi of list) {
-        const dist = haversineDistance(baseLat, baseLon, poi.lat, poi.lon);
+        const distance = haversineDistance(baseLat, baseLon, poi.lat, poi.lon);
 
-        if (!nearest || dist < nearest.distance) {
-          nearest = { poi, distance: dist };
+        if (!nearest || distance < nearest.distance) {
+          nearest = { poi, distance };
         }
       }
 
@@ -777,8 +827,6 @@
     }
 
     function renderNearest(container, item) {
-      if (!container) return;
-
       if (!item) {
         container.innerHTML = '<div class="muted">Nu există rezultat.</div>';
         return;
@@ -794,8 +842,6 @@
     }
 
     function renderPoiList(container, items) {
-      if (!container) return;
-
       if (!items || !items.length) {
         container.innerHTML = '<div class="muted">Nu există rezultate.</div>';
         return;
@@ -859,48 +905,27 @@
         return;
       }
 
-      const rows = [];
-
-      rows.push([
-        "Nr",
-        "Locatie",
-        "Verdict",
-        "Latitudine",
-        "Longitudine"
-      ]);
+      const rows = [
+        ["Nr", "Locatie", "Verdict", "Latitudine", "Longitudine"]
+      ];
 
       state.saved.forEach((item, idx) => {
-        rows.push([
-          idx + 1,
-          item.name,
-          item.verdict,
-          item.lat,
-          item.lon
-        ]);
+        rows.push([idx + 1, item.name, item.verdict, item.lat, item.lon]);
       });
 
       const csvContent = rows
-        .map((row) =>
-          row
-            .map((value) => `"${String(value).replace(/"/g, '""')}"`)
-            .join(",")
-        )
+        .map((row) => row.map((value) => `"${String(value).replace(/"/g, '""')}"`).join(","))
         .join("\n");
 
-      const blob = new Blob([csvContent], {
-        type: "text/csv;charset=utf-8;"
-      });
-
+      const blob = new Blob([csvContent], { type: "text/csv;charset=utf-8;" });
       const url = URL.createObjectURL(blob);
       const link = document.createElement("a");
 
       link.href = url;
       link.download = "locatii-salvate.csv";
-
       document.body.appendChild(link);
       link.click();
       document.body.removeChild(link);
-
       URL.revokeObjectURL(url);
 
       setStatus("CSV exportat cu succes.", "ok");
@@ -918,7 +943,7 @@
 
     function addBaseMarker(lat, lon) {
       layers.basePoint = L.marker([lat, lon], {
-        icon: defaultBlueIcon,
+        icon: baseIcon,
         draggable: true
       })
         .bindPopup("<strong>Punct analizat</strong>")
@@ -930,26 +955,21 @@
       });
     }
 
-    function addNearestMarker(item, label) {
-      if (!toggleNearest.checked) return;
-      if (!item) return;
+    function addNearestMarker(item, label, icon = yellowIcon) {
+      if (!toggleNearest.checked || !item) return;
 
-      const isSuperbet = String(label).toLowerCase().includes("superbet");
-
-      const marker = L.marker(
-        [item.poi.lat, item.poi.lon],
-        { icon: isSuperbet ? superbetIcon : yellowIcon }
-      ).bindPopup(`
-        <strong>${label}</strong><br>
-        ${item.poi.name || "Fără nume"}<br>
-        Distanță: ${formatMeters(item.distance)}
-      `);
+      const marker = L.marker([item.poi.lat, item.poi.lon], { icon })
+        .bindPopup(`
+          <strong>${label}</strong><br>
+          ${item.poi.name || "Fără nume"}<br>
+          Distanță: ${formatMeters(item.distance)}
+        `);
 
       marker.addTo(map);
       layers.nearestMarkers.push(marker);
     }
 
-    function addPoiMarkers(insideSchools, insideChurches, insideMedical, nearbySuperbet) {
+    function addPoiMarkers(insideSchools, insideChurches, insideMedical, nearbyBetting, nearbyGaming) {
       if (toggleSchools.checked) {
         insideSchools.forEach((item) => {
           const marker = L.marker([item.poi.lat, item.poi.lon], { icon: redIcon })
@@ -992,11 +1012,27 @@
         });
       }
 
-      if (toggleSuperbet.checked) {
-        nearbySuperbet.forEach((item) => {
-          const marker = L.marker([item.poi.lat, item.poi.lon], { icon: superbetIcon })
+      if (toggleBetting.checked) {
+        nearbyBetting.forEach((item) => {
+          const marker = L.marker([item.poi.lat, item.poi.lon], {
+            icon: isSuperbetPoi(item.poi) ? superbetIcon : bettingIcon
+          })
             .bindPopup(`
-              <strong>Superbet</strong><br>
+              <strong>${isSuperbetPoi(item.poi) ? "Superbet" : "Casă de pariuri"}</strong><br>
+              ${item.poi.name || "Fără nume"}<br>
+              Distanță: ${formatMeters(item.distance)}
+            `);
+
+          marker.addTo(map);
+          layers.poiMarkers.push(marker);
+        });
+      }
+
+      if (toggleGaming.checked) {
+        nearbyGaming.forEach((item) => {
+          const marker = L.marker([item.poi.lat, item.poi.lon], { icon: gamingIcon })
+            .bindPopup(`
+              <strong>Sală jocuri / casino</strong><br>
               ${item.poi.name || "Fără nume"}<br>
               Distanță: ${formatMeters(item.distance)}
             `);
@@ -1007,7 +1043,7 @@
       }
     }
 
-    function addCandidateMarkers(baseLat, baseLon, candidates) {
+    function addCandidateMarkers(candidates) {
       if (!toggleCandidates.checked) return;
 
       candidates.forEach((candidate, idx) => {
@@ -1019,8 +1055,8 @@
             Distanță: ${formatMeters(candidate.distanceFromBase)}
           `);
 
-          marker.addTo(map);
-          layers.gridCandidates.push(marker);
+        marker.addTo(map);
+        layers.gridCandidates.push(marker);
       });
     }
 
@@ -1108,17 +1144,19 @@
       const nearbyRadius = Number(zoneRadius.value);
 
       const poiData = await loadPoi(city);
-      const { schools, churches, medical, superbet } = splitPois(poiData.pois || []);
+      const { schools, churches, medical, betting, gaming } = splitPois(poiData.pois || []);
 
       const nearestSchoolItem = getNearestPoi(lat, lon, schools);
       const nearestChurchItem = getNearestPoi(lat, lon, churches);
       const nearestMedicalItem = getNearestPoi(lat, lon, medical);
-      const nearestSuperbetItem = getNearestPoi(lat, lon, superbet);
+      const nearestBettingItem = getNearestPoi(lat, lon, betting);
+      const nearestGamingItem = getNearestPoi(lat, lon, gaming);
 
       const schoolsInThreshold = filterInsideThreshold(lat, lon, schools, schoolT);
       const churchesInThreshold = filterInsideThreshold(lat, lon, churches, churchT);
       const medicalInThreshold = filterInsideThreshold(lat, lon, medical, medicalT);
-      const nearbySuperbet = filterInsideThreshold(lat, lon, superbet, nearbyRadius);
+      const nearbyBetting = filterInsideThreshold(lat, lon, betting, nearbyRadius);
+      const nearbyGaming = filterInsideThreshold(lat, lon, gaming, nearbyRadius);
 
       const schoolOk = schoolsInThreshold.length === 0;
       const churchOk = churchesInThreshold.length === 0;
@@ -1151,30 +1189,43 @@
         `Școli: ${schools.length}\n` +
         `Biserici: ${churches.length}\n` +
         `Medical: ${medical.length}\n` +
-        `Superbet: ${superbet.length}\n` +
-        `Cel mai apropiat Superbet: ${nearestSuperbetItem ? formatMeters(nearestSuperbetItem.distance) : "-"}`;
+        `Pariuri: ${betting.length}\n` +
+        `Gaming / casino: ${gaming.length}\n` +
+        `Cea mai apropiată casă pariuri: ${nearestBettingItem ? formatMeters(nearestBettingItem.distance) : "-"}\n` +
+        `Cea mai apropiată sală jocuri: ${nearestGamingItem ? formatMeters(nearestGamingItem.distance) : "-"}`;
 
       renderNearest(nearestSchool, nearestSchoolItem);
       renderNearest(nearestChurch, nearestChurchItem);
       renderNearest(nearestMedical, nearestMedicalItem);
-      renderNearest(nearestSuperbet, nearestSuperbetItem);
+      renderNearest(nearestBetting, nearestBettingItem);
+      renderNearest(nearestGaming, nearestGamingItem);
 
       renderPoiList(schoolsInside, schoolsInThreshold);
       renderPoiList(churchesInside, churchesInThreshold);
       renderPoiList(medicalInside, medicalInThreshold);
-      renderPoiList(superbetInside, nearbySuperbet);
+      renderPoiList(bettingInside, nearbyBetting);
+      renderPoiList(gamingInside, nearbyGaming);
       renderTopCandidates(topCandidates);
 
       addBaseMarker(lat, lon);
       addForbiddenZones(schools, churches, medical, schoolT, churchT, medicalT);
-      addPoiMarkers(schoolsInThreshold, churchesInThreshold, medicalInThreshold, nearbySuperbet);
+      addPoiMarkers(schoolsInThreshold, churchesInThreshold, medicalInThreshold, nearbyBetting, nearbyGaming);
 
       addNearestMarker(nearestSchoolItem, "Cel mai apropiat POI școală");
       addNearestMarker(nearestChurchItem, "Cel mai apropiat POI biserică");
       addNearestMarker(nearestMedicalItem, "Cel mai apropiat POI medical");
-      addNearestMarker(nearestSuperbetItem, "Cel mai apropiat Superbet");
 
-      addCandidateMarkers(lat, lon, topCandidates);
+      if (nearestBettingItem) {
+        addNearestMarker(
+          nearestBettingItem,
+          "Cea mai apropiată casă de pariuri",
+          isSuperbetPoi(nearestBettingItem.poi) ? superbetIcon : bettingIcon
+        );
+      }
+
+      addNearestMarker(nearestGamingItem, "Cea mai apropiată sală jocuri / casino", gamingIcon);
+
+      addCandidateMarkers(topCandidates);
 
       const fitLayers = [];
 
@@ -1249,7 +1300,8 @@
       toggleSchools,
       toggleChurches,
       toggleMedical,
-      toggleSuperbet,
+      toggleBetting,
+      toggleGaming,
       toggleNearest,
       toggleCandidates,
       toggleForbidden

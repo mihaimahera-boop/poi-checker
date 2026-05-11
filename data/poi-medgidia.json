@@ -1,338 +1,466 @@
-{
-  "city": "Medgidia",
-  "generated_at": "2026-04-23T09:48:16.008Z",
-  "counts": {
-    "total": 20,
-    "schools": 11,
-    "churches": 9
-  },
-  "pois": [
-    {
-      "id": "way/1182091460",
-      "osm_id": 1182091460,
-      "osm_type": "way",
-      "name": "Școala Generală „Constantin Brâncuși\"",
-      "category": "education",
-      "lat": 44.2440574,
-      "lon": 28.2710938,
-      "tags": {
-        "addr:city": "Medgidia",
-        "addr:housenumber": "26",
-        "addr:street": "Strada Kemal Agi Amet",
-        "amenity": "school",
-        "grades": "1-8",
-        "name": "Școala Generală „Constantin Brâncuși\""
-      }
-    },
-    {
-      "id": "way/1182091462",
-      "osm_id": 1182091462,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 44.2440251,
-      "lon": 28.2711203,
-      "tags": {
-        "building": "school"
-      }
-    },
-    {
-      "id": "way/1313305936",
-      "osm_id": 1313305936,
-      "osm_type": "way",
-      "name": "Colegiul Tehnic „Nicolae Titulescu”",
-      "category": "education",
-      "lat": 44.2603388,
-      "lon": 28.2655473,
-      "tags": {
-        "amenity": "college",
-        "building": "yes",
-        "name": "Colegiul Tehnic „Nicolae Titulescu”"
-      }
-    },
-    {
-      "id": "way/1313474890",
-      "osm_id": 1313474890,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 44.2597674,
-      "lon": 28.2679951,
-      "tags": {
-        "amenity": "school",
-        "building": "yes"
-      }
-    },
-    {
-      "id": "way/1313474891",
-      "osm_id": 1313474891,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 44.2593961,
-      "lon": 28.2682528,
-      "tags": {
-        "amenity": "school",
-        "building": "yes",
-        "height": "7"
-      }
-    },
-    {
-      "id": "way/1313499967",
-      "osm_id": 1313499967,
-      "osm_type": "way",
-      "name": "Școala Generală Nr. 2 Ion Luca Caragiale",
-      "category": "education",
-      "lat": 44.2594287,
-      "lon": 28.26161,
-      "tags": {
-        "addr:city": "Medgidia",
-        "addr:postcode": "905600",
-        "amenity": "school",
-        "building": "yes",
-        "name": "Școala Generală Nr. 2 Ion Luca Caragiale"
-      }
-    },
-    {
-      "id": "way/1315334030",
-      "osm_id": 1315334030,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 44.2428691,
-      "lon": 28.295878,
-      "tags": {
-        "amenity": "college",
-        "building": "yes"
-      }
-    },
-    {
-      "id": "way/1315334031",
-      "osm_id": 1315334031,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 44.2428648,
-      "lon": 28.2961196,
-      "tags": {
-        "amenity": "college",
-        "building": "yes"
-      }
-    },
-    {
-      "id": "way/1315334032",
-      "osm_id": 1315334032,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 44.2429774,
-      "lon": 28.2950928,
-      "tags": {
-        "amenity": "college",
-        "building": "yes"
-      }
-    },
-    {
-      "id": "way/1315334033",
-      "osm_id": 1315334033,
-      "osm_type": "way",
-      "name": "Liceul Tehnologic „Dragomir Hurmuzescu”",
-      "category": "education",
-      "lat": 44.2430435,
-      "lon": 28.2954959,
-      "tags": {
-        "addr:city": "Medgidia",
-        "addr:housenumber": "1B",
-        "addr:street": "Strada Poporului",
-        "amenity": "college",
-        "building": "yes",
-        "email": "dragomir.hurmuzescu@yahoo.ro",
-        "name": "Liceul Tehnologic „Dragomir Hurmuzescu”",
-        "phone": "+40 341420101",
-        "website": "https://www.dragomirhurmuzescu.ro/"
-      }
-    },
-    {
-      "id": "way/1315334034",
-      "osm_id": 1315334034,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 44.2432689,
-      "lon": 28.2958334,
-      "tags": {
-        "amenity": "college",
-        "building": "yes"
-      }
-    },
-    {
-      "id": "way/259713099",
-      "osm_id": 259713099,
-      "osm_type": "way",
-      "name": "Geamia Abdul Medgid",
-      "category": "place_of_worship",
-      "lat": 44.2455791,
-      "lon": 28.2707191,
-      "tags": {
-        "addr:city": "Medgidia",
-        "addr:street": "Strada Decebal",
-        "amenity": "place_of_worship",
-        "building": "yes",
-        "denomination": "sunni",
-        "heritage": "2",
-        "heritage:operator": "lmi",
-        "name": "Geamia Abdul Medgid",
-        "ref:RO:lmi": "CT-II-m-A-02904",
-        "religion": "muslim",
-        "start_date": "1865",
-        "wikidata": "Q13534354",
-        "wikipedia": "ro:Geamia Abdul Medgid"
-      }
-    },
-    {
-      "id": "way/837873541",
-      "osm_id": 837873541,
-      "osm_type": "way",
-      "name": "Biserica „Sfinții Arhangheli Mihail și Gavriil\"",
-      "category": "place_of_worship",
-      "lat": 44.246166,
-      "lon": 28.2888908,
-      "tags": {
-        "addr:city": "Medgidia",
-        "amenity": "place_of_worship",
-        "building": "yes",
-        "building:levels": "3",
-        "denomination": "romanian_orthodox",
-        "name": "Biserica „Sfinții Arhangheli Mihail și Gavriil\"",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/844369974",
-      "osm_id": 844369974,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "place_of_worship",
-      "lat": 44.19729,
-      "lon": 28.3144999,
-      "tags": {
-        "addr:city": "Valea Dacilor",
-        "amenity": "place_of_worship",
-        "building": "yes",
-        "building:levels": "2",
-        "denomination": "sunni",
-        "religion": "muslim"
-      }
-    },
-    {
-      "id": "way/844369990",
-      "osm_id": 844369990,
-      "osm_type": "way",
-      "name": "Biserica „Sfinții Împărați Constantin și Elena\"",
-      "category": "place_of_worship",
-      "lat": 44.1982,
-      "lon": 28.3173996,
-      "tags": {
-        "addr:city": "Valea Dacilor",
-        "amenity": "place_of_worship",
-        "building": "yes",
-        "building:levels": "2",
-        "denomination": "romanian_orthodox",
-        "name": "Biserica „Sfinții Împărați Constantin și Elena\"",
-        "religion": "christian",
-        "start_date": "1941"
-      }
-    },
-    {
-      "id": "way/1182091438",
-      "osm_id": 1182091438,
-      "osm_type": "way",
-      "name": "Biserica „Sfântul Apostol și Evanghelist Ioan”",
-      "category": "place_of_worship",
-      "lat": 44.2378921,
-      "lon": 28.2152895,
-      "tags": {
-        "addr:city": "Remus Opreanu",
-        "amenity": "place_of_worship",
-        "building": "yes",
-        "denomination": "romanian_orthodox",
-        "name": "Biserica „Sfântul Apostol și Evanghelist Ioan”",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/1182091448",
-      "osm_id": 1182091448,
-      "osm_type": "way",
-      "name": "Biserica „Sfântul Dimitrie\"",
-      "category": "place_of_worship",
-      "lat": 44.2539524,
-      "lon": 28.2651771,
-      "tags": {
-        "addr:city": "Medgidia",
-        "amenity": "place_of_worship",
-        "building": "yes",
-        "denomination": "romanian_orthodox",
-        "name": "Biserica „Sfântul Dimitrie\"",
-        "religion": "christian",
-        "start_date": "1997"
-      }
-    },
-    {
-      "id": "way/1182091451",
-      "osm_id": 1182091451,
-      "osm_type": "way",
-      "name": "Biserica „Sfinții Apostoli Petru și Pavel\"",
-      "category": "place_of_worship",
-      "lat": 44.2471027,
-      "lon": 28.2664404,
-      "tags": {
-        "addr:city": "Medgidia",
-        "amenity": "place_of_worship",
-        "building": "yes",
-        "denomination": "romanian_orthodox",
-        "name": "Biserica „Sfinții Apostoli Petru și Pavel\"",
-        "religion": "christian",
-        "start_date": "1898"
-      }
-    },
-    {
-      "id": "way/1182091453",
-      "osm_id": 1182091453,
-      "osm_type": "way",
-      "name": "Biserica „Adormirea Maicii Domnului”, „Sfântul Haralambie\"",
-      "category": "place_of_worship",
-      "lat": 44.2383681,
-      "lon": 28.2717277,
-      "tags": {
-        "addr:city": "Medgidia",
-        "addr:street": "Strada Republicii",
-        "amenity": "place_of_worship",
-        "building": "yes",
-        "denomination": "romanian_orthodox",
-        "name": "Biserica „Adormirea Maicii Domnului”, „Sfântul Haralambie\"",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/1182091456",
-      "osm_id": 1182091456,
-      "osm_type": "way",
-      "name": "Biserica „Sfinții Împărați Constantin și Elena\"",
-      "category": "place_of_worship",
-      "lat": 44.2634758,
-      "lon": 28.2590666,
-      "tags": {
-        "addr:city": "Medgidia",
-        "addr:street": "Strada Vâlcelelor",
-        "amenity": "place_of_worship",
-        "building": "yes",
-        "building:material": "wood",
-        "denomination": "romanian_orthodox",
-        "name": "Biserica „Sfinții Împărați Constantin și Elena\"",
-        "religion": "christian",
-        "start_date": "2012"
-      }
+[
+  {
+    "id": "node-8628417574",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet Betting & Gaming SA",
+    "lat": 44.246432,
+    "lng": 28.255366,
+    "osmType": "node",
+    "tags": {
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
     }
-  ]
-}
+  },
+  {
+    "id": "node-8628418041",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet Betting & Gaming SA",
+    "lat": 44.259431,
+    "lng": 28.262748,
+    "osmType": "node",
+    "tags": {
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-8628418085",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet",
+    "lat": 44.2469474,
+    "lng": 28.2696007,
+    "osmType": "node",
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-8738875108",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.2650824,
+    "lng": 28.2504124,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-9047355737",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet Betting & Gaming SA",
+    "lat": 44.247735,
+    "lng": 28.258799,
+    "osmType": "node",
+    "tags": {
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "way-259713099",
+    "name": "Geamia Abdul Medgid",
+    "type": "church",
+    "subcategory": "muslim",
+    "lat": 44.2455791,
+    "lng": 28.2707191,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Medgidia",
+      "addr:street": "Strada Decebal",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "sunni",
+      "heritage": "2",
+      "heritage:operator": "lmi",
+      "name": "Geamia Abdul Medgid",
+      "ref:RO:lmi": "CT-II-m-A-02904",
+      "religion": "muslim",
+      "start_date": "1865",
+      "wikidata": "Q13534354",
+      "wikipedia": "ro:Geamia Abdul Medgid"
+    }
+  },
+  {
+    "id": "way-837873541",
+    "name": "Biserica „Sfinții Arhangheli Mihail și Gavriil\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.246166,
+    "lng": 28.2888908,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Medgidia",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "building:levels": "3",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Sfinții Arhangheli Mihail și Gavriil\"",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-844369974",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "muslim",
+    "lat": 44.19729,
+    "lng": 28.3144999,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Valea Dacilor",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "building:levels": "2",
+      "denomination": "sunni",
+      "religion": "muslim"
+    }
+  },
+  {
+    "id": "way-844369990",
+    "name": "Biserica „Sfinții Împărați Constantin și Elena\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.1982,
+    "lng": 28.3173996,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Valea Dacilor",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "building:levels": "2",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Sfinții Împărați Constantin și Elena\"",
+      "religion": "christian",
+      "start_date": "1941"
+    }
+  },
+  {
+    "id": "way-1182091438",
+    "name": "Biserica „Sfântul Apostol și Evanghelist Ioan”",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.2378921,
+    "lng": 28.2152895,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Remus Opreanu",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Sfântul Apostol și Evanghelist Ioan”",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1182091448",
+    "name": "Biserica „Sfântul Dimitrie\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.2539524,
+    "lng": 28.2651771,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Medgidia",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Sfântul Dimitrie\"",
+      "religion": "christian",
+      "start_date": "1997"
+    }
+  },
+  {
+    "id": "way-1182091451",
+    "name": "Biserica „Sfinții Apostoli Petru și Pavel\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.2471027,
+    "lng": 28.2664404,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Medgidia",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Sfinții Apostoli Petru și Pavel\"",
+      "religion": "christian",
+      "start_date": "1898"
+    }
+  },
+  {
+    "id": "way-1182091453",
+    "name": "Biserica „Adormirea Maicii Domnului”, „Sfântul Haralambie\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.2383681,
+    "lng": 28.2717277,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Medgidia",
+      "addr:street": "Strada Republicii",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Adormirea Maicii Domnului”, „Sfântul Haralambie\"",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1182091456",
+    "name": "Biserica „Sfinții Împărați Constantin și Elena\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.2634758,
+    "lng": 28.2590666,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Medgidia",
+      "addr:street": "Strada Vâlcelelor",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "building:material": "wood",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Sfinții Împărați Constantin și Elena\"",
+      "religion": "christian",
+      "start_date": "2012"
+    }
+  },
+  {
+    "id": "way-1182091460",
+    "name": "Școala Generală „Constantin Brâncuși\"",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.2440574,
+    "lng": 28.2710938,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Medgidia",
+      "addr:housenumber": "26",
+      "addr:street": "Strada Kemal Agi Amet",
+      "amenity": "school",
+      "grades": "1-8",
+      "name": "Școala Generală „Constantin Brâncuși\""
+    }
+  },
+  {
+    "id": "way-1182321999",
+    "name": "Biserica „Sfântul Gheorghe\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.2688769,
+    "lng": 28.2265775,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Satu Nou",
+      "addr:street": "Strada Bisericii",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Sfântul Gheorghe\"",
+      "religion": "christian",
+      "start_date": "1940"
+    }
+  },
+  {
+    "id": "way-1313305936",
+    "name": "Colegiul Tehnic „Nicolae Titulescu”",
+    "type": "school",
+    "subcategory": "college",
+    "lat": 44.2603388,
+    "lng": 28.2655473,
+    "osmType": "way",
+    "tags": {
+      "amenity": "college",
+      "building": "yes",
+      "name": "Colegiul Tehnic „Nicolae Titulescu”"
+    }
+  },
+  {
+    "id": "way-1313474890",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.2597674,
+    "lng": 28.2679951,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school",
+      "building": "yes"
+    }
+  },
+  {
+    "id": "way-1313474891",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.2593961,
+    "lng": 28.2682528,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school",
+      "building": "yes",
+      "height": "7"
+    }
+  },
+  {
+    "id": "way-1313499967",
+    "name": "Școala Generală Nr. 2 Ion Luca Caragiale",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.2594287,
+    "lng": 28.26161,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Medgidia",
+      "addr:postcode": "905600",
+      "amenity": "school",
+      "building": "yes",
+      "name": "Școala Generală Nr. 2 Ion Luca Caragiale"
+    }
+  },
+  {
+    "id": "way-1314916610",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "childcare",
+    "lat": 44.2549649,
+    "lng": 28.2668594,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Medgidia",
+      "addr:postcode": "905600",
+      "addr:street": "Strada Alexandru cel Bun",
+      "amenity": "childcare",
+      "building": "yes"
+    }
+  },
+  {
+    "id": "way-1315297861",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.2650805,
+    "lng": 28.2504268,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "heritage": "9",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1315334030",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "college",
+    "lat": 44.2428691,
+    "lng": 28.295878,
+    "osmType": "way",
+    "tags": {
+      "amenity": "college",
+      "building": "yes"
+    }
+  },
+  {
+    "id": "way-1315334031",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "college",
+    "lat": 44.2428648,
+    "lng": 28.2961196,
+    "osmType": "way",
+    "tags": {
+      "amenity": "college",
+      "building": "yes"
+    }
+  },
+  {
+    "id": "way-1315334032",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "college",
+    "lat": 44.2429774,
+    "lng": 28.2950928,
+    "osmType": "way",
+    "tags": {
+      "amenity": "college",
+      "building": "yes"
+    }
+  },
+  {
+    "id": "way-1315334033",
+    "name": "Liceul Tehnologic „Dragomir Hurmuzescu”",
+    "type": "school",
+    "subcategory": "college",
+    "lat": 44.2430435,
+    "lng": 28.2954959,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Medgidia",
+      "addr:housenumber": "1B",
+      "addr:street": "Strada Poporului",
+      "amenity": "college",
+      "building": "yes",
+      "email": "dragomir.hurmuzescu@yahoo.ro",
+      "name": "Liceul Tehnologic „Dragomir Hurmuzescu”",
+      "phone": "+40 341420101",
+      "website": "https://www.dragomirhurmuzescu.ro/"
+    }
+  },
+  {
+    "id": "way-1315334034",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "college",
+    "lat": 44.2432689,
+    "lng": 28.2958334,
+    "osmType": "way",
+    "tags": {
+      "amenity": "college",
+      "building": "yes"
+    }
+  }
+]

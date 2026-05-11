@@ -7,8 +7,12 @@
     "lat": 45.9607092,
     "lng": 23.5760648,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "greek_catholic",
+      "name": "Biserica Greco-Catolică",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-1960848806",
@@ -18,8 +22,15 @@
     "lat": 45.9579664,
     "lng": 23.5728511,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "roman_catholic",
+      "name": "Biserica romano-catolică Sf. Bartolomeu",
+      "name:hu": "Szent Bertalan apostol-templom",
+      "name:ro": "Biserica romano-catolică Sf. Bartolomeu",
+      "religion": "christian",
+      "url:miserend": "https://miserend.hu/templom/3062"
+    }
   },
   {
     "id": "node-2203441512",
@@ -29,8 +40,12 @@
     "lat": 45.9037884,
     "lng": 23.6254757,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Răhău",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-2505242016",
@@ -40,8 +55,12 @@
     "lat": 45.9194799,
     "lng": 23.5601021,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-2505256177",
@@ -51,8 +70,12 @@
     "lat": 45.9203158,
     "lng": 23.5582511,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "lutheran",
+      "name": "Biserica Luterană",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-2642698628",
@@ -62,8 +85,15 @@
     "lat": 45.9553866,
     "lng": 23.5663634,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "reformed",
+      "name": "Biserica Reformată",
+      "name:de": "Reformierte Kirche",
+      "name:en": "Reformed Church",
+      "name:ro": "Biserica Reformată",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-5352588683",
@@ -73,8 +103,12 @@
     "lat": 45.9480334,
     "lng": 23.645575,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "bulgarian_orthodox",
+      "name": "Schitul cut",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-5392248514",
@@ -84,41 +118,92 @@
     "lat": 45.9212864,
     "lng": 23.5636994,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "name": "Școala Generală"
+    }
   },
   {
     "id": "node-8628401603",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet Betting & Gaming SA",
     "lat": 45.964426,
     "lng": 23.559864,
     "osmType": "node",
-    "brand": null,
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-8628417660",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet",
     "lat": 45.9554075,
     "lng": 23.5776522,
     "osmType": "node",
-    "brand": "Superbet",
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-8628417879",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet",
     "lat": 45.9579595,
     "lng": 23.5647546,
     "osmType": "node",
-    "brand": "Superbet",
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "addr:city": "Sebeș",
+      "addr:street": "Strada Valea Frumoasei",
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-10294825492",
+    "name": "Casa Pariurilor",
+    "type": "betting",
+    "subcategory": "Casa Pariurilor",
+    "lat": 45.9580743,
+    "lng": 23.5641709,
+    "osmType": "node",
+    "tags": {
+      "name": "Casa Pariurilor",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-10554524228",
@@ -128,8 +213,17 @@
     "lat": 45.9540983,
     "lng": 23.5799426,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Sebeș",
+      "addr:housenumber": "2b",
+      "addr:postcode": "515800",
+      "addr:street": "Strada Viilor",
+      "amenity": "college",
+      "education": "college",
+      "email": "grsc.sebes@yahoo.com",
+      "name": "Liceul Tehnologic Sebeș",
+      "website": "https://www.ltsebes.ro/"
+    }
   },
   {
     "id": "node-10567190138",
@@ -139,8 +233,20 @@
     "lat": 45.9511927,
     "lng": 23.565901,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Sebeș",
+      "addr:housenumber": "53",
+      "addr:postcode": "515800",
+      "addr:street": "Strada Dorin Pavel",
+      "amenity": "clinic",
+      "email": "clinimar@yahoo.com",
+      "healthcare": "clinic",
+      "healthcare:speciality": "internal;psychiatry;neuropsychiatry",
+      "name": "Clinimar",
+      "opening_hours": "Mo-Fr 09:00-18:00",
+      "phone": "0746 124 440",
+      "website": "https://clinimar.ro/"
+    }
   },
   {
     "id": "node-10568197518",
@@ -150,8 +256,11 @@
     "lat": 45.9552904,
     "lng": 23.571643,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "name": "Cabinet Ecograf"
+    }
   },
   {
     "id": "node-10584863741",
@@ -161,8 +270,16 @@
     "lat": 45.954324,
     "lng": 23.5742771,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Sebeș",
+      "addr:housenumber": "17",
+      "addr:postcode": "515800",
+      "addr:street": "Strada Sava Henția",
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "name": "Cabinet Medic de Familie",
+      "phone": "0258730415"
+    }
   },
   {
     "id": "node-10601980983",
@@ -172,8 +289,14 @@
     "lat": 45.9530278,
     "lng": 23.5594351,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Sebeș",
+      "addr:housenumber": "110",
+      "addr:street": "Strada Mircea cel Mare",
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "name": "Cabinet MedicalMedicina Muncii"
+    }
   },
   {
     "id": "node-10605861307",
@@ -183,8 +306,19 @@
     "lat": 45.9569853,
     "lng": 23.5685168,
     "osmType": "node",
-    "brand": "Clinica Sante",
-    "operator": null
+    "tags": {
+      "addr:city": "Sebeș",
+      "addr:housenumber": "32",
+      "addr:postcode": "515800",
+      "addr:street": "Bulevardul Lucian Blaga",
+      "amenity": "clinic",
+      "brand": "Clinica Sante",
+      "brand:wikidata": "Q121080834",
+      "healthcare": "sample_collection",
+      "name": "Clinica Sante",
+      "opening_hours": "Mo-Fr 07:00-11:00",
+      "website": "https://www.clinica-sante.ro/clinica-sante-sebes/"
+    }
   },
   {
     "id": "node-10605861316",
@@ -194,8 +328,11 @@
     "lat": 45.9570316,
     "lng": 23.5679608,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "name": "Cabinet Medical"
+    }
   },
   {
     "id": "node-10620066075",
@@ -205,8 +342,16 @@
     "lat": 45.95894,
     "lng": 23.5719217,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Sebeș",
+      "addr:housenumber": "4",
+      "addr:postcode": "515800",
+      "addr:street": "Strada Peneș Curcanul",
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "healthcare:speciality": "internal;radiology",
+      "name": "Cabinet Medicină Internă"
+    }
   },
   {
     "id": "node-10639147863",
@@ -216,8 +361,12 @@
     "lat": 45.9589131,
     "lng": 23.5694426,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Sebeș",
+      "addr:street": "Strada Ion Luca Caragiale",
+      "amenity": "childcare",
+      "name": "Grădinița cu Program Normal Nr. 4"
+    }
   },
   {
     "id": "node-10687668515",
@@ -227,8 +376,13 @@
     "lat": 45.9561023,
     "lng": 23.5767447,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Sebeș",
+      "addr:street": "Bulevardul Lucian Blaga",
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "name": "MedLife"
+    }
   },
   {
     "id": "node-12046075758",
@@ -238,8 +392,14 @@
     "lat": 45.9645266,
     "lng": 23.5593492,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "clinic",
+      "contact:phone": "+40 723 396 832",
+      "contact:website": "https://www.gralmedical.ro/",
+      "healthcare": "clinic",
+      "name": "Gral Medical",
+      "opening_hours": "Mo-Su 07:00-09:30"
+    }
   },
   {
     "id": "way-199197703",
@@ -249,8 +409,17 @@
     "lat": 45.9593794,
     "lng": 23.5612514,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Sebeș",
+      "addr:housenumber": "1",
+      "amenity": "college",
+      "building": "school",
+      "email": "lg.sebes@isjalba.ro",
+      "email_1": "scoalagermana.sebes@gmail.com",
+      "name": "Liceul German Sebeș",
+      "phone": "0371348884",
+      "website": "http://www.liceulgermansebes.ro/index.html"
+    }
   },
   {
     "id": "way-210253175",
@@ -260,8 +429,13 @@
     "lat": 45.9037828,
     "lng": 23.6256091,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă Răhău",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-367391312",
@@ -271,8 +445,13 @@
     "lat": 45.9186449,
     "lng": 23.5548656,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "orthodox",
+      "name": "Biserica Nouă",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-541530432",
@@ -282,8 +461,18 @@
     "lat": 45.9575707,
     "lng": 23.5678932,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "lutheran",
+      "name": "Biserica Evanghelică C.A.",
+      "name:de": "Evangelische Kirche A.B.",
+      "name:en": "Evangelical Church",
+      "name:ro": "Biserica Evanghelică C.A.",
+      "religion": "christian",
+      "wikidata": "Q18537417",
+      "wikipedia": "ro:Ansamblul bisericii evanghelice din Sebeș"
+    }
   },
   {
     "id": "way-549703936",
@@ -293,8 +482,13 @@
     "lat": 45.9617662,
     "lng": 23.5582066,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă Adormirea Maicii Domnului",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-549703938",
@@ -304,8 +498,13 @@
     "lat": 45.9590702,
     "lng": 23.5609904,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă Învierea Domnului",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-549703939",
@@ -315,8 +514,13 @@
     "lat": 45.9586002,
     "lng": 23.5625919,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă Schimbarea la Față",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-549704648",
@@ -326,8 +530,13 @@
     "lat": 45.9554009,
     "lng": 23.5663672,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "reformed",
+      "name": "Biserica Reformată Sebeș",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-549704654",
@@ -337,8 +546,13 @@
     "lat": 45.960718,
     "lng": 23.5761078,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "greek_catholic",
+      "name": "Biserica Greco-Catolică Înălțarea Sfintei Cruci",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-549706616",
@@ -348,8 +562,13 @@
     "lat": 46.021208,
     "lng": 23.5966455,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "greek_catholic",
+      "name": "Biserica Greco-Catolică Sfântul Nicolae",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-549706619",
@@ -359,8 +578,13 @@
     "lat": 46.0186864,
     "lng": 23.5913549,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă Sfântul Nicolae",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-913516047",
@@ -370,8 +594,13 @@
     "lat": 45.9871868,
     "lng": 23.5562505,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Biserica Lancrăm",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1123136984",
@@ -381,8 +610,11 @@
     "lat": 45.9666867,
     "lng": 23.5601067,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "building": "yes",
+      "name": "Școala Generală Mihail Kogălniceanu"
+    }
   },
   {
     "id": "way-1123151412",
@@ -392,8 +624,14 @@
     "lat": 45.9656963,
     "lng": 23.5589133,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "height": "7",
+      "name": "Biserica Ortodoxă Sfântul Gheorghe",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1125357924",
@@ -403,8 +641,14 @@
     "lat": 45.9588239,
     "lng": 23.5694143,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Sebeș",
+      "addr:postcode": "515800",
+      "addr:street": "Strada Ion Luca Caragiale",
+      "amenity": "childcare",
+      "building": "yes",
+      "name": "Grădinița cu Program Normal Nr. 4"
+    }
   },
   {
     "id": "way-1125482744",
@@ -414,8 +658,13 @@
     "lat": 45.9581581,
     "lng": 23.5746813,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Sebeș",
+      "amenity": "hospital",
+      "building": "yes",
+      "healthcare": "hospital",
+      "name": "Spital Fizioterapie"
+    }
   },
   {
     "id": "way-1125497042",
@@ -425,8 +674,11 @@
     "lat": 45.9576646,
     "lng": 23.5670481,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "building": "yes",
+      "name": "Școala Generală nr. 2"
+    }
   },
   {
     "id": "way-1125993347",
@@ -436,8 +688,14 @@
     "lat": 45.9511629,
     "lng": 23.5682676,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "hospital",
+      "building": "yes",
+      "healthcare": "hospital",
+      "name": "Spitalul Municipal Sebeș",
+      "name:en": "Municipal Hospital Sebeș",
+      "name:ro": "Spitalul Municipal Sebeș"
+    }
   },
   {
     "id": "way-1125994786",
@@ -447,8 +705,13 @@
     "lat": 45.9543096,
     "lng": 23.5736335,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "height": "11",
+      "name": "Catedrala Ortodoxă Sfinții Apostoli Petru și Pavel - Sebeş",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1126060113",
@@ -458,8 +721,18 @@
     "lat": 45.9528477,
     "lng": 23.5677528,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Sebeș",
+      "addr:housenumber": "26",
+      "addr:postcode": "515800",
+      "addr:street": "Strada Șurianu",
+      "amenity": "hospital",
+      "building": "yes",
+      "healthcare": "hospital",
+      "name": "Spitalul Municipal Sebeș Pediatrie",
+      "name:en": "Municipal Hospital Sebeș - Children’s Care",
+      "name:ro": "Spitalul Municipal Sebeș Pediatrie"
+    }
   },
   {
     "id": "way-1126083672",
@@ -469,8 +742,15 @@
     "lat": 45.9556697,
     "lng": 23.5770266,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Sebeș",
+      "addr:street": "Bulevardul Lucian Blaga",
+      "amenity": "clinic",
+      "building": "yes",
+      "healthcare": "clinic",
+      "name": "CLINICA AFRODITA",
+      "website": "https://www.clinicaafrodita.ro/"
+    }
   },
   {
     "id": "way-1126564987",
@@ -480,8 +760,10 @@
     "lat": 45.953886,
     "lng": 23.5687585,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "childcare",
+      "building": "yes"
+    }
   },
   {
     "id": "way-1126652194",
@@ -491,8 +773,11 @@
     "lat": 45.9519343,
     "lng": 23.5681567,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1126714407",
@@ -502,8 +787,13 @@
     "lat": 45.9523325,
     "lng": 23.5700814,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "college",
+      "building": "yes",
+      "name": "Corpul A",
+      "name:en": "Building A",
+      "ref": "A"
+    }
   },
   {
     "id": "way-1126922546",
@@ -513,8 +803,12 @@
     "lat": 45.9548069,
     "lng": 23.5746309,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "name": "Biserica Ortodoxă Sfântul Mare Mucenic Gheorghe",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1127841489",
@@ -524,8 +818,12 @@
     "lat": 45.9438038,
     "lng": 23.5653573,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "height": "9",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1128413536",
@@ -535,8 +833,10 @@
     "lat": 45.9606307,
     "lng": 23.5700981,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "college",
+      "building": "yes"
+    }
   },
   {
     "id": "way-1132022105",
@@ -546,8 +846,15 @@
     "lat": 45.9498739,
     "lng": 23.5753556,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Sebeș",
+      "addr:postcode": "515800",
+      "addr:street": "Strada Tudor Vladimirescu",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1162845700",
@@ -557,8 +864,14 @@
     "lat": 45.9560443,
     "lng": 23.5726807,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "email": "ls.sebes@mail.albanet.ro",
+      "fax": "+40 258730796",
+      "name": "Liceul cu Program Sportiv „Florin Fleșeriu” - Sebeș",
+      "phone": "+40 258731220",
+      "website": "http://www.lpss.ro/index.htm"
+    }
   },
   {
     "id": "way-1162845973",
@@ -568,8 +881,12 @@
     "lat": 45.9524782,
     "lng": 23.5707207,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "name": "Colegiul Național „Lucian Blaga”",
+      "name:en": "„Lucian Blaga” National College",
+      "name:ro": "Colegiul Național „Lucian Blaga”"
+    }
   },
   {
     "id": "way-1177215247",
@@ -579,8 +896,10 @@
     "lat": 45.9574493,
     "lng": 23.5647666,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "name": "Liceul Tehnologic Sebeș"
+    }
   },
   {
     "id": "way-1431431504",
@@ -590,7 +909,10 @@
     "lat": 45.8872929,
     "lng": 23.6532589,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "name": "Biserica Adventistă"
+    }
   }
 ]

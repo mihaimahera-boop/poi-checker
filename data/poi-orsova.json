@@ -1,0 +1,379 @@
+[
+  {
+    "id": "node-259184024",
+    "name": "Biserica Romano-Catolică Neprihănita Zămislire",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.7243655,
+    "lng": 22.3937204,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "catholic",
+      "is_in": "Orșova",
+      "name": "Biserica Romano-Catolică Neprihănita Zămislire",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-259199427",
+    "name": "Școala Generală Nr. 2",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.7183848,
+    "lng": 22.3975751,
+    "osmType": "node",
+    "tags": {
+      "amenity": "school",
+      "grades": "1-12",
+      "name": "Școala Generală Nr. 2"
+    }
+  },
+  {
+    "id": "node-2463244140",
+    "name": "Biserica Eșelnița",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.6986227,
+    "lng": 22.3619965,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Biserica Eșelnița",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-7206415384",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.6951606,
+    "lng": 22.3662409,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "historic": "wayside_cross",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-7206415466",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.7093578,
+    "lng": 22.397975,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "bench": "yes",
+      "historic": "wayside_cross",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-7933768153",
+    "name": "Școala de Perfecționare a Pregătirii Personalului Poliției de Frontieră Orșova - IGPFR",
+    "type": "school",
+    "subcategory": "college",
+    "lat": 44.7146295,
+    "lng": 22.4013501,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Orșova",
+      "addr:street": "Bulevardul 1 Decembrie 1918",
+      "amenity": "college",
+      "name": "Școala de Perfecționare a Pregătirii Personalului Poliției de Frontieră Orșova - IGPFR"
+    }
+  },
+  {
+    "id": "node-8628418288",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet Betting & Gaming SA",
+    "lat": 44.7238652,
+    "lng": 22.3972446,
+    "osmType": "node",
+    "tags": {
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-9047355726",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet Betting & Gaming SA",
+    "lat": 44.729079,
+    "lng": 22.4010907,
+    "osmType": "node",
+    "tags": {
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "way-265673930",
+    "name": "Biserica Adormirea Maicii Domnului - Jupalnic",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.726866,
+    "lng": 22.3839776,
+    "osmType": "way",
+    "tags": {
+      "access": "private",
+      "addr:housenumber": "79",
+      "addr:postcode": "225200",
+      "addr:street": "Strada Eroilor",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "landuse": "residential",
+      "name": "Biserica Adormirea Maicii Domnului - Jupalnic",
+      "religion": "christian",
+      "source": "Legea 544/2001"
+    }
+  },
+  {
+    "id": "way-265674306",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.7202897,
+    "lng": 22.397622,
+    "osmType": "way",
+    "tags": {
+      "access": "private",
+      "amenity": "school",
+      "barrier": "fence",
+      "source": "Legea 544/2001"
+    }
+  },
+  {
+    "id": "way-265680885",
+    "name": "Grădinița Nr. 1",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 44.727304,
+    "lng": 22.3986454,
+    "osmType": "way",
+    "tags": {
+      "amenity": "kindergarten",
+      "building": "school",
+      "name": "Grădinița Nr. 1",
+      "source": "Legea 544/2001"
+    }
+  },
+  {
+    "id": "way-265680887",
+    "name": "Grădinița Nr. 3",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 44.7364589,
+    "lng": 22.4067661,
+    "osmType": "way",
+    "tags": {
+      "amenity": "kindergarten",
+      "name": "Grădinița Nr. 3"
+    }
+  },
+  {
+    "id": "way-265680904",
+    "name": "Mănăstirea Sfânta Ana",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.7117684,
+    "lng": 22.3978928,
+    "osmType": "way",
+    "tags": {
+      "alt_name": "Mănăstirea Sf. Ana",
+      "alt_name:en": "St. Anne Monastery",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "orthodox",
+      "name": "Mănăstirea Sfânta Ana",
+      "name:en": "Saint Anne Monastery",
+      "religion": "christian",
+      "source": "Legea 544/2001",
+      "wikipedia:ro": "Mănăstirea Sfânta Ana din Orșova"
+    }
+  },
+  {
+    "id": "way-265680934",
+    "name": "Școala Generală cu Clasele 1-8",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.7327716,
+    "lng": 22.4033354,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Orșova",
+      "addr:street": "Bulevardul 1 Decembrie 1918",
+      "amenity": "school",
+      "building": "school",
+      "name": "Școala Generală cu Clasele 1-8",
+      "source": "Legea 544/2001"
+    }
+  },
+  {
+    "id": "way-265681162",
+    "name": "Biserica Baptistă",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.7199416,
+    "lng": 22.3942939,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "baptist",
+      "name": "Biserica Baptistă",
+      "religion": "christian",
+      "source": "Legea 544/2001"
+    }
+  },
+  {
+    "id": "way-265681562",
+    "name": "Centrul Creștin Tabor",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.7237956,
+    "lng": 22.3958675,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "pentecostal",
+      "name": "Centrul Creștin Tabor",
+      "religion": "christian",
+      "source": "Legea 544/2001"
+    }
+  },
+  {
+    "id": "way-265681650",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.7185166,
+    "lng": 22.3975368,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Orșova",
+      "addr:street": "Strada Porțile de Fier",
+      "amenity": "school",
+      "building": "school",
+      "source": "Legea 544/2001"
+    }
+  },
+  {
+    "id": "way-288896943",
+    "name": "Biserica Nașterea Maicii Domnului",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.7378,
+    "lng": 22.405181,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "orthodox",
+      "name": "Biserica Nașterea Maicii Domnului",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-292926270",
+    "name": "Fără nume",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 44.6831864,
+    "lng": 22.4078531,
+    "osmType": "way",
+    "tags": {
+      "addr:housenumber": "16",
+      "addr:street": "Аврама Петронијевића",
+      "amenity": "clinic",
+      "building": "yes",
+      "ref:RS:kucni_broj": "4140704"
+    }
+  },
+  {
+    "id": "way-292926273",
+    "name": "Hram Svetog Nikole",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.6831071,
+    "lng": 22.4105623,
+    "osmType": "way",
+    "tags": {
+      "addr:housenumber": "53a",
+      "addr:street": "Коче Анђелковића",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "name": "Hram Svetog Nikole",
+      "ref:RS:kucni_broj": "6953458",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-292927595",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.6821101,
+    "lng": 22.4098975,
+    "osmType": "way",
+    "tags": {
+      "addr:housenumber": "65",
+      "addr:street": "Коче Анђелковића",
+      "amenity": "school",
+      "building": "yes",
+      "ref:RS:kucni_broj": "4140416"
+    }
+  },
+  {
+    "id": "way-1344534677",
+    "name": "Liceul Teoretic \"Traian Lalescu\"",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.722921,
+    "lng": 22.3954134,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school",
+      "name": "Liceul Teoretic \"Traian Lalescu\""
+    }
+  },
+  {
+    "id": "way-1344534678",
+    "name": "Spitalul Municipal Orșova",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 44.7216057,
+    "lng": 22.3958105,
+    "osmType": "way",
+    "tags": {
+      "amenity": "hospital",
+      "name": "Spitalul Municipal Orșova"
+    }
+  }
+]

@@ -7,8 +7,14 @@
     "lat": 44.8546836,
     "lng": 24.8807001,
     "osmType": "node",
-    "brand": null,
-    "operator": "Universitatea din Pitești"
+    "tags": {
+      "alt_name": "Facultatea de Științe Socio-Umane",
+      "amenity": "university",
+      "name": "Corp I",
+      "operator": "Universitatea din Pitești",
+      "phone": "+40 348 453 290",
+      "website": "https://www.upit.ro/"
+    }
   },
   {
     "id": "node-906648695",
@@ -18,8 +24,10 @@
     "lat": 44.8552569,
     "lng": 24.8805359,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "university",
+      "name": "Universitatea din Pitești corp S"
+    }
   },
   {
     "id": "node-1316062700",
@@ -29,8 +37,13 @@
     "lat": 44.8531487,
     "lng": 24.8488399,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Mănăstirea Trivale",
+      "religion": "christian",
+      "source": "jonutzu@gpszone.ro"
+    }
   },
   {
     "id": "node-1495075114",
@@ -40,8 +53,10 @@
     "lat": 44.8640431,
     "lng": 24.8654066,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "name": "Centru educational"
+    }
   },
   {
     "id": "node-1495075286",
@@ -51,8 +66,15 @@
     "lat": 44.8535338,
     "lng": 24.8742658,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Pitești",
+      "addr:housenumber": "34",
+      "addr:postcode": "110049",
+      "addr:street": "Strada Egalității",
+      "amenity": "school",
+      "name": "Colegiul Național Zinca Golescu",
+      "website": "https://zinca-golescu.ro/"
+    }
   },
   {
     "id": "node-1495075406",
@@ -62,8 +84,11 @@
     "lat": 44.8670294,
     "lng": 24.8607635,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "hospital",
+      "healthcare": "hospital",
+      "name": "Laborator Sanatate Mintala"
+    }
   },
   {
     "id": "node-1495075440",
@@ -73,8 +98,36 @@
     "lat": 44.85877,
     "lng": 24.8674639,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Pitești",
+      "addr:housenumber": "2",
+      "addr:postcode": "110047",
+      "addr:street": "Strada Călinescu Armand",
+      "amenity": "clinic",
+      "description": "Clinica stomatologica romano-suedeza",
+      "ele": "300",
+      "email": "contact@iecenter.ro",
+      "fax": "+40 348 439 771",
+      "healthcare": "clinic",
+      "healthcare:speciality": "orthodontics;dentist",
+      "level": "3",
+      "name": "Implant & Esthetic Center",
+      "phone": "+40 348 44 0022",
+      "website": "https://iecenter.ro/"
+    }
+  },
+  {
+    "id": "node-1495075456",
+    "name": "Hotel Magic",
+    "type": "gaming",
+    "subcategory": "Hotel Magic",
+    "lat": 44.8573297,
+    "lng": 24.869145,
+    "osmType": "node",
+    "tags": {
+      "name": "Hotel Magic",
+      "tourism": "hotel"
+    }
   },
   {
     "id": "node-1495075471",
@@ -84,8 +137,10 @@
     "lat": 44.8556942,
     "lng": 24.8644077,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "name": "Școala de Limbi Străine Lexis"
+    }
   },
   {
     "id": "node-1495075506",
@@ -95,8 +150,17 @@
     "lat": 44.8711954,
     "lng": 24.8442117,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Pitești",
+      "addr:housenumber": "M3A",
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "name": "Centrul Medical „Natisan”",
+      "name:en": "Medical Center „Natisan”",
+      "opening_hours": "Mo-Fr 08:00-18:00",
+      "phone": "0248289865",
+      "website": "http://ofice@natisan.ro"
+    }
   },
   {
     "id": "node-1495075518",
@@ -106,8 +170,10 @@
     "lat": 44.8525738,
     "lng": 24.8677238,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "hospital",
+      "name": "Cabinet Medical Cadar Sorin"
+    }
   },
   {
     "id": "node-1495075605",
@@ -117,8 +183,9 @@
     "lat": 44.829079,
     "lng": 24.9146264,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school"
+    }
   },
   {
     "id": "node-1495075634",
@@ -128,8 +195,14 @@
     "lat": 44.8729673,
     "lng": 24.8451073,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Pitești",
+      "addr:street": "Strada Carpenului",
+      "amenity": "place_of_worship",
+      "denomination": "jehovahs_witness",
+      "name": "Martorii lui Iehova",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-1495075880",
@@ -139,8 +212,13 @@
     "lat": 44.8670072,
     "lng": 24.8653438,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Pitești",
+      "amenity": "hospital",
+      "healthcare": "hospital",
+      "healthcare:speciality": "general",
+      "name": "Natisan"
+    }
   },
   {
     "id": "node-1495075921",
@@ -150,8 +228,14 @@
     "lat": 44.8740389,
     "lng": 24.8451773,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Pitești",
+      "addr:street": "Strada Carpenului",
+      "amenity": "place_of_worship",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica Sfintele Femei Mironosițe și Nașterea Maicii Domnului",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-1495076011",
@@ -161,8 +245,19 @@
     "lat": 44.8550932,
     "lng": 24.8622915,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Pitești",
+      "addr:housenumber": "58",
+      "addr:postcode": "110046",
+      "addr:street": "Strada Smeurei",
+      "amenity": "clinic",
+      "email": "info@medicaltours.ro",
+      "healthcare": "clinic",
+      "name": "Stomatologia Medical Tour Company",
+      "opening_hours": "Mo-Fr 09:00-21:00; Sa 09:00-14:00",
+      "phone": "+40 348-457 046, +40 730-030 400",
+      "website": "https://www.medicaltours.ro/"
+    }
   },
   {
     "id": "node-1495076059",
@@ -172,8 +267,14 @@
     "lat": 44.83153,
     "lng": 24.9098367,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Pitești",
+      "addr:housenumber": "23",
+      "addr:street": "Bulevardul Petrochimiștilor",
+      "amenity": "school",
+      "name": "Colegiul Tehnic \"Costin D. Nenițescu\"",
+      "website": "https://ctnenitescu.ro/wp_nenitescu/"
+    }
   },
   {
     "id": "node-1495076069",
@@ -183,8 +284,9 @@
     "lat": 44.8290094,
     "lng": 24.9171217,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "hospital"
+    }
   },
   {
     "id": "node-2506221445",
@@ -194,8 +296,12 @@
     "lat": 44.850697,
     "lng": 24.8633464,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Sf Gheorghe",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-2615981592",
@@ -205,8 +311,15 @@
     "lat": 44.8548967,
     "lng": 24.8814791,
     "osmType": "node",
-    "brand": null,
-    "operator": "Universitatea din Pitești"
+    "tags": {
+      "amenity": "university",
+      "name": "Corp T",
+      "opening_hours": "Mo-Fr 08:00-20:30",
+      "operator": "Universitatea din Pitești",
+      "phone": "+40 348 453 240",
+      "source": "survey September 2013",
+      "website": "https://www.upit.ro/"
+    }
   },
   {
     "id": "node-2647594101",
@@ -216,8 +329,12 @@
     "lat": 44.850783,
     "lng": 24.8491382,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Adormirea Maicii Domnului",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-3131452345",
@@ -227,8 +344,13 @@
     "lat": 44.8416324,
     "lng": 24.8733223,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Pitești",
+      "alt_name": "Liceul Tehnologic „Dimitrie Dima“ Piteşti",
+      "amenity": "school",
+      "name": "Colegiul Tehnic Dimitrie Dima",
+      "website": "https://dimitriedimapitesti.ro/"
+    }
   },
   {
     "id": "node-3255090765",
@@ -238,8 +360,16 @@
     "lat": 44.8457093,
     "lng": 24.8916518,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Pitești",
+      "addr:postcode": "110191",
+      "addr:street": "Strada Tudor Vladimirescu",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "orthodox",
+      "name": "Biserica Sf. Apostol Andrei",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-4038936689",
@@ -249,8 +379,12 @@
     "lat": 44.8769728,
     "lng": 24.8823304,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserică",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-4038936692",
@@ -260,8 +394,12 @@
     "lat": 44.8896755,
     "lng": 24.8776419,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserică",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-4039912355",
@@ -271,8 +409,12 @@
     "lat": 44.8638505,
     "lng": 24.9225387,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserică",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-4046535745",
@@ -282,8 +424,13 @@
     "lat": 44.8598443,
     "lng": 24.8719715,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Pitești",
+      "amenity": "school",
+      "grades": "9-12",
+      "name": "Colegiul Tehnic Armand Călinescu",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-4046560751",
@@ -293,8 +440,12 @@
     "lat": 44.8542597,
     "lng": 24.8721155,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserică Sf. Treime",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-4674709193",
@@ -304,8 +455,12 @@
     "lat": 44.8878551,
     "lng": 24.7941826,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserică",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-4706474473",
@@ -315,8 +470,11 @@
     "lat": 44.8892454,
     "lng": 24.8758717,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "kindergarten",
+      "name": "Grădiniță",
+      "name:ro": "Grădiniță"
+    }
   },
   {
     "id": "node-4706487434",
@@ -326,8 +484,13 @@
     "lat": 44.8623985,
     "lng": 24.8696419,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica „Izvorul Tămăduirii”",
+      "name:ro": "Biserica „Izvorul Tămăduirii”",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-4723679690",
@@ -337,8 +500,29 @@
     "lat": 44.8553981,
     "lng": 24.8731051,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:housenumber": "86",
+      "addr:street": "Bulevardul Republicii",
+      "amenity": "place_of_worship",
+      "denomination": "baptist",
+      "name": "Biserica Baptistă",
+      "name:ro": "Biserica Baptistă",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-4878022721",
+    "name": "magic glass-pitesti",
+    "type": "gaming",
+    "subcategory": "magic glass-pitesti",
+    "lat": 44.8689541,
+    "lng": 24.8641937,
+    "osmType": "node",
+    "tags": {
+      "historic": "monument",
+      "name": "magic glass-pitesti",
+      "name:ro": "magic glass-pitesti"
+    }
   },
   {
     "id": "node-5104612331",
@@ -348,8 +532,12 @@
     "lat": 44.8522984,
     "lng": 24.8587382,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Sf Arhangheli",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-5761328587",
@@ -359,8 +547,37 @@
     "lat": 44.8616238,
     "lng": 24.8691018,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Pitești",
+      "addr:housenumber": "63",
+      "addr:postcode": "110121",
+      "addr:street": "Bulevardul I. C. Brătianu",
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "healthcare:speciality": "gynaecology;ophthalmology;internal;paediatrics;orthopaedics;psychiatry;dermatology;urology;neurology",
+      "name": "Centrul de Diagnostic și Tratament Brătianu"
+    }
+  },
+  {
+    "id": "node-6932797483",
+    "name": "MaxBet",
+    "type": "gaming",
+    "subcategory": "Max Bet SRL",
+    "lat": 44.8651667,
+    "lng": 24.884802,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Pitești",
+      "alt_name": "Maxbet",
+      "amenity": "casino",
+      "contact:email": "office@maxbetromania.com",
+      "contact:phone": "+40 21 323 2174;+40 31 405 2949",
+      "contact:website": "https://maxbetgroup.ro",
+      "name": "MaxBet",
+      "name:ro": "MaxBet",
+      "opening_hours": "24/7",
+      "operator": "Max Bet SRL"
+    }
   },
   {
     "id": "node-8074987031",
@@ -370,8 +587,11 @@
     "lat": 44.865921,
     "lng": 24.9251087,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "name": "Școala Nr. 2 \"Vintilă Brătianu\"",
+      "name:en": "School No.2 \"Vintilă Brătianu\""
+    }
   },
   {
     "id": "node-8074987032",
@@ -381,8 +601,12 @@
     "lat": 44.865336,
     "lng": 24.9250518,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "grades": "9-12",
+      "name": "Liceul Tehnologic \"Dinu Brătianu\"",
+      "name:en": "\"Dinu Brătianu\" Technological High School"
+    }
   },
   {
     "id": "node-8074987033",
@@ -392,162 +616,320 @@
     "lat": 44.8671737,
     "lng": 24.9286483,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Brătienilor",
+      "religion": "christian",
+      "wikidata": "Q61083019",
+      "wikipedia": "ro:Conacul Brătianu din Ștefănești"
+    }
   },
   {
     "id": "node-8628401616",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet",
     "lat": 44.855295,
     "lng": 24.879452,
     "osmType": "node",
-    "brand": "Superbet",
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "24/7",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-8628417517",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet Betting & Gaming SA",
     "lat": 44.8731915,
     "lng": 24.8416919,
     "osmType": "node",
-    "brand": null,
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-8628417701",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet Betting & Gaming SA",
     "lat": 44.850305,
     "lng": 24.850398,
     "osmType": "node",
-    "brand": null,
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-8628417731",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet Betting & Gaming SA",
     "lat": 44.847171,
     "lng": 24.874334,
     "osmType": "node",
-    "brand": null,
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-8628417868",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet Betting & Gaming SA",
     "lat": 44.846175,
     "lng": 24.876577,
     "osmType": "node",
-    "brand": null,
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-8628417948",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet Betting & Gaming SA",
     "lat": 44.8662,
     "lng": 24.861556,
     "osmType": "node",
-    "brand": null,
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-8628417986",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet Betting & Gaming SA",
     "lat": 44.8617514,
     "lng": 24.8747098,
     "osmType": "node",
-    "brand": null,
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-8628418116",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet Betting & Gaming SA",
     "lat": 44.84403,
     "lng": 24.890395,
     "osmType": "node",
-    "brand": null,
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-8628418168",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet",
     "lat": 44.8566103,
     "lng": 24.8766303,
     "osmType": "node",
-    "brand": "Superbet",
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "check_date:opening_hours": "2023-03-19",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-8628418298",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet Betting & Gaming SA",
     "lat": 44.8487,
     "lng": 24.848108,
     "osmType": "node",
-    "brand": null,
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-8628418335",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet",
     "lat": 44.8361359,
     "lng": 24.901843,
     "osmType": "node",
-    "brand": "Superbet",
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "addr:city": "Pitești",
+      "addr:street": "Bulevardul Petrochimiștilor",
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-8628418371",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet",
     "lat": 44.8547394,
     "lng": 24.8656306,
     "osmType": "node",
-    "brand": "Superbet",
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-8628418391",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet Betting & Gaming SA",
     "lat": 44.850423,
     "lng": 24.870247,
     "osmType": "node",
-    "brand": null,
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "check_date:opening_hours": "2023-06-29",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-9047355735",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet Betting & Gaming SA",
     "lat": 44.844927,
     "lng": 24.881533,
     "osmType": "node",
-    "brand": null,
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "24/7",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-9383272288",
@@ -557,41 +939,73 @@
     "lat": 44.87687,
     "lng": 24.9413362,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "kindergarten",
+      "name": "Grădinița Izvorani"
+    }
   },
   {
     "id": "node-9424513960",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet Betting & Gaming SA",
     "lat": 44.8721442,
     "lng": 24.8446155,
     "osmType": "node",
-    "brand": null,
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-9424549151",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet Betting & Gaming SA",
     "lat": 44.8575467,
     "lng": 24.8752929,
     "osmType": "node",
-    "brand": null,
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "24/7",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-9424549163",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet Betting & Gaming SA",
     "lat": 44.87047,
     "lng": 24.84189,
     "osmType": "node",
-    "brand": null,
-    "operator": "Superbet Betting & Gaming SA"
+    "tags": {
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "24/7",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-9970852337",
@@ -601,8 +1015,11 @@
     "lat": 44.8342956,
     "lng": 24.8338529,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-10167110668",
@@ -612,19 +1029,33 @@
     "lat": 44.850469,
     "lng": 24.8792213,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Pitesti",
+      "addr:housenumber": "76-78",
+      "addr:postcode": "110269",
+      "addr:street": "Calea Craiovei",
+      "amenity": "place_of_worship",
+      "denomination": "mormon",
+      "name": "Biserica lui Isus Hristos a Sfintilor din Zilele din Urma",
+      "name:en": "Church of Jesus Christ of Latter-day Saints",
+      "religion": "christian",
+      "service_times": "Sun 10:00 am Sacrament meets first"
+    }
   },
   {
     "id": "node-10560023712",
     "name": "Superbet",
-    "type": "superbet",
-    "subcategory": "betting",
+    "type": "betting",
+    "subcategory": "Superbet",
     "lat": 44.8499322,
     "lng": 24.8476278,
     "osmType": "node",
-    "brand": "Superbet",
-    "operator": null
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "name": "Superbet",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-10596740056",
@@ -634,8 +1065,27 @@
     "lat": 44.8591519,
     "lng": 24.8703466,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Pitești",
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "name": "Dr. Natașa Nenițoiu Clinică Ginecologică"
+    }
+  },
+  {
+    "id": "node-10984834433",
+    "name": "Stanleybet",
+    "type": "betting",
+    "subcategory": "Stanleybet",
+    "lat": 44.835964,
+    "lng": 24.9032397,
+    "osmType": "node",
+    "tags": {
+      "brand": "Stanleybet",
+      "brand:wikidata": "Q25466489",
+      "name": "Stanleybet",
+      "shop": "bookmaker"
+    }
   },
   {
     "id": "node-10994731814",
@@ -645,8 +1095,90 @@
     "lat": 44.8885654,
     "lng": 24.8370519,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-11825001223",
+    "name": "Maxbet",
+    "type": "gaming",
+    "subcategory": "Max Bet Jocuri Electronice SRL",
+    "lat": 44.849438,
+    "lng": 24.8714,
+    "osmType": "node",
+    "tags": {
+      "alt_name": "Maxbet",
+      "amenity": "casino",
+      "contact:email": "office@maxbetromania.com",
+      "contact:phone": "+40 21 323 2174;+40 31 405 2949",
+      "contact:website": "https://maxbetgroup.ro",
+      "name": "Maxbet",
+      "name:ro": "MaxBet",
+      "opening_hours": "24/7",
+      "operator": "Max Bet Jocuri Electronice SRL"
+    }
+  },
+  {
+    "id": "node-11825001224",
+    "name": "Maxbet",
+    "type": "gaming",
+    "subcategory": "Max Bet Jocuri Electronice SRL",
+    "lat": 44.8500712,
+    "lng": 24.8548641,
+    "osmType": "node",
+    "tags": {
+      "alt_name": "Maxbet",
+      "amenity": "casino",
+      "contact:email": "office@maxbetromania.com",
+      "contact:phone": "+40 21 323 2174;+40 31 405 2949",
+      "contact:website": "https://maxbetgroup.ro",
+      "name": "Maxbet",
+      "name:ro": "MaxBet",
+      "opening_hours": "24/7",
+      "operator": "Max Bet Jocuri Electronice SRL"
+    }
+  },
+  {
+    "id": "node-11825001225",
+    "name": "Maxbet",
+    "type": "gaming",
+    "subcategory": "Max Bet SRL",
+    "lat": 44.8581561,
+    "lng": 24.8709011,
+    "osmType": "node",
+    "tags": {
+      "alt_name": "Maxbet",
+      "amenity": "casino",
+      "contact:email": "office@maxbetromania.com",
+      "contact:phone": "+40 21 323 2174;+40 31 405 2949",
+      "contact:website": "https://maxbetgroup.ro",
+      "name": "Maxbet",
+      "name:ro": "MaxBet",
+      "opening_hours": "24/7",
+      "operator": "Max Bet SRL"
+    }
+  },
+  {
+    "id": "node-11825001226",
+    "name": "Maxbet",
+    "type": "gaming",
+    "subcategory": "Max Bet Jocuri Electronice SRL",
+    "lat": 44.8723913,
+    "lng": 24.8448568,
+    "osmType": "node",
+    "tags": {
+      "alt_name": "Maxbet",
+      "amenity": "casino",
+      "contact:email": "office@maxbetromania.com",
+      "contact:phone": "+40 21 323 2174;+40 31 405 2949",
+      "contact:website": "https://maxbetgroup.ro",
+      "name": "Maxbet",
+      "name:ro": "MaxBet",
+      "opening_hours": "24/7",
+      "operator": "Max Bet Jocuri Electronice SRL"
+    }
   },
   {
     "id": "node-12083346915",
@@ -656,8 +1188,13 @@
     "lat": 44.8391014,
     "lng": 24.8834629,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Pitești",
+      "addr:street": "Strada Basarabiei",
+      "amenity": "place_of_worship",
+      "name": "Biserica Sfântul Ioan Valahul",
+      "religion": "christian"
+    }
   },
   {
     "id": "node-13333634251",
@@ -667,8 +1204,21 @@
     "lat": 44.8601449,
     "lng": 24.8621693,
     "osmType": "node",
-    "brand": null,
-    "operator": "Ministerul Apărării Naționale"
+    "tags": {
+      "access": "private",
+      "addr:city": "Pitești",
+      "addr:housenumber": "16",
+      "addr:street": "Strada Trivale",
+      "amenity": "school",
+      "education": "training",
+      "military_service": "army",
+      "name": "Școala Militară de Maiștri Militari și Subofițeri a Forțelor Terestre „Basarab I”",
+      "operator": "Ministerul Apărării Naționale",
+      "operator:type": "government",
+      "phone": "0248215900",
+      "school:type": "military",
+      "website": "https://www.ncoacademy.ro/index.html"
+    }
   },
   {
     "id": "node-13335414836",
@@ -678,8 +1228,11 @@
     "lat": 44.8422086,
     "lng": 24.890059,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "university",
+      "education": "university",
+      "name": "Facultatea de Teologie Ortodoxă"
+    }
   },
   {
     "id": "node-13335414851",
@@ -689,8 +1242,11 @@
     "lat": 44.8425777,
     "lng": 24.8907725,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "university",
+      "education": "university",
+      "name": "Facultatea de Litere"
+    }
   },
   {
     "id": "node-13335414852",
@@ -700,8 +1256,11 @@
     "lat": 44.842192,
     "lng": 24.8910042,
     "osmType": "node",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "university",
+      "education": "university",
+      "name": "Facultatea de Educație Fizică și Sport"
+    }
   },
   {
     "id": "way-136266332",
@@ -711,8 +1270,20 @@
     "lat": 44.8633114,
     "lng": 24.8734868,
     "osmType": "way",
-    "brand": null,
-    "operator": "Primaria Pitesti"
+    "tags": {
+      "addr:city": "Pitești",
+      "addr:housenumber": "37",
+      "addr:postcode": "110154",
+      "addr:street": "Strada Pictor Nicolae Grigorescu",
+      "amenity": "school",
+      "building": "school",
+      "building:levels": "3",
+      "grades": "0-8",
+      "name": "Școala Gimnazială „Marin Preda”",
+      "operator": "Primaria Pitesti",
+      "operator:type": "public",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-136266477",
@@ -722,8 +1293,14 @@
     "lat": 44.8502125,
     "lng": 24.8644153,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Pitești",
+      "amenity": "clinic",
+      "building": "yes",
+      "building:levels": "3",
+      "healthcare": "clinic",
+      "name": "Centrul Medical „Doctor Luca”"
+    }
   },
   {
     "id": "way-136266792",
@@ -733,8 +1310,12 @@
     "lat": 44.8516886,
     "lng": 24.8660411,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "building": "school",
+      "building:levels": "5",
+      "name": "Grup Școlar Nr. 2"
+    }
   },
   {
     "id": "way-136267596",
@@ -744,8 +1325,14 @@
     "lat": 44.8382548,
     "lng": 24.8841816,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Pitești",
+      "addr:street": "Strada Caporal Dogaru",
+      "amenity": "place_of_worship",
+      "building": "synagogue",
+      "building:levels": "1",
+      "religion": "jewish"
+    }
   },
   {
     "id": "way-136267944",
@@ -755,8 +1342,19 @@
     "lat": 44.8680078,
     "lng": 24.8455881,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Pitești",
+      "addr:housenumber": "5",
+      "addr:postcode": "110310",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Gion Ionescu Gheorghe",
+      "amenity": "school",
+      "building": "school",
+      "building:levels": "5",
+      "grades": "0-8",
+      "name": "Școala Gimnazială „Matei Basarab” Corpul vechi( A&B)",
+      "website": "https://www.scoalamateibasarab.ro/online/"
+    }
   },
   {
     "id": "way-136268145",
@@ -766,8 +1364,13 @@
     "lat": 44.8700688,
     "lng": 24.8430826,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "building": "yes",
+      "building:levels": "3",
+      "grades": "9-12",
+      "name": "Liceul Teoretic \"Ion Cantacuzino\""
+    }
   },
   {
     "id": "way-136268176",
@@ -777,8 +1380,17 @@
     "lat": 44.8415482,
     "lng": 24.8771002,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Pitești",
+      "addr:housenumber": "3",
+      "addr:postcode": "110251",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Vasile Pârvan",
+      "amenity": "school",
+      "building": "school",
+      "building:levels": "3",
+      "name": "Școala Gimnazială „Tudor Mușatescu”"
+    }
   },
   {
     "id": "way-136268412",
@@ -788,8 +1400,19 @@
     "lat": 44.8507763,
     "lng": 24.8652897,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Pitești",
+      "addr:housenumber": "1",
+      "addr:street": "Bulevardul Eroilor",
+      "amenity": "hospital",
+      "building": "yes",
+      "building:levels": "10",
+      "check_date": "2025-04-03",
+      "emergency": "yes",
+      "healthcare": "hospital",
+      "healthcare:speciality": "paediatrics",
+      "name": "Spitalul de Pediatrie Pitești"
+    }
   },
   {
     "id": "way-136268741",
@@ -799,8 +1422,14 @@
     "lat": 44.8544776,
     "lng": 24.8626428,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Pitești",
+      "addr:postcode": "110040",
+      "amenity": "university",
+      "building": "yes",
+      "building:levels": "5",
+      "name": "Universitatea din Pitești - Corp D"
+    }
   },
   {
     "id": "way-136268927",
@@ -810,8 +1439,14 @@
     "lat": 44.850135,
     "lng": 24.8568438,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "alt_name": "Biserica Papucești",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Biserica Sfântul Andrei",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-136269012",
@@ -821,8 +1456,14 @@
     "lat": 44.8592196,
     "lng": 24.8671114,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "building:levels": "2",
+      "denomination": "orthodox",
+      "name": "Biserica Sfântul Ioan Botezătorul",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-136269055",
@@ -832,8 +1473,16 @@
     "lat": 44.8477301,
     "lng": 24.8492266,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Pitești",
+      "addr:housenumber": "3",
+      "addr:postcode": "110380",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Zimbrului",
+      "amenity": "school",
+      "building": "yes",
+      "name": "Școala Gimnazială „Mircea cel Bătrân”"
+    }
   },
   {
     "id": "way-136269080",
@@ -843,8 +1492,12 @@
     "lat": 44.8710005,
     "lng": 24.8494797,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "building": "school",
+      "building:levels": "2",
+      "name": "Școala Postliceală Carol Davila"
+    }
   },
   {
     "id": "way-136269110",
@@ -854,8 +1507,17 @@
     "lat": 44.8420715,
     "lng": 24.8880347,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Pitești",
+      "addr:street": "Strada Gheorghe Doja",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "building:levels": "2",
+      "denomination": "armenian_apostolic",
+      "is_in:city": "Pitești",
+      "name": "Biserica Armeană",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-136269115",
@@ -865,8 +1527,11 @@
     "lat": 44.8533985,
     "lng": 24.8743907,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "building": "yes",
+      "name": "Colegiul National Zinca Golescu"
+    }
   },
   {
     "id": "way-136269981",
@@ -876,8 +1541,15 @@
     "lat": 44.8645707,
     "lng": 24.8613209,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Pitești",
+      "addr:housenumber": "47",
+      "addr:street": "Strada Negru Vodă",
+      "amenity": "hospital",
+      "emergency": "yes",
+      "healthcare": "hospital",
+      "name": "Spitalul Militar de Urgență „Dr. Ion Jianu”"
+    }
   },
   {
     "id": "way-136270059",
@@ -887,8 +1559,14 @@
     "lat": 44.8711759,
     "lng": 24.8460266,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "building:levels": "4",
+      "denomination": "orthodox",
+      "name": "Biserica Sfântul Pantelimon",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-136270209",
@@ -898,8 +1576,13 @@
     "lat": 44.8531601,
     "lng": 24.8488685,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Mănăstirea Trivale",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-136270572",
@@ -909,8 +1592,12 @@
     "lat": 44.8633411,
     "lng": 24.8624126,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "building": "yes",
+      "building:levels": "3",
+      "name": "Școala nr 9 / Liceul teologic penticostal"
+    }
   },
   {
     "id": "way-136271809",
@@ -920,8 +1607,19 @@
     "lat": 44.8707287,
     "lng": 24.8445772,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Pitești",
+      "addr:housenumber": "2",
+      "addr:postcode": "110286",
+      "addr:street": "Strada Carol Davila",
+      "amenity": "school",
+      "building": "school",
+      "building:levels": "3",
+      "denomination": "romanian_orthodox",
+      "grades": "9-12",
+      "name": "Liceul Teoretic \"Ion Cantacuzino\"",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-136271924",
@@ -931,8 +1629,20 @@
     "lat": 44.8678691,
     "lng": 24.8620158,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Pitești",
+      "addr:housename": "Școala Generală Nr.14",
+      "addr:housenumber": "10",
+      "addr:postcode": "110080",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Făgăraș",
+      "amenity": "school",
+      "building": "school",
+      "building:levels": "3",
+      "grades": "0-8",
+      "name": "Școala Gimnazială „Alexandru Davila”",
+      "website": "https://scoalaalexandrudavilapitesti.ro/"
+    }
   },
   {
     "id": "way-136272970",
@@ -942,8 +1652,13 @@
     "lat": 44.8656897,
     "lng": 24.8605658,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Biserica Sfinții Apostoli Petru și Pavel",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-136273093",
@@ -953,8 +1668,14 @@
     "lat": 44.8661663,
     "lng": 24.8453185,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "building:levels": "4",
+      "denomination": "orthodox",
+      "name": "Biserica Sfântul Dumitru",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-136273320",
@@ -964,8 +1685,19 @@
     "lat": 44.8661029,
     "lng": 24.8598246,
     "osmType": "way",
-    "brand": null,
-    "operator": "Ministerul Sănătății"
+    "tags": {
+      "addr:city": "Pitești",
+      "addr:housenumber": "53",
+      "addr:postcode": "110069",
+      "addr:street": "Strada Negru Vodă",
+      "amenity": "hospital",
+      "emergency": "yes",
+      "healthcare": "hospital",
+      "healthcare:speciality": "ophthalmology;pneumology;psychiatry",
+      "name": "Spitalul Județean de Urgență Pitești, Secțiile Oftalmologie, Psihiatrie și Pneumologie",
+      "operator": "Ministerul Sănătății",
+      "operator:type": "public"
+    }
   },
   {
     "id": "way-137371573",
@@ -975,8 +1707,16 @@
     "lat": 44.8481025,
     "lng": 24.8896024,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Pitești",
+      "addr:housenumber": "3",
+      "addr:postcode": "110194",
+      "addr:street": "Strada Călugăreni",
+      "amenity": "school",
+      "building": "school",
+      "building:levels": "4",
+      "name": "Școala Gimnazială „Tudor Vladimirescu”"
+    }
   },
   {
     "id": "way-178236803",
@@ -986,8 +1726,18 @@
     "lat": 44.8516274,
     "lng": 24.870541,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Pitești",
+      "addr:housenumber": "35",
+      "addr:postcode": "110424",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Traian",
+      "amenity": "school",
+      "building": "school",
+      "grades": "0-8",
+      "name": "Școala Gimnazială „Traian”",
+      "website": "https://scoalagimnazialatraianpitesti.ro/"
+    }
   },
   {
     "id": "way-178495662",
@@ -997,8 +1747,16 @@
     "lat": 44.850205,
     "lng": 24.8688725,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Pitești",
+      "addr:housenumber": "6",
+      "addr:street": "Strada Transilvania",
+      "amenity": "college",
+      "building": "school",
+      "name": "Liceul Teoretic Ion Barbu",
+      "phone": "+ 04 0248 217 730",
+      "website": "https://sites.google.com/ltibp.ro/licionbarbu/acasa/"
+    }
   },
   {
     "id": "way-178668842",
@@ -1008,8 +1766,14 @@
     "lat": 44.8469257,
     "lng": 24.8769257,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Pitești",
+      "addr:housenumber": "2",
+      "addr:street": "Strada Pătrașcu Vodă",
+      "amenity": "college",
+      "name": "Liceul de Artă Dinu Lipatti",
+      "website": "https://www.lipattipitesti.ro/"
+    }
   },
   {
     "id": "way-178673505",
@@ -1019,8 +1783,16 @@
     "lat": 44.8477915,
     "lng": 24.8776823,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Pitești",
+      "addr:housenumber": "2",
+      "addr:postcode": "110223",
+      "addr:street": "Strada Pătrașcu Vodă",
+      "amenity": "college",
+      "building": "school",
+      "email": "licteh_c.brancusi_pitesti@yahoo.com",
+      "name": "Liceul Tehnologic Constantin Brancusi"
+    }
   },
   {
     "id": "way-178673757",
@@ -1030,8 +1802,9 @@
     "lat": 44.84762,
     "lng": 24.8772729,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "college"
+    }
   },
   {
     "id": "way-178677798",
@@ -1041,8 +1814,16 @@
     "lat": 44.844436,
     "lng": 24.8767897,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Pitești",
+      "addr:housenumber": "206",
+      "addr:postcode": "110210",
+      "addr:street": "Strada Exercițiu",
+      "amenity": "school",
+      "name": "Școala Gimnazială „Ion Minulescu”",
+      "phone": "+40 248251452",
+      "website": "http://www.i-minulescu-pitesti.ro/"
+    }
   },
   {
     "id": "way-181492406",
@@ -1052,8 +1833,10 @@
     "lat": 44.8440891,
     "lng": 24.892013,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "building": "yes"
+    }
   },
   {
     "id": "way-181492412",
@@ -1063,8 +1846,11 @@
     "lat": 44.8439729,
     "lng": 24.8919705,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Pitești",
+      "amenity": "school",
+      "name": "Școala Gimnazială Nr. 8"
+    }
   },
   {
     "id": "way-216537800",
@@ -1074,8 +1860,18 @@
     "lat": 44.8546482,
     "lng": 24.8818256,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Pitești",
+      "addr:housenumber": "1",
+      "addr:postcode": "110040",
+      "addr:street": "Strada Târgul din Vale",
+      "amenity": "university",
+      "name": "Universitatea Pitești Rectorat",
+      "opening_hours": "Mo-Fr 08:00-16:00",
+      "phone": "+40 348 453 102",
+      "source": "Survey September 2013",
+      "website": "https://www.upit.ro/"
+    }
   },
   {
     "id": "way-233955865",
@@ -1085,8 +1881,24 @@
     "lat": 44.852966,
     "lng": 24.876743,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Pitești",
+      "addr:housenumber": "43",
+      "addr:postcode": "110049",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Egalității",
+      "alt_name": "Biserica armenească „Sfântul Ioan Botezătorul” Pitești",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "armenian_apostolic",
+      "is_in:city": "Pitești",
+      "name": "Biserica armeană „Sfântul Ioan Botezătorul” Pitești",
+      "name:en": "Saint John the Baptist Armenian Church",
+      "religion": "christian",
+      "start_date": "1852",
+      "wikidata": "Q28230325",
+      "wikipedia": "en:Armenian Church, Pitești"
+    }
   },
   {
     "id": "way-233957766",
@@ -1096,8 +1908,30 @@
     "lat": 44.8535171,
     "lng": 24.8789865,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "orthodox",
+      "name": "Biserica Mavrodolu",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-233964580",
+    "name": "Complex Fortuna",
+    "type": "betting",
+    "subcategory": "Complex Fortuna",
+    "lat": 44.8565981,
+    "lng": 24.8754276,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Pitești",
+      "addr:street": "Strada Victoriei",
+      "building": "yes",
+      "building:levels": "2",
+      "name": "Complex Fortuna",
+      "shop": "yes"
+    }
   },
   {
     "id": "way-236834487",
@@ -1107,8 +1941,22 @@
     "lat": 44.855709,
     "lng": 24.8757492,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Pitești",
+      "addr:housenumber": "2",
+      "addr:street": "Strada Bălașa Doamna",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "romanian_orthodox",
+      "heritage": "2",
+      "heritage:operator": "lmi",
+      "historic": "church",
+      "name": "Biserica Domnească „Sfântul Gheorghe”",
+      "ref:RO:lmi": "AG-II-m-A-13390",
+      "religion": "christian",
+      "wikidata": "Q61086715",
+      "wikipedia": "ro:Biserica Domnească „Sfântul Gheorghe” din Pitești"
+    }
   },
   {
     "id": "way-255880920",
@@ -1118,8 +1966,22 @@
     "lat": 44.8545013,
     "lng": 24.8758319,
     "osmType": "way",
-    "brand": null,
-    "operator": "Universitatea din Pitești"
+    "tags": {
+      "addr:city": "Pitești",
+      "addr:housenumber": "71",
+      "addr:postcode": "110014",
+      "addr:street": "Bulevardul Republicii",
+      "alt_name": "Corp C",
+      "amenity": "university",
+      "building": "yes",
+      "name": "Facultatea de Științe Economice și Administrative",
+      "opening_hours": "Mo-Fr 08:00-20:30",
+      "operator": "Universitatea din Pitești",
+      "phone": "+40 348 453 370",
+      "source": "Survey September 2013",
+      "website": "https://www.upit.ro/",
+      "wheelchair": "yes"
+    }
   },
   {
     "id": "way-261093291",
@@ -1129,8 +1991,20 @@
     "lat": 44.8371714,
     "lng": 24.9028126,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Pitești",
+      "addr:district": "Prundu",
+      "addr:housenumber": "7",
+      "addr:postcode": "110171",
+      "addr:street": "Strada Horia, Cloșca și Crișan",
+      "amenity": "school",
+      "building": "yes",
+      "education": "school",
+      "name": "Școala Gimnazială „Tudor Arghezi”",
+      "old_name": "Școala nr. 7",
+      "phone": "+40 248216990",
+      "website": "https://scoala7pitesti.ro/"
+    }
   },
   {
     "id": "way-261100181",
@@ -1140,8 +2014,11 @@
     "lat": 44.8375879,
     "lng": 24.9035301,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "kindergarten",
+      "building": "yes",
+      "education": "kindergarten"
+    }
   },
   {
     "id": "way-261100202",
@@ -1151,8 +2028,10 @@
     "lat": 44.8319854,
     "lng": 24.9109068,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "building": "yes"
+    }
   },
   {
     "id": "way-261100217",
@@ -1162,8 +2041,10 @@
     "lat": 44.8311788,
     "lng": 24.9102067,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "building": "yes"
+    }
   },
   {
     "id": "way-261100244",
@@ -1173,8 +2054,15 @@
     "lat": 44.8294336,
     "lng": 24.9118023,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica Sf. Ierarh Spiridon",
+      "religion": "christian",
+      "wikidata": "Q110131779",
+      "wikipedia": "ro:Biserica Sfântul Spiridon din Pitești"
+    }
   },
   {
     "id": "way-264453442",
@@ -1184,8 +2072,13 @@
     "lat": 44.838157,
     "lng": 24.9024403,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă Nașterea Maicii Domnului",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-264456299",
@@ -1195,8 +2088,13 @@
     "lat": 44.8474207,
     "lng": 24.890817,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "hospital",
+      "emergency": "no",
+      "healthcare": "hospital",
+      "healthcare:speciality": "general",
+      "name": "Dispensar și Creșa  Tudor Vladimirescu"
+    }
   },
   {
     "id": "way-299879314",
@@ -1206,8 +2104,13 @@
     "lat": 44.89272,
     "lng": 24.821214,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Biserica - Sfinții Arhangheli Mihail si Gavril",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-299879319",
@@ -1217,8 +2120,14 @@
     "lat": 44.8886758,
     "lng": 24.8209383,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă Bascov",
+      "name:ro": "Biserica Sfinții Apostoli Petru și Pavel",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-301837249",
@@ -1228,8 +2137,14 @@
     "lat": 44.8602205,
     "lng": 24.8828728,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "baptist",
+      "name": "Betel",
+      "name:ro": "Betel",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-301837260",
@@ -1239,8 +2154,19 @@
     "lat": 44.8585505,
     "lng": 24.8757265,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "heritage": "2",
+      "heritage:operator": "lmi",
+      "name": "Biserica Maica Domnului",
+      "name:ro": "Biserica Maica Domnului",
+      "ref:RO:lmi": "AG-II-m-B-13417",
+      "religion": "christian",
+      "wikidata": "Q42750519",
+      "wikipedia": "ro:Biserica „Maica Precista” din Pitești"
+    }
   },
   {
     "id": "way-319067318",
@@ -1250,8 +2176,17 @@
     "lat": 44.8428087,
     "lng": 24.8741277,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Pitești",
+      "addr:housenumber": "75",
+      "addr:postcode": "110224",
+      "addr:street": "Strada Războieni",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Biserica Sfânta Filofteia",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-319082127",
@@ -1261,8 +2196,16 @@
     "lat": 44.860591,
     "lng": 24.8747022,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Pitești",
+      "addr:housenumber": "50",
+      "addr:postcode": "110109",
+      "addr:street": "Strada 9 Mai",
+      "amenity": "school",
+      "building": "school",
+      "grades": "0-8",
+      "name": "Școala Gimnazială „Nicolae Simonide”"
+    }
   },
   {
     "id": "way-319082143",
@@ -1272,8 +2215,13 @@
     "lat": 44.8597623,
     "lng": 24.8729898,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica Sf Mina",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-319146273",
@@ -1283,8 +2231,15 @@
     "lat": 44.8567606,
     "lng": 24.8802838,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Pitești",
+      "addr:housenumber": "5",
+      "addr:postcode": "110036",
+      "addr:street": "Strada Râurilor",
+      "amenity": "school",
+      "building": "school",
+      "name": "Școala Gimnazială „Nicolae Iorga”"
+    }
   },
   {
     "id": "way-319275975",
@@ -1294,8 +2249,14 @@
     "lat": 44.8596685,
     "lng": 24.8651934,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "adventist",
+      "name": "Biserica Adventistă",
+      "name:ro": "Biserica Adventistă",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-319395997",
@@ -1305,8 +2266,13 @@
     "lat": 44.8820827,
     "lng": 24.8492647,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-319485731",
@@ -1316,8 +2282,15 @@
     "lat": 44.8584224,
     "lng": 24.8804483,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Biserica -Sfânta Vineri",
+      "religion": "christian",
+      "wikidata": "Q42748190",
+      "wikipedia": "ro:Biserica Sfânta Vineri din Pitești"
+    }
   },
   {
     "id": "way-479549315",
@@ -1327,8 +2300,11 @@
     "lat": 44.8894959,
     "lng": 24.8766638,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "kindergarten",
+      "building": "house",
+      "name": "Grădiniță"
+    }
   },
   {
     "id": "way-479549318",
@@ -1338,8 +2314,11 @@
     "lat": 44.8891154,
     "lng": 24.8761511,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "building": "school",
+      "name": "Școala Generală"
+    }
   },
   {
     "id": "way-524769559",
@@ -1349,8 +2328,13 @@
     "lat": 44.8718396,
     "lng": 24.8728939,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "orthodox",
+      "name": "Biserica de lemn Sfinții Constantin și Elena",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-538349814",
@@ -1360,8 +2344,15 @@
     "lat": 44.8546458,
     "lng": 24.8779212,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Pitești",
+      "addr:street": "Strada Teiuleanu",
+      "amenity": "school",
+      "building": "school",
+      "grades": "9-12",
+      "name": "Colegiul Economic „Maria Teiuleanu”",
+      "website": "http://ecopit.eu/"
+    }
   },
   {
     "id": "way-608037803",
@@ -1371,8 +2362,15 @@
     "lat": 44.8576169,
     "lng": 24.8761641,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Pitești",
+      "addr:street": "Bulevardul I. C. Brătianu",
+      "amenity": "clinic",
+      "building": "yes",
+      "healthcare": "clinic",
+      "healthcare:speciality": "general",
+      "name": "Policlinica nr. 2"
+    }
   },
   {
     "id": "way-668526993",
@@ -1382,8 +2380,11 @@
     "lat": 44.8631986,
     "lng": 24.8496911,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-703202766",
@@ -1393,8 +2394,12 @@
     "lat": 44.8922622,
     "lng": 24.820317,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "building": "yes",
+      "name": "Scoala Gimnaziala \"Virgil Calotescu\" Bascov",
+      "name:en": "Bascov General School"
+    }
   },
   {
     "id": "way-703202770",
@@ -1404,8 +2409,12 @@
     "lat": 44.8920581,
     "lng": 24.8205345,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "building": "yes",
+      "name": "Scoala Gimnaziala \"Virgil Calotescu\" Bascov",
+      "name:en": "Bascov General School"
+    }
   },
   {
     "id": "way-953545367",
@@ -1415,8 +2424,22 @@
     "lat": 44.8593849,
     "lng": 24.8686779,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:housenumber": "11",
+      "addr:street": "Strada Victoriei",
+      "alt_name": "Biserica Romano-Catolică „Sfântul Anton”",
+      "amenity": "place_of_worship",
+      "architect": "Lapierre",
+      "building": "church",
+      "denomination": "roman_catholic",
+      "historic": "church",
+      "name": "Biserica Romano-Catolică „Sfinții Apostoli Petru și Paul”",
+      "note": "Official name seems to be Sfinții Apostoli Petru și Paul. However Sfântul Anton is also used for this church because there is a relic of his here",
+      "religion": "christian",
+      "start_date": "1896",
+      "wikidata": "Q20006981",
+      "wikipedia": "ro:Biserica Sfinții Petru și Paul din Pitești"
+    }
   },
   {
     "id": "way-989448621",
@@ -1426,8 +2449,14 @@
     "lat": 44.8699018,
     "lng": 24.860018,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Pitești",
+      "addr:street": "Calea Bascovului",
+      "amenity": "university",
+      "name": "Universitatea Constantin Brâncoveanu",
+      "phone": "+40 248212627",
+      "website": "https://www.univcb.ro/"
+    }
   },
   {
     "id": "way-1000841130",
@@ -1437,8 +2466,13 @@
     "lat": 44.8260313,
     "lng": 24.8937438,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Biserica Înălțarea Domnului",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1022841677",
@@ -1448,8 +2482,13 @@
     "lat": 44.8638097,
     "lng": 24.8914566,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă Zăvoi, Județul Argeș",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1031617667",
@@ -1459,8 +2498,12 @@
     "lat": 44.8728726,
     "lng": 24.9388351,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "name": "Biserica Sfântul Nicolae",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1087989104",
@@ -1470,8 +2513,14 @@
     "lat": 44.8699388,
     "lng": 24.8508494,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "doctors",
+      "building": "yes",
+      "healthcare": "doctor",
+      "healthcare:speciality": "radiology",
+      "name": "Clinica Sante",
+      "not:brand:wikidata": "Q121080834"
+    }
   },
   {
     "id": "way-1158374048",
@@ -1481,8 +2530,10 @@
     "lat": 44.8527787,
     "lng": 24.865637,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "name": "Liceul Economic"
+    }
   },
   {
     "id": "way-1160702203",
@@ -1492,8 +2543,14 @@
     "lat": 44.8843603,
     "lng": 24.9048251,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Valea Mare-Podgoria",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Biserică",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1182043958",
@@ -1503,8 +2560,14 @@
     "lat": 44.8673226,
     "lng": 24.8452628,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Pitești",
+      "amenity": "school",
+      "building": "school",
+      "building:levels": "2",
+      "grades": "0-8",
+      "name": "Scoala Gimnaziala \"Matei Basarab\" Corpul nou( C&D)"
+    }
   },
   {
     "id": "way-1182303991",
@@ -1514,8 +2577,10 @@
     "lat": 44.8466781,
     "lng": 24.8505405,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "kindergarten",
+      "name": "Grădinița cu program prelungit ”Micul Prinț”"
+    }
   },
   {
     "id": "way-1182312839",
@@ -1525,8 +2590,13 @@
     "lat": 44.8489714,
     "lng": 24.870225,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Pitești",
+      "addr:street": "Intrarea Petrache Poenaru",
+      "amenity": "school",
+      "grades": "0-8",
+      "name": "Școala Gimnaziala I.L. Caragiale"
+    }
   },
   {
     "id": "way-1187815874",
@@ -1536,8 +2606,10 @@
     "lat": 44.8539294,
     "lng": 24.8674162,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "university",
+      "name": "Universitatea din Pitești"
+    }
   },
   {
     "id": "way-1223903237",
@@ -1547,8 +2619,13 @@
     "lat": 44.8262158,
     "lng": 24.8936035,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Biserica Înălțarea Domnului",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1233025924",
@@ -1558,8 +2635,9 @@
     "lat": 44.8503327,
     "lng": 24.8688085,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school"
+    }
   },
   {
     "id": "way-1255645816",
@@ -1569,8 +2647,11 @@
     "lat": 44.8668979,
     "lng": 24.8097349,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1293356414",
@@ -1580,8 +2661,10 @@
     "lat": 44.8314869,
     "lng": 24.9104467,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "building": "yes"
+    }
   },
   {
     "id": "way-1293356415",
@@ -1591,8 +2674,10 @@
     "lat": 44.8314975,
     "lng": 24.9107809,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "building": "yes"
+    }
   },
   {
     "id": "way-1304663480",
@@ -1602,8 +2687,12 @@
     "lat": 44.8592072,
     "lng": 24.8774376,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "name": "Biserica Sfinții Împărați Constantin şi mama sa, Elena",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1319698314",
@@ -1613,8 +2702,16 @@
     "lat": 44.8736545,
     "lng": 24.847708,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "denomination": "romanian_orthodox",
+      "email": "scoala6pitesti@yahoo.com",
+      "grades": "0-8",
+      "name": "Școala Gimnazială „Nicolae Bălcescu”",
+      "phone": "+40 0248 287 058",
+      "religion": "christian",
+      "website": "http://balcescupitesti.ro/"
+    }
   },
   {
     "id": "way-1338227788",
@@ -1624,8 +2721,13 @@
     "lat": 44.8528489,
     "lng": 24.8737468,
     "osmType": "way",
-    "brand": null,
-    "operator": "Zinca"
+    "tags": {
+      "amenity": "school",
+      "education": "school",
+      "grades": "5-12",
+      "name": "Parculet Zinca",
+      "operator": "Zinca"
+    }
   },
   {
     "id": "way-1393901260",
@@ -1635,8 +2737,38 @@
     "lat": 44.8504162,
     "lng": 24.8374714,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "childcare",
+      "building": "yes",
+      "name": "LUMEA PRICHINDEILOR"
+    }
+  },
+  {
+    "id": "way-1393902072",
+    "name": "Magic",
+    "type": "gaming",
+    "subcategory": "Magic",
+    "lat": 44.8486875,
+    "lng": 24.8379726,
+    "osmType": "way",
+    "tags": {
+      "leisure": "swimming_pool",
+      "name": "Magic"
+    }
+  },
+  {
+    "id": "way-1393902073",
+    "name": "HOTEL MAGIC TRIVALE",
+    "type": "gaming",
+    "subcategory": "HOTEL MAGIC TRIVALE",
+    "lat": 44.8486009,
+    "lng": 24.8379447,
+    "osmType": "way",
+    "tags": {
+      "building": "yes",
+      "name": "HOTEL MAGIC TRIVALE",
+      "tourism": "hotel"
+    }
   },
   {
     "id": "way-1416935460",
@@ -1646,8 +2778,12 @@
     "lat": 44.8769736,
     "lng": 24.8823413,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "height": "7",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1421415842",
@@ -1657,8 +2793,13 @@
     "lat": 44.8557292,
     "lng": 24.8690514,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "grades": "0-8",
+      "name": "Școala Gimnazială „Ion Pillat”",
+      "religion": "christian",
+      "website": "https://scoala3pitesti.ro/"
+    }
   },
   {
     "id": "way-1449714047",
@@ -1668,8 +2809,15 @@
     "lat": 44.8505894,
     "lng": 24.8802303,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica „Sf. Ilie”, a Cojocarilor",
+      "name:en": "Saint Elijah the Prophet church",
+      "religion": "christian",
+      "wikidata": "Q42750513"
+    }
   },
   {
     "id": "way-1454085333",
@@ -1679,8 +2827,11 @@
     "lat": 44.8418252,
     "lng": 24.8919683,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "university",
+      "education": "university",
+      "name": "Universitatea din Pitești Corp B"
+    }
   },
   {
     "id": "way-1454147113",
@@ -1690,8 +2841,17 @@
     "lat": 44.8384974,
     "lng": 24.8895231,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Pitești",
+      "addr:housenumber": "29B",
+      "addr:street": "Strada Dârzu",
+      "amenity": "kindergarten",
+      "barrier": "fence",
+      "education": "kindergarten",
+      "name": "Grădinița Îngerașii",
+      "preschool": "no",
+      "website": "https://gradinitaingerasii.ro/"
+    }
   },
   {
     "id": "way-1454152245",
@@ -1701,8 +2861,15 @@
     "lat": 44.8369091,
     "lng": 24.8855889,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Pitești",
+      "addr:street": "Strada Primăverii 2",
+      "amenity": "kindergarten",
+      "education": "kindergarten",
+      "name": "Grădinița Așchiuță",
+      "phone": "0745324698",
+      "website": "https://www.gradinitaaschiuta.ro/"
+    }
   },
   {
     "id": "way-1454351505",
@@ -1712,8 +2879,11 @@
     "lat": 44.8391046,
     "lng": 24.8834644,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1458838501",
@@ -1723,8 +2893,13 @@
     "lat": 44.8722604,
     "lng": 24.9144145,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Biserica \"Adormirea Maicii Domnului\"",
+      "religion": "christian"
+    }
   },
   {
     "id": "way-1467986579",
@@ -1734,8 +2909,17 @@
     "lat": 44.8708232,
     "lng": 24.8475013,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "hospital",
+      "email": "sesizari@sjupitesti.ro",
+      "emergency": "yes",
+      "healthcare": "hospital",
+      "name": "Spitalul Județean de Urgență Pitești",
+      "name:en": "The County Emergency Hospital Pitești",
+      "opening_hours": "24/7",
+      "phone": "0248287150",
+      "website": "http://www.sjupitesti.ro/"
+    }
   },
   {
     "id": "way-1467996453",
@@ -1745,8 +2929,16 @@
     "lat": 44.8722549,
     "lng": 24.8395186,
     "osmType": "way",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "education": "school",
+      "email": "scoalanr15_pitesti@yahoo.com",
+      "grades": "0-8",
+      "name": "Școala Gimnazială „Adrian Păunescu”",
+      "phone": "+40 0248 287 676",
+      "start_date": "1977-09-01",
+      "website": "https://sc15pitesti.ro/"
+    }
   },
   {
     "id": "relation-1835650",
@@ -1756,8 +2948,19 @@
     "lat": 44.8575395,
     "lng": 24.8682424,
     "osmType": "relation",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Pitești",
+      "addr:housenumber": "14",
+      "addr:postcode": "110047",
+      "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+      "addr:street": "Strada Armand Călinescu",
+      "amenity": "school",
+      "building": "college",
+      "building:levels": "3",
+      "name": "Colegiul Național „Ion C. Brătianu\"",
+      "start_date": "1866",
+      "type": "multipolygon"
+    }
   },
   {
     "id": "relation-17731046",
@@ -1767,8 +2970,19 @@
     "lat": 44.8324278,
     "lng": 24.909726,
     "osmType": "relation",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "addr:city": "Pitești",
+      "addr:housenumber": "31",
+      "addr:postcode": "110180",
+      "addr:street": "Bulevardul Petrochimiștilor",
+      "amenity": "school",
+      "building": "school",
+      "email": "scoala18pitesti@yahoo.com",
+      "grades": "0-8",
+      "name": "Școala Gimnazială „Mircea Eliade”",
+      "type": "multipolygon",
+      "website": "https://scoalamirceaeliadepitesti.ro/"
+    }
   },
   {
     "id": "relation-17731047",
@@ -1778,7 +2992,10 @@
     "lat": 44.8314985,
     "lng": 24.9095745,
     "osmType": "relation",
-    "brand": null,
-    "operator": null
+    "tags": {
+      "amenity": "school",
+      "building": "yes",
+      "type": "multipolygon"
+    }
   }
 ]
