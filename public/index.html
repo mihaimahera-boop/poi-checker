@@ -556,8 +556,8 @@
         className: "",
         html: `
           <div style="
-            width: 30px;
-            height: 30px;
+            width: 32px;
+            height: 32px;
             border-radius: 50%;
             background: ${color};
             border: 2px solid #ffffff;
@@ -567,39 +567,58 @@
             justify-content: center;
             color: #ffffff;
             font-weight: 900;
-            font-size: 18px;
+            font-size: 19px;
             font-family: Arial, sans-serif;
             line-height: 1;
           ">${letter}</div>
         `,
-        iconSize: [30, 30],
-        iconAnchor: [15, 15],
-        popupAnchor: [0, -15]
+        iconSize: [32, 32],
+        iconAnchor: [16, 16],
+        popupAnchor: [0, -16]
       });
     }
 
     const greenIcon = dotIcon("#13a144", 16);
-const bigGreenIcon = dotIcon("#13a144", 24);
-const yellowIcon = dotIcon("#facc15", 18);
+    const bigGreenIcon = dotIcon("#13a144", 24);
+    const yellowIcon = dotIcon("#facc15", 18);
 
-const superbetIcon = letterIcon("S", "#d60000");
-const bettingIcon = letterIcon("P", "#111827");
-const gamingIcon = letterIcon("J", "#7c3aed");
+    const superbetIcon = letterIcon("S", "#d60000");
+    const bettingIcon = letterIcon("P", "#111827");
+    const gamingIcon = letterIcon("J", "#7c3aed");
 
-const schoolPoiIcon = letterIcon("S", "#2563eb");
-const churchPoiIcon = letterIcon("B", "#f59e0b");
-const medicalPoiIcon = letterIcon("M", "#16a34a");
+    const schoolPoiIcon = letterIcon("Ș", "#2563eb");
+    const churchPoiIcon = letterIcon("B", "#f59e0b");
+    const medicalPoiIcon = letterIcon("M", "#16a34a");
+
+    function cleanText(value) {
+      return String(value || "")
+        .toLowerCase()
+        .normalize("NFD")
+        .replace(/[\u0300-\u036f]/g, "");
+    }
+
+    function poiSearchText(poi) {
+      const tags = poi?.tags || {};
+
+      return cleanText([
+        poi?.name,
+        poi?.brand,
+        poi?.operator,
+        poi?.category,
+        poi?.type,
+        tags.name,
+        tags.brand,
+        tags.operator,
+        tags.alt_name,
+        tags["official_name"],
+        tags["name:ro"],
+        tags["brand:wikidata"],
+        tags["operator:wikidata"]
+      ].join(" "));
+    }
 
     function isSuperbetPoi(poi) {
-      const name = String(poi?.name || "").toLowerCase();
-      const brand = String(poi?.brand || poi?.tags?.brand || "").toLowerCase();
-      const operator = String(poi?.operator || poi?.tags?.operator || "").toLowerCase();
-
-      return (
-        name.includes("superbet") ||
-        brand.includes("superbet") ||
-        operator.includes("superbet")
-      );
+      return poiSearchText(poi).includes("superbet");
     }
 
     function clearMapLayers() {
@@ -699,23 +718,21 @@ const medicalPoiIcon = letterIcon("M", "#16a34a");
     }
 
     function normalizeCategory(poi) {
-      const type = String(poi.type || "").toLowerCase();
-      const category = String(poi.category || "").toLowerCase();
-      const subcategory = String(poi.subcategory || "").toLowerCase();
+      const type = cleanText(poi.type);
+      const category = cleanText(poi.category);
+      const subcategory = cleanText(poi.subcategory);
 
       const tags = poi.tags || {};
-      const amenity = String(tags.amenity || "").toLowerCase();
-      const healthcare = String(tags.healthcare || "").toLowerCase();
-      const shop = String(tags.shop || "").toLowerCase();
-      const office = String(tags.office || "").toLowerCase();
-      const leisure = String(tags.leisure || "").toLowerCase();
+      const amenity = cleanText(tags.amenity);
+      const healthcare = cleanText(tags.healthcare);
+      const shop = cleanText(tags.shop);
+      const office = cleanText(tags.office);
+      const leisure = cleanText(tags.leisure);
+      const text = poiSearchText(poi);
 
-      const brand = String(poi.brand || tags.brand || "").toLowerCase();
-      const operator = String(poi.operator || tags.operator || "").toLowerCase();
-      const name = String(poi.name || "").toLowerCase();
+      if (isSuperbetPoi(poi)) return "superbet";
 
       const bettingBrands = [
-        "superbet",
         "fortuna",
         "casa pariurilor",
         "stanleybet",
@@ -734,13 +751,8 @@ const medicalPoiIcon = letterIcon("M", "#16a34a");
         "magnum"
       ];
 
-      const isBettingBrand = bettingBrands.some((b) =>
-        name.includes(b) || brand.includes(b) || operator.includes(b)
-      );
-
-      const isGamingBrand = gamingBrands.some((b) =>
-        name.includes(b) || brand.includes(b) || operator.includes(b)
-      );
+      const isBettingBrand = bettingBrands.some((b) => text.includes(cleanText(b)));
+      const isGamingBrand = gamingBrands.some((b) => text.includes(cleanText(b)));
 
       if (type === "school" || category === "school") return "school";
       if (type === "church" || category === "church") return "church";
@@ -782,6 +794,7 @@ const medicalPoiIcon = letterIcon("M", "#16a34a");
       const churches = [];
       const medical = [];
       const betting = [];
+      const superbet = [];
       const gaming = [];
 
       for (const poi of pois) {
@@ -791,16 +804,17 @@ const medicalPoiIcon = letterIcon("M", "#16a34a");
         if (!isFinite(lat) || !isFinite(lon)) continue;
 
         const normalized = normalizeCategory(poi);
-        const item = { ...poi, lat, lon };
+        const item = { ...poi, lat, lon, normalizedCategory: normalized };
 
         if (normalized === "school") schools.push(item);
         if (normalized === "church") churches.push(item);
         if (normalized === "medical") medical.push(item);
         if (normalized === "betting") betting.push(item);
+        if (normalized === "superbet") superbet.push(item);
         if (normalized === "gaming") gaming.push(item);
       }
 
-      return { schools, churches, medical, betting, gaming };
+      return { schools, churches, medical, betting, superbet, gaming };
     }
 
     function getNearestPoi(baseLat, baseLon, list) {
@@ -1147,18 +1161,20 @@ const medicalPoiIcon = letterIcon("M", "#16a34a");
       const nearbyRadius = Number(zoneRadius.value);
 
       const poiData = await loadPoi(city);
-      const { schools, churches, medical, betting, gaming } = splitPois(poiData.pois || []);
+      const { schools, churches, medical, betting, superbet, gaming } = splitPois(poiData.pois || []);
+
+      const allBetting = [...superbet, ...betting];
 
       const nearestSchoolItem = getNearestPoi(lat, lon, schools);
       const nearestChurchItem = getNearestPoi(lat, lon, churches);
       const nearestMedicalItem = getNearestPoi(lat, lon, medical);
-      const nearestBettingItem = getNearestPoi(lat, lon, betting);
+      const nearestBettingItem = getNearestPoi(lat, lon, allBetting);
       const nearestGamingItem = getNearestPoi(lat, lon, gaming);
 
       const schoolsInThreshold = filterInsideThreshold(lat, lon, schools, schoolT);
       const churchesInThreshold = filterInsideThreshold(lat, lon, churches, churchT);
       const medicalInThreshold = filterInsideThreshold(lat, lon, medical, medicalT);
-      const nearbyBetting = filterInsideThreshold(lat, lon, betting, nearbyRadius);
+      const nearbyBetting = filterInsideThreshold(lat, lon, allBetting, nearbyRadius);
       const nearbyGaming = filterInsideThreshold(lat, lon, gaming, nearbyRadius);
 
       const schoolOk = schoolsInThreshold.length === 0;
@@ -1192,7 +1208,8 @@ const medicalPoiIcon = letterIcon("M", "#16a34a");
         `Școli: ${schools.length}\n` +
         `Biserici: ${churches.length}\n` +
         `Medical: ${medical.length}\n` +
-        `Pariuri: ${betting.length}\n` +
+        `Superbet: ${superbet.length}\n` +
+        `Pariuri: ${allBetting.length}\n` +
         `Gaming / casino: ${gaming.length}\n` +
         `Cea mai apropiată casă pariuri: ${nearestBettingItem ? formatMeters(nearestBettingItem.distance) : "-"}\n` +
         `Cea mai apropiată sală jocuri: ${nearestGamingItem ? formatMeters(nearestGamingItem.distance) : "-"}`;
@@ -1214,9 +1231,9 @@ const medicalPoiIcon = letterIcon("M", "#16a34a");
       addForbiddenZones(schools, churches, medical, schoolT, churchT, medicalT);
       addPoiMarkers(schoolsInThreshold, churchesInThreshold, medicalInThreshold, nearbyBetting, nearbyGaming);
 
-      addNearestMarker(nearestSchoolItem, "Cel mai apropiat POI școală");
-      addNearestMarker(nearestChurchItem, "Cel mai apropiat POI biserică");
-      addNearestMarker(nearestMedicalItem, "Cel mai apropiat POI medical");
+      addNearestMarker(nearestSchoolItem, "Cel mai apropiat POI școală", schoolPoiIcon);
+      addNearestMarker(nearestChurchItem, "Cel mai apropiat POI biserică", churchPoiIcon);
+      addNearestMarker(nearestMedicalItem, "Cel mai apropiat POI medical", medicalPoiIcon);
 
       if (nearestBettingItem) {
         addNearestMarker(
