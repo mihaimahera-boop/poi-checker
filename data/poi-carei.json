@@ -1,605 +1,1737 @@
-{
-  "city": "Carei",
-  "generated_at": "2026-04-23T09:37:43.872Z",
-  "counts": {
-    "total": 36,
-    "schools": 15,
-    "churches": 21
-  },
-  "pois": [
-    {
-      "id": "node/1081234385",
-      "osm_id": 1081234385,
-      "osm_type": "node",
-      "name": "G.P.P. nr. 2 Corp C",
-      "category": "education",
-      "lat": 47.6860421,
-      "lon": 22.4717764,
-      "tags": {
-        "addr:city": "Carei",
-        "addr:postcode": "445100",
-        "amenity": "kindergarten",
-        "name": "G.P.P. nr. 2 Corp C",
-        "name:ro": "G.P.P. nr. 2 Corp C"
-      }
-    },
-    {
-      "id": "node/1081234419",
-      "osm_id": 1081234419,
-      "osm_type": "node",
-      "name": "Școala Vasile Lucaciu",
-      "category": "education",
-      "lat": 47.6860348,
-      "lon": 22.470918,
-      "tags": {
-        "addr:city": "Carei",
-        "addr:postcode": "445100",
-        "amenity": "school",
-        "name": "Școala Vasile Lucaciu",
-        "name:hu": "Vasile Lucaciu Iskola",
-        "name:ro": "Școala Vasile Lucaciu"
-      }
-    },
-    {
-      "id": "node/4145075039",
-      "osm_id": 4145075039,
-      "osm_type": "node",
-      "name": "Liceul Teoretic Carei",
-      "category": "education",
-      "lat": 47.679666,
-      "lon": 22.4664808,
-      "tags": {
-        "addr:housenumber": "20",
-        "addr:postcode": "445100",
-        "addr:street": "Strada Ignișului",
-        "amenity": "college",
-        "contact:facebook": "LTCarei",
-        "email": "teoretic_carei@yahoo.com",
-        "name": "Liceul Teoretic Carei",
-        "name:hu": "Nagykárolyi Elméleti Liceum",
-        "website": "http://www.liceulteoreticcarei.ro"
-      }
-    },
-    {
-      "id": "node/4145075040",
-      "osm_id": 4145075040,
-      "osm_type": "node",
-      "name": "Liceul teologic Josephus Calasantius",
-      "category": "education",
-      "lat": 47.6892803,
-      "lon": 22.4645124,
-      "tags": {
-        "addr:housenumber": "1",
-        "addr:street": "Strada Iuliu Maniu",
-        "amenity": "college",
-        "check_date": "2025-08-23",
-        "name": "Liceul teologic Josephus Calasantius",
-        "name:hu": "Kalazanci Szent József Római Katolikus Líceum",
-        "name:ro": "Liceul teologic Josephus Calasantius"
-      }
-    },
-    {
-      "id": "node/4145075042",
-      "osm_id": 4145075042,
-      "osm_type": "node",
-      "name": "Sala de sport Liceul teoretic Carei",
-      "category": "education",
-      "lat": 47.6801806,
-      "lon": 22.466301,
-      "tags": {
-        "amenity": "college",
-        "name": "Sala de sport Liceul teoretic Carei",
-        "name:hu": "Nagykárolyi Elméleti Líceum, Tornaterem"
-      }
-    },
-    {
-      "id": "node/9711403217",
-      "osm_id": 9711403217,
-      "osm_type": "node",
-      "name": "Liceul Teoretic Carei",
-      "category": "education",
-      "lat": 47.6798958,
-      "lon": 22.4679771,
-      "tags": {
-        "addr:housenumber": "20",
-        "addr:postcode": "445100",
-        "addr:street": "Strada Ignișului",
-        "amenity": "school",
-        "contact:facebook": "LTCarei",
-        "email": "teoretic_carei@yahoo.com",
-        "name": "Liceul Teoretic Carei",
-        "name:hu": "Nagykárolyi Elméleti Liceum",
-        "opening_hours": "Mo-Fr 07:00-15:00",
-        "survey:date": "2022-05-03",
-        "website": "http://www.liceulteoreticcarei.ro"
-      }
-    },
-    {
-      "id": "node/10951529306",
-      "osm_id": 10951529306,
-      "osm_type": "node",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 47.6808926,
-      "lon": 22.4683133,
-      "tags": {
-        "amenity": "kindergarten",
-        "survey:date": "2023-06-04"
-      }
-    },
-    {
-      "id": "way/175996708",
-      "osm_id": 175996708,
-      "osm_type": "way",
-      "name": "Grupul Școlar Simion Bărnuțiu",
-      "category": "education",
-      "lat": 47.6845384,
-      "lon": 22.4608164,
-      "tags": {
-        "addr:housenumber": "12",
-        "addr:street": "Strada Rakoczy Ferencz",
-        "amenity": "college",
-        "building": "college",
-        "name": "Grupul Școlar Simion Bărnuțiu"
-      }
-    },
-    {
-      "id": "way/413138977",
-      "osm_id": 413138977,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 47.6797387,
-      "lon": 22.4674305,
-      "tags": {
-        "building": "school"
-      }
-    },
-    {
-      "id": "way/413139023",
-      "osm_id": 413139023,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 47.6797795,
-      "lon": 22.4665993,
-      "tags": {
-        "building": "school"
-      }
-    },
-    {
-      "id": "way/413139055",
-      "osm_id": 413139055,
-      "osm_type": "way",
-      "name": "Școala Nr. 3",
-      "category": "education",
-      "lat": 47.6799522,
-      "lon": 22.4679406,
-      "tags": {
-        "building": "school",
-        "building:levels": "3",
-        "name": "Școala Nr. 3"
-      }
-    },
-    {
-      "id": "way/413176455",
-      "osm_id": 413176455,
-      "osm_type": "way",
-      "name": "Grădinița cu Program Prelungit Nr. 1",
-      "category": "education",
-      "lat": 47.6852499,
-      "lon": 22.4627675,
-      "tags": {
-        "addr:city": "Carei",
-        "addr:street": "Strada Progres",
-        "building": "kindergarten",
-        "name": "Grădinița cu Program Prelungit Nr. 1"
-      }
-    },
-    {
-      "id": "way/413176584",
-      "osm_id": 413176584,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 47.6769053,
-      "lon": 22.4702592,
-      "tags": {
-        "addr:housenumber": "27",
-        "addr:street": "Tireamului",
-        "building": "kindergarten"
-      }
-    },
-    {
-      "id": "way/413309878",
-      "osm_id": 413309878,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "education",
-      "lat": 47.6857991,
-      "lon": 22.4715722,
-      "tags": {
-        "addr:city": "Carei",
-        "amenity": "kindergarten"
-      }
-    },
-    {
-      "id": "relation/2350269",
-      "osm_id": 2350269,
-      "osm_type": "relation",
-      "name": "Liceul Iuliu Maniu",
-      "category": "education",
-      "lat": 47.6881003,
-      "lon": 22.4673976,
-      "tags": {
-        "addr:city": "Carei",
-        "amenity": "college",
-        "building": "yes",
-        "name": "Liceul Iuliu Maniu",
-        "type": "multipolygon"
-      }
-    },
-    {
-      "id": "node/1865697322",
-      "osm_id": 1865697322,
-      "osm_type": "node",
-      "name": "Fără nume",
-      "category": "place_of_worship",
-      "lat": 47.6928145,
-      "lon": 22.4701995,
-      "tags": {
-        "amenity": "place_of_worship",
-        "denomination": "romanian_orthodox",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "node/1981696931",
-      "osm_id": 1981696931,
-      "osm_type": "node",
-      "name": "Biserica Ianculești",
-      "category": "place_of_worship",
-      "lat": 47.6310722,
-      "lon": 22.4208522,
-      "tags": {
-        "amenity": "place_of_worship",
-        "denomination": "orthodox",
-        "name": "Biserica Ianculești",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "node/13142038001",
-      "osm_id": 13142038001,
-      "osm_type": "node",
-      "name": "Nagykároly-kertvárosi Református Egyházközség",
-      "category": "place_of_worship",
-      "lat": 47.6772171,
-      "lon": 22.4641479,
-      "tags": {
-        "addr:city": "Carei",
-        "addr:housenumber": "18",
-        "addr:postcode": "445100",
-        "addr:street": "Strada Nuferilor",
-        "amenity": "place_of_worship",
-        "contact:facebook": "100064347023420",
-        "denomination": "reformed",
-        "email": "nagykaroly.kertvaros@gmail.com",
-        "name": "Nagykároly-kertvárosi Református Egyházközség",
-        "name:hu": "Nagykároly-kertvárosi Református Egyházközség",
-        "opening_hours": "Mo, We-Th 09:00-13:00; Tu, Fr 09:00-13:00, 15:00-17:00; Sa 10:00-12:00; Su 10:30-12:00",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "node/13456663752",
-      "osm_id": 13456663752,
-      "osm_type": "node",
-      "name": "Biserica Baptistă Emanuel",
-      "category": "place_of_worship",
-      "lat": 47.6871962,
-      "lon": 22.4575196,
-      "tags": {
-        "addr:city": "Carei",
-        "addr:housenumber": "87",
-        "addr:street": "Strada Petőfi Sándor",
-        "amenity": "place_of_worship",
-        "denomination": "baptist",
-        "facebook": "https://www.facebook.com/EmanuelCarei/",
-        "name": "Biserica Baptistă Emanuel",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/176009986",
-      "osm_id": 176009986,
-      "osm_type": "way",
-      "name": "Cimitir - Carei",
-      "category": "place_of_worship",
-      "lat": 47.6936956,
-      "lon": 22.4710983,
-      "tags": {
-        "addr:city": "Carei",
-        "addr:postcode": "445100",
-        "landuse": "cemetery",
-        "name": "Cimitir - Carei",
-        "name:hu": "Rozália temető",
-        "name:ro": "Cimitir - Carei",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/176009990",
-      "osm_id": 176009990,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "place_of_worship",
-      "lat": 47.6775404,
-      "lon": 22.4686012,
-      "tags": {
-        "addr:city": "Carei",
-        "addr:postcode": "445100",
-        "landuse": "cemetery",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/413138958",
-      "osm_id": 413138958,
-      "osm_type": "way",
-      "name": "Biserica Sf. Iosif",
-      "category": "place_of_worship",
-      "lat": 47.689464,
-      "lon": 22.4622635,
-      "tags": {
-        "addr:city": "Carei",
-        "addr:postcode": "445100",
-        "amenity": "place_of_worship",
-        "building": "church",
-        "check_date": "2024-05-21",
-        "denomination": "roman_catholic",
-        "name": "Biserica Sf. Iosif",
-        "name:hu": "Kalazanci Szent József-templom",
-        "name:ro": "Biserica Sf. Iosif",
-        "religion": "christian",
-        "url:miserend": "http://miserend.hu/templom/4635"
-      }
-    },
-    {
-      "id": "way/413138994",
-      "osm_id": 413138994,
-      "osm_type": "way",
-      "name": "Catedrala Ortodoxă",
-      "category": "place_of_worship",
-      "lat": 47.6825614,
-      "lon": 22.4702559,
-      "tags": {
-        "addr:city": "Carei",
-        "addr:postcode": "445100",
-        "amenity": "place_of_worship",
-        "building": "cathedral",
-        "denomination": "romanian_orthodox",
-        "image": "https://photos.app.goo.gl/eeMurYayc2ZiN6zHA",
-        "name": "Catedrala Ortodoxă",
-        "name:ro": "Catedrala Ortodoxă",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/413139019",
-      "osm_id": 413139019,
-      "osm_type": "way",
-      "name": "Biserica Sfântul Duh",
-      "category": "place_of_worship",
-      "lat": 47.6813441,
-      "lon": 22.4622214,
-      "tags": {
-        "amenity": "place_of_worship",
-        "building": "church",
-        "denomination": "roman_catholic",
-        "name": "Biserica Sfântul Duh",
-        "name:hu": "Szentlélek templom",
-        "religion": "christian",
-        "survey:date": "2023-06-04",
-        "url:miserend": "http://miserend.hu/templom/4659"
-      }
-    },
-    {
-      "id": "way/413176366",
-      "osm_id": 413176366,
-      "osm_type": "way",
-      "name": "Capela",
-      "category": "place_of_worship",
-      "lat": 47.67815,
-      "lon": 22.4692527,
-      "tags": {
-        "amenity": "place_of_worship",
-        "building": "church",
-        "name": "Capela",
-        "religion": "christian",
-        "survey:date": "2023-06-12"
-      }
-    },
-    {
-      "id": "way/413176372",
-      "osm_id": 413176372,
-      "osm_type": "way",
-      "name": "Biserica Greco-Catolică",
-      "category": "place_of_worship",
-      "lat": 47.6792141,
-      "lon": 22.4686507,
-      "tags": {
-        "amenity": "place_of_worship",
-        "building": "church",
-        "denomination": "catholic",
-        "name": "Biserica Greco-Catolică",
-        "religion": "christian",
-        "survey:date": "2022-05-05"
-      }
-    },
-    {
-      "id": "way/413176373",
-      "osm_id": 413176373,
-      "osm_type": "way",
-      "name": "Biserica Reformată Maghiară",
-      "category": "place_of_worship",
-      "lat": 47.6850471,
-      "lon": 22.4602291,
-      "tags": {
-        "amenity": "place_of_worship",
-        "building": "yes",
-        "denomination": "reformed",
-        "name": "Biserica Reformată Maghiară",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/413176381",
-      "osm_id": 413176381,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "place_of_worship",
-      "lat": 47.6831668,
-      "lon": 22.475507,
-      "tags": {
-        "addr:city": "Carei",
-        "addr:postcode": "445100",
-        "addr:street": "Strada Mihai Viteazul",
-        "alt_name:hu": "Fatimai Szűz Mária-templom",
-        "amenity": "place_of_worship",
-        "building": "church",
-        "denomination": "roman_catholic",
-        "name:hu": "Rózsafüzér Királynéja-templom       (Carei - Fatimai Szűz Mária-templom",
-        "religion": "christian",
-        "url:miserend": "http://miserend.hu/templom/4636"
-      }
-    },
-    {
-      "id": "way/413176566",
-      "osm_id": 413176566,
-      "osm_type": "way",
-      "name": "Sinagoga din Carei",
-      "category": "place_of_worship",
-      "lat": 47.6851097,
-      "lon": 22.4633768,
-      "tags": {
-        "amenity": "place_of_worship",
-        "building": "yes",
-        "name": "Sinagoga din Carei",
-        "religion": "jewish",
-        "wikidata": "Q12740900",
-        "wikipedia": "ro:Sinagoga din Carei"
-      }
-    },
-    {
-      "id": "way/413176639",
-      "osm_id": 413176639,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "place_of_worship",
-      "lat": 47.6873181,
-      "lon": 22.4675193,
-      "tags": {
-        "addr:city": "Carei",
-        "addr:postcode": "445100",
-        "amenity": "place_of_worship",
-        "building": "yes",
-        "denomination": "greek_catholic",
-        "image": "https://photos.app.goo.gl/FLmLwAjPNCPtDmXL6",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/413176822",
-      "osm_id": 413176822,
-      "osm_type": "way",
-      "name": "Biserica Sfinții Arhangheli",
-      "category": "place_of_worship",
-      "lat": 47.6870505,
-      "lon": 22.4674026,
-      "tags": {
-        "addr:city": "Carei",
-        "addr:postcode": "445100",
-        "amenity": "place_of_worship",
-        "building": "yes",
-        "denomination": "romanian_orthodox",
-        "image": "https://photos.app.goo.gl/FLmLwAjPNCPtDmXL6",
-        "name": "Biserica Sfinții Arhangheli",
-        "name:hu": "Szent Arkangyalok-templom",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/414337442",
-      "osm_id": 414337442,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "place_of_worship",
-      "lat": 47.692815,
-      "lon": 22.4702237,
-      "tags": {
-        "building": "church",
-        "denomination": "roman_catholic"
-      }
-    },
-    {
-      "id": "way/415444189",
-      "osm_id": 415444189,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "place_of_worship",
-      "lat": 47.6776122,
-      "lon": 22.4588592,
-      "tags": {
-        "amenity": "place_of_worship",
-        "building": "church",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/417599521",
-      "osm_id": 417599521,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "place_of_worship",
-      "lat": 47.6894591,
-      "lon": 22.4762361,
-      "tags": {
-        "amenity": "place_of_worship",
-        "building": "church",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/853492697",
-      "osm_id": 853492697,
-      "osm_type": "way",
-      "name": "Capela din Kigye",
-      "category": "place_of_worship",
-      "lat": 47.6281971,
-      "lon": 22.3975534,
-      "tags": {
-        "amenity": "place_of_worship",
-        "building": "yes",
-        "name": "Capela din Kigye",
-        "religion": "christian"
-      }
-    },
-    {
-      "id": "way/1372111008",
-      "osm_id": 1372111008,
-      "osm_type": "way",
-      "name": "Fără nume",
-      "category": "place_of_worship",
-      "lat": 47.6616597,
-      "lon": 22.4920354,
-      "tags": {
-        "amenity": "place_of_worship",
-        "building": "chapel",
-        "denomination": "roman_catholic",
-        "name:hu": "Szentháromság-kápolna",
-        "religion": "christian"
-      }
+[
+  {
+    "id": "node-860220866",
+    "name": "Școala Petrești",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 47.6052356,
+    "lng": 22.3633825,
+    "osmType": "node",
+    "tags": {
+      "amenity": "school",
+      "name": "Școala Petrești",
+      "name:de": "Schule Petrifeld"
     }
-  ]
-}
+  },
+  {
+    "id": "node-1081234268",
+    "name": "Fără nume",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 47.680698,
+    "lng": 22.4634168,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Carei",
+      "addr:postcode": "445100",
+      "amenity": "hospital",
+      "healthcare": "hospital"
+    }
+  },
+  {
+    "id": "node-1081234385",
+    "name": "G.P.P. nr. 2 Corp C",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 47.6860421,
+    "lng": 22.4717764,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Carei",
+      "addr:postcode": "445100",
+      "amenity": "kindergarten",
+      "name": "G.P.P. nr. 2 Corp C",
+      "name:ro": "G.P.P. nr. 2 Corp C"
+    }
+  },
+  {
+    "id": "node-1081234419",
+    "name": "Școala Vasile Lucaciu",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 47.6860348,
+    "lng": 22.470918,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Carei",
+      "addr:postcode": "445100",
+      "amenity": "school",
+      "name": "Școala Vasile Lucaciu",
+      "name:hu": "Vasile Lucaciu Iskola",
+      "name:ro": "Școala Vasile Lucaciu"
+    }
+  },
+  {
+    "id": "node-1738186277",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 47.761534,
+    "lng": 22.3831637,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Vállaj",
+      "addr:postcode": "4351",
+      "amenity": "school"
+    }
+  },
+  {
+    "id": "node-1865697322",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.6928145,
+    "lng": 22.4701995,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "romanian_orthodox",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-1865805651",
+    "name": "Biserica Reformată Berveni",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.7555013,
+    "lng": 22.4727944,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "reformed",
+      "name": "Biserica Reformată Berveni",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-1975601619",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.5278797,
+    "lng": 22.451997,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-1975664729",
+    "name": "Biserica Hotoan",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.5549896,
+    "lng": 22.4853704,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Hotoan",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-1978512238",
+    "name": "Capela Ortodoxă Ghilești",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.5401238,
+    "lng": 22.5796187,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Capela Ortodoxă Ghilești",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-1979759869",
+    "name": "Biserica Romano-Catolică",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.6865742,
+    "lng": 22.5998414,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Moftinu Mic",
+      "amenity": "place_of_worship",
+      "denomination": "roman_catholic",
+      "name": "Biserica Romano-Catolică",
+      "name:hu": "Nepomuki Szent János-templom",
+      "religion": "christian",
+      "url:miserend": "https://miserend.hu/templom/4666"
+    }
+  },
+  {
+    "id": "node-1979807801",
+    "name": "Biserica Greco-Catolică Domănești",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.7141026,
+    "lng": 22.5868115,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "greek_catholic",
+      "name": "Biserica Greco-Catolică Domănești",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-1979807981",
+    "name": "Biserica romano-catolică \"Sf. Anton\"",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.711943,
+    "lng": 22.5027708,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Căpleni",
+      "addr:postcode": "447080",
+      "addr:street": "Nagy Utca",
+      "amenity": "place_of_worship",
+      "denomination": "roman_catholic",
+      "name": "Biserica romano-catolică \"Sf. Anton\"",
+      "name:de": "Römisch-katholische Kirche \"Sankt Anton\"",
+      "name:ro": "Biserica romano-catolică \"Sf. Anton\"",
+      "religion": "christian",
+      "url:miserend": "https://miserend.hu/templom/3559",
+      "website": "http://kaplonyibaratok.ro/"
+    }
+  },
+  {
+    "id": "node-1979808279",
+    "name": "Biserica Catolică Lucăceni",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.7417033,
+    "lng": 22.4690033,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Lucăceni",
+      "amenity": "place_of_worship",
+      "denomination": "catholic",
+      "name": "Biserica Catolică Lucăceni",
+      "name:ro": "Biserica Catolică Lucăceni",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-1979808282",
+    "name": "Biserica reformată Domănești",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.712814,
+    "lng": 22.5892363,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Domănești",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "reformed",
+      "name": "Biserica reformată Domănești",
+      "name:ro": "Biserica reformată Domănești",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-1979833800",
+    "name": "Biserica Romano-Catolică Urziceni",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.7361466,
+    "lng": 22.4003781,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "roman_catholic",
+      "name": "Biserica Romano-Catolică Urziceni",
+      "name:hu": "Szent Kereszt megtalálása templom",
+      "religion": "christian",
+      "url:miserend": "https://miserend.hu/templom/4638"
+    }
+  },
+  {
+    "id": "node-1981695969",
+    "name": "Biserica Marna Nouă",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.6597248,
+    "lng": 22.3922172,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Marna Nouă",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-1981696003",
+    "name": "Biserica Vezendiu",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.5738071,
+    "lng": 22.4314038,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Vezendiu",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-1981696449",
+    "name": "Biserica Catolică Tiream",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.6147936,
+    "lng": 22.4723496,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "roman_catholic",
+      "name": "Biserica Catolică Tiream",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-1981696931",
+    "name": "Biserica Ianculești",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.6310722,
+    "lng": 22.4208522,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Ianculești",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-1981697053",
+    "name": "Biserica Ortodoxă Tiream",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.6127802,
+    "lng": 22.473971,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă Tiream",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-1981734689",
+    "name": "Biserica Catolică Dindești",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.5346341,
+    "lng": 22.3811185,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "catholic",
+      "name": "Biserica Catolică Dindești",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-1981734796",
+    "name": "Biserica Irina",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.5507376,
+    "lng": 22.4056066,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Irina",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-1981763920",
+    "name": "Biserica Protestantă",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.6299596,
+    "lng": 22.5271252,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Ghenci",
+      "amenity": "place_of_worship",
+      "denomination": "protestant",
+      "name": "Biserica Protestantă",
+      "name:hu": "Templom",
+      "name:ro": "Biserica",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-1981763979",
+    "name": "Biserica Greco-Catolică Rădulești",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.6017685,
+    "lng": 22.5666819,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "greek_catholic",
+      "name": "Biserica Greco-Catolică Rădulești",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-1983336363",
+    "name": "Biserica Ortodoxă Sânmiclăuș",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.6352539,
+    "lng": 22.6038196,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă Sânmiclăuș",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-1983336587",
+    "name": "Biserica Reformată Sânmiclăuș",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.6383987,
+    "lng": 22.605397,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "reformed",
+      "name": "Biserica Reformată Sânmiclăuș",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-3260332789",
+    "name": "Reflexoterapeut Trif Gheorghe",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 47.686076,
+    "lng": 22.4735416,
+    "osmType": "node",
+    "tags": {
+      "amenity": "doctors",
+      "name": "Reflexoterapeut Trif Gheorghe",
+      "name:en": "Reflexotherapy",
+      "phone": "+407491019105"
+    }
+  },
+  {
+    "id": "node-4145075039",
+    "name": "Liceul Teoretic Carei",
+    "type": "school",
+    "subcategory": "college",
+    "lat": 47.679666,
+    "lng": 22.4664808,
+    "osmType": "node",
+    "tags": {
+      "addr:housenumber": "20",
+      "addr:postcode": "445100",
+      "addr:street": "Strada Ignișului",
+      "amenity": "college",
+      "contact:facebook": "LTCarei",
+      "email": "teoretic_carei@yahoo.com",
+      "name": "Liceul Teoretic Carei",
+      "name:hu": "Nagykárolyi Elméleti Liceum",
+      "website": "http://www.liceulteoreticcarei.ro"
+    }
+  },
+  {
+    "id": "node-4145075040",
+    "name": "Liceul teologic Josephus Calasantius",
+    "type": "school",
+    "subcategory": "college",
+    "lat": 47.6892803,
+    "lng": 22.4645124,
+    "osmType": "node",
+    "tags": {
+      "addr:housenumber": "1",
+      "addr:street": "Strada Iuliu Maniu",
+      "amenity": "college",
+      "check_date": "2025-08-23",
+      "name": "Liceul teologic Josephus Calasantius",
+      "name:hu": "Kalazanci Szent József Római Katolikus Líceum",
+      "name:ro": "Liceul teologic Josephus Calasantius"
+    }
+  },
+  {
+    "id": "node-4145075042",
+    "name": "Sala de sport Liceul teoretic Carei",
+    "type": "school",
+    "subcategory": "college",
+    "lat": 47.6801806,
+    "lng": 22.466301,
+    "osmType": "node",
+    "tags": {
+      "amenity": "college",
+      "name": "Sala de sport Liceul teoretic Carei",
+      "name:hu": "Nagykárolyi Elméleti Líceum, Tornaterem"
+    }
+  },
+  {
+    "id": "node-4148752966",
+    "name": "Școala Generală Gheorghe Bulgar Sanislau",
+    "type": "school",
+    "subcategory": "college",
+    "lat": 47.6375469,
+    "lng": 22.3249021,
+    "osmType": "node",
+    "tags": {
+      "amenity": "college",
+      "name": "Școala Generală Gheorghe Bulgar Sanislau"
+    }
+  },
+  {
+    "id": "node-4712500803",
+    "name": "Biserica Greco-Catolică „Sfântul Anton de Padova”",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.7098828,
+    "lng": 22.5046521,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Căpleni",
+      "addr:postcode": "447080",
+      "addr:street": "Nagy Utca",
+      "amenity": "place_of_worship",
+      "denomination": "greek_catholic",
+      "name": "Biserica Greco-Catolică „Sfântul Anton de Padova”",
+      "name:de": "Griechisch-katholische Kirche",
+      "name:hu": "Görög katolikus templom",
+      "name:ro": "Biserica Greco-Catolică „Sfântul Anton de Padova”",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-4712500822",
+    "name": "Școala gimazială \"Fényi István\"",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 47.7048622,
+    "lng": 22.4965726,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Căpleni",
+      "addr:housenumber": "96",
+      "addr:postcode": "447080",
+      "addr:street": "Strada Principală",
+      "amenity": "school",
+      "education": "school",
+      "name": "Școala gimazială \"Fényi István\"",
+      "name:de": "\"Fényi István\" Grundschule",
+      "name:hu": "\"Fényi István\" Általános Iskola",
+      "name:ro": "Școala gimazială \"Fényi István\""
+    }
+  },
+  {
+    "id": "node-4712500829",
+    "name": "Biserica reformată",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.7075055,
+    "lng": 22.4978205,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Căpleni",
+      "addr:postcode": "447080",
+      "addr:street": "Strada Maghiară",
+      "amenity": "place_of_worship",
+      "name": "Biserica reformată",
+      "name:de": "Reformiert-Protestantische Kirche",
+      "name:hu": "Református Templom",
+      "name:ro": "Biserica reformata",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-4712500830",
+    "name": "Grădiniță",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 47.7051548,
+    "lng": 22.4971192,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Căpleni",
+      "addr:postcode": "447080",
+      "addr:street": "Strada Principală",
+      "amenity": "kindergarten",
+      "education": "kindergarten",
+      "name": "Grădiniță",
+      "name:hu": "Óvoda",
+      "name:ro": "Grădiniță"
+    }
+  },
+  {
+    "id": "node-4712500831",
+    "name": "Stația medicală",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 47.7053591,
+    "lng": 22.4974178,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Kaplony",
+      "addr:postcode": "447080",
+      "addr:street": "Fő Utca",
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "name": "Stația medicală",
+      "name:de": "Ärztepraxis",
+      "name:hu": "Orvosi Rendelő",
+      "name:ro": "Statia medicala"
+    }
+  },
+  {
+    "id": "node-4712500832",
+    "name": "Biserica Sfântul Iosif",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.7016428,
+    "lng": 22.4911983,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Kaplony",
+      "addr:postcode": "447080",
+      "addr:street": "Fő Utca",
+      "amenity": "place_of_worship",
+      "denomination": "roman_catholic",
+      "name": "Biserica Sfântul Iosif",
+      "name:de": "\"St. Josef\" Römisch-katholische Kirche",
+      "name:hu": "Szent József templom",
+      "name:ro": "Biserica Sfântul Iosif",
+      "religion": "christian",
+      "url:miserend": "https://miserend.hu/templom/3562"
+    }
+  },
+  {
+    "id": "node-8442571117",
+    "name": "Biserica Romano-Catolică",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.7153818,
+    "lng": 22.5868511,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "roman_catholic",
+      "name": "Biserica Romano-Catolică",
+      "name:hu": "Szent Család templom",
+      "religion": "christian",
+      "url:miserend": "https://miserend.hu/templom/4667"
+    }
+  },
+  {
+    "id": "node-8628417764",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet",
+    "lat": 47.6836176,
+    "lng": 22.4732798,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Carei",
+      "addr:postcode": "445100",
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "name:ro": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-8628418186",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet",
+    "lat": 47.679992,
+    "lng": 22.470592,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Carei",
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-9711403217",
+    "name": "Liceul Teoretic Carei",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 47.6798958,
+    "lng": 22.4679771,
+    "osmType": "node",
+    "tags": {
+      "addr:housenumber": "20",
+      "addr:postcode": "445100",
+      "addr:street": "Strada Ignișului",
+      "amenity": "school",
+      "contact:facebook": "LTCarei",
+      "email": "teoretic_carei@yahoo.com",
+      "name": "Liceul Teoretic Carei",
+      "name:hu": "Nagykárolyi Elméleti Liceum",
+      "opening_hours": "Mo-Fr 07:00-15:00",
+      "survey:date": "2022-05-03",
+      "website": "http://www.liceulteoreticcarei.ro"
+    }
+  },
+  {
+    "id": "node-9711409317",
+    "name": "Fără nume",
+    "type": "betting",
+    "subcategory": "gambling",
+    "lat": 47.6793182,
+    "lng": 22.4655443,
+    "osmType": "node",
+    "tags": {
+      "amenity": "gambling",
+      "survey:date": "2022-05-03"
+    }
+  },
+  {
+    "id": "node-10951529306",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 47.6808926,
+    "lng": 22.4683133,
+    "osmType": "node",
+    "tags": {
+      "amenity": "kindergarten",
+      "survey:date": "2023-06-04"
+    }
+  },
+  {
+    "id": "node-11586576858",
+    "name": "Affidea",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 47.6807608,
+    "lng": 22.4652171,
+    "osmType": "node",
+    "tags": {
+      "amenity": "clinic",
+      "contact:email": "carei@affidea.com",
+      "contact:phone": "+40 261 863 224",
+      "contact:website": "https://affidea.ro/",
+      "name": "Affidea",
+      "opening_hours": "Mo-Fr 08:00-16:00"
+    }
+  },
+  {
+    "id": "node-13142038001",
+    "name": "Nagykároly-kertvárosi Református Egyházközség",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.6772171,
+    "lng": 22.4641479,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Carei",
+      "addr:housenumber": "18",
+      "addr:postcode": "445100",
+      "addr:street": "Strada Nuferilor",
+      "amenity": "place_of_worship",
+      "contact:facebook": "100064347023420",
+      "denomination": "reformed",
+      "email": "nagykaroly.kertvaros@gmail.com",
+      "name": "Nagykároly-kertvárosi Református Egyházközség",
+      "name:hu": "Nagykároly-kertvárosi Református Egyházközség",
+      "opening_hours": "Mo, We-Th 09:00-13:00; Tu, Fr 09:00-13:00, 15:00-17:00; Sa 10:00-12:00; Su 10:30-12:00",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-13456663752",
+    "name": "Biserica Baptistă Emanuel",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.6871962,
+    "lng": 22.4575196,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Carei",
+      "addr:housenumber": "87",
+      "addr:street": "Strada Petőfi Sándor",
+      "amenity": "place_of_worship",
+      "denomination": "baptist",
+      "facebook": "https://www.facebook.com/EmanuelCarei/",
+      "name": "Biserica Baptistă Emanuel",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-175996708",
+    "name": "Grupul Școlar Simion Bărnuțiu",
+    "type": "school",
+    "subcategory": "college",
+    "lat": 47.6845384,
+    "lng": 22.4608164,
+    "osmType": "way",
+    "tags": {
+      "addr:housenumber": "12",
+      "addr:street": "Strada Rakoczy Ferencz",
+      "amenity": "college",
+      "building": "college",
+      "name": "Grupul Școlar Simion Bărnuțiu"
+    }
+  },
+  {
+    "id": "way-372373970",
+    "name": "Szent Erzsébet-templom",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.8151889,
+    "lng": 22.4067274,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "roman_catholic",
+      "name": "Szent Erzsébet-templom",
+      "religion": "christian",
+      "url:miserend": "http://miserend.hu/templom/1789"
+    }
+  },
+  {
+    "id": "way-372373986",
+    "name": "Szent Péter és Pál-templom",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.7814204,
+    "lng": 22.3795229,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "roman_catholic",
+      "name": "Szent Péter és Pál-templom",
+      "religion": "christian",
+      "url:miserend": "http://miserend.hu/?templom=1385"
+    }
+  },
+  {
+    "id": "way-372753371",
+    "name": "Szentlélek-templom",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.7604163,
+    "lng": 22.3828085,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Vállaj",
+      "addr:housenumber": "10",
+      "addr:postcode": "4351",
+      "addr:street": "Temető utca",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "contact:phone": "+36 44 355 283",
+      "denomination": "roman_catholic",
+      "name": "Szentlélek-templom",
+      "religion": "christian",
+      "url:miserend": "http://miserend.hu/?templom=1772"
+    }
+  },
+  {
+    "id": "way-374042993",
+    "name": "Szent Kereszt felmagasztalása-templom",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.8149856,
+    "lng": 22.4051845,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "greek_catholic",
+      "name": "Szent Kereszt felmagasztalása-templom",
+      "religion": "christian",
+      "source": "MapBox Satellite",
+      "url:miserend": "http://miserend.hu/?templom=3962"
+    }
+  },
+  {
+    "id": "way-374043000",
+    "name": "Szentháromság-kápolna",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.7809265,
+    "lng": 22.375717,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "chapel",
+      "denomination": "greek_catholic",
+      "name": "Szentháromság-kápolna",
+      "religion": "christian",
+      "url:miserend": "http://miserend.hu/?templom=3960"
+    }
+  },
+  {
+    "id": "way-374937293",
+    "name": "Istenszülő elszenderedése-templom",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.8065156,
+    "lng": 22.6263086,
+    "osmType": "way",
+    "tags": {
+      "alt_name": "Görögkatolikus templom",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "greek_catholic",
+      "name": "Istenszülő elszenderedése-templom",
+      "religion": "christian",
+      "url:miserend": "http://miserend.hu/?templom=3701"
+    }
+  },
+  {
+    "id": "way-375394954",
+    "name": "Szentháromság-templom",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.8185927,
+    "lng": 22.6033973,
+    "osmType": "way",
+    "tags": {
+      "alt_name": "Urai görögkatolikus templom",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "greek_catholic",
+      "name": "Szentháromság-templom",
+      "religion": "christian",
+      "url:miserend": "http://miserend.hu/?templom=3957"
+    }
+  },
+  {
+    "id": "way-378324792",
+    "name": "Biserica Sfânta Elisabeta",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.6043524,
+    "lng": 22.3624442,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "roman_catholic",
+      "name": "Biserica Sfânta Elisabeta",
+      "name:hu": "Árpád-házi Szent Erzsébet-templom",
+      "religion": "christian",
+      "url:miserend": "http://miserend.hu/?templom=4663"
+    }
+  },
+  {
+    "id": "way-380426534",
+    "name": "Nagyboldogasszony-kápolna",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.806197,
+    "lng": 22.625158,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "chapel",
+      "denomination": "roman_catholic",
+      "name": "Nagyboldogasszony-kápolna",
+      "religion": "christian",
+      "url:miserend": "http://miserend.hu/?templom=2026"
+    }
+  },
+  {
+    "id": "way-381785929",
+    "name": "Biserica Sfântul Mihail",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.6970636,
+    "lng": 22.3847962,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "roman_catholic",
+      "name": "Biserica Sfântul Mihail",
+      "name:de": "Sankt-Michaels-Kirche",
+      "name:hu": "Szent Mihály arkangyal templom",
+      "religion": "christian",
+      "url:miserend": "http://miserend.hu/?templom=4641"
+    }
+  },
+  {
+    "id": "way-383154808",
+    "name": "Biserica Sfântul Vendelin",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.5771182,
+    "lng": 22.3504722,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "roman_catholic",
+      "name": "Biserica Sfântul Vendelin",
+      "name:hu": "Szent Vendel templom",
+      "religion": "christian",
+      "url:miserend": "http://miserend.hu/?templom=4661"
+    }
+  },
+  {
+    "id": "way-404981838",
+    "name": "Biserica Reformată",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.641317,
+    "lng": 22.3263957,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "reformed",
+      "name": "Biserica Reformată",
+      "name:hu": "Reformatus templom",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-404982791",
+    "name": "Biserica Catolică Sanislău",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.6411562,
+    "lng": 22.3280494,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "roman_catholic",
+      "name": "Biserica Catolică Sanislău",
+      "name:hu": "Kisboldogasszony-templom",
+      "religion": "christian",
+      "url:miserend": "https://miserend.hu/templom/4668"
+    }
+  },
+  {
+    "id": "way-404988375",
+    "name": "Biserica Ortodoxa Sf. Arh Mihail si Gavril Sanislau",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.634917,
+    "lng": 22.3242175,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica Ortodoxa Sf. Arh Mihail si Gavril Sanislau",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-413138955",
+    "name": "Policlinica Carei",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 47.6810566,
+    "lng": 22.4650552,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Carei",
+      "amenity": "hospital",
+      "building": "yes",
+      "healthcare": "hospital",
+      "name": "Policlinica Carei"
+    }
+  },
+  {
+    "id": "way-413138956",
+    "name": "Policlinica Carei",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 47.6809047,
+    "lng": 22.4656404,
+    "osmType": "way",
+    "tags": {
+      "amenity": "hospital",
+      "building": "yes",
+      "healthcare": "hospital",
+      "name": "Policlinica Carei"
+    }
+  },
+  {
+    "id": "way-413138957",
+    "name": "Policlinica Carei",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 47.6812894,
+    "lng": 22.4655652,
+    "osmType": "way",
+    "tags": {
+      "amenity": "hospital",
+      "building": "yes",
+      "healthcare": "hospital",
+      "name": "Policlinica Carei"
+    }
+  },
+  {
+    "id": "way-413138958",
+    "name": "Biserica Sf. Iosif",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.689464,
+    "lng": 22.4622635,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Carei",
+      "addr:postcode": "445100",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "check_date": "2024-05-21",
+      "denomination": "roman_catholic",
+      "name": "Biserica Sf. Iosif",
+      "name:hu": "Kalazanci Szent József-templom",
+      "name:ro": "Biserica Sf. Iosif",
+      "religion": "christian",
+      "url:miserend": "http://miserend.hu/templom/4635"
+    }
+  },
+  {
+    "id": "way-413138994",
+    "name": "Catedrala Ortodoxă",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.6825614,
+    "lng": 22.4702559,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Carei",
+      "addr:postcode": "445100",
+      "amenity": "place_of_worship",
+      "building": "cathedral",
+      "denomination": "romanian_orthodox",
+      "image": "https://photos.app.goo.gl/eeMurYayc2ZiN6zHA",
+      "name": "Catedrala Ortodoxă",
+      "name:ro": "Catedrala Ortodoxă",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-413139019",
+    "name": "Biserica Sfântul Duh",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.6813441,
+    "lng": 22.4622214,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "roman_catholic",
+      "name": "Biserica Sfântul Duh",
+      "name:hu": "Szentlélek templom",
+      "religion": "christian",
+      "survey:date": "2023-06-04",
+      "url:miserend": "http://miserend.hu/templom/4659"
+    }
+  },
+  {
+    "id": "way-413176366",
+    "name": "Capela",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.67815,
+    "lng": 22.4692527,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "name": "Capela",
+      "religion": "christian",
+      "survey:date": "2023-06-12"
+    }
+  },
+  {
+    "id": "way-413176372",
+    "name": "Biserica Greco-Catolică",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.6792141,
+    "lng": 22.4686507,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "catholic",
+      "name": "Biserica Greco-Catolică",
+      "religion": "christian",
+      "survey:date": "2022-05-05"
+    }
+  },
+  {
+    "id": "way-413176373",
+    "name": "Biserica Reformată Maghiară",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.6850471,
+    "lng": 22.4602291,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "reformed",
+      "name": "Biserica Reformată Maghiară",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-413176381",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.6831668,
+    "lng": 22.475507,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Carei",
+      "addr:postcode": "445100",
+      "addr:street": "Strada Mihai Viteazul",
+      "alt_name:hu": "Fatimai Szűz Mária-templom",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "roman_catholic",
+      "name:hu": "Rózsafüzér Királynéja-templom       (Carei - Fatimai Szűz Mária-templom",
+      "religion": "christian",
+      "url:miserend": "http://miserend.hu/templom/4636"
+    }
+  },
+  {
+    "id": "way-413176566",
+    "name": "Sinagoga din Carei",
+    "type": "church",
+    "subcategory": "jewish",
+    "lat": 47.6851097,
+    "lng": 22.4633768,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "name": "Sinagoga din Carei",
+      "religion": "jewish",
+      "wikidata": "Q12740900",
+      "wikipedia": "ro:Sinagoga din Carei"
+    }
+  },
+  {
+    "id": "way-413176639",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.6873181,
+    "lng": 22.4675193,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Carei",
+      "addr:postcode": "445100",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "greek_catholic",
+      "image": "https://photos.app.goo.gl/FLmLwAjPNCPtDmXL6",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-413176822",
+    "name": "Biserica Sfinții Arhangheli",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.6870505,
+    "lng": 22.4674026,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Carei",
+      "addr:postcode": "445100",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "image": "https://photos.app.goo.gl/FLmLwAjPNCPtDmXL6",
+      "name": "Biserica Sfinții Arhangheli",
+      "name:hu": "Szent Arkangyalok-templom",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-413309878",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 47.6857991,
+    "lng": 22.4715722,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Carei",
+      "amenity": "kindergarten"
+    }
+  },
+  {
+    "id": "way-413579416",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "college",
+    "lat": 47.6378462,
+    "lng": 22.3249261,
+    "osmType": "way",
+    "tags": {
+      "amenity": "college",
+      "landuse": "grass"
+    }
+  },
+  {
+    "id": "way-413580328",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "college",
+    "lat": 47.6373921,
+    "lng": 22.3247387,
+    "osmType": "way",
+    "tags": {
+      "amenity": "college"
+    }
+  },
+  {
+    "id": "way-413580329",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "college",
+    "lat": 47.6374922,
+    "lng": 22.3254064,
+    "osmType": "way",
+    "tags": {
+      "amenity": "college"
+    }
+  },
+  {
+    "id": "way-415444189",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.6776122,
+    "lng": 22.4588592,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-417599521",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.6894591,
+    "lng": 22.4762361,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-418907075",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "place_of_worship",
+    "lat": 47.6417316,
+    "lng": 22.3388598,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "catholic"
+    }
+  },
+  {
+    "id": "way-418907225",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.6426764,
+    "lng": 22.3351999,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-444626298",
+    "name": "Biserica Greco-Catolică Căuaș",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.5698197,
+    "lng": 22.544036,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Căuaș",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "greek_catholic",
+      "name": "Biserica Greco-Catolică Căuaș",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-444626299",
+    "name": "Biserica Catolică Căuaș",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.5678719,
+    "lng": 22.5451097,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "catholic",
+      "name": "Biserica Catolică Căuaș",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-444635016",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.5756121,
+    "lng": 22.5523045,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-538871993",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.8050342,
+    "lng": 22.6231133,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "reformed",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-824801755",
+    "name": "Református templom",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.8184242,
+    "lng": 22.6064813,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "reformed",
+      "name": "Református templom",
+      "religion": "christian",
+      "source": "turistautak.hu",
+      "url": "http://turistautak.hu/poi.php?id=139788"
+    }
+  },
+  {
+    "id": "way-844412117",
+    "name": "Biserica Romano-Catolică",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.6147896,
+    "lng": 22.4723366,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "roman_catholic",
+      "name": "Biserica Romano-Catolică",
+      "name:hu": "Szent Kereszt felmagasztalása templom",
+      "religion": "christian",
+      "url:miserend": "https://miserend.hu/templom/4665"
+    }
+  },
+  {
+    "id": "way-853492697",
+    "name": "Capela din Kigye",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.6281971,
+    "lng": 22.3975534,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "name": "Capela din Kigye",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-904737562",
+    "name": "Református templom",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.8148124,
+    "lng": 22.4106181,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "reformed",
+      "name": "Református templom",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-904738517",
+    "name": "Református templom",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.7816303,
+    "lng": 22.3794669,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "reformed",
+      "name": "Református templom",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-908976659",
+    "name": "Biserica Romano-Catolica",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.7513467,
+    "lng": 22.4699732,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "roman_catholic",
+      "name": "Biserica Romano-Catolica",
+      "name:hu": "Tizennégy Segítő Szent templom",
+      "religion": "christian",
+      "url:miserend": "https://miserend.hu/templom/4637"
+    }
+  },
+  {
+    "id": "way-909234975",
+    "name": "Biserica Romano-Catolica",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.663894,
+    "lng": 22.339,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "roman_catholic",
+      "name": "Biserica Romano-Catolica",
+      "name:hu": "Szent István király templom",
+      "religion": "christian",
+      "url:miserend": "https://miserend.hu/templom/4660"
+    }
+  },
+  {
+    "id": "way-911338897",
+    "name": "Biserica Romano-Catolică Sfanta Ana",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.7288147,
+    "lng": 22.4771675,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "roman_catholic",
+      "name": "Biserica Romano-Catolică Sfanta Ana",
+      "name:hu": "Szent Anna templom",
+      "religion": "christian",
+      "url:miserend": "https://miserend.hu/templom/4640"
+    }
+  },
+  {
+    "id": "way-1067283320",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.5401009,
+    "lng": 22.5795825,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "religion": "christian",
+      "source": "microsoft/BuildingFootprints"
+    }
+  },
+  {
+    "id": "way-1319575740",
+    "name": "Szivárvány Óvoda",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 47.7815331,
+    "lng": 22.3771693,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Mérk",
+      "addr:housenumber": "15-17",
+      "addr:postcode": "4352",
+      "addr:street": "Béke utca",
+      "amenity": "kindergarten",
+      "building": "kindergarten",
+      "name": "Szivárvány Óvoda"
+    }
+  },
+  {
+    "id": "way-1372111008",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.6616597,
+    "lng": 22.4920354,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "chapel",
+      "denomination": "roman_catholic",
+      "name:hu": "Szentháromság-kápolna",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1394169312",
+    "name": "Orvosi rendelő és védőnői szolgálat",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 47.7821306,
+    "lng": 22.3793992,
+    "osmType": "way",
+    "tags": {
+      "amenity": "doctors",
+      "building": "yes",
+      "name": "Orvosi rendelő és védőnői szolgálat"
+    }
+  },
+  {
+    "id": "way-1415426624",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.6913732,
+    "lng": 22.5943531,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "romanian_orthodox",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1463939722",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.7075057,
+    "lng": 22.4978192,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "reformed",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "relation-2350269",
+    "name": "Liceul Iuliu Maniu",
+    "type": "school",
+    "subcategory": "college",
+    "lat": 47.6881003,
+    "lng": 22.4673976,
+    "osmType": "relation",
+    "tags": {
+      "addr:city": "Carei",
+      "amenity": "college",
+      "building": "yes",
+      "name": "Liceul Iuliu Maniu",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "id": "relation-18106057",
+    "name": "Mérk-Vállaj Német Nemzetiségi Általános Iskola",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 47.7816598,
+    "lng": 22.3765342,
+    "osmType": "relation",
+    "tags": {
+      "addr:city": "Mérk",
+      "addr:housenumber": "19",
+      "addr:postcode": "4352",
+      "addr:street": "Béke utca",
+      "amenity": "school",
+      "building": "school",
+      "name": "Mérk-Vállaj Német Nemzetiségi Általános Iskola",
+      "type": "multipolygon"
+    }
+  }
+]

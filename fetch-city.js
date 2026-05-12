@@ -10,7 +10,7 @@ const OVERPASS_URLS = [
 const NOMINATIM_URL = "https://nominatim.openstreetmap.org/search";
 
 // MODIFICI DOAR ORAȘUL AICI
-const CITY_NAME = "București";
+const CITY_NAME = "Carei";
 
 function slugify(value = "") {
   return value
