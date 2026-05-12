@@ -22759,6 +22759,19 @@
     }
   },
   {
+    "id": "node-13819980999",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet",
+    "lat": 44.4340651,
+    "lng": 26.0091466,
+    "osmType": "node",
+    "tags": {
+      "amenity": "gambling",
+      "name": "Superbet"
+    }
+  },
+  {
     "id": "way-23556091",
     "name": "Institutul Medico-Militar",
     "type": "school",
