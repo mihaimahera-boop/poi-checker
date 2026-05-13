@@ -1,0 +1,443 @@
+[
+  {
+    "id": "node-5295837535",
+    "name": "Schitul Cuvioasa Sfânta Paraschieva",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.1458923,
+    "lng": 21.1612869,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Schitul Cuvioasa Sfânta Paraschieva",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-8628417556",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet Betting & Gaming SA",
+    "lat": 46.170819,
+    "lng": 21.067218,
+    "osmType": "node",
+    "tags": {
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-9352864324",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.2573993,
+    "lng": 21.1204455,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-13343115539",
+    "name": "Biserica Reformată",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.2483642,
+    "lng": 20.9507727,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "reformed",
+      "name": "Biserica Reformată",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-327435295",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "place_of_worship",
+    "lat": 46.2916789,
+    "lng": 21.178941,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Variașu Mic",
+      "addr:housenumber": "13",
+      "addr:postcode": "317202",
+      "amenity": "place_of_worship",
+      "building": "yes"
+    }
+  },
+  {
+    "id": "way-329492572",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.2758001,
+    "lng": 21.1705952,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Variașu Mare",
+      "addr:postcode": "317201",
+      "amenity": "school"
+    }
+  },
+  {
+    "id": "way-372523639",
+    "name": "Szentháromság-templom",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.2854813,
+    "lng": 21.0216184,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Battonya",
+      "addr:housenumber": "1",
+      "addr:postcode": "5830",
+      "addr:street": "Hősök tere",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "check_date": "2026-02-28",
+      "contact:phone": "+36 68 456 070",
+      "contact:website": "http://plebaniabattonya.hu",
+      "denomination": "roman_catholic",
+      "name": "Szentháromság-templom",
+      "religion": "christian",
+      "url:miserend": "http://miserend.hu/?templom=1554"
+    }
+  },
+  {
+    "id": "way-375138234",
+    "name": "Szent György-templom",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.2886936,
+    "lng": 21.0220615,
+    "osmType": "way",
+    "tags": {
+      "alt_name": "Görögkatolikus templom",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "greek_catholic",
+      "name": "Szent György-templom",
+      "religion": "christian",
+      "url:miserend": "http://miserend.hu/?templom=3880"
+    }
+  },
+  {
+    "id": "way-437262729",
+    "name": "Szentháromság-templom",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.1564992,
+    "lng": 21.0618981,
+    "osmType": "way",
+    "tags": {
+      "addr:street": "2",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "roman_catholic",
+      "height": "49",
+      "name": "Szentháromság-templom",
+      "name:hu": "Szentháromság templom",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-545247587",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.1398965,
+    "lng": 21.027166,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "orthodox",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-553314986",
+    "name": "Biserica ortodoxa Pecica II",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.1708914,
+    "lng": 21.0704931,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "romanian_orthodox",
+      "name": "Biserica ortodoxa Pecica II",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-560925253",
+    "name": "Eben-Ezer",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.1664275,
+    "lng": 21.0739468,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Pecica",
+      "addr:street": "2",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "pentecostal",
+      "name": "Eben-Ezer",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-560927763",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.1636952,
+    "lng": 21.0706541,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Pecica",
+      "addr:postcode": "317235",
+      "addr:street": "2",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-570550844",
+    "name": "Szent György Román Ortodox templom",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.2889613,
+    "lng": 21.0177171,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Battonya",
+      "addr:housenumber": "42",
+      "addr:postcode": "5830",
+      "addr:street": "Hunyadi János utca",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "romanian_orthodox",
+      "name": "Szent György Román Ortodox templom",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-570550845",
+    "name": "Battonyai Szerb Ortodox templom",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.2874574,
+    "lng": 21.0180021,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Battonya",
+      "addr:housenumber": "56",
+      "addr:postcode": "5830",
+      "addr:street": "Hunyadi János utca",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "serbian_orthodox",
+      "name": "Battonyai Szerb Ortodox templom",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-570553092",
+    "name": "Mikes Kelemen Gimnázium",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.2856337,
+    "lng": 21.0236541,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Battonya",
+      "addr:housenumber": "72",
+      "addr:postcode": "5830",
+      "addr:street": "Fő utca",
+      "amenity": "school",
+      "name": "Mikes Kelemen Gimnázium",
+      "ref:HU:om": "201601/001",
+      "website": "https://mikesk-battonya.edu.hu/"
+    }
+  },
+  {
+    "id": "way-587649653",
+    "name": "Szerb Általános Iskola és Óvoda",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.2876378,
+    "lng": 21.0179521,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Battonya",
+      "addr:housenumber": "56",
+      "addr:postcode": "5830",
+      "addr:street": "Hunyadi János utca",
+      "amenity": "school",
+      "denomination": "serbian_orthodox",
+      "name": "Szerb Általános Iskola és Óvoda",
+      "name:sr": "Српска православна школа",
+      "religion": "christian",
+      "start_date": "1896"
+    }
+  },
+  {
+    "id": "way-587705439",
+    "name": "Fără nume",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 46.2854987,
+    "lng": 21.0191885,
+    "osmType": "way",
+    "tags": {
+      "amenity": "clinic",
+      "building": "yes",
+      "healthcare": "clinic"
+    }
+  },
+  {
+    "id": "way-587705442",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.2844398,
+    "lng": 21.0190125,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Battonya",
+      "addr:housenumber": "11/A",
+      "addr:postcode": "5830",
+      "addr:street": "Hősök tere",
+      "amenity": "school"
+    }
+  },
+  {
+    "id": "way-587766452",
+    "name": "Református templom",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.2843134,
+    "lng": 21.0180463,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Battonya",
+      "addr:housenumber": "68",
+      "addr:postcode": "5830",
+      "addr:street": "Hunyadi János utca",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "reformed",
+      "name": "Református templom",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-587766466",
+    "name": "Magdu Lucian Román Általános Iskola és Óvoda",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.2861743,
+    "lng": 21.0152649,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Battonya",
+      "addr:postcode": "5830",
+      "amenity": "school",
+      "building": "school",
+      "loc_name": "Román iskola",
+      "name": "Magdu Lucian Román Általános Iskola és Óvoda"
+    }
+  },
+  {
+    "id": "way-588026726",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 46.2877264,
+    "lng": 21.0153626,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Battonya",
+      "addr:postcode": "5830",
+      "amenity": "kindergarten"
+    }
+  },
+  {
+    "id": "way-588026727",
+    "name": "Magdu Lucian Román Általános Iskola és Óvoda",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 46.2858618,
+    "lng": 21.015524,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Battonya",
+      "addr:postcode": "5830",
+      "amenity": "kindergarten",
+      "building": "kindergarten",
+      "loc_name": "Román óvoda",
+      "name": "Magdu Lucian Román Általános Iskola és Óvoda"
+    }
+  },
+  {
+    "id": "way-770608028",
+    "name": "Biserica ortodoxă română Pecica I",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.1620959,
+    "lng": 21.065471,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "name": "Biserica ortodoxă română Pecica I",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1013745333",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.2573131,
+    "lng": 21.1256681,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1454973892",
+    "name": "Școala Primară Peregu Mic",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 46.2462372,
+    "lng": 20.9489012,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school",
+      "name": "Școala Primară Peregu Mic"
+    }
+  }
+]

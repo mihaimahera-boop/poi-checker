@@ -1,0 +1,743 @@
+[
+  {
+    "id": "node-2363120870",
+    "name": "Biserica Livada",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.0020258,
+    "lng": 23.8472016,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Biserica Livada",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-2698027824",
+    "name": "Grupul Școlar Gherla",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 47.027935,
+    "lng": 23.9082219,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Gherla",
+      "amenity": "school",
+      "education": "school",
+      "name": "Grupul Școlar Gherla",
+      "source": "Bing, survey"
+    }
+  },
+  {
+    "id": "node-3068083162",
+    "name": "Biserica Hășdate",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.0077444,
+    "lng": 23.8775624,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "orthodox",
+      "name": "Biserica Hășdate",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-3601902626",
+    "name": "Biserica Ortodoxă",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9872693,
+    "lng": 23.8663497,
+    "osmType": "node",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "orthodox",
+      "name": "Biserica Ortodoxă",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "node-5124522223",
+    "name": "Cabinete Medici de Familie",
+    "type": "medical",
+    "subcategory": "doctors",
+    "lat": 47.0287496,
+    "lng": 23.9099225,
+    "osmType": "node",
+    "tags": {
+      "addr:housenumber": "7",
+      "addr:postcode": "405300",
+      "addr:street": "Strada Armenească",
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "internet_access": "wlan",
+      "name": "Cabinete Medici de Familie",
+      "phone": "0264241245"
+    }
+  },
+  {
+    "id": "node-8628418048",
+    "name": "Superbet",
+    "type": "betting",
+    "subcategory": "Superbet",
+    "lat": 47.0279924,
+    "lng": 23.9098147,
+    "osmType": "node",
+    "tags": {
+      "brand": "Superbet",
+      "brand:wikidata": "Q61082636",
+      "contact:email": "suport@superbet.ro",
+      "contact:facebook": "https://www.facebook.com/superbet.ro",
+      "contact:instagram": "https://www.instagram.com/superbetromania/",
+      "contact:phone": "+40 786 401 088",
+      "contact:twitter": "https://twitter.com/SuperbetRomania",
+      "contact:website": "https://www.superbet.ro/",
+      "name": "Superbet",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "Superbet Betting & Gaming SA",
+      "shop": "bookmaker"
+    }
+  },
+  {
+    "id": "node-9838171404",
+    "name": "Sinagogă din Gherla",
+    "type": "church",
+    "subcategory": "jewish",
+    "lat": 47.030999,
+    "lng": 23.9127714,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Gherla",
+      "addr:postcode": "405300",
+      "addr:street": "Strada Crișan",
+      "amenity": "place_of_worship",
+      "building": "synagogue",
+      "denomination": "jewish",
+      "name": "Sinagogă din Gherla",
+      "name:hu": "Szamosújvári zsinagóga",
+      "name:ro": "Sinagogă din Gherla",
+      "religion": "jewish",
+      "service_times": "closed",
+      "source": "Bing, survey",
+      "wikidata": "Q68697663",
+      "wikipedia": "ro:Sinagoga din Gherla"
+    }
+  },
+  {
+    "id": "node-10100183200",
+    "name": "Biserică Baptistă Maghiară Gherla",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.0292558,
+    "lng": 23.9026463,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Gherla",
+      "addr:housenumber": "2/D",
+      "addr:postcode": "405300",
+      "addr:street": "Strada Alexandru Vlahuță",
+      "air_conditioning": "no",
+      "amenity": "place_of_worship",
+      "denomination": "baptist",
+      "level": "0",
+      "name": "Biserică Baptistă Maghiară Gherla",
+      "name:hu": "Szamosújvári Magyar Baptista Gyülekezet",
+      "name:ro": "Biserică Baptistă Maghiară Gherla",
+      "religion": "christian",
+      "source": "survey;local knowledge"
+    }
+  },
+  {
+    "id": "node-13252830090",
+    "name": "Medlife",
+    "type": "medical",
+    "subcategory": "clinic",
+    "lat": 47.0238867,
+    "lng": 23.8989446,
+    "osmType": "node",
+    "tags": {
+      "addr:city": "Gherla",
+      "addr:street": "Strada Clujului",
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "name": "Medlife",
+      "name:ro": "Medlife"
+    }
+  },
+  {
+    "id": "way-216177252",
+    "name": "Biserica Sf. Treime",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.0230138,
+    "lng": 23.9016907,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Gherla",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "orthodox",
+      "name": "Biserica Sf. Treime",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-262327795",
+    "name": "Policlinica",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 47.0248929,
+    "lng": 23.9033298,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Gherla",
+      "amenity": "hospital",
+      "building": "yes",
+      "healthcare": "hospital",
+      "name": "Policlinica",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": "way-262328524",
+    "name": "Liceul Ana Ipătescu",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 47.0267408,
+    "lng": 23.90413,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Gherla",
+      "amenity": "school",
+      "barrier": "wall",
+      "education": "school",
+      "name": "Liceul Ana Ipătescu",
+      "name:hu": "Ana Ipătescu Középiskola",
+      "name:ro": "Liceul Ana Ipătescu",
+      "source": "Bing, survey"
+    }
+  },
+  {
+    "id": "way-262334197",
+    "name": "Liceul Petru Maior",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 47.0325749,
+    "lng": 23.9105482,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Gherla",
+      "amenity": "school",
+      "barrier": "fence",
+      "education": "school",
+      "name": "Liceul Petru Maior",
+      "name:hu": "Petru Major Középiskola",
+      "name:ro": "Liceul Petru Maior",
+      "source": "Bing, survey"
+    }
+  },
+  {
+    "id": "way-262337671",
+    "name": "Catedrala Armeano-Catolică",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.0276567,
+    "lng": 23.9071427,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Gherla",
+      "amenity": "place_of_worship",
+      "building": "cathedral",
+      "denomination": "roman_catholic",
+      "name": "Catedrala Armeano-Catolică",
+      "name:hu": "Szentháromság örmény templom",
+      "name:hy": "Հայ Կաթողիկե Մայր Տաճար",
+      "name:ro": "Catedrala Armeano-Catolică",
+      "religion": "christian",
+      "source": "Bing, survey",
+      "url:miserend": "http://miserend.hu/?templom=3423"
+    }
+  },
+  {
+    "id": "way-262338010",
+    "name": "Biserica Franciscană",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.0299001,
+    "lng": 23.9081226,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Gherla",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "roman_catholic",
+      "historic": "monastery",
+      "name": "Biserica Franciscană",
+      "name:hu": "Alkantarai Szent Péter templom",
+      "name:ro": "Biserica Franciscană",
+      "religion": "christian",
+      "source": "Bing, survey",
+      "url:miserend": "http://miserend.hu/?templom=3422"
+    }
+  },
+  {
+    "id": "way-262338185",
+    "name": "Biserica Sf. Nicolae",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.0295455,
+    "lng": 23.9067319,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Gherla",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "orthodox",
+      "name": "Biserica Sf. Nicolae",
+      "religion": "christian",
+      "source": "Bing, survey"
+    }
+  },
+  {
+    "id": "way-262338255",
+    "name": "Catedrala Ortodoxă",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.0318573,
+    "lng": 23.909252,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Gherla",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "orthodox",
+      "name": "Catedrala Ortodoxă",
+      "name:ro": "Catedrala Ortodoxă",
+      "religion": "christian",
+      "source": "Bing, survey"
+    }
+  },
+  {
+    "id": "way-262338322",
+    "name": "Biserica Greco-Catolică",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.028363,
+    "lng": 23.9128369,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Gherla",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "greek_catholic",
+      "name": "Biserica Greco-Catolică",
+      "religion": "christian",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": "way-262346085",
+    "name": "Biserica Armeană Solomon",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.026991,
+    "lng": 23.9101896,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "catholic",
+      "name": "Biserica Armeană Solomon",
+      "religion": "christian",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": "way-262348685",
+    "name": "Capela Ortodoxă",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.031718,
+    "lng": 23.927935,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "chapel",
+      "denomination": "orthodox",
+      "name": "Capela Ortodoxă",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-262349434",
+    "name": "Biserica Sfinții Împărați Constantin și Elena",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.0344383,
+    "lng": 23.9126722,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "orthodox",
+      "name": "Biserica Sfinții Împărați Constantin și Elena",
+      "religion": "christian",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": "way-262349440",
+    "name": "Capela ortodoxa",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.0370359,
+    "lng": 23.9102373,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "chapel",
+      "denomination": "orthodox",
+      "name": "Capela ortodoxa",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-262349441",
+    "name": "Capela Catolică",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.0352209,
+    "lng": 23.910025,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "chapel",
+      "denomination": "roman_catholic",
+      "name": "Capela Catolică",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-263616472",
+    "name": "Biserica Reformată",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.0275299,
+    "lng": 23.9095717,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "reformed",
+      "name": "Biserica Reformată",
+      "religion": "christian",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": "way-263616875",
+    "name": "Școala generală nr. 2",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 47.0275548,
+    "lng": 23.9100009,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Gherla",
+      "amenity": "school",
+      "education": "school",
+      "name": "Școala generală nr. 2",
+      "name:ro": "Școala generală nr. 2",
+      "source": "Bing, survey"
+    }
+  },
+  {
+    "id": "way-263617366",
+    "name": "Școala generală nr. 1",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 47.0315079,
+    "lng": 23.915293,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Gherla",
+      "amenity": "school",
+      "barrier": "fence",
+      "education": "school",
+      "name": "Școala generală nr. 1",
+      "source": "Bing, survey"
+    }
+  },
+  {
+    "id": "way-263617838",
+    "name": "Biserica Sf Paraschiva",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.0325178,
+    "lng": 23.9160125,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "orthodox",
+      "name": "Biserica Sf Paraschiva",
+      "religion": "christian",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": "way-264023787",
+    "name": "Biserica Sfântul Iosif",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.0261014,
+    "lng": 23.9056701,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "greek_catholic",
+      "name": "Biserica Sfântul Iosif",
+      "religion": "christian",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": "way-264024604",
+    "name": "Grădiniță",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 47.0269251,
+    "lng": 23.90545,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Gherla",
+      "amenity": "kindergarten",
+      "building": "yes",
+      "education": "kindergarten",
+      "name": "Grădiniță",
+      "source": "Bing, survey"
+    }
+  },
+  {
+    "id": "way-264070688",
+    "name": "Spitalul de copii",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 47.0284732,
+    "lng": 23.9065699,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Gherla",
+      "amenity": "hospital",
+      "building": "yes",
+      "healthcare": "hospital",
+      "name": "Spitalul de copii",
+      "name:ro": "Spitalul de copii",
+      "source": "Bing, survey"
+    }
+  },
+  {
+    "id": "way-264112432",
+    "name": "Sinagogă din Gherla",
+    "type": "church",
+    "subcategory": "jewish",
+    "lat": 47.0309809,
+    "lng": 23.9127949,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Gherla",
+      "addr:postcode": "405300",
+      "addr:street": "Strada Crișan",
+      "amenity": "place_of_worship",
+      "building": "synagogue",
+      "denomination": "jewish",
+      "name": "Sinagogă din Gherla",
+      "name:hu": "Szamosújvári zsinagóga",
+      "name:ro": "Sinagogă din Gherla",
+      "religion": "jewish",
+      "service_times": "closed",
+      "source": "Bing, survey",
+      "wikidata": "Q68697663",
+      "wikipedia": "ro:Sinagoga din Gherla"
+    }
+  },
+  {
+    "id": "way-264554533",
+    "name": "Grădiniță",
+    "type": "school",
+    "subcategory": "kindergarten",
+    "lat": 47.0298128,
+    "lng": 23.9035772,
+    "osmType": "way",
+    "tags": {
+      "amenity": "kindergarten",
+      "building": "yes",
+      "education": "kindergarten",
+      "name": "Grădiniță",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": "way-264746523",
+    "name": "Biserica Penticostală Speranța",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.0332942,
+    "lng": 23.9147076,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "pentecostal",
+      "name": "Biserica Penticostală Speranța",
+      "religion": "christian",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": "way-264864829",
+    "name": "Capela Sf Ioan",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.0241208,
+    "lng": 23.9037983,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Gherla",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Capela Sf Ioan",
+      "religion": "christian",
+      "source": "Bing, survey"
+    }
+  },
+  {
+    "id": "way-264869759",
+    "name": "Biserica Sf. Anton de Padova",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.0215948,
+    "lng": 23.914151,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "roman_catholic",
+      "name": "Biserica Sf. Anton de Padova",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-264869764",
+    "name": "Mănăstirea Sf. Anton de Padova",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.0219055,
+    "lng": 23.9140632,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Gherla",
+      "amenity": "place_of_worship",
+      "building": "no",
+      "denomination": "roman_catholic",
+      "name": "Mănăstirea Sf. Anton de Padova",
+      "name:ro": "Mănăstirea Sf. Anton de Padova",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-268839217",
+    "name": "Spitalul Municipal Gherla",
+    "type": "medical",
+    "subcategory": "hospital",
+    "lat": 47.0242928,
+    "lng": 23.9047575,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Gherla",
+      "amenity": "hospital",
+      "building": "no",
+      "emergency": "yes",
+      "healthcare": "hospital",
+      "name": "Spitalul Municipal Gherla",
+      "name:ro": "Spitalul Municipal Gherla"
+    }
+  },
+  {
+    "id": "way-1283591883",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 47.007739,
+    "lng": 23.8776137,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1283591884",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9990746,
+    "lng": 23.8463264,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1283591885",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9983607,
+    "lng": 23.8462252,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1380110893",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 47.0337131,
+    "lng": 23.9190389,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school",
+      "education": "school"
+    }
+  },
+  {
+    "id": "way-1450035082",
+    "name": "Fără nume",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 46.9896311,
+    "lng": 23.928081,
+    "osmType": "way",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "religion": "christian"
+    }
+  }
+]

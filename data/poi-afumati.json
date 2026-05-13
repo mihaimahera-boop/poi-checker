@@ -1,0 +1,75 @@
+[
+  {
+    "id": "way-1067161014",
+    "name": "Școala Gimnazială Siliștea Crucii",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.0418961,
+    "lng": 23.4776383,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school",
+      "name": "Școala Gimnazială Siliștea Crucii"
+    }
+  },
+  {
+    "id": "way-1317938580",
+    "name": "Biserica",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.0389381,
+    "lng": 23.4807629,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Siliștea Crucii",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "name": "Biserica",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1317944028",
+    "name": "Biserica Afumați",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 44.0035732,
+    "lng": 23.4793997,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Afumați",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "name": "Biserica Afumați",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1317973331",
+    "name": "Biserica Covei",
+    "type": "church",
+    "subcategory": "christian",
+    "lat": 43.9740143,
+    "lng": 23.4199944,
+    "osmType": "way",
+    "tags": {
+      "addr:city": "Covei",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "name": "Biserica Covei",
+      "religion": "christian"
+    }
+  },
+  {
+    "id": "way-1317978245",
+    "name": "Fără nume",
+    "type": "school",
+    "subcategory": "school",
+    "lat": 44.0043288,
+    "lng": 23.4772823,
+    "osmType": "way",
+    "tags": {
+      "amenity": "school"
+    }
+  }
+]
